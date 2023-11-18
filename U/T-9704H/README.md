@@ -1,4 +1,4 @@
-# Shinobi Legions (U)
+# Mortal Kombat Trilogy (U)
 
 ### Console Info
 
@@ -25,20 +25,20 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> SHINOBI LEGIONS
-- <b>Product Number:</b> T-2301H
+- <b>Game Name:</b> MK TRILOGY
+- <b>Product Number:</b> T-9704H
 - <b>Version:</b> V1.000
 - <b>Area Code:</b> U
-- <b>Peripheral Code:</b> J
+- <b>Peripheral Code:</b> JT
 
 ### Status
 
-- Playable :white_check_mark:
+- Issues :warning:
 
-### Extra Info
+### Problems
 
-Tested until Stage 3. It's needs a full gameplay test.
+- Randomly freezes before Credits Screen
 
 ### Evidence
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5N5PxQVanz8/0.jpg)](https://www.youtube.com/watch?v=5N5PxQVanz8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TQ35HhiHeFA/0.jpg)](https://www.youtube.com/watch?v=TQ35HhiHeFA)
