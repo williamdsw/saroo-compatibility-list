@@ -1,4 +1,4 @@
-# Shinobi Legions (U)
+# The King of Fighters '97 (J)
 
 ### Console Info
 
@@ -12,7 +12,7 @@
 - <b>Version:</b> 1.32F
 - <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
-  1. MCU: 231005, SS:231005, FPGA: 04
+  1. MCU: 000000, SS:231005, FPGA: 04
 
 ### SD Card Info
 
@@ -25,11 +25,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> SHINOBI LEGIONS
-- <b>Product Number:</b> T-2301H
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> U
-- <b>Peripheral Code:</b> J
+- <b>Game Name:</b> KOF '97
+- <b>Product Number:</b> T-3121G
+- <b>Version:</b> V1.001
+- <b>Area Code:</b> J
+- <b>Peripheral Code:</b> JW
 
 ### Status
 
@@ -37,8 +37,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Extra Info
 
-Tested until Stage 3. It's needs a full gameplay test.
+It needs tests with others caracters, and others modes (vs, etc).
 
 ### Evidence
 
-[![Shinobi Legions (U)](https://img.youtube.com/vi/5N5PxQVanz8/0.jpg)](https://www.youtube.com/watch?v=5N5PxQVanz8)
+[![The King of Fighters '97 (J)](https://img.youtube.com/vi/jpQxw7VGcC4/0.jpg)](https://www.youtube.com/watch?v=jpQxw7VGcC4)

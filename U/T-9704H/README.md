@@ -39,6 +39,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Randomly freezes before Credits Screen
 
+### Extra Info
+
+It needs tests with others caracters, and others modes (tournement, etc) and other 'prizes' after beating Shao Kahn.
+
 ### Evidence
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TQ35HhiHeFA/0.jpg)](https://www.youtube.com/watch?v=TQ35HhiHeFA)
+[![Mortal Kombat Trilogy (U)](https://img.youtube.com/vi/TQ35HhiHeFA/0.jpg)](https://www.youtube.com/watch?v=TQ35HhiHeFA)
