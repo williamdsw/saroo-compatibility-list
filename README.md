@@ -9,7 +9,10 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 ### Games
 
+- [Baroque (J)](./J/T-33901G/README.md)
 - [Batsugun (J)](./J/T-1248G/README.md)
+- [Deep Fear (E)](./E/MK-81804/README.md)
+- [Fatal Fury 3 - Road to the Final Victory (J)](./J/T-3102G/README.md)
 - [Final Fight Revenge (J)](./J/T-20605G/README.md)
 - [Mortal Kombat Trilogy (U)](./U/T-9704H/README.md)
 - [Shinobi Legions (U)](./U/T-2301H/README.md)
