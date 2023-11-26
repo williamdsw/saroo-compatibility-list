@@ -25,7 +25,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:<b> ELEVATOR ACTION RETURNS
+- <b>Game Name:</b> ELEVATOR ACTION RETURNS
 - <b>Product Number:</b> T-19903G
 - <b>Version:</b> V1.002
 - <b>Area Code:</b> J

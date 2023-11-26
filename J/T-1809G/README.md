@@ -25,7 +25,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:<b> HYPER DUEL
+- <b>Game Name:</b> HYPER DUEL
 - <b>Product Number:</b> T-1809G
 - <b>Version:</b> V1.001
 - <b>Area Code:</b> J

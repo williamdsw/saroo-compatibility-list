@@ -26,7 +26,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:<b> FINAL FIGHT REVENGE
+- <b>Game Name:</b> FINAL FIGHT REVENGE
 - <b>Product Number:</b> T-1248G
 - <b>Version:</b> V1.004
 - <b>Area Code:</b> J
