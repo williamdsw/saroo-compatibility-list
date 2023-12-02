@@ -22,6 +22,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 - [Deep Fear (E)](./E/MK-81804/README.md)
 - [Die Hard Arcade (U)](./U/MK-81057/README.md)
+- [Doom (U)](./U/T-25405H/README.md)
 
 #### E
 
@@ -50,6 +51,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### M
 
+- [Mega Man 8 (U)](./U/T-1216H/README.md)
 - [Mortal Kombat II (U)](./U/T-8103H/README.md)
 - [Mortal Kombat Trilogy (U)](./U/T-9704H/README.md)
 
@@ -59,6 +61,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### P
 
+- [Parodius (E)](./E/T-9501H-50/README.md)
+
 #### Q
 
 #### R
@@ -67,12 +71,15 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 - [Shinobi Legions (U)](./U/T-2301H/README.md)
 - [Sol Divide (J)](./J/T-14423G/README.md)
+- [Super Puzzle Fighter II Turbo (U)](./U/T-1215H/README.md)
 
 #### T
 
 - [The King of Fighters '97 (J)](./J/T-3121G/README.md)
 
 #### U
+
+- [Ultimate Mortal Kombat 3 (U)](./U/T-9701H/README.md)
 
 #### V
 
