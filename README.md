@@ -67,10 +67,16 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### R
 
+- [Rockman X3 (J)](./J/T-1210G/README.md)
+
 #### S
 
+- [Saturn Bomberman (U)](./U/MK-81070/README.md)
 - [Shinobi Legions (U)](./U/T-2301H/README.md)
 - [Sol Divide (J)](./J/T-14423G/README.md)
+- [Sonic Wings Special (J)](./J/T-26402G/README.md)
+- [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/README.md)
+- [Street Fighter Alpha 2 (U)](./U/T-1213H/README.md)
 - [Super Puzzle Fighter II Turbo (U)](./U/T-1215H/README.md)
 
 #### T
