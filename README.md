@@ -23,6 +23,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Deep Fear (E)](./E/MK-81804/01/README.md)
 - [Die Hard Arcade (U)](./U/MK-81057/01/README.md)
 - [Doom (U)](./U/T-25405H/01/README.md)
+- [DonPachi (J)](./J/T-14405G/01/README.md)
 
 #### E
 
@@ -67,16 +68,19 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### R
 
+- [Radiant Silvergun (J)](./J/T-32902G/01/README.md)
 - [Rockman X3 (J)](./J/T-1210G/01/README.md)
 
 #### S
 
 - [Saturn Bomberman (U)](./U/MK-81070/01/README.md)
+- [Sexy Parodius (J)](./J/T-9514G/01/README.md)
 - [Shinobi Legions (U)](./U/T-2301H/01/README.md)
 - [Sol Divide (J)](./J/T-14423G/01/README.md)
 - [Sonic Wings Special (J)](./J/T-26402G/01/README.md)
 - [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
 - [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
+- [Strikers 1945 (J)](./J/T-14407G/01/README.md)
 - [Super Puzzle Fighter II Turbo (U)](./U/T-1215H/01/README.md)
 
 #### T
@@ -90,6 +94,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### V
 
 #### X
+
+- [X-Men vs. Street Fighter (J)](./J/T-1226G/01/README.md)
 
 #### W
 
