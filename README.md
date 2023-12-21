@@ -22,8 +22,10 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 - [Deep Fear (E)](./E/MK-81804/01/README.md)
 - [Die Hard Arcade (U)](./U/MK-81057/01/README.md)
+- [DoDonPachi (J)](./J/T-14419G/01/README.md)
 - [Doom (U)](./U/T-25405H/01/README.md)
 - [DonPachi (J)](./J/T-14405G/01/README.md)
+- [Duke Nukem 3D (U)](./U/MK-81071/01/README.md)
 
 #### E
 
@@ -62,6 +64,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### P
 
+- [Panzer Dragoon (U)](./U/MK-81009/01/README.md)
+- [Panzer Dragoon II Zwei (U)](./U/MK-81022/01/README.md)
 - [Parodius (E)](./E/T-9501H-50/01/README.md)
 
 #### Q
@@ -85,6 +89,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### T
 
+- [The King of Fighters '96 (J)](./J/T-3108G/01/README.md)
 - [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
 
 #### U
