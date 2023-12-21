@@ -18,8 +18,11 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### C
 
+- [Crusader: No Remorse (U)](./U/T-5014H/01/README.md)
+
 #### D
 
+- [Daytona USA: Championship Circuit Edition (U)](./U/MK-81213/01/README.md)
 - [Deep Fear (E)](./E/MK-81804/01/README.md)
 - [Die Hard Arcade (U)](./U/MK-81057/01/README.md)
 - [DoDonPachi (J)](./J/T-14419G/01/README.md)
@@ -55,6 +58,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### M
 
 - [Mega Man 8 (U)](./U/T-1216H/01/README.md)
+- [Mega Man X4 (U)](./U/T-1219H/01/README.md)
 - [Mortal Kombat II (U)](./U/T-8103H/01/README.md)
 - [Mortal Kombat Trilogy (U)](./U/T-9704H/01/README.md)
 
@@ -82,6 +86,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Shinobi Legions (U)](./U/T-2301H/01/README.md)
 - [Sol Divide (J)](./J/T-14423G/01/README.md)
 - [Sonic Wings Special (J)](./J/T-26402G/01/README.md)
+- [Soviet Strike (U)](./U/T-5013H/01/README.md)
 - [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
 - [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
 - [Strikers 1945 (J)](./J/T-14407G/01/README.md)
@@ -91,6 +96,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 - [The King of Fighters '96 (J)](./J/T-3108G/01/README.md)
 - [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
+- [Tokyo Shadow (J)](./J/T-1110G/01/README.md)
 
 #### U
 
