@@ -8,7 +8,7 @@
 
 ### SAROO Info
 
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlEfAgf)
+- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
 - <b>Version:</b> 1.32F
 - <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
@@ -25,7 +25,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> STRIKERS 1945   ½Ä×²¶°½Þ 1945
+- <b>Game Name:</b> STRIKERS 1945 ½Ä×²¶°½Þ 1945
 - <b>Product Number:</b> T-14407G
 - <b>Version:</b> V1.01J
 - <b>Area Code:</b> J
