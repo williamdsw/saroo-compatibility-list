@@ -11,6 +11,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### A
 
+- [Andretti Racing (U)](./U/T-5020H/01/README.md)
+
 #### B
 
 - [Baroque (J)](./J/T-33901G/01/README.md)
@@ -18,6 +20,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### C
 
+- [Capcom Generation Vol.5 (J)](./J/T-1236G/01/README.md)
 - [Crusader: No Remorse (U)](./U/T-5014H/01/README.md)
 
 #### D
@@ -25,6 +28,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Daytona USA: Championship Circuit Edition (U)](./U/MK-81213/01/README.md)
 - [Deep Fear (E)](./E/MK-81804/01/README.md)
 - [Die Hard Arcade (U)](./U/MK-81057/01/README.md)
+- [Die Hard Trilogy (U)](./U/T-16103H/01/README.md)
 - [DoDonPachi (J)](./J/T-14419G/01/README.md)
 - [Doom (U)](./U/T-25405H/01/README.md)
 - [DonPachi (J)](./J/T-14405G/01/README.md)
@@ -40,6 +44,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Final Fight Revenge (J)](./J/T-20605G/01/README.md)
 
 #### G
+
+- [Grandia (J)](./J/T-4507G/01/README.md)
 
 #### H
 
@@ -57,8 +63,13 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### M
 
+- [Machine Head (U)](./U/T-7914H/01/README.md)
+- [Marvel Super Heroes (J)](./J/T-1215G/01/README.md)
+- [Marvel Super Heroes vs. Street Fighter (J)](./J/T-1238G/01/README.md)
 - [Mega Man 8 (U)](./U/T-1216H/01/README.md)
 - [Mega Man X4 (U)](./U/T-1219H/01/README.md)
+- [Minnesota Fats: Pool Legend (U)](./U/T-1302H/01/README.md)
+- [Mobile Suit Gundam (J)](./J/T-13303G/01/README.md)
 - [Mortal Kombat II (U)](./U/T-8103H/01/README.md)
 - [Mortal Kombat Trilogy (U)](./U/T-9704H/01/README.md)
 
@@ -77,7 +88,10 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### R
 
 - [Radiant Silvergun (J)](./J/T-32902G/01/README.md)
+- [Real Bout Fatal Fury Special (J)](./J/T-3119G/01/README.md)
+- [Revolution X - Music is the Weapon featuring Aerosmith (U)](./U/T-8107H/01/README.md)
 - [Rockman X3 (J)](./J/T-1210G/01/README.md)
+- [Rockman X4 (J)](./J/T-1221G/01/README.md)
 
 #### S
 
@@ -89,6 +103,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Soviet Strike (U)](./U/T-5013H/01/README.md)
 - [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
 - [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
+- [Street Fighter Collection (U)](./U/T-1222H/01/README.md)
 - [Strikers 1945 (J)](./J/T-14407G/01/README.md)
 - [Super Puzzle Fighter II Turbo (U)](./U/T-1215H/01/README.md)
 
