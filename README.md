@@ -17,15 +17,19 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 - [Baroque (J)](./J/T-33901G/01/README.md)
 - [Batsugun (J)](./J/T-1248G/01/README.md)
+- [Battle Garegga (J)](./J/T-10627G/01/README.md)
+- [Blast Wind (J)](./J/T-1810G/01/README.md)
 
 #### C
 
 - [Capcom Generation Vol.5 (J)](./J/T-1236G/01/README.md)
+- [Christmas NiGHTS into Dreams (U)](./U/MK-81067/01/README.md)
 - [Crusader: No Remorse (U)](./U/T-5014H/01/README.md)
 
 #### D
 
 - [Daytona USA: Championship Circuit Edition (U)](./U/MK-81213/01/README.md)
+- [Dead Or Alive (J)](./J/T-3603G/01/README.md)
 - [Deep Fear (E)](./E/MK-81804/01/README.md)
 - [Die Hard Arcade (U)](./U/MK-81057/01/README.md)
 - [Die Hard Trilogy (U)](./U/T-16103H/01/README.md)
@@ -41,11 +45,13 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### F
 
 - [Fatal Fury 3 - Road to the Final Victory (J)](./J/T-3102G/01/README.md)
+- [Fighter's History Dynamite (J)](./J/GS-9107/01/README.md)
 - [Final Fight Revenge (J)](./J/T-20605G/01/README.md)
 
 #### G
 
 - [Grandia (J)](./J/T-4507G/01/README.md)
+- [Gex (U)](./U/T-15904H/01/README.md)
 
 #### H
 
@@ -88,6 +94,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### R
 
 - [Radiant Silvergun (J)](./J/T-32902G/01/README.md)
+- [Real Bout Fatal Fury (J)](./J/T-3105G/01/README.md)
 - [Real Bout Fatal Fury Special (J)](./J/T-3119G/01/README.md)
 - [Revolution X - Music is the Weapon featuring Aerosmith (U)](./U/T-8107H/01/README.md)
 - [Rockman X3 (J)](./J/T-1210G/01/README.md)
@@ -98,6 +105,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Samurai Shodown III: Blades of Blood (J)](./J/T-3104G/01/README.md)
 - [Samurai Shodown IV: Amakusa's Revenge (J)](./J/T-3116G/01/README.md)
 - [Saturn Bomberman (U)](./U/MK-81070/01/README.md)
+- [Senkogu Blade (J)](./J/T-14410G/01/README.md)
 - [Sexy Parodius (J)](./J/T-9514G/01/README.md)
 - [Shinobi Legions (U)](./U/T-2301H/01/README.md)
 - [Sol Divide (J)](./J/T-14423G/01/README.md)
@@ -106,6 +114,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
 - [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
 - [Street Fighter Collection (U)](./U/T-1222H/01/README.md)
+- [Street Fighter The Movie (U)](./U/T-8105H/01/README.md)
 - [Striker '96 (U)](./U/T-8133H/01/README.md)
 - [Strikers 1945 (J)](./J/T-14407G/01/README.md)
 - [Super Puzzle Fighter II Turbo (U)](./U/T-1215H/01/README.md)
@@ -124,6 +133,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### U
 
 - [Ultimate Mortal Kombat 3 (U)](./U/T-9701H/01/README.md)
+- [Ultraman: Hikari no Kyojin Densetsu (J)](./J/T-13308G/01/README.md)
 
 #### V
 
