@@ -36,6 +36,7 @@ Extra info here.
 - Issues :warning:
 - Unplayable :x:
 - No Boot :finnadie:
+- Untested :question:
 
 ### Problems (Optional)
 

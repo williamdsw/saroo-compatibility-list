@@ -65,6 +65,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### K
 
+- [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J)](./J/T-28004G/01/README.md)
+
 #### L
 
 #### M
@@ -124,6 +126,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 - [The King of Fighters '96 (J)](./J/T-3108G/01/README.md)
 - [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
+- [The Yakyuuken Special: Konya wa 12-kaisen (J)](./J/T-21901G/01/README.md)
 - [Theme Park (U)](./U/T-5001H/01/README.md)
 - [Tokyo Shadow (J)](./J/T-1110G/01/README.md)
 - [Tomb Raider (U)](./U/T-7910H/01/README.md)
@@ -147,5 +150,17 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### W
 
 #### Y
+
+- [Yellow Brick Road (J)](./J/T-8109G/01/README.md)
+- [Yoshimoto Mahjong Club (J)](./J/T-20403G/01/README.md)
+- [Yoshimura Shougi (J)](./J/T-9531G/01/README.md)
+- [Yoshiyuki Sadamoto Illustrations (J)](./J/T-35102G/01/README.md)
+- [Yumimi Mix Remix (J)](./J/T-4501G/01/README.md)
+- [Yuukyuu Gensoukyoku (J)](./J/T-27804G/01/README.md)
+- [Yuukyuu Gensoukyoku 2nd Album (J)](./J/T-27807G/01/README.md)
+- [Yuukyuu Gensoukyoku Ensemble (J)](./J/T-27808G/01/README.md)
+- [Yuukyuu Gensoukyoku Ensemble 2 (J)](./J/T-27809G/01/README.md)
+- [Yuukyuu no Kobako Official Collection (J)](./J/T-27806G/01/README.md)
+- [Yuushun Classic Road (J)](./J/T-6009G/01/README.md)
 
 #### Z
