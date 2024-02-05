@@ -9,6 +9,10 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 ### Games
 
+#### 0-9
+
+- 3D Lemmings (E) - TODO
+
 #### A
 
 - [Andretti Racing (U)](./U/T-5020H/01/README.md)
@@ -92,6 +96,15 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Parodius (E)](./E/T-9501H-50/01/README.md)
 
 #### Q
+
+- Quake (E) - TODO
+- [Quake (U)](./U/MK-081066/01/README.md)
+- [Quarterback Attack with Mike Ditka (U)](./U/T-16213H/01/README.md)
+- [Quiz Nanairo Dreams Nijiirochou no Kiseki (J)](./J/T-1220G/01/README.md)
+- Quiz Nanairo Dreams Nijiirochou no Kiseki (J) (Rev A) - TODO
+- [QuoVadis (J)](./J/T-17401G/01/README.md)
+- [QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J)](./J/T-17402G/01/README.md)
+- QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J) (Demo) - TODO
 
 #### R
 
