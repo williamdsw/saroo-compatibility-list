@@ -5,6 +5,8 @@
 Games compatibility list of SAROO cartridge for Sega Saturn.
 It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
+TODO - Games to be tested and recorded.
+
 :construction: In Progress :construction:
 
 ### Games
@@ -126,7 +128,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Sol Divide (J)](./J/T-14423G/01/README.md)
 - [Sonic Wings Special (J)](./J/T-26402G/01/README.md)
 - [Soviet Strike (U)](./U/T-5013H/01/README.md)
-- [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
+- [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/RE ADME.md)
 - [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
 - [Street Fighter Collection (U)](./U/T-1222H/01/README.md)
 - [Street Fighter The Movie (U)](./U/T-8105H/01/README.md)
@@ -148,8 +150,15 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### U
 
+- [UEFA Euro 96 England (E)](./E/MK-81180/01/README.md)
+- Ultimate Mortal Kombat 3 (E) - TODO
 - [Ultimate Mortal Kombat 3 (U)](./U/T-9701H/01/README.md)
 - [Ultraman: Hikari no Kyojin Densetsu (J)](./J/T-13308G/01/README.md)
+- [Ultraman Zukan (J)](./J/T-25501G/01/README.md)
+- [Ultraman Zukan 2 (J)](./J/T-25502G/01/README.md)
+- [Ultraman Zukan 3 (J)](./J/T-25505G/01/README.md)
+- [Umanari 1 Furlong Gekijou (J)](./J/T-35001G/01/README.md)
+- [Universal Nuts (J)](./J/T-36202G/01/README.md)
 
 #### V
 
