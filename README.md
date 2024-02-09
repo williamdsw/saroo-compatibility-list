@@ -91,6 +91,26 @@ TODO - Games to be tested and recorded.
 
 #### O
 
+- Ochigee Designer Tsukutte Pon! (J) - TODO (Recorded)
+- Off-World Interceptor Extreme (E) - TODO
+- Off-World Interceptor Extreme (J) - TODO
+- Off-World Interceptor Extreme (U) - TODO (Recorded)
+- Oh-chan no Oekaki Logic (J) - TODO (Recorded)
+- Ojousama Express (Disc 1) (J) - TODO
+- Ojousama Express (Disc 2) (J) - TODO
+- Ojousama o Nerae!! (J) (Rev A) - TODO
+- Ojousama o Nerae!! (J) - TODO (Recorded)
+- Okudera Yasuhiko no Sekai o Mezase! Soccer Kids - Nyuumon-hen (J) - TODO (Recorded)
+- Olympic Soccer (E) - TODO
+- Olympic Soccer (G) - TODO
+- Olympic Soccer (J) - TODO
+- Olympic Soccer (U) - TODO (Recorded)
+- Omakase! Savers (J) - TODO (Recorded)
+- Ooedo Renaissance (J) - TODO (Recorded)
+- Oracle no Houseki - Jewels of the Oracle (J) - TODO (Recorded)
+- Ousama Game (Disc 1) (Ichigo Disc) (J) - TODO (Recorded)
+- Ousama Game (Disc 2) (Momo Disc) (J) - TODO (Recorded)
+
 #### P
 
 - [Panzer Dragoon (U)](./U/MK-81009/01/README.md)
@@ -128,7 +148,7 @@ TODO - Games to be tested and recorded.
 - [Sol Divide (J)](./J/T-14423G/01/README.md)
 - [Sonic Wings Special (J)](./J/T-26402G/01/README.md)
 - [Soviet Strike (U)](./U/T-5013H/01/README.md)
-- [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/RE ADME.md)
+- [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
 - [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
 - [Street Fighter Collection (U)](./U/T-1222H/01/README.md)
 - [Street Fighter The Movie (U)](./U/T-8105H/01/README.md)
