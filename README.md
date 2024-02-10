@@ -84,7 +84,9 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### K
 
-- [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J)](./J/T-28004G/01/README.md)
+- [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc A](./J/T-28004G/01/README.md)
+- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc B) - TODO
+- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc C) - TODO
 
 #### L
 
@@ -206,16 +208,22 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### Y
 
-- [Yellow Brick Road (J)](./J/T-8109G/01/README.md)
+- [Yellow Brick Road (J) (3M)](./J/T-8109G/01/README.md)
 - [Yoshimoto Mahjong Club (J)](./J/T-20403G/01/README.md)
 - [Yoshimura Shougi (J)](./J/T-9531G/01/README.md)
 - [Yoshiyuki Sadamoto Illustrations (J)](./J/T-35102G/01/README.md)
 - [Yumimi Mix Remix (J)](./J/T-4501G/01/README.md)
+- Yumimi Mix Remix (J) (Demo) - TODO
 - [Yuukyuu Gensoukyoku (J)](./J/T-27804G/01/README.md)
+- Yuukyuu Gensoukyoku (J) (Alt) - TODO
+- Yuukyuu Gensoukyoku (J) (Demo) - TODO
 - [Yuukyuu Gensoukyoku 2nd Album (J)](./J/T-27807G/01/README.md)
+- Yuukyuu Gensoukyoku 2nd Album (J) (2M) - TODO
+- Yuukyuu Gensoukyoku 2nd Album (J) (Demo) - TODO
 - [Yuukyuu Gensoukyoku Ensemble (J)](./J/T-27808G/01/README.md)
 - [Yuukyuu Gensoukyoku Ensemble 2 (J)](./J/T-27809G/01/README.md)
 - [Yuukyuu no Kobako Official Collection (J)](./J/T-27806G/01/README.md)
+- Yuukyuu no Kobako Official Collection (J) (1M) - TODO
 - [Yuushun Classic Road (J)](./J/T-6009G/01/README.md)
 
 #### Z
