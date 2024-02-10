@@ -219,3 +219,20 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Yuushun Classic Road (J)](./J/T-6009G/01/README.md)
 
 #### Z
+
+- Z (E) - TODO (Recorded)
+- Zanma Chou Ougi - Valhollian (J) - TODO (Recorded)
+- Zap! Snowboarding Trix '98 (J) - TODO (Recorded)
+- Zap! Snowboarding Trix (J) - TODO (Recorded)
+- Zen Nihon Pro Wres featuring Virtua (J) (Rev A) - TODO
+- Zen Nihon Pro Wres featuring Virtua (J) - TODO (Recorded)
+- Zenkoku Seifuku Bishoujo Grand Prix - Find Love (J) - (TODO)
+- Zero Divide - The Final Conflict (J) - TODO (Recorded)
+- Zero4 Champ DooZy-J Type-R (J) - TODO (Recorded)
+- Zoku Gussun Oyoyo (J) (2M) - TODO (Recorded)
+- Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 1) (Shougakusei Jidai) - TODO (Recorded)
+- Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 2) (Chuugakusei Jidai) - TODO
+- Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 3) (Koukousei Jidai) - TODO
+- Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 4) (Daigakusei Jidai & Koukou kara Daigaku ni Agaru ma no Haruyasumi) - TODO
+- Zoop (J) - TODO (Recorded)
+- Zork I - The Great Underground Empire (J) - TODO (Recorded)
