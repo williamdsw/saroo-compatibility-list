@@ -5,7 +5,10 @@
 Games compatibility list of SAROO cartridge for Sega Saturn.
 It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
-TODO - Games to be tested and recorded.
+[Playlist with Tested Games on Youtube](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
+
+`TODO` - Game needs to be tested, recorded, uploaded to youtube and be registered here.
+`TODO (Recorded)` - Game already tested, recorded and uploaded to youtube but they need to be registered here.
 
 :construction: In Progress :construction:
 
