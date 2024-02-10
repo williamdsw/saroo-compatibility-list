@@ -13,7 +13,17 @@ TODO - Games to be tested and recorded.
 
 #### 0-9
 
+- 2Tax Gold (J) - TODO (Recorded)
+- 2do Aru Koto wa Sando R (J) - TODO (Recorded)
+- 3D Baseball (U) - TODO (Recorded)
+- 3D Baseball - The Majors (J) - TODO
 - 3D Lemmings (E) - TODO
+- 3D Lemmings (J) - TODO
+- 3D Mission Shooting - Finalist (J) - TODO (Recorded)
+- 3x3 Eyes - Kyuusei Koushu S (J) (Disc 1) - TODO (Recorded)
+- 3x3 Eyes - Kyuusei Koushu S (J) (Disc 2) - TODO
+- 3x3 Eyes - Kyuusei Koushu S (J) (Disc 3) (Special CD-ROM) - TODO
+- 6 Inch My Darling (J) - TODO (Recorded)
 
 #### A
 
