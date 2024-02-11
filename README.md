@@ -232,9 +232,113 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### C
 
+- Can Can Bunny Extra (J) - TODO
+- Can Can Bunny Premiere (J) (1M) - TODO
+- Can Can Bunny Premiere 2 (J) (Disc 1) (Rev A) - TODO
+- Can Can Bunny Premiere 2 (J) (Disc 1) - TODO
+- Can Can Bunny Premiere 2 (J) (Disc 2) (Can Bani Himekuri Calendar) (Hibaihin) - TODO
+- Can Can Bunny Premiere 2 (J) (Disc 2) (Can Bani Himekuri Calendar) - TODO
+- Capcom Generation - Dai-1-shuu Gekitsuiou no Jidai (J) - TODO
+- Capcom Generation - Dai-2-shuu Makai to Kishi (J) - TODO
+- Capcom Generation - Dai-3-shuu Koko ni Rekishi Hajimaru (J) - TODO
+- Capcom Generation - Dai-4-shuu Kokou no Eiyuu (J) - TODO
 - [Capcom Generation Vol.5 (J)](./J/T-1236G/01/README.md)
+- Casper (E) - TODO
+- Casper (J) - TODO
+- Casper (U) - TODO
+- Cat the Ripper - 13Ninme no Tanteishi (J) - TODO
+- Center Ring Boxing (U) - TODO
+- Chaos Control (E) (Beta) - TODO
+- Chaos Control (E) - TODO
+- Chaos Control (J) - TODO
+- Chaos Control Remix (J) - TODO
+- Chibi Maruko-chan no Taisen Puzzle-dama (J) - TODO
+- Chisato Moritaka - Watarase Bashi & Lala Sunshine (J) (Disc 1) - TODO
+- Chisato Moritaka - Watarase Bashi & Lala Sunshine (J) (Disc 2) - TODO
+- Choro Q Park (J) - TODO
+- Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (J) - TODO
+- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (J) (Disc 1) - TODO
+- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (J) (Disc 2) - TODO
+- Christmas NiGHTS into Dreams... (E) - TODO
+- Christmas NiGHTS into Dreams... (J) (Rev A) - TODO
 - [Christmas NiGHTS into Dreams (U)](./U/MK-81067/01/README.md)
+- Cleaning Kit for Sega Saturn (U) - TODO
+- Cleopatra Fortune (J) - TODO
+- ClockWerx (J) - TODO
+- Clockwork Knight - Pepperouchau no Daibouken Gekan (J) (2M) - TODO
+- Clockwork Knight - Pepperouchau no Daibouken Joukan (J) - TODO
+- Clockwork Knight - Pepperouchau no Fukubukuro (J) - TODO
+- Clockwork Knight - Pepperouchau's Adventure (E) - TODO
+- Clockwork Knight - Pepperouchau's Adventure (U) - TODO
+- Clockwork Knight 2 - Pepperouchau's Adventure (E) (2S) - TODO
+- Clockwork Knight 2 - Pepperouchau's Adventure (E) (3S) - TODO
+- Clockwork Knight 2 - Pepperouchau's Adventure (U) (Beta) - TODO
+- Clockwork Knight 2 - Pepperouchau's Adventure (U, B) - TODO
+- Clockwork Knight Puzzle - Pengin War (J) (Beta) - TODO
+- Code R (J) (Demo) - TODO
+- Code R (J) - TODO
+- College Slam (U) - TODO
+- Command & Conquer (E) (Disc 1) (GDI) - TODO
+- Command & Conquer (E) (Disc 2) (NOD) - TODO
+- Command & Conquer (F) (Disc 1) (GDI) - TODO
+- Command & Conquer (F) (Disc 2) (NOD) - TODO
+- Command & Conquer (J) (Disc 1) (GDI Disc) - TODO
+- Command & Conquer (J) (Disc 2) (NOD Disc) - TODO
+- Command & Conquer (U) (Disc 1) (GDI Disc) - TODO
+- Command & Conquer (U) (Disc 2) (NOD Disc) - TODO
+- Command & Conquer - Teil 1 - Der Tiberiumkonflikt (G) (Disc 1) (GDI) - TODO
+- Command & Conquer - Teil 1 - Der Tiberiumkonflikt (G) (Disc 2) (NOD) - TODO
+- Congo - The Movie - The Lost City of Zinj (U) - TODO
+- Contra - Legacy of War (U) - TODO
+- Conveni 2, The - Zenkoku Chain Tenkai da! (J) - TODO
+- Conveni, The - Ano Machi o Dokusen seyo (J) - TODO
+- Core Demo Disc (E) - TODO
+- Corpse Killer - Graveyard Edition (U) (Disc 1) (R) - TODO
+- Corpse Killer - Graveyard Edition (U) (Disc 2) - TODO
+- Courier Crisis - The Saga of the Modern Fatalist (E) - TODO
+- Courier Crisis - The Saga of the Modern Fatalist (J) - TODO
+- Courier Crisis - The Saga of the Modern Fatalist (U) - TODO
+- Creature Shock (J) (Disc 1) - TODO
+- Creature Shock (J) (Disc 2) - TODO
+- Creature Shock - Special Edition (U) (Disc 1) - TODO
+- Creature Shock - Special Edition (U) (Disc 2) - TODO
+- Crime Patrol (U) (Proto) - TODO
+- Crimewave (E) (Demo) - TODO
+- Crimewave (E) - TODO
+- Crimewave (J) - TODO
+- Crimewave (U) - TODO
+- Criticom (U) - TODO
+- Criticom - The Critical Combat (J) - TODO
+- Croc - Legend of the Gobbos (E) - TODO
+- Croc - Legend of the Gobbos (U) - TODO
+- Croc! Pau-Pau Island (J) - TODO
+- Cross Romance - Koi to Mahjong to Hanafuda to (J) - TODO
+- Cross Tantei Monogatari (J) (Demo 1) - TODO
+- Cross Tantei Monogatari (J) (Demo 2) - TODO
+- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (J) (Disc 1) - TODO
+- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (J) (Disc 2) - TODO
+- Crows - The Battle Action for SegaSaturn (J) - TODO
+- Crusader - No Remorse (E) - TODO
+- Crusader - No Remorse (F) - TODO
+- Crusader - No Remorse (G) - TODO
 - [Crusader: No Remorse (U)](./U/T-5014H/01/README.md)
+- Crypt Killer (E) (R) - TODO
+- Crypt Killer (U) - TODO
+- Cube Battler - Story of Anna (J) - TODO
+- Cube Battler - Story of Shou (J) - TODO
+- Cubic Gallery - Edy & Disy (J) - TODO
+- Culdcept (J) (Rev A) (10M) - TODO
+- Culdcept (J) (Rev B) (20M) - TODO
+- Custom Web Browser (Version 2) (U) - TODO
+- Custom Web Browser (Version 3.0) (U) - TODO
+- Cyber Doll (J) - TODO
+- Cyber Speedway (E) (RE) - TODO
+- Cyber Speedway (U) - TODO
+- Cyberbots - Fullmetal Madness (J) (1M) - TODO
+- Cyberbots - Fullmetal Madness (J) (2M) - TODO
+- Cyberia (E) - TODO
+- Cyberia (J) - TODO
+- Cyberia (U) - TODO
 
 #### D
 
@@ -365,6 +469,10 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### T
 
+- The Crow - City of Angels (E) - TODO
+- The Crow - City of Angels (G) - TODO
+- The Crow - City of Angels (J) - TODO
+- The Crow - City of Angels (U) - TODO
 - [The King of Fighters '96 (J)](./J/T-3108G/01/README.md)
 - [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
 - [The Yakyuuken Special: Konya wa 12-kaisen (J)](./J/T-21901G/01/README.md)
