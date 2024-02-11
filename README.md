@@ -342,15 +342,181 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### D
 
+- D (E) (Disc I) - TODO
+- D (E) (Disc II) - TODO
+- D (F) (Disc I) - TODO
+- D (F) (Disc II) - TODO
+- D (G) (Disc I) - TODO
+- D (G) (Disc II) - TODO
+- D (U) (Disc I) (Beta) - TODO
+- D (U) (Disc I) - TODO
+- D (U) (Disc II) (Beta) - TODO
+- D (U) (Disc II) - TODO
+- D no Shokutaku (J) (Disc 1) - TODO
+- D no Shokutaku (J) (Disc 2) - TODO
+- D-Xhird (J) (1M) - TODO
+- D-Xhird (J) (2M) - TODO
+- DJ Wars (J) (Demo) - TODO
+- DJ Wars (J) (Rev A) (10M) - TODO
+- DX Nippon Tokkyuu Ryokou Game - Let's Travel in J (J) - TODO
+- Daibouken - Great Adventure - St. Elmos no Kiseki (J) - TODO
+- Daikoukai Jidai Gaiden (J) - TODO
+- Daikoukai Jidai II (J) - TODO
+- Daisenryaku - Strong Style (J) - TODO
+- Daisuki (J) (Disc 1) - TODO
+- Daisuki (J) (Disc 2) (Special) - TODO
+- Daitoride (J) - TODO
+- Darius Gaiden (E) - TODO
+- Darius Gaiden (J) (2M) - TODO
+- Darius Gaiden (J) (3M) - TODO
+- Darius Gaiden (U) (Beta) - TODO
+- Darius Gaiden (U) - TODO
+- Darius II (E) - TODO
+- Darius II (J) (2M) - TODO
+- Dark Hunter Ge - Youma no Mori (J) - TODO
+- Dark Hunter Jou - Ijigen Gakuen (J) - TODO
+- Dark Legend (U) - TODO
+- Dark Savior (E) - TODO
+- Dark Savior (J) (Demo) - TODO
+- Dark Savior (J) - TODO
+- Dark Savior (U) - TODO
+- Dark Seed II (J) - TODO
+- Darklight Conflict (E) - TODO
+- Darklight Conflict (U) - TODO
+- Darkseed (J) - TODO
+- Daytona U (E) (1S) - TODO
+- Daytona U (E) (2S) - TODO
+- Daytona U (E) - TODO
+- Daytona U (J) (Demo) (2M) - TODO
+- Daytona U (J) - TODO
+- Daytona U (U) - TODO (Recorded)
+- Daytona U - Championship Circuit Edition (E) (Rev A) - TODO
 - [Daytona USA: Championship Circuit Edition (U)](./U/MK-81213/01/README.md)
-- [Dead Or Alive (J)](./J/T-3603G/01/README.md)
-- [Deep Fear (E)](./E/MK-81804/01/README.md)
+- Daytona U - Circuit Edition (J) - TODO
+- Daytona U C.C.E. Net Link Edition (U) - TODO
+- DeJig - Aqua World (J) - TODO
+- DeJig - Lassen - Art Collection (J) - TODO
+- DeJig - McKnight - Art Collection (J) - TODO
+- DeJig - Tin Toy (J) - TODO
+- [Dead Or Alive (J)](./J/T-3603G/01/README.md) - TODO
+- Dead or Alive (J) (1M) - TODO
+- Dead or Alive (J) (2M) - TODO
+- Dead or Alive (J) (Rev A) (10M) - TODO
+- Deadalus (J) (1M) - TODO
+- Deadalus (J) (2A) - TODO
+- Deadalus (J) (3A) - TODO
+- Death Crimson (J) - TODO
+- Death Throttle - Kakuzetsu Toshi kara no Dasshutsu (J) - TODO
+- DeathMask (J) (Disc 1) - TODO
+- DeathMask (J) (Disc 2) - TODO
+- DeathMask (J) (Disc 3) - TODO
+- DecAthlete (J) (1M) - TODO
+- DecAthlete (J) (2M) - TODO
+- DecAthlete (J) (Demo) - TODO
+- DecAthlete (J) (Rev A) (10M) - TODO
+- DecAthlete (J) (Rev B) (20M) - TODO
+- DecAthlete (U) - TODO
+- DecAthlete for SegaNet (J) - TODO
+- [Deep Fear (E) (Disc 1)](./E/MK-81804/01/README.md)
+- Deep Fear (E) (Disc 2) - TODO
+- Deep Fear (J) (Demo) - TODO
+- Deep Fear (J) (Disc 1) - TODO
+- Deep Fear (J) (Disc 2) - TODO
+- Deep Fear (U) (Disc 1) (Unl) - TODO
+- Deep Fear (U) (Disc 2) (Unl) - TODO
+- Defcon 5 (E) - TODO
+- Defcon 5 (F) - TODO
+- Defcon 5 (J) - TODO
+- Defcon 5 - Peace Has a Price... (U) - TODO
+- Deka 4-ku - Tough the Truck (J) - TODO
+- Delisoba Deluxe (J) - TODO
+- Dennou Senki - Virtual On - Cyber Troopers (J) (Demo) - TODO
+- Dennou Senki - Virtual On - Cyber Troopers (J) - TODO
+- Dennou Senki - Virtual On - Cyber Troopers (Korea) - TODO
+- Dennou Senki - Virtual On - Cyber Troopers for SegaNet (J) - TODO
+- Denpa Shounen-teki Game (J) (Rerelease) - TODO
+- Denpa Shounen-teki Game (J) (Rev A) - TODO
+- Densetsu no Ogre Battle (J) - TODO
+- Densha de Go! EX (J) - TODO
+- Derby Analyst (J) - TODO
+- Derby Stallion (J) - TODO
+- Deroon Dero Dero (J) (1M) - TODO
+- Desire (J) (Disc 1) - TODO
+- Desire (J) (Disc 2) (1M) - TODO
+- Desire (J) (Disc 2) (2M) - TODO
+- Destruction Derby (E) - TODO
+- Destruction Derby (J) - TODO
+- Detana Twinbee Yahoo! Deluxe Pack (J) (3M) - TODO
+- Develo Magazine Appendix CD-ROM for SegaSaturn (J) - TODO
+- Device Reign (J) - TODO
+- Devil Summoner - Soul Hackers (J) (Disc 01) - TODO
+- Devil Summoner - Soul Hackers (J) (Disc 02) - TODO
+- Devil Summoner - Soul Hackers + Ronde (J) (Demo 1) - TODO
+- Devil Summoner - Soul Hackers + Ronde (J) (Demo 2) - TODO
+- Devil Summoner - Soul Hackers - Akuma Zensho Daini-shuu (J) - TODO
+- Devil Summoner - Soul Hackers Extra Dungeon (J) (3M) - TODO
+- Dezaemon 2 (J) - TODO
+- Die Hard Arcade (E) - TODO
 - [Die Hard Arcade (U)](./U/MK-81057/01/README.md)
+- Die Hard Trilogy (E) - TODO
+- Die Hard Trilogy (J) - TODO
 - [Die Hard Trilogy (U)](./U/T-16103H/01/README.md)
+- Digital Ange - Dennou Tenshi SS (J) - TODO
+- Digital Dance Mix Vol. 1 - Namie Amuro (J) (Rev A) (10M, 12M) - TODO
+- Digital Dance Mix Vol. 1 - Namie Amuro (J) (Rev A) (11M) - TODO
+- Digital Monster Ver. S - Digimon Tamers (J) - TODO
+- Digital Pinball (E) (4S) - TODO
+- Digital Pinball (E) (7S) - TODO
+- Digital Pinball - Last Gladiators (J) (5M) (Demo) - TODO
+- Digital Pinball - Last Gladiators (J) - TODO
+- Digital Pinball - Last Gladiators Ver.9.7 (J) - TODO
+- Digital Pinball - Necronomicon (J) - TODO
+- Digital Pinball - Necronomicon - Revelations (J) (Demo) - TODO
+- Dino Island (J) - TODO
+- Dino Island - Yokoku-hen (J) - TODO
+- Disc Station Bessatsu - I Miss You. Tanaka Katsumi (J) (1M) - TODO
+- Discworld (J) - TODO
+- Discworld II - Missing Presumed...! (E) - TODO
+- DoDonPachi (J) (Demo) - TODO
 - [DoDonPachi (J)](./J/T-14419G/01/README.md)
-- [Doom (U)](./U/T-25405H/01/README.md)
+- DonPachi (J) (Demo) - TODO
 - [DonPachi (J)](./J/T-14405G/01/README.md)
+- Doom (E) (R) - TODO
+- Doom (J) - TODO
+- [Doom (U)](./U/T-25405H/01/README.md)
+- Doraemon - Nobita to Fukkatsu no Hoshi (J) - TODO
+- Double Switch (U) (Disc 1) - TODO
+- Double Switch (U) (Disc 2) - TODO
+- Doukoku Soshite... (J) (1M) - TODO
+- Doukoku Soshite... (J) (2M) - TODO
+- Doukyuusei - if (J) (1M, 2M) - TODO
+- Doukyuusei 2 (J) (Disc A) - TODO
+- Doukyuusei 2 (J) (Disc B) - TODO
+- Dragon Ball Z - Idainaru Dragon Ball Densetsu (J) - TODO
+- Dragon Ball Z - La Grande Legende des Boules de Cristal (F, S) - TODO
+- Dragon Ball Z - Shinbutouden (J) - TODO (Recorded)
+- Dragon Force (E) - TODO
+- Dragon Force (J) (1M, 2M, 3M) - TODO
+- Dragon Force (J) (4M) - TODO
+- Dragon Force (J) (Rev A) (10M) - TODO
+- Dragon Force (U) - TODO
+- Dragon Force II - Kami Sarishi Daichi ni (J) (Rev A) - TODO
+- Dragon Force II - Kami Sarishi Daichi ni (J) - TODO
+- Dragon Master Silk (J) - TODO
+- Dragon's Dream (J) - TODO
+- DragonHeart - Fire & Steel (E) - TODO
+- DragonHeart - Fire & Steel (U) - TODO
+- Dream Generation - Koi ka Shigoto ka!... (J) - TODO
+- Dream Square - Hinagata Akiko (J) (2M) - TODO
+- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (J) (Demo) - TODO
+- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (J) - TODO (Recorded)
+- Druid - Yami e no Tsuisekisha (J) - TODO
+- Duke Nukem 3D (E) - TODO
 - [Duke Nukem 3D (U)](./U/MK-81071/01/README.md)
+- Dungeon Master Nexus (J) - TODO
+- Dungeons & Dragons Collection (J) (Disc 1) (Tower of Doom) - TODO
+- Dungeons & Dragons Collection (J) (Disc 2) (Shadow over Mystara) - TODO
+- Dynamite Deka (J) - TODO
 
 #### E
 
