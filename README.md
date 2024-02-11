@@ -690,12 +690,119 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Funky Head Boxers Plus (J) - TODO
 - Fushigi no Kuni no Angelique (J) - TODO
 - Fuusui Sensei - Feng-Shui Master (J) - TODO
-- [Fatal Fury 3 - Road to the Final Victory (J)](./J/T-3102G/01/README.md) - TODO (Relocate to JAP name)
 
 #### G
 
-- [Grandia (J)](./J/T-4507G/01/README.md)
+- G Vector (J) - TODO
+- GT24 (J) - TODO
+- Gaia Breeder (J) - TODO
+- Gakkou no Kaidan (J) - TODO
+- Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (J) - TODO
+- Gal Jan (J) - TODO
+- Galactic Attack (E) - TODO
+- Galactic Attack (U) - TODO (Recorded)
+- Galaxy Fight (E) - TODO
+- Galaxy Fight (U) - TODO (Recorded)
+- Galaxy Fight - Universal Warriors (J) - TODO
+- Gale Racer (J) (1A) - TODO
+- Gals Panic SS (J) - TODO
+- Game Basic for SegaSaturn (J) - TODO
+- Game Nihonshi - Kakumeiji Oda Nobunaga (J) - TODO
+- Game Tengoku - The Game Paradise! (J) - TODO
+- Game de Seishun (J) (Rev A) - TODO
+- Game no Tatsujin (J) (4M) - TODO
+- Game no Tatsujin (J) (Rev A) - TODO
+- Game no Tatsujin 2 (J) - TODO
+- Game no Tetsujin - The Shanghai (J) - TODO
+- Game of Life, The - DX Jinsei Game (J) (Rev A) - TODO
+- Game of Life, The - DX Jinsei Game (J) (Rev B) - TODO
+- Game of Life, The - DX Jinsei Game (J) - TODO
+- Game of Life, The - DX Jinsei Game II (J) (2M) - TODO
+- Game-Ware (J) - TODO
+- Game-Ware Vol. 2 (J) - TODO
+- Game-Ware Vol. 3 (J) - TODO
+- Game-Ware Vol. 4 (J) (Disc A) - TODO
+- Game-Ware Vol. 4 (J) (Disc B) - TODO
+- Game-Ware Vol. 5 (J) (Disc A) - TODO
+- Game-Ware Vol. 5 (J) (Disc B) - TODO
+- [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (J)](./J/T-3102G/01/README.md)
+- GeGeGe no Kitarou - Gentou Kaikitan (J) - TODO
+- Gebockers (J) (Demo) - TODO
+- Gebockers (J) - TODO
+- Gekiretsu Pachinkers (J) - TODO
+- Gekirindan (J) - TODO (Recorded)
+- Gekitotsu Koushien (J) (Demo) - TODO
+- Gekitotsu Koushien (J) - TODO
+- Gekka Mugentan Torico (J) (Disc A) (Kyouchou-hen) (1M) - TODO
+- Gekka Mugentan Torico (J) (Disc A) (Kyouchou-hen) (2M) - TODO
+- Gekka Mugentan Torico (J) (Disc B) (Houkai-hen) (1M) - TODO
+- Gekka Mugentan Torico (J) (Disc B) (Houkai-hen) (2M) - TODO
+- Gekka no Kishi - Ouryuu-sen (J) - TODO
+- Gensou Suikoden (J) - TODO
+- Gex (E) - TODO
+- Gex (J) - TODO
 - [Gex (U)](./U/T-15904H/01/README.md)
+- Ghen War (E) - TODO
+- Ghen War (J) - TODO
+- Ghen War (U) - TODO
+- Ginga Eiyuu Densetsu (J) - TODO
+- Ginga Eiyuu Densetsu Plus (J) - TODO
+- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works (J) - TODO
+- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works 2 (J) - TODO
+- Ginga OjoUma Densetsu Yuna 3 - Lightning Angel (J) - TODO
+- Ginga OjoUma Densetsu Yuna Remix (J) - TODO
+- Girl Doll Toy - Tamashii o Kudasai (J) - TODO
+- Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (J) - TODO
+- Girls in Motion Puzzle Vol. 2 - Body Special 264 (J) (Demo) (2M) - TODO
+- Girls in Motion Puzzle Vol. 2 - Body Special 264 (J) - TODO
+- Go III Professional - Taikyoku Igo (J) - TODO
+- Godzilla - Rettou Shinkan (J) - TODO
+- Goiken Muyou - Anarchy in the Nippon (J) (Demo) - TODO
+- Goiken Muyou - Anarchy in the Nippon (J) - TODO
+- Gokujou Parodius Da! Deluxe Pack (J) (Rev A) - TODO
+- Gokujou Parodius Da! Deluxe Pack (J) - TODO (Check if recorded)
+- Golden Axe - The Duel (E) - TODO
+- Golden Axe - The Duel (J) (2M) - TODO
+- Golden Axe - The Duel (U) - TODO
+- Gotha - Ismailia SenEki (J) - TODO
+- Gotha II - Tenkuu no Kishi (J) - TODO
+- Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (J) (Demo) - TODO
+- Gouketsuji Ichizoku 3 - Groove on Fight (J) - TODO (Recorded)
+- Gradius Deluxe Pack (J) - TODO (Check if recorded)
+- Gran Chaser (J) (3M) - TODO
+- GranDread (J) - TODO
+- Grand Slam (U) - TODO
+- [Grandia (J)](./J/T-4507G/01/README.md) - TODO (Check version)
+- Grandia (J) (Disc 1) (1M) - TODO
+- Grandia (J) (Disc 1) (2M) - TODO
+- Grandia (J) (Disc 1) (4M) - TODO
+- Grandia (J) (Disc 2) (1M, 2M) - TODO
+- Grandia (J) (Disc 2) (3M) - TODO
+- Grandia (J) (Disc 2) (4M) - TODO
+- Grandia - Digital Museum (J) (Rev A) (10M) - TODO
+- Grandia - Digital Museum (J) - TODO
+- Grandia - Prelude (J) - TODO
+- Greatest Nine '96 (J) (2M) - TODO
+- Greatest Nine '96 (J) (3M) - TODO
+- Greatest Nine '96 (J) (Rev A) (10M) - TODO
+- Gremlin Demo Disc (E) - TODO
+- Gremlin Demo Disk (E) - TODO
+- Grid Run (E) - TODO
+- Grid Runner (J) - TODO
+- Grid Runner (U) - TODO (Recorded)
+- Guardian Force (J) - TODO
+- Guardian Heroes (E) - TODO
+- Guardian Heroes (J) (3M) - TODO
+- Guardian Heroes (U) - TODO (Recorded)
+- Gun Griffon (E) - TODO
+- GunBlaze-S (J) - TODO
+- Gunbird (J) - TODO (Recorded)
+- Gungriffon (U) - TODO
+- Gungriffon - The Eurasian Conflict (J) - TODO
+- Gungriffon II (J) (Demo) - TODO
+- Gungriffon II (J) - TODO
+- Gussun Oyoyo S (J) - TODO
+- Gyuwambler Jiko Chuushinha - Tokyo Mahjongland (J) - TODO
 
 #### H
 
