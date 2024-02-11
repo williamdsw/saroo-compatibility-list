@@ -398,7 +398,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - DeJig - Lassen - Art Collection (J) - TODO
 - DeJig - McKnight - Art Collection (J) - TODO
 - DeJig - Tin Toy (J) - TODO
-- [Dead Or Alive (J)](./J/T-3603G/01/README.md) - TODO
+- [Dead Or Alive (J)](./J/T-3603G/01/README.md) - TODO (Check correct version)
 - Dead or Alive (J) (1M) - TODO
 - Dead or Alive (J) (2M) - TODO
 - Dead or Alive (J) (Rev A) (10M) - TODO
@@ -580,12 +580,117 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Eve - The Lost One (J) (Disc 4) (Extra Disc) (1M) - TODO
 - Eve - The Lost One (J) (Disc 4) (Extra Disc) (2M) - TODO
 - Exhumed (E) - TODO
+- Eyeful Home (J) - TODO
 
 #### F
 
-- [Fatal Fury 3 - Road to the Final Victory (J)](./J/T-3102G/01/README.md)
+- F-1 Live Information (J) - TODO
+- F1 Challenge (E) - TODO
+- F1 Challenge (U) - TODO
+- FEDA Remake! The Emblem of Justice (J) - TODO
+- FIFA - Die WM-Qualifikation 98 (G) - TODO
+- FIFA - En Route pour la Coupe du Monde 98 (F) - TODO
+- FIFA - Road to World Cup 98 (E) - TODO
+- FIFA - Road to World Cup 98 (I) - TODO
+- FIFA - Road to World Cup 98 (U) - TODO
+- FIFA - Rumbo al Mundial 98 (S) - TODO
+- FIFA 97 (E) - TODO
+- FIFA 97 (F) - TODO
+- FIFA 97 (G) - TODO
+- FIFA Soccer 96 (E) - TODO
+- FIFA Soccer 96 (J) - TODO
+- FIFA Soccer 96 (U) - TODO
+- FIFA Soccer 97 (U) - TODO
+- Falcom Classics (J) (Disc 1) (Game Disc) - TODO
+- Falcom Classics (J) (Disc 2) (Special CD) - TODO
+- Falcom Classics II (J) (Genteiban) - TODO
+- Falcom Classics II (J) - TODO
+- Fantastep (J) - TODO
+- Farland Saga (J) - TODO
+- Farland Saga - Toki no Michishirube (J) - TODO
+- Farland Story - Habou no Mai (J) (Demo) - TODO
+- Farland Story - Habou no Mai (J) - TODO
+- Father Christmas (J) - TODO
 - [Fighter's History Dynamite (J)](./J/GS-9107/01/README.md)
+- Fighters Megamix (E) - TODO
+- Fighters Megamix (J) (1M) - TODO
+- Fighters Megamix (J) (2M) - TODO
+- Fighters Megamix (J) - TODO
+- Fighters Megamix (U) (RE) - TODO
+- Fighters Megamix (U) - TODO (Recorded)
+- Fighting Vipers (E) - TODO
+- Fighting Vipers (J) (Demo) - TODO
+- Fighting Vipers (J) (Rev A) - TODO
+- Fighting Vipers (J) (Rev C) - TODO
+- Fighting Vipers (Korea) - TODO
+- Fighting Vipers (U) (5S) - TODO (Recorded - Check Version)
+- Fighting Vipers (U) (6S) - TODO (Recorded - Check Version)
 - [Final Fight Revenge (J)](./J/T-20605G/01/README.md)
+- Find Love 2 - Rhapsody (J) (Disc 1) - TODO
+- Find Love 2 - Rhapsody (J) (Disc 2) - TODO
+- Find Love 2 - The Prologue (J) - TODO
+- Fire Pro Gaiden Blazing Tornado (J) (Demo) - TODO
+- Fire Pro Gaiden Blazing Tornado (J) - TODO
+- Fire Prowrestling S - 6Men Scramble (J) (1M) - TODO
+- Fire Prowrestling S - 6Men Scramble (J) (2M) - TODO
+- Firestorm - Thunderhawk 2 (E) - TODO
+- Firestorm - Thunderhawk 2 (G) - TODO
+- Fishing Koushien (J) - TODO
+- Fishing Koushien II (J) - TODO
+- Fist (J) - TODO
+- Flash SegaSaturn - Ochikazuki-hen (J) - TODO
+- Flash SegaSaturn Vol. 1 (J) (2M) - TODO
+- Flash SegaSaturn Vol. 10 (J) - TODO
+- Flash SegaSaturn Vol. 11 (J) - TODO
+- Flash SegaSaturn Vol. 12 (J) - TODO
+- Flash SegaSaturn Vol. 13 (J) - TODO
+- Flash SegaSaturn Vol. 14 (J) - TODO
+- Flash SegaSaturn Vol. 15 (J) - TODO
+- Flash SegaSaturn Vol. 16 (J) - TODO
+- Flash SegaSaturn Vol. 17 (J) - TODO
+- Flash SegaSaturn Vol. 18 (J) - TODO
+- Flash SegaSaturn Vol. 19 (J) - TODO
+- Flash SegaSaturn Vol. 2 (J) (2M) - TODO
+- Flash SegaSaturn Vol. 20 (J) - TODO
+- Flash SegaSaturn Vol. 21 (J) - TODO
+- Flash SegaSaturn Vol. 22 (J) - TODO
+- Flash SegaSaturn Vol. 23 (J) - TODO
+- Flash SegaSaturn Vol. 24 (J) - TODO
+- Flash SegaSaturn Vol. 25 (J) - TODO
+- Flash SegaSaturn Vol. 26 (J) - TODO
+- Flash SegaSaturn Vol. 27 (J) - TODO
+- Flash SegaSaturn Vol. 28 (J) - TODO
+- Flash SegaSaturn Vol. 29 (J) (3M) - TODO
+- Flash SegaSaturn Vol. 3 (J) - TODO
+- Flash SegaSaturn Vol. 30 (J) - TODO
+- Flash SegaSaturn Vol. 31 (J) - TODO
+- Flash SegaSaturn Vol. 32 (J) - TODO
+- Flash SegaSaturn Vol. 4 (J) - TODO
+- Flash SegaSaturn Vol. 5 (J) - TODO
+- Flash SegaSaturn Vol. 6 (J) - TODO
+- Flash SegaSaturn Vol. 7 (J) - TODO
+- Flash SegaSaturn Vol. 8 (J) - TODO
+- Flash SegaSaturn Vol. 9 (J) - TODO
+- Formula Grand Prix - Team Un'ei Simulation (J) - TODO
+- Formula Karts - Special Edition (E) - TODO
+- Frank Thomas Big Hurt Baseball (E) - TODO
+- Frank Thomas Big Hurt Baseball (J) - TODO
+- Frank Thomas Big Hurt Baseball (U) - TODO
+- Frankenstein - Through the Eyes of the Monster (E) - TODO
+- Free Talk Studio - Mari no Kimamana Oshaberi (J) - TODO
+- Friends - Seishun no Kagayaki (J) (Disc 1) (Game Disc) - TODO
+- Friends - Seishun no Kagayaki (J) (Disc 2) (Special Disc) - TODO
+- From TV Animation Slam Dunk - I Love Basketball (J) - TODO
+- Fully Cowled Mini Yonku - Super Factory (J) (Demo) - TODO
+- Fully Cowled Mini Yonku - Super Factory (J) (Rev A) (10M) - TODO
+- Fully Cowled Mini Yonku - Super Factory (J) (Rev A) (11M) - TODO
+- Funky Fantasy (J) - TODO
+- Funky Head Boxers (J) (Demo) - TODO
+- Funky Head Boxers (J) - TODO
+- Funky Head Boxers Plus (J) - TODO
+- Fushigi no Kuni no Angelique (J) - TODO
+- Fuusui Sensei - Feng-Shui Master (J) - TODO
+- [Fatal Fury 3 - Road to the Final Victory (J)](./J/T-3102G/01/README.md) - TODO (Relocate to JAP name)
 
 #### G
 
