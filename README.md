@@ -30,7 +30,96 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### A
 
+- AI Igo (J) - TODO (Recorded)
+- AI Shougi (J) - TODO (Recorded)
+- AI Shougi 2 (J) - TODO (Recorded)
+- Actua Golf (E) - TODO (Recorded)
+- Actua Golf (J) - TODO
+- Actua Soccer (J) - TODO (Recorded)
+- Actua Soccer - Club Edition (E) - TODO (Recorded)
+- Advanced V.G. (J) - TODO (Recorded)
+- Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (2M) - TODO (Recorded)
+- Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (Rev B) (22M) - TODO
+- Ai Iijima Interactive Video Clip - Good Island Cafe (J) - TODO (Recorded)
+- Air Management '96 (J) - TODO (Recorded)
+- Airs Adventure (J) - TODO (Recorded)
+- Akumajou Dracula X - Gekka no Yasoukyoku (J) (2M) - TODO (Recorded)
+- Albert Odyssey - Legend of Eldean (U) (RE) - TODO
+- Albert Odyssey - Legend of Eldean (U) - TODO
+- Albert Odyssey Gaiden - Legend of Eldean (J) (1M) - TODO
+- Albert Odyssey Gaiden - Legend of Eldean (J) (2M) - TODO
+- Albert Odyssey Gaiden - Legend of Eldean (J) (3M) - TODO
+- Album Club (Mune Kyun) - St. Paulia Jogakuin (J) - TODO (Recorded)
+- Alien Trilogy (E) (4S) - TODO
+- Alien Trilogy (E) (7S) - TODO
+- Alien Trilogy (E) (Beta) - TODO
+- Alien Trilogy (G) - TODO
+- Alien Trilogy (J) (Demo) - TODO
+- Alien Trilogy (J) - TODO
+- Alien Trilogy (U) - TODO (Recorded)
+- All-Star Baseball '97 Featuring Frank Thomas (U) - TODO (Recorded)
+- Alone in the Dark - Jack Is Back (E) - TODO
+- Alone in the Dark - One-Eyed Jack's Revenge (U) - TODO (Recorded)
+- Alone in the Dark 2 (J) - TODO
+- Amagi Shien (J) - TODO (Recorded)
+- America Oudan Ultra Quiz (J) - TODO (Recorded)
+- Amok (E) - TODO
+- Amok (J) - TODO
+- Amok (U) - TODO (Recorded)
+- AnEarth Fantasy Stories - The First Volume (J) - TODO (Recorded)
+- Andretti Racing (E) - TODO
+- Andretti Racing (F) - TODO
+- Andretti Racing (G) - TODO
 - [Andretti Racing (U)](./U/T-5020H/01/README.md)
+- Angel Graffiti S - Anata e no Profile (J) - TODO (Recorded)
+- Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (J) - TODO (Recorded)
+- Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (J) - TODO (Recorded)
+- Angelique Duet (J) - TODO (Recorded)
+- Angelique Special (J) - TODO (Recorded)
+- Angelique Special 2 (J) - TODO (Recorded)
+- Another Memories (J) - TODO (Recorded)
+- Aqua-world - Umi Monogatari (J) - TODO (Recorded)
+- Aquazone - Desktop Life (J) - TODO (Recorded)
+- Aquazone - Desktop Life Option Disc Series 1 - Angel Fish (J) (Rev A) - TODO (Recorded)
+- Aquazone - Desktop Life Option Disc Series 2 - Black Molly (J) (Rev A) - TODO (Recorded)
+- Aquazone - Desktop Life Option Disc Series 3 - Blue Emperor (J) (Rev A) - TODO (Recorded)
+- Aquazone - Desktop Life Option Disc Series 4 - Clown Loach (J) (Rev A) - TODO (Recorded)
+- Aquazone - Desktop Life Option Disc Series 5 - False Rummy-Nose (J) (Rev A) - TODO (Recorded)
+- Arcade Gears Vol. 1 - Pu-Li-Ru-La (J) - TODO (Recorded)
+- Arcade Gears Vol. 2 - Gun Frontier (J) - TODO (Recorded)
+- Arcade Gears Vol. 3 - Wonder 3 (J) - TODO (Recorded)
+- Arcade Gears Vol. 4 - ImageFight & XMultiply (J) - TODO (Recorded)
+- Arcade's Greatest Hits (U) - TODO (Recorded)
+- Arcade's Greatest Hits - The Atari Collection 1 (E) - TODO
+- Arcade's Greatest Hits - The Atari Collection 1 (U) - TODO (Recorded)
+- Arcana Strikes (J) - TODO (Recorded)
+- Area 51 (E) (En,Fr,De,Es) - TODO
+- Area 51 (J) - TODO
+- Area 51 (U) (Beta) - TODO
+- Area 51 (U) - TODO (Recorded)
+- Arthur to Astaroth no Nazo Makaimura - Incredible Toons (J) - TODO (Recorded)
+- Assault Rigs (J) - TODO (Recorded)
+- Assault Suit Leynos 2 (J) - TODO (Recorded)
+- Astal (U) (1S) - TODO (Recorded)
+- Astal (U) (2S) - TODO
+- Astal (U) (3S) - TODO
+- Astra Superstars (J) - TODO (Recorded)
+- Asuka 120% Limited - Burning Fest. Limited (J) - TODO (Recorded)
+- Athlete Kings (E) - TODO (Recorded)
+- Atlantis - The Lost Tales (E) (Disc 1) - TODO (Recorded)
+- Atlantis - The Lost Tales (E) (Disc 2) - TODO
+- Atlantis - The Lost Tales (F) (Disc 1) - TODO
+- Atlantis - The Lost Tales (F) (Disc 2) - TODO
+- Ayakashi Ninden Kunoichiban Plus (J) (Disc 1) - TODO (Recorded)
+- Ayakashi Ninden Kunoichiban Plus (J) (Disc 2) - TODO
+- Ayrton Senna Personal Talk - Message for the Future (J) - TODO (Recorded)
+- Azel - Panzer Dragoon RPG (J) (Demo) - TODO
+- Azel - Panzer Dragoon RPG (J) (Disc 1) (1M) - TODO (Recorded)
+- Azel - Panzer Dragoon RPG (J) (Disc 1) (2M) - TODO
+- Azel - Panzer Dragoon RPG (J) (Disc 2) (2M) - TODO
+- Azel - Panzer Dragoon RPG (J) (Disc 3) (1M) - TODO
+- Azel - Panzer Dragoon RPG (J) (Disc 3) (2M) - TODO
+- Azel - Panzer Dragoon RPG (J) (Disc 4) (2M, 3M) - TODO
 
 #### B
 
