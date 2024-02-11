@@ -7,8 +7,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 [Playlist with Tested Games on Youtube](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
 
-`TODO` - Game needs to be tested, recorded, uploaded to youtube and be registered here.
-`TODO (Recorded)` - Game already tested, recorded and uploaded to youtube but they need to be registered here.
+- `TODO` - Game needs to be tested, recorded, uploaded to youtube and be registered here.
+- `TODO (Recorded)` - Game already tested, recorded and uploaded to youtube but they need to be registered here.
 
 :construction: In Progress :construction:
 
@@ -34,10 +34,112 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### B
 
+- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (J) (Disc 1) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (J) (Disc 2) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (J) (Disc 1) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (J) (Disc 2) - TODO
+- Baku Baku Animal - Sekai Shiiku Gakari Senshuken (J) (Rev A) - TODO
+- Baku Baku Animal - Sekai Shiiku Gakari Senshuken (J) - TODO
+- Baku Baku Animal - World Zookeeper Contest (E) - TODO
+- Baku Baku Animal - World Zookeeper Contest (U) - TODO
+- Bakuretsu Hunter (J) (Disc 1) - TODO
+- Bakuretsu Hunter (J) (Disc 2) (Omake CD) - TODO
+- Bakuretsu Hunter R (J) - TODO
+- Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (J) - TODO
+- Baldy Land (J) - TODO
 - [Baroque (J)](./J/T-33901G/01/README.md)
+- Baroque Report - CD Data File (J) - TODO
+- Bases Loaded '96 - Double Header (U) - TODO
+- Batman Forever - The Arcade Game (E) - TODO
+- Batman Forever - The Arcade Game (J) - TODO
+- Batman Forever - The Arcade Game (U) - TODO
 - [Batsugun (J)](./J/T-1248G/01/README.md)
+- Battle Arena Toshinden Remix (E) - TODO
+- Battle Arena Toshinden Remix (U) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (E) (Beta) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (E) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (U) - TODO
+- Battle Athletess Daiundoukai (J) - TODO
 - [Battle Garegga (J)](./J/T-10627G/01/README.md)
+- Battle Monsters (E) - TODO
+- Battle Monsters (J) - TODO
+- Battle Monsters (U) - TODO
+- Battle Stations (E) (En,Fr,De) - TODO
+- Battle Stations (U) - TODO
+- BattleSport (U) - TODO
+- Beach de Riichi! (J) - TODO
+- Bedlam (U) (Proto) - TODO
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (J) (1M) - TODO
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (J) (Rev A) (10M) - TODO
+- Big Thanks - Super Keirin - Dream with Keirin 50 Years (J) - TODO
+- Bio Hazard (J) - TODO
+- Bishoujo Hanafuda Kikou - Michinoku Hitou Koi Monogatari Special (J) - TODO
+- Bishoujo Senshi Sailor Moon SuperS - Various Emotion (J) - TODO
+- Black Dawn (E) - TODO
+- Black Dawn (J) - TODO
+- Black Dawn (U) - TODO
+- Black-Matrix (J) (Rerelease) - TODO
+- Black-Matrix (J) - TODO
+- BlackFire (E) - TODO
+- BlackFire (J) - TODO
+- BlackFire (U) (2S) - TODO
+- BlackFire (U) (3S) - TODO
+- Blam! Machinehead (E) - TODO
+- Blam! Machinehead (F) - TODO
+- Blam! Machinehead (G) - TODO
+- Blam! Machinehead (J) - TODO
+- Blast Chamber (E) - TODO
+- Blast Chamber (U) - TODO
 - [Blast Wind (J)](./J/T-1810G/01/README.md)
+- Blazing Dragons (E) - TODO
+- Blazing Dragons (F) - TODO
+- Blazing Dragons (G) - TODO
+- Blazing Dragons (U) - TODO
+- Blazing Heroes (U) - TODO
+- Blood Factory (J) - TODO
+- Blue Breaker - Ken yori mo Hohoemi o (J) (Demo) - TODO
+- Blue Breaker - Ken yori mo Hohoemi o (J) - TODO
+- Blue Seed - Kushinada Hirokuden (J) - TODO
+- Bomberman Wars (J) - TODO
+- Bootleg Sampler (E) (Made in EU, Made in J) - TODO
+- Bootleg Sampler (E) (Made in U) - TODO
+- Bootleg Sampler (U) (15S) - TODO
+- Bootleg Sampler (U) (8S, 9S, 17S) - TODO
+- Bootleg Sampler (U) (Rev A) (1S) - TODO
+- Bootleg Sampler (U) (Rev A) (2S) - TODO
+- Bootleg Sampler (U) - TODO
+- Bottom of the 9th (U) - TODO
+- Bouken Katsugeki Monomono (J) (Demo) - TODO
+- Bouken Katsugeki Monomono (J) - TODO
+- Brain Battle Q (J) - TODO
+- BrainDead 13 (J) - TODO
+- BrainDead 13 (U) - TODO
+- Break Point (E) (En,Fr) - TODO
+- Break Point (J) - TODO
+- Break Point Tennis (U) - TODO
+- BreakThru! (J) - TODO
+- Bubble Bobble also featuring Rainbow Islands (E) - TODO
+- Bubble Bobble also featuring Rainbow Islands (U) - TODO
+- Bubble Symphony (J) - TODO
+- Bug Too! (E) - TODO
+- Bug Too! (U) - TODO
+- Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (J) - TODO
+- Bug! (E) - TODO
+- Bug! (U) (Demo) (1S) - TODO
+- Bug! (U) (Demo) (3S) - TODO
+- Bug! (U) (R) - TODO
+- Bug! (U) - TODO (Recorded)
+- Bug! Jump Shite, Funzukechatte, Petchanko (J) - TODO
+- Bulk Slash (J) - TODO
+- Burning Rangers (E) - TODO
+- Burning Rangers (J) (Demo) - TODO
+- Burning Rangers (J) (Proto) - TODO
+- Burning Rangers (J) - TODO
+- Burning Rangers (U) - TODO (Recorded)
+- Bust-A-Move 2 - Arcade Edition (E) - TODO
+- Bust-A-Move 2 - Arcade Edition (U) - TODO (Recorded)
+- Bust-A-Move 3 (E) - TODO
+- Bust-A-Move 3 (U) - TODO (Recorded)
 
 #### C
 
