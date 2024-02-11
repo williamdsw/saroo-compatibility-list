@@ -806,7 +806,76 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### H
 
+- Habitat II (J) - TODO
+- Hang On GP '95 (J) (1M) - TODO
+- Hang On GP '95 (J) (2M) - TODO
+- Hang On GP '95 (J) (Demo) (2M) - TODO
+- Hang On GP '96 (E) - TODO
+- Hang-On GP (U) - TODO
+- Hansha de Spark! (J) (Demo) - TODO
+- Hansha de Spark! (J) - TODO
+- Hardcore 4x4 (E) - TODO
+- Harukaze Sentai V-Force (J) (Disc 1) - TODO
+- Harukaze Sentai V-Force (J) (Disc 2) - TODO
+- Harukaze Sentai V-Force (J) (Disc 3) - TODO
+- HatTrick Hero S (J) - TODO
+- Hatsukoi Monogatari (J) - TODO
+- Haunted Casino (J) (Disc A) - TODO
+- Haunted Casino (J) (Disc B) - TODO
+- Haunted Casino (J) (Disc C) - TODO
+- Heart of Darkness (J) (Proto) - TODO
+- Heartbeat Scramble (J) - TODO
+- Hebereke's Popoitto (E) - TODO
+- Heim Waltz (J) (Rev A) - TODO
+- Heir of Zendor - The Legend and The Land (U) - TODO
+- Heisei Tensai Bakabon - Susume! Bakabons (J) - TODO
+- Heiwa Pachinko Soushingeki (J) (1M) - TODO
+- Henry Explorers (J) - TODO
+- Herc's Adventures (U) (RE) - TODO (Recorded)
+- Hexen (E) - TODO
+- Hexen (U) - TODO
+- Hexen - Beyond Heretic (J) - TODO
+- Hi-Octane (E) - TODO
+- Hi-Octane (J) - TODO
+- Hi-Octane - The Track Fights Back! (U) - TODO
+- Hideo Nomo World Series Baseball (J) - TODO
+- High Velocity - Mountain Racing Challenge (U) - TODO
+- Highschool Terra Story (J) - TODO
+- Highway 2000 (E) - TODO
+- Highway 2000 (U) - TODO
+- Himitsu Sentai Metamor V (J) - TODO
+- Hissatsu Pachinko Collection (J) (Rev A) - TODO
+- Hissatsu Pachinko Collection (J) - TODO
+- Hissatsu! (J) - TODO
+- Hokuto no Ken (J) - TODO
+- Honkaku 4-nin Uchi Geinoujin Taikyoku Mahjong - The Wareme de Pon (J) - TODO
+- Honkaku Hanafuda (J) - TODO
+- Honkaku Pro Mahjong - Tetsuman Special (J) - TODO
+- Honkaku Shougi Shinan - Wakamatsu Shougi Juku (J) - TODO
+- Hop Step Idol (J) - TODO
+- Horde, The (E) - TODO
+- Horde, The (France) - TODO
+- Horde, The (Germany) - TODO
+- Horde, The (J) - TODO
+- Horde, The (U) - TODO
+- Horror Tour (J) (Rev B) (12M) - TODO
+- Horror Tour (J) - TODO
+- Houkago Ren'ai Club - Koi no Etude (J) (Disc 1) - TODO
+- Houkago Ren'ai Club - Koi no Etude (J) (Disc 2) - TODO
+- Houma Hunter Lime Perfect Collection (J) (Disc 1) - TODO
+- Houma Hunter Lime Perfect Collection (J) (Disc 2) - TODO
+- House of the Dead, The (E) - TODO
+- House of the Dead, The (J) (Demo) - TODO
+- House of the Dead, The (J) (Rev A) - TODO
+- House of the Dead, The (J) - TODO
+- House of the Dead, The (U) - TODO (Recorded)
+- Hudson Soft - New Soft Line Up for Sega Saturn (J) - TODO
+- Hyper 3-D Pinball (U) - TODO
+- Hyper 3D Pinball (J) - TODO
 - [Hyper Duel (J)](./J/T-1809G/01/README.md)
+- Hyper Golf, The - Devil's Course (J) - TODO
+- Hyper Reverthion (J) (2M) - TODO
+- Hyper Securities S (J) - TODO
 
 #### I
 
