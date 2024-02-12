@@ -1,5 +1,7 @@
 # SAROO Compatibility List
 
+## :construction: In Progress :construction:
+
 ### About
 
 Games compatibility list of SAROO cartridge for Sega Saturn.
@@ -9,8 +11,6 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 - `TODO` - Game needs to be tested, recorded, uploaded to youtube and be registered here.
 - `TODO (Recorded)` - Game already tested, recorded and uploaded to youtube but they need to be registered here.
-
-:construction: In Progress :construction:
 
 ### Games
 
@@ -1368,9 +1368,146 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### P
 
-- [Panzer Dragoon (U)](./U/MK-81009/01/README.md)
+- P.T.O. - Pacific Theater of Operations II (U) - TODO
+- PD Ultraman Link (J) - TODO
+- PGA Tour 97 (E) - TODO
+- PGA Tour 97 (J) - TODO
+- PGA Tour 97 (U) - TODO
+- Pachi-Slot Kanzen Kouryaku Uni-Colle '97 - Universal Collection (J) - TODO
+- Pachinko Hall - Shinsou Daikaiten (J) - TODO
+- Pad Nifty (J) - TODO
+- Pad Nifty 1.1 & Habitat II (J) - TODO
+- Pandemonium! (E) - TODO
+- Pandemonium! (U) - TODO
+- Paneltia Story - Koeln no Daibouken (J) - TODO
+- Panic-chan (J) (Rev A) (10M) - TODO
+- Panic-chan (J) (Rev A) (11M) - TODO
+- Panzer Dragoon (E) (Demo) (5S) - TODO
+- Panzer Dragoon (E) (Demo) (6S) - TODO
+- Panzer Dragoon (E) (En,Fr,De,Es,It) - TODO
+- Panzer Dragoon (J) (2M) - TODO
+- Panzer Dragoon (J) (3A, 3B) - TODO
+- Panzer Dragoon (J) (4B) - TODO
+- Panzer Dragoon (J) (5A) - TODO
+- Panzer Dragoon (J) (Demo 1) - TODO
+- Panzer Dragoon (J) (Demo 2) - TODO
+- [Panzer Dragoon (U)](./U/MK-81009/01/README.md) - TODO (Check Version)
+- Panzer Dragoon (U) (1S) - TODO
+- Panzer Dragoon (U) (5S) - TODO
+- Panzer Dragoon (U) (Demo) (2S) - TODO
+- Panzer Dragoon (U) (Demo) (3S) - TODO
+- Panzer Dragoon (U) (Demo) (4S) - TODO
+- Panzer Dragoon II Zwei (E) - TODO
+- Panzer Dragoon II Zwei (J) - TODO
 - [Panzer Dragoon II Zwei (U)](./U/MK-81022/01/README.md)
+- Panzer Dragoon Saga (E) (Disc 1) - TODO
+- Panzer Dragoon Saga (E) (Disc 2) - TODO
+- Panzer Dragoon Saga (E) (Disc 3) - TODO
+- Panzer Dragoon Saga (E) (Disc 4) - TODO
+- Panzer Dragoon Saga (U) (Disc 1) - TODO
+- Panzer Dragoon Saga (U) (Disc 2) - TODO
+- Panzer Dragoon Saga (U) (Disc 3) - TODO
+- Panzer Dragoon Saga (U) (Disc 4) - TODO
+- Pappara Paoon (J) (2M) - TODO
 - [Parodius (E)](./E/T-9501H-50/01/README.md)
+- Pastel Muses (J) - TODO
+- Pebble Beach Golf Links (E) (3S) - TODO
+- Pebble Beach Golf Links (E) (4S) - TODO
+- Pebble Beach Golf Links (U) - TODO
+- Pebble Beach Golf Links - Stadler ni Chousen (J) - TODO
+- PhantasM (J) (Disc 1) - TODO
+- PhantasM (J) (Disc 2) - TODO
+- PhantasM (J) (Disc 3) (2M) - TODO
+- PhantasM (J) (Disc 4) - TODO
+- PhantasM (J) (Disc 5) - TODO
+- PhantasM (J) (Disc 6) (4M) - TODO
+- PhantasM (J) (Disc 6) (5M) - TODO
+- PhantasM (J) (Disc 7) - TODO
+- PhantasM (J) (Disc 8) - TODO
+- Photo CD Operating System (E) (2S) - TODO
+- Photo CD Operating System (E) - TODO
+- Photo Genic (J) - TODO
+- Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa (J) - TODO
+- Pia Carrot e Youkoso!! 2 (J) (Disc 1) (Game Disc) (2M) - TODO
+- Pia Carrot e Youkoso!! 2 (J) (Disc 1) (Game Disc) (3M) - TODO
+- Pia Carrot e Youkoso!! 2 (J) (Disc 1) (Game Disc) (4M) - TODO
+- Pia Carrot e Youkoso!! 2 (J) (Disc 2) (Special Disc) (1M) - TODO
+- Pia Carrot e Youkoso!! 2 (J) (Disc 2) (Special Disc) (2M) - TODO
+- Pia Carrot e Youkoso!! We've Been Waiting for You (J) (Demo) - TODO
+- Pia Carrot e Youkoso!! We've Been Waiting for You (J) - TODO
+- PictFlash Don Don (J) - TODO
+- Pinball Graffiti (E) (Demo) - TODO
+- Pinball Graffiti (E) - TODO
+- Pinball Graffiti (J) - TODO
+- Planet Joker (J) - TODO
+- Playboy - Karaoke Collection Volume 1 (J) - TODO
+- Playboy - Karaoke Collection Volume 2 (J) (2M) - TODO
+- Pocket Fighter (J) - TODO
+- Policenauts (J) (Disc 1) - TODO
+- Policenauts (J) (Disc 2) - TODO
+- Policenauts (J) (Disc 3) - TODO
+- Popoitto Hebereke (J) - TODO
+- Powerslave (U) - TODO
+- Preview Sega Saturn Vol. 1 (E) - TODO
+- PriKura (Princess Kurara) Daisakusen (J) (Demo) - TODO
+- PriKura (Princess Kurara) Daisakusen (J) - TODO
+- Primal Rage (E) - TODO
+- Primal Rage (J) - TODO
+- Primal Rage (U) - TODO
+- Prime Selection Vol. 1 (J) - TODO
+- Princess Crown (J) (1M) - TODO
+- Princess Crown (J) (Rev A) (11M) - TODO
+- Princess Crown (J) (Rev A) (13M) - TODO
+- Princess Maker - Yumemiru Yousei (J) (Demo) (2M) - TODO
+- Princess Maker - Yumemiru Yousei (J) - TODO
+- Princess Maker 2 (J) (1M) - TODO
+- Princess Maker 2 (J) (4M) - TODO
+- Princess Quest (J) (Rev A) (11M) - TODO
+- Princess Quest (J) - TODO
+- Prisoner of Ice - Jashin Kourin (J) - TODO
+- Private Idol Disc - Data-hen - Race Queen F (J) - TODO
+- Private Idol Disc - Data-hen - Race Queen G (J) - TODO
+- Private Idol Disc - Tokubetsu-hen - Can Gal '97 (J) - TODO
+- Private Idol Disc - Tokubetsu-hen - Cosplayers (J) (2M) - TODO
+- Private Idol Disc - Tokubetsu-hen - Kogal Daihyakka 100 (J) - TODO
+- Private Idol Disc Vol. 1 - Yuu Kinoshita (J) - TODO
+- Private Idol Disc Vol. 2 - Miki Uchiyama (J) - TODO
+- Private Idol Disc Vol. 3 - Akemi Ooshima (J) (2M) - TODO
+- Private Idol Disc Vol. 4 - Mirei Kuroda (J) - TODO
+- Private Idol Disc Vol. 5 - Nanako Fujisaki (J) - TODO
+- Private Idol Disc Vol. 6 - Satomi Yoshida (J) - TODO
+- Private Idol Disc Vol. 7 - Kaori Asou (J) - TODO
+- Private Idol Disc Vol. 8 - Emiko Furukawa (J) - TODO
+- Private Idol Disc Vol. 9 - Keiko Nagamatsu (J) - TODO
+- Private Idol Disc Vol. 10 - Mai Masaki (J) - TODO
+- Private Idol Disc Vol. 11 - Mayumi Hirose (J) (2M) - TODO
+- Pro Mahjong Kiwame-S (J) (Rev A) - TODO
+- Pro Mahjong Kiwame-S (J) - TODO
+- Pro Shinan Mahjong - Tsuwamono (J) - TODO
+- Pro Yakyuu Greatest Nine '97 (J) (Rev A) - TODO
+- Pro Yakyuu Greatest Nine '97 (J) (Rev B) - TODO
+- Pro Yakyuu Greatest Nine '97 - Make Miracle (J) - TODO
+- Pro Yakyuu Greatest Nine '98 (J) (Rev A) - TODO
+- Pro Yakyuu Greatest Nine '98 (J) (Rev B) - TODO
+- Pro Yakyuu Greatest Nine '98 - Summer Action (J) - TODO
+- Pro Yakyuu Team mo Tsukurou! (J) (Rev B) - TODO
+- Pro Yakyuu Team mo Tsukurou! (J) - TODO
+- Pro-Pinball (U) - TODO
+- Pro-Pinball - The Web (E) - TODO
+- Psychotron, The (J) - TODO
+- Pup-Breeder (J) - TODO
+- Puyo Puyo Sun (J) (1M, 3M) - TODO
+- Puyo Puyo Sun (J) (2M) - TODO
+- Puyo Puyo Sun (J) (Rev A) (10M) - TODO
+- Puyo Puyo Sun for SegaNet (J) - TODO
+- Puyo Puyo Tsuu (J) (1M) - TODO
+- Puyo Puyo Tsuu (J) (3M) - TODO
+- Puzzle Bobble 2X (J) (2M1, 2MB1) - TODO
+- Puzzle Bobble 2X (J) (2M2) - TODO
+- Puzzle Bobble 3 (J) (1M) - TODO
+- Puzzle Bobble 3 (J) (2M) - TODO
+- Puzzle Bobble 3 for SegaNet (J) - TODO
+- Pyon Pyon Kyaruru no Mahjong Biyori (J) (2M) - TODO
 
 #### Q
 
