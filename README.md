@@ -855,7 +855,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Hop Step Idol (J) - TODO
 - Horde, The (E) - TODO
 - Horde, The (France) - TODO
-- Horde, The (Germany) - TODO
+- Horde, The (G) - TODO
 - Horde, The (J) - TODO
 - Horde, The (U) - TODO
 - Horror Tour (J) (Rev B) (12M) - TODO
@@ -1016,7 +1016,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Kouryuu Sangoku Engi (J) - TODO
 - Koutetsu Reiiki - Steeldom (J) (2M) - TODO
 - Krazy Ivan (E) - TODO
-- Krazy Ivan (Germany) - TODO
+- Krazy Ivan (G) - TODO
 - Krazy Ivan (J) - TODO
 - Kumitate Battle Kuttu Ketto (J) - TODO
 - Kunoichi Torimonochou (J) - TODO
@@ -1247,7 +1247,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Myst (U) - TODO
 - Mystaria - The Realms of Lore (E) - TODO
 - Mystaria - The Realms of Lore (U) - TODO
-- Mystery Mansion - Das Haus der verlorenen Seelen (Germany) - TODO
+- Mystery Mansion - Das Haus der verlorenen Seelen (G) - TODO
 
 #### N
 
@@ -1524,12 +1524,99 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### R
 
+- RMJ - The Mystery Hospital (J) - TODO
+- Rabbit (J) (Demo) - TODO
+- Rabbit (J) - TODO
+- Race Drivin' (J) (2M) - TODO
 - [Radiant Silvergun (J)](./J/T-32902G/01/README.md)
-- [Real Bout Fatal Fury (J)](./J/T-3105G/01/README.md)
+- Rampage - World Tour (E) - TODO
+- Rampage - World Tour (U) - TODO
+- Rampo (J) (Disc 1) - TODO
+- Rampo (J) (Disc 2) - TODO
+- Rapyulus Panic (J) - TODO
+- Rayman (E) (1S) - TODO
+- Rayman (E) (6S) - TODO
+- Rayman (J) - TODO
+- Rayman (U) (Demo) - TODO
+- Rayman (U) (R2) - TODO
+- [Real Bout Garou Densetsu (Real Bout Fatal Fury) (J) (2M)](./J/T-3105G/01/README.md)
+- Real Bout Garou Densetsu (J) (Demo) - TODO
+- Real Bout Garou Densetsu Special (J) (Rev A) - TODO
 - [Real Bout Fatal Fury Special (J)](./J/T-3119G/01/README.md)
+- Real Mahjong Adventure Umi e - Summer Waltz (J) (P's Club Genteiban) - TODO
+- Real Mahjong Adventure Umi e - Summer Waltz (J) - TODO
+- Real Sound - Kaze no Regret (J) (Disc 1) (2M, 3M) - TODO
+- Real Sound - Kaze no Regret (J) (Disc 1) (4M) - TODO
+- Real Sound - Kaze no Regret (J) (Disc 2) (1M) - TODO
+- Real Sound - Kaze no Regret (J) (Disc 2) (2M) - TODO
+- Real Sound - Kaze no Regret (J) (Disc 3) (1M) - TODO
+- Real Sound - Kaze no Regret (J) (Disc 3) (2M) - TODO
+- Real Sound - Kaze no Regret (J) (Disc 4) (2M) - TODO
+- Real Sound - Kaze no Regret (J) (Disc 4) (3M) - TODO
+- Refrain Love - Anata ni Aitai (J) (Disc 1) - TODO
+- Refrain Love - Anata ni Aitai (J) (Disc 2) - TODO
+- Resident Evil (E) - TODO
+- Resident Evil (U) - TODO
+- Return to Zork (J) (1M) - TODO
+- Return to Zork (J) (Rev A) (10M) - TODO
+- Revolution X - Music Is the Weapon (E) - TODO
+- Revolution X - Music Is the Weapon (G) (5S) - TODO
+- Revolution X - Music Is the Weapon (J) (10S) - TODO
+- Revolution X - Music Is the Weapon (U) (Beta) - TODO
 - [Revolution X - Music is the Weapon featuring Aerosmith (U)](./U/T-8107H/01/README.md)
-- [Rockman X3 (J)](./J/T-1210G/01/README.md)
-- [Rockman X4 (J)](./J/T-1221G/01/README.md)
+- Riglordsaga (J) (Demo) - TODO
+- Riglordsaga (J) (Made in J) (1M) - TODO
+- Riglordsaga (J) (Made in J) (4M) - TODO
+- Riglordsaga (J) (Made in U.S.A.) (1S) - TODO
+- Riglordsaga (J) (Made in U.S.A.) (4S) - TODO
+- Riglordsaga 2 (J) (1M) - TODO
+- Riglordsaga 2 (J) (2M) - TODO
+- Rise 2 - Resurrection (E) (Beta) - TODO
+- Rise 2 - Resurrection (E) - TODO
+- Rise 2 - Resurrection (J) - TODO
+- Rise 2 - Resurrection (U) - TODO
+- Riven - A Sequencia de Myst (Brazil) (Disc 1) - TODO
+- Riven - A Sequencia de Myst (Brazil) (Disc 2) - TODO
+- Riven - A Sequencia de Myst (Brazil) (Disc 3) - TODO
+- Riven - A Sequencia de Myst (Brazil) (Disc 4) - TODO
+- Riven - The Sequel to Myst (E) (Disc 1) - TODO
+- Riven - The Sequel to Myst (E) (Disc 2) - TODO
+- Riven - The Sequel to Myst (E) (Disc 3) - TODO
+- Riven - The Sequel to Myst (E) (Disc 4) - TODO
+- Riven - The Sequel to Myst (J) (Disc 1) - TODO
+- Riven - The Sequel to Myst (J) (Disc 2) - TODO
+- Riven - The Sequel to Myst (J) (Disc 3) - TODO
+- Riven - The Sequel to Myst (J) (Disc 4) - TODO
+- RoX - 6 = Six (J) - TODO
+- Road & Track Presents - The Need for Speed (E) - TODO
+- Road & Track Presents - The Need for Speed (U) - TODO
+- Road Rash (E) - TODO
+- Road Rash (J) - TODO
+- Road Rash (U) - TODO (Recorded)
+- Robo Pit (E) - TODO
+- Robo Pit (J) - TODO
+- Robo Pit (U) - TODO
+- Robotica (U) - TODO
+- Robotica - Cybernation Revolt (E) - TODO
+- Rockman 8 - Metal Heroes (J) - TODO
+- [Rockman X3 (J) (2M)](./J/T-1210G/01/README.md)
+- [Rockman X4 (J)](./J/T-1221G/01/README.md) - TODO (Check Version)
+- Rockman X4 (J) (1M) - TODO
+- Rockman X4 (J) (3M) - TODO
+- Romance of the Three Kingdoms IV - Wall of Fire (U) - TODO
+- Ronde (J) (Disc 1) - TODO
+- Ronde (J) (Disc 2) - TODO
+- Roommate - Inoue Ryouko (J) (Rev A) - TODO
+- Roommate - Inoue Ryouko (J) - TODO
+- Roommate - Ryouko in Summer Vacation (J) (2M) - TODO
+- Roommate 3 - Ryouko Kaze no Kagayaku Asa ni (J) (Rev A) - TODO
+- Roommate 3 - Ryouko Kaze no Kagayaku Asa ni (J) - TODO
+- Roommate W - Futari (J) (Disc 1) - TODO
+- Roommate W - Futari (J) (Disc 2) - TODO
+- Ruriiro no Yuki (J) - TODO
+- Ryouko no Oshaberi Room (J) - TODO
+- Ryouri no Tetsujin - Kitchen Stadium Tour (J) - TODO
+- Ryuuteki Gosennen - Dragons of China (J) - TODO
 
 #### S
 
