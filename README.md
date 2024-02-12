@@ -1251,6 +1251,99 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### N
 
+- NASCAR 98 (E) - TODO
+- NASCAR 98 (F) - TODO
+- NASCAR 98 (G) - TODO
+- NASCAR 98 (U) - TODO
+- NBA Action (E) - TODO
+- NBA Action (U) - TODO
+- NBA Action 98 (E) - TODO
+- NBA Action 98 (U) - TODO
+- NBA Jam - Tournament Edition (E) - TODO
+- NBA Jam - Tournament Edition (J) (4S) - TODO
+- NBA Jam - Tournament Edition (U) (3S) - TODO
+- NBA Jam Extreme (E) - TODO
+- NBA Jam Extreme (J) - TODO
+- NBA Jam Extreme (U) - TODO
+- NBA Live 97 (E) - TODO
+- NBA Live 97 (U) - TODO
+- NBA Live 98 (E) - TODO
+- NBA Live 98 (U) - TODO
+- NFL '97 (U) (Rev A) - TODO
+- NFL '97 (U) - TODO
+- NFL Quarterback Club '96 (J) - TODO
+- NFL Quarterback Club '96 (U) (5S) - TODO
+- NFL Quarterback Club '97 (J) - TODO
+- NFL Quarterback Club 96 (E) - TODO
+- NFL Quarterback Club 97 (E) - TODO
+- NFL Quarterback Club 97 (U) - TODO
+- NHL 97 (E) - TODO
+- NHL 97 (G) - TODO
+- NHL 97 (J) - TODO
+- NHL 97 (U) - TODO
+- NHL 98 (E) - TODO
+- NHL 98 (U) - TODO
+- NHL All-Star Hockey (E) - TODO
+- NHL All-Star Hockey (U) (1S) - TODO
+- NHL All-Star Hockey (U) (2S) - TODO
+- NHL All-Star Hockey 98 (E) - TODO
+- NHL All-Star Hockey 98 (U) - TODO
+- NHL Powerplay '96 (E) - TODO
+- NHL Powerplay '96 (J) - TODO
+- NHL Powerplay '96 (U) - TODO
+- NOeL 3 - Not Digital (J) (Disc 1) - TODO
+- NOeL 3 - Not Digital (J) (Disc 2) - TODO
+- NOeL 3 - Not Digital (J) (Disc 3) - TODO
+- Nanatsu Kaze no Shima Monogatari (J) (Disc 1) - TODO
+- Nanatsu Kaze no Shima Monogatari (J) (Disc 2) (Premium CD) - TODO
+- Nanatsu no Hikan (J) (Demo) - TODO
+- Nanatsu no Hikan (J) (Disc 1) (1M) - TODO
+- Nanatsu no Hikan (J) (Disc 1) (2M) - TODO
+- Nanatsu no Hikan (J) (Disc 2) (1M) - TODO
+- Nanatsu no Hikan (J) (Disc 2) (2M) - TODO
+- Nanatsu no Hikan (J) (Disc 3) (1M, 2M) - TODO
+- Nekketsu Oyako (J) - TODO
+- Neon Genesis - Evangelion - Koutetsu no Girlfriend (J) (Disc 1) - TODO
+- Neon Genesis - Evangelion - Koutetsu no Girlfriend (J) (Disc 2) - TODO
+- Neon Genesis Evangelion - Digital Card Library (J) - TODO
+- Next King - Koi no Sennen Oukoku (J) - TODO
+- NiGHTS into Dreams... (E) - TODO
+- NiGHTS into Dreams... (J) (Demo) - TODO
+- NiGHTS into Dreams... (J) - TODO
+- NiGHTS into Dreams... (Korea) - TODO
+- NiGHTS into Dreams... (U) (Demo) - TODO
+- NiGHTS into Dreams... (U) (with 3D Control Pad) (RE) - TODO
+- NiGHTS into Dreams... (U, Brazil) - TODO (Recorded)
+- Night Striker S (J) - TODO
+- Night Warriors - Darkstalkers' Revenge (E) - TODO
+- Night Warriors - Darkstalkers' Revenge (U) - TODO (Recorded)
+- Nightruth - Explanation of the Paranormal - Futatsu Dake no Shinjitsu (J) - TODO
+- Nightruth - Explanation of the Paranormal - Futatsu dake no Shinjitsu (J) - TODO
+- Nightruth - Explanation of the Paranormal - Making of Nightruth II - Voice Selection (J) - TODO
+- Nightruth - Explanation of the Paranormal - Maria (J) - TODO
+- Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (J) (2M) - TODO
+- Nightruth - Explanation of the Paranormal - The Making of Nightruth (J) (2M) - TODO
+- Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (J) (2M) - TODO
+- Nihon Daihyou Team no Kantoku ni Naruu! Sekaihatsu Soccer RPG - Become the Coach for the National Team! (J) - TODO
+- Nihon Pro Mahjong Renmei Kounin - Doujou Yaburi (J) - TODO
+- Nile-gawa no Yoake (J) (Rev A) - TODO
+- Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (J) (Demo) - TODO
+- Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (J) - TODO
+- Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (J) - TODO
+- Ninpen Manmaru (J) - TODO
+- Nissan Presents - Over Drivin' GT-R (J) (Demo) - TODO
+- Nissan Presents - Over Drivin' GT-R (J) (Rev A) - TODO
+- Nissan Presents - Over Drivin' GT-R (J) - TODO
+- No-appointment Gals Olympos (J) - TODO
+- Nobunaga no Yabou - Shouseiroku (J) (2M) - TODO
+- Nobunaga no Yabou Returns (J) - TODO
+- Nobunaga no Yabou Sengoku Gunyuuden (J) - TODO
+- Nobunaga no Yabou Tenshouki (J) - TODO
+- Nobunaga no Yabou Tenshouki with Power-Up Kit (J) - TODO
+- Nonomura Byouin no Hitobito (J) - TODO
+- Noon (J) (Rev A) - TODO
+- Norse by Norsewest - The Return of the Lost Vikings (U) - TODO
+
 #### O
 
 - Ochigee Designer Tsukutte Pon! (J) - TODO (Recorded)
