@@ -1087,15 +1087,167 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### M
 
+- Maboroshi no Black Bass (J) - TODO
+- Machi (J) (Demo) (1M) - TODO
+- Machi (J) (Demo) (2M) - TODO
+- Machi (J) (Demo) (4M) - TODO
 - [Machine Head (U)](./U/T-7914H/01/README.md)
+- Madden NFL 97 (E) - TODO
+- Madden NFL 97 (U) - TODO
+- Madden NFL 98 (E) - TODO
+- Madden NFL 98 (U) - TODO
+- Madou Monogatari (J) - TODO
+- Magic Carpet (E) - TODO
+- Magic Carpet (J) - TODO
+- Magic Carpet (U) - TODO
+- Magic Knight Rayearth (J) (4M) - TODO
+- Magic Knight Rayearth (J) (Genteiban) (1M) - TODO
+- Magic Knight Rayearth (J) (Genteiban) (2M, 3M) - TODO
+- Magic Knight Rayearth (U) - TODO
+- Magical Drop (J) (Demo) - TODO
+- Magical Drop (J) - TODO
+- Magical Drop 2 (J) - TODO
+- Magical Drop III - Toretate Zoukan-gou! (J) (2M) - TODO
+- Magical Drop III - Toretate Zoukan-gou! (J) (Demo) (1M) - TODO
+- Magical Drop III - Toretate Zoukan-gou! (J) (Demo) (2M) - TODO
+- Magical Hoppers (J) - TODO
+- Magical Night Dreams - Cotton 2 (J) - TODO
+- Magical Night Dreams - Cotton Boomerang (J) - TODO
+- Mahjong Doukyuusei Special (J) (Disc 1) (Shokai Genteiban) - TODO
+- Mahjong Doukyuusei Special (J) (Disc 2) (Portrait CD) (Shokai Genteiban) - TODO
+- Mahjong Doukyuusei Special (J) - TODO
+- Mahjong Gakuensai (J) (Disc 1) (Shokai Genteiban) - TODO
+- Mahjong Gakuensai (J) (Disc 2) (Seiyuu Interview Hi CD) (Shokai Genteiban) - TODO
+- Mahjong Gakuensai (J) - TODO
+- Mahjong Gakuensai DX - Zenjitsu ni Matsuwaru Funsenki (J) - TODO
+- Mahjong Ganryuujima (J) (4M) - TODO
+- Mahjong Gokuu Tenjiku (J) - TODO
+- Mahjong Hyper Reaction R (J) - TODO
+- Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (J) (2M) - TODO
+- Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (J) (Demo) - TODO
+- Mahjong Taikai II Special (J) (2M) - TODO
+- Mahjong Taikai II Special (J) (Rev A) (10M) - TODO
+- Mahjong Tenshi - Angel Lips (J) - TODO
+- Mahjong Yon Shimai - WakakU Monogatari (J) - TODO
+- Mahjong-kyou Jidai Cebu Island '96 (J) (Disc 1) - TODO
+- Mahjong-kyou Jidai Cebu Island '96 (J) (Disc 2) (Omake Disk) - TODO
+- Mahjong-kyou Jidai Cogal Houkago-hen (J) - TODO
+- Mahou Gakuen Lunar! (J) (1M) - TODO
+- Mahou Gakuen Lunar! (J) (2M) - TODO
+- Mahou Shoujo Pretty Samy - Heart no Kimochi (J) - TODO
+- Mahou Shoujo Pretty Samy - Osorubeshi Shintai Sokutei! Kakubakuhatsu 5-Byou-mae!! (J) - TODO
+- Mahou no Janshi - Poe Poe Poemy (J) (2M) - TODO
+- Mahoutsukai ni Naru Houhou (J) - TODO
+- Mainichi Kawaru Quiz Bangumi - Quiz 365 (J) - TODO
+- Manoir des Ames Perdues, Le (France) - TODO
+- Mansion de las Almas Ocultas, La (Spain) - TODO
+- Mansion of Hidden Souls, The (E) (1S) - TODO
+- Mansion of Hidden Souls, The (E) (4S) - TODO
+- Mansion of Hidden Souls, The (U) - TODO
+- Manx TT SuperBike (E) - TODO
+- Manx TT SuperBike (J) - TODO
+- Manx TT SuperBike (U) - TODO
+- Maria - Kimi-tachi ga Umareta Wake (J) (Demo) - TODO
+- Maria - Kimi-tachi ga Umareta Wake (J) (Disc 1) - TODO
+- Maria - Kimi-tachi ga Umareta Wake (J) (Disc 2) - TODO
+- Marica - Shinjitsu no Sekai (J) - TODO
+- Marie no Atelier Ver. 1.3 - Salburg no Renkinjutsushi (J) - TODO
+- Mario Mushano no Chou Shougi Juku - Mario Mushano's Hyper Shogi School (J) - TODO
+- Marvel Super Heroes (E) - TODO
+- Marvel Super Heroes (J) (Demo) - TODO
 - [Marvel Super Heroes (J)](./J/T-1215G/01/README.md)
+- Marvel Super Heroes (U) - TODO
 - [Marvel Super Heroes vs. Street Fighter (J)](./J/T-1238G/01/README.md)
+- Mass Destruction (E) - TODO
+- Mass Destruction (U) - TODO
+- Mass Destruction - OtoUn ni mo Dekiru Soft (J) - TODO
+- Master of Monsters - Neo Generations (J) - TODO
+- Masters - Harukanaru Augusta 3 (J) (2M) - TODO
+- Matsukata Hiroki no World Fishing (J) - TODO
+- Maximum Force (E) - TODO
+- Maximum Force (U) - TODO
+- MechWarrior 2 (J) - TODO
+- MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (E) - TODO
+- MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (U) - TODO
+- Mechanical Violator Hakaider - Last Judgement (J) - TODO
+- MediaROMancer - DA - Daisuke Asakura (J) - TODO
 - [Mega Man 8 (U)](./U/T-1216H/01/README.md)
+- Mega Man X3 (E) - TODO
 - [Mega Man X4 (U)](./U/T-1219H/01/README.md)
-- [Minnesota Fats: Pool Legend (U)](./U/T-1302H/01/README.md)
+- MeltyLancer - Ginga Shoujo Keisatsu 2086 (J) - TODO
+- MeltyLancer - Re-inforce (J) (Demo) - TODO
+- MeltyLancer - Re-inforce (J) (Disc 1) - TODO
+- MeltyLancer - Re-inforce (J) (Disc 2) - TODO
+- MeltyLancer - Re-inforce (J) (Disc 3) - TODO
+- Message Navi (J) (Demo) - TODO
+- Message Navi (J) - TODO
+- Message Navi Vol. 2 (J) - TODO
+- Metal Black (J) (1M) - TODO
+- Metal Black (J) (3M) - TODO
+- Metal Fighter Miku (J) - TODO
+- Metal Slug - Super Vehicle-001 (J) (Rev A) - TODO
+- Metal Slug - Super Vehicle-001 (J) - TODO (Recorded)
+- Mezase Idol Star!! Natsuiro Memories - Mahjong-hen (J) (2M) - TODO
+- Mighty Hits (E) - TODO
+- Mighty Hits (J) - TODO
+- Minakata Hakudou Toujou (J) (Disc 1) (2M) - TODO
+- Minakata Hakudou Toujou (J) (Disc 2) - TODO
+- Minami no Shima ni Buta ga Ita - Lucas no Daibouken (J) (2M) - TODO
+- [Minnesota Fats: Pool Legend (U) (R)](./U/T-1302H/01/README.md)
+- Minton Keibu no SoU File - Doukeshi Satsujin Jiken (J) - TODO
+- Mizubaku Daibouken (J) - TODO
+- Mizuki Shigeru no Youkai Zukan Soushuuhen (J) - TODO
+- Mobile Suit Gundam (J) (Rev A) - TODO
 - [Mobile Suit Gundam (J)](./J/T-13303G/01/README.md)
+- Mobile Suit Gundam Side Story - Optional Guide (J) - TODO
+- Mobile Suit Gundam Side Story I - Senritsu no Blue (J) (Demo) - TODO
+- Mobile Suit Gundam Side Story I - Senritsu no Blue (J) - TODO
+- Mobile Suit Gundam Side Story II - Ao o Uketsugu Mono (J) - TODO
+- Mobile Suit Gundam Side Story III - Sabakareshi Mono (J) - TODO
+- Moero!! Pro Yakyuu '95 - Double Header (J) - TODO
+- Mogitate SegaSaturn - Special Movie (J) (2M) - TODO
+- Mogitate SegaSaturn Vol. 2 (J) - TODO
+- Mogitate SegaSaturn Vol. 3 (J) - TODO
+- Mogitate SegaSaturn Vol. 4 (J) - TODO
+- Mogitate SegaSaturn Vol. 5 (J) - TODO
+- Mogitate SegaSaturn Vol. 6 (J) - TODO
+- Momotarou Douchuuki (J) (1M) - TODO
+- Momotarou Douchuuki (J) (2M) - TODO
+- Momotarou Douchuuki (J) (Rev A) (11M) - TODO
+- Monster Slider (J) (Demo) - TODO
+- Monster Slider (J) - TODO
+- Moon Cradle (J) (Disc 1) - TODO
+- Moon Cradle (J) (Disc 2) - TODO
+- Moon Cradle (J) (Disc 3) - TODO
+- Mortal Kombat II (E) - TODO
 - [Mortal Kombat II (U)](./U/T-8103H/01/README.md)
+- Mortal Kombat II Kanzenban (J) (4S) - TODO
+- Mortal Kombat Trilogy (E) - TODO
 - [Mortal Kombat Trilogy (U)](./U/T-9704H/01/README.md)
+- Motteke Tamago with Ganbare! Kamonohashi (J) - TODO
+- Mouja (J) - TODO
+- Mouri Motonari - Chikai no Sanshi (J) - TODO
+- Mr. Bones (E) (Disc 1) - TODO
+- Mr. Bones (E) (Disc 2) - TODO
+- Mr. Bones (J) (Demo) - TODO
+- Mr. Bones (J) (Disc 1) - TODO
+- Mr. Bones (J) (Disc 2) - TODO
+- Mr. Bones (U) (Disc 1) - TODO (Recorded)
+- Mr. Bones (U) (Disc 2) - TODO
+- Mujintou Monogatari R - Futari no Love Love Island (J) - TODO
+- Murakoshi Seikai no Bakuchou Nihon Rettou (J) - TODO
+- My Best Friends - St. Andrew Jogakuin-hen (J) - TODO
+- My Dream - On Air ga Matenakute (J) (Disc 1) - TODO
+- My Dream - On Air ga Matenakute (J) (Disc 2) - TODO
+- Myst (E) - TODO
+- Myst (J) (Rev A) - TODO
+- Myst (J) - TODO
+- Myst (Korea) - TODO
+- Myst (Taiwan) - TODO
+- Myst (U) - TODO
+- Mystaria - The Realms of Lore (E) - TODO
+- Mystaria - The Realms of Lore (U) - TODO
+- Mystery Mansion - Das Haus der verlorenen Seelen (Germany) - TODO
 
 #### N
 
