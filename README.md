@@ -963,9 +963,71 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### K
 
+- K-1 Grand Prix - Fighting Illusion Shou (J) - TODO
+- Kaitei Daisensou (J) - TODO
+- Kaitou Saint Tail (J) - TODO
+- Kakinoki Shougi (J) - TODO
+- Kakyuusei (J) (Disc 1) - TODO
+- Kakyuusei (J) (Disc 2) (2M) - TODO
+- Kakyuusei (J) (Disc 3) (2M) - TODO
+- Kamen Rider - Sakusen File 1 (J) - TODO (Recorded)
+- Kanazawa Shougi (J) (1M) - TODO
+- Kanazawa Shougi (J) (2M) - TODO
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (J) (Demo) - TODO
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (J) (Rev A) - TODO
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (J) (Rev B) - TODO
+- Keio Flying Squadron 2 (E) - TODO
+- Keiou Yuugekitai - Katsugeki-hen (J) - TODO
+- Keiou Yuugekitai - Okiraku Tamatebako (J) - TODO
+- Kekkon - Marriage (J) - TODO
+- Kekkon - Marriage - Zen'ya (J) - TODO
+- Keriotosse! (J) (Demo) - TODO
+- Keriotosse! (J) - TODO
+- Kidou Senkan Nadesico - The Blank of 3 Years (J) (Disc 1) - TODO
+- Kidou Senkan Nadesico - The Blank of 3 Years (J) (Disc 2) - TODO
+- Kidou Senkan Nadesico - Yappari Saigo wa Ai ga Katsu (J) - TODO
+- Kidou Senshi Gundam - Gihren no Yabou (J) - TODO
+- Kidou Senshi Gundam - Gihren no Yabou - Kouryaku Shireisho (J) - TODO
+- Kidou Senshi Z Gundam - Kouhen Uchuu o Kakeru (J) - TODO
+- Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (J) - TODO
+- Kindaichi Shounen no Jikenbo - Hoshimitou Kanashimi no Fukushuuki (J) - TODO
+- King of Boxing, The (J) - TODO
+- King of Fighters '95, The (E) - TODO
+- King of Fighters '95, The (J) (1M) - TODO
+- King of Fighters '95, The (J) (2M) - TODO
+- King of Fighters '95, The (J) (3M) - TODO
+- King of Fighters '96, The (J) (1M) - TODO
+- King of Fighters '96, The (J) (4M, 5M) - TODO
+- King of Fighters '97, The (J) - TODO
+- Kiss yori... (J) (Rev A) - TODO
+- Kiss yori... (J) - TODO
+- Kisuishou Densetsu Astal (J) (1M, 4M) - TODO
+- Kisuishou Densetsu Astal (J) (3A) - TODO
+- Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (J) (Satakore) - TODO
+- Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (J) - TODO
+- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (J) (Disc 1) (Joukan) - TODO
+- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (J) (Disc 2) (Gekan) - TODO
+- Koi no Summer Fantasy - in Miyazaki Seagaia (J) - TODO
+- Konami Antiques - MSX Collection Ultra Pack (J) (2M) - TODO
 - [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc A](./J/T-28004G/01/README.md)
 - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc B) - TODO
 - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc C) - TODO
+- Koudou Saisoku Densetsu - Initial D (J) - TODO
+- Kouryuu Sangoku Engi (J) - TODO
+- Koutetsu Reiiki - Steeldom (J) (2M) - TODO
+- Krazy Ivan (E) - TODO
+- Krazy Ivan (Germany) - TODO
+- Krazy Ivan (J) - TODO
+- Kumitate Battle Kuttu Ketto (J) - TODO
+- Kunoichi Torimonochou (J) - TODO
+- Kuro no Danshou - The Literary Fragment (J) (2M) - TODO
+- Kuro no Danshou - The Literary Fragment (J) (3M) - TODO
+- Kurubushi Kyoudai Gekijou Dai-ikkan - Mahjong-hen (J) (2M) - TODO
+- Kururin Pa! (J) - TODO
+- Kuusou Kagaku Sekai Gulliver Boy (J) (Disc 1) - TODO
+- Kuusou Kagaku Sekai Gulliver Boy (J) (Disc 2) - TODO
+- Kyuukyoku Tiger II Plus (J) - TODO
+- Kyuutenkai (J) - TODO
 
 #### L
 
