@@ -879,9 +879,87 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### I
 
+- Ide Yousuke Meijin no Shin Jissen Mahjong (J) (2M) - TODO
+- Idol Janshi Suchie-Pai II (J) (Disc 1) - TODO
+- Idol Janshi Suchie-Pai II (J) (Disc 2) (Omake Disc) - TODO
+- Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 1) - TODO
+- Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 2) - TODO
+- Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 3) - TODO
+- Idol Janshi Suchie-Pai Remix (J) - TODO
+- Idol Janshi Suchie-Pai Secret Album (J) - TODO
+- Idol Janshi Suchie-Pai Special (J) - TODO
+- Idol Mahjong - Final Romance 2 (J) - TODO
+- Idol Mahjong - Final Romance 4 (J) - TODO
+- Idol Mahjong - Final Romance R (J) (Kisekae Disc Kanzenban) - TODO
+- Idol Mahjong - Final Romance R (J) (Kisekae Disc) - TODO
+- Idol Mahjong - Final Romance R (J) - TODO
+- Impact Racing (E) (Demo) - TODO
+- Impact Racing (E) - TODO
+- Impact Racing (J) - TODO
+- Impact Racing (U) - TODO
+- In the Hunt (E) - TODO
+- In the Hunt (U) (Beta) - TODO
 - [In The Hunt (U)](./U/T-10001G/01/README.md)
+- Incredible Hulk, The - The Pantheon Saga (E) - TODO
+- Incredible Hulk, The - The Pantheon Saga (U) - TODO
+- Independence Day (U) - TODO
+- Independence Day - The Game (E) - TODO
+- International Victory Goal (E) - TODO
+- Ippatsu Gyakuten - Gambling King e no Michi (J) - TODO
+- Irem Arcade Classics (J) - TODO
+- Iron Man & X-O Manowar in Heavy Metal (E) - TODO
+- Iron Man & X-O Manowar in Heavy Metal (J) - TODO
+- Iron Man & X-O Manowar in Heavy Metal (U) - TODO (Recorded)
+- Iron Storm (U) - TODO
+- Ishin no Arashi (J) - TODO
+- Isto E Zico - Zico no Kangaeru Soccer (J) - TODO (Recorded)
 
 #### J
+
+- J. B. Harold - Blue Chicago Blues (J) (Disc 1) - TODO
+- J. B. Harold - Blue Chicago Blues (J) (Disc 2) - TODO
+- J.League Go Go Goal! (J) - TODO (Recorded)
+- J.League Jikkyou Honoo no Striker (J) (1M) - TODO
+- J.League Jikkyou Honoo no Striker (J) (2M) - TODO
+- J.League Pro Soccer Club o Tsukurou! (J) (Rev A) - TODO
+- J.League Pro Soccer Club o Tsukurou! (J) (Rev B) - TODO
+- J.League Pro Soccer Club o Tsukurou! (J) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (J) (1M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (J) (2M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (J) (3M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (J) (4M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (J) (Rev C) (32M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (J) (Rev D) (41M) - TODO
+- J.League Victory Goal '96 (J) (1M, 3M) - TODO
+- J.League Victory Goal '96 (J) (2M) - TODO
+- J.League Victory Goal '97 (J) - TODO
+- Jantei Battle Cos-Player (J) (Demo) - TODO
+- Jantei Battle Cos-Player (J) (Disc 1) - TODO
+- Jantei Battle Cos-Player (J) (Disc 2) (Making Disc) - TODO
+- Jantei Battle Cos-Player - Original Genga-shuu (J) - TODO
+- J Super Bass Classic '96 (J) - TODO
+- Jewels of the Oracle (E) - TODO
+- Jewels of the Oracle (U) (Proto 1) - TODO
+- Jewels of the Oracle (U) (Proto 2) - TODO
+- Jikkyou Oshaberi Parodius - Forever with Me (J) - TODO
+- Jikkyou Powerful Pro Yakyuu '95 - Kaimakuban (J) (2M) - TODO
+- Jikkyou Powerful Pro Yakyuu S (J) - TODO
+- Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J) (Disc A) - TODO
+- Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J) (Disc B) - TODO
+- Jissen Mahjong (J) - TODO
+- Jissen Pachinko Hisshou-hou! Twin (J) - TODO
+- Jissen! Pachi-Slot Hisshou-hou! 3 (J) - TODO
+- Jissen! Pachi-Slot Hisshou-hou! 4 (J) - TODO
+- Jissen! Pachi-Slot Hisshou-hou! Iron Hook - The Great Marine Adventures (J) - TODO
+- Johnny Bazooka (J) - TODO
+- Johnny Bazookatone (E) - TODO
+- Johnny Bazookatone (U) - TODO
+- Jonah Lomu Rugby (E) - TODO
+- Jonah Lomu Rugby (F) - TODO
+- Joshikousei no Houkago... Pukunpa (J) - TODO
+- Junclassic C.C. & Rope Club (J) (2M) - TODO
+- Jung Rhythm (J) - TODO
+- Jungle Park - Saturn Shima (J) (Rev A) - TODO
 
 #### K
 
