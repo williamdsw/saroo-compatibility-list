@@ -1513,11 +1513,13 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 - Quake (E) - TODO
 - [Quake (U)](./U/MK-081066/01/README.md)
+- Quantum Gate I - Akumu no Joshou (J) - TODO
 - [Quarterback Attack with Mike Ditka (U)](./U/T-16213H/01/README.md)
 - [Quiz Nanairo Dreams Nijiirochou no Kiseki (J)](./J/T-1220G/01/README.md)
 - Quiz Nanairo Dreams Nijiirochou no Kiseki (J) (Rev A) - TODO
 - [QuoVadis (J)](./J/T-17401G/01/README.md)
-- [QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J)](./J/T-17402G/01/README.md)
+- [QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J) (Disc 1)](./J/T-17402G/01/README.md)
+- QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J) (Disc 2) - TODO
 - QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J) (Demo) - TODO
 
 #### R
