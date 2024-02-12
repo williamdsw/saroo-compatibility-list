@@ -1031,6 +1031,60 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### L
 
+- Langrisser - Dramatic Edition (Japan) (1M) - TODO
+- Langrisser - Dramatic Edition (Japan) (2M) - TODO
+- Langrisser III (Japan) (1M) - TODO
+- Langrisser III (Japan) (3M) - TODO
+- Langrisser III (Japan) (Rev A) (5M) - TODO
+- Langrisser III (Japan) (Rev A) (7M) - TODO
+- Langrisser IV (Japan) (1M, 3M) - TODO
+- Langrisser V - The End of Legend (Japan) (1M) - TODO
+- Langrisser V - The End of Legend (Japan) (3M) - TODO
+- Last Bronx (Europe) - TODO
+- Last Bronx (Japan) (Disc 1) (Arcade Disc) - TODO
+- Last Bronx (Japan) (Disc 2) (Special Disc) - TODO
+- Last Bronx (USA) - TODO
+- Last Gladiators - Digital Pinball (USA) (3S) - TODO
+- Last Gladiators - Digital Pinball (USA) (4S) - TODO
+- Layer Section (Japan) (3M) - TODO
+- Layer Section (Japan) (6M) - TODO
+- Layer Section (Japan) (Rev A) (11M) - TODO
+- Layer Section II (Japan) (Demo) - TODO
+- Layer Section II (Japan) - TODO
+- Legend of Heroes I & II, The - Eiyuu Densetsu (Japan) - TODO
+- Legend of K-1 - Grand Prix '96 (Japan) - TODO
+- Legend of K-1 - The Best Collection (Japan) - TODO
+- Legend of Oasis, The (USA) - TODO
+- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere) (4M) - TODO
+- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere) (3M) - TODO
+- LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai (Japan) - TODO
+- Linda^3 Kanzenban (Japan) - TODO
+- Linkle Liver Story (Japan) - TODO
+- Loaded (Europe) (En,Fr,De) (Alt) - TODO
+- Loaded (Europe) (En,Fr,De) - TODO
+- Loaded (USA) (En,Fr) - TODO
+- Lode Runner - The Legend Returns (Japan) - TODO
+- Lode Runner Extra (Japan) - TODO
+- Logic Puzzle Rainbow Town (Japan) - TODO
+- Lost Vikings 2 - Norse by Norsewest (Europe) (En,Fr,De) - TODO
+- Lost World, The - Jurassic Park (Europe) - TODO
+- Lost World, The - Jurassic Park (Japan) - TODO
+- Lost World, The - Jurassic Park (USA) - TODO
+- Lovely Pop 2 in 1 - Jan Jan Koi Shimasho (Japan) - TODO
+- LuLu - Un Conte Interactif de Romain Victor-Pujebet (Japan) - TODO
+- Lunacy (USA) (Disc 1) - TODO
+- Lunacy (USA) (Disc 2) - TODO
+- Lunar - Silver Star Story (Japan) (Demo) - TODO
+- Lunar - Silver Star Story (Japan) (Rev A) - TODO
+- Lunar - Silver Star Story (Japan) - TODO
+- Lunar - Silver Star Story Complete (Japan) - TODO
+- Lunar 2 - Eternal Blue (Japan) (Disc 1) - TODO
+- Lunar 2 - Eternal Blue (Japan) (Disc 2) - TODO
+- Lupin Sansei - Pyramid no Kenja (Japan) - TODO
+- Lupin the 3rd - The Master File (Japan) - TODO
+- Lupin the 3rd Chronicles (Japan) (Disc 1) - TODO
+- Lupin the 3rd Chronicles (Japan) (Disc 2) - TODO
+
 #### M
 
 - [Machine Head (U)](./U/T-7914H/01/README.md)
