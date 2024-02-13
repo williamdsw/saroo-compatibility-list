@@ -1620,23 +1620,415 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### S
 
-- [Samurai Shodown III: Blades of Blood (J)](./J/T-3104G/01/README.md)
-- [Samurai Shodown IV: Amakusa's Revenge (J)](./J/T-3116G/01/README.md)
-- [Saturn Bomberman (U)](./U/MK-81070/01/README.md)
-- [Senkogu Blade (J)](./J/T-14410G/01/README.md)
+- SD Gundam - GCentury S (J) - TODO
+- Sakamoto Ryouma - Ishin Kaikoku (J) - TODO
+- Sakura Taisen (J) (Disc 1) (6M) - TODO
+- Sakura Taisen (J) (Disc 1) (7M, 9M, 10M) - TODO
+- Sakura Taisen (J) (Disc 1) (8M, 13M) - TODO
+- Sakura Taisen (J) (Disc 2) (6M) - TODO
+- Sakura Taisen (J) (Disc 2) (7M) - TODO
+- Sakura Taisen (J) (Disc 2) (8M, 9M) - TODO
+- Sakura Taisen - Hanagumi Taisen Columns (J) (1M) - TODO
+- Sakura Taisen - Hanagumi Taisen Columns (J) (2M) - TODO
+- Sakura Taisen - Hanagumi Tsuushin (J) (1M) - TODO
+- Sakura Taisen - Hanagumi Tsuushin (J) (2M) - TODO
+- Sakura Taisen - Jouki Radio Show (J) (Disc 1) (Yuugi-ban) - TODO
+- Sakura Taisen - Jouki Radio Show (J) (Disc 2) (Kayou-ban) - TODO
+- Sakura Taisen - Teigeki Graph - Teigeki Graph in Sakura Wars (J) (Disc 1) - TODO
+- Sakura Taisen - Teigeki Graph - Teigeki Graph in Sakura Wars (J) (Disc 2) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Demo) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 1) (Rev A) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 1) (Shokai Tokutenban) (1M, 3M, 4M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 1) (Shokai Tokutenban) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 2) (Rev A) (10M, 11M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 2) (Rev A) (12M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 2) (Shokai Tokutenban) (1M, 2M, 4M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 2) (Shokai Tokutenban) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 3) (Rev A) (12M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 3) (Shokai Tokutenban) (2M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 3) (Shokai Tokutenban) (3M, 4M, 5M, 6M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 3) (Shokai Tokutenban) - TODO
+- Sakura Taisen Teikokukagekidan Taiin Meibo (J) - TODO
+- Sakura Tsuushin (J) - TODO
+- Salamander Deluxe Pack Plus (J) - TODO (Recorded)
+- Samurai Spirits - Amakusa Kourin (J) (Demo) - TODO
+- [Samurai Spirits - Amakusa Kourin (Samurai Shodown IV: Amakusa's Revenge) (J)](./J/T-3116G/01/README.md)
+- [Samurai Spirits - Zankurou Musouken (Samurai Shodown III: Blades of Blood) (J)](./J/T-3104G/01/README.md)
+- Sangokushi Eiketsuden (J) - TODO
+- Sangokushi IV (J) - TODO
+- Sangokushi IV with Power-Up Kit (J) - TODO
+- Sangokushi Koumeiden (J) - TODO
+- Sangokushi Returns (J) - TODO
+- Sangokushi V (J) (Rev A) - TODO
+- Sangokushi V (J) - TODO
+- Sanguozhi IV (Taiwan) - TODO
+- Sanguozhi V (Taiwan) - TODO
+- Sanguozhi Yingjiezhuan (Taiwan) - TODO
+- Sankyo Fever - Jikki Simulation S (J) - TODO
+- Sankyo Fever - Jikki Simulation S Vol. 2 (J) - TODO
+- Sankyo Fever - Jikki Simulation S Vol. 3 (J) - TODO
+- SatMag Sono CD (J) - TODO
+- Saturn Bomberman (E) - TODO
+- Saturn Bomberman (J) (Demo) - TODO
+- Saturn Bomberman (J) (SegaNet) - TODO
+- Saturn Bomberman (J) - TODO
+- [Saturn Bomberman (U) (1S)](./U/MK-81070/01/README.md)
+- Saturn Bomberman Fight!! (J) (Demo) - TODO
+- Saturn Bomberman Fight!! (J) - TODO
+- Saturn CG Selection Vol. 1 (J) (Rev A) - TODO
+- Saturn Music School (J) - TODO
+- Saturn Music School 2 (J) (Rev A) - TODO
+- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (J) (1M) - TODO
+- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (J) (2M) - TODO
+- Saturn Super Vol. 1 (J) (6M) - TODO
+- Saturn Super Vol. 1 (J) (7M) - TODO
+- Saturn Super Vol. 1 (J) (8M) - TODO
+- Saturn Super Vol. 10 Furoku CD-ROM (J) (2M, 3M) - TODO
+- Saturn Super Vol. 11 Furoku CD-ROM (J) - TODO
+- Saturn Super Vol. 2 (J) (1M) - TODO
+- Saturn Super Vol. 2 (J) (2M) - TODO
+- Saturn Super Vol. 2 (J) (6M) - TODO
+- Saturn Super Vol. 3 (J) (Rev A) (3M) - TODO
+- Saturn Super Vol. 4 (J) (2M) - TODO
+- Saturn Super Vol. 5 (J) (2M) - TODO
+- Saturn Super Vol. 6 (J) (1M) - TODO
+- Saturn Super Vol. 6 (J) (2M) - TODO
+- Saturn Super Vol. 7 (J) (2M) - TODO
+- Saturn Super Vol. 8 (J) - TODO
+- Saturn Super Vol. 9 Furoku CD-ROM (J) - TODO
+- Savaki (J) (2M) - TODO
+- Scorcher (E) - TODO
+- Scorcher (U) (RE) - TODO
+- Scud - The Disposable Assassin (U) - TODO
+- Sea Bass Fishing (E) - TODO
+- SeaBass Fishing (J) - TODO
+- SeaBass Fishing 2 (J) - TODO
+- Sega Ages - After Burner II (J) - TODO
+- Sega Ages - Columns Arcade Collection (J) - TODO
+- Sega Ages - Fantasy Zone (J) - TODO
+- Sega Ages - Galaxy Force II (J) - TODO
+- Sega Ages - I Love Mickey Mouse - Fushigi no Oshiro Daibouken & I Love Donald Duck - Georgia Ou no Hihou (J) - TODO
+- Sega Ages - Memorial Selection Vol. 1 (J) - TODO
+- Sega Ages - Memorial Selection Vol. 2 (J) - TODO
+- Sega Ages - OutRun (J) (Rev A) - TODO
+- Sega Ages - OutRun (J) - TODO
+- Sega Ages - Phantasy Star Collection (J) - TODO
+- Sega Ages - Power Drift (J) - TODO
+- Sega Ages - Rouka ni Ichidanto R (J) - TODO
+- Sega Ages - Shukudai ga Tanto R (J) - TODO
+- Sega Ages - Space Harrier (J) (Rev A) (11M) - TODO
+- Sega Ages - Space Harrier (J) (Rev A) (13M) - TODO
+- Sega Ages - Space Harrier (J) - TODO
+- Sega Ages Volume 1 (E) - TODO
+- Sega Ages Volume 1 (U) - TODO
+- Sega Flash Vol. 1 (E) - TODO
+- Sega Flash Vol. 2 (E) - TODO
+- Sega Flash Vol. 3 (E) (Rev A) - TODO
+- Sega Flash Vol. 3 (E) - TODO
+- Sega Flash Vol. 4 (E) - TODO
+- Sega Flash Vol. 5 (E) - TODO
+- Sega Flash Vol. 6 (E) - TODO
+- Sega Flash Vol. 7 (E) - TODO
+- Sega International Victory Goal (J) (5M) - TODO
+- Sega Rally Championship (E) (Made in EU) - TODO
+- Sega Rally Championship (E) (Made in USA) - TODO
+- Sega Rally Championship (J) (Demo) - TODO
+- Sega Rally Championship (J) - TODO
+- Sega Rally Championship (K) - TODO
+- Sega Rally Championship (U) - TODO (Recorded)
+- Sega Rally Championship Plus (J) - TODO
+- Sega Rally Championship Plus Netlink Edition (U) - TODO
+- Sega Saturn Bootleg II - On the Road (U) - TODO
+- Sega Saturn Choice Cuts (U) (R2) - TODO
+- Sega Saturn Choice Cuts (U) (RE) - TODO
+- Sega Saturn de Hakken!! Tamagotchi Park (J) - TODO
+- Sega Screams Volume 2 (U) - TODO
+- Sega Touring Car Championship (E) - TODO
+- Sega Touring Car Championship (J) (Demo) - TODO
+- Sega Touring Car Championship (J) - TODO
+- Sega Touring Car Championship (U) - TODO (Recorded)
+- Sega Worldwide Soccer '97 (U) - TODO
+- Sega Worldwide Soccer '98 (J) - TODO
+- Sega Worldwide Soccer '98 - Club Edition (E) (Rev A) - TODO
+- Sega Worldwide Soccer '98 - Club Edition (E) (Rev B) - TODO
+- Sega Worldwide Soccer '98 - Club Edition (E) - TODO
+- Sega Worldwide Soccer 97 (E) (Alt) - TODO
+- Sega Worldwide Soccer 97 (E) - TODO
+- SegaColle Sega Bible Mogitate SegaSaturn Soukan-gou (J) - TODO
+- SegaSaturn - Graphic & Sound Tools for Macintosh (J) - TODO
+- SegaSaturn - Movie Tools - Cinepak for Sega Saturn (J) (Hybrid Version) - TODO
+- SegaSaturn - SGL Tool Kit - Sega 3D Game Library (J) - TODO
+- SegaSaturn Electronic Book Operator (J) - TODO
+- SegaSaturn FDD Operator (J) - TODO
+- SegaSaturn Internet 2 (J) - TODO
+- SegaSaturn Internet Vol. 1 (J) - TODO
+- SegaSaturn Photo CD Operator (J) (Rev A) - TODO
+- SegaSaturn Photo CD Operator (J) - TODO
+- Segata Sanshirou - Shinken Yuugi (J) - TODO
+- Seifuku Densetsu - Pretty Fighter X (J) (1M) - TODO
+- Seifuku Densetsu - Pretty Fighter X (J) (2B) - TODO
+- Seikai Risshiden - Yoi Kuni, Yoi Seiji (J) - TODO
+- Seireki 1999 - Pharaoh no Fukkatsu (J) - TODO
+- Sekai no Shasou kara - I Swiss-hen - Alps Tozantetsudou no Tabi (J) - TODO
+- Sengoku Blade - Sengoku Ace Episode II (J) (Demo) - TODO
+- [Sengoku Blade - Sengoku Ace Episode II (J) (Disc 1)](./J/T-14410G/01/README.md)
+- Sengoku Blade - Sengoku Ace Episode II (J) (Disc 2) (Sengoku Kawaraban - Digital Edition) - TODO
+- Senken Kigyouden (J) - TODO
+- Senkutsu Katsuryu Taisen - Chaos Seed (J) (Disc 1) (Game Disc) (Rev A) (10M) - TODO
+- Senkutsu Katsuryu Taisen - Chaos Seed (J) (Disc 1) (Game Disc) (Rev B) (21M) - TODO
+- Senkutsu Katsuryu Taisen - Chaos Seed (J) (Disc 2) (Omake Disc) - TODO
+- Senryaku Shougi (J) - TODO
+- Sentimental Graffiti (J) (Disc 1) (Game Disc) (1M) - TODO
+- Sentimental Graffiti (J) (Disc 1) (Game Disc) (2M) - TODO
+- Sentimental Graffiti (J) (Disc 1) (Game Disc) (4M) - TODO
+- Sentimental Graffiti (J) (Disc 1) (Game Disc) (5M) - TODO
+- Sentimental Graffiti (J) (Disc 2) (Second Window) (1M, 2M) - TODO
+- Sentimental Graffiti (J) (Disc 2) (Second Window) (4M) - TODO
+- Sentimental Graffiti (J) (Disc 2) (Second Window) (5M) - TODO
+- Sentimental Graffiti - First Window (J) - TODO
+- Sento Monogatari Sono I (J) - TODO
 - [Sexy Parodius (J)](./J/T-9514G/01/README.md)
+- Shadows of the Tusk (J) - TODO
+- Shanghai - Banri no Choujou - The Great Wall (J) (1M) - TODO
+- Shanghai - Banri no Choujou - The Great Wall (J) (Rev A) (15M) - TODO
+- Shanghai - Great Moments (J) (1M) - TODO
+- Shanghai - Great Moments (J) (2M) - TODO
+- Shanghai - Triple-Threat (U) - TODO
+- She'sn (J) - TODO
+- Shellshock (E) - TODO
+- Shellshock (France) - TODO
+- Shellshock (Germany) - TODO
+- Shellshock (U) - TODO
+- Shellshock - Jus' Keepin' da Peace (J) - TODO
+- Shichisei Toushin Guyferd - Crown Kaimetsu Sakusen (J) - TODO
+- Shichuu Suimei Pitagraph (J) (2M) - TODO
+- Shienryuu (J) - TODO
+- Shin Kaitei Gunkan - Koutetsu no Kodoku (J) - TODO
+- Shin Megami Tensei - Devil Summoner (J) (Rev A) - TODO
+- Shin Megami Tensei - Devil Summoner (J) (Rev B) - TODO
+- Shin Megami Tensei - Devil Summoner - Akuma Zensho (J) - TODO
+- Shin Seiki Evangelion (J) - TODO
+- Shin Seiki Evangelion - 2nd Impression (J) (Made in J) - TODO
+- Shin Seiki Evangelion - 2nd Impression (J) (Made in U.S.A.) - TODO
+- Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (J) - TODO
+- Shin Shinobiden (J) - TODO
+- Shin Theme Park (J) - TODO
+- Shingata Kururin Pa! (J) - TODO
+- Shining Force III (E) (R) - TODO
+- Shining Force III (U) (Beta) - TODO
+- Shining Force III (U) - TODO
+- Shining Force III - Scenario 1 - Outo no Kyoshin (J) (Demo) - TODO
+- Shining Force III - Scenario 1 - Outo no Kyoshin (J) (Rev A) - TODO
+- Shining Force III - Scenario 1 - Outo no Kyoshin (J) - TODO
+- Shining Force III - Scenario 2 - Nerawareta Miko (J) (Rev A) - TODO
+- Shining Force III - Scenario 2 - Nerawareta Miko (J) - TODO
+- Shining Force III - Scenario 3 - Hyouheki no Jashinguu (J) - TODO
+- Shining Force III Premium Disc (J) - TODO
+- Shining Wisdom (E) - TODO
+- Shining Wisdom (J) (Demo) - TODO
+- Shining Wisdom (J) (Rev A) - TODO
+- Shining Wisdom (J) - TODO
+- Shining Wisdom (U) (Beta) - TODO
+- Shining Wisdom (U) - TODO
+- Shining the Holy Ark (E) - TODO
+- Shining the Holy Ark (J) (1M) - TODO
+- Shining the Holy Ark (J) (3M) - TODO
+- Shining the Holy Ark (U) - TODO
 - [Shinobi Legions (U)](./U/T-2301H/01/README.md)
+- Shinobi-X - Shin Shinobi Den (E) - TODO
+- Shinouken (J) - TODO
+- Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World for Sega Saturn (J) (2M) - TODO
+- Shinrei Jusatsushi Taroumaru (J) - TODO
+- Shinsetsu Samurai Spirits - Bushidou Retsuden (J) - TODO
+- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (J) (Rev A) (1M) - TODO
+- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (J) (Rev A) (2A, 2B) - TODO
+- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (J) (Rev A) (5M) - TODO
+- Shippuu Mahou Daisakusen - Kingdom-Grandprix (J) - TODO
+- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (J) (Demo) - TODO
+- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (J) (Disc 1) - TODO
+- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (J) (Disc 2) - TODO
+- Shockwave Assault (E) - TODO
+- Shockwave Assault (U) - TODO
+- Shougi Matsuri (J) - TODO
+- Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (J) (Disc 1) - TODO
+- Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (J) (Disc 2) - TODO
+- Shouryuu Sangoku Engi (J) - TODO
+- Shunsai (J) - TODO
+- Shusse Mahjong Daisettai (J) - TODO
+- Shutsudou! Miniskirt Police (J) (2M) - TODO
+- Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (J) - TODO
+- Side Pocket 2 - Densetsu no Hustler (J) - TODO
+- Side Pocket 3 (J) (Demo) - TODO
+- Side Pocket 3 (J) - TODO (Recorded)
+- Silhouette Mirage (J) (Demo) - TODO
+- Silhouette Mirage (J) (Rev A) - TODO
+- Silhouette Mirage (J) - TODO
+- SimCity 2000 (E) - TODO
+- SimCity 2000 (J) (Rev A) - TODO
+- SimCity 2000 (U) - TODO
+- Simulation RPG Tkool (J) - TODO
+- Simulation Zoo (J) - TODO
+- Skeleton Warriors (E) - TODO
+- Skeleton Warriors (U) - TODO (Recorded)
+- Skull Fang - Kuuga Gaiden (J) - TODO
+- Sky Target (E) - TODO
+- Sky Target (J) - TODO
+- Sky Target (U) - TODO
+- Slam 'n Jam '96 featuring Magic & Kareem (J) - TODO
+- Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (E) - TODO
+- Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (U) - TODO
+- Slayers Royal (J) - TODO
+- Slayers Royal 2 (J) (1M) - TODO
+- Slayers Royal 2 (J) (2M) - TODO
+- Snatcher (J) - TODO
+- Soeldnerschild (J) - TODO
+- Sokkou Seitokai - Sonic Council (J) - TODO
 - [Sol Divide (J)](./J/T-14423G/01/README.md)
+- Solar Eclipse (U) (2S) - TODO
+- Solo Crisis (J) (1M) - TODO
+- Solo Crisis (J) (2M) - TODO
+- Solo Crisis (J) (Demo) - TODO
+- Sonic 3D - Flickies' Island (E) - TODO
+- Sonic 3D - Flickies' Island (J) - TODO
+- Sonic 3D Blast (U) - TODO (Recorded)
+- Sonic Jam (E) - TODO
+- Sonic Jam (J) (Rev A) - TODO
+- Sonic Jam (J) - TODO
+- Sonic Jam (U) - TODO
+- Sonic R (E) - TODO
+- Sonic R (J) (1M) - TODO
+- Sonic R (J) (2M) - TODO
+- Sonic R (J) (Demo) - TODO
+- Sonic R (USA, Brazil) - TODO
 - [Sonic Wings Special (J)](./J/T-26402G/01/README.md)
+- Sorvice (J) - TODO
+- Sotsugyou - Graduation S (J) - TODO
+- Sotsugyou Album (J) - TODO
+- Sotsugyou Crossworld (J) - TODO
+- Sotsugyou II - Neo Generation (J) (1M) - TODO
+- Sotsugyou II - Neo Generation (J) (2M) - TODO
+- Sotsugyou III - Wedding Bell (J) - TODO
+- Soukuu no Tsubasa - Gotha World (J) (Demo) - TODO
+- Soukuu no Tsubasa - Gotha World (J) (Disc 1) - TODO
+- Soukuu no Tsubasa - Gotha World (J) (Disc 2) - TODO
+- Soukyuu Gurentai (J) (Rev A) - TODO
+- Soukyuu Gurentai (J) - TODO (Recorded)
+- Soukyuu Gurentai - Otokuyou (J) - TODO
+- Sound Novel Machi (J) (Disc 1) (1M) - TODO
+- Sound Novel Machi (J) (Disc 2) (1M) - TODO
+- Sound Novel Machi (J) (Disc 2) (2M) - TODO
+- Sound Novel Tkool 2 (J) - TODO
+- Sound Qube (J) - TODO
+- Soviet Strike (E) - TODO
+- Soviet Strike (France) - TODO
+- Soviet Strike (Germany) - TODO
+- Soviet Strike (J) - TODO
 - [Soviet Strike (U)](./U/T-5013H/01/README.md)
+- Space Hulk - Vengeance of the Blood Angels (E) - TODO
+- Space Hulk - Vengeance of the Blood Angels (U) - TODO
+- Space Invaders (J) - TODO
+- Space Jam (E) - TODO
+- Space Jam (J) - TODO
+- Space Jam (U) - TODO (Recorded)
+- Special Disc with SegaSaturn Internet 2 (J) - TODO
+- Spot Goes to Hollywood (E) - TODO
+- Spot Goes to Hollywood (J) - TODO
+- Spot Goes to Hollywood (U) - TODO
+- Stakes Winner - GI Kanzen Seiha e no Michi (J) - TODO
+- Stakes Winner 2 - Saikyouba Densetsu (J) - TODO
+- Standby Say You! (J) - TODO
+- Star Bowling Vol. 2, The (J) (Disc 1) - TODO
+- Star Bowling Vol. 2, The (J) (Disc 2) - TODO
+- Star Bowling, The (J) (Disc 1) - TODO
+- Star Bowling, The (J) (Disc 2) - TODO
+- Star Fighter (U) - TODO
+- StarFighter 3000 (E) - TODO
+- StarFighter 3000 (J) - TODO
+- Steam-Heart's (J) - TODO
+- Steamgear Mash (J) (1M) - TODO
+- Steamgear Mash (J) (2M) - TODO
+- Steep Slope Sliders (E) - TODO
+- Steep Slope Sliders (J) (Demo) - TODO
+- Steep Slope Sliders (J) - TODO
+- Steep Slope Sliders (U) - TODO
+- Stellar Assault SS (J) (Demo) - TODO
+- Stellar Assault SS (J) - TODO
+- Story of Thor 2, The (E) - TODO
+- Strahl - Himerareshi Nanatsu no Hikari (J) - TODO
+- Street Fighter - Real Battle on Film (J) (2M) - TODO
+- Street Fighter - Real Battle on Film (J) (3M) - TODO
+- Street Fighter - Real Battle on Film (J) (4M) - TODO
+- Street Fighter - The Movie (E) (2S) - TODO
+- Street Fighter - The Movie (E) (4S) - TODO
+- [Street Fighter - The Movie (U)](./U/T-8105H/01/README.md)
+- Street Fighter Alpha - Warriors' Dreams (E) - TODO
+- Street Fighter Alpha - Warriors' Dreams (U) (Beta) - TODO
 - [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
+- Street Fighter Alpha 2 (E) - TODO
 - [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
-- [Street Fighter Collection (U)](./U/T-1222H/01/README.md)
-- [Street Fighter The Movie (U)](./U/T-8105H/01/README.md)
+- Street Fighter Collection (E) (Disc 1) (R) - TODO
+- Street Fighter Collection (E) (Disc 2) (R) - TODO
+- Street Fighter Collection (J) (Demo) - TODO
+- Street Fighter Collection (J) (Disc 1) - TODO
+- Street Fighter Collection (J) (Disc 2) - TODO
+- [Street Fighter Collection (U) (Disc 1)](./U/T-1222H/01/README.md)
+- Street Fighter Collection (U) (Disc 2) - TODO
+- Street Fighter II Movie (J) (Disc 1) - TODO
+- Street Fighter II Movie (J) (Disc 2) - TODO
+- Street Fighter Zero (J) (1M) - TODO (Recorded - Check Version)
+- Street Fighter Zero (J) (2M) - TODO
+- Street Fighter Zero (J) (Rev A) (10M) - TODO
+- Street Fighter Zero 2 (J) (Demo) - TODO
+- Street Fighter Zero 2 (J) - TODO
+- Street Fighter Zero 2' (J) - TODO (Recorded)
+- Street Fighter Zero 3 (J) - TODO (Recorded)
+- Street Racer (E) - TODO
+- Street Racer Extra (J) - TODO
+- Striker 96 (E) - TODO
+- Striker 96 (J) - TODO
 - [Striker '96 (U)](./U/T-8133H/01/README.md)
+- Strikers 1945 (J) (Demo) - TODO
 - [Strikers 1945 (J)](./J/T-14407G/01/README.md)
+- Strikers 1945 II (J) - TODO
+- Suchie-Pai Adventure - Doki Doki Nightmare (J) (Disc 1) - TODO
+- Suchie-Pai Adventure - Doki Doki Nightmare (J) (Disc 2) - TODO
+- Sugoventure - Dragon Master Silk Gaiden (J) - TODO
+- Suiko Enbu (J) - TODO
+- Suiko Enbu - Fuuun Saiki (J) (Demo) - TODO
+- Suiko Enbu - Fuuun Saiki (J) - TODO
+- Suikoden - Tendou Hyaku Hachi-sei (J) - TODO
+- Suikoden - Tenmei no Chikai (J) (2M) - TODO
+- Super Adventure Rockman (J) (Disc 1) (Episode 1 - Tsuki no Shinden) (1M) - TODO
+- Super Adventure Rockman (J) (Disc 1) (Episode 1 - Tsuki no Shinden) - TODO
+- Super Adventure Rockman (J) (Disc 2) (Episode 2 - Shitou! Wily Numbers) (1M) - TODO
+- Super Adventure Rockman (J) (Disc 2) (Episode 2 - Shitou! Wily Numbers) - TODO
+- Super Adventure Rockman (J) (Disc 3) (Episode 3 - Saigo no Tatakai!!) (1M) - TODO
+- Super Adventure Rockman (J) (Disc 3) (Episode 3 - Saigo no Tatakai!!) - TODO
+- Super Casino Special (J) - TODO
+- Super Puzzle Fighter II Turbo (E) - TODO
 - [Super Puzzle Fighter II Turbo (U)](./U/T-1215H/01/README.md)
-- [Super Robot Taisen F Kanketsuhen (J)](./J/T-20612G/01/README.md)
+- Super Puzzle Fighter II X (J) - TODO
+- Super Real Mahjong Graffiti (J) (2M) - TODO
+- Super Real Mahjong Graffiti (J) (P's Club Special Edition) (2M) - TODO
+- Super Real Mahjong P.V (J) (2M) - TODO
+- Super Real Mahjong P7 (J) (3M) - TODO
+- Super Real Mahjong P7 (J) (P's Club Special Edition) - TODO
+- Super Real Mahjong PVI (J) (P's Club Special Edition) - TODO
+- Super Real Mahjong PVI (J) - TODO
+- Super Robot Taisen F (J) (Demo) - TODO
+- Super Robot Taisen F (J) (Rev A) (10M, 11M, 12M, 13M) - TODO
+- Super Robot Taisen F (J) (Rev B) (21M) - TODO
+- [Super Robot Taisen F Kanketsuhen (J)](./J/T-20612G/01/README.md) - TODO (Check Version)
+- Super Robot Taisen F - Kanketsu-hen (J) (2M, 3M) - TODO
+- Super Robot Taisen F - Kanketsu-hen (J) (5M) - TODO
+- Super Robot Taisen F - Kanketsu-hen (J) (Rev A) (10M) - TODO
+- Super Robot Taisen F - Kanketsu-hen (J) (Rev A) (11M) - TODO
+- Super Tempo (J) - TODO
+- Swagman (E) (Demo) - TODO
+- Swagman (E) - TODO
+- Sword & Sorcery (J) (2M) - TODO
+- Sword & Sorcery (J) (Rev A) (10M) - TODO
+- System-Disc (KD02) Columbia (J) (16M) - TODO
 
 #### T
 
