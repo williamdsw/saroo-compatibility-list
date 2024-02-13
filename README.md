@@ -2103,6 +2103,9 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - The King of Fighters '96 (J) (1M) - TODO
 - The King of Fighters '96 (J) (4M, 5M) - TODO
 - [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
+- The Unsolved (J) (Disc 1) - TODO (Recorded)
+- The Unsolved (J) (Disc 2) - TODO
+- The Unsolved (J) (Disc 3) - TODO
 - [The Yakyuuken Special: Konya wa 12-kaisen (J)](./J/T-21901G/01/README.md)
 - Theme Park (E) - TODO
 - Theme Park (J) - TODO
@@ -2179,15 +2182,17 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### U
 
-- [UEFA Euro 96 England (E)](./E/MK-81180/01/README.md)
+- [UEFA Euro 96 - England (E)](./E/MK-81180/01/README.md)
+- Ultimate Mortal Kombat 3 (E) (Rev A) - TODO
 - Ultimate Mortal Kombat 3 (E) - TODO
 - [Ultimate Mortal Kombat 3 (U)](./U/T-9701H/01/README.md)
-- [Ultraman: Hikari no Kyojin Densetsu (J)](./J/T-13308G/01/README.md)
+- [Ultraman - Hikari no Kyojin Densetsu (J)](./J/T-13308G/01/README.md)
 - [Ultraman Zukan (J)](./J/T-25501G/01/README.md)
 - [Ultraman Zukan 2 (J)](./J/T-25502G/01/README.md)
 - [Ultraman Zukan 3 (J)](./J/T-25505G/01/README.md)
-- [Umanari 1 Furlong Gekijou (J)](./J/T-35001G/01/README.md)
+- [Umanari 1 Furlong Gekijou (Umanari 1 Furlong Theater) (J)](./J/T-35001G/01/README.md)
 - [Universal Nuts (J)](./J/T-36202G/01/README.md)
+- Uno DX (J) - TODO (Recorded)
 
 #### V
 
