@@ -992,13 +992,6 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (J) - TODO
 - Kindaichi Shounen no Jikenbo - Hoshimitou Kanashimi no Fukushuuki (J) - TODO
 - King of Boxing, The (J) - TODO
-- King of Fighters '95, The (E) - TODO
-- King of Fighters '95, The (J) (1M) - TODO
-- King of Fighters '95, The (J) (2M) - TODO
-- King of Fighters '95, The (J) (3M) - TODO
-- King of Fighters '96, The (J) (1M) - TODO
-- King of Fighters '96, The (J) (4M, 5M) - TODO
-- King of Fighters '97, The (J) - TODO
 - Kiss yori... (J) (Rev A) - TODO
 - Kiss yori... (J) - TODO
 - Kisuishou Densetsu Astal (J) (1M, 4M) - TODO
@@ -2032,18 +2025,157 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### T
 
+- TNN Motor Sports HardCore 4X4 (U) - TODO
+- Tactical Fighter (J) - TODO
+- Tactics Formula (J) (Demo) - TODO
+- Tactics Formula (J) - TODO
+- Tactics Ogre - Let Us Cling Together (J) - TODO
+- Tadaima Wakusei Kaitaku-chuu! (J) - TODO
+- Taiheiyou no Arashi 2 - 3D Heiki Data-shuu (J) - TODO
+- Taiheiyou no Arashi 2 - Shippuu no Moudou (J) - TODO
+- Taikou Risshiden II (J) (2M) - TODO
+- Taikou Risshiden II (J) (Rev A) (10M) - TODO
+- Taikyoku Shougi - Kiwame II (J) - TODO
+- Taito Chase H.Q. + S.C.I. (J) - TODO
+- Taklamakan - Tonkou Denki (J) - TODO
+- Tama - Adventurous Ball in Giddy Labyrinth (J) - TODO
+- Tanjou - Debut S (J) (1M) - TODO
+- Tanjou - Debut S (J) (5M) - TODO
+- Tantei Jinguuji Saburou - Mikan no Report (J) - TODO
+- Tantei Jinguuji Saburou - Yume no Owari ni (J) (3M) - TODO
+- Tech Saturn Apr.1997 (J) - TODO
+- Tech Saturn Aug.1997 (J) - TODO
+- Tech Saturn Feb.1997 - E, Chocolate Kurereba Morau yo (J) - TODO
+- Tech Saturn Jan.1997 - Kizuitara Gekkan-ka (J) - TODO
+- Tech Saturn Jul.1997 (J) - TODO
+- Tech Saturn Jun.1997 (J) - TODO
+- Tech Saturn Mar.1997 - Okaeshi wa Marshmallow, Cookie, Howaito Choco (J) - TODO
+- Tech Saturn May.1997 (J) - TODO
+- Tech Saturn Oct.1997 (J) - TODO
+- Tech Saturn Sep.1997 (J) - TODO
+- Tech Saturn Tsuushin - Autumn 1995 - Special CD-ROM (J) - TODO
+- Tech Saturn Tsuushin - Spring 1995 (J) - TODO
+- Tech Saturn Tsuushin - Winter 1995 - Taikenban & Demo-ban ga Tenkomori! (J) - TODO
+- Tech Saturn Tsuushin Vol. 4 - Spring 1996 - Youriyou Meippai Kikaku Tenkomori (J) - TODO
+- Tech Saturn Tsuushin Vol. 5 - Summer 1996 (J) - TODO
+- Tech Saturn Vol. 1-1996 - Yatchimatta! (J) - TODO
+- Tech Saturn Vol. 2-1996 - Maitsuki 8-nichi wa Tessa no Hi - Ataru to Sugo Iyo (J) - TODO
+- Techno Motor (J) - TODO
+- Teitoku no Ketsudan II (J) - TODO
+- Teitoku no Ketsudan III (J) - TODO
+- Teitoku no Ketsudan III with Power-Up Kit (J) - TODO
+- Tekkyuu - True Pinball (J) - TODO
+- Tempest 2000 (E) - TODO
+- Tempest 2000 (U) - TODO
+- Ten Pin Alley (U) - TODO
+- Tenant Wars (J) (Demo) - TODO
+- Tenant Wars (J) - TODO
+- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (J) (Disc 1) - TODO
+- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (J) (Disc 2) - TODO
+- Tenchi Muyou! Rensa Hitsuyou (J) - TODO
+- Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn (J) (1M) - TODO
+- Tenchi Muyou! Toukou Muyou - Aniraji Collection (J) (Disc 1) - TODO
+- Tenchi Muyou! Toukou Muyou - Aniraji Collection (J) (Disc 2) - TODO
+- Tenchi o Kurau II - Sekiheki no Tatakai (J) - TODO
+- Tenga Seiha (J) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (J) (Demo) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (J) (Disc 1) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (J) (Disc 2) - TODO
+- Tennis Arena (J) - TODO
+- Terra Cresta 3D (J) (2M) - TODO
+- Terra Phantastica (J) - TODO
+- Terry Pratchett's Discworld (E) - TODO
+- Tetris Plus (E) - TODO
+- Tetris Plus (J) - TODO
+- Tetris Plus (U) - TODO
+- Tetris S (J) (Rev A) - TODO
+- Tetris S (J) - TODO
+- Texthoth Ludo - Arcana Senki (J) - TODO
 - The Crow - City of Angels (E) - TODO
 - The Crow - City of Angels (G) - TODO
 - The Crow - City of Angels (J) - TODO
 - The Crow - City of Angels (U) - TODO
-- [The King of Fighters '96 (J)](./J/T-3108G/01/README.md)
+- The King of Fighters '95 (E) - TODO
+- The King of Fighters '95 (J) (1M) - TODO
+- The King of Fighters '95 (J) (2M) - TODO
+- The King of Fighters '95 (J) (3M) - TODO
+- [The King of Fighters '96 (J)](./J/T-3108G/01/README.md) - TODO (Check Version)
+- The King of Fighters '96 (J) (1M) - TODO
+- The King of Fighters '96 (J) (4M, 5M) - TODO
 - [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
 - [The Yakyuuken Special: Konya wa 12-kaisen (J)](./J/T-21901G/01/README.md)
+- Theme Park (E) - TODO
+- Theme Park (J) - TODO
 - [Theme Park (U)](./U/T-5001H/01/README.md)
-- [Tokyo Shadow (J)](./J/T-1110G/01/README.md)
+- Thor - Seireioukiden (J) - TODO
+- Three Dirty Dwarves (E) - TODO
+- Three Dirty Dwarves (J) (2M) - TODO
+- Three Dirty Dwarves (U) (RE) - TODO (Recorded)
+- Thunder Force Gold Pack 1 (J) - TODO
+- Thunder Force Gold Pack 2 (J) (Rev A) - TODO
+- Thunder Force V (J) (Demo) - TODO
+- Thunder Force V (J) - TODO (Recorded)
+- Thunder Storm & Road Blaster (J) (Disc 1) (Thunder Storm) - TODO
+- Thunder Storm & Road Blaster (J) (Disc 2) (Road Blaster) - TODO
+- Thunderhawk II (J) - TODO
+- Thunderstrike 2 (U) (Rev A) - TODO
+- Thunderstrike 2 (U) - TODO
+- Tilk - Aoi Umi kara Kita Shoujo (J) - TODO
+- Tilt! (E) - TODO
+- Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (J) - TODO
+- Time Commando (J) - TODO
+- Time Gal & Ninja Hayate (J) (Disc 1) (Time Gal) - TODO
+- Time Gal & Ninja Hayate (J) (Disc 2) (Ninja Hayate) (3M) - TODO
+- Titan Wars (E) - TODO
+- Titan Wars (J) - TODO
+- Tokimeki Mahjong Graffiti - Toshishita no Tenshi-tachi (J) - TODO
+- Tokimeki Mahjong Paradise - Koi no Tenpai Beat (J) - TODO
+- Tokimeki Memorial - Forever with You (J) (1M) - TODO
+- Tokimeki Memorial - Forever with You (J) (2M) - TODO
+- Tokimeki Memorial - Forever with You (J) (Special-ban) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (J) (Demo) - TODO
+- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (J) - TODO
+- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (J) (Disc 1) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (J) (Disc 2) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (J) (Disc 1) - TODO
+- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (J) (Disc 2) - TODO
+- Tokimeki Memorial Selection - Fujisaki Shiori (J) - TODO
+- Tokimeki Memorial Taisen Puzzledama (J) (1M) - TODO
+- Tokimeki Memorial Taisen Puzzledama (J) (2M) - TODO
+- Tokimeki Memorial Taisen Tokkaedama (J) - TODO
+- Tokuso Kidoutai J-SWAT (J) - TODO
+- [Tokyo Shadow (J) (Disc 1)](./J/T-1110G/01/README.md)
+- Tokyo Shadow (J) (Disc 2) - TODO
+- Tokyo Shadow (J) (Disc 3) - TODO
+- Tomb Raider (E) - TODO
 - [Tomb Raider (U)](./U/T-7910H/01/README.md)
+- Tomb Raiders (J) (Demo) - TODO
+- Tomb Raiders (J) - TODO
+- Top Anglers - Super Fishing Big Fight 2 (J) - TODO
+- Torico (E) (Disc 1) - TODO
+- Torico (E) (Disc 2) - TODO
 - [Touge King the Spirits (J)](./J/T-14401G/01/README.md)
+- Touge King the Spirits 2 (J) (Demo) - TODO
 - [Touge King the Spirits 2 (J)](./J/T-14412G/01/README.md)
+- Tour Party - Sotsugyou Ryokou ni Ikou (J) (Rev A) - TODO
+- Tournament Leader (J) - TODO
+- Touryuu Densetsu Elan Doree (J) - TODO
+- Toushinden S (J) - TODO
+- Toushinden URA (J) - TODO
+- Tower, The (J) - TODO
+- Transport Tycoon (J) - TODO
+- Trash It (E) - TODO
+- True Pinball (E) - TODO
+- True Pinball (U) - TODO
+- Tryrush Deppy (J) - TODO
+- Tsuukai!! Slot Shooting (J) - TODO
+- Tunnel B1 (E) - TODO
+- Tunnel B1 (U) - TODO
+- TurfWind '96 - Take Yutaka Kyousouba Ikusei Game (J) - TODO
+- Tutankhamen no Nazo - A.N.K.H (J) (Disc 1) - TODO
+- Tutankhamen no Nazo - A.N.K.H (J) (Disc 2) - TODO
+- Twinkle Star Sprites (J) (Disc 1) (Game Disc) - TODO
+- Twinkle Star Sprites (J) (Disc 2) (Omake Disc) - TODO
 
 #### U
 
