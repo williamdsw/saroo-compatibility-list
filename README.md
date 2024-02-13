@@ -2196,7 +2196,117 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### V
 
+- VR Golf '97 (U) - TODO
+- VR Soccer (U) - TODO
+- Valora Valley Golf (E) - TODO
+- Valora Valley Golf (U) - TODO
+- Vampire Hunter - Darkstalker's Revenge (J) (Demo) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (J) (1M) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (J) (2M, 4M) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (J) (3M) - TODO
+- Vampire Savior (J) - TODO
+- Vandal Hearts - Ushinawareta Kodai Bunmei (J) - TODO
+- Vatlva (J) (Demo) - TODO
+- Vatlva (J) (Rev A) - TODO
+- Victory Boxing (E) (Demo) - TODO
+- Victory Boxing (E) - TODO
+- Victory Goal (J) (1A) - TODO
+- Victory Goal (J) (2B) - TODO
+- Victory Goal (J) (3A) - TODO
+- Victory Goal Worldwide Edition (J) - TODO
+- Virtua Cop (E) (2S) - TODO
+- Virtua Cop (E) (4S) - TODO
+- Virtua Cop (E) (7S) - TODO
+- Virtua Cop (E) - TODO
+- Virtua Cop (J) (1M, 5M) - TODO
+- Virtua Cop (J) (2M) - TODO
+- Virtua Cop (U) (5S, 6S) - TODO
+- Virtua Cop (U) (7S) - TODO
+- Virtua Cop (U) (8S, 12S) - TODO
+- Virtua Cop 2 (E) - TODO
+- Virtua Cop 2 (J) (2M) - TODO
+- Virtua Cop 2 (J) (3M) - TODO
+- Virtua Cop 2 (J) (Rev B) (23M) - TODO
 - [Virtua Cop 2 (U)](./U/MK-81043/01/README.md)
+- Virtua Fighter (E) (Made in EU) - TODO
+- Virtua Fighter (E) (Made in USA) - TODO
+- Virtua Fighter (J) (Demo) - TODO
+- Virtua Fighter (J) - TODO
+- Virtua Fighter (U) - TODO
+- Virtua Fighter 2 (E) (Made in EU) - TODO
+- Virtua Fighter 2 (E) (Made in USA) - TODO
+- Virtua Fighter 2 (E) (Rev A) (Made in EU) - TODO
+- Virtua Fighter 2 (E) (Rev A) (Made in USA) - TODO
+- Virtua Fighter 2 (J) (Demo) - TODO
+- Virtua Fighter 2 (J) (Rev B) (32B, 37M) - TODO
+- Virtua Fighter 2 (J) (Rev B) (35C) - TODO
+- Virtua Fighter 2 (J) (Rev B) (36B, 36C) - TODO
+- Virtua Fighter 2 (J) (Rev B) (39B) - TODO
+- Virtua Fighter 2 (J) (Rev B) - TODO
+- Virtua Fighter 2 (J) (Rev C) (42M) - TODO
+- Virtua Fighter 2 (K) - TODO
+- Virtua Fighter 2 (U) (RE) - TODO
+- Virtua Fighter 2 (U) - TODO
+- Virtua Fighter CG Portrait Collection (E) - TODO
+- Virtua Fighter CG Portrait Collection (J) - TODO
+- Virtua Fighter CG Portrait Series - The Final - Dural (J) - TODO
+- Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (J) (1M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (J) (Rev A) - TODO
+- Virtua Fighter CG Portrait Series Vol. 10 - Jeffry McWild (J) (4M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (J) - TODO
+- Virtua Fighter CG Portrait Series Vol. 3 - Akira Yuki (J) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (J) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (J) (3M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 5 - Wolf Hawkfield (J) - TODO
+- Virtua Fighter CG Portrait Series Vol. 6 - Lau Chan (J) (4M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 7 - Shun Di (J) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 8 - Lion Rafale (J) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 9 - Kage Maru (J) (2M) - TODO
+- Virtua Fighter Kids (E) - TODO
+- Virtua Fighter Kids (J) (Java Tea Original) - TODO
+- Virtua Fighter Kids (J) - TODO
+- Virtua Fighter Kids (K) - TODO
+- Virtua Fighter Kids (U) - TODO
+- Virtua Fighter Remix (E) - TODO
+- Virtua Fighter Remix (J) (2M, 5M) - TODO
+- Virtua Fighter Remix (J) (4M) - TODO
+- Virtua Fighter Remix (J) (6M) - TODO
+- Virtua Fighter Remix (J) (SegaNet) - TODO
+- Virtua Fighter Remix (K) - TODO
+- Virtua Fighter Remix (U) - TODO
+- Virtua Photo Studio - Cameraman Simulation (J) (1M, 2M) - TODO
+- Virtua Racing (E) - TODO
+- Virtua Racing (J) - TODO
+- Virtua Racing (U) (12S) - TODO
+- Virtua Racing (U) (15S) - TODO
+- Virtuacall S (J) (Disc 1) (Game Honpen) - TODO
+- Virtuacall S (J) (Disc 2) (Shokai Gentei Yobikake-kun) - TODO
+- Virtual Casino (J) - TODO
+- Virtual Casino (U) - TODO
+- Virtual Golf (E) - TODO
+- Virtual Hydlide (E) - TODO
+- Virtual Hydlide (J) (2M) - TODO
+- Virtual Hydlide (U) (P4H) - TODO
+- Virtual Hydlide (U) (P5H) - TODO
+- Virtual Kyoutei (J) - TODO
+- Virtual Kyoutei 2 (J) (2M) - TODO
+- Virtual Mahjong (J) - TODO
+- Virtual Mahjong 2 - My Fair Lady (J) - TODO
+- Virtual On - Cyber Troopers (E) - TODO
+- Virtual On - Cyber Troopers (U) - TODO
+- Virtual On - Cyber Troopers Net Link Edition (U) - TODO
+- Virtual Open Tennis (E) - TODO
+- Virtual Open Tennis (J) - TODO
+- Virtual Open Tennis (U) - TODO
+- Virtual Volleyball (J) - TODO
+- Virus (J) (Demo) - TODO
+- Virus (J) (Disc 1) - TODO
+- Virus (J) (Disc 2) - TODO
+- Virus (J) (Disc 3) - TODO
+- Voice Fantasia S - Ushinawareta Voice Power (J) (Disc 1) - TODO
+- Voice Fantasia S - Ushinawareta Voice Power (J) (Disc 2) (Premium CD-ROM) - TODO
+- Voice Idol Maniacs - Pool Bar Story (J) (Disc 1) (2M) - TODO
+- Voice Idol Maniacs - Pool Bar Story (J) (Disc 2) - TODO
 
 #### X
 
