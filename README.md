@@ -2308,6 +2308,101 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Voice Idol Maniacs - Pool Bar Story (J) (Disc 1) (2M) - TODO
 - Voice Idol Maniacs - Pool Bar Story (J) (Disc 2) - TODO
 
+#### W
+
+- WWF In Your House (E) - TODO
+- WWF In Your House (J) - TODO
+- WWF In Your House (U) - TODO
+- WWF WrestleMania - The Arcade Game (E) (Demo) - TODO
+- WWF WrestleMania - The Arcade Game (E) - TODO
+- WWF WrestleMania - The Arcade Game (J) - TODO
+- WWF WrestleMania - The Arcade Game (U) - TODO
+- Wachenroeder (J) - TODO
+- Waialae no Kiseki - Extra 36 Holes (J) - TODO
+- Waku Waku 7 (J) (Demo) - TODO
+- Waku Waku 7 (J) - TODO
+- Waku Waku Puyo Puyo Dungeon (J) (3M) - TODO
+- Waku Waku Puyo Puyo Dungeon (J) (4M) - TODO
+- Waku Waku Puyo Puyo Dungeon (J) (Demo) - TODO
+- Waku^2 Monster (J) - TODO
+- WanChai Connection (J) (Disc A) - TODO
+- WanChai Connection (J) (Disc B) (3A, 3C) - TODO
+- Wangan Dead Heat (J) - TODO
+- Wangan Dead Heat + Real Arrange (J) (Disc 1) - TODO
+- Wangan Dead Heat + Real Arrange (J) (Disc 2) (Addition) - TODO
+- Wangan Trial Love (J) - TODO
+- WarCraft II - The Dark Saga (E) - TODO
+- WarCraft II - The Dark Saga (J) - TODO
+- WarCraft II - The Dark Saga (U) - TODO
+- Wara Wara Wars - Gekitou! Daigundan Battle (J) - TODO
+- Welcome House (J) - TODO
+- Wheel's (J) - TODO
+- Whizz (E) - TODO
+- Whizz (J) - TODO
+- Willy Wombat (J) - TODO
+- Wing Arms (E) - TODO
+- Wing Arms (U) (4S) - TODO
+- Wing Arms (U) (5S) - TODO
+- Wing Arms - Kareinaru Gekitsuiou (J) (Rev A) - TODO
+- Winning Post (U) - TODO
+- Winning Post 2 (J) (2M) - TODO
+- Winning Post 2 (J) (Rev A) (10M) - TODO
+- Winning Post 2 - Final '97 (J) - TODO
+- Winning Post 2 - Program '96 (J) - TODO
+- Winning Post 3 (J) (2M) - TODO
+- Winning Post 3 (J) (3M) - TODO
+- Winning Post 3 - Program '98 (J) - TODO
+- Winning Post EX (J) (2M) - TODO
+- Winter Heat (E) (Demo) - TODO
+- Winter Heat (E) - TODO
+- Winter Heat (J) - TODO
+- Winter Heat (U) - TODO
+- WipEout (E) - TODO
+- WipEout (J) (2M) - TODO
+- WipEout (U) - TODO
+- WipEout 2097 (E) (Demo) - TODO
+- WipEout 2097 (E) - TODO
+- Wipeout XL (J) - TODO
+- With You - Mitsumeteitai (J) (Disc 1) - TODO
+- With You - Mitsumeteitai (J) (Disc 2) - TODO
+- Wizard's Harmony (J) - TODO
+- Wizard's Harmony 2 (J) (1M) - TODO
+- Wizard's Harmony 2 (J) (2M) - TODO
+- Wizardry - Llylgamyn Saga (J) - TODO
+- Wizardry Nemesis - The Wizardry Adventure (J) (Disc 1) - TODO
+- Wizardry Nemesis - The Wizardry Adventure (J) (Disc 2) - TODO
+- Wizardry VI & VII Complete (J) (3M) - TODO
+- Wizardry VI & VII Complete (J) (Sample-ban) (3M) - TODO
+- Wolf Fang SS - Kuuga 2001 (J) - TODO
+- World Advanced Daisenryaku - Koutetsu no Senpuu (J) (1M, 4M) - TODO
+- World Advanced Daisenryaku - Koutetsu no Senpuu (J) (2M) - TODO
+- World Advanced Daisenryaku - Koutetsu no Senpuu (J) (Rev A) (10M) - TODO
+- World Advanced Daisenryaku - Sakusen File (J) (1M) - TODO
+- World Advanced Daisenryaku - Sakusen File (J) (2M) - TODO
+- World Cup '98 France - Road to Win (J) - TODO
+- World Cup Golf - In Hyatt Dorado Beach (J) - TODO
+- World Cup Golf - Professional Edition (E) (1S) - TODO
+- World Cup Golf - Professional Edition (E) (3S) - TODO
+- World Cup Golf - Professional Edition (F) - TODO
+- World Cup Golf - Professional Edition (G) (Rev A) - TODO
+- World Cup Golf - Professional Edition (U) (RE2) - TODO
+- World Evolution Soccer (J) - TODO
+- World Heroes Perfect (J) - TODO
+- World League Soccer '98 (E) - TODO
+- World Series Baseball (E) - TODO
+- World Series Baseball (U) - TODO
+- World Series Baseball 98 (U) - TODO
+- World Series Baseball II (E) - TODO
+- World Series Baseball II (J) - TODO
+- World Series Baseball II (U) (1S) - TODO
+- World Series Baseball II (U) (2S) - TODO
+- Worldwide Soccer '98 (U) - TODO
+- Worldwide Soccer - Sega International Victory Goal Edition (K) - TODO
+- Worldwide Soccer - Sega International Victory Goal Edition (U) (RE) - TODO
+- Worms (E) - TODO
+- Worms (J) - TODO
+- Worms (U) - TODO
+
 #### X
 
 - [X Japan - Virtual Shock 001 (J)](./J/GS-9023/01/README.md) - TODO (Check Version)
@@ -2322,8 +2417,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - X-Men vs. Street Fighter (J) (1M) - TODO
 - X-Men vs. Street Fighter (J) (2M) - TODO
 - X-Men vs. Street Fighter (J) (3M) - TODO
-
-#### W
+- Xianjian Qixiazhuan (T) - TODO (Recorded)
 
 #### Y
 
