@@ -2310,8 +2310,18 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### X
 
-- [X-Men vs. Street Fighter (J)](./J/T-1226G/01/README.md)
-- [X Japan - Virtual Shock 001 (J)](./J/GS-9023/01/README.md)
+- [X Japan - Virtual Shock 001 (J)](./J/GS-9023/01/README.md) - TODO (Check Version)
+- X Japan - Virtual Shock 001 (J) (3M) - TODO
+- X Japan - Virtual Shock 001 (J) (4M) - TODO
+- X-Men - Children of the Atom (E) (2S) - TODO
+- X-Men - Children of the Atom (E) (3S) - TODO
+- X-Men - Children of the Atom (J) (Demo) - TODO
+- X-Men - Children of the Atom (J) - TODO
+- X-Men - Children of the Atom (U) - TODO (Recorded)
+- [X-Men vs. Street Fighter (J)](./J/T-1226G/01/README.md) - TODO (Check Version)
+- X-Men vs. Street Fighter (J) (1M) - TODO
+- X-Men vs. Street Fighter (J) (2M) - TODO
+- X-Men vs. Street Fighter (J) (3M) - TODO
 
 #### W
 
