@@ -520,27 +520,27 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### E
 
-- EGWord (J) (1M) - TODO
+- [EGWord (J) (1M)](./J/T-7626G/01/README.md)
 - EGWord (J) (Rev A) (10M) - TODO
 - EGWord Ver 2.00 (J) - TODO
 - Earthworm Jim 2 (E) - TODO
 - Earthworm Jim 2 (J) (2M) - TODO
 - Earthworm Jim 2 (U) - TODO
-- Eberouge (J) (Disc 1) (1M) - TODO
+- [Eberouge (J) (Disc 1) (1M)](./J/T-10309G/01/README.md)
 - Eberouge (J) (Disc 2) - TODO
-- Eberouge Special - Koi to Mahou no Gakuen Seikatsu (J) - TODO
-- Eisei Meijin (J) (2M) - TODO
-- Eisei Meijin II (J) - TODO
-- Eiyuu Shigan - Gal Act Heroism (J) - TODO
+- [Eberouge Special - Koi to Mahou no Gakuen Seikatsu (J)](./J/T-10315G/01/README.md)
+- [Eisei Meijin (J) (2M)](./J/T-9506G/01/README.md)
+- [Eisei Meijin II (J)](./J/T-9516G//01/README.md)
+- [Eiyuu Shigan - Gal Act Heroism (J)](./J/T-5204G//01/README.md)
 - [Elevator Action 2 - Returns](./J/T-19903G/01/README.md)
-- Elf o Karu Monotachi (J) (Disc 1) - TODO
+- [Elf o Karu Monotachi (J) (Disc 1)](./J/T-16605G/01/README.md)
 - Elf o Karu Monotachi (J) (Disc 2) (Omake Disc) - TODO
-- Elf o Karu Monotachi - Hanafuda-hen (J) - TODO
-- Elf o Karu Monotachi II (J) (Disc 1) - TODO
+- [Elf o Karu Monotachi - Hanafuda-hen (J)](./J/T-16606G/01/README.md)
+- [Elf o Karu Monotachi II (J) (Disc 1)](./J/T-16610G/01/README.md)
 - Elf o Karu Monotachi II (J) (Disc 2) (Omake Disc) - TODO
-- Emit Vol. 1 - Toki no Maigo (J) - TODO
-- Emit Vol. 2 - Inochigake no Tabi (J) (Rev A) - TODO
-- Emit Vol. 3 - Watashi ni Sayonara o (J) (Rev A) - TODO
+- [Emit Vol. 1 - Toki no Maigo (J)](./J/T-7602G/01/README.md)
+- [Emit Vol. 2 - Inochigake no Tabi (J) (Rev A)](./J/T-7603G/01/README.md)
+- [Emit Vol. 3 - Watashi ni Sayonara o (J) (Rev A)](./J/T-7604G/01/README.md)
 - Enemy Zero (E) (Disc 0) (Opening Disc) - TODO
 - Enemy Zero (E) (Disc 1) (Game Disc) - TODO
 - Enemy Zero (E) (Disc 2) (Game Disc) - TODO
@@ -561,26 +561,26 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Enemy Zero (J) (Disc 3) (Game Disc) (3M) - TODO
 - Enemy Zero (J) (Disc 3) (Game Disc) (Satakore) - TODO
 - Enemy Zero (J) (Disc 3) (Game Disc) - TODO
-- Enemy Zero (U) (Disc 0) - TODO
-- Enemy Zero (U) (Disc 1) - TODO
+- [Enemy Zero (U) (Disc 0)](./U/MK-81076/01/README.md)
+- [Enemy Zero (U) (Disc 1)](./U/MK-81076/01/README.md)
 - Enemy Zero (U) (Disc 2) - TODO
 - Enemy Zero (U) (Disc 3) - TODO
 - Eternal Melody (J) (Rev A) - TODO
-- Eternal Melody (J) - TODO
-- Etude Prologue - Yureugoku Kokoro no Katachi (J) - TODO
-- Eve - Burst Error (J) (Disc 1) (Kojiroh Disc) - TODO
+- [Eternal Melody (J)](./J/T-27802G/01/README.md)
+- [Étude Prologue: Yureugoku Kokoro no Katachi (J)](./J/T-37901G/01/README.md)
+- [Eve - Burst Error (J) (Disc 1) (Kojiroh Disc)](./J/T-15022G/01/README.md)
 - Eve - Burst Error (J) (Disc 2) (Marina Disc) - TODO
 - Eve - Burst Error (J) (Disc 3) (Terror Disc) - TODO
 - Eve - Burst Error (J) (Disc 4) (Making Disc) - TODO
 - Eve - The Lost One (J) (Demo) - TODO
-- Eve - The Lost One (J) (Disc 1) (Kyoko Disc) (1M) - TODO
+- [Eve - The Lost One (J) (Disc 1) (Kyoko Disc)(1M)](./J/T-15035G/01/README.md)
 - Eve - The Lost One (J) (Disc 2) (Snake Disc) (2M) - TODO
 - Eve - The Lost One (J) (Disc 3) (Lost One Disc) (1M) - TODO
 - Eve - The Lost One (J) (Disc 3) (Lost One Disc) (2M) - TODO
 - Eve - The Lost One (J) (Disc 4) (Extra Disc) (1M) - TODO
 - Eve - The Lost One (J) (Disc 4) (Extra Disc) (2M) - TODO
-- Exhumed (E) - TODO
-- Eyeful Home (J) - TODO
+- [Exhumed (E)](./E/MK-81084/01/README.md)
+- [Eyeful Home (J)](./J/GS-9083/01/README.md)
 
 #### F
 
