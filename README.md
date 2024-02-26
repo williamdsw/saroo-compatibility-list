@@ -2411,12 +2411,12 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - X-Men - Children of the Atom (E) (3S) - TODO
 - X-Men - Children of the Atom (J) (Demo) - TODO
 - X-Men - Children of the Atom (J) - TODO
-- X-Men - Children of the Atom (U) - TODO (Recorded)
+- [X-Men - Children of the Atom (U)](./U/T-8108H/01/README.md)
 - [X-Men vs. Street Fighter (J)](./J/T-1226G/01/README.md) - TODO (Check Version)
 - X-Men vs. Street Fighter (J) (1M) - TODO
 - X-Men vs. Street Fighter (J) (2M) - TODO
 - X-Men vs. Street Fighter (J) (3M) - TODO
-- Xianjian Qixiazhuan (T) - TODO (Recorded)
+- [Xianjian Qixiazhuan (T)](./T/T-37401H/01/README.md)
 
 #### Y
 
