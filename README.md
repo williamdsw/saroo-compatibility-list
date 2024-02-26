@@ -1339,25 +1339,24 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### O
 
-- Ochigee Designer Tsukutte Pon! (J) - TODO (Recorded)
+- [Ochigee Designer Tsukutte Pon! (J)](./J/T-9108G/01/README.md)
 - Off-World Interceptor Extreme (E) - TODO
 - Off-World Interceptor Extreme (J) - TODO
-- Off-World Interceptor Extreme (U) - TODO (Recorded)
-- Oh-chan no Oekaki Logic (J) - TODO (Recorded)
-- Ojousama Express (Disc 1) (J) - TODO
+- [Off-World Interceptor Extreme (U)](./U/T-15908H/01/README.md)
+- [Oh-chan no Oekaki Logic (J)](./J/T-1508G/01/README.md)
+- [Ojousama Tokkyuu (Express) (Disc 1) (J)](./J/T-27803G/01/README.md)
 - Ojousama Express (Disc 2) (J) - TODO
 - Ojousama o Nerae!! (J) (Rev A) - TODO
-- Ojousama o Nerae!! (J) - TODO (Recorded)
-- Okudera Yasuhiko no Sekai o Mezase! Soccer Kids - Nyuumon-hen (J) - TODO (Recorded)
+- [Ojousama o Nerae!! (J)](./J/T-38101G/01/README.md)
+- [Okudera Yasuhiko no Sekai o Mezase! Soccer Kids - Nyuumon-hen (J)](./J/T-26001G/01/README.md)
 - Olympic Soccer (E) - TODO
 - Olympic Soccer (G) - TODO
 - Olympic Soccer (J) - TODO
-- Olympic Soccer (U) - TODO (Recorded)
-- Omakase! Savers (J) - TODO (Recorded)
-- Ooedo Renaissance (J) - TODO (Recorded)
-- Oracle no Houseki - Jewels of the Oracle (J) - TODO (Recorded)
-- Ousama Game (Disc 1) (Ichigo Disc) (J) - TODO (Recorded)
-- Ousama Game (Disc 2) (Momo Disc) (J) - TODO (Recorded)
+- [Olympic Soccer (U)](./U/T-07904H/01/README.md)
+- [Omakase! Savers (J)](./J/GS-9030/01/README.md)
+- [OoEdo Renaissance (J)](./J/T-9104G/01/README.md)
+- [Oracle no Houseki - Jewels of the Oracle (J)](./J/T-1511G/01/README.md)
+- [Ousama Game (All Discs) (J)](./J/T-21904G/01/README.md)
 
 #### P
 
