@@ -16,17 +16,17 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### 0-9
 
-- 2Tax Gold (J) - TODO (Recorded)
-- 2do Aru Koto wa Sando R (J) - TODO (Recorded)
-- 3D Baseball (U) - TODO (Recorded)
+- [2Tax Gold (J)](./J/T-4305G/01/README.md)
+- [Puzzle & Action: 2do Arukoto ha Sand-R (J)](./J/T-6802G/01/README.md) - TODO (Move to P)
+- [3D Baseball (U)](./U/T-15906H/01/README.md)
 - 3D Baseball - The Majors (J) - TODO
 - 3D Lemmings (E) - TODO
 - 3D Lemmings (J) - TODO
-- 3D Mission Shooting - Finalist (J) - TODO (Recorded)
-- 3x3 Eyes - Kyuusei Koushu S (J) (Disc 1) - TODO (Recorded)
+- [Tunnel B1 - 3D Mission Shooting: Finalist (J)](./J/T-18511G/01/README.md) - TODO (Move to T)
+- [3x3 Eyes - Kyuusei Koushu S (J) (Disc 1)](./J/T-21301G/01/README.md)
 - 3x3 Eyes - Kyuusei Koushu S (J) (Disc 2) - TODO
 - 3x3 Eyes - Kyuusei Koushu S (J) (Disc 3) (Special CD-ROM) - TODO
-- 6 Inch My Darling (J) - TODO (Recorded)
+- [6 Inch My Darling (J) (Disc 1)](./J/T-19721G/01/README.md)
 
 #### A
 
