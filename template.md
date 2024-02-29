@@ -33,6 +33,7 @@ Extra info here.
 
 - Perfect :100:
 - Playable :white_check_mark:
+- Fixed with configuration :hammer_and_wrench:
 - Issues :warning:
 - Unplayable :x:
 - No Boot :finnadie:

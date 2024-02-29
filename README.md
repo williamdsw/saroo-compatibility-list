@@ -879,40 +879,40 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### I
 
-- Ide Yousuke Meijin no Shin Jissen Mahjong (J) (2M) - TODO
-- Idol Janshi Suchie-Pai II (J) (Disc 1) - TODO
-- Idol Janshi Suchie-Pai II (J) (Disc 2) (Omake Disc) - TODO
-- Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 1) - TODO
+- [Ide Yousuke Meijin no Shin Jissen Mahjong (J) (2M)](./J/T-1208G/01/README.md)
+- [Idol Janshi Suchie-Pai II (J) (Disc 1)](./J/T-5705G/01/README.md)
+- Idol Janshi Suchie-Pai II (J) (Disc 2) (Omake Disc) (J) - TODO
+- [Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 1)](./J/T-5716G/01/README.md)
 - Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 2) - TODO
 - Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 3) - TODO
-- Idol Janshi Suchie-Pai Remix (J) - TODO
-- Idol Janshi Suchie-Pai Secret Album (J) - TODO
-- Idol Janshi Suchie-Pai Special (J) - TODO
-- Idol Mahjong - Final Romance 2 (J) - TODO
-- Idol Mahjong - Final Romance 4 (J) - TODO
+- [Idol Janshi Suchie-Pai Remix (J)](./J/T-5704G/01/README.md)
+- [Idol Janshi Suchie-Pai Secret Album (J)](./J/T-5717G/01/README.md)
+- [Idol Janshi Suchie-Pai Special (J)](./J/T-5701G/01/README.md)
+- [Idol Mahjong - Final Romance 2 (J)](./J/T-16702G/01/README.md)
+- [Idol Mahjong - Final Romance 4 (J)](./J/T-3003G/01/README.md)
 - Idol Mahjong - Final Romance R (J) (Kisekae Disc Kanzenban) - TODO
 - Idol Mahjong - Final Romance R (J) (Kisekae Disc) - TODO
-- Idol Mahjong - Final Romance R (J) - TODO
+- [Idol Mahjong - Final Romance R (J)](./J/T-16703G/01/README.md)
 - Impact Racing (E) (Demo) - TODO
 - Impact Racing (E) - TODO
 - Impact Racing (J) - TODO
-- Impact Racing (U) - TODO
+- [Impact Racing (U)](./U/T-8139H/01/README.md)
 - In the Hunt (E) - TODO
 - In the Hunt (U) (Beta) - TODO
 - [In The Hunt (U)](./U/T-10001G/01/README.md)
-- Incredible Hulk, The - The Pantheon Saga (E) - TODO
-- Incredible Hulk, The - The Pantheon Saga (U) - TODO
-- Independence Day (U) - TODO
+- The Incredible Hulk - The Pantheon Saga (E) - TODO (Record & Move to T)
+- [The Incredible Hulk - The Pantheon Saga (U)](./U/T-7905H/01/README.md) (Move to T)
+- [Independence Day (U)](./U/T-16104H/01/README.md)
 - Independence Day - The Game (E) - TODO
-- International Victory Goal (E) - TODO
-- Ippatsu Gyakuten - Gambling King e no Michi (J) - TODO
-- Irem Arcade Classics (J) - TODO
+- [International Victory Goal (E)](./E/MK-81105/01/README.md)
+- [Ippatsu Gyakuten - Gambling King e no Michi (J)](./J/T-29602G/01/README.md)
+- [Irem Arcade Classics (J)](./J/T-22403G/01/README.md)
 - Iron Man & X-O Manowar in Heavy Metal (E) - TODO
 - Iron Man & X-O Manowar in Heavy Metal (J) - TODO
-- Iron Man & X-O Manowar in Heavy Metal (U) - TODO (Recorded)
-- Iron Storm (U) - TODO
-- Ishin no Arashi (J) - TODO
-- Isto E Zico - Zico no Kangaeru Soccer (J) - TODO (Recorded)
+- [Iron Man & X-O Manowar in Heavy Metal (U)](./U/T-8119H/01/README.md)
+- [Iron Storm (U)](./U/T-12701H/01/README.md)
+- [Ishin no Arashi (J)](./J/T-7645G/01/README.md)
+- [Isto E Zico - Zico no Kangaeru Soccer (J)](./J/T-18802G/01/README.md)
 
 #### J
 
