@@ -16,7 +16,7 @@
 
 ### SD Card Info
 
-- <b>Brand:</b> Samsung
+- <b>Brand:</b> [Samsung](https://s.click.aliexpress.com/e/_DlaoPrr)
 - <b>File System:</b> Large FAT32
 - <b>Capacity:</b> 128 GB
 - <b>Cluster Size:</b> 32 kb
