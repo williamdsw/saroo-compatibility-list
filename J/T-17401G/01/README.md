@@ -12,7 +12,7 @@
 - <b>Version:</b> 1.32F
 - <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
-  1. MCU: 240118, SS:240118, FPGA: 05
+  1. MCU: 240118, SS: 240118, FPGA: 05
 
 ### SD Card Info
 
