@@ -213,18 +213,18 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Bug Too! (E) - TODO
 - Bug Too! (U) - TODO
 - Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (J) - TODO
-- Bug! (E) - TODO
+- [Bug! (E)](./E/MK-81004/01/README.md)
 - Bug! (U) (Demo) (1S) - TODO
 - Bug! (U) (Demo) (3S) - TODO
 - Bug! (U) (R) - TODO
-- Bug! (U) - TODO (Recorded)
-- Bug! Jump Shite, Funzukechatte, Petchanko (J) - TODO
+- [Bug! (U)](./U/GM-81004/01/README.md)
+- [Bug! Jump Shite, Funzukechatte, Petchanko (J)](./J/GS-9063/01/README.md)
 - Bulk Slash (J) - TODO
 - Burning Rangers (E) - TODO
 - Burning Rangers (J) (Demo) - TODO
 - Burning Rangers (J) (Proto) - TODO
 - Burning Rangers (J) - TODO
-- Burning Rangers (U) - TODO (Recorded)
+- [Burning Rangers (U)](./U/MK-81803/01/README.md)
 - Bust-A-Move 2 - Arcade Edition (E) - TODO
 - Bust-A-Move 2 - Arcade Edition (U) - TODO (Recorded)
 - Bust-A-Move 3 (E) - TODO
@@ -384,16 +384,16 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Darklight Conflict (E) - TODO
 - Darklight Conflict (U) - TODO
 - Darkseed (J) - TODO
-- Daytona U (E) (1S) - TODO
-- Daytona U (E) (2S) - TODO
-- Daytona U (E) - TODO
-- Daytona U (J) (Demo) (2M) - TODO
-- Daytona U (J) - TODO
-- Daytona U (U) - TODO (Recorded)
-- Daytona U - Championship Circuit Edition (E) (Rev A) - TODO
+- Daytona USA (E) (1S) - TODO
+- Daytona USA (E) (2S) - TODO
+- [Daytona USA (E)](./E/MK_8120050/01/README.md)
+- Daytona USA (J) (Demo) (2M) - TODO
+- [Daytona USA (J)](./J/GS-9013/01/README.md)
+- [Daytona USA (U)](./U/MK-81200/01/README.md)
+- Daytona USA - Championship Circuit Edition (E) (Rev A) - TODO
 - [Daytona USA: Championship Circuit Edition (U)](./U/MK-81213/01/README.md)
-- Daytona U - Circuit Edition (J) - TODO
-- Daytona U C.C.E. Net Link Edition (U) - TODO
+- Daytona USA - Circuit Edition (J) - TODO
+- Daytona USA C.C.E. Net Link Edition (U) - TODO
 - DeJig - Aqua World (J) - TODO
 - DeJig - Lassen - Art Collection (J) - TODO
 - DeJig - McKnight - Art Collection (J) - TODO
@@ -767,7 +767,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Gotha - Ismailia SenEki (J) - TODO
 - Gotha II - Tenkuu no Kishi (J) - TODO
 - Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (J) (Demo) - TODO
-- Gouketsuji Ichizoku 3 - Groove on Fight (J) - TODO (Recorded)
+- [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/01/README.md)
 - Gradius Deluxe Pack (J) - TODO (Check if recorded)
 - Gran Chaser (J) (3M) - TODO
 - GranDread (J) - TODO
@@ -1005,7 +1005,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc A](./J/T-28004G/01/README.md)
 - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc B) - TODO
 - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc C) - TODO
-- Koudou Saisoku Densetsu - Initial D (J) - TODO
+- [Koudou Saisoku Densetsu - Initial D](./J/T-25503G/01/README.md)
 - Kouryuu Sangoku Engi (J) - TODO
 - Koutetsu Reiiki - Steeldom (J) (2M) - TODO
 - Krazy Ivan (E) - TODO
@@ -1973,7 +1973,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Street Fighter Zero 2 (J) (Demo) - TODO
 - Street Fighter Zero 2 (J) - TODO
 - Street Fighter Zero 2' (J) - TODO (Recorded)
-- Street Fighter Zero 3 (J) - TODO (Recorded)
+- [Street Fighter Zero 3 (J)](./J/T-1246G/01/README.md)
 - Street Racer (E) - TODO
 - Street Racer Extra (J) - TODO
 - Striker 96 (E) - TODO
@@ -2191,7 +2191,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Ultraman Zukan 3 (J)](./J/T-25505G/01/README.md)
 - [Umanari 1 Furlong Gekijou (Umanari 1 Furlong Theater) (J)](./J/T-35001G/01/README.md)
 - [Universal Nuts (J)](./J/T-36202G/01/README.md)
-- Uno DX (J) - TODO (Recorded)
+- [Uno DX (J)](./J/T-26414G/01/README.md)
 
 #### V
 
@@ -2447,7 +2447,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Zen Nihon Pro Wres featuring Virtua (J) (Rev A)](./J/GS-9158/01/README.md)
 - Zen Nihon Pro Wres featuring Virtua (J) - TODO
 - [Zenkoku Seifuku Bishoujo Grand Prix - Find Love (J)](./J/T-34602G/01/README.md)
-- Zero Divide - The Final Conflict (J) - TODO (Recorded)
+- [Zero Divide - The Final Conflict (J)](./J/T-31601G/01/README.md)
 - [Zero4 Champ DooZy-J Type-R (J)](./J/T-21401G/01/README.md)
 - [Zoku Gussun Oyoyo (J) (2M)](./J/T-20604G/01/README.md)
 - [Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 1) (Shougakusei Jidai)](./J/T-33005G/01/README.md)
