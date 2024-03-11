@@ -916,50 +916,50 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### J
 
-- J. B. Harold - Blue Chicago Blues (J) (Disc 1) - TODO
+- [J. B. Harold - Blue Chicago Blues (J) (Disc 1)](./J/T-5302G/01/README.md)
 - J. B. Harold - Blue Chicago Blues (J) (Disc 2) - TODO
-- J.League Go Go Goal! (J) - TODO (Recorded)
-- J.League Jikkyou Honoo no Striker (J) (1M) - TODO
+- [J.League Go Go Goal! (J)](./J/T-3602G/README.md)
+- [J.League Jikkyou Honoo no Striker (J) (1M)](./J/T-9528G/01/README.md)
 - J.League Jikkyou Honoo no Striker (J) (2M) - TODO
 - J.League Pro Soccer Club o Tsukurou! (J) (Rev A) - TODO
 - J.League Pro Soccer Club o Tsukurou! (J) (Rev B) - TODO
-- J.League Pro Soccer Club o Tsukurou! (J) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (J) (1M) - TODO
+- [J.League Pro Soccer Club o Tsukurou! (J)](./J/GS-9034/01/README.md)
+- [J.League Pro Soccer Club o Tsukurou! 2 (J) (1M)](./J/GS-9168/01/README.md)
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (2M) - TODO
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (3M) - TODO
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (4M) - TODO
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (Rev C) (32M) - TODO
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (Rev D) (41M) - TODO
-- J.League Victory Goal '96 (J) (1M, 3M) - TODO
+- [J.League Victory Goal '96 (J) (1M, 3M)](./J/GS-9048/01/README.md)
 - J.League Victory Goal '96 (J) (2M) - TODO
-- J.League Victory Goal '97 (J) - TODO
+- [J.League Victory Goal '97 (J)](./J/GS-9140/01/README.md)
 - Jantei Battle Cos-Player (J) (Demo) - TODO
-- Jantei Battle Cos-Player (J) (Disc 1) - TODO
+- [Jantei Battle Cos-Player (J) (Disc 1)](./J/T-34601G/01/README.md)
 - Jantei Battle Cos-Player (J) (Disc 2) (Making Disc) - TODO
-- Jantei Battle Cos-Player - Original Genga-shuu (J) - TODO
-- J Super Bass Classic '96 (J) - TODO
+- [Jantei Battle Cos-Player - Original Genga-shuu (J)](./J/T-3466106553/01/README.md)
+- [J Super Bass Classic '96](./J/T-18707G/01/README.md)
 - Jewels of the Oracle (E) - TODO
 - Jewels of the Oracle (U) (Proto 1) - TODO
 - Jewels of the Oracle (U) (Proto 2) - TODO
-- Jikkyou Oshaberi Parodius - Forever with Me (J) - TODO
-- Jikkyou Powerful Pro Yakyuu '95 - Kaimakuban (J) (2M) - TODO
-- Jikkyou Powerful Pro Yakyuu S (J) - TODO
-- Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J) (Disc A) - TODO
+- [Jikkyou Oshaberi Parodius - Forever with Me (J)](./J/T-9513G/01/README.md)
+- [Jikkyou Powerful Pro Yakyuu '95 Kaimaku-ban (J) (2M)](./J/T-9502G/01/README.md)
+- [Jikkyou Powerful Pro Yakyuu S (J)](./J/T-9523G/01/README.md)
+- [Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J) (Disc A)](./J/T-2103G/01/README.md)
 - Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J) (Disc B) - TODO
-- Jissen Mahjong (J) - TODO
-- Jissen Pachinko Hisshou-hou! Twin (J) - TODO
-- Jissen! Pachi-Slot Hisshou-hou! 3 (J) - TODO
-- Jissen! Pachi-Slot Hisshou-hou! 4 (J) - TODO
-- Jissen! Pachi-Slot Hisshou-hou! Iron Hook - The Great Marine Adventures (J) - TODO
+- [Jissen Mahjong (J)](./J/T-15002G/01/README.md)
+- [Jissen Pachinko Hisshou-hou! Twin (J)](./J/T-2407G/01/README.md)
+- [Jissen! Pachi-Slot Hisshou-hou! 3 (J)](./J/T-2401G/01/README.md)
+- [Jissen! Pachi-Slot Hisshou-hou! 4 (J)](./J/T-2406G/01/README.md)
+- [Jissen! Pachi-Slot Hisshou-hou! Iron Hook - The Great Marine Adventures (J)](./J/T-2404G/01/README.md)
 - Johnny Bazooka (J) - TODO
 - Johnny Bazookatone (E) - TODO
-- Johnny Bazookatone (U) - TODO
-- Jonah Lomu Rugby (E) - TODO
+- [Johnny Bazookatone (U)](./U/T-7909H/01/README.md)
+- [Jonah Lomu Rugby (E)](./E/T-12003H50/01/README.md)
 - Jonah Lomu Rugby (F) - TODO
-- Joshikousei no Houkago... Pukunpa (J) - TODO
-- Junclassic C.C. & Rope Club (J) (2M) - TODO
-- Jung Rhythm (J) - TODO
-- Jungle Park - Saturn Shima (J) (Rev A) - TODO
+- [Joshikousei no Houkago... Pukunpa (J)](./J/T-16802G/01/README.md)
+- [Junclassic C.C. & Rope Club (J) (2M)](./J/T-11403G/01/README.md)
+- [Jung Rhythm (J)](./J/T-16607G/01/README.md)
+- [Jungle Park - Saturn Shima (J) (Rev A)](./J/T-18008G/01/README.md)
 
 #### K
 
