@@ -1005,7 +1005,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc A](./J/T-28004G/01/README.md)
 - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc B) - TODO
 - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc C) - TODO
-- [Koudou Saisoku Densetsu - Initial D](./J/T-25503G/01/README.md)
+- [Koudou Saisoku Densetsu - Initial D (J)](./J/T-25503G/01/README.md)
 - Kouryuu Sangoku Engi (J) - TODO
 - Koutetsu Reiiki - Steeldom (J) (2M) - TODO
 - Krazy Ivan (E) - TODO
@@ -1024,59 +1024,59 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### L
 
-- Langrisser - Dramatic Edition (Japan) (1M) - TODO
-- Langrisser - Dramatic Edition (Japan) (2M) - TODO
-- Langrisser III (Japan) (1M) - TODO
-- Langrisser III (Japan) (3M) - TODO
-- Langrisser III (Japan) (Rev A) (5M) - TODO
-- Langrisser III (Japan) (Rev A) (7M) - TODO
-- Langrisser IV (Japan) (1M, 3M) - TODO
-- Langrisser V - The End of Legend (Japan) (1M) - TODO
-- Langrisser V - The End of Legend (Japan) (3M) - TODO
-- Last Bronx (Europe) - TODO
-- Last Bronx (Japan) (Disc 1) (Arcade Disc) - TODO
-- Last Bronx (Japan) (Disc 2) (Special Disc) - TODO
-- Last Bronx (USA) - TODO
-- Last Gladiators - Digital Pinball (USA) (3S) - TODO
-- Last Gladiators - Digital Pinball (USA) (4S) - TODO
-- Layer Section (Japan) (3M) - TODO
-- Layer Section (Japan) (6M) - TODO
-- Layer Section (Japan) (Rev A) (11M) - TODO
-- Layer Section II (Japan) (Demo) - TODO
-- Layer Section II (Japan) - TODO
-- Legend of Heroes I & II, The - Eiyuu Densetsu (Japan) - TODO
-- Legend of K-1 - Grand Prix '96 (Japan) - TODO
-- Legend of K-1 - The Best Collection (Japan) - TODO
-- Legend of Oasis, The (USA) - TODO
-- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere) (4M) - TODO
-- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere) (3M) - TODO
-- LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai (Japan) - TODO
-- Linda^3 Kanzenban (Japan) - TODO
-- Linkle Liver Story (Japan) - TODO
-- Loaded (Europe) (En,Fr,De) (Alt) - TODO
-- Loaded (Europe) (En,Fr,De) - TODO
-- Loaded (USA) (En,Fr) - TODO
-- Lode Runner - The Legend Returns (Japan) - TODO
-- Lode Runner Extra (Japan) - TODO
-- Logic Puzzle Rainbow Town (Japan) - TODO
-- Lost Vikings 2 - Norse by Norsewest (Europe) (En,Fr,De) - TODO
-- Lost World, The - Jurassic Park (Europe) - TODO
-- Lost World, The - Jurassic Park (Japan) - TODO
-- Lost World, The - Jurassic Park (USA) - TODO
-- Lovely Pop 2 in 1 - Jan Jan Koi Shimasho (Japan) - TODO
-- LuLu - Un Conte Interactif de Romain Victor-Pujebet (Japan) - TODO
-- Lunacy (USA) (Disc 1) - TODO
-- Lunacy (USA) (Disc 2) - TODO
-- Lunar - Silver Star Story (Japan) (Demo) - TODO
-- Lunar - Silver Star Story (Japan) (Rev A) - TODO
-- Lunar - Silver Star Story (Japan) - TODO
-- Lunar - Silver Star Story Complete (Japan) - TODO
-- Lunar 2 - Eternal Blue (Japan) (Disc 1) - TODO
-- Lunar 2 - Eternal Blue (Japan) (Disc 2) - TODO
-- Lupin Sansei - Pyramid no Kenja (Japan) - TODO
-- Lupin the 3rd - The Master File (Japan) - TODO
-- Lupin the 3rd Chronicles (Japan) (Disc 1) - TODO
-- Lupin the 3rd Chronicles (Japan) (Disc 2) - TODO
+- [Langrisser - Dramatic Edition (J) (1M)](./J/T-2507G/01/README.md)
+- Langrisser - Dramatic Edition (J) (2M) - TODO
+- [Langrisser III (J) (1M)](./J/T-2502G/01/README.md)
+- Langrisser III (J) (3M) - TODO
+- Langrisser III (J) (Rev A) (5M) - TODO
+- Langrisser III (J) (Rev A) (7M) - TODO
+- [Langrisser IV (J) (1M, 3M)](./J/T-2505G/01/README.md)
+- [Langrisser V - The End of Legend (J) (1M)](./J/T-2509G/01/README.md)
+- Langrisser V - The End of Legend (J) (3M) - TODO
+- Last Bronx (E) - TODO
+- Last Bronx (J) (Disc 1) (Arcade Disc) - TODO
+- Last Bronx (J) (Disc 2) (Special Disc) - TODO
+- [Last Bronx (U)](./U/MK-81078/01/README.md)
+- [Last Gladiators - Digital Pinball (U) (3S)](./U/T-4804H/01/README.md)
+- Last Gladiators - Digital Pinball (U) (4S) - TODO
+- [Layer Section (J) (3M)](./J/T-1101G/01/README.md)
+- Layer Section (J) (6M) - TODO
+- Layer Section (J) (Rev A) (11M) - TODO
+- Layer Section II (J) (Demo) - TODO
+- [Layer Section II (J)](./J/T-26409G/01/README.md)
+- [Legend of Heroes I & II, The - Eiyuu Densetsu (J)](./J/T-37101G/01/README.md)
+- [Legend of K-1 - Grand Prix '96 (J)](./J/T-7503G/01/README.md)
+- [Legend of K-1 - The Best Collection (J)](./J/T-7501G/01/README.md)
+- [Legend of Oasis, The (U)](./U/MK-81302/01/README.md) - TODO: Move to T
+- [LifeScape - Seimei 40 Okunen Haruka na Tabi (J) (Disc 1) (Aquasphere) (4M)](./J/T-26405G/01/README.md)
+- LifeScape - Seimei 40 Okunen Haruka na Tabi (J) (Disc 2) (Landsphere) (3M) - TODO
+- [LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai (J)](./J/T-26411G/01/README.md)
+- [Linda³ Kanzenban (J)](./J/T-2112G/01/README.md)
+- [Linkle Liver Story (J)](./J/GS-9055/01/README.md)
+- Loaded (E) (En,Fr,De) (Alt) - TODO
+- Loaded (E) (En,Fr,De) - TODO
+- [Loaded (U)](./U/T-12519H/01/README.md)
+- [Lode Runner - The Legend Returns (J)](./J/T-25101G/01/README.md)
+- [Lode Runner Extra (J)](./J/T-25103G/01/README.md)
+- [Logic Puzzle Rainbow Town (J)](./J/T-4303G/01/README.md)
+- [Lost Vikings 2 - Norse by Norsewest (E)](./E/T-12521H50/01/README.md) - TODO: Move to T
+- Lost World, The - Jurassic Park (E) - TODO
+- Lost World, The - Jurassic Park (J) - TODO
+- [Lost World, The - Jurassic Park (U)](./U/MK-81065/01/README.md) - TODO: Move to T
+- [Lovely Pop 2 in 1 - Jan Jan Koi Shimasho (J)](./J/T-5801G/01/README.md)
+- [LuLu - Un Conte Interactif de Romain Victor-Pujebet (J)](./J/GS-9118/01/README.md)
+- [Lunacy (U) (Disc 1)](./U/T-14403H/01/README.md)
+- Lunacy (U) (Disc 2) - TODO
+- Lunar - Silver Star Story (J) (Demo) - TODO
+- Lunar - Silver Star Story (J) (Rev A) - TODO
+- [Lunar - Silver Star Story (J)](./J/T-27901G/01/README.md)
+- [Lunar - Silver Star Story Complete (J)](./J/T-27904G/01/README.md)
+- [Lunar 2 - Eternal Blue (J) (Disc 1)](./J/T-27906G/01/README.md)
+- Lunar 2 - Eternal Blue (J) (Disc 2) - TODO
+- [Lupin Sansei - Pyramid no Kenja (J)](./J/T-2004G/01/README.md)
+- [Lupin the 3rd - The Master File (J)](./J/T-18801G/01/README.md)
+- [Lupin the 3rd Chronicles (J) (Disc 1)](./J/T-18804G/01/README.md)
+- Lupin the 3rd Chronicles (J) (Disc 2) - TODO
 
 #### M
 
