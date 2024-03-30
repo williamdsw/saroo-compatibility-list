@@ -12,6 +12,13 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - `TODO` - Game needs to be tested, recorded, uploaded to youtube and be registered here.
 - `TODO (Recorded)` - Game already tested, recorded and uploaded to youtube but they need to be registered here.
 
+### Regions
+
+- `E` - Europe, EUR, EU (10 Games)
+- `J` - Japan, JAP, JP (168 Games)
+- `T` - Taiwan, TAI, TW (1 Game)
+- `U` - United States of America, USA, US (54 Games)
+
 ### Games
 
 #### 0-9
