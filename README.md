@@ -27,8 +27,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Puzzle & Action: 2do Arukoto ha Sand-R (J)](./J/T-6802G/01/README.md) - TODO (Move to P)
 - [3D Baseball (U)](./U/T-15906H/01/README.md)
 - 3D Baseball - The Majors (J) - TODO
-- 3D Lemmings (E) - TODO
-- 3D Lemmings (J) - TODO
+- [3D Lemmings (E)](./E/T-11304H/01/README.md)
+- [3D Lemmings (J)](./J/T-15013G/01/README.md)
 - [Tunnel B1 - 3D Mission Shooting: Finalist (J)](./J/T-18511G/01/README.md) - TODO (Move to T)
 - [3x3 Eyes - Kyuusei Koushu S (J) (Disc 1)](./J/T-21301G/01/README.md)
 - 3x3 Eyes - Kyuusei Koushu S (J) (Disc 2) - TODO
