@@ -7,17 +7,18 @@
 Games compatibility list of SAROO cartridge for Sega Saturn.
 It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
-[Playlist with Tested Games on Youtube](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
+[Playlist with Tested Games on Youtube (+ 400 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
 
 - `TODO` - Game needs to be tested, recorded, uploaded to youtube and be registered here.
 - `TODO (Recorded)` - Game already tested, recorded and uploaded to youtube but they need to be registered here.
 
 ### Regions
 
-- `E` - Europe, EUR, EU (10 Games)
-- `J` - Japan, JAP, JP (168 Games)
+- `E` - Europe, EUR, EU (15 Games)
+- `J` - Japan, JAP, JP (207 Games)
 - `T` - Taiwan, TAI, TW (1 Game)
-- `U` - United States of America, USA, US (54 Games)
+- `U` - United States of America, USA, US (62 Games)
+- Total: 285 games registered here
 
 ### Games
 
@@ -37,91 +38,91 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### A
 
-- AI Igo (J) - TODO (Recorded)
-- AI Shougi (J) - TODO (Recorded)
-- AI Shougi 2 (J) - TODO (Recorded)
-- Actua Golf (E) - TODO (Recorded)
+- [AI Igo (J)](./J/T-17601G/01/README.md)
+- [AI Shougi (J)](./J/T18602G/01/README.md)
+- [AI Shougi 2 (J)](./J/T-17602G/01/README.md)
+- [Actua Golf (E)](./E/T-12302H/01/README.md)
 - Actua Golf (J) - TODO
-- Actua Soccer (J) - TODO (Recorded)
-- Actua Soccer - Club Edition (E) - TODO (Recorded)
-- Advanced V.G. (J) - TODO (Recorded)
-- Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (2M) - TODO (Recorded)
+- [Actua Soccer (J)](./J/T-5020H/01/README.md)
+- [Actua Soccer - Club Edition (E)](./E/T-12305H/01/README.md)
+- [Advanced V.G. (J)](./J/T-32501G/01/README.md)
+- [Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (2M)](./J/GS-9087/01/README.md)
 - Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (Rev B) (22M) - TODO
-- Ai Iijima Interactive Video Clip - Good Island Cafe (J) - TODO (Recorded)
-- Air Management '96 (J) - TODO (Recorded)
-- Airs Adventure (J) - TODO (Recorded)
-- Akumajou Dracula X - Gekka no Yasoukyoku (J) (2M) - TODO (Recorded)
+- [Ai Iijima Interactive Video Clip - Good Island Cafe (J)](./J/T-25201G/01/README.md)
+- [Air Management '96 (J)](./J/T-7611G/01/README.md)
+- [Airs Adventure (J)](./J/T-20701G/01/README.md)
+- [Akumajou Dracula X - Gekka no Yasoukyoku (J)](./J/T-9527G/README.md)
 - Albert Odyssey - Legend of Eldean (U) (RE) - TODO
 - Albert Odyssey - Legend of Eldean (U) - TODO
 - Albert Odyssey Gaiden - Legend of Eldean (J) (1M) - TODO
 - Albert Odyssey Gaiden - Legend of Eldean (J) (2M) - TODO
 - Albert Odyssey Gaiden - Legend of Eldean (J) (3M) - TODO
-- Album Club (Mune Kyun) - St. Paulia Jogakuin (J) - TODO (Recorded)
+- [Album Club (Mune Kyun) - St. Paulia Jogakuin (J)](./J/T-21903G/01/README.md)
 - Alien Trilogy (E) (4S) - TODO
 - Alien Trilogy (E) (7S) - TODO
 - Alien Trilogy (E) (Beta) - TODO
 - Alien Trilogy (G) - TODO
 - Alien Trilogy (J) (Demo) - TODO
 - Alien Trilogy (J) - TODO
-- Alien Trilogy (U) - TODO (Recorded)
-- All-Star Baseball '97 Featuring Frank Thomas (U) - TODO (Recorded)
+- [Alien Trilogy (U)](./U/T-8113H/01/README.md)
+- [All-Star Baseball '97 Featuring Frank Thomas (U)](./U/T-8150H/01/README.md)
 - Alone in the Dark - Jack Is Back (E) - TODO
-- Alone in the Dark - One-Eyed Jack's Revenge (U) - TODO (Recorded)
+- [Alone in the Dark - One-Eyed Jack's Revenge (U)](./U/T-29401H/01/README.md)
 - Alone in the Dark 2 (J) - TODO
-- Amagi Shien (J) - TODO (Recorded)
-- America Oudan Ultra Quiz (J) - TODO (Recorded)
+- [Amagi Shien (J)](./J/T-1513G/README.md)
+- [America Oudan Ultra Quiz (J)](./J/T-6004G/01/README.md)
 - Amok (E) - TODO
 - Amok (J) - TODO
-- Amok (U) - TODO (Recorded)
-- AnEarth Fantasy Stories - The First Volume (J) - TODO (Recorded)
+- [Amok (U)](./U/MK-81064/01/README.md)
+- [AnEarth Fantasy Stories - The First Volume (J)](./J/T-27801G/01/README.md)
 - Andretti Racing (E) - TODO
 - Andretti Racing (F) - TODO
 - Andretti Racing (G) - TODO
 - [Andretti Racing (U)](./U/T-5020H/01/README.md)
-- Angel Graffiti S - Anata e no Profile (J) - TODO (Recorded)
-- Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (J) - TODO (Recorded)
-- Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (J) - TODO (Recorded)
-- Angelique Duet (J) - TODO (Recorded)
-- Angelique Special (J) - TODO (Recorded)
-- Angelique Special 2 (J) - TODO (Recorded)
-- Another Memories (J) - TODO (Recorded)
-- Aqua-world - Umi Monogatari (J) - TODO (Recorded)
-- Aquazone - Desktop Life (J) - TODO (Recorded)
-- Aquazone - Desktop Life Option Disc Series 1 - Angel Fish (J) (Rev A) - TODO (Recorded)
-- Aquazone - Desktop Life Option Disc Series 2 - Black Molly (J) (Rev A) - TODO (Recorded)
-- Aquazone - Desktop Life Option Disc Series 3 - Blue Emperor (J) (Rev A) - TODO (Recorded)
-- Aquazone - Desktop Life Option Disc Series 4 - Clown Loach (J) (Rev A) - TODO (Recorded)
-- Aquazone - Desktop Life Option Disc Series 5 - False Rummy-Nose (J) (Rev A) - TODO (Recorded)
-- Arcade Gears Vol. 1 - Pu-Li-Ru-La (J) - TODO (Recorded)
-- Arcade Gears Vol. 2 - Gun Frontier (J) - TODO (Recorded)
-- Arcade Gears Vol. 3 - Wonder 3 (J) - TODO (Recorded)
-- Arcade Gears Vol. 4 - ImageFight & XMultiply (J) - TODO (Recorded)
-- Arcade's Greatest Hits (U) - TODO (Recorded)
+- [Angel Graffiti S - Anata e no Profile (J)](./J/T-7308G/01/README.md)
+- [Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (J)](./J/T-2403G/01/README.md)
+- [Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (J)](./J/T-2405G/01/README.md)
+- [Angelique Duet (J)](./J/T-7662G/01/README.md)
+- Angelique Special (J) - TODO
+- [Angelique Special 2 (J)](./J/T-7627G/01/README.md)
+- [Another Memories (J)](./J/T-38001G/01/README.md)
+- [Aqua-world - Umi Monogatari (J)](./J/T-30301G/01/README.md)
+- [Aquazone - Desktop Life (J)](./J/T-24001G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 1 - Angel Fish (J) (Rev A)](./J/T-24002G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 2 - Black Molly (J) (Rev A)](./J/T-24003G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 3 - Blue Emperor (J) (Rev A)](./J/T-24004G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 4 - Clown Loach (J) (Rev A)](./J/T-24005G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 5 - False Rummy-Nose (J) (Rev A)](./J/T-24006G/01/README.md)
+- [Pu-Li-Ru-La/Arcade Gears (J)](./J/T-26106G/01/README.md) - TODO (Move to P)
+- [Gun Frontier Arcade Gears (J)](./J/T-26109G/01/README.md) - TODO (Move to G)
+- [Wonder 3 Arcade Gears (J)](./J/T-26107G/01/README.md) - TODO (Move to W)
+- Arcade Gears Vol. 4 - ImageFight & XMultiply (J) - TODO
+- [Midway Presents Arcade's Greatest Hits (U)](./U/T-9703H/01/README.md) - TODO (Move to M)
 - Arcade's Greatest Hits - The Atari Collection 1 (E) - TODO
-- Arcade's Greatest Hits - The Atari Collection 1 (U) - TODO (Recorded)
-- Arcana Strikes (J) - TODO (Recorded)
+- [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (U)](./U/T-9706H/01/README.md) - TODO (Move to M)
+- [Arcana Strikes (J)](./J/T-10311G/01/README.md)
 - Area 51 (E) (En,Fr,De,Es) - TODO
 - Area 51 (J) - TODO
 - Area 51 (U) (Beta) - TODO
-- Area 51 (U) - TODO (Recorded)
-- Arthur to Astaroth no Nazo Makaimura - Incredible Toons (J) - TODO (Recorded)
-- Assault Rigs (J) - TODO (Recorded)
-- Assault Suit Leynos 2 (J) - TODO (Recorded)
-- Astal (U) (1S) - TODO (Recorded)
+- [Area 51 (U)](./U/T-9705H/01/README.md)
+- [Arthur to Astaroth no Nazo Makaimura - Incredible Toons (J) ](./J/T-1209G/01/README.md)
+- [Assault Rigs (J)](./J/T-18606G/01/README.md)
+- [Assault Suit Leynos 2 (J) ](./J/T-2501G/01/README.md)
+- [Astal (U) (1S)](./U/MK-81019/01/README.md)
 - Astal (U) (2S) - TODO
 - Astal (U) (3S) - TODO
-- Astra Superstars (J) - TODO (Recorded)
-- Asuka 120% Limited - Burning Fest. Limited (J) - TODO (Recorded)
-- Athlete Kings (E) - TODO (Recorded)
-- Atlantis - The Lost Tales (E) (Disc 1) - TODO (Recorded)
+- [Astra Superstars (J) ](./J/T-1521G/01/README.md)
+- [Asuka 120% Limited - Burning Fest. Limited (J)](./J/T-16708G/01/README.md)
+- [Athlete Kings (E)](./E/MK-81115/01/README.md)
+- [Atlantis - The Lost Tales (E) (Disc 1)](./E/MK-8109150/01/README.md)
 - Atlantis - The Lost Tales (E) (Disc 2) - TODO
 - Atlantis - The Lost Tales (F) (Disc 1) - TODO
 - Atlantis - The Lost Tales (F) (Disc 2) - TODO
-- Ayakashi Ninden Kunoichiban Plus (J) (Disc 1) - TODO (Recorded)
+- [Ayakashi Ninden Kunoichiban Plus (J) (Disc 1)](./J/T-21512G/01/README.md)
 - Ayakashi Ninden Kunoichiban Plus (J) (Disc 2) - TODO
-- Ayrton Senna Personal Talk - Message for the Future (J) - TODO (Recorded)
+- [Ayrton Senna Personal Talk - Message for the Future (J)](./J/GS-9020/01/README.md)
 - Azel - Panzer Dragoon RPG (J) (Demo) - TODO
-- Azel - Panzer Dragoon RPG (J) (Disc 1) (1M) - TODO (Recorded)
+- [Azel - Panzer Dragoon RPG (J) (Disc 1) (1M)](./J/GS-9076/01/README.md)
 - Azel - Panzer Dragoon RPG (J) (Disc 1) (2M) - TODO
 - Azel - Panzer Dragoon RPG (J) (Disc 2) (2M) - TODO
 - Azel - Panzer Dragoon RPG (J) (Disc 3) (1M) - TODO
