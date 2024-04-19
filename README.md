@@ -43,7 +43,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [AI Shougi 2 (J)](./J/T-17602G/01/README.md)
 - [Actua Golf (E)](./E/T-12302H/01/README.md)
 - Actua Golf (J) - TODO
-- [Actua Soccer (J)](./J/T-5020H/01/README.md)
+- Actua Soccer (J) - TODO
 - [Actua Soccer - Club Edition (E)](./E/T-12305H/01/README.md)
 - [Advanced V.G. (J)](./J/T-32501G/01/README.md)
 - [Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (2M)](./J/GS-9087/01/README.md)
