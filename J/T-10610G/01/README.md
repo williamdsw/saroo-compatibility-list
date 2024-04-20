@@ -1,4 +1,4 @@
-# Rockman X4 (J)
+# Rabbit (J)
 
 ### Console Info
 
@@ -12,11 +12,11 @@
 - <b>Version:</b> 1.32F
 - <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
-  1. MCU: 231108, SS: 231108, FPGA: 04 [Vortex]
+  1. MCU: 240316, SS: 240316, FPGA: 05
 
 ### SD Card Info
 
-- <b>Brand:</b> [XRayDisk](https://s.click.aliexpress.com/e/_DFQnFSH)
+- <b>Brand:</b> [Lenovo](https://s.click.aliexpress.com/e/_DBowUFx)
 - <b>File System:</b> Large FAT32
 - <b>Capacity:</b> 128 GB
 - <b>Cluster Size:</b> 32 kb
@@ -25,28 +25,21 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> ROCKMAN X4
-- <b>Product Number:</b> T-1221G
-- <b>Version:</b> V1.002
-- <b>Area Code:</b> JT
+- <b>Game Name:</b> RABBIT
+- <b>Product Number:</b> T-10610G
+- <b>Version:</b> V1.001
+- <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
 
 ### Status
 
-- (1M) - Untested :question:
-- (3M) - Perfect :100:
+- Playable :white_check_mark:
 
 ### Extra Info
 
-- Playable full gameplay with X.
-- It's needs a full gameplay with Zero.
-
-### TODO
-
-- Test Rockman X4 (J) (1M)
+- Full campaign tested with `Wu-ling`.
+- It does need a full gameplay tests with other characters and difficulties.
 
 ### Evidence
 
-3M:
-
-[![[Complete] SAROO 1.32 (231108) - Rockman X4 (J) - X](https://img.youtube.com/vi/YRtfkrKWTDI/0.jpg)](https://www.youtube.com/watch?v=YRtfkrKWTDI)
+[![[Complete] SAROO 1.32 (240316) - Rabbit (J)](https://img.youtube.com/vi/9Kc0AYuvz0A/0.jpg)](https://www.youtube.com/watch?v=9Kc0AYuvz0A)
