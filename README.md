@@ -89,13 +89,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Aquazone - Desktop Life Option Disc Series 3 - Blue Emperor (J) (Rev A)](./J/T-24004G/01/README.md)
 - [Aquazone - Desktop Life Option Disc Series 4 - Clown Loach (J) (Rev A)](./J/T-24005G/01/README.md)
 - [Aquazone - Desktop Life Option Disc Series 5 - False Rummy-Nose (J) (Rev A)](./J/T-24006G/01/README.md)
-- [Pu-Li-Ru-La/Arcade Gears (J)](./J/T-26106G/01/README.md) - TODO (Move to P)
-- [Gun Frontier Arcade Gears (J)](./J/T-26109G/01/README.md) - TODO (Move to G)
-- [Wonder 3 Arcade Gears (J)](./J/T-26107G/01/README.md) - TODO (Move to W)
 - Arcade Gears Vol. 4 - ImageFight & XMultiply (J) - TODO
-- [Midway Presents Arcade's Greatest Hits (U)](./U/T-9703H/01/README.md) - TODO (Move to M)
 - Arcade's Greatest Hits - The Atari Collection 1 (E) - TODO
-- [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (U)](./U/T-9706H/01/README.md) - TODO (Move to M)
 - [Arcana Strikes (J)](./J/T-10311G/01/README.md)
 - Area 51 (E) (En,Fr,De,Es) - TODO
 - Area 51 (J) - TODO
@@ -778,6 +773,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Guardian Heroes (E) - TODO
 - Guardian Heroes (J) (3M) - TODO
 - Guardian Heroes (U) - TODO (Recorded)
+- [Gun Frontier Arcade Gears (J)](./J/T-26109G/01/README.md)
 - Gun Griffon (E) - TODO
 - GunBlaze-S (J) - TODO
 - Gunbird (J) - TODO (Recorded)
@@ -1019,7 +1015,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Legend of Heroes I & II, The - Eiyuu Densetsu (J)](./J/T-37101G/01/README.md)
 - [Legend of K-1 - Grand Prix '96 (J)](./J/T-7503G/01/README.md)
 - [Legend of K-1 - The Best Collection (J)](./J/T-7501G/01/README.md)
-- [Legend of Oasis, The (U)](./U/MK-81302/01/README.md) - TODO: Move to T
+
 - [LifeScape - Seimei 40 Okunen Haruka na Tabi (J) (Disc 1) (Aquasphere) (4M)](./J/T-26405G/01/README.md)
 - LifeScape - Seimei 40 Okunen Haruka na Tabi (J) (Disc 2) (Landsphere) (3M) - TODO
 - [LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai (J)](./J/T-26411G/01/README.md)
@@ -1031,10 +1027,6 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Lode Runner - The Legend Returns (J)](./J/T-25101G/01/README.md)
 - [Lode Runner Extra (J)](./J/T-25103G/01/README.md)
 - [Logic Puzzle Rainbow Town (J)](./J/T-4303G/01/README.md)
-- [Lost Vikings 2 - Norse by Norsewest (E)](./E/T-12521H50/01/README.md) - TODO: Move to T
-- Lost World, The - Jurassic Park (E) - TODO
-- Lost World, The - Jurassic Park (J) - TODO
-- [Lost World, The - Jurassic Park (U)](./U/MK-81065/01/README.md) - TODO: Move to T
 - [Lovely Pop 2 in 1 - Jan Jan Koi Shimasho (J)](./J/T-5801G/01/README.md)
 - [LuLu - Un Conte Interactif de Romain Victor-Pujebet (J)](./J/GS-9118/01/README.md)
 - [Lunacy (U) (Disc 1)](./U/T-14403H/01/README.md)
@@ -1153,6 +1145,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Metal Slug - Super Vehicle-001 (J) (Rev A) - TODO
 - Metal Slug - Super Vehicle-001 (J) - TODO (Recorded)
 - Mezase Idol Star!! Natsuiro Memories - Mahjong-hen (J) (2M) - TODO
+- [Midway Presents Arcade's Greatest Hits (U)](./U/T-9703H/01/README.md)
+- [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (U)](./U/T-9706H/01/README.md)
 - Mighty Hits (E) - TODO
 - Mighty Hits (J) - TODO
 - Minakata Hakudou Toujou (J) (Disc 1) (2M) - TODO
@@ -1459,6 +1453,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Pro-Pinball (U) - TODO
 - Pro-Pinball - The Web (E) - TODO
 - Psychotron, The (J) - TODO
+- [Pu-Li-Ru-La/Arcade Gears (J)](./J/T-26106G/01/README.md)
 - Pup-Breeder (J) - TODO
 - Puyo Puyo Sun (J) (1M, 3M) - TODO
 - Puyo Puyo Sun (J) (2M) - TODO
@@ -1472,6 +1467,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Puzzle Bobble 3 (J) (2M) - TODO
 - Puzzle Bobble 3 for SegaNet (J) - TODO
 - [Puzzle & Action: 2do Arukoto ha Sand-R (J)](./J/T-6802G/01/README.md)
+
 - Pyon Pyon Kyaruru no Mahjong Biyori (J) (2M) - TODO
 
 #### Q
@@ -2077,6 +2073,11 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - The King of Fighters '96 (J) (1M) - TODO
 - The King of Fighters '96 (J) (4M, 5M) - TODO
 - [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
+- [The Legend of Oasis (U)](./U/MK-81302/01/README.md)
+- [The Lost Vikings 2 - Norse by Norsewest (E)](./E/T-12521H50/01/README.md)
+- The Lost World - Jurassic Park (E) - TODO
+- The Lost World - Jurassic Park (J) - TODO
+- [The Lost World - Jurassic Park (U)](./U/MK-81065/01/README.md)
 - The Unsolved (J) (Disc 1) - TODO (Recorded)
 - The Unsolved (J) (Disc 2) - TODO
 - The Unsolved (J) (Disc 3) - TODO
@@ -2349,6 +2350,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Wizardry VI & VII Complete (J) (3M) - TODO
 - Wizardry VI & VII Complete (J) (Sample-ban) (3M) - TODO
 - Wolf Fang SS - Kuuga 2001 (J) - TODO
+- [Wonder 3 Arcade Gears (J)](./J/T-26107G/01/README.md)
 - World Advanced Daisenryaku - Koutetsu no Senpuu (J) (1M, 4M) - TODO
 - World Advanced Daisenryaku - Koutetsu no Senpuu (J) (2M) - TODO
 - World Advanced Daisenryaku - Koutetsu no Senpuu (J) (Rev A) (10M) - TODO
@@ -2374,6 +2376,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Worldwide Soccer '98 (U) - TODO
 - Worldwide Soccer - Sega International Victory Goal Edition (K) - TODO
 - Worldwide Soccer - Sega International Victory Goal Edition (U) (RE) - TODO
+
 - Worms (E) - TODO
 - Worms (J) - TODO
 - Worms (U) - TODO
