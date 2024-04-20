@@ -25,16 +25,12 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### 0-9
 
 - [2Tax Gold (J)](./J/T-4305G/01/README.md)
-- [Puzzle & Action: 2do Arukoto ha Sand-R (J)](./J/T-6802G/01/README.md) - TODO (Move to P)
 - [3D Baseball (U)](./U/T-15906H/01/README.md)
 - 3D Baseball - The Majors (J) - TODO
 - [3D Lemmings (E)](./E/T-11304H/01/README.md)
 - [3D Lemmings (J)](./J/T-15013G/01/README.md)
-- [Tunnel B1 - 3D Mission Shooting: Finalist (J)](./J/T-18511G/01/README.md) - TODO (Move to T)
-- [3x3 Eyes - Kyuusei Koushu S (J) (Disc 1)](./J/T-21301G/01/README.md)
-- 3x3 Eyes - Kyuusei Koushu S (J) (Disc 2) - TODO
-- 3x3 Eyes - Kyuusei Koushu S (J) (Disc 3) (Special CD-ROM) - TODO
-- [6 Inch My Darling (J) (Disc 1)](./J/T-19721G/01/README.md)
+- [3x3 Eyes - Kyuusei Koushu S (J)](./J/T-21301G/01/README.md)
+- [6 Inch My Darling (J)](./J/T-19721G/01/README.md)
 
 #### A
 
@@ -47,7 +43,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Actua Soccer - Club Edition (E)](./E/T-12305H/01/README.md)
 - [Advanced V.G. (J)](./J/T-32501G/01/README.md)
 - [Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (2M)](./J/GS-9087/01/README.md)
-- Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (Rev B) (22M) - TODO
+- Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (Rev B) (22M) - TODO (GS-9190 ?)
 - [Ai Iijima Interactive Video Clip - Good Island Cafe (J)](./J/T-25201G/01/README.md)
 - [Air Management '96 (J)](./J/T-7611G/01/README.md)
 - [Airs Adventure (J)](./J/T-20701G/01/README.md)
@@ -108,26 +104,17 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Arthur to Astaroth no Nazo Makaimura - Incredible Toons (J) ](./J/T-1209G/01/README.md)
 - [Assault Rigs (J)](./J/T-18606G/01/README.md)
 - [Assault Suit Leynos 2 (J) ](./J/T-2501G/01/README.md)
-- [Astal (U) (1S)](./U/MK-81019/01/README.md)
-- Astal (U) (2S) - TODO
-- Astal (U) (3S) - TODO
+- [Astal (U)](./U/MK-81019/01/README.md)
 - [Astra Superstars (J) ](./J/T-1521G/01/README.md)
 - [Asuka 120% Limited - Burning Fest. Limited (J)](./J/T-16708G/01/README.md)
 - [Athlete Kings (E)](./E/MK-81115/01/README.md)
-- [Atlantis - The Lost Tales (E) (Disc 1)](./E/MK-8109150/01/README.md)
-- Atlantis - The Lost Tales (E) (Disc 2) - TODO
+- [Atlantis - The Lost Tales (E)](./E/MK-8109150/01/README.md)
 - Atlantis - The Lost Tales (F) (Disc 1) - TODO
 - Atlantis - The Lost Tales (F) (Disc 2) - TODO
-- [Ayakashi Ninden Kunoichiban Plus (J) (Disc 1)](./J/T-21512G/01/README.md)
-- Ayakashi Ninden Kunoichiban Plus (J) (Disc 2) - TODO
+- [Ayakashi Ninden Kunoichiban Plus (J)](./J/T-21512G/01/README.md)
 - [Ayrton Senna Personal Talk - Message for the Future (J)](./J/GS-9020/01/README.md)
 - Azel - Panzer Dragoon RPG (J) (Demo) - TODO
-- [Azel - Panzer Dragoon RPG (J) (Disc 1) (1M)](./J/GS-9076/01/README.md)
-- Azel - Panzer Dragoon RPG (J) (Disc 1) (2M) - TODO
-- Azel - Panzer Dragoon RPG (J) (Disc 2) (2M) - TODO
-- Azel - Panzer Dragoon RPG (J) (Disc 3) (1M) - TODO
-- Azel - Panzer Dragoon RPG (J) (Disc 3) (2M) - TODO
-- Azel - Panzer Dragoon RPG (J) (Disc 4) (2M, 3M) - TODO
+- [Azel - Panzer Dragoon RPG (J)](./J/GS-9076/01/README.md)
 
 #### B
 
@@ -224,7 +211,6 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Bug! (E)](./E/MK-81004/01/README.md)
 - Bug! (U) (Demo) (1S) - TODO
 - Bug! (U) (Demo) (3S) - TODO
-- Bug! (U) (R) - TODO
 - [Bug! (U)](./U/GM-81004/01/README.md)
 - [Bug! Jump Shite, Funzukechatte, Petchanko (J)](./J/GS-9063/01/README.md)
 - Bulk Slash (J) - TODO
@@ -392,8 +378,6 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Darklight Conflict (E) - TODO
 - Darklight Conflict (U) - TODO
 - Darkseed (J) - TODO
-- Daytona USA (E) (1S) - TODO
-- Daytona USA (E) (2S) - TODO
 - [Daytona USA (E)](./E/MK_8120050/01/README.md)
 - Daytona USA (J) (Demo) (2M) - TODO
 - [Daytona USA (J)](./J/GS-9013/01/README.md)
@@ -425,8 +409,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - DecAthlete (J) (Rev B) (20M) - TODO
 - DecAthlete (U) - TODO
 - DecAthlete for SegaNet (J) - TODO
-- [Deep Fear (E) (Disc 1)](./E/MK-81804/01/README.md)
-- Deep Fear (E) (Disc 2) - TODO
+- [Deep Fear (E)](./E/MK-81804/01/README.md)
 - Deep Fear (J) (Demo) - TODO
 - Deep Fear (J) (Disc 1) - TODO
 - Deep Fear (J) (Disc 2) - TODO
@@ -534,18 +517,15 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Earthworm Jim 2 (E) - TODO
 - Earthworm Jim 2 (J) (2M) - TODO
 - Earthworm Jim 2 (U) - TODO
-- [Eberouge (J) (Disc 1) (1M)](./J/T-10309G/01/README.md)
-- Eberouge (J) (Disc 2) - TODO
+- [Eberouge (J)](./J/T-10309G/01/README.md)
 - [Eberouge Special - Koi to Mahou no Gakuen Seikatsu (J)](./J/T-10315G/01/README.md)
 - [Eisei Meijin (J) (2M)](./J/T-9506G/01/README.md)
 - [Eisei Meijin II (J)](./J/T-9516G//01/README.md)
 - [Eiyuu Shigan - Gal Act Heroism (J)](./J/T-5204G//01/README.md)
 - [Elevator Action 2 - Returns](./J/T-19903G/01/README.md)
-- [Elf o Karu Monotachi (J) (Disc 1)](./J/T-16605G/01/README.md)
-- Elf o Karu Monotachi (J) (Disc 2) (Omake Disc) - TODO
+- [Elf o Karu Monotachi (J)](./J/T-16605G/01/README.md)
 - [Elf o Karu Monotachi - Hanafuda-hen (J)](./J/T-16606G/01/README.md)
-- [Elf o Karu Monotachi II (J) (Disc 1)](./J/T-16610G/01/README.md)
-- Elf o Karu Monotachi II (J) (Disc 2) (Omake Disc) - TODO
+- [Elf o Karu Monotachi II (J)](./J/T-16610G/01/README.md)
 - [Emit Vol. 1 - Toki no Maigo (J)](./J/T-7602G/01/README.md)
 - [Emit Vol. 2 - Inochigake no Tabi (J) (Rev A)](./J/T-7603G/01/README.md)
 - [Emit Vol. 3 - Watashi ni Sayonara o (J) (Rev A)](./J/T-7604G/01/README.md)
@@ -569,11 +549,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Enemy Zero (J) (Disc 3) (Game Disc) (3M) - TODO
 - Enemy Zero (J) (Disc 3) (Game Disc) (Satakore) - TODO
 - Enemy Zero (J) (Disc 3) (Game Disc) - TODO
-- [Enemy Zero (U) (Disc 0)](./U/MK-81076/01/README.md)
-- [Enemy Zero (U) (Disc 1)](./U/MK-81076/01/README.md)
-- Enemy Zero (U) (Disc 2) - TODO
-- Enemy Zero (U) (Disc 3) - TODO
-- Eternal Melody (J) (Rev A) - TODO
+- [Enemy Zero (U)](./U/MK-81076/01/README.md)
 - [Eternal Melody (J)](./J/T-27802G/01/README.md)
 - [Étude Prologue: Yureugoku Kokoro no Katachi (J)](./J/T-37901G/01/README.md)
 - [Eve - Burst Error (J) (Disc 1) (Kojiroh Disc)](./J/T-15022G/01/README.md)
@@ -888,18 +864,15 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 #### I
 
 - [Ide Yousuke Meijin no Shin Jissen Mahjong (J) (2M)](./J/T-1208G/01/README.md)
-- [Idol Janshi Suchie-Pai II (J) (Disc 1)](./J/T-5705G/01/README.md)
-- Idol Janshi Suchie-Pai II (J) (Disc 2) (Omake Disc) (J) - TODO
-- [Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 1)](./J/T-5716G/01/README.md)
-- Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 2) - TODO
-- Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J) (Disc 3) - TODO
+- [Idol Janshi Suchie-Pai II (J)](./J/T-5705G/01/README.md)
+- [Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J)](./J/T-5716G/01/README.md)
 - [Idol Janshi Suchie-Pai Remix (J)](./J/T-5704G/01/README.md)
 - [Idol Janshi Suchie-Pai Secret Album (J)](./J/T-5717G/01/README.md)
 - [Idol Janshi Suchie-Pai Special (J)](./J/T-5701G/01/README.md)
 - [Idol Mahjong - Final Romance 2 (J)](./J/T-16702G/01/README.md)
 - [Idol Mahjong - Final Romance 4 (J)](./J/T-3003G/01/README.md)
-- Idol Mahjong - Final Romance R (J) (Kisekae Disc Kanzenban) - TODO
-- Idol Mahjong - Final Romance R (J) (Kisekae Disc) - TODO
+- Idol Mahjong - Final Romance R (J) (Kisekae Disc Kanzenban) - TODO (T-16705G ?)
+- Idol Mahjong - Final Romance R (J) (Kisekae Disc) - TODO (T-16705G ?)
 - [Idol Mahjong - Final Romance R (J)](./J/T-16703G/01/README.md)
 - Impact Racing (E) (Demo) - TODO
 - Impact Racing (E) - TODO
@@ -908,8 +881,6 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - In the Hunt (E) - TODO
 - In the Hunt (U) (Beta) - TODO
 - [In The Hunt (U)](./U/T-10001G/01/README.md)
-- The Incredible Hulk - The Pantheon Saga (E) - TODO (Record & Move to T)
-- [The Incredible Hulk - The Pantheon Saga (U)](./U/T-7905H/01/README.md) (Move to T)
 - [Independence Day (U)](./U/T-16104H/01/README.md)
 - Independence Day - The Game (E) - TODO
 - [International Victory Goal (E)](./E/MK-81105/01/README.md)
@@ -924,13 +895,9 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### J
 
-- [J. B. Harold - Blue Chicago Blues (J) (Disc 1)](./J/T-5302G/01/README.md)
-- J. B. Harold - Blue Chicago Blues (J) (Disc 2) - TODO
+- [J. B. Harold - Blue Chicago Blues (J)](./J/T-5302G/01/README.md)
 - [J.League Go Go Goal! (J)](./J/T-3602G/README.md)
-- [J.League Jikkyou Honoo no Striker (J) (1M)](./J/T-9528G/01/README.md)
-- J.League Jikkyou Honoo no Striker (J) (2M) - TODO
-- J.League Pro Soccer Club o Tsukurou! (J) (Rev A) - TODO
-- J.League Pro Soccer Club o Tsukurou! (J) (Rev B) - TODO
+- [J.League Jikkyou Honoo no Striker (J)](./J/T-9528G/01/README.md)
 - [J.League Pro Soccer Club o Tsukurou! (J)](./J/GS-9034/01/README.md)
 - [J.League Pro Soccer Club o Tsukurou! 2 (J) (1M)](./J/GS-9168/01/README.md)
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (2M) - TODO
@@ -938,12 +905,10 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (4M) - TODO
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (Rev C) (32M) - TODO
 - J.League Pro Soccer Club o Tsukurou! 2 (J) (Rev D) (41M) - TODO
-- [J.League Victory Goal '96 (J) (1M, 3M)](./J/GS-9048/01/README.md)
-- J.League Victory Goal '96 (J) (2M) - TODO
+- [J.League Victory Goal '96 (J)](./J/GS-9048/01/README.md)
 - [J.League Victory Goal '97 (J)](./J/GS-9140/01/README.md)
 - Jantei Battle Cos-Player (J) (Demo) - TODO
-- [Jantei Battle Cos-Player (J) (Disc 1)](./J/T-34601G/01/README.md)
-- Jantei Battle Cos-Player (J) (Disc 2) (Making Disc) - TODO
+- [Jantei Battle Cos-Player (J))](./J/T-34601G/01/README.md)
 - [Jantei Battle Cos-Player - Original Genga-shuu (J)](./J/T-3466106553/01/README.md)
 - [J Super Bass Classic '96](./J/T-18707G/01/README.md)
 - Jewels of the Oracle (E) - TODO
@@ -952,8 +917,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Jikkyou Oshaberi Parodius - Forever with Me (J)](./J/T-9513G/01/README.md)
 - [Jikkyou Powerful Pro Yakyuu '95 Kaimaku-ban (J) (2M)](./J/T-9502G/01/README.md)
 - [Jikkyou Powerful Pro Yakyuu S (J)](./J/T-9523G/01/README.md)
-- [Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J) (Disc A)](./J/T-2103G/01/README.md)
-- Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J) (Disc B) - TODO
+- [Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J)](./J/T-2103G/01/README.md)
 - [Jissen Mahjong (J)](./J/T-15002G/01/README.md)
 - [Jissen Pachinko Hisshou-hou! Twin (J)](./J/T-2407G/01/README.md)
 - [Jissen! Pachi-Slot Hisshou-hou! 3 (J)](./J/T-2401G/01/README.md)
@@ -1507,6 +1471,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Puzzle Bobble 3 (J) (1M) - TODO
 - Puzzle Bobble 3 (J) (2M) - TODO
 - Puzzle Bobble 3 for SegaNet (J) - TODO
+- [Puzzle & Action: 2do Arukoto ha Sand-R (J)](./J/T-6802G/01/README.md)
 - Pyon Pyon Kyaruru no Mahjong Biyori (J) (2M) - TODO
 
 #### Q
@@ -2102,6 +2067,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - The Crow - City of Angels (G) - TODO
 - The Crow - City of Angels (J) - TODO
 - The Crow - City of Angels (U) - TODO
+- The Incredible Hulk - The Pantheon Saga (E) - TODO
+- [The Incredible Hulk - The Pantheon Saga (U)](./U/T-7905H/01/README.md)
 - The King of Fighters '95 (E) - TODO
 - The King of Fighters '95 (J) (1M) - TODO
 - The King of Fighters '95 (J) (2M) - TODO
@@ -2181,6 +2148,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Tsuukai!! Slot Shooting (J) - TODO
 - Tunnel B1 (E) - TODO
 - Tunnel B1 (U) - TODO
+- [Tunnel B1 - 3D Mission Shooting: Finalist (J)](./J/T-18511G/01/README.md)
 - TurfWind '96 - Take Yutaka Kyousouba Ikusei Game (J) - TODO
 - Tutankhamen no Nazo - A.N.K.H (J) (Disc 1) - TODO
 - Tutankhamen no Nazo - A.N.K.H (J) (Disc 2) - TODO

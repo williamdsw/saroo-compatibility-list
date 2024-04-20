@@ -40,6 +40,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test for all discs.
 
+### TODO
+
+- Full Test Disc 1
+- Test Disc 2 (Omake Disc)
+
 ### Evidence
 
 Disc 1:

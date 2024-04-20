@@ -33,14 +33,22 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc 1) :white_check_mark:
-- Untested (Disc 2) :question:
-- Untested (Disc 3) :question:
+- Disc 1: Playable :white_check_mark:
+- Disc 2: Untested :question:
+- Disc 3: Untested :question:
 
 ### Extra Info
 
 - It needs a full gameplay test on all discs.
 
+### TODO
+
+- Full Test Disc 1
+- Full Test Disc 2
+- Test Disc 3
+
 ### Evidence
+
+Disc 1:
 
 [![[Sample] SAROO 1.32 (240118) - Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) (J)](https://img.youtube.com/vi/xVkt7Tp9Sig/0.jpg)](https://www.youtube.com/watch?v=xVkt7Tp9Sig)

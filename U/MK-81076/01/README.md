@@ -33,15 +33,21 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Perfect (Disc 0) :100:
-- Playable (Disc 1) :white_check_mark:
-- Untested (Disc 2) :question:
-- Untested (Disc 3) :question:
+- Disc 0: Perfect :100:
+- Disc 1: Playable :white_check_mark:
+- Disc 2: Untested :question:
+- Disc 3: Untested :question:
 
 ### Extra Info
 
 - Disc 0 is fully playable.
 - It does need full gameplay tests on other discs.
+
+### TODO
+
+- Full Test Disc 1
+- Full Test Disc 2
+- Test Disc 3
 
 ### Evidence
 

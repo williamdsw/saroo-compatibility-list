@@ -47,6 +47,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Tested the `Level 1`, and it does need a whole full gameplay test.
 
+### TODO
+
+- Test Bug! (U) (R)
+
 ### Evidence
 
 [![[Sample] SAROO 1.32 (231125) - Bug! (U) = Fixed?](https://img.youtube.com/vi/P4SlEjedq0Q/0.jpg)](https://www.youtube.com/watch?v=P4SlEjedq0Q)

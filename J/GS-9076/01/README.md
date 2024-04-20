@@ -33,14 +33,25 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
-- Disc 3: Untested :question:
-- Disc 4: Untested :question:
+- Disc 1 (1M): Playable :white_check_mark:
+- Disc 1 (2M): Untested :question:
+- Disc 2 (2M): Untested :question:
+- Disc 3 (1M): Untested :question:
+- Disc 3 (2M): Untested :question:
+- Disc 4 (2M, 3M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test on all discs.
+
+### TODO
+
+- Fully test Disc 1 (1M)
+- Fully test Disc 1 (2M)
+- Fully test Disc 2 (2M)
+- Fully test Disc 3 (1M)
+- Fully test Disc 3 (2M)
+- Test Disc 4 (2M, 3M)
 
 ### Evidence
 

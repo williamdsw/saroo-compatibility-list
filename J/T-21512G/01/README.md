@@ -33,12 +33,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Disc 1: Playable :white_check_mark:
+- Disc 2: Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Fully test Disc 1
+- Test Disc 2
+
 ### Evidence
+
+Disc 1:
 
 [![[Sample] SAROO 1.32 (231125) - Ayakashi Ninden Kunoichiban Plus (J) = Playable](https://img.youtube.com/vi/qa1SBJzXC-k/0.jpg)](https://www.youtube.com/watch?v=qa1SBJzXC-k)

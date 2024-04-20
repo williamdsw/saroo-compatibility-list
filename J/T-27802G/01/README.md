@@ -39,6 +39,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Eternal Melody (J) (Rev A)
+
 ### Evidence
 
 [![[Sample] SAROO 1.32 (240118) - Eternal Melody (J)](https://img.youtube.com/vi/DZ6MjaSZPRA/0.jpg)](https://www.youtube.com/watch?v=DZ6MjaSZPRA)

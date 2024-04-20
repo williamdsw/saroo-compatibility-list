@@ -33,12 +33,22 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Disc 1: Playable :white_check_mark:
+- Disc 2: Untested :question:
+- Disc 3 (Special CD-ROM): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODOs
+
+- Fully test Disc 1
+- Fully test Disc 2
+- Test Disc 3 (Special CD-ROM)
+
 ### Evidence
+
+Disc 1:
 
 [![[Sample] SAROO 1.32 (231125) - 3x3 Eyes: Kyuusei Koushu S (J) = Playable](https://img.youtube.com/vi/bUDKmsHQFfc/0.jpg)](https://www.youtube.com/watch?v=bUDKmsHQFfc)

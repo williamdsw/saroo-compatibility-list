@@ -40,6 +40,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Tested `Friendly Match`, `Penalty` and `Training` modes.
 - It's needs tests on other modes.
 
+### TODO
+
+- Test J.League Jikkyou Honoo no Striker (J) (2M)
+
 ### Evidence
 
 [![[Sample] SAROO 1.32 (240118) - J.League Jikkyou Honoo no Striker (J)](https://img.youtube.com/vi/ylBqB-MXJqg/0.jpg)](https://www.youtube.com/watch?v=ylBqB-MXJqg)

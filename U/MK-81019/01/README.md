@@ -33,12 +33,21 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- 1S: Playable :white_check_mark:
+- 2S: Untested :question:
+- 3S: Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Astal (U) (2S)
+- Test Astal (U) (3S)
+
 ### Evidence
+
+1S:
 
 [![[Sample] SAROO 1.32 (231125) - Astal (U) (1S) = Playable](https://img.youtube.com/vi/Yfhz5RX9gwc/0.jpg)](https://www.youtube.com/watch?v=Yfhz5RX9gwc)

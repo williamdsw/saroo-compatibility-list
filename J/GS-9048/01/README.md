@@ -33,13 +33,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (1M, 3M): Playable :white_check_mark:
+- (2M): Untested :question:
 
 ### Extra Info
 
 - Tested `Exhibition` and `PK` modes.
 - It does need full tests for others modes.
 
+### TODO
+
+- Test J.League Victory Goal '96 (J) (2M)
+
 ### Evidence
+
+(1M, 3M):
 
 [![[Sample] SAROO 1.32 (240118) - Victory Goal '96 (J)](https://img.youtube.com/vi/ZzELp0BH8w0/0.jpg)](https://www.youtube.com/watch?v=ZzELp0BH8w0)

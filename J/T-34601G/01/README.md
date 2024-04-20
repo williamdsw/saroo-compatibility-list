@@ -41,6 +41,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Tested `Free play` mode of Disc 1.
 - It does need a full gameplay test on `Story game` mode of both discs.
 
+### TODO
+
+- Full Test Disc 1
+- Test Disc 2 (Making Disc)
+
 ### Evidence
 
 Disc 1:

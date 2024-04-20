@@ -33,12 +33,17 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc 1) :white_check_mark:
-- Untested (Disc 2) :question:
+- Disc 1: Playable :white_check_mark:
+- Disc 2: Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test for all discs.
+
+### TODO
+
+- Full Test Disc 1
+- Test Disc 2
 
 ### Evidence
 
