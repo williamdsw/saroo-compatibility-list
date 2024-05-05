@@ -15,11 +15,11 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 ### Regions
 
 - `B` - Brazil, BRA, BR (1 Game)
-- `E` - Europe, EUR, EU (15 Games)
-- `J` - Japan, JAP, JP (227 Games)
+- `E` - Europe, EUR, EU (17 Games)
+- `J` - Japan, JAP, JP (257 Games)
 - `T` - Taiwan, TAI, TW (1 Game)
-- `U` - United States of America, USA, US (70 Games)
-- Total: 314 games registered here
+- `U` - United States of America, USA, US (79 Games)
+- Total: 355 games registered here
 
 ### Games
 
@@ -788,76 +788,57 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 #### H
 
-- Habitat II (J) - TODO
+- [Habitat II (J)](./J/GS-7105/01/README.md)
 - Hang On GP '95 (J) (1M) - TODO
 - Hang On GP '95 (J) (2M) - TODO
 - Hang On GP '95 (J) (Demo) (2M) - TODO
 - Hang On GP '96 (E) - TODO
-- Hang-On GP (U) - TODO
+- [Hang-On GP (U)](./U/MK-81202/01/README.md)
 - Hansha de Spark! (J) (Demo) - TODO
-- Hansha de Spark! (J) - TODO
-- Hardcore 4x4 (E) - TODO
-- Harukaze Sentai V-Force (J) (Disc 1) - TODO
-- Harukaze Sentai V-Force (J) (Disc 2) - TODO
-- Harukaze Sentai V-Force (J) (Disc 3) - TODO
-- HatTrick Hero S (J) - TODO
-- Hatsukoi Monogatari (J) - TODO
-- Haunted Casino (J) (Disc A) - TODO
-- Haunted Casino (J) (Disc B) - TODO
-- Haunted Casino (J) (Disc C) - TODO
-- Heart of Darkness (J) (Proto) - TODO
-- Heartbeat Scramble (J) - TODO
-- Hebereke's Popoitto (E) - TODO
-- Heim Waltz (J) (Rev A) - TODO
-- Heir of Zendor - The Legend and The Land (U) - TODO
-- Heisei Tensai Bakabon - Susume! Bakabons (J) - TODO
-- Heiwa Pachinko Soushingeki (J) (1M) - TODO
-- Henry Explorers (J) - TODO
-- Herc's Adventures (U) (RE) - TODO (Recorded)
+- [Hansha de Spark! (J)](./J/T-20902G/01/README.md)
+- [Hardcore 4x4 (E)](./E/T-12303H/01/README.md)
+- [Harukaze Sentai V-Force (J)](./J/T-19904G/01/README.md)
+- [HatTrick Hero S (J)](./J/T-1102G/01/README.md)
+- [Hatsukoi Monogatari (J)](./J/T-33004G/01/README.md)
+- [Haunted Casino (J)](./J/T-21902G/01/README.md)
+- [Heart of Darkness (J) (Proto)](./J/999999999/01/README.md)
+- [Heartbeat Scramble (J)](./J/T-15014G/01/README.md)
+- [Hebereke's Popoitto (E)](./E/T-1502H/01/README.md)
+- [Heim Waltz (J)](./J/GS-9121/01/README.md)
+- [Heir of Zendor - The Legend and The Land (U)](./U/T-7605H/01/README.md)
+- [Heisei Tensai Bakabon Susume! Bakabons (J)](./J/T-17001G/01/README.md)
+- [Heiwa Pachinko Soushingeki (J)](./J/T-18702G/01/README.md)
+- [Henry Explorers (J)](./J/T-9518G/01/README.md)
+- [Herc's Adventures (U)](./U/T-23001H/01/README.md)
 - Hexen (E) - TODO
-- Hexen (U) - TODO
+- [Hexen (U)](./U/T-25406H/01/README.md)
 - Hexen - Beyond Heretic (J) - TODO
 - Hi-Octane (E) - TODO
 - Hi-Octane (J) - TODO
-- Hi-Octane - The Track Fights Back! (U) - TODO
-- Hideo Nomo World Series Baseball (J) - TODO
-- High Velocity - Mountain Racing Challenge (U) - TODO
-- Highschool Terra Story (J) - TODO
+- [Hi-Octane - The Track Fights Back! (U)](./U/T-5002H/01/README.md)
+- [Hideo Nomo World Series Baseball (J)](./J/GS-9061/01/README.md)
+- [High Velocity - Mountain Racing Challenge (U)](./U/T-14402H/01/README.md)
+- [Highschool Terra Story (J)](./J/T-19715G/01/README.md)
 - Highway 2000 (E) - TODO
-- Highway 2000 (U) - TODO
-- Himitsu Sentai Metamor V (J) - TODO
-- Hissatsu Pachinko Collection (J) (Rev A) - TODO
-- Hissatsu Pachinko Collection (J) - TODO
-- Hissatsu! (J) - TODO
-- Hokuto no Ken (J) - TODO
-- Honkaku 4-nin Uchi Geinoujin Taikyoku Mahjong - The Wareme de Pon (J) - TODO
-- Honkaku Hanafuda (J) - TODO
-- Honkaku Pro Mahjong - Tetsuman Special (J) - TODO
-- Honkaku Shougi Shinan - Wakamatsu Shougi Juku (J) - TODO
-- Hop Step Idol (J) - TODO
-- Horde, The (E) - TODO
-- Horde, The (France) - TODO
-- Horde, The (G) - TODO
-- Horde, The (J) - TODO
-- Horde, The (U) - TODO
-- Horror Tour (J) (Rev B) (12M) - TODO
-- Horror Tour (J) - TODO
-- Houkago Ren'ai Club - Koi no Etude (J) (Disc 1) - TODO
-- Houkago Ren'ai Club - Koi no Etude (J) (Disc 2) - TODO
-- Houma Hunter Lime Perfect Collection (J) (Disc 1) - TODO
-- Houma Hunter Lime Perfect Collection (J) (Disc 2) - TODO
-- House of the Dead, The (E) - TODO
-- House of the Dead, The (J) (Demo) - TODO
-- House of the Dead, The (J) (Rev A) - TODO
-- House of the Dead, The (J) - TODO
-- House of the Dead, The (U) - TODO (Recorded)
-- Hudson Soft - New Soft Line Up for Sega Saturn (J) - TODO
-- Hyper 3-D Pinball (U) - TODO
+- [Highway 2000 (U)](./U/T-31101H/01/README.md)
+- [Himitsu Sentai Metamor V (J)](./J/T-29005G/01/README.md)
+- [Hissatsu Pachinko Collection (J)](./J/T-1503G/01/README.md)
+- [Hissatsu! (J)](./J/T-23402G/01/README.md)
+- [Hokuto no Ken (J)](./J/T-20601G/01/README.md)
+- [Honkaku 4-nin Uchi Geinoujin Taikyoku Mahjong - The Wareme de Pon (J)](./J/T-3001G/01/README.md)
+- [Honkaku Hanafuda (J)](./J/T-16611G/01/README.md)
+- [Honkaku Pro Mahjong Tetsuman Special (J)](./J/T-18709G/01/README.md)
+- [Honkaku Shougi Shinan - Wakamatsu Shougi Juku (J)](./J/T-4402G/01/README.md)
+- [Hop Step Idol (J)](./J/T-20507G/01/README.md)
+- [Horror Tour (J)](./J/T-24301G/01/README.md)
+- [Houkago Ren'ai Club - Koi no Etude (J)](./J/T-19714G/01/README.md)
+- [Houma Hunter Lime Perfect Collection (J)](./J/T-2001G/01/README.md)
+- [Hudson Soft - New Soft Line Up for Sega Saturn (J)](./J/610-6540/01/README.md)
+- [Hyper 3-D Pinball (U)](./U/T-7015H/01/README.md)
 - Hyper 3D Pinball (J) - TODO
 - [Hyper Duel (J)](./J/T-1809G/01/README.md)
-- Hyper Golf, The - Devil's Course (J) - TODO
-- Hyper Reverthion (J) (2M) - TODO
-- Hyper Securities S (J) - TODO
+- [Hyper Reverthion (J)](./J/T-1803G/01/README.md)
+- [Hyper Securities S (J)](./J/T-9105G/01/README.md)
 
 #### I
 
@@ -2042,6 +2023,17 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - The Crow - City of Angels (G) - TODO
 - The Crow - City of Angels (J) - TODO
 - The Crow - City of Angels (U) - TODO
+- The Horde (E) - TODO
+- The Horde (France) - TODO
+- The Horde (G) - TODO
+- The Horde (J) - TODO
+- [The Horde (U)](./U/T-15909H50/01/README.md)
+- The House of the Dead (E) - TODO
+- The House of the Dead (J) (Demo) - TODO
+- The House of the Dead (J) (Rev A) - TODO
+- The House of the Dead (J) - TODO
+- [The House of the Dead (U)](./U/T-26109G/01/README.md)
+- [The Hyper Golf - Devil's Course (J)](./J/T-2303H/01/README.md)
 - The Incredible Hulk - The Pantheon Saga (E) - TODO
 - [The Incredible Hulk - The Pantheon Saga (U)](./U/T-7905H/01/README.md)
 - The King of Fighters '95 (E) - TODO
