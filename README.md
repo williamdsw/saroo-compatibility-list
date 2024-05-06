@@ -1293,9 +1293,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Off-World Interceptor Extreme (J) - TODO
 - [Off-World Interceptor Extreme (U)](./U/T-15908H/01/README.md)
 - [Oh-chan no Oekaki Logic (J)](./J/T-1508G/01/README.md)
-- [Ojousama Tokkyuu (Express) (Disc 1) (J)](./J/T-27803G/01/README.md)
-- Ojousama Express (Disc 2) (J) - TODO
-- Ojousama o Nerae!! (J) (Rev A) - TODO
+- [Ojousama Tokkyuu (J)](./J/T-27803G/01/README.md)
 - [Ojousama o Nerae!! (J)](./J/T-38101G/01/README.md)
 - [Okudera Yasuhiko no Sekai o Mezase! Soccer Kids - Nyuumon-hen (J)](./J/T-26001G/01/README.md)
 - Olympic Soccer (E) - TODO
@@ -1572,9 +1570,8 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Sakura Taisen Teikokukagekidan Taiin Meibo (J) - TODO
 - Sakura Tsuushin (J) - TODO
 - Salamander Deluxe Pack Plus (J) - TODO (Recorded)
-- Samurai Spirits - Amakusa Kourin (J) (Demo) - TODO
-- [Samurai Spirits - Amakusa Kourin (Samurai Shodown IV: Amakusa's Revenge) (J)](./J/T-3116G/01/README.md)
-- [Samurai Spirits - Zankurou Musouken (Samurai Shodown III: Blades of Blood) (J)](./J/T-3104G/01/README.md)
+- [Samurai Spirits - Amakusa Kourin (J)](./J/T-3116G/01/README.md)
+- [Samurai Spirits - Zankurou Musouken (J)](./J/T-3104G/01/README.md)
 - Sangokushi Eiketsuden (J) - TODO
 - Sangokushi IV (J) - TODO
 - Sangokushi IV with Power-Up Kit (J) - TODO
@@ -1593,7 +1590,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Saturn Bomberman (J) (Demo) - TODO
 - Saturn Bomberman (J) (SegaNet) - TODO
 - Saturn Bomberman (J) - TODO
-- [Saturn Bomberman (U) (1S)](./U/MK-81070/01/README.md)
+- [Saturn Bomberman (U)](./U/MK-81070/01/README.md)
 - Saturn Bomberman Fight!! (J) (Demo) - TODO
 - Saturn Bomberman Fight!! (J) - TODO
 - Saturn CG Selection Vol. 1 (J) (Rev A) - TODO
@@ -1883,7 +1880,6 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Street Fighter - The Movie (E) (4S) - TODO
 - [Street Fighter - The Movie (U)](./U/T-8105H/01/README.md)
 - Street Fighter Alpha - Warriors' Dreams (E) - TODO
-- Street Fighter Alpha - Warriors' Dreams (U) (Beta) - TODO
 - [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
 - Street Fighter Alpha 2 (E) - TODO
 - [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
@@ -1908,7 +1904,6 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Striker 96 (E) - TODO
 - Striker 96 (J) - TODO
 - [Striker '96 (U)](./U/T-8133H/01/README.md)
-- Strikers 1945 (J) (Demo) - TODO
 - [Strikers 1945 (J)](./J/T-14407G/01/README.md)
 - Strikers 1945 II (J) - TODO
 - Suchie-Pai Adventure - Doki Doki Nightmare (J) (Disc 1) - TODO
@@ -1939,11 +1934,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Super Robot Taisen F (J) (Demo) - TODO
 - Super Robot Taisen F (J) (Rev A) (10M, 11M, 12M, 13M) - TODO
 - Super Robot Taisen F (J) (Rev B) (21M) - TODO
-- [Super Robot Taisen F Kanketsuhen (J)](./J/T-20612G/01/README.md) - TODO (Check Version)
-- Super Robot Taisen F - Kanketsu-hen (J) (2M, 3M) - TODO
-- Super Robot Taisen F - Kanketsu-hen (J) (5M) - TODO
-- Super Robot Taisen F - Kanketsu-hen (J) (Rev A) (10M) - TODO
-- Super Robot Taisen F - Kanketsu-hen (J) (Rev A) (11M) - TODO
+- [Super Robot Taisen F Kanketsuhen (J)](./J/T-20612G/01/README.md)
 - Super Tempo (J) - TODO
 - Swagman (E) (Demo) - TODO
 - Swagman (E) - TODO
@@ -2040,9 +2031,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - The King of Fighters '95 (J) (1M) - TODO
 - The King of Fighters '95 (J) (2M) - TODO
 - The King of Fighters '95 (J) (3M) - TODO
-- [The King of Fighters '96 (J)](./J/T-3108G/01/README.md) - TODO (Check Version)
-- The King of Fighters '96 (J) (1M) - TODO
-- The King of Fighters '96 (J) (4M, 5M) - TODO
+- [The King of Fighters '96 (J)](./J/T-3108G/01/README.md)
 - [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
 - [The Legend of Oasis (U)](./U/MK-81302/01/README.md)
 - [The Lost Vikings 2 - Norse by Norsewest (E)](./E/T-12521H50/01/README.md)
@@ -2093,9 +2082,7 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Tokimeki Memorial Taisen Puzzledama (J) (2M) - TODO
 - Tokimeki Memorial Taisen Tokkaedama (J) - TODO
 - Tokuso Kidoutai J-SWAT (J) - TODO
-- [Tokyo Shadow (J) (Disc 1)](./J/T-1110G/01/README.md)
-- Tokyo Shadow (J) (Disc 2) - TODO
-- Tokyo Shadow (J) (Disc 3) - TODO
+- [Tokyo Shadow (J)](./J/T-1110G/01/README.md)
 - Tomb Raider (E) - TODO
 - [Tomb Raider (U)](./U/T-7910H/01/README.md)
 - Tomb Raiders (J) (Demo) - TODO
@@ -2347,25 +2334,19 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - Worldwide Soccer '98 (U) - TODO
 - Worldwide Soccer - Sega International Victory Goal Edition (K) - TODO
 - Worldwide Soccer - Sega International Victory Goal Edition (U) (RE) - TODO
-
 - Worms (E) - TODO
 - Worms (J) - TODO
 - Worms (U) - TODO
 
 #### X
 
-- [X Japan - Virtual Shock 001 (J)](./J/GS-9023/01/README.md) - TODO (Check Version)
-- X Japan - Virtual Shock 001 (J) (3M) - TODO
-- X Japan - Virtual Shock 001 (J) (4M) - TODO
+- [X Japan - Virtual Shock 001 (J)](./J/GS-9023/01/README.md)
 - X-Men - Children of the Atom (E) (2S) - TODO
 - X-Men - Children of the Atom (E) (3S) - TODO
 - X-Men - Children of the Atom (J) (Demo) - TODO
 - X-Men - Children of the Atom (J) - TODO
 - [X-Men - Children of the Atom (U)](./U/T-8108H/01/README.md)
-- [X-Men vs. Street Fighter (J)](./J/T-1226G/01/README.md) - TODO (Check Version)
-- X-Men vs. Street Fighter (J) (1M) - TODO
-- X-Men vs. Street Fighter (J) (2M) - TODO
-- X-Men vs. Street Fighter (J) (3M) - TODO
+- [X-Men vs. Street Fighter (J)](./J/T-1226G/01/README.md)
 - [Xianjian Qixiazhuan (T)](./T/T-37401H/01/README.md)
 
 #### Y
@@ -2375,17 +2356,11 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Yoshimura Shougi (J)](./J/T-9531G/01/README.md)
 - [Yoshiyuki Sadamoto Illustrations (J)](./J/T-35102G/01/README.md)
 - [Yumimi Mix Remix (J)](./J/T-4501G/01/README.md)
-- Yumimi Mix Remix (J) (Demo) - TODO
 - [Yuukyuu Gensoukyoku (J)](./J/T-27804G/01/README.md)
-- Yuukyuu Gensoukyoku (J) (Alt) - TODO
-- Yuukyuu Gensoukyoku (J) (Demo) - TODO
 - [Yuukyuu Gensoukyoku 2nd Album (J)](./J/T-27807G/01/README.md)
-- Yuukyuu Gensoukyoku 2nd Album (J) (2M) - TODO
-- Yuukyuu Gensoukyoku 2nd Album (J) (Demo) - TODO
 - [Yuukyuu Gensoukyoku Ensemble (J)](./J/T-27808G/01/README.md)
 - [Yuukyuu Gensoukyoku Ensemble 2 (J)](./J/T-27809G/01/README.md)
 - [Yuukyuu no Kobako Official Collection (J)](./J/T-27806G/01/README.md)
-- Yuukyuu no Kobako Official Collection (J) (1M) - TODO
 - [Yuushun Classic Road (J)](./J/T-6009G/01/README.md)
 
 #### Z
@@ -2395,14 +2370,10 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - [Zap! Snowboarding Trix (J)](./J/T-7502G/01/README.md)
 - [Zap! Snowboarding Trix '98 (J)](./J/T-7504G/01/README.md)
 - [Zen Nihon Pro Wres featuring Virtua (J) (Rev A)](./J/GS-9158/01/README.md)
-- Zen Nihon Pro Wres featuring Virtua (J) - TODO
 - [Zenkoku Seifuku Bishoujo Grand Prix - Find Love (J)](./J/T-34602G/01/README.md)
 - [Zero Divide - The Final Conflict (J)](./J/T-31601G/01/README.md)
 - [Zero4 Champ DooZy-J Type-R (J)](./J/T-21401G/01/README.md)
 - [Zoku Gussun Oyoyo (J) (2M)](./J/T-20604G/01/README.md)
-- [Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 1) (Shougakusei Jidai)](./J/T-33005G/01/README.md)
-- Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 2) (Chuugakusei Jidai) - TODO
-- Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 3) (Koukousei Jidai) - TODO
-- Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J) (Disc 4) (Daigakusei Jidai & Koukou kara Daigaku ni Agaru ma no Haruyasumi) - TODO
+- [Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J)](./J/T-33005G/01/README.md)
 - [Zoop (J)](./J/T-26406G/01/README.md)
 - [Zork I - The Great Underground Empire (J)](./J/T-21502G/01/README.md)

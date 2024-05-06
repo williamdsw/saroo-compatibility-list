@@ -33,12 +33,24 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (2M, 3M): Untested :question:
+- (5M): Untested :question:
+- (Rev A) (10M): Untested :question:
+- (Rev A) (11M): Playable :white_check_mark:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Super Robot Taisen F - Kanketsu-hen (J) (2M, 3M)
+- Test Super Robot Taisen F - Kanketsu-hen (J) (5M)
+- Test Super Robot Taisen F - Kanketsu-hen (J) (Rev A) (10M)
+- Test Super Robot Taisen F - Kanketsu-hen (J) (Rev A) (11M)
+
 ### Evidence
+
+(Rev A) (11M):
 
 [![[Sample] SAROO 1.32 (231111) - Super Robot Taisen F Kanketsuhen (J) = Playable](https://img.youtube.com/vi/hk0yGuqSPlI/0.jpg)](https://www.youtube.com/watch?v=hk0yGuqSPlI)

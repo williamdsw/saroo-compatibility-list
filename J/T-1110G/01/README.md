@@ -33,12 +33,21 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Disc 1: Playable :white_check_mark:
+- Disc 2: Untested :question:
+- Disc 3: Untested :question:
 
 ### Extra Info
 
-It needs a full gameplay test.
+It needs a full gameplay test on all tests.
+
+### TODO
+
+- Test Tokyo Shadow (J) (Disc 2)
+- Test Tokyo Shadow (J) (Disc 3)
 
 ### Evidence
+
+Disc 1:
 
 [![[Sample] SAROO 1.32 (231101) - Tokyo Shadow (J) = Playable](https://img.youtube.com/vi/cKWW0XE_-Y8/0.jpg)](https://www.youtube.com/watch?v=cKWW0XE_-Y8)

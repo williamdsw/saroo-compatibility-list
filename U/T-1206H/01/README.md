@@ -34,6 +34,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Issues :warning:
+- (Beta): Untested :question:
 
 ### Problems
 
@@ -42,6 +43,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 It needs tests with others caracters, and others modes (tournement, etc).
+
+### TODO
+
+- Test Street Fighter Alpha - Warriors' Dreams (U) (Beta)
 
 ### Evidence
 

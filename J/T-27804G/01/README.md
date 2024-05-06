@@ -34,10 +34,17 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
+- (Alt): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
 - It needs a full gameplay test.
+
+### TODO
+
+- Test Yuukyuu Gensoukyoku (J) (Alt)
+- Test Yuukyuu Gensoukyoku (J) (Demo)
 
 ### Evidence
 

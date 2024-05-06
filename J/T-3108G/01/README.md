@@ -33,13 +33,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Issues :warning:
+- (1M): Untested :question:
+- (4M, 5M): Issues :warning:
 
 ### Problems
 
 - Random P1 sprites glitches / flickers.
 - It does freeze/crash after last cutscene on beating the game.
 
+### TODO
+
+- Test The King of Fighters '96 (J) (1M)
+
 ### Evidence
+
+(4M, 5M):
 
 [![[Complete] SAROO 1.32 (231005) - The King Of Fighters '96 (J) = Glitches & Freezes](https://img.youtube.com/vi/uXkwCQ9OlQU/0.jpg)](https://www.youtube.com/watch?v=uXkwCQ9OlQU)

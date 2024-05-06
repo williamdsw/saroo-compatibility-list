@@ -34,10 +34,17 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
+- (2M): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
 - It needs a full gameplay test.
+
+### TODO
+
+- Test Yuukyuu Gensoukyoku 2nd Album (J) (2M)
+- Test Yuukyuu Gensoukyoku 2nd Album (J) (Demo)
 
 ### Evidence
 

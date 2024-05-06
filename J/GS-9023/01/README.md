@@ -33,11 +33,16 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (3M) Untested :question:
+- (4M) Playable :white_check_mark:
 
 ### Extra Info
 
 - It needs a full gameplay tests.
+
+### TODO
+
+- Test X Japan - Virtual Shock 001 (J) (3M)
 
 ### Evidence
 

@@ -34,10 +34,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
+- (Demo): Untested :question:
 
 ### Extra Info
 
 It does need tests on another difficulties and with another characters.
+
+### TODO
+
+- Test Strikers 1945 (J) (Demo)
 
 ### Evidence
 

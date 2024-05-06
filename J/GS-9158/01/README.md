@@ -33,13 +33,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Untested :question:
+- Rev A: Playable :white_check_mark:
 
 ### Extra Info
 
 - Tested `Training Mode`.
 - It needs a full gameplay test on `1P Mode` and `Featuring Mode`.
 
+### TODO
+
+- Test normal/first disc version aka Zen Nihon Pro Wres featuring Virtua (J).
+
 ### Evidence
+
+Rev A:
 
 [![[Sample] SAROO 1.32 (231125) - Zen Nihon Pro Wres Featuring Virtua (J) = Playable](https://img.youtube.com/vi/BztaLskZ7Ow/0.jpg)](https://www.youtube.com/watch?v=BztaLskZ7Ow)

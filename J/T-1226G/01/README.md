@@ -33,11 +33,18 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (1M): Untested :question:
+- (2M): Untested :question:
+- (3M): Playable :white_check_mark:
 
 ### Extra Info
 
 It does need tests on another difficulties and with another characters.
+
+### TODO
+
+- Test X-Men vs. Street Fighter (J) (1M)
+- Test X-Men vs. Street Fighter (J) (2M)
 
 ### Evidence
 

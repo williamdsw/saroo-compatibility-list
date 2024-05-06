@@ -34,10 +34,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
+- (1M): Untested :question:
 
 ### Extra Info
 
 - It needs a full gameplay test.
+
+### TODO
+
+- Test Yuukyuu no Kobako Official Collection (J) (1M).
 
 ### Evidence
 
