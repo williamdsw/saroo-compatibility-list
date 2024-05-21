@@ -1,0 +1,115 @@
+# SAROO Compatibility List
+
+## F
+
+#### 106 Games (2 Tested)
+
+- F-1 Live Information (Japan) - TODO
+- F1 Challenge (Europe) - TODO
+- F1 Challenge (USA) - TODO
+- FEDA Remake! The Emblem of Justice (Japan) - TODO
+- FIFA - Die WM-Qualifikation 98 (Germany) - TODO
+- FIFA - En Route pour la Coupe du Monde 98 (France) - TODO
+- FIFA - Road to World Cup 98 (Europe) - TODO
+- FIFA - Road to World Cup 98 (Italy) - TODO
+- FIFA - Road to World Cup 98 (USA) - TODO
+- FIFA - Rumbo al Mundial 98 (S) - TODO
+- FIFA 97 (Europe) - TODO
+- FIFA 97 (France) - TODO
+- FIFA 97 (Germany) - TODO
+- FIFA Soccer 96 (Europe) - TODO
+- FIFA Soccer 96 (Japan) - TODO
+- FIFA Soccer 96 (USA) - TODO
+- FIFA Soccer 97 (USA) - TODO
+- Falcom Classics (Japan) (Disc 1) (Game Disc) - TODO
+- Falcom Classics (Japan) (Disc 2) (Special CD) - TODO
+- Falcom Classics II (Japan) (Genteiban) - TODO
+- Falcom Classics II (Japan) - TODO
+- Fantastep (Japan) - TODO
+- Farland Saga (Japan) - TODO
+- Farland Saga - Toki no Michishirube (Japan) - TODO
+- Farland Story - Habou no Mai (Japan) (Demo) - TODO
+- Farland Story - Habou no Mai (Japan) - TODO
+- Father Christmas (Japan) - TODO
+- [Fighter's History Dynamite (Japan)](../Regions/Japan/GS-9107/01/README.md)
+- Fighters Megamix (Europe) - TODO
+- Fighters Megamix (Japan) (1M) - TODO
+- Fighters Megamix (Japan) (2M) - TODO
+- Fighters Megamix (Japan) - TODO
+- Fighters Megamix (USA) (RE) - TODO
+- Fighters Megamix (USA) - TODO (Recorded)
+- Fighting Vipers (Europe) - TODO
+- Fighting Vipers (Japan) (Demo) - TODO
+- Fighting Vipers (Japan) (Rev A) - TODO
+- Fighting Vipers (Japan) (Rev C) - TODO
+- Fighting Vipers (Korea) - TODO
+- Fighting Vipers (USA) (5S) - TODO (Recorded - Check Version)
+- Fighting Vipers (USA) (6S) - TODO (Recorded - Check Version)
+- [Final Fight Revenge (Japan)](../Regions/Japan/T-20605G/01/README.md)
+- Find Love 2 - Rhapsody (Japan) (Disc 1) - TODO
+- Find Love 2 - Rhapsody (Japan) (Disc 2) - TODO
+- Find Love 2 - The Prologue (Japan) - TODO
+- Fire Pro Gaiden Blazing Tornado (Japan) (Demo) - TODO
+- Fire Pro Gaiden Blazing Tornado (Japan) - TODO
+- Fire Prowrestling S - 6Men Scramble (Japan) (1M) - TODO
+- Fire Prowrestling S - 6Men Scramble (Japan) (2M) - TODO
+- Firestorm - Thunderhawk 2 (Europe) - TODO
+- Firestorm - Thunderhawk 2 (Germany) - TODO
+- Fishing Koushien (Japan) - TODO
+- Fishing Koushien II (Japan) - TODO
+- Fist (Japan) - TODO
+- Flash SegaSaturn - Ochikazuki-hen (Japan) - TODO
+- Flash SegaSaturn Vol. 1 (Japan) (2M) - TODO
+- Flash SegaSaturn Vol. 10 (Japan) - TODO
+- Flash SegaSaturn Vol. 11 (Japan) - TODO
+- Flash SegaSaturn Vol. 12 (Japan) - TODO
+- Flash SegaSaturn Vol. 13 (Japan) - TODO
+- Flash SegaSaturn Vol. 14 (Japan) - TODO
+- Flash SegaSaturn Vol. 15 (Japan) - TODO
+- Flash SegaSaturn Vol. 16 (Japan) - TODO
+- Flash SegaSaturn Vol. 17 (Japan) - TODO
+- Flash SegaSaturn Vol. 18 (Japan) - TODO
+- Flash SegaSaturn Vol. 19 (Japan) - TODO
+- Flash SegaSaturn Vol. 2 (Japan) (2M) - TODO
+- Flash SegaSaturn Vol. 20 (Japan) - TODO
+- Flash SegaSaturn Vol. 21 (Japan) - TODO
+- Flash SegaSaturn Vol. 22 (Japan) - TODO
+- Flash SegaSaturn Vol. 23 (Japan) - TODO
+- Flash SegaSaturn Vol. 24 (Japan) - TODO
+- Flash SegaSaturn Vol. 25 (Japan) - TODO
+- Flash SegaSaturn Vol. 26 (Japan) - TODO
+- Flash SegaSaturn Vol. 27 (Japan) - TODO
+- Flash SegaSaturn Vol. 28 (Japan) - TODO
+- Flash SegaSaturn Vol. 29 (Japan) (3M) - TODO
+- Flash SegaSaturn Vol. 3 (Japan) - TODO
+- Flash SegaSaturn Vol. 30 (Japan) - TODO
+- Flash SegaSaturn Vol. 31 (Japan) - TODO
+- Flash SegaSaturn Vol. 32 (Japan) - TODO
+- Flash SegaSaturn Vol. 4 (Japan) - TODO
+- Flash SegaSaturn Vol. 5 (Japan) - TODO
+- Flash SegaSaturn Vol. 6 (Japan) - TODO
+- Flash SegaSaturn Vol. 7 (Japan) - TODO
+- Flash SegaSaturn Vol. 8 (Japan) - TODO
+- Flash SegaSaturn Vol. 9 (Japan) - TODO
+- Formula Grand Prix - Team Un'ei Simulation (Japan) - TODO
+- Formula Karts - Special Edition (Europe) - TODO
+- Frank Thomas Big Hurt Baseball (Europe) - TODO
+- Frank Thomas Big Hurt Baseball (Japan) - TODO
+- Frank Thomas Big Hurt Baseball (USA) - TODO
+- Frankenstein - Through the Eyes of the Monster (Europe) - TODO
+- Free Talk Studio - Mari no Kimamana Oshaberi (Japan) - TODO
+- Friends - Seishun no Kagayaki (Japan) (Disc 1) (Game Disc) - TODO
+- Friends - Seishun no Kagayaki (Japan) (Disc 2) (Special Disc) - TODO
+- From TV Animation Slam Dunk - I Love Basketball (Japan) - TODO
+- Fully Cowled Mini Yonku - Super Factory (Japan) (Demo) - TODO
+- Fully Cowled Mini Yonku - Super Factory (Japan) (Rev A) (10M) - TODO
+- Fully Cowled Mini Yonku - Super Factory (Japan) (Rev A) (11M) - TODO
+- Funky Fantasy (Japan) - TODO
+- Funky Head Boxers (Japan) (Demo) - TODO
+- Funky Head Boxers (Japan) - TODO
+- Funky Head Boxers Plus (Japan) - TODO
+- Fushigi no Kuni no Angelique (Japan) - TODO
+- Fuusui Sensei - Feng-Shui Master (Japan) - TODO
+
+Navigation:
+[# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) **F** [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

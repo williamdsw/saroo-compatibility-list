@@ -1,0 +1,178 @@
+# SAROO Compatibility List
+
+## T
+
+#### 169 Games (16 Tested)
+
+- TNN Motor Sports HardCore 4X4 (USA) - TODO
+- Tactical Fighter (Japan) - TODO
+- Tactics Formula (Japan) (Demo) - TODO
+- Tactics Formula (Japan) - TODO
+- Tactics Ogre - Let Us Cling Together (Japan) - TODO
+- Tadaima Wakusei Kaitaku-chuu! (Japan) - TODO
+- Taiheiyou no Arashi 2 - 3D Heiki Data-shuu (Japan) - TODO
+- Taiheiyou no Arashi 2 - Shippuu no Moudou (Japan) - TODO
+- Taikou Risshiden II (Japan) (2M) - TODO
+- Taikou Risshiden II (Japan) (Rev A) (10M) - TODO
+- Taikyoku Shougi - Kiwame II (Japan) - TODO
+- Taito Chase H.Q. + S.C.I. (Japan) - TODO
+- Taklamakan - Tonkou Denki (Japan) - TODO
+- Tama - Adventurous Ball in Giddy Labyrinth (Japan) - TODO
+- Tanjou - Debut S (Japan) (1M) - TODO
+- Tanjou - Debut S (Japan) (5M) - TODO
+- Tantei Jinguuji Saburou - Mikan no Report (Japan) - TODO
+- Tantei Jinguuji Saburou - Yume no Owari ni (Japan) (3M) - TODO
+- Tech Saturn Apr.1997 (Japan) - TODO
+- Tech Saturn Aug.1997 (Japan) - TODO
+- Tech Saturn Feb.1997 - E, Chocolate Kurereba Morau yo (Japan) - TODO
+- Tech Saturn Jan.1997 - Kizuitara Gekkan-ka (Japan) - TODO
+- Tech Saturn Jul.1997 (Japan) - TODO
+- Tech Saturn Jun.1997 (Japan) - TODO
+- Tech Saturn Mar.1997 - Okaeshi wa Marshmallow, Cookie, Howaito Choco (Japan) - TODO
+- Tech Saturn May.1997 (Japan) - TODO
+- Tech Saturn Oct.1997 (Japan) - TODO
+- Tech Saturn Sep.1997 (Japan) - TODO
+- Tech Saturn Tsuushin - Autumn 1995 - Special CD-ROM (Japan) - TODO
+- Tech Saturn Tsuushin - Spring 1995 (Japan) - TODO
+- Tech Saturn Tsuushin - Winter 1995 - Taikenban & Demo-ban ga Tenkomori! (Japan) - TODO
+- Tech Saturn Tsuushin Vol. 4 - Spring 1996 - Youriyou Meippai Kikaku Tenkomori (Japan) - TODO
+- Tech Saturn Tsuushin Vol. 5 - Summer 1996 (Japan) - TODO
+- Tech Saturn Vol. 1-1996 - Yatchimatta! (Japan) - TODO
+- Tech Saturn Vol. 2-1996 - Maitsuki 8-nichi wa Tessa no Hi - Ataru to Sugo Iyo (Japan) - TODO
+- Techno Motor (Japan) - TODO
+- Teitoku no Ketsudan II (Japan) - TODO
+- Teitoku no Ketsudan III (Japan) - TODO
+- Teitoku no Ketsudan III with Power-Up Kit (Japan) - TODO
+- Tekkyuu - True Pinball (Japan) - TODO
+- Tempest 2000 (Europe) - TODO
+- Tempest 2000 (USA) - TODO
+- Ten Pin Alley (USA) - TODO
+- Tenant Wars (Japan) (Demo) - TODO
+- Tenant Wars (Japan) - TODO
+- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan) (Disc 1) - TODO
+- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan) (Disc 2) - TODO
+- Tenchi Muyou! Rensa Hitsuyou (Japan) - TODO
+- Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn (Japan) (1M) - TODO
+- Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan) (Disc 1) - TODO
+- Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan) (Disc 2) - TODO
+- Tenchi o Kurau II - Sekiheki no Tatakai (Japan) - TODO
+- Tenga Seiha (Japan) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Demo) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 1) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 2) - TODO
+- Tennis Arena (Japan) - TODO
+- Terra Cresta 3D (Japan) (2M) - TODO
+- Terra Phantastica (Japan) - TODO
+- Terry Pratchett's Discworld (Europe) - TODO
+- Tetris Plus (Europe) - TODO
+- Tetris Plus (Japan) - TODO
+- Tetris Plus (USA) - TODO
+- Tetris S (Japan) (Rev A) - TODO
+- Tetris S (Japan) - TODO
+- Texthoth Ludo - Arcana Senki (Japan) - TODO
+- The Crow - City of Angels (Europe) - TODO
+- The Crow - City of Angels (Germany) - TODO
+- The Crow - City of Angels (Japan) - TODO
+- The Crow - City of Angels (USA) - TODO
+- The Horde (Europe) - TODO
+- The Horde (France) - TODO
+- The Horde (Germany) - TODO
+- The Horde (Japan) - TODO
+- [The Horde (USA)](../Regions/USA/T-15909H50/01/README.md)
+- The House of the Dead (Europe) - TODO
+- The House of the Dead (Japan) (Demo) - TODO
+- The House of the Dead (Japan) (Rev A) - TODO
+- The House of the Dead (Japan) - TODO
+- [The House of the Dead (USA)](../Regions/USA/T-26109G/01/README.md)
+- [The Hyper Golf - Devil's Course (Japan)](../Regions/Japan/T-2303H/01/README.md)
+- The Incredible Hulk - The Pantheon Saga (Europe) - TODO
+- [The Incredible Hulk - The Pantheon Saga (USA)](../Regions/USA/T-7905H/01/README.md)
+- The King of Fighters '95 (Europe) - TODO
+- The King of Fighters '95 (Japan) (1M) - TODO
+- The King of Fighters '95 (Japan) (2M) - TODO
+- The King of Fighters '95 (Japan) (3M) - TODO
+- [The King of Fighters '96 (Japan)](../Regions/Japan/T-3108G/01/README.md)
+- [The King of Fighters '97 (Japan)](../Regions/Japan/T-3121G/01/README.md)
+- [The Legend of Oasis (USA)](../Regions/USA/MK-81302/01/README.md)
+- [The Lost Vikings 2 - Norse by Norsewest (Europe)](../Regions/Europe/T-12521H50/01/README.md)
+- The Lost World - Jurassic Park (Europe) - TODO
+- The Lost World - Jurassic Park (Japan) - TODO
+- [The Lost World - Jurassic Park (USA)](../Regions/USA/MK-81065/01/README.md)
+- The Unsolved (Japan) (Disc 1) - TODO (Recorded)
+- The Unsolved (Japan) (Disc 2) - TODO
+- The Unsolved (Japan) (Disc 3) - TODO
+- [The Yakyuuken Special: Konya wa 12-kaisen (Japan)](../Regions/Japan/T-21901G/01/README.md)
+- Theme Park (Europe) - TODO
+- Theme Park (Japan) - TODO
+- [Theme Park (USA)](../Regions/USA/T-5001H/01/README.md)
+- Thor - Seireioukiden (Japan) - TODO
+- Three Dirty Dwarves (Europe) - TODO
+- Three Dirty Dwarves (Japan) (2M) - TODO
+- Three Dirty Dwarves (USA) (RE) - TODO (Recorded)
+- Thunder Force Gold Pack 1 (Japan) - TODO
+- Thunder Force Gold Pack 2 (Japan) (Rev A) - TODO
+- Thunder Force V (Japan) (Demo) - TODO
+- Thunder Force V (Japan) - TODO (Recorded)
+- Thunder Storm & Road Blaster (Japan) (Disc 1) (Thunder Storm) - TODO
+- Thunder Storm & Road Blaster (Japan) (Disc 2) (Road Blaster) - TODO
+- Thunderhawk II (Japan) - TODO
+- Thunderstrike 2 (USA) (Rev A) - TODO
+- Thunderstrike 2 (USA) - TODO
+- Tilk - Aoi Umi kara Kita Shoujo (Japan) - TODO
+- Tilt! (Europe) - TODO
+- Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan) - TODO
+- Time Commando (Japan) - TODO
+- Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal) - TODO
+- Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) - TODO
+- Titan Wars (Europe) - TODO
+- Titan Wars (Japan) - TODO
+- Tokimeki Mahjong Graffiti - Toshishita no Tenshi-tachi (Japan) - TODO
+- Tokimeki Mahjong Paradise - Koi no Tenpai Beat (Japan) - TODO
+- Tokimeki Memorial - Forever with You (Japan) (1M) - TODO
+- Tokimeki Memorial - Forever with You (Japan) (2M) - TODO
+- Tokimeki Memorial - Forever with You (Japan) (Special-ban) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan) (Demo) - TODO
+- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan) - TODO
+- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 1) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 2) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 1) - TODO
+- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 2) - TODO
+- Tokimeki Memorial Selection - Fujisaki Shiori (Japan) - TODO
+- Tokimeki Memorial Taisen Puzzledama (Japan) (1M) - TODO
+- Tokimeki Memorial Taisen Puzzledama (Japan) (2M) - TODO
+- Tokimeki Memorial Taisen Tokkaedama (Japan) - TODO
+- Tokuso Kidoutai J-SWAT (Japan) - TODO
+- [Tokyo Shadow (Japan)](../Regions/Japan/T-1110G/01/README.md)
+- Tomb Raider (Europe) - TODO
+- [Tomb Raider (USA)](../Regions/USA/T-7910H/01/README.md)
+- Tomb Raiders (Japan) (Demo) - TODO
+- Tomb Raiders (Japan) - TODO
+- Top Anglers - Super Fishing Big Fight 2 (Japan) - TODO
+- Torico (Europe) (Disc 1) - TODO
+- Torico (Europe) (Disc 2) - TODO
+- [Touge King the Spirits (Japan)](../Regions/Japan/T-14401G/01/README.md)
+- Touge King the Spirits 2 (Japan) (Demo) - TODO
+- [Touge King the Spirits 2 (Japan)](../Regions/Japan/T-14412G/01/README.md)
+- Tour Party - Sotsugyou Ryokou ni Ikou (Japan) (Rev A) - TODO
+- Tournament Leader (Japan) - TODO
+- Touryuu Densetsu Elan Doree (Japan) - TODO
+- Toushinden S (Japan) - TODO
+- Toushinden URA (Japan) - TODO
+- Tower, The (Japan) - TODO
+- Transport Tycoon (Japan) - TODO
+- Trash It (Europe) - TODO
+- True Pinball (Europe) - TODO
+- True Pinball (USA) - TODO
+- Tryrush Deppy (Japan) - TODO
+- Tsuukai!! Slot Shooting (Japan) - TODO
+- Tunnel B1 (Europe) - TODO
+- Tunnel B1 (USA) - TODO
+- [Tunnel B1 - 3D Mission Shooting: Finalist (Japan)](../Regions/Japan/T-18511G/01/README.md)
+- TurfWind '96 - Take Yutaka Kyousouba Ikusei Game (Japan) - TODO
+- Tutankhamen no Nazo - A.N.K.H (Japan) (Disc 1) - TODO
+- Tutankhamen no Nazo - A.N.K.H (Japan) (Disc 2) - TODO
+- Twinkle Star Sprites (Japan) (Disc 1) (Game Disc) - TODO
+- Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc) - TODO
+
+Navigation:
+[# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) **T** [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

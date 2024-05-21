@@ -1,0 +1,101 @@
+# SAROO Compatibility List
+
+## N
+
+#### 92 Games (0 Tested)
+
+- NASCAR 98 (Europe) - TODO
+- NASCAR 98 (France) - TODO
+- NASCAR 98 (Germany) - TODO
+- NASCAR 98 (USA) - TODO
+- NBA Action (Europe) - TODO
+- NBA Action (USA) - TODO
+- NBA Action 98 (Europe) - TODO
+- NBA Action 98 (USA) - TODO
+- NBA Jam - Tournament Edition (Europe) - TODO
+- NBA Jam - Tournament Edition (Japan) (4S) - TODO
+- NBA Jam - Tournament Edition (USA) (3S) - TODO
+- NBA Jam Extreme (Europe) - TODO
+- NBA Jam Extreme (Japan) - TODO
+- NBA Jam Extreme (USA) - TODO
+- NBA Live 97 (Europe) - TODO
+- NBA Live 97 (USA) - TODO
+- NBA Live 98 (Europe) - TODO
+- NBA Live 98 (USA) - TODO
+- NFL '97 (USA) (Rev A) - TODO
+- NFL '97 (USA) - TODO
+- NFL Quarterback Club '96 (Japan) - TODO
+- NFL Quarterback Club '96 (USA) (5S) - TODO
+- NFL Quarterback Club '97 (Japan) - TODO
+- NFL Quarterback Club 96 (Europe) - TODO
+- NFL Quarterback Club 97 (Europe) - TODO
+- NFL Quarterback Club 97 (USA) - TODO
+- NHL 97 (Europe) - TODO
+- NHL 97 (Germany) - TODO
+- NHL 97 (Japan) - TODO
+- NHL 97 (USA) - TODO
+- NHL 98 (Europe) - TODO
+- NHL 98 (USA) - TODO
+- NHL All-Star Hockey (Europe) - TODO
+- NHL All-Star Hockey (USA) (1S) - TODO
+- NHL All-Star Hockey (USA) (2S) - TODO
+- NHL All-Star Hockey 98 (Europe) - TODO
+- NHL All-Star Hockey 98 (USA) - TODO
+- NHL Powerplay '96 (Europe) - TODO
+- NHL Powerplay '96 (Japan) - TODO
+- NHL Powerplay '96 (USA) - TODO
+- NOeL 3 - Not Digital (Japan) (Disc 1) - TODO
+- NOeL 3 - Not Digital (Japan) (Disc 2) - TODO
+- NOeL 3 - Not Digital (Japan) (Disc 3) - TODO
+- Nanatsu Kaze no Shima Monogatari (Japan) (Disc 1) - TODO
+- Nanatsu Kaze no Shima Monogatari (Japan) (Disc 2) (Premium CD) - TODO
+- Nanatsu no Hikan (Japan) (Demo) - TODO
+- Nanatsu no Hikan (Japan) (Disc 1) (1M) - TODO
+- Nanatsu no Hikan (Japan) (Disc 1) (2M) - TODO
+- Nanatsu no Hikan (Japan) (Disc 2) (1M) - TODO
+- Nanatsu no Hikan (Japan) (Disc 2) (2M) - TODO
+- Nanatsu no Hikan (Japan) (Disc 3) (1M, 2M) - TODO
+- Nekketsu Oyako (Japan) - TODO
+- Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1) - TODO
+- Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 2) - TODO
+- Neon Genesis Evangelion - Digital Card Library (Japan) - TODO
+- Next King - Koi no Sennen Oukoku (Japan) - TODO
+- NiGHTS into Dreams... (Europe) - TODO
+- NiGHTS into Dreams... (Japan) (Demo) - TODO
+- NiGHTS into Dreams... (Japan) - TODO
+- NiGHTS into Dreams... (Korea) - TODO
+- NiGHTS into Dreams... (USA) (Demo) - TODO
+- NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE) - TODO
+- NiGHTS into Dreams... (U, Brazil) - TODO (Recorded)
+- Night Striker S (Japan) - TODO
+- Night Warriors - Darkstalkers' Revenge (Europe) - TODO
+- Night Warriors - Darkstalkers' Revenge (USA) - TODO (Recorded)
+- Nightruth - Explanation of the Paranormal - Futatsu Dake no Shinjitsu (Japan) - TODO
+- Nightruth - Explanation of the Paranormal - Futatsu dake no Shinjitsu (Japan) - TODO
+- Nightruth - Explanation of the Paranormal - Making of Nightruth II - Voice Selection (Japan) - TODO
+- Nightruth - Explanation of the Paranormal - Maria (Japan) - TODO
+- Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (Japan) (2M) - TODO
+- Nightruth - Explanation of the Paranormal - The Making of Nightruth (Japan) (2M) - TODO
+- Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) - TODO
+- Nihon Daihyou Team no Kantoku ni Naruu! Sekaihatsu Soccer RPG - Become the Coach for the National Team! (Japan) - TODO
+- Nihon Pro Mahjong Renmei Kounin - Doujou Yaburi (Japan) - TODO
+- Nile-gawa no Yoake (Japan) (Rev A) - TODO
+- Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan) (Demo) - TODO
+- Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan) - TODO
+- Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan) - TODO
+- Ninpen Manmaru (Japan) - TODO
+- Nissan Presents - Over Drivin' GT-R (Japan) (Demo) - TODO
+- Nissan Presents - Over Drivin' GT-R (Japan) (Rev A) - TODO
+- Nissan Presents - Over Drivin' GT-R (Japan) - TODO
+- No-appointment Gals Olympos (Japan) - TODO
+- Nobunaga no Yabou - Shouseiroku (Japan) (2M) - TODO
+- Nobunaga no Yabou Returns (Japan) - TODO
+- Nobunaga no Yabou Sengoku Gunyuuden (Japan) - TODO
+- Nobunaga no Yabou Tenshouki (Japan) - TODO
+- Nobunaga no Yabou Tenshouki with Power-Up Kit (Japan) - TODO
+- Nonomura Byouin no Hitobito (Japan) - TODO
+- Noon (Japan) (Rev A) - TODO
+- Norse by Norsewest - The Return of the Lost Vikings (USA) - TODO
+
+Navigation:
+[# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) **N** [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

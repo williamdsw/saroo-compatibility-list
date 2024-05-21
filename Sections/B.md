@@ -1,0 +1,115 @@
+# SAROO Compatibility List
+
+## B
+
+#### 106 Games (9 Tested)
+
+- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2) - TODO
+- Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan) (Rev A) - TODO
+- Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan) - TODO
+- Baku Baku Animal - World Zookeeper Contest (Europe) - TODO
+- Baku Baku Animal - World Zookeeper Contest (USA) - TODO
+- Bakuretsu Hunter (Japan) (Disc 1) - TODO
+- Bakuretsu Hunter (Japan) (Disc 2) (Omake CD) - TODO
+- Bakuretsu Hunter R (Japan) - TODO
+- Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan) - TODO
+- Baldy Land (Japan) - TODO
+- [Baroque (Japan)](../Regions/Japan/T-33901G/01/README.md)
+- Baroque Report - CD Data File (Japan) - TODO
+- Bases Loaded '96 - Double Header (USA) - TODO
+- Batman Forever - The Arcade Game (Europe) - TODO
+- Batman Forever - The Arcade Game (Japan) - TODO
+- Batman Forever - The Arcade Game (USA) - TODO
+- [Batsugun (Japan)](../Regions/Japan/T-1248G/01/README.md)
+- Battle Arena Toshinden Remix (Europe) - TODO
+- Battle Arena Toshinden Remix (USA) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) (Beta) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (USA) - TODO
+- Battle Athletess Daiundoukai (Japan) - TODO
+- [Battle Garegga (Japan)](../Regions/Japan/T-10627G/01/README.md)
+- Battle Monsters (Europe) - TODO
+- Battle Monsters (Japan) - TODO
+- Battle Monsters (USA) - TODO
+- Battle Stations (Europe) (En,Fr,De) - TODO
+- Battle Stations (USA) - TODO
+- BattleSport (USA) - TODO
+- Beach de Riichi! (Japan) - TODO
+- Bedlam (USA) (Proto) - TODO
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (1M) - TODO
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (Rev A) (10M) - TODO
+- Big Thanks - Super Keirin - Dream with Keirin 50 Years (Japan) - TODO
+- Bio Hazard (Japan) - TODO
+- Bishoujo Hanafuda Kikou - Michinoku Hitou Koi Monogatari Special (Japan) - TODO
+- Bishoujo Senshi Sailor Moon SuperS - Various Emotion (Japan) - TODO
+- [Bishoujo Variety Game: Rapyulus Panic (Japan)](../Regions/Japan/T-21503G/01/README.md) - TODO (Move to B)
+- Black Dawn (Europe) - TODO
+- Black Dawn (Japan) - TODO
+- Black Dawn (USA) - TODO
+- Black-Matrix (Japan) (Rerelease) - TODO
+- Black-Matrix (Japan) - TODO
+- BlackFire (Europe) - TODO
+- BlackFire (Japan) - TODO
+- BlackFire (USA) (2S) - TODO
+- BlackFire (USA) (3S) - TODO
+- Blam! Machinehead (Europe) - TODO
+- Blam! Machinehead (France) - TODO
+- Blam! Machinehead (Germany) - TODO
+- Blam! Machinehead (Japan) - TODO
+- Blast Chamber (Europe) - TODO
+- Blast Chamber (USA) - TODO
+- [Blast Wind (Japan)](../Regions/Japan/T-1810G/01/README.md)
+- Blazing Dragons (Europe) - TODO
+- Blazing Dragons (France) - TODO
+- Blazing Dragons (Germany) - TODO
+- Blazing Dragons (USA) - TODO
+- Blazing Heroes (USA) - TODO
+- Blood Factory (Japan) - TODO
+- Blue Breaker - Ken yori mo Hohoemi o (Japan) (Demo) - TODO
+- Blue Breaker - Ken yori mo Hohoemi o (Japan) - TODO
+- Blue Seed - Kushinada Hirokuden (Japan) - TODO
+- Bomberman Wars (Japan) - TODO
+- Bootleg Sampler (Europe) (Made in EU, Made in J) - TODO
+- Bootleg Sampler (Europe) (Made in U) - TODO
+- Bootleg Sampler (USA) (15S) - TODO
+- Bootleg Sampler (USA) (8S, 9S, 17S) - TODO
+- Bootleg Sampler (USA) (Rev A) (1S) - TODO
+- Bootleg Sampler (USA) (Rev A) (2S) - TODO
+- Bootleg Sampler (USA) - TODO
+- Bottom of the 9th (USA) - TODO
+- Bouken Katsugeki Monomono (Japan) (Demo) - TODO
+- Bouken Katsugeki Monomono (Japan) - TODO
+- Brain Battle Q (Japan) - TODO
+- BrainDead 13 (Japan) - TODO
+- BrainDead 13 (USA) - TODO
+- Break Point (Europe) (En,Fr) - TODO
+- Break Point (Japan) - TODO
+- Break Point Tennis (USA) - TODO
+- BreakThru! (Japan) - TODO
+- Bubble Bobble also featuring Rainbow Islands (Europe) - TODO
+- Bubble Bobble also featuring Rainbow Islands (USA) - TODO
+- Bubble Symphony (Japan) - TODO
+- Bug Too! (Europe) - TODO
+- Bug Too! (USA) - TODO
+- Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (Japan) - TODO
+- [Bug! (Europe)](../Regions/Europe/MK-81004/01/README.md)
+- Bug! (USA) (Demo) (1S) - TODO
+- Bug! (USA) (Demo) (3S) - TODO
+- [Bug! (USA)](../Regions/USA/GM-81004/01/README.md)
+- [Bug! Jump Shite, Funzukechatte, Petchanko (Japan)](../Regions/Japan/GS-9063/01/README.md)
+- Bulk Slash (Japan) - TODO
+- Burning Rangers (Europe) - TODO
+- Burning Rangers (Japan) (Demo) - TODO
+- Burning Rangers (Japan) (Proto) - TODO
+- Burning Rangers (Japan) - TODO
+- [Burning Rangers (USA)](../Regions/USA/MK-81803/01/README.md)
+- Bust-A-Move 2 - Arcade Edition (Europe) - TODO
+- Bust-A-Move 2 - Arcade Edition (USA) - TODO (Recorded)
+- Bust-A-Move 3 (Europe) - TODO
+- Bust-A-Move 3 (USA) - TODO (Recorded)
+
+Navigation:
+[# (0-9)](./09.md) [A](./A.md) **B** [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

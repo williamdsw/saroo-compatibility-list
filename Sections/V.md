@@ -1,0 +1,120 @@
+# SAROO Compatibility List
+
+## V
+
+#### 111 Games (1 Tested)
+
+- VR Golf '97 (USA) - TODO
+- VR Soccer (USA) - TODO
+- Valora Valley Golf (Europe) - TODO
+- Valora Valley Golf (USA) - TODO
+- Vampire Hunter - Darkstalker's Revenge (Japan) (Demo) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (Japan) (1M) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (Japan) (2M, 4M) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (Japan) (3M) - TODO
+- Vampire Savior (Japan) - TODO
+- Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) - TODO
+- Vatlva (Japan) (Demo) - TODO
+- Vatlva (Japan) (Rev A) - TODO
+- Victory Boxing (Europe) (Demo) - TODO
+- Victory Boxing (Europe) - TODO
+- Victory Goal (Japan) (1A) - TODO
+- Victory Goal (Japan) (2B) - TODO
+- Victory Goal (Japan) (3A) - TODO
+- Victory Goal Worldwide Edition (Japan) - TODO
+- Virtua Cop (Europe) (2S) - TODO
+- Virtua Cop (Europe) (4S) - TODO
+- Virtua Cop (Europe) (7S) - TODO
+- Virtua Cop (Europe) - TODO
+- Virtua Cop (Japan) (1M, 5M) - TODO
+- Virtua Cop (Japan) (2M) - TODO
+- Virtua Cop (USA) (5S, 6S) - TODO
+- Virtua Cop (USA) (7S) - TODO
+- Virtua Cop (USA) (8S, 12S) - TODO
+- Virtua Cop 2 (Europe) - TODO
+- Virtua Cop 2 (Japan) (2M) - TODO
+- Virtua Cop 2 (Japan) (3M) - TODO
+- Virtua Cop 2 (Japan) (Rev B) (23M) - TODO
+- [Virtua Cop 2 (USA)](../Regions/USA/MK-81043/01/README.md)
+- Virtua Fighter (Europe) (Made in EU) - TODO
+- Virtua Fighter (Europe) (Made in USA) - TODO
+- Virtua Fighter (Japan) (Demo) - TODO
+- Virtua Fighter (Japan) - TODO
+- Virtua Fighter (USA) - TODO
+- Virtua Fighter 2 (Europe) (Made in EU) - TODO
+- Virtua Fighter 2 (Europe) (Made in USA) - TODO
+- Virtua Fighter 2 (Europe) (Rev A) (Made in EU) - TODO
+- Virtua Fighter 2 (Europe) (Rev A) (Made in USA) - TODO
+- Virtua Fighter 2 (Japan) (Demo) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) (35C) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) (36B, 36C) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) (39B) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) - TODO
+- Virtua Fighter 2 (Japan) (Rev C) (42M) - TODO
+- Virtua Fighter 2 (South Korea) - TODO
+- Virtua Fighter 2 (USA) (RE) - TODO
+- Virtua Fighter 2 (USA) - TODO
+- Virtua Fighter CG Portrait Collection (Europe) - TODO
+- Virtua Fighter CG Portrait Collection (Japan) - TODO
+- Virtua Fighter CG Portrait Series - The Final - Dural (Japan) - TODO
+- Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan) (1M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan) (Rev A) - TODO
+- Virtua Fighter CG Portrait Series Vol. 10 - Jeffry McWild (Japan) (4M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan) - TODO
+- Virtua Fighter CG Portrait Series Vol. 3 - Akira Yuki (Japan) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (Japan) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (Japan) (3M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 5 - Wolf Hawkfield (Japan) - TODO
+- Virtua Fighter CG Portrait Series Vol. 6 - Lau Chan (Japan) (4M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 7 - Shun Di (Japan) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 8 - Lion Rafale (Japan) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 9 - Kage Maru (Japan) (2M) - TODO
+- Virtua Fighter Kids (Europe) - TODO
+- Virtua Fighter Kids (Japan) (Java Tea Original) - TODO
+- Virtua Fighter Kids (Japan) - TODO
+- Virtua Fighter Kids (South Korea) - TODO
+- Virtua Fighter Kids (USA) - TODO
+- Virtua Fighter Remix (Europe) - TODO
+- Virtua Fighter Remix (Japan) (2M, 5M) - TODO
+- Virtua Fighter Remix (Japan) (4M) - TODO
+- Virtua Fighter Remix (Japan) (6M) - TODO
+- Virtua Fighter Remix (Japan) (SegaNet) - TODO
+- Virtua Fighter Remix (South Korea) - TODO
+- Virtua Fighter Remix (USA) - TODO
+- Virtua Photo Studio - Cameraman Simulation (Japan) (1M, 2M) - TODO
+- Virtua Racing (Europe) - TODO
+- Virtua Racing (Japan) - TODO
+- Virtua Racing (USA) (12S) - TODO
+- Virtua Racing (USA) (15S) - TODO
+- Virtuacall S (Japan) (Disc 1) (Game Honpen) - TODO
+- Virtuacall S (Japan) (Disc 2) (Shokai Gentei Yobikake-kun) - TODO
+- Virtual Casino (Japan) - TODO
+- Virtual Casino (USA) - TODO
+- Virtual Golf (Europe) - TODO
+- Virtual Hydlide (Europe) - TODO
+- Virtual Hydlide (Japan) (2M) - TODO
+- Virtual Hydlide (USA) (P4H) - TODO
+- Virtual Hydlide (USA) (P5H) - TODO
+- Virtual Kyoutei (Japan) - TODO
+- Virtual Kyoutei 2 (Japan) (2M) - TODO
+- Virtual Mahjong (Japan) - TODO
+- Virtual Mahjong 2 - My Fair Lady (Japan) - TODO
+- Virtual On - Cyber Troopers (Europe) - TODO
+- Virtual On - Cyber Troopers (USA) - TODO
+- Virtual On - Cyber Troopers Net Link Edition (USA) - TODO
+- Virtual Open Tennis (Europe) - TODO
+- Virtual Open Tennis (Japan) - TODO
+- Virtual Open Tennis (USA) - TODO
+- Virtual Volleyball (Japan) - TODO
+- Virus (Japan) (Demo) - TODO
+- Virus (Japan) (Disc 1) - TODO
+- Virus (Japan) (Disc 2) - TODO
+- Virus (Japan) (Disc 3) - TODO
+- Voice Fantasia S - Ushinawareta Voice Power (Japan) (Disc 1) - TODO
+- Voice Fantasia S - Ushinawareta Voice Power (Japan) (Disc 2) (Premium CD-ROM) - TODO
+- Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 1) (2M) - TODO
+- Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 2) - TODO
+
+Navigation:
+[# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) **V** [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

@@ -1,0 +1,120 @@
+# SAROO Compatibility List
+
+## G
+
+#### 111 Games (5 Tested)
+
+- G Vector (Japan) - TODO
+- GT24 (Japan) - TODO
+- Gaia Breeder (Japan) - TODO
+- Gakkou no Kaidan (Japan) - TODO
+- Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) - TODO
+- Gal Jan (Japan) - TODO
+- Galactic Attack (Europe) - TODO
+- Galactic Attack (USA) - TODO (Recorded)
+- Galaxy Fight (Europe) - TODO
+- Galaxy Fight (USA) - TODO (Recorded)
+- Galaxy Fight - Universal Warriors (Japan) - TODO
+- Gale Racer (Japan) (1A) - TODO
+- Gals Panic SS (Japan) - TODO
+- Game Basic for SegaSaturn (Japan) - TODO
+- Game Nihonshi - Kakumeiji Oda Nobunaga (Japan) - TODO
+- Game Tengoku - The Game Paradise! (Japan) - TODO
+- Game de Seishun (Japan) (Rev A) - TODO
+- Game no Tatsujin (Japan) (4M) - TODO
+- Game no Tatsujin (Japan) (Rev A) - TODO
+- Game no Tatsujin 2 (Japan) - TODO
+- Game no Tetsujin - The Shanghai (Japan) - TODO
+- Game of Life, The - DX Jinsei Game (Japan) (Rev A) - TODO
+- Game of Life, The - DX Jinsei Game (Japan) (Rev B) - TODO
+- Game of Life, The - DX Jinsei Game (Japan) - TODO
+- Game of Life, The - DX Jinsei Game II (Japan) (2M) - TODO
+- Game-Ware (Japan) - TODO
+- Game-Ware Vol. 2 (Japan) - TODO
+- Game-Ware Vol. 3 (Japan) - TODO
+- Game-Ware Vol. 4 (Japan) (Disc A) - TODO
+- Game-Ware Vol. 4 (Japan) (Disc B) - TODO
+- Game-Ware Vol. 5 (Japan) (Disc A) - TODO
+- Game-Ware Vol. 5 (Japan) (Disc B) - TODO
+- [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (Japan)](../Regions/Japan/T-3102G/01/README.md)
+- GeGeGe no Kitarou - Gentou Kaikitan (Japan) - TODO
+- Gebockers (Japan) (Demo) - TODO
+- Gebockers (Japan) - TODO
+- Gekiretsu Pachinkers (Japan) - TODO
+- Gekirindan (Japan) - TODO (Recorded)
+- Gekitotsu Koushien (Japan) (Demo) - TODO
+- Gekitotsu Koushien (Japan) - TODO
+- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M) - TODO
+- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (2M) - TODO
+- Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (1M) - TODO
+- Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (2M) - TODO
+- Gekka no Kishi - Ouryuu-sen (Japan) - TODO
+- Gensou Suikoden (Japan) - TODO
+- Gex (Europe) - TODO
+- Gex (Japan) - TODO
+- [Gex (USA)](../Regions/USA/T-15904H/01/README.md)
+- Ghen War (Europe) - TODO
+- Ghen War (Japan) - TODO
+- Ghen War (USA) - TODO
+- Ginga Eiyuu Densetsu (Japan) - TODO
+- Ginga Eiyuu Densetsu Plus (Japan) - TODO
+- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works (Japan) - TODO
+- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works 2 (Japan) - TODO
+- Ginga OjoUma Densetsu Yuna 3 - Lightning Angel (Japan) - TODO
+- Ginga OjoUma Densetsu Yuna Remix (Japan) - TODO
+- Girl Doll Toy - Tamashii o Kudasai (Japan) - TODO
+- Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (Japan) - TODO
+- Girls in Motion Puzzle Vol. 2 - Body Special 264 (Japan) (Demo) (2M) - TODO
+- Girls in Motion Puzzle Vol. 2 - Body Special 264 (Japan) - TODO
+- Go III Professional - Taikyoku Igo (Japan) - TODO
+- Godzilla - Rettou Shinkan (Japan) - TODO
+- Goiken Muyou - Anarchy in the Nippon (Japan) (Demo) - TODO
+- Goiken Muyou - Anarchy in the Nippon (Japan) - TODO
+- Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - TODO
+- Gokujou Parodius Da! Deluxe Pack (Japan) - TODO (Check if recorded)
+- Golden Axe - The Duel (Europe) - TODO
+- Golden Axe - The Duel (Japan) (2M) - TODO
+- Golden Axe - The Duel (USA) - TODO
+- Gotha - Ismailia SenEki (Japan) - TODO
+- Gotha II - Tenkuu no Kishi (Japan) - TODO
+- Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (Japan) (Demo) - TODO
+- [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../Regions/Japan/T-14411G/01/README.md)
+- Gradius Deluxe Pack (Japan) - TODO (Check if recorded)
+- Gran Chaser (Japan) (3M) - TODO
+- GranDread (Japan) - TODO
+- Grand Slam (USA) - TODO
+- [Grandia (Japan)](../Regions/Japan/T-4507G/01/README.md) - TODO (Check version)
+- Grandia (Japan) (Disc 1) (1M) - TODO
+- Grandia (Japan) (Disc 1) (2M) - TODO
+- Grandia (Japan) (Disc 1) (4M) - TODO
+- Grandia (Japan) (Disc 2) (1M, 2M) - TODO
+- Grandia (Japan) (Disc 2) (3M) - TODO
+- Grandia (Japan) (Disc 2) (4M) - TODO
+- Grandia - Digital Museum (Japan) (Rev A) (10M) - TODO
+- Grandia - Digital Museum (Japan) - TODO
+- Grandia - Prelude (Japan) - TODO
+- Greatest Nine '96 (Japan) (2M) - TODO
+- Greatest Nine '96 (Japan) (3M) - TODO
+- Greatest Nine '96 (Japan) (Rev A) (10M) - TODO
+- Gremlin Demo Disc (Europe) - TODO
+- Gremlin Demo Disk (Europe) - TODO
+- Grid Run (Europe) - TODO
+- Grid Runner (Japan) - TODO
+- Grid Runner (USA) - TODO (Recorded)
+- Guardian Force (Japan) - TODO
+- Guardian Heroes (Europe) - TODO
+- Guardian Heroes (Japan) (3M) - TODO
+- Guardian Heroes (USA) - TODO (Recorded)
+- [Gun Frontier Arcade Gears (Japan)](../Regions/Japan/T-26109G/01/README.md)
+- Gun Griffon (Europe) - TODO
+- GunBlaze-S (Japan) - TODO
+- Gunbird (Japan) - TODO (Recorded)
+- Gungriffon (USA) - TODO
+- Gungriffon - The Eurasian Conflict (Japan) - TODO
+- Gungriffon II (Japan) (Demo) - TODO
+- Gungriffon II (Japan) - TODO
+- Gussun Oyoyo S (Japan) - TODO
+- Gyuwambler Jiko Chuushinha - Tokyo Mahjongland (Japan) - TODO
+
+Navigation:
+[# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) **G** [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)
