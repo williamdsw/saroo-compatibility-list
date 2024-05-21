@@ -14,2366 +14,2370 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
 ### Regions
 
-- `B` - Brazil, BRA, BR (1 Game)
-- `E` - Europe, EUR, EU (17 Games)
-- `J` - Japan, JAP, JP (257 Games)
-- `T` - Taiwan, TAI, TW (1 Game)
-- `U` - United States of America, USA, US (79 Games)
+- `Brazil` - BRA, BR (1 Game)
+- `Europe` - EUR, EU (17 Games)
+- `France` - FRA, FR (0 Games)
+- `Germany` - GER, GE (0 Games)
+- `Italy` - ITA, IT (0 Games)
+- `Japan` - JAP, JP (257 Games)
+- `South Korea` - STK, SK (0 Games)
+- `Taiwan` - TAI, TW (1 Game)
+- `USA` - United States of America, US (79 Games)
 - Total: 355 games registered here
 
 ### Games
 
 #### 0-9
 
-- [2Tax Gold (J)](./J/T-4305G/01/README.md)
-- [3D Baseball (U)](./U/T-15906H/01/README.md)
-- 3D Baseball - The Majors (J) - TODO
-- [3D Lemmings (E)](./E/T-11304H/01/README.md)
-- [3D Lemmings (J)](./J/T-15013G/01/README.md)
-- [3x3 Eyes - Kyuusei Koushu S (J)](./J/T-21301G/01/README.md)
-- [6 Inch My Darling (J)](./J/T-19721G/01/README.md)
+- [2Tax Gold (Japan)](./Regions/Japan/T-4305G/01/README.md)
+- [3D Baseball (USA)](./Regions/USA/T-15906H/01/README.md)
+- 3D Baseball - The Majors (Japan) - TODO
+- [3D Lemmings (Europe)](./Regions/Europe/T-11304H/01/README.md)
+- [3D Lemmings (Japan)](./Regions/Japan/T-15013G/01/README.md)
+- [3x3 Eyes - Kyuusei Koushu S (Japan)](./Regions/Japan/T-21301G/01/README.md)
+- [6 Inch My Darling (Japan)](./Regions/Japan/T-19721G/01/README.md)
 
 #### A
 
-- [AI Igo (J)](./J/T-17601G/01/README.md)
-- [AI Shougi (J)](./J/T18602G/01/README.md)
-- [AI Shougi 2 (J)](./J/T-17602G/01/README.md)
-- [Actua Golf (E)](./E/T-12302H/01/README.md)
-- Actua Golf (J) - TODO
-- Actua Soccer (J) - TODO
-- [Actua Soccer - Club Edition (E)](./E/T-12305H/01/README.md)
-- [Advanced V.G. (J)](./J/T-32501G/01/README.md)
-- [Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (2M)](./J/GS-9087/01/README.md)
-- Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (J) (Rev B) (22M) - TODO (GS-9190 ?)
-- [Ai Iijima Interactive Video Clip - Good Island Cafe (J)](./J/T-25201G/01/README.md)
-- [Air Management '96 (J)](./J/T-7611G/01/README.md)
-- [Airs Adventure (J)](./J/T-20701G/01/README.md)
-- [Akumajou Dracula X - Gekka no Yasoukyoku (J)](./J/T-9527G/README.md)
-- Albert Odyssey - Legend of Eldean (U) (RE) - TODO
-- Albert Odyssey - Legend of Eldean (U) - TODO
-- Albert Odyssey Gaiden - Legend of Eldean (J) (1M) - TODO
-- Albert Odyssey Gaiden - Legend of Eldean (J) (2M) - TODO
-- Albert Odyssey Gaiden - Legend of Eldean (J) (3M) - TODO
-- [Album Club (Mune Kyun) - St. Paulia Jogakuin (J)](./J/T-21903G/01/README.md)
-- Alien Trilogy (E) (4S) - TODO
-- Alien Trilogy (E) (7S) - TODO
-- Alien Trilogy (E) (Beta) - TODO
-- Alien Trilogy (G) - TODO
-- Alien Trilogy (J) (Demo) - TODO
-- Alien Trilogy (J) - TODO
-- [Alien Trilogy (U)](./U/T-8113H/01/README.md)
-- [All-Star Baseball '97 Featuring Frank Thomas (U)](./U/T-8150H/01/README.md)
-- Alone in the Dark - Jack Is Back (E) - TODO
-- [Alone in the Dark - One-Eyed Jack's Revenge (U)](./U/T-29401H/01/README.md)
-- Alone in the Dark 2 (J) - TODO
-- [Amagi Shien (J)](./J/T-1513G/README.md)
-- [America Oudan Ultra Quiz (J)](./J/T-6004G/01/README.md)
-- Amok (E) - TODO
-- Amok (J) - TODO
-- [Amok (U)](./U/MK-81064/01/README.md)
-- [AnEarth Fantasy Stories - The First Volume (J)](./J/T-27801G/01/README.md)
-- Andretti Racing (E) - TODO
-- Andretti Racing (F) - TODO
-- Andretti Racing (G) - TODO
-- [Andretti Racing (U)](./U/T-5020H/01/README.md)
-- [Angel Graffiti S - Anata e no Profile (J)](./J/T-7308G/01/README.md)
-- [Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (J)](./J/T-2403G/01/README.md)
-- [Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (J)](./J/T-2405G/01/README.md)
-- [Angelique Duet (J)](./J/T-7662G/01/README.md)
-- Angelique Special (J) - TODO
-- [Angelique Special 2 (J)](./J/T-7627G/01/README.md)
-- [Another Memories (J)](./J/T-38001G/01/README.md)
-- [Aqua-world - Umi Monogatari (J)](./J/T-30301G/01/README.md)
-- [Aquazone - Desktop Life (J)](./J/T-24001G/01/README.md)
-- [Aquazone - Desktop Life Option Disc Series 1 - Angel Fish (J) (Rev A)](./J/T-24002G/01/README.md)
-- [Aquazone - Desktop Life Option Disc Series 2 - Black Molly (J) (Rev A)](./J/T-24003G/01/README.md)
-- [Aquazone - Desktop Life Option Disc Series 3 - Blue Emperor (J) (Rev A)](./J/T-24004G/01/README.md)
-- [Aquazone - Desktop Life Option Disc Series 4 - Clown Loach (J) (Rev A)](./J/T-24005G/01/README.md)
-- [Aquazone - Desktop Life Option Disc Series 5 - False Rummy-Nose (J) (Rev A)](./J/T-24006G/01/README.md)
-- Arcade Gears Vol. 4 - ImageFight & XMultiply (J) - TODO
-- Arcade's Greatest Hits - The Atari Collection 1 (E) - TODO
-- [Arcana Strikes (J)](./J/T-10311G/01/README.md)
-- Area 51 (E) (En,Fr,De,Es) - TODO
-- Area 51 (J) - TODO
-- Area 51 (U) (Beta) - TODO
-- [Area 51 (U)](./U/T-9705H/01/README.md)
-- [Arthur to Astaroth no Nazo Makaimura - Incredible Toons (J) ](./J/T-1209G/01/README.md)
-- [Assault Rigs (J)](./J/T-18606G/01/README.md)
-- [Assault Suit Leynos 2 (J) ](./J/T-2501G/01/README.md)
-- [Astal (U)](./U/MK-81019/01/README.md)
-- [Astra Superstars (J) ](./J/T-1521G/01/README.md)
-- [Asuka 120% Limited - Burning Fest. Limited (J)](./J/T-16708G/01/README.md)
-- [Athlete Kings (E)](./E/MK-81115/01/README.md)
-- [Atlantis - The Lost Tales (E)](./E/MK-8109150/01/README.md)
-- Atlantis - The Lost Tales (F) (Disc 1) - TODO
-- Atlantis - The Lost Tales (F) (Disc 2) - TODO
-- [Ayakashi Ninden Kunoichiban Plus (J)](./J/T-21512G/01/README.md)
-- [Ayrton Senna Personal Talk - Message for the Future (J)](./J/GS-9020/01/README.md)
-- Azel - Panzer Dragoon RPG (J) (Demo) - TODO
-- [Azel - Panzer Dragoon RPG (J)](./J/GS-9076/01/README.md)
+- [AI Igo (Japan)](./Regions/Japan/T-17601G/01/README.md)
+- [AI Shougi (Japan)](./Regions/Japan/T18602G/01/README.md)
+- [AI Shougi 2 (Japan)](./Regions/Japan/T-17602G/01/README.md)
+- [Actua Golf (Europe)](./Regions/Europe/T-12302H/01/README.md)
+- Actua Golf (Japan) - TODO
+- Actua Soccer (Japan) - TODO
+- [Actua Soccer - Club Edition (Europe)](./Regions/Europe/T-12305H/01/README.md)
+- [Advanced V.G. (Japan)](./Regions/Japan/T-32501G/01/README.md)
+- [Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (Japan) (2M)](./Regions/Japan/GS-9087/01/README.md)
+- Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (Japan) (Rev B) (22M) - TODO (GS-9190 ?)
+- [Ai Iijima Interactive Video Clip - Good Island Cafe (Japan)](./Regions/Japan/T-25201G/01/README.md)
+- [Air Management '96 (Japan)](./Regions/Japan/T-7611G/01/README.md)
+- [Airs Adventure (Japan)](./Regions/Japan/T-20701G/01/README.md)
+- [Akumajou Dracula X - Gekka no Yasoukyoku (Japan)](./Regions/Japan/T-9527G/README.md)
+- Albert Odyssey - Legend of Eldean (USA) (RE) - TODO
+- Albert Odyssey - Legend of Eldean (USA) - TODO
+- Albert Odyssey Gaiden - Legend of Eldean (Japan) (1M) - TODO
+- Albert Odyssey Gaiden - Legend of Eldean (Japan) (2M) - TODO
+- Albert Odyssey Gaiden - Legend of Eldean (Japan) (3M) - TODO
+- [Album Club (Mune Kyun) - St. Paulia Jogakuin (Japan)](./Regions/Japan/T-21903G/01/README.md)
+- Alien Trilogy (Europe) (4S) - TODO
+- Alien Trilogy (Europe) (7S) - TODO
+- Alien Trilogy (Europe) (Beta) - TODO
+- Alien Trilogy (Germany) - TODO
+- Alien Trilogy (Japan) (Demo) - TODO
+- Alien Trilogy (Japan) - TODO
+- [Alien Trilogy (USA)](./Regions/USA/T-8113H/01/README.md)
+- [All-Star Baseball '97 Featuring Frank Thomas (USA)](./Regions/USA/T-8150H/01/README.md)
+- Alone in the Dark - Jack Is Back (Europe) - TODO
+- [Alone in the Dark - One-Eyed Jack's Revenge (USA)](./Regions/USA/T-29401H/01/README.md)
+- Alone in the Dark 2 (Japan) - TODO
+- [Amagi Shien (Japan)](./Regions/Japan/T-1513G/README.md)
+- [America Oudan Ultra Quiz (Japan)](./Regions/Japan/T-6004G/01/README.md)
+- Amok (Europe) - TODO
+- Amok (Japan) - TODO
+- [Amok (USA)](./Regions/USA/MK-81064/01/README.md)
+- [AnEarth Fantasy Stories - The First Volume (Japan)](./Regions/Japan/T-27801G/01/README.md)
+- Andretti Racing (Europe) - TODO
+- Andretti Racing (France) - TODO
+- Andretti Racing (Germany) - TODO
+- [Andretti Racing (USA)](./Regions/USA/T-5020H/01/README.md)
+- [Angel Graffiti S - Anata e no Profile (Japan)](./Regions/Japan/T-7308G/01/README.md)
+- [Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (Japan)](./Regions/Japan/T-2403G/01/README.md)
+- [Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (Japan)](./Regions/Japan/T-2405G/01/README.md)
+- [Angelique Duet (Japan)](./Regions/Japan/T-7662G/01/README.md)
+- Angelique Special (Japan) - TODO
+- [Angelique Special 2 (Japan)](./Regions/Japan/T-7627G/01/README.md)
+- [Another Memories (Japan)](./Regions/Japan/T-38001G/01/README.md)
+- [Aqua-world - Umi Monogatari (Japan)](./Regions/Japan/T-30301G/01/README.md)
+- [Aquazone - Desktop Life (Japan)](./Regions/Japan/T-24001G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 1 - Angel Fish (Japan) (Rev A)](./Regions/Japan/T-24002G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 2 - Black Molly (Japan) (Rev A)](./Regions/Japan/T-24003G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 3 - Blue Emperor (Japan) (Rev A)](./Regions/Japan/T-24004G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 4 - Clown Loach (Japan) (Rev A)](./Regions/Japan/T-24005G/01/README.md)
+- [Aquazone - Desktop Life Option Disc Series 5 - False Rummy-Nose (Japan) (Rev A)](./Regions/Japan/T-24006G/01/README.md)
+- Arcade Gears Vol. 4 - ImageFight & XMultiply (Japan) - TODO
+- Arcade's Greatest Hits - The Atari Collection 1 (Europe) - TODO
+- [Arcana Strikes (Japan)](./Regions/Japan/T-10311G/01/README.md)
+- Area 51 (Europe) (En,Fr,De,Es) - TODO
+- Area 51 (Japan) - TODO
+- Area 51 (USA) (Beta) - TODO
+- [Area 51 (USA)](./Regions/USA/T-9705H/01/README.md)
+- [Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan) ](./Regions/Japan/T-1209G/01/README.md)
+- [Assault Rigs (Japan)](./Regions/Japan/T-18606G/01/README.md)
+- [Assault Suit Leynos 2 (Japan) ](./Regions/Japan/T-2501G/01/README.md)
+- [Astal (USA)](./Regions/USA/MK-81019/01/README.md)
+- [Astra Superstars (Japan) ](./Regions/Japan/T-1521G/01/README.md)
+- [Asuka 120% Limited - Burning Fest. Limited (Japan)](./Regions/Japan/T-16708G/01/README.md)
+- [Athlete Kings (Europe)](./Regions/Europe/MK-81115/01/README.md)
+- [Atlantis - The Lost Tales (Europe)](./Regions/Europe/MK-8109150/01/README.md)
+- Atlantis - The Lost Tales (France) (Disc 1) - TODO
+- Atlantis - The Lost Tales (France) (Disc 2) - TODO
+- [Ayakashi Ninden Kunoichiban Plus (Japan)](./Regions/Japan/T-21512G/01/README.md)
+- [Ayrton Senna Personal Talk - Message for the Future (Japan)](./Regions/Japan/GS-9020/01/README.md)
+- Azel - Panzer Dragoon RPG (Japan) (Demo) - TODO
+- [Azel - Panzer Dragoon RPG (Japan)](./Regions/Japan/GS-9076/01/README.md)
 
 #### B
 
-- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (J) (Disc 1) - TODO
-- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (J) (Disc 2) - TODO
-- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (J) (Disc 1) - TODO
-- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (J) (Disc 2) - TODO
-- Baku Baku Animal - Sekai Shiiku Gakari Senshuken (J) (Rev A) - TODO
-- Baku Baku Animal - Sekai Shiiku Gakari Senshuken (J) - TODO
-- Baku Baku Animal - World Zookeeper Contest (E) - TODO
-- Baku Baku Animal - World Zookeeper Contest (U) - TODO
-- Bakuretsu Hunter (J) (Disc 1) - TODO
-- Bakuretsu Hunter (J) (Disc 2) (Omake CD) - TODO
-- Bakuretsu Hunter R (J) - TODO
-- Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (J) - TODO
-- Baldy Land (J) - TODO
-- [Baroque (J)](./J/T-33901G/01/README.md)
-- Baroque Report - CD Data File (J) - TODO
-- Bases Loaded '96 - Double Header (U) - TODO
-- Batman Forever - The Arcade Game (E) - TODO
-- Batman Forever - The Arcade Game (J) - TODO
-- Batman Forever - The Arcade Game (U) - TODO
-- [Batsugun (J)](./J/T-1248G/01/README.md)
-- Battle Arena Toshinden Remix (E) - TODO
-- Battle Arena Toshinden Remix (U) - TODO
-- Battle Arena Toshinden URA - Ultimate Revenge Attack (E) (Beta) - TODO
-- Battle Arena Toshinden URA - Ultimate Revenge Attack (E) - TODO
-- Battle Arena Toshinden URA - Ultimate Revenge Attack (U) - TODO
-- Battle Athletess Daiundoukai (J) - TODO
-- [Battle Garegga (J)](./J/T-10627G/01/README.md)
-- Battle Monsters (E) - TODO
-- Battle Monsters (J) - TODO
-- Battle Monsters (U) - TODO
-- Battle Stations (E) (En,Fr,De) - TODO
-- Battle Stations (U) - TODO
-- BattleSport (U) - TODO
-- Beach de Riichi! (J) - TODO
-- Bedlam (U) (Proto) - TODO
-- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (J) (1M) - TODO
-- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (J) (Rev A) (10M) - TODO
-- Big Thanks - Super Keirin - Dream with Keirin 50 Years (J) - TODO
-- Bio Hazard (J) - TODO
-- Bishoujo Hanafuda Kikou - Michinoku Hitou Koi Monogatari Special (J) - TODO
-- Bishoujo Senshi Sailor Moon SuperS - Various Emotion (J) - TODO
-- [Bishoujo Variety Game: Rapyulus Panic (J)](./J/T-21503G/01/README.md) - TODO (Move to B)
-- Black Dawn (E) - TODO
-- Black Dawn (J) - TODO
-- Black Dawn (U) - TODO
-- Black-Matrix (J) (Rerelease) - TODO
-- Black-Matrix (J) - TODO
-- BlackFire (E) - TODO
-- BlackFire (J) - TODO
-- BlackFire (U) (2S) - TODO
-- BlackFire (U) (3S) - TODO
-- Blam! Machinehead (E) - TODO
-- Blam! Machinehead (F) - TODO
-- Blam! Machinehead (G) - TODO
-- Blam! Machinehead (J) - TODO
-- Blast Chamber (E) - TODO
-- Blast Chamber (U) - TODO
-- [Blast Wind (J)](./J/T-1810G/01/README.md)
-- Blazing Dragons (E) - TODO
-- Blazing Dragons (F) - TODO
-- Blazing Dragons (G) - TODO
-- Blazing Dragons (U) - TODO
-- Blazing Heroes (U) - TODO
-- Blood Factory (J) - TODO
-- Blue Breaker - Ken yori mo Hohoemi o (J) (Demo) - TODO
-- Blue Breaker - Ken yori mo Hohoemi o (J) - TODO
-- Blue Seed - Kushinada Hirokuden (J) - TODO
-- Bomberman Wars (J) - TODO
-- Bootleg Sampler (E) (Made in EU, Made in J) - TODO
-- Bootleg Sampler (E) (Made in U) - TODO
-- Bootleg Sampler (U) (15S) - TODO
-- Bootleg Sampler (U) (8S, 9S, 17S) - TODO
-- Bootleg Sampler (U) (Rev A) (1S) - TODO
-- Bootleg Sampler (U) (Rev A) (2S) - TODO
-- Bootleg Sampler (U) - TODO
-- Bottom of the 9th (U) - TODO
-- Bouken Katsugeki Monomono (J) (Demo) - TODO
-- Bouken Katsugeki Monomono (J) - TODO
-- Brain Battle Q (J) - TODO
-- BrainDead 13 (J) - TODO
-- BrainDead 13 (U) - TODO
-- Break Point (E) (En,Fr) - TODO
-- Break Point (J) - TODO
-- Break Point Tennis (U) - TODO
-- BreakThru! (J) - TODO
-- Bubble Bobble also featuring Rainbow Islands (E) - TODO
-- Bubble Bobble also featuring Rainbow Islands (U) - TODO
-- Bubble Symphony (J) - TODO
-- Bug Too! (E) - TODO
-- Bug Too! (U) - TODO
-- Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (J) - TODO
-- [Bug! (E)](./E/MK-81004/01/README.md)
-- Bug! (U) (Demo) (1S) - TODO
-- Bug! (U) (Demo) (3S) - TODO
-- [Bug! (U)](./U/GM-81004/01/README.md)
-- [Bug! Jump Shite, Funzukechatte, Petchanko (J)](./J/GS-9063/01/README.md)
-- Bulk Slash (J) - TODO
-- Burning Rangers (E) - TODO
-- Burning Rangers (J) (Demo) - TODO
-- Burning Rangers (J) (Proto) - TODO
-- Burning Rangers (J) - TODO
-- [Burning Rangers (U)](./U/MK-81803/01/README.md)
-- Bust-A-Move 2 - Arcade Edition (E) - TODO
-- Bust-A-Move 2 - Arcade Edition (U) - TODO (Recorded)
-- Bust-A-Move 3 (E) - TODO
-- Bust-A-Move 3 (U) - TODO (Recorded)
+- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1) - TODO
+- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2) - TODO
+- Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan) (Rev A) - TODO
+- Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan) - TODO
+- Baku Baku Animal - World Zookeeper Contest (Europe) - TODO
+- Baku Baku Animal - World Zookeeper Contest (USA) - TODO
+- Bakuretsu Hunter (Japan) (Disc 1) - TODO
+- Bakuretsu Hunter (Japan) (Disc 2) (Omake CD) - TODO
+- Bakuretsu Hunter R (Japan) - TODO
+- Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan) - TODO
+- Baldy Land (Japan) - TODO
+- [Baroque (Japan)](./Regions/Japan/T-33901G/01/README.md)
+- Baroque Report - CD Data File (Japan) - TODO
+- Bases Loaded '96 - Double Header (USA) - TODO
+- Batman Forever - The Arcade Game (Europe) - TODO
+- Batman Forever - The Arcade Game (Japan) - TODO
+- Batman Forever - The Arcade Game (USA) - TODO
+- [Batsugun (Japan)](./Regions/Japan/T-1248G/01/README.md)
+- Battle Arena Toshinden Remix (Europe) - TODO
+- Battle Arena Toshinden Remix (USA) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) (Beta) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) - TODO
+- Battle Arena Toshinden URA - Ultimate Revenge Attack (USA) - TODO
+- Battle Athletess Daiundoukai (Japan) - TODO
+- [Battle Garegga (Japan)](./Regions/Japan/T-10627G/01/README.md)
+- Battle Monsters (Europe) - TODO
+- Battle Monsters (Japan) - TODO
+- Battle Monsters (USA) - TODO
+- Battle Stations (Europe) (En,Fr,De) - TODO
+- Battle Stations (USA) - TODO
+- BattleSport (USA) - TODO
+- Beach de Riichi! (Japan) - TODO
+- Bedlam (USA) (Proto) - TODO
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (1M) - TODO
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (Rev A) (10M) - TODO
+- Big Thanks - Super Keirin - Dream with Keirin 50 Years (Japan) - TODO
+- Bio Hazard (Japan) - TODO
+- Bishoujo Hanafuda Kikou - Michinoku Hitou Koi Monogatari Special (Japan) - TODO
+- Bishoujo Senshi Sailor Moon SuperS - Various Emotion (Japan) - TODO
+- [Bishoujo Variety Game: Rapyulus Panic (Japan)](./Regions/Japan/T-21503G/01/README.md) - TODO (Move to B)
+- Black Dawn (Europe) - TODO
+- Black Dawn (Japan) - TODO
+- Black Dawn (USA) - TODO
+- Black-Matrix (Japan) (Rerelease) - TODO
+- Black-Matrix (Japan) - TODO
+- BlackFire (Europe) - TODO
+- BlackFire (Japan) - TODO
+- BlackFire (USA) (2S) - TODO
+- BlackFire (USA) (3S) - TODO
+- Blam! Machinehead (Europe) - TODO
+- Blam! Machinehead (France) - TODO
+- Blam! Machinehead (Germany) - TODO
+- Blam! Machinehead (Japan) - TODO
+- Blast Chamber (Europe) - TODO
+- Blast Chamber (USA) - TODO
+- [Blast Wind (Japan)](./Regions/Japan/T-1810G/01/README.md)
+- Blazing Dragons (Europe) - TODO
+- Blazing Dragons (France) - TODO
+- Blazing Dragons (Germany) - TODO
+- Blazing Dragons (USA) - TODO
+- Blazing Heroes (USA) - TODO
+- Blood Factory (Japan) - TODO
+- Blue Breaker - Ken yori mo Hohoemi o (Japan) (Demo) - TODO
+- Blue Breaker - Ken yori mo Hohoemi o (Japan) - TODO
+- Blue Seed - Kushinada Hirokuden (Japan) - TODO
+- Bomberman Wars (Japan) - TODO
+- Bootleg Sampler (Europe) (Made in EU, Made in J) - TODO
+- Bootleg Sampler (Europe) (Made in U) - TODO
+- Bootleg Sampler (USA) (15S) - TODO
+- Bootleg Sampler (USA) (8S, 9S, 17S) - TODO
+- Bootleg Sampler (USA) (Rev A) (1S) - TODO
+- Bootleg Sampler (USA) (Rev A) (2S) - TODO
+- Bootleg Sampler (USA) - TODO
+- Bottom of the 9th (USA) - TODO
+- Bouken Katsugeki Monomono (Japan) (Demo) - TODO
+- Bouken Katsugeki Monomono (Japan) - TODO
+- Brain Battle Q (Japan) - TODO
+- BrainDead 13 (Japan) - TODO
+- BrainDead 13 (USA) - TODO
+- Break Point (Europe) (En,Fr) - TODO
+- Break Point (Japan) - TODO
+- Break Point Tennis (USA) - TODO
+- BreakThru! (Japan) - TODO
+- Bubble Bobble also featuring Rainbow Islands (Europe) - TODO
+- Bubble Bobble also featuring Rainbow Islands (USA) - TODO
+- Bubble Symphony (Japan) - TODO
+- Bug Too! (Europe) - TODO
+- Bug Too! (USA) - TODO
+- Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (Japan) - TODO
+- [Bug! (Europe)](./Regions/Europe/MK-81004/01/README.md)
+- Bug! (USA) (Demo) (1S) - TODO
+- Bug! (USA) (Demo) (3S) - TODO
+- [Bug! (USA)](./Regions/USA/GM-81004/01/README.md)
+- [Bug! Jump Shite, Funzukechatte, Petchanko (Japan)](./Regions/Japan/GS-9063/01/README.md)
+- Bulk Slash (Japan) - TODO
+- Burning Rangers (Europe) - TODO
+- Burning Rangers (Japan) (Demo) - TODO
+- Burning Rangers (Japan) (Proto) - TODO
+- Burning Rangers (Japan) - TODO
+- [Burning Rangers (USA)](./Regions/USA/MK-81803/01/README.md)
+- Bust-A-Move 2 - Arcade Edition (Europe) - TODO
+- Bust-A-Move 2 - Arcade Edition (USA) - TODO (Recorded)
+- Bust-A-Move 3 (Europe) - TODO
+- Bust-A-Move 3 (USA) - TODO (Recorded)
 
 #### C
 
-- Can Can Bunny Extra (J) - TODO
-- Can Can Bunny Premiere (J) (1M) - TODO
-- Can Can Bunny Premiere 2 (J) (Disc 1) (Rev A) - TODO
-- Can Can Bunny Premiere 2 (J) (Disc 1) - TODO
-- Can Can Bunny Premiere 2 (J) (Disc 2) (Can Bani Himekuri Calendar) (Hibaihin) - TODO
-- Can Can Bunny Premiere 2 (J) (Disc 2) (Can Bani Himekuri Calendar) - TODO
-- Capcom Generation - Dai-1-shuu Gekitsuiou no Jidai (J) - TODO
-- Capcom Generation - Dai-2-shuu Makai to Kishi (J) - TODO
-- Capcom Generation - Dai-3-shuu Koko ni Rekishi Hajimaru (J) - TODO
-- Capcom Generation - Dai-4-shuu Kokou no Eiyuu (J) - TODO
-- [Capcom Generation Vol.5 (J)](./J/T-1236G/01/README.md)
-- Casper (E) - TODO
-- Casper (J) - TODO
-- Casper (U) - TODO
-- Cat the Ripper - 13Ninme no Tanteishi (J) - TODO
-- Center Ring Boxing (U) - TODO
-- Chaos Control (E) (Beta) - TODO
-- Chaos Control (E) - TODO
-- Chaos Control (J) - TODO
-- Chaos Control Remix (J) - TODO
-- Chibi Maruko-chan no Taisen Puzzle-dama (J) - TODO
-- Chisato Moritaka - Watarase Bashi & Lala Sunshine (J) (Disc 1) - TODO
-- Chisato Moritaka - Watarase Bashi & Lala Sunshine (J) (Disc 2) - TODO
-- Choro Q Park (J) - TODO
-- Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (J) - TODO
-- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (J) (Disc 1) - TODO
-- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (J) (Disc 2) - TODO
-- Christmas NiGHTS into Dreams... (E) - TODO
-- Christmas NiGHTS into Dreams... (J) (Rev A) - TODO
-- [Christmas NiGHTS into Dreams (U)](./U/MK-81067/01/README.md)
-- Cleaning Kit for Sega Saturn (U) - TODO
-- Cleopatra Fortune (J) - TODO
-- ClockWerx (J) - TODO
-- Clockwork Knight - Pepperouchau no Daibouken Gekan (J) (2M) - TODO
-- Clockwork Knight - Pepperouchau no Daibouken Joukan (J) - TODO
-- Clockwork Knight - Pepperouchau no Fukubukuro (J) - TODO
-- Clockwork Knight - Pepperouchau's Adventure (E) - TODO
-- Clockwork Knight - Pepperouchau's Adventure (U) - TODO
-- Clockwork Knight 2 - Pepperouchau's Adventure (E) (2S) - TODO
-- Clockwork Knight 2 - Pepperouchau's Adventure (E) (3S) - TODO
-- Clockwork Knight 2 - Pepperouchau's Adventure (U) (Beta) - TODO
+- Can Can Bunny Extra (Japan) - TODO
+- Can Can Bunny Premiere (Japan) (1M) - TODO
+- Can Can Bunny Premiere 2 (Japan) (Disc 1) (Rev A) - TODO
+- Can Can Bunny Premiere 2 (Japan) (Disc 1) - TODO
+- Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar) (Hibaihin) - TODO
+- Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar) - TODO
+- Capcom Generation - Dai-1-shuu Gekitsuiou no Jidai (Japan) - TODO
+- Capcom Generation - Dai-2-shuu Makai to Kishi (Japan) - TODO
+- Capcom Generation - Dai-3-shuu Koko ni Rekishi Hajimaru (Japan) - TODO
+- Capcom Generation - Dai-4-shuu Kokou no Eiyuu (Japan) - TODO
+- [Capcom Generation Vol.5 (Japan)](./Regions/Japan/T-1236G/01/README.md)
+- Casper (Europe) - TODO
+- Casper (Japan) - TODO
+- Casper (USA) - TODO
+- Cat the Ripper - 13Ninme no Tanteishi (Japan) - TODO
+- Center Ring Boxing (USA) - TODO
+- Chaos Control (Europe) (Beta) - TODO
+- Chaos Control (Europe) - TODO
+- Chaos Control (Japan) - TODO
+- Chaos Control Remix (Japan) - TODO
+- Chibi Maruko-chan no Taisen Puzzle-dama (Japan) - TODO
+- Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 1) - TODO
+- Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 2) - TODO
+- Choro Q Park (Japan) - TODO
+- Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (Japan) - TODO
+- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 1) - TODO
+- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 2) - TODO
+- Christmas NiGHTS into Dreams... (Europe) - TODO
+- Christmas NiGHTS into Dreams... (Japan) (Rev A) - TODO
+- [Christmas NiGHTS into Dreams (USA)](./Regions/USA/MK-81067/01/README.md)
+- Cleaning Kit for Sega Saturn (USA) - TODO
+- Cleopatra Fortune (Japan) - TODO
+- ClockWerx (Japan) - TODO
+- Clockwork Knight - Pepperouchau no Daibouken Gekan (Japan) (2M) - TODO
+- Clockwork Knight - Pepperouchau no Daibouken Joukan (Japan) - TODO
+- Clockwork Knight - Pepperouchau no Fukubukuro (Japan) - TODO
+- Clockwork Knight - Pepperouchau's Adventure (Europe) - TODO
+- Clockwork Knight - Pepperouchau's Adventure (USA) - TODO
+- Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S) - TODO
+- Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (3S) - TODO
+- Clockwork Knight 2 - Pepperouchau's Adventure (USA) (Beta) - TODO
 - Clockwork Knight 2 - Pepperouchau's Adventure (U, B) - TODO
-- Clockwork Knight Puzzle - Pengin War (J) (Beta) - TODO
-- Code R (J) (Demo) - TODO
-- Code R (J) - TODO
-- College Slam (U) - TODO
-- Command & Conquer (E) (Disc 1) (GDI) - TODO
-- Command & Conquer (E) (Disc 2) (NOD) - TODO
-- Command & Conquer (F) (Disc 1) (GDI) - TODO
-- Command & Conquer (F) (Disc 2) (NOD) - TODO
-- Command & Conquer (J) (Disc 1) (GDI Disc) - TODO
-- Command & Conquer (J) (Disc 2) (NOD Disc) - TODO
-- Command & Conquer (U) (Disc 1) (GDI Disc) - TODO
-- Command & Conquer (U) (Disc 2) (NOD Disc) - TODO
-- Command & Conquer - Teil 1 - Der Tiberiumkonflikt (G) (Disc 1) (GDI) - TODO
-- Command & Conquer - Teil 1 - Der Tiberiumkonflikt (G) (Disc 2) (NOD) - TODO
-- Congo - The Movie - The Lost City of Zinj (U) - TODO
-- Contra - Legacy of War (U) - TODO
-- Conveni 2, The - Zenkoku Chain Tenkai da! (J) - TODO
-- Conveni, The - Ano Machi o Dokusen seyo (J) - TODO
-- Core Demo Disc (E) - TODO
-- Corpse Killer - Graveyard Edition (U) (Disc 1) (R) - TODO
-- Corpse Killer - Graveyard Edition (U) (Disc 2) - TODO
-- Courier Crisis - The Saga of the Modern Fatalist (E) - TODO
-- Courier Crisis - The Saga of the Modern Fatalist (J) - TODO
-- Courier Crisis - The Saga of the Modern Fatalist (U) - TODO
-- Creature Shock (J) (Disc 1) - TODO
-- Creature Shock (J) (Disc 2) - TODO
-- Creature Shock - Special Edition (U) (Disc 1) - TODO
-- Creature Shock - Special Edition (U) (Disc 2) - TODO
-- Crime Patrol (U) (Proto) - TODO
-- Crimewave (E) (Demo) - TODO
-- Crimewave (E) - TODO
-- Crimewave (J) - TODO
-- Crimewave (U) - TODO
-- Criticom (U) - TODO
-- Criticom - The Critical Combat (J) - TODO
-- Croc - Legend of the Gobbos (E) - TODO
-- Croc - Legend of the Gobbos (U) - TODO
-- Croc! Pau-Pau Island (J) - TODO
-- Cross Romance - Koi to Mahjong to Hanafuda to (J) - TODO
-- Cross Tantei Monogatari (J) (Demo 1) - TODO
-- Cross Tantei Monogatari (J) (Demo 2) - TODO
-- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (J) (Disc 1) - TODO
-- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (J) (Disc 2) - TODO
-- Crows - The Battle Action for SegaSaturn (J) - TODO
-- Crusader - No Remorse (E) - TODO
-- Crusader - No Remorse (F) - TODO
-- Crusader - No Remorse (G) - TODO
-- [Crusader: No Remorse (U)](./U/T-5014H/01/README.md)
-- Crypt Killer (E) (R) - TODO
-- Crypt Killer (U) - TODO
-- Cube Battler - Story of Anna (J) - TODO
-- Cube Battler - Story of Shou (J) - TODO
-- Cubic Gallery - Edy & Disy (J) - TODO
-- Culdcept (J) (Rev A) (10M) - TODO
-- Culdcept (J) (Rev B) (20M) - TODO
-- Custom Web Browser (Version 2) (U) - TODO
-- Custom Web Browser (Version 3.0) (U) - TODO
-- Cyber Doll (J) - TODO
-- Cyber Speedway (E) (RE) - TODO
-- Cyber Speedway (U) - TODO
-- Cyberbots - Fullmetal Madness (J) (1M) - TODO
-- Cyberbots - Fullmetal Madness (J) (2M) - TODO
-- Cyberia (E) - TODO
-- Cyberia (J) - TODO
-- Cyberia (U) - TODO
+- Clockwork Knight Puzzle - Pengin War (Japan) (Beta) - TODO
+- Code R (Japan) (Demo) - TODO
+- Code R (Japan) - TODO
+- College Slam (USA) - TODO
+- Command & Conquer (Europe) (Disc 1) (GDI) - TODO
+- Command & Conquer (Europe) (Disc 2) (NOD) - TODO
+- Command & Conquer (France) (Disc 1) (GDI) - TODO
+- Command & Conquer (France) (Disc 2) (NOD) - TODO
+- Command & Conquer (Japan) (Disc 1) (GDI Disc) - TODO
+- Command & Conquer (Japan) (Disc 2) (NOD Disc) - TODO
+- Command & Conquer (USA) (Disc 1) (GDI Disc) - TODO
+- Command & Conquer (USA) (Disc 2) (NOD Disc) - TODO
+- Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 1) (GDI) - TODO
+- Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 2) (NOD) - TODO
+- Congo - The Movie - The Lost City of Zinj (USA) - TODO
+- Contra - Legacy of War (USA) - TODO
+- Conveni 2, The - Zenkoku Chain Tenkai da! (Japan) - TODO
+- Conveni, The - Ano Machi o Dokusen seyo (Japan) - TODO
+- Core Demo Disc (Europe) - TODO
+- Corpse Killer - Graveyard Edition (USA) (Disc 1) (R) - TODO
+- Corpse Killer - Graveyard Edition (USA) (Disc 2) - TODO
+- Courier Crisis - The Saga of the Modern Fatalist (Europe) - TODO
+- Courier Crisis - The Saga of the Modern Fatalist (Japan) - TODO
+- Courier Crisis - The Saga of the Modern Fatalist (USA) - TODO
+- Creature Shock (Japan) (Disc 1) - TODO
+- Creature Shock (Japan) (Disc 2) - TODO
+- Creature Shock - Special Edition (USA) (Disc 1) - TODO
+- Creature Shock - Special Edition (USA) (Disc 2) - TODO
+- Crime Patrol (USA) (Proto) - TODO
+- Crimewave (Europe) (Demo) - TODO
+- Crimewave (Europe) - TODO
+- Crimewave (Japan) - TODO
+- Crimewave (USA) - TODO
+- Criticom (USA) - TODO
+- Criticom - The Critical Combat (Japan) - TODO
+- Croc - Legend of the Gobbos (Europe) - TODO
+- Croc - Legend of the Gobbos (USA) - TODO
+- Croc! Pau-Pau Island (Japan) - TODO
+- Cross Romance - Koi to Mahjong to Hanafuda to (Japan) - TODO
+- Cross Tantei Monogatari (Japan) (Demo 1) - TODO
+- Cross Tantei Monogatari (Japan) (Demo 2) - TODO
+- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1) - TODO
+- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 2) - TODO
+- Crows - The Battle Action for SegaSaturn (Japan) - TODO
+- Crusader - No Remorse (Europe) - TODO
+- Crusader - No Remorse (France) - TODO
+- Crusader - No Remorse (Germany) - TODO
+- [Crusader: No Remorse (USA)](./Regions/USA/T-5014H/01/README.md)
+- Crypt Killer (Europe) (R) - TODO
+- Crypt Killer (USA) - TODO
+- Cube Battler - Story of Anna (Japan) - TODO
+- Cube Battler - Story of Shou (Japan) - TODO
+- Cubic Gallery - Edy & Disy (Japan) - TODO
+- Culdcept (Japan) (Rev A) (10M) - TODO
+- Culdcept (Japan) (Rev B) (20M) - TODO
+- Custom Web Browser (Version 2) (USA) - TODO
+- Custom Web Browser (Version 3.0) (USA) - TODO
+- Cyber Doll (Japan) - TODO
+- Cyber Speedway (Europe) (RE) - TODO
+- Cyber Speedway (USA) - TODO
+- Cyberbots - Fullmetal Madness (Japan) (1M) - TODO
+- Cyberbots - Fullmetal Madness (Japan) (2M) - TODO
+- Cyberia (Europe) - TODO
+- Cyberia (Japan) - TODO
+- Cyberia (USA) - TODO
 
 #### D
 
-- D (E) (Disc I) - TODO
-- D (E) (Disc II) - TODO
-- D (F) (Disc I) - TODO
-- D (F) (Disc II) - TODO
-- D (G) (Disc I) - TODO
-- D (G) (Disc II) - TODO
-- D (U) (Disc I) (Beta) - TODO
-- D (U) (Disc I) - TODO
-- D (U) (Disc II) (Beta) - TODO
-- D (U) (Disc II) - TODO
-- D no Shokutaku (J) (Disc 1) - TODO
-- D no Shokutaku (J) (Disc 2) - TODO
-- D-Xhird (J) (1M) - TODO
-- D-Xhird (J) (2M) - TODO
-- DJ Wars (J) (Demo) - TODO
-- DJ Wars (J) (Rev A) (10M) - TODO
-- DX Nippon Tokkyuu Ryokou Game - Let's Travel in J (J) - TODO
-- Daibouken - Great Adventure - St. Elmos no Kiseki (J) - TODO
-- Daikoukai Jidai Gaiden (J) - TODO
-- Daikoukai Jidai II (J) - TODO
-- Daisenryaku - Strong Style (J) - TODO
-- Daisuki (J) (Disc 1) - TODO
-- Daisuki (J) (Disc 2) (Special) - TODO
-- Daitoride (J) - TODO
-- Darius Gaiden (E) - TODO
-- Darius Gaiden (J) (2M) - TODO
-- Darius Gaiden (J) (3M) - TODO
-- Darius Gaiden (U) (Beta) - TODO
-- Darius Gaiden (U) - TODO
-- Darius II (E) - TODO
-- Darius II (J) (2M) - TODO
-- Dark Hunter Ge - Youma no Mori (J) - TODO
-- Dark Hunter Jou - Ijigen Gakuen (J) - TODO
-- Dark Legend (U) - TODO
-- Dark Savior (E) - TODO
-- Dark Savior (J) (Demo) - TODO
-- Dark Savior (J) - TODO
-- Dark Savior (U) - TODO
-- Dark Seed II (J) - TODO
-- Darklight Conflict (E) - TODO
-- Darklight Conflict (U) - TODO
-- Darkseed (J) - TODO
-- [Daytona USA (E)](./E/MK_8120050/01/README.md)
-- Daytona USA (J) (Demo) (2M) - TODO
-- [Daytona USA (J)](./J/GS-9013/01/README.md)
-- [Daytona USA (U)](./U/MK-81200/01/README.md)
-- Daytona USA - Championship Circuit Edition (E) (Rev A) - TODO
-- [Daytona USA: Championship Circuit Edition (U)](./U/MK-81213/01/README.md)
-- Daytona USA - Circuit Edition (J) - TODO
-- Daytona USA C.C.E. Net Link Edition (U) - TODO
-- DeJig - Aqua World (J) - TODO
-- DeJig - Lassen - Art Collection (J) - TODO
-- DeJig - McKnight - Art Collection (J) - TODO
-- DeJig - Tin Toy (J) - TODO
-- [Dead Or Alive (J)](./J/T-3603G/01/README.md) - TODO (Check correct version)
-- Dead or Alive (J) (1M) - TODO
-- Dead or Alive (J) (2M) - TODO
-- Dead or Alive (J) (Rev A) (10M) - TODO
-- Deadalus (J) (1M) - TODO
-- Deadalus (J) (2A) - TODO
-- Deadalus (J) (3A) - TODO
-- Death Crimson (J) - TODO
-- Death Throttle - Kakuzetsu Toshi kara no Dasshutsu (J) - TODO
-- DeathMask (J) (Disc 1) - TODO
-- DeathMask (J) (Disc 2) - TODO
-- DeathMask (J) (Disc 3) - TODO
-- DecAthlete (J) (1M) - TODO
-- DecAthlete (J) (2M) - TODO
-- DecAthlete (J) (Demo) - TODO
-- DecAthlete (J) (Rev A) (10M) - TODO
-- DecAthlete (J) (Rev B) (20M) - TODO
-- DecAthlete (U) - TODO
-- DecAthlete for SegaNet (J) - TODO
-- [Deep Fear (E)](./E/MK-81804/01/README.md)
-- Deep Fear (J) (Demo) - TODO
-- Deep Fear (J) (Disc 1) - TODO
-- Deep Fear (J) (Disc 2) - TODO
-- Deep Fear (U) (Disc 1) (Unl) - TODO
-- Deep Fear (U) (Disc 2) (Unl) - TODO
-- Defcon 5 (E) - TODO
-- Defcon 5 (F) - TODO
-- Defcon 5 (J) - TODO
-- Defcon 5 - Peace Has a Price... (U) - TODO
-- Deka 4-ku - Tough the Truck (J) - TODO
-- Delisoba Deluxe (J) - TODO
-- Dennou Senki - Virtual On - Cyber Troopers (J) (Demo) - TODO
-- Dennou Senki - Virtual On - Cyber Troopers (J) - TODO
+- D (Europe) (Disc I) - TODO
+- D (Europe) (Disc II) - TODO
+- D (France) (Disc I) - TODO
+- D (France) (Disc II) - TODO
+- D (Germany) (Disc I) - TODO
+- D (Germany) (Disc II) - TODO
+- D (USA) (Disc I) (Beta) - TODO
+- D (USA) (Disc I) - TODO
+- D (USA) (Disc II) (Beta) - TODO
+- D (USA) (Disc II) - TODO
+- D no Shokutaku (Japan) (Disc 1) - TODO
+- D no Shokutaku (Japan) (Disc 2) - TODO
+- D-Xhird (Japan) (1M) - TODO
+- D-Xhird (Japan) (2M) - TODO
+- DJ Wars (Japan) (Demo) - TODO
+- DJ Wars (Japan) (Rev A) (10M) - TODO
+- DX Nippon Tokkyuu Ryokou Game - Let's Travel in J (Japan) - TODO
+- Daibouken - Great Adventure - St. Elmos no Kiseki (Japan) - TODO
+- Daikoukai Jidai Gaiden (Japan) - TODO
+- Daikoukai Jidai II (Japan) - TODO
+- Daisenryaku - Strong Style (Japan) - TODO
+- Daisuki (Japan) (Disc 1) - TODO
+- Daisuki (Japan) (Disc 2) (Special) - TODO
+- Daitoride (Japan) - TODO
+- Darius Gaiden (Europe) - TODO
+- Darius Gaiden (Japan) (2M) - TODO
+- Darius Gaiden (Japan) (3M) - TODO
+- Darius Gaiden (USA) (Beta) - TODO
+- Darius Gaiden (USA) - TODO
+- Darius II (Europe) - TODO
+- Darius II (Japan) (2M) - TODO
+- Dark Hunter Ge - Youma no Mori (Japan) - TODO
+- Dark Hunter Jou - Ijigen Gakuen (Japan) - TODO
+- Dark Legend (USA) - TODO
+- Dark Savior (Europe) - TODO
+- Dark Savior (Japan) (Demo) - TODO
+- Dark Savior (Japan) - TODO
+- Dark Savior (USA) - TODO
+- Dark Seed II (Japan) - TODO
+- Darklight Conflict (Europe) - TODO
+- Darklight Conflict (USA) - TODO
+- Darkseed (Japan) - TODO
+- [Daytona USA (Europe)](./Regions/Europe/MK_8120050/01/README.md)
+- Daytona USA (Japan) (Demo) (2M) - TODO
+- [Daytona USA (Japan)](./Regions/Japan/GS-9013/01/README.md)
+- [Daytona USA (USA)](./Regions/USA/MK-81200/01/README.md)
+- Daytona USA - Championship Circuit Edition (Europe) (Rev A) - TODO
+- [Daytona USA: Championship Circuit Edition (USA)](./Regions/USA/MK-81213/01/README.md)
+- Daytona USA - Circuit Edition (Japan) - TODO
+- Daytona USA C.C.E. Net Link Edition (USA) - TODO
+- DeJig - Aqua World (Japan) - TODO
+- DeJig - Lassen - Art Collection (Japan) - TODO
+- DeJig - McKnight - Art Collection (Japan) - TODO
+- DeJig - Tin Toy (Japan) - TODO
+- [Dead Or Alive (Japan)](./Regions/Japan/T-3603G/01/README.md) - TODO (Check correct version)
+- Dead or Alive (Japan) (1M) - TODO
+- Dead or Alive (Japan) (2M) - TODO
+- Dead or Alive (Japan) (Rev A) (10M) - TODO
+- Deadalus (Japan) (1M) - TODO
+- Deadalus (Japan) (2A) - TODO
+- Deadalus (Japan) (3A) - TODO
+- Death Crimson (Japan) - TODO
+- Death Throttle - Kakuzetsu Toshi kara no Dasshutsu (Japan) - TODO
+- DeathMask (Japan) (Disc 1) - TODO
+- DeathMask (Japan) (Disc 2) - TODO
+- DeathMask (Japan) (Disc 3) - TODO
+- DecAthlete (Japan) (1M) - TODO
+- DecAthlete (Japan) (2M) - TODO
+- DecAthlete (Japan) (Demo) - TODO
+- DecAthlete (Japan) (Rev A) (10M) - TODO
+- DecAthlete (Japan) (Rev B) (20M) - TODO
+- DecAthlete (USA) - TODO
+- DecAthlete for SegaNet (Japan) - TODO
+- [Deep Fear (Europe)](./Regions/Europe/MK-81804/01/README.md)
+- Deep Fear (Japan) (Demo) - TODO
+- Deep Fear (Japan) (Disc 1) - TODO
+- Deep Fear (Japan) (Disc 2) - TODO
+- Deep Fear (USA) (Disc 1) (Unl) - TODO
+- Deep Fear (USA) (Disc 2) (Unl) - TODO
+- Defcon 5 (Europe) - TODO
+- Defcon 5 (France) - TODO
+- Defcon 5 (Japan) - TODO
+- Defcon 5 - Peace Has a Price... (USA) - TODO
+- Deka 4-ku - Tough the Truck (Japan) - TODO
+- Delisoba Deluxe (Japan) - TODO
+- Dennou Senki - Virtual On - Cyber Troopers (Japan) (Demo) - TODO
+- Dennou Senki - Virtual On - Cyber Troopers (Japan) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers (Korea) - TODO
-- Dennou Senki - Virtual On - Cyber Troopers for SegaNet (J) - TODO
-- Denpa Shounen-teki Game (J) (Rerelease) - TODO
-- Denpa Shounen-teki Game (J) (Rev A) - TODO
-- Densetsu no Ogre Battle (J) - TODO
-- Densha de Go! EX (J) - TODO
-- Derby Analyst (J) - TODO
-- Derby Stallion (J) - TODO
-- Deroon Dero Dero (J) (1M) - TODO
-- Desire (J) (Disc 1) - TODO
-- Desire (J) (Disc 2) (1M) - TODO
-- Desire (J) (Disc 2) (2M) - TODO
-- Destruction Derby (E) - TODO
-- Destruction Derby (J) - TODO
-- Detana Twinbee Yahoo! Deluxe Pack (J) (3M) - TODO
-- Develo Magazine Appendix CD-ROM for SegaSaturn (J) - TODO
-- Device Reign (J) - TODO
-- Devil Summoner - Soul Hackers (J) (Disc 01) - TODO
-- Devil Summoner - Soul Hackers (J) (Disc 02) - TODO
-- Devil Summoner - Soul Hackers + Ronde (J) (Demo 1) - TODO
-- Devil Summoner - Soul Hackers + Ronde (J) (Demo 2) - TODO
-- Devil Summoner - Soul Hackers - Akuma Zensho Daini-shuu (J) - TODO
-- Devil Summoner - Soul Hackers Extra Dungeon (J) (3M) - TODO
-- Dezaemon 2 (J) - TODO
-- Die Hard Arcade (E) - TODO
-- [Die Hard Arcade (U)](./U/MK-81057/01/README.md)
-- Die Hard Trilogy (E) - TODO
-- Die Hard Trilogy (J) - TODO
-- [Die Hard Trilogy (U)](./U/T-16103H/01/README.md)
-- Digital Ange - Dennou Tenshi SS (J) - TODO
-- Digital Dance Mix Vol. 1 - Namie Amuro (J) (Rev A) (10M, 12M) - TODO
-- Digital Dance Mix Vol. 1 - Namie Amuro (J) (Rev A) (11M) - TODO
-- Digital Monster Ver. S - Digimon Tamers (J) - TODO
-- Digital Pinball (E) (4S) - TODO
-- Digital Pinball (E) (7S) - TODO
-- Digital Pinball - Last Gladiators (J) (5M) (Demo) - TODO
-- Digital Pinball - Last Gladiators (J) - TODO
-- Digital Pinball - Last Gladiators Ver.9.7 (J) - TODO
-- Digital Pinball - Necronomicon (J) - TODO
-- Digital Pinball - Necronomicon - Revelations (J) (Demo) - TODO
-- Dino Island (J) - TODO
-- Dino Island - Yokoku-hen (J) - TODO
-- Disc Station Bessatsu - I Miss You. Tanaka Katsumi (J) (1M) - TODO
-- Discworld (J) - TODO
-- Discworld II - Missing Presumed...! (E) - TODO
-- DoDonPachi (J) (Demo) - TODO
-- [DoDonPachi (J)](./J/T-14419G/01/README.md)
-- DonPachi (J) (Demo) - TODO
-- [DonPachi (J)](./J/T-14405G/01/README.md)
-- Doom (E) (R) - TODO
-- Doom (J) - TODO
-- [Doom (U)](./U/T-25405H/01/README.md)
-- Doraemon - Nobita to Fukkatsu no Hoshi (J) - TODO
-- Double Switch (U) (Disc 1) - TODO
-- Double Switch (U) (Disc 2) - TODO
-- Doukoku Soshite... (J) (1M) - TODO
-- Doukoku Soshite... (J) (2M) - TODO
-- Doukyuusei - if (J) (1M, 2M) - TODO
-- Doukyuusei 2 (J) (Disc A) - TODO
-- Doukyuusei 2 (J) (Disc B) - TODO
-- Dragon Ball Z - Idainaru Dragon Ball Densetsu (J) - TODO
+- Dennou Senki - Virtual On - Cyber Troopers for SegaNet (Japan) - TODO
+- Denpa Shounen-teki Game (Japan) (Rerelease) - TODO
+- Denpa Shounen-teki Game (Japan) (Rev A) - TODO
+- Densetsu no Ogre Battle (Japan) - TODO
+- Densha de Go! EX (Japan) - TODO
+- Derby Analyst (Japan) - TODO
+- Derby Stallion (Japan) - TODO
+- Deroon Dero Dero (Japan) (1M) - TODO
+- Desire (Japan) (Disc 1) - TODO
+- Desire (Japan) (Disc 2) (1M) - TODO
+- Desire (Japan) (Disc 2) (2M) - TODO
+- Destruction Derby (Europe) - TODO
+- Destruction Derby (Japan) - TODO
+- Detana Twinbee Yahoo! Deluxe Pack (Japan) (3M) - TODO
+- Develo Magazine Appendix CD-ROM for SegaSaturn (Japan) - TODO
+- Device Reign (Japan) - TODO
+- Devil Summoner - Soul Hackers (Japan) (Disc 01) - TODO
+- Devil Summoner - Soul Hackers (Japan) (Disc 02) - TODO
+- Devil Summoner - Soul Hackers + Ronde (Japan) (Demo 1) - TODO
+- Devil Summoner - Soul Hackers + Ronde (Japan) (Demo 2) - TODO
+- Devil Summoner - Soul Hackers - Akuma Zensho Daini-shuu (Japan) - TODO
+- Devil Summoner - Soul Hackers Extra Dungeon (Japan) (3M) - TODO
+- Dezaemon 2 (Japan) - TODO
+- Die Hard Arcade (Europe) - TODO
+- [Die Hard Arcade (USA)](./Regions/USA/MK-81057/01/README.md)
+- Die Hard Trilogy (Europe) - TODO
+- Die Hard Trilogy (Japan) - TODO
+- [Die Hard Trilogy (USA)](./Regions/USA/T-16103H/01/README.md)
+- Digital Ange - Dennou Tenshi SS (Japan) - TODO
+- Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M) - TODO
+- Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (11M) - TODO
+- Digital Monster Ver. S - Digimon Tamers (Japan) - TODO
+- Digital Pinball (Europe) (4S) - TODO
+- Digital Pinball (Europe) (7S) - TODO
+- Digital Pinball - Last Gladiators (Japan) (5M) (Demo) - TODO
+- Digital Pinball - Last Gladiators (Japan) - TODO
+- Digital Pinball - Last Gladiators Ver.9.7 (Japan) - TODO
+- Digital Pinball - Necronomicon (Japan) - TODO
+- Digital Pinball - Necronomicon - Revelations (Japan) (Demo) - TODO
+- Dino Island (Japan) - TODO
+- Dino Island - Yokoku-hen (Japan) - TODO
+- Disc Station Bessatsu - I Miss You. Tanaka Katsumi (Japan) (1M) - TODO
+- Discworld (Japan) - TODO
+- Discworld II - Missing Presumed...! (Europe) - TODO
+- DoDonPachi (Japan) (Demo) - TODO
+- [DoDonPachi (Japan)](./Regions/Japan/T-14419G/01/README.md)
+- DonPachi (Japan) (Demo) - TODO
+- [DonPachi (Japan)](./Regions/Japan/T-14405G/01/README.md)
+- Doom (Europe) (R) - TODO
+- Doom (Japan) - TODO
+- [Doom (USA)](./Regions/USA/T-25405H/01/README.md)
+- Doraemon - Nobita to Fukkatsu no Hoshi (Japan) - TODO
+- Double Switch (USA) (Disc 1) - TODO
+- Double Switch (USA) (Disc 2) - TODO
+- Doukoku Soshite... (Japan) (1M) - TODO
+- Doukoku Soshite... (Japan) (2M) - TODO
+- Doukyuusei - if (Japan) (1M, 2M) - TODO
+- Doukyuusei 2 (Japan) (Disc A) - TODO
+- Doukyuusei 2 (Japan) (Disc B) - TODO
+- Dragon Ball Z - Idainaru Dragon Ball Densetsu (Japan) - TODO
 - Dragon Ball Z - La Grande Legende des Boules de Cristal (F, S) - TODO
-- Dragon Ball Z - Shinbutouden (J) - TODO (Recorded)
-- Dragon Force (E) - TODO
-- Dragon Force (J) (1M, 2M, 3M) - TODO
-- Dragon Force (J) (4M) - TODO
-- Dragon Force (J) (Rev A) (10M) - TODO
-- Dragon Force (U) - TODO
-- Dragon Force II - Kami Sarishi Daichi ni (J) (Rev A) - TODO
-- Dragon Force II - Kami Sarishi Daichi ni (J) - TODO
-- Dragon Master Silk (J) - TODO
-- Dragon's Dream (J) - TODO
-- DragonHeart - Fire & Steel (E) - TODO
-- DragonHeart - Fire & Steel (U) - TODO
-- Dream Generation - Koi ka Shigoto ka!... (J) - TODO
-- Dream Square - Hinagata Akiko (J) (2M) - TODO
-- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (J) (Demo) - TODO
-- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (J) - TODO (Recorded)
-- Druid - Yami e no Tsuisekisha (J) - TODO
-- Duke Nukem 3D (E) - TODO
-- [Duke Nukem 3D (U)](./U/MK-81071/01/README.md)
-- Dungeon Master Nexus (J) - TODO
-- Dungeons & Dragons Collection (J) (Disc 1) (Tower of Doom) - TODO
-- Dungeons & Dragons Collection (J) (Disc 2) (Shadow over Mystara) - TODO
-- Dynamite Deka (J) - TODO
+- Dragon Ball Z - Shinbutouden (Japan) - TODO (Recorded)
+- Dragon Force (Europe) - TODO
+- Dragon Force (Japan) (1M, 2M, 3M) - TODO
+- Dragon Force (Japan) (4M) - TODO
+- Dragon Force (Japan) (Rev A) (10M) - TODO
+- Dragon Force (USA) - TODO
+- Dragon Force II - Kami Sarishi Daichi ni (Japan) (Rev A) - TODO
+- Dragon Force II - Kami Sarishi Daichi ni (Japan) - TODO
+- Dragon Master Silk (Japan) - TODO
+- Dragon's Dream (Japan) - TODO
+- DragonHeart - Fire & Steel (Europe) - TODO
+- DragonHeart - Fire & Steel (USA) - TODO
+- Dream Generation - Koi ka Shigoto ka!... (Japan) - TODO
+- Dream Square - Hinagata Akiko (Japan) (2M) - TODO
+- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) (Demo) - TODO
+- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) - TODO (Recorded)
+- Druid - Yami e no Tsuisekisha (Japan) - TODO
+- Duke Nukem 3D (Europe) - TODO
+- [Duke Nukem 3D (USA)](./Regions/USA/MK-81071/01/README.md)
+- Dungeon Master Nexus (Japan) - TODO
+- Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom) - TODO
+- Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara) - TODO
+- Dynamite Deka (Japan) - TODO
 
 #### E
 
-- [EGWord (J) (1M)](./J/T-7626G/01/README.md)
-- EGWord (J) (Rev A) (10M) - TODO
-- EGWord Ver 2.00 (J) - TODO
-- Earthworm Jim 2 (E) - TODO
-- Earthworm Jim 2 (J) (2M) - TODO
-- Earthworm Jim 2 (U) - TODO
-- [Eberouge (J)](./J/T-10309G/01/README.md)
-- [Eberouge Special - Koi to Mahou no Gakuen Seikatsu (J)](./J/T-10315G/01/README.md)
-- [Eisei Meijin (J) (2M)](./J/T-9506G/01/README.md)
-- [Eisei Meijin II (J)](./J/T-9516G//01/README.md)
-- [Eiyuu Shigan - Gal Act Heroism (J)](./J/T-5204G//01/README.md)
-- [Elevator Action 2 - Returns](./J/T-19903G/01/README.md)
-- [Elf o Karu Monotachi (J)](./J/T-16605G/01/README.md)
-- [Elf o Karu Monotachi - Hanafuda-hen (J)](./J/T-16606G/01/README.md)
-- [Elf o Karu Monotachi II (J)](./J/T-16610G/01/README.md)
-- [Emit Vol. 1 - Toki no Maigo (J)](./J/T-7602G/01/README.md)
-- [Emit Vol. 2 - Inochigake no Tabi (J) (Rev A)](./J/T-7603G/01/README.md)
-- [Emit Vol. 3 - Watashi ni Sayonara o (J) (Rev A)](./J/T-7604G/01/README.md)
-- Enemy Zero (E) (Disc 0) (Opening Disc) - TODO
-- Enemy Zero (E) (Disc 1) (Game Disc) - TODO
-- Enemy Zero (E) (Disc 2) (Game Disc) - TODO
-- Enemy Zero (E) (Disc 3) (Game Disc) - TODO
-- Enemy Zero (J) (Disc 0) (Opening Disc) (1M) - TODO
-- Enemy Zero (J) (Disc 0) (Opening Disc) (2M) - TODO
-- Enemy Zero (J) (Disc 0) (Opening Disc) (Satakore) - TODO
-- Enemy Zero (J) (Disc 0) (Opening Disc) - TODO
-- Enemy Zero (J) (Disc 1) (Game Disc) (1M) - TODO
-- Enemy Zero (J) (Disc 1) (Game Disc) (2M) - TODO
-- Enemy Zero (J) (Disc 1) (Game Disc) (Satakore) - TODO
-- Enemy Zero (J) (Disc 1) (Game Disc) - TODO
-- Enemy Zero (J) (Disc 2) (Game Disc) (1M) - TODO
-- Enemy Zero (J) (Disc 2) (Game Disc) (2M) - TODO
-- Enemy Zero (J) (Disc 2) (Game Disc) (Satakore) - TODO
-- Enemy Zero (J) (Disc 2) (Game Disc) - TODO
-- Enemy Zero (J) (Disc 3) (Game Disc) (1M, 4M) - TODO
-- Enemy Zero (J) (Disc 3) (Game Disc) (3M) - TODO
-- Enemy Zero (J) (Disc 3) (Game Disc) (Satakore) - TODO
-- Enemy Zero (J) (Disc 3) (Game Disc) - TODO
-- [Enemy Zero (U)](./U/MK-81076/01/README.md)
-- [Eternal Melody (J)](./J/T-27802G/01/README.md)
-- [Étude Prologue: Yureugoku Kokoro no Katachi (J)](./J/T-37901G/01/README.md)
-- [Eve - Burst Error (J) (Disc 1) (Kojiroh Disc)](./J/T-15022G/01/README.md)
-- Eve - Burst Error (J) (Disc 2) (Marina Disc) - TODO
-- Eve - Burst Error (J) (Disc 3) (Terror Disc) - TODO
-- Eve - Burst Error (J) (Disc 4) (Making Disc) - TODO
-- Eve - The Lost One (J) (Demo) - TODO
-- [Eve - The Lost One (J) (Disc 1) (Kyoko Disc)(1M)](./J/T-15035G/01/README.md)
-- Eve - The Lost One (J) (Disc 2) (Snake Disc) (2M) - TODO
-- Eve - The Lost One (J) (Disc 3) (Lost One Disc) (1M) - TODO
-- Eve - The Lost One (J) (Disc 3) (Lost One Disc) (2M) - TODO
-- Eve - The Lost One (J) (Disc 4) (Extra Disc) (1M) - TODO
-- Eve - The Lost One (J) (Disc 4) (Extra Disc) (2M) - TODO
-- [Exhumed (E)](./E/MK-81084/01/README.md)
-- [Eyeful Home (J)](./J/GS-9083/01/README.md)
+- [EGWord (Japan) (1M)](./Regions/Japan/T-7626G/01/README.md)
+- EGWord (Japan) (Rev A) (10M) - TODO
+- EGWord Ver 2.00 (Japan) - TODO
+- Earthworm Jim 2 (Europe) - TODO
+- Earthworm Jim 2 (Japan) (2M) - TODO
+- Earthworm Jim 2 (USA) - TODO
+- [Eberouge (Japan)](./Regions/Japan/T-10309G/01/README.md)
+- [Eberouge Special - Koi to Mahou no Gakuen Seikatsu (Japan)](./Regions/Japan/T-10315G/01/README.md)
+- [Eisei Meijin (Japan) (2M)](./Regions/Japan/T-9506G/01/README.md)
+- [Eisei Meijin II (Japan)](./Regions/Japan/T-9516G//01/README.md)
+- [Eiyuu Shigan - Gal Act Heroism (Japan)](./Regions/Japan/T-5204G//01/README.md)
+- [Elevator Action 2 - Returns](./Regions/Japan/T-19903G/01/README.md)
+- [Elf o Karu Monotachi (Japan)](./Regions/Japan/T-16605G/01/README.md)
+- [Elf o Karu Monotachi - Hanafuda-hen (Japan)](./Regions/Japan/T-16606G/01/README.md)
+- [Elf o Karu Monotachi II (Japan)](./Regions/Japan/T-16610G/01/README.md)
+- [Emit Vol. 1 - Toki no Maigo (Japan)](./Regions/Japan/T-7602G/01/README.md)
+- [Emit Vol. 2 - Inochigake no Tabi (Japan) (Rev A)](./Regions/Japan/T-7603G/01/README.md)
+- [Emit Vol. 3 - Watashi ni Sayonara o (Japan) (Rev A)](./Regions/Japan/T-7604G/01/README.md)
+- Enemy Zero (Europe) (Disc 0) (Opening Disc) - TODO
+- Enemy Zero (Europe) (Disc 1) (Game Disc) - TODO
+- Enemy Zero (Europe) (Disc 2) (Game Disc) - TODO
+- Enemy Zero (Europe) (Disc 3) (Game Disc) - TODO
+- Enemy Zero (Japan) (Disc 0) (Opening Disc) (1M) - TODO
+- Enemy Zero (Japan) (Disc 0) (Opening Disc) (2M) - TODO
+- Enemy Zero (Japan) (Disc 0) (Opening Disc) (Satakore) - TODO
+- Enemy Zero (Japan) (Disc 0) (Opening Disc) - TODO
+- Enemy Zero (Japan) (Disc 1) (Game Disc) (1M) - TODO
+- Enemy Zero (Japan) (Disc 1) (Game Disc) (2M) - TODO
+- Enemy Zero (Japan) (Disc 1) (Game Disc) (Satakore) - TODO
+- Enemy Zero (Japan) (Disc 1) (Game Disc) - TODO
+- Enemy Zero (Japan) (Disc 2) (Game Disc) (1M) - TODO
+- Enemy Zero (Japan) (Disc 2) (Game Disc) (2M) - TODO
+- Enemy Zero (Japan) (Disc 2) (Game Disc) (Satakore) - TODO
+- Enemy Zero (Japan) (Disc 2) (Game Disc) - TODO
+- Enemy Zero (Japan) (Disc 3) (Game Disc) (1M, 4M) - TODO
+- Enemy Zero (Japan) (Disc 3) (Game Disc) (3M) - TODO
+- Enemy Zero (Japan) (Disc 3) (Game Disc) (Satakore) - TODO
+- Enemy Zero (Japan) (Disc 3) (Game Disc) - TODO
+- [Enemy Zero (USA)](./Regions/USA/MK-81076/01/README.md)
+- [Eternal Melody (Japan)](./Regions/Japan/T-27802G/01/README.md)
+- [Étude Prologue: Yureugoku Kokoro no Katachi (Japan)](./Regions/Japan/T-37901G/01/README.md)
+- [Eve - Burst Error (Japan) (Disc 1) (Kojiroh Disc)](./Regions/Japan/T-15022G/01/README.md)
+- Eve - Burst Error (Japan) (Disc 2) (Marina Disc) - TODO
+- Eve - Burst Error (Japan) (Disc 3) (Terror Disc) - TODO
+- Eve - Burst Error (Japan) (Disc 4) (Making Disc) - TODO
+- Eve - The Lost One (Japan) (Demo) - TODO
+- [Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc)(1M)](./Regions/Japan/T-15035G/01/README.md)
+- Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (2M) - TODO
+- Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (1M) - TODO
+- Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (2M) - TODO
+- Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (1M) - TODO
+- Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (2M) - TODO
+- [Exhumed (Europe)](./Regions/Europe/MK-81084/01/README.md)
+- [Eyeful Home (Japan)](./Regions/Japan/GS-9083/01/README.md)
 
 #### F
 
-- F-1 Live Information (J) - TODO
-- F1 Challenge (E) - TODO
-- F1 Challenge (U) - TODO
-- FEDA Remake! The Emblem of Justice (J) - TODO
-- FIFA - Die WM-Qualifikation 98 (G) - TODO
-- FIFA - En Route pour la Coupe du Monde 98 (F) - TODO
-- FIFA - Road to World Cup 98 (E) - TODO
-- FIFA - Road to World Cup 98 (I) - TODO
-- FIFA - Road to World Cup 98 (U) - TODO
+- F-1 Live Information (Japan) - TODO
+- F1 Challenge (Europe) - TODO
+- F1 Challenge (USA) - TODO
+- FEDA Remake! The Emblem of Justice (Japan) - TODO
+- FIFA - Die WM-Qualifikation 98 (Germany) - TODO
+- FIFA - En Route pour la Coupe du Monde 98 (France) - TODO
+- FIFA - Road to World Cup 98 (Europe) - TODO
+- FIFA - Road to World Cup 98 (Italy) - TODO
+- FIFA - Road to World Cup 98 (USA) - TODO
 - FIFA - Rumbo al Mundial 98 (S) - TODO
-- FIFA 97 (E) - TODO
-- FIFA 97 (F) - TODO
-- FIFA 97 (G) - TODO
-- FIFA Soccer 96 (E) - TODO
-- FIFA Soccer 96 (J) - TODO
-- FIFA Soccer 96 (U) - TODO
-- FIFA Soccer 97 (U) - TODO
-- Falcom Classics (J) (Disc 1) (Game Disc) - TODO
-- Falcom Classics (J) (Disc 2) (Special CD) - TODO
-- Falcom Classics II (J) (Genteiban) - TODO
-- Falcom Classics II (J) - TODO
-- Fantastep (J) - TODO
-- Farland Saga (J) - TODO
-- Farland Saga - Toki no Michishirube (J) - TODO
-- Farland Story - Habou no Mai (J) (Demo) - TODO
-- Farland Story - Habou no Mai (J) - TODO
-- Father Christmas (J) - TODO
-- [Fighter's History Dynamite (J)](./J/GS-9107/01/README.md)
-- Fighters Megamix (E) - TODO
-- Fighters Megamix (J) (1M) - TODO
-- Fighters Megamix (J) (2M) - TODO
-- Fighters Megamix (J) - TODO
-- Fighters Megamix (U) (RE) - TODO
-- Fighters Megamix (U) - TODO (Recorded)
-- Fighting Vipers (E) - TODO
-- Fighting Vipers (J) (Demo) - TODO
-- Fighting Vipers (J) (Rev A) - TODO
-- Fighting Vipers (J) (Rev C) - TODO
+- FIFA 97 (Europe) - TODO
+- FIFA 97 (France) - TODO
+- FIFA 97 (Germany) - TODO
+- FIFA Soccer 96 (Europe) - TODO
+- FIFA Soccer 96 (Japan) - TODO
+- FIFA Soccer 96 (USA) - TODO
+- FIFA Soccer 97 (USA) - TODO
+- Falcom Classics (Japan) (Disc 1) (Game Disc) - TODO
+- Falcom Classics (Japan) (Disc 2) (Special CD) - TODO
+- Falcom Classics II (Japan) (Genteiban) - TODO
+- Falcom Classics II (Japan) - TODO
+- Fantastep (Japan) - TODO
+- Farland Saga (Japan) - TODO
+- Farland Saga - Toki no Michishirube (Japan) - TODO
+- Farland Story - Habou no Mai (Japan) (Demo) - TODO
+- Farland Story - Habou no Mai (Japan) - TODO
+- Father Christmas (Japan) - TODO
+- [Fighter's History Dynamite (Japan)](./Regions/Japan/GS-9107/01/README.md)
+- Fighters Megamix (Europe) - TODO
+- Fighters Megamix (Japan) (1M) - TODO
+- Fighters Megamix (Japan) (2M) - TODO
+- Fighters Megamix (Japan) - TODO
+- Fighters Megamix (USA) (RE) - TODO
+- Fighters Megamix (USA) - TODO (Recorded)
+- Fighting Vipers (Europe) - TODO
+- Fighting Vipers (Japan) (Demo) - TODO
+- Fighting Vipers (Japan) (Rev A) - TODO
+- Fighting Vipers (Japan) (Rev C) - TODO
 - Fighting Vipers (Korea) - TODO
-- Fighting Vipers (U) (5S) - TODO (Recorded - Check Version)
-- Fighting Vipers (U) (6S) - TODO (Recorded - Check Version)
-- [Final Fight Revenge (J)](./J/T-20605G/01/README.md)
-- Find Love 2 - Rhapsody (J) (Disc 1) - TODO
-- Find Love 2 - Rhapsody (J) (Disc 2) - TODO
-- Find Love 2 - The Prologue (J) - TODO
-- Fire Pro Gaiden Blazing Tornado (J) (Demo) - TODO
-- Fire Pro Gaiden Blazing Tornado (J) - TODO
-- Fire Prowrestling S - 6Men Scramble (J) (1M) - TODO
-- Fire Prowrestling S - 6Men Scramble (J) (2M) - TODO
-- Firestorm - Thunderhawk 2 (E) - TODO
-- Firestorm - Thunderhawk 2 (G) - TODO
-- Fishing Koushien (J) - TODO
-- Fishing Koushien II (J) - TODO
-- Fist (J) - TODO
-- Flash SegaSaturn - Ochikazuki-hen (J) - TODO
-- Flash SegaSaturn Vol. 1 (J) (2M) - TODO
-- Flash SegaSaturn Vol. 10 (J) - TODO
-- Flash SegaSaturn Vol. 11 (J) - TODO
-- Flash SegaSaturn Vol. 12 (J) - TODO
-- Flash SegaSaturn Vol. 13 (J) - TODO
-- Flash SegaSaturn Vol. 14 (J) - TODO
-- Flash SegaSaturn Vol. 15 (J) - TODO
-- Flash SegaSaturn Vol. 16 (J) - TODO
-- Flash SegaSaturn Vol. 17 (J) - TODO
-- Flash SegaSaturn Vol. 18 (J) - TODO
-- Flash SegaSaturn Vol. 19 (J) - TODO
-- Flash SegaSaturn Vol. 2 (J) (2M) - TODO
-- Flash SegaSaturn Vol. 20 (J) - TODO
-- Flash SegaSaturn Vol. 21 (J) - TODO
-- Flash SegaSaturn Vol. 22 (J) - TODO
-- Flash SegaSaturn Vol. 23 (J) - TODO
-- Flash SegaSaturn Vol. 24 (J) - TODO
-- Flash SegaSaturn Vol. 25 (J) - TODO
-- Flash SegaSaturn Vol. 26 (J) - TODO
-- Flash SegaSaturn Vol. 27 (J) - TODO
-- Flash SegaSaturn Vol. 28 (J) - TODO
-- Flash SegaSaturn Vol. 29 (J) (3M) - TODO
-- Flash SegaSaturn Vol. 3 (J) - TODO
-- Flash SegaSaturn Vol. 30 (J) - TODO
-- Flash SegaSaturn Vol. 31 (J) - TODO
-- Flash SegaSaturn Vol. 32 (J) - TODO
-- Flash SegaSaturn Vol. 4 (J) - TODO
-- Flash SegaSaturn Vol. 5 (J) - TODO
-- Flash SegaSaturn Vol. 6 (J) - TODO
-- Flash SegaSaturn Vol. 7 (J) - TODO
-- Flash SegaSaturn Vol. 8 (J) - TODO
-- Flash SegaSaturn Vol. 9 (J) - TODO
-- Formula Grand Prix - Team Un'ei Simulation (J) - TODO
-- Formula Karts - Special Edition (E) - TODO
-- Frank Thomas Big Hurt Baseball (E) - TODO
-- Frank Thomas Big Hurt Baseball (J) - TODO
-- Frank Thomas Big Hurt Baseball (U) - TODO
-- Frankenstein - Through the Eyes of the Monster (E) - TODO
-- Free Talk Studio - Mari no Kimamana Oshaberi (J) - TODO
-- Friends - Seishun no Kagayaki (J) (Disc 1) (Game Disc) - TODO
-- Friends - Seishun no Kagayaki (J) (Disc 2) (Special Disc) - TODO
-- From TV Animation Slam Dunk - I Love Basketball (J) - TODO
-- Fully Cowled Mini Yonku - Super Factory (J) (Demo) - TODO
-- Fully Cowled Mini Yonku - Super Factory (J) (Rev A) (10M) - TODO
-- Fully Cowled Mini Yonku - Super Factory (J) (Rev A) (11M) - TODO
-- Funky Fantasy (J) - TODO
-- Funky Head Boxers (J) (Demo) - TODO
-- Funky Head Boxers (J) - TODO
-- Funky Head Boxers Plus (J) - TODO
-- Fushigi no Kuni no Angelique (J) - TODO
-- Fuusui Sensei - Feng-Shui Master (J) - TODO
+- Fighting Vipers (USA) (5S) - TODO (Recorded - Check Version)
+- Fighting Vipers (USA) (6S) - TODO (Recorded - Check Version)
+- [Final Fight Revenge (Japan)](./Regions/Japan/T-20605G/01/README.md)
+- Find Love 2 - Rhapsody (Japan) (Disc 1) - TODO
+- Find Love 2 - Rhapsody (Japan) (Disc 2) - TODO
+- Find Love 2 - The Prologue (Japan) - TODO
+- Fire Pro Gaiden Blazing Tornado (Japan) (Demo) - TODO
+- Fire Pro Gaiden Blazing Tornado (Japan) - TODO
+- Fire Prowrestling S - 6Men Scramble (Japan) (1M) - TODO
+- Fire Prowrestling S - 6Men Scramble (Japan) (2M) - TODO
+- Firestorm - Thunderhawk 2 (Europe) - TODO
+- Firestorm - Thunderhawk 2 (Germany) - TODO
+- Fishing Koushien (Japan) - TODO
+- Fishing Koushien II (Japan) - TODO
+- Fist (Japan) - TODO
+- Flash SegaSaturn - Ochikazuki-hen (Japan) - TODO
+- Flash SegaSaturn Vol. 1 (Japan) (2M) - TODO
+- Flash SegaSaturn Vol. 10 (Japan) - TODO
+- Flash SegaSaturn Vol. 11 (Japan) - TODO
+- Flash SegaSaturn Vol. 12 (Japan) - TODO
+- Flash SegaSaturn Vol. 13 (Japan) - TODO
+- Flash SegaSaturn Vol. 14 (Japan) - TODO
+- Flash SegaSaturn Vol. 15 (Japan) - TODO
+- Flash SegaSaturn Vol. 16 (Japan) - TODO
+- Flash SegaSaturn Vol. 17 (Japan) - TODO
+- Flash SegaSaturn Vol. 18 (Japan) - TODO
+- Flash SegaSaturn Vol. 19 (Japan) - TODO
+- Flash SegaSaturn Vol. 2 (Japan) (2M) - TODO
+- Flash SegaSaturn Vol. 20 (Japan) - TODO
+- Flash SegaSaturn Vol. 21 (Japan) - TODO
+- Flash SegaSaturn Vol. 22 (Japan) - TODO
+- Flash SegaSaturn Vol. 23 (Japan) - TODO
+- Flash SegaSaturn Vol. 24 (Japan) - TODO
+- Flash SegaSaturn Vol. 25 (Japan) - TODO
+- Flash SegaSaturn Vol. 26 (Japan) - TODO
+- Flash SegaSaturn Vol. 27 (Japan) - TODO
+- Flash SegaSaturn Vol. 28 (Japan) - TODO
+- Flash SegaSaturn Vol. 29 (Japan) (3M) - TODO
+- Flash SegaSaturn Vol. 3 (Japan) - TODO
+- Flash SegaSaturn Vol. 30 (Japan) - TODO
+- Flash SegaSaturn Vol. 31 (Japan) - TODO
+- Flash SegaSaturn Vol. 32 (Japan) - TODO
+- Flash SegaSaturn Vol. 4 (Japan) - TODO
+- Flash SegaSaturn Vol. 5 (Japan) - TODO
+- Flash SegaSaturn Vol. 6 (Japan) - TODO
+- Flash SegaSaturn Vol. 7 (Japan) - TODO
+- Flash SegaSaturn Vol. 8 (Japan) - TODO
+- Flash SegaSaturn Vol. 9 (Japan) - TODO
+- Formula Grand Prix - Team Un'ei Simulation (Japan) - TODO
+- Formula Karts - Special Edition (Europe) - TODO
+- Frank Thomas Big Hurt Baseball (Europe) - TODO
+- Frank Thomas Big Hurt Baseball (Japan) - TODO
+- Frank Thomas Big Hurt Baseball (USA) - TODO
+- Frankenstein - Through the Eyes of the Monster (Europe) - TODO
+- Free Talk Studio - Mari no Kimamana Oshaberi (Japan) - TODO
+- Friends - Seishun no Kagayaki (Japan) (Disc 1) (Game Disc) - TODO
+- Friends - Seishun no Kagayaki (Japan) (Disc 2) (Special Disc) - TODO
+- From TV Animation Slam Dunk - I Love Basketball (Japan) - TODO
+- Fully Cowled Mini Yonku - Super Factory (Japan) (Demo) - TODO
+- Fully Cowled Mini Yonku - Super Factory (Japan) (Rev A) (10M) - TODO
+- Fully Cowled Mini Yonku - Super Factory (Japan) (Rev A) (11M) - TODO
+- Funky Fantasy (Japan) - TODO
+- Funky Head Boxers (Japan) (Demo) - TODO
+- Funky Head Boxers (Japan) - TODO
+- Funky Head Boxers Plus (Japan) - TODO
+- Fushigi no Kuni no Angelique (Japan) - TODO
+- Fuusui Sensei - Feng-Shui Master (Japan) - TODO
 
 #### G
 
-- G Vector (J) - TODO
-- GT24 (J) - TODO
-- Gaia Breeder (J) - TODO
-- Gakkou no Kaidan (J) - TODO
-- Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (J) - TODO
-- Gal Jan (J) - TODO
-- Galactic Attack (E) - TODO
-- Galactic Attack (U) - TODO (Recorded)
-- Galaxy Fight (E) - TODO
-- Galaxy Fight (U) - TODO (Recorded)
-- Galaxy Fight - Universal Warriors (J) - TODO
-- Gale Racer (J) (1A) - TODO
-- Gals Panic SS (J) - TODO
-- Game Basic for SegaSaturn (J) - TODO
-- Game Nihonshi - Kakumeiji Oda Nobunaga (J) - TODO
-- Game Tengoku - The Game Paradise! (J) - TODO
-- Game de Seishun (J) (Rev A) - TODO
-- Game no Tatsujin (J) (4M) - TODO
-- Game no Tatsujin (J) (Rev A) - TODO
-- Game no Tatsujin 2 (J) - TODO
-- Game no Tetsujin - The Shanghai (J) - TODO
-- Game of Life, The - DX Jinsei Game (J) (Rev A) - TODO
-- Game of Life, The - DX Jinsei Game (J) (Rev B) - TODO
-- Game of Life, The - DX Jinsei Game (J) - TODO
-- Game of Life, The - DX Jinsei Game II (J) (2M) - TODO
-- Game-Ware (J) - TODO
-- Game-Ware Vol. 2 (J) - TODO
-- Game-Ware Vol. 3 (J) - TODO
-- Game-Ware Vol. 4 (J) (Disc A) - TODO
-- Game-Ware Vol. 4 (J) (Disc B) - TODO
-- Game-Ware Vol. 5 (J) (Disc A) - TODO
-- Game-Ware Vol. 5 (J) (Disc B) - TODO
-- [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (J)](./J/T-3102G/01/README.md)
-- GeGeGe no Kitarou - Gentou Kaikitan (J) - TODO
-- Gebockers (J) (Demo) - TODO
-- Gebockers (J) - TODO
-- Gekiretsu Pachinkers (J) - TODO
-- Gekirindan (J) - TODO (Recorded)
-- Gekitotsu Koushien (J) (Demo) - TODO
-- Gekitotsu Koushien (J) - TODO
-- Gekka Mugentan Torico (J) (Disc A) (Kyouchou-hen) (1M) - TODO
-- Gekka Mugentan Torico (J) (Disc A) (Kyouchou-hen) (2M) - TODO
-- Gekka Mugentan Torico (J) (Disc B) (Houkai-hen) (1M) - TODO
-- Gekka Mugentan Torico (J) (Disc B) (Houkai-hen) (2M) - TODO
-- Gekka no Kishi - Ouryuu-sen (J) - TODO
-- Gensou Suikoden (J) - TODO
-- Gex (E) - TODO
-- Gex (J) - TODO
-- [Gex (U)](./U/T-15904H/01/README.md)
-- Ghen War (E) - TODO
-- Ghen War (J) - TODO
-- Ghen War (U) - TODO
-- Ginga Eiyuu Densetsu (J) - TODO
-- Ginga Eiyuu Densetsu Plus (J) - TODO
-- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works (J) - TODO
-- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works 2 (J) - TODO
-- Ginga OjoUma Densetsu Yuna 3 - Lightning Angel (J) - TODO
-- Ginga OjoUma Densetsu Yuna Remix (J) - TODO
-- Girl Doll Toy - Tamashii o Kudasai (J) - TODO
-- Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (J) - TODO
-- Girls in Motion Puzzle Vol. 2 - Body Special 264 (J) (Demo) (2M) - TODO
-- Girls in Motion Puzzle Vol. 2 - Body Special 264 (J) - TODO
-- Go III Professional - Taikyoku Igo (J) - TODO
-- Godzilla - Rettou Shinkan (J) - TODO
-- Goiken Muyou - Anarchy in the Nippon (J) (Demo) - TODO
-- Goiken Muyou - Anarchy in the Nippon (J) - TODO
-- Gokujou Parodius Da! Deluxe Pack (J) (Rev A) - TODO
-- Gokujou Parodius Da! Deluxe Pack (J) - TODO (Check if recorded)
-- Golden Axe - The Duel (E) - TODO
-- Golden Axe - The Duel (J) (2M) - TODO
-- Golden Axe - The Duel (U) - TODO
-- Gotha - Ismailia SenEki (J) - TODO
-- Gotha II - Tenkuu no Kishi (J) - TODO
-- Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (J) (Demo) - TODO
-- [Groove on Fight: Gōketsuji Ichizoku 3 (J)](./J/T-14411G/01/README.md)
-- Gradius Deluxe Pack (J) - TODO (Check if recorded)
-- Gran Chaser (J) (3M) - TODO
-- GranDread (J) - TODO
-- Grand Slam (U) - TODO
-- [Grandia (J)](./J/T-4507G/01/README.md) - TODO (Check version)
-- Grandia (J) (Disc 1) (1M) - TODO
-- Grandia (J) (Disc 1) (2M) - TODO
-- Grandia (J) (Disc 1) (4M) - TODO
-- Grandia (J) (Disc 2) (1M, 2M) - TODO
-- Grandia (J) (Disc 2) (3M) - TODO
-- Grandia (J) (Disc 2) (4M) - TODO
-- Grandia - Digital Museum (J) (Rev A) (10M) - TODO
-- Grandia - Digital Museum (J) - TODO
-- Grandia - Prelude (J) - TODO
-- Greatest Nine '96 (J) (2M) - TODO
-- Greatest Nine '96 (J) (3M) - TODO
-- Greatest Nine '96 (J) (Rev A) (10M) - TODO
-- Gremlin Demo Disc (E) - TODO
-- Gremlin Demo Disk (E) - TODO
-- Grid Run (E) - TODO
-- Grid Runner (J) - TODO
-- Grid Runner (U) - TODO (Recorded)
-- Guardian Force (J) - TODO
-- Guardian Heroes (E) - TODO
-- Guardian Heroes (J) (3M) - TODO
-- Guardian Heroes (U) - TODO (Recorded)
-- [Gun Frontier Arcade Gears (J)](./J/T-26109G/01/README.md)
-- Gun Griffon (E) - TODO
-- GunBlaze-S (J) - TODO
-- Gunbird (J) - TODO (Recorded)
-- Gungriffon (U) - TODO
-- Gungriffon - The Eurasian Conflict (J) - TODO
-- Gungriffon II (J) (Demo) - TODO
-- Gungriffon II (J) - TODO
-- Gussun Oyoyo S (J) - TODO
-- Gyuwambler Jiko Chuushinha - Tokyo Mahjongland (J) - TODO
+- G Vector (Japan) - TODO
+- GT24 (Japan) - TODO
+- Gaia Breeder (Japan) - TODO
+- Gakkou no Kaidan (Japan) - TODO
+- Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) - TODO
+- Gal Jan (Japan) - TODO
+- Galactic Attack (Europe) - TODO
+- Galactic Attack (USA) - TODO (Recorded)
+- Galaxy Fight (Europe) - TODO
+- Galaxy Fight (USA) - TODO (Recorded)
+- Galaxy Fight - Universal Warriors (Japan) - TODO
+- Gale Racer (Japan) (1A) - TODO
+- Gals Panic SS (Japan) - TODO
+- Game Basic for SegaSaturn (Japan) - TODO
+- Game Nihonshi - Kakumeiji Oda Nobunaga (Japan) - TODO
+- Game Tengoku - The Game Paradise! (Japan) - TODO
+- Game de Seishun (Japan) (Rev A) - TODO
+- Game no Tatsujin (Japan) (4M) - TODO
+- Game no Tatsujin (Japan) (Rev A) - TODO
+- Game no Tatsujin 2 (Japan) - TODO
+- Game no Tetsujin - The Shanghai (Japan) - TODO
+- Game of Life, The - DX Jinsei Game (Japan) (Rev A) - TODO
+- Game of Life, The - DX Jinsei Game (Japan) (Rev B) - TODO
+- Game of Life, The - DX Jinsei Game (Japan) - TODO
+- Game of Life, The - DX Jinsei Game II (Japan) (2M) - TODO
+- Game-Ware (Japan) - TODO
+- Game-Ware Vol. 2 (Japan) - TODO
+- Game-Ware Vol. 3 (Japan) - TODO
+- Game-Ware Vol. 4 (Japan) (Disc A) - TODO
+- Game-Ware Vol. 4 (Japan) (Disc B) - TODO
+- Game-Ware Vol. 5 (Japan) (Disc A) - TODO
+- Game-Ware Vol. 5 (Japan) (Disc B) - TODO
+- [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (Japan)](./Regions/Japan/T-3102G/01/README.md)
+- GeGeGe no Kitarou - Gentou Kaikitan (Japan) - TODO
+- Gebockers (Japan) (Demo) - TODO
+- Gebockers (Japan) - TODO
+- Gekiretsu Pachinkers (Japan) - TODO
+- Gekirindan (Japan) - TODO (Recorded)
+- Gekitotsu Koushien (Japan) (Demo) - TODO
+- Gekitotsu Koushien (Japan) - TODO
+- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M) - TODO
+- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (2M) - TODO
+- Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (1M) - TODO
+- Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (2M) - TODO
+- Gekka no Kishi - Ouryuu-sen (Japan) - TODO
+- Gensou Suikoden (Japan) - TODO
+- Gex (Europe) - TODO
+- Gex (Japan) - TODO
+- [Gex (USA)](./Regions/USA/T-15904H/01/README.md)
+- Ghen War (Europe) - TODO
+- Ghen War (Japan) - TODO
+- Ghen War (USA) - TODO
+- Ginga Eiyuu Densetsu (Japan) - TODO
+- Ginga Eiyuu Densetsu Plus (Japan) - TODO
+- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works (Japan) - TODO
+- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works 2 (Japan) - TODO
+- Ginga OjoUma Densetsu Yuna 3 - Lightning Angel (Japan) - TODO
+- Ginga OjoUma Densetsu Yuna Remix (Japan) - TODO
+- Girl Doll Toy - Tamashii o Kudasai (Japan) - TODO
+- Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (Japan) - TODO
+- Girls in Motion Puzzle Vol. 2 - Body Special 264 (Japan) (Demo) (2M) - TODO
+- Girls in Motion Puzzle Vol. 2 - Body Special 264 (Japan) - TODO
+- Go III Professional - Taikyoku Igo (Japan) - TODO
+- Godzilla - Rettou Shinkan (Japan) - TODO
+- Goiken Muyou - Anarchy in the Nippon (Japan) (Demo) - TODO
+- Goiken Muyou - Anarchy in the Nippon (Japan) - TODO
+- Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - TODO
+- Gokujou Parodius Da! Deluxe Pack (Japan) - TODO (Check if recorded)
+- Golden Axe - The Duel (Europe) - TODO
+- Golden Axe - The Duel (Japan) (2M) - TODO
+- Golden Axe - The Duel (USA) - TODO
+- Gotha - Ismailia SenEki (Japan) - TODO
+- Gotha II - Tenkuu no Kishi (Japan) - TODO
+- Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (Japan) (Demo) - TODO
+- [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](./Regions/Japan/T-14411G/01/README.md)
+- Gradius Deluxe Pack (Japan) - TODO (Check if recorded)
+- Gran Chaser (Japan) (3M) - TODO
+- GranDread (Japan) - TODO
+- Grand Slam (USA) - TODO
+- [Grandia (Japan)](./Regions/Japan/T-4507G/01/README.md) - TODO (Check version)
+- Grandia (Japan) (Disc 1) (1M) - TODO
+- Grandia (Japan) (Disc 1) (2M) - TODO
+- Grandia (Japan) (Disc 1) (4M) - TODO
+- Grandia (Japan) (Disc 2) (1M, 2M) - TODO
+- Grandia (Japan) (Disc 2) (3M) - TODO
+- Grandia (Japan) (Disc 2) (4M) - TODO
+- Grandia - Digital Museum (Japan) (Rev A) (10M) - TODO
+- Grandia - Digital Museum (Japan) - TODO
+- Grandia - Prelude (Japan) - TODO
+- Greatest Nine '96 (Japan) (2M) - TODO
+- Greatest Nine '96 (Japan) (3M) - TODO
+- Greatest Nine '96 (Japan) (Rev A) (10M) - TODO
+- Gremlin Demo Disc (Europe) - TODO
+- Gremlin Demo Disk (Europe) - TODO
+- Grid Run (Europe) - TODO
+- Grid Runner (Japan) - TODO
+- Grid Runner (USA) - TODO (Recorded)
+- Guardian Force (Japan) - TODO
+- Guardian Heroes (Europe) - TODO
+- Guardian Heroes (Japan) (3M) - TODO
+- Guardian Heroes (USA) - TODO (Recorded)
+- [Gun Frontier Arcade Gears (Japan)](./Regions/Japan/T-26109G/01/README.md)
+- Gun Griffon (Europe) - TODO
+- GunBlaze-S (Japan) - TODO
+- Gunbird (Japan) - TODO (Recorded)
+- Gungriffon (USA) - TODO
+- Gungriffon - The Eurasian Conflict (Japan) - TODO
+- Gungriffon II (Japan) (Demo) - TODO
+- Gungriffon II (Japan) - TODO
+- Gussun Oyoyo S (Japan) - TODO
+- Gyuwambler Jiko Chuushinha - Tokyo Mahjongland (Japan) - TODO
 
 #### H
 
-- [Habitat II (J)](./J/GS-7105/01/README.md)
-- Hang On GP '95 (J) (1M) - TODO
-- Hang On GP '95 (J) (2M) - TODO
-- Hang On GP '95 (J) (Demo) (2M) - TODO
-- Hang On GP '96 (E) - TODO
-- [Hang-On GP (U)](./U/MK-81202/01/README.md)
-- Hansha de Spark! (J) (Demo) - TODO
-- [Hansha de Spark! (J)](./J/T-20902G/01/README.md)
-- [Hardcore 4x4 (E)](./E/T-12303H/01/README.md)
-- [Harukaze Sentai V-Force (J)](./J/T-19904G/01/README.md)
-- [HatTrick Hero S (J)](./J/T-1102G/01/README.md)
-- [Hatsukoi Monogatari (J)](./J/T-33004G/01/README.md)
-- [Haunted Casino (J)](./J/T-21902G/01/README.md)
-- [Heart of Darkness (J) (Proto)](./J/999999999/01/README.md)
-- [Heartbeat Scramble (J)](./J/T-15014G/01/README.md)
-- [Hebereke's Popoitto (E)](./E/T-1502H/01/README.md)
-- [Heim Waltz (J)](./J/GS-9121/01/README.md)
-- [Heir of Zendor - The Legend and The Land (U)](./U/T-7605H/01/README.md)
-- [Heisei Tensai Bakabon Susume! Bakabons (J)](./J/T-17001G/01/README.md)
-- [Heiwa Pachinko Soushingeki (J)](./J/T-18702G/01/README.md)
-- [Henry Explorers (J)](./J/T-9518G/01/README.md)
-- [Herc's Adventures (U)](./U/T-23001H/01/README.md)
-- Hexen (E) - TODO
-- [Hexen (U)](./U/T-25406H/01/README.md)
-- Hexen - Beyond Heretic (J) - TODO
-- Hi-Octane (E) - TODO
-- Hi-Octane (J) - TODO
-- [Hi-Octane - The Track Fights Back! (U)](./U/T-5002H/01/README.md)
-- [Hideo Nomo World Series Baseball (J)](./J/GS-9061/01/README.md)
-- [High Velocity - Mountain Racing Challenge (U)](./U/T-14402H/01/README.md)
-- [Highschool Terra Story (J)](./J/T-19715G/01/README.md)
-- Highway 2000 (E) - TODO
-- [Highway 2000 (U)](./U/T-31101H/01/README.md)
-- [Himitsu Sentai Metamor V (J)](./J/T-29005G/01/README.md)
-- [Hissatsu Pachinko Collection (J)](./J/T-1503G/01/README.md)
-- [Hissatsu! (J)](./J/T-23402G/01/README.md)
-- [Hokuto no Ken (J)](./J/T-20601G/01/README.md)
-- [Honkaku 4-nin Uchi Geinoujin Taikyoku Mahjong - The Wareme de Pon (J)](./J/T-3001G/01/README.md)
-- [Honkaku Hanafuda (J)](./J/T-16611G/01/README.md)
-- [Honkaku Pro Mahjong Tetsuman Special (J)](./J/T-18709G/01/README.md)
-- [Honkaku Shougi Shinan - Wakamatsu Shougi Juku (J)](./J/T-4402G/01/README.md)
-- [Hop Step Idol (J)](./J/T-20507G/01/README.md)
-- [Horror Tour (J)](./J/T-24301G/01/README.md)
-- [Houkago Ren'ai Club - Koi no Etude (J)](./J/T-19714G/01/README.md)
-- [Houma Hunter Lime Perfect Collection (J)](./J/T-2001G/01/README.md)
-- [Hudson Soft - New Soft Line Up for Sega Saturn (J)](./J/610-6540/01/README.md)
-- [Hyper 3-D Pinball (U)](./U/T-7015H/01/README.md)
-- Hyper 3D Pinball (J) - TODO
-- [Hyper Duel (J)](./J/T-1809G/01/README.md)
-- [Hyper Reverthion (J)](./J/T-1803G/01/README.md)
-- [Hyper Securities S (J)](./J/T-9105G/01/README.md)
+- [Habitat II (Japan)](./Regions/Japan/GS-7105/01/README.md)
+- Hang On GP '95 (Japan) (1M) - TODO
+- Hang On GP '95 (Japan) (2M) - TODO
+- Hang On GP '95 (Japan) (Demo) (2M) - TODO
+- Hang On GP '96 (Europe) - TODO
+- [Hang-On GP (USA)](./Regions/USA/MK-81202/01/README.md)
+- Hansha de Spark! (Japan) (Demo) - TODO
+- [Hansha de Spark! (Japan)](./Regions/Japan/T-20902G/01/README.md)
+- [Hardcore 4x4 (Europe)](./Regions/Europe/T-12303H/01/README.md)
+- [Harukaze Sentai V-Force (Japan)](./Regions/Japan/T-19904G/01/README.md)
+- [HatTrick Hero S (Japan)](./Regions/Japan/T-1102G/01/README.md)
+- [Hatsukoi Monogatari (Japan)](./Regions/Japan/T-33004G/01/README.md)
+- [Haunted Casino (Japan)](./Regions/Japan/T-21902G/01/README.md)
+- [Heart of Darkness (Japan) (Proto)](./Regions/Japan/999999999/01/README.md)
+- [Heartbeat Scramble (Japan)](./Regions/Japan/T-15014G/01/README.md)
+- [Hebereke's Popoitto (Europe)](./Regions/Europe/T-1502H/01/README.md)
+- [Heim Waltz (Japan)](./Regions/Japan/GS-9121/01/README.md)
+- [Heir of Zendor - The Legend and The Land (USA)](./Regions/USA/T-7605H/01/README.md)
+- [Heisei Tensai Bakabon Susume! Bakabons (Japan)](./Regions/Japan/T-17001G/01/README.md)
+- [Heiwa Pachinko Soushingeki (Japan)](./Regions/Japan/T-18702G/01/README.md)
+- [Henry Explorers (Japan)](./Regions/Japan/T-9518G/01/README.md)
+- [Herc's Adventures (USA)](./Regions/USA/T-23001H/01/README.md)
+- Hexen (Europe) - TODO
+- [Hexen (USA)](./Regions/USA/T-25406H/01/README.md)
+- Hexen - Beyond Heretic (Japan) - TODO
+- Hi-Octane (Europe) - TODO
+- Hi-Octane (Japan) - TODO
+- [Hi-Octane - The Track Fights Back! (USA)](./Regions/USA/T-5002H/01/README.md)
+- [Hideo Nomo World Series Baseball (Japan)](./Regions/Japan/GS-9061/01/README.md)
+- [High Velocity - Mountain Racing Challenge (USA)](./Regions/USA/T-14402H/01/README.md)
+- [Highschool Terra Story (Japan)](./Regions/Japan/T-19715G/01/README.md)
+- Highway 2000 (Europe) - TODO
+- [Highway 2000 (USA)](./Regions/USA/T-31101H/01/README.md)
+- [Himitsu Sentai Metamor V (Japan)](./Regions/Japan/T-29005G/01/README.md)
+- [Hissatsu Pachinko Collection (Japan)](./Regions/Japan/T-1503G/01/README.md)
+- [Hissatsu! (Japan)](./Regions/Japan/T-23402G/01/README.md)
+- [Hokuto no Ken (Japan)](./Regions/Japan/T-20601G/01/README.md)
+- [Honkaku 4-nin Uchi Geinoujin Taikyoku Mahjong - The Wareme de Pon (Japan)](./Regions/Japan/T-3001G/01/README.md)
+- [Honkaku Hanafuda (Japan)](./Regions/Japan/T-16611G/01/README.md)
+- [Honkaku Pro Mahjong Tetsuman Special (Japan)](./Regions/Japan/T-18709G/01/README.md)
+- [Honkaku Shougi Shinan - Wakamatsu Shougi Juku (Japan)](./Regions/Japan/T-4402G/01/README.md)
+- [Hop Step Idol (Japan)](./Regions/Japan/T-20507G/01/README.md)
+- [Horror Tour (Japan)](./Regions/Japan/T-24301G/01/README.md)
+- [Houkago Ren'ai Club - Koi no Etude (Japan)](./Regions/Japan/T-19714G/01/README.md)
+- [Houma Hunter Lime Perfect Collection (Japan)](./Regions/Japan/T-2001G/01/README.md)
+- [Hudson Soft - New Soft Line Up for Sega Saturn (Japan)](./Regions/Japan/610-6540/01/README.md)
+- [Hyper 3-D Pinball (USA)](./Regions/USA/T-7015H/01/README.md)
+- Hyper 3D Pinball (Japan) - TODO
+- [Hyper Duel (Japan)](./Regions/Japan/T-1809G/01/README.md)
+- [Hyper Reverthion (Japan)](./Regions/Japan/T-1803G/01/README.md)
+- [Hyper Securities S (Japan)](./Regions/Japan/T-9105G/01/README.md)
 
 #### I
 
-- [Ide Yousuke Meijin no Shin Jissen Mahjong (J) (2M)](./J/T-1208G/01/README.md)
-- [Idol Janshi Suchie-Pai II (J)](./J/T-5705G/01/README.md)
-- [Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (J)](./J/T-5716G/01/README.md)
-- [Idol Janshi Suchie-Pai Remix (J)](./J/T-5704G/01/README.md)
-- [Idol Janshi Suchie-Pai Secret Album (J)](./J/T-5717G/01/README.md)
-- [Idol Janshi Suchie-Pai Special (J)](./J/T-5701G/01/README.md)
-- [Idol Mahjong - Final Romance 2 (J)](./J/T-16702G/01/README.md)
-- [Idol Mahjong - Final Romance 4 (J)](./J/T-3003G/01/README.md)
-- Idol Mahjong - Final Romance R (J) (Kisekae Disc Kanzenban) - TODO (T-16705G ?)
-- Idol Mahjong - Final Romance R (J) (Kisekae Disc) - TODO (T-16705G ?)
-- [Idol Mahjong - Final Romance R (J)](./J/T-16703G/01/README.md)
-- Impact Racing (E) (Demo) - TODO
-- Impact Racing (E) - TODO
-- Impact Racing (J) - TODO
-- [Impact Racing (U)](./U/T-8139H/01/README.md)
-- In the Hunt (E) - TODO
-- In the Hunt (U) (Beta) - TODO
-- [In The Hunt (U)](./U/T-10001G/01/README.md)
-- [Independence Day (U)](./U/T-16104H/01/README.md)
-- Independence Day - The Game (E) - TODO
-- [International Victory Goal (E)](./E/MK-81105/01/README.md)
-- [Ippatsu Gyakuten - Gambling King e no Michi (J)](./J/T-29602G/01/README.md)
-- [Irem Arcade Classics (J)](./J/T-22403G/01/README.md)
-- Iron Man & X-O Manowar in Heavy Metal (E) - TODO
-- Iron Man & X-O Manowar in Heavy Metal (J) - TODO
-- [Iron Man & X-O Manowar in Heavy Metal (U)](./U/T-8119H/01/README.md)
-- [Iron Storm (U)](./U/T-12701H/01/README.md)
-- [Ishin no Arashi (J)](./J/T-7645G/01/README.md)
-- [Isto E Zico - Zico no Kangaeru Soccer (J)](./J/T-18802G/01/README.md)
+- [Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (2M)](./Regions/Japan/T-1208G/01/README.md)
+- [Idol Janshi Suchie-Pai II (Japan)](./Regions/Japan/T-5705G/01/README.md)
+- [Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (Japan)](./Regions/Japan/T-5716G/01/README.md)
+- [Idol Janshi Suchie-Pai Remix (Japan)](./Regions/Japan/T-5704G/01/README.md)
+- [Idol Janshi Suchie-Pai Secret Album (Japan)](./Regions/Japan/T-5717G/01/README.md)
+- [Idol Janshi Suchie-Pai Special (Japan)](./Regions/Japan/T-5701G/01/README.md)
+- [Idol Mahjong - Final Romance 2 (Japan)](./Regions/Japan/T-16702G/01/README.md)
+- [Idol Mahjong - Final Romance 4 (Japan)](./Regions/Japan/T-3003G/01/README.md)
+- Idol Mahjong - Final Romance R (Japan) (Kisekae Disc Kanzenban) - TODO (T-16705G ?)
+- Idol Mahjong - Final Romance R (Japan) (Kisekae Disc) - TODO (T-16705G ?)
+- [Idol Mahjong - Final Romance R (Japan)](./Regions/Japan/T-16703G/01/README.md)
+- Impact Racing (Europe) (Demo) - TODO
+- Impact Racing (Europe) - TODO
+- Impact Racing (Japan) - TODO
+- [Impact Racing (USA)](./Regions/USA/T-8139H/01/README.md)
+- In the Hunt (Europe) - TODO
+- In the Hunt (USA) (Beta) - TODO
+- [In The Hunt (USA)](./Regions/USA/T-10001G/01/README.md)
+- [Independence Day (USA)](./Regions/USA/T-16104H/01/README.md)
+- Independence Day - The Game (Europe) - TODO
+- [International Victory Goal (Europe)](./Regions/Europe/MK-81105/01/README.md)
+- [Ippatsu Gyakuten - Gambling King e no Michi (Japan)](./Regions/Japan/T-29602G/01/README.md)
+- [Irem Arcade Classics (Japan)](./Regions/Japan/T-22403G/01/README.md)
+- Iron Man & X-O Manowar in Heavy Metal (Europe) - TODO
+- Iron Man & X-O Manowar in Heavy Metal (Japan) - TODO
+- [Iron Man & X-O Manowar in Heavy Metal (USA)](./Regions/USA/T-8119H/01/README.md)
+- [Iron Storm (USA)](./Regions/USA/T-12701H/01/README.md)
+- [Ishin no Arashi (Japan)](./Regions/Japan/T-7645G/01/README.md)
+- [Isto E Zico - Zico no Kangaeru Soccer (Japan)](./Regions/Japan/T-18802G/01/README.md)
 
 #### J
 
-- [J. B. Harold - Blue Chicago Blues (J)](./J/T-5302G/01/README.md)
-- [J.League Go Go Goal! (J)](./J/T-3602G/README.md)
-- [J.League Jikkyou Honoo no Striker (J)](./J/T-9528G/01/README.md)
-- [J.League Pro Soccer Club o Tsukurou! (J)](./J/GS-9034/01/README.md)
-- [J.League Pro Soccer Club o Tsukurou! 2 (J) (1M)](./J/GS-9168/01/README.md)
-- J.League Pro Soccer Club o Tsukurou! 2 (J) (2M) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (J) (3M) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (J) (4M) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (J) (Rev C) (32M) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (J) (Rev D) (41M) - TODO
-- [J.League Victory Goal '96 (J)](./J/GS-9048/01/README.md)
-- [J.League Victory Goal '97 (J)](./J/GS-9140/01/README.md)
-- Jantei Battle Cos-Player (J) (Demo) - TODO
-- [Jantei Battle Cos-Player (J))](./J/T-34601G/01/README.md)
-- [Jantei Battle Cos-Player - Original Genga-shuu (J)](./J/T-3466106553/01/README.md)
-- [J Super Bass Classic '96](./J/T-18707G/01/README.md)
-- Jewels of the Oracle (E) - TODO
-- Jewels of the Oracle (U) (Proto 1) - TODO
-- Jewels of the Oracle (U) (Proto 2) - TODO
-- [Jikkyou Oshaberi Parodius - Forever with Me (J)](./J/T-9513G/01/README.md)
-- [Jikkyou Powerful Pro Yakyuu '95 Kaimaku-ban (J) (2M)](./J/T-9502G/01/README.md)
-- [Jikkyou Powerful Pro Yakyuu S (J)](./J/T-9523G/01/README.md)
-- [Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (J)](./J/T-2103G/01/README.md)
-- [Jissen Mahjong (J)](./J/T-15002G/01/README.md)
-- [Jissen Pachinko Hisshou-hou! Twin (J)](./J/T-2407G/01/README.md)
-- [Jissen! Pachi-Slot Hisshou-hou! 3 (J)](./J/T-2401G/01/README.md)
-- [Jissen! Pachi-Slot Hisshou-hou! 4 (J)](./J/T-2406G/01/README.md)
-- [Jissen! Pachi-Slot Hisshou-hou! Iron Hook - The Great Marine Adventures (J)](./J/T-2404G/01/README.md)
-- Johnny Bazooka (J) - TODO
-- Johnny Bazookatone (E) - TODO
-- [Johnny Bazookatone (U)](./U/T-7909H/01/README.md)
-- [Jonah Lomu Rugby (E)](./E/T-12003H50/01/README.md)
-- Jonah Lomu Rugby (F) - TODO
-- [Joshikousei no Houkago... Pukunpa (J)](./J/T-16802G/01/README.md)
-- [Junclassic C.C. & Rope Club (J) (2M)](./J/T-11403G/01/README.md)
-- [Jung Rhythm (J)](./J/T-16607G/01/README.md)
-- [Jungle Park - Saturn Shima (J) (Rev A)](./J/T-18008G/01/README.md)
+- [J. B. Harold - Blue Chicago Blues (Japan)](./Regions/Japan/T-5302G/01/README.md)
+- [J.League Go Go Goal! (Japan)](./Regions/Japan/T-3602G/README.md)
+- [J.League Jikkyou Honoo no Striker (Japan)](./Regions/Japan/T-9528G/01/README.md)
+- [J.League Pro Soccer Club o Tsukurou! (Japan)](./Regions/Japan/GS-9034/01/README.md)
+- [J.League Pro Soccer Club o Tsukurou! 2 (Japan) (1M)](./Regions/Japan/GS-9168/01/README.md)
+- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (2M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (3M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (4M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev C) (32M) - TODO
+- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev D) (41M) - TODO
+- [J.League Victory Goal '96 (Japan)](./Regions/Japan/GS-9048/01/README.md)
+- [J.League Victory Goal '97 (Japan)](./Regions/Japan/GS-9140/01/README.md)
+- Jantei Battle Cos-Player (Japan) (Demo) - TODO
+- [Jantei Battle Cos-Player (Japan))](./Regions/Japan/T-34601G/01/README.md)
+- [Jantei Battle Cos-Player - Original Genga-shuu (Japan)](./Regions/Japan/T-3466106553/01/README.md)
+- [J Super Bass Classic '96](./Regions/Japan/T-18707G/01/README.md)
+- Jewels of the Oracle (Europe) - TODO
+- Jewels of the Oracle (USA) (Proto 1) - TODO
+- Jewels of the Oracle (USA) (Proto 2) - TODO
+- [Jikkyou Oshaberi Parodius - Forever with Me (Japan)](./Regions/Japan/T-9513G/01/README.md)
+- [Jikkyou Powerful Pro Yakyuu '95 Kaimaku-ban (Japan) (2M)](./Regions/Japan/T-9502G/01/README.md)
+- [Jikkyou Powerful Pro Yakyuu S (Japan)](./Regions/Japan/T-9523G/01/README.md)
+- [Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (Japan)](./Regions/Japan/T-2103G/01/README.md)
+- [Jissen Mahjong (Japan)](./Regions/Japan/T-15002G/01/README.md)
+- [Jissen Pachinko Hisshou-hou! Twin (Japan)](./Regions/Japan/T-2407G/01/README.md)
+- [Jissen! Pachi-Slot Hisshou-hou! 3 (Japan)](./Regions/Japan/T-2401G/01/README.md)
+- [Jissen! Pachi-Slot Hisshou-hou! 4 (Japan)](./Regions/Japan/T-2406G/01/README.md)
+- [Jissen! Pachi-Slot Hisshou-hou! Iron Hook - The Great Marine Adventures (Japan)](./Regions/Japan/T-2404G/01/README.md)
+- Johnny Bazooka (Japan) - TODO
+- Johnny Bazookatone (Europe) - TODO
+- [Johnny Bazookatone (USA)](./Regions/USA/T-7909H/01/README.md)
+- [Jonah Lomu Rugby (Europe)](./Regions/Europe/T-12003H50/01/README.md)
+- Jonah Lomu Rugby (France) - TODO
+- [Joshikousei no Houkago... Pukunpa (Japan)](./Regions/Japan/T-16802G/01/README.md)
+- [Junclassic C.C. & Rope Club (Japan) (2M)](./Regions/Japan/T-11403G/01/README.md)
+- [Jung Rhythm (Japan)](./Regions/Japan/T-16607G/01/README.md)
+- [Jungle Park - Saturn Shima (Japan) (Rev A)](./Regions/Japan/T-18008G/01/README.md)
 
 #### K
 
-- K-1 Grand Prix - Fighting Illusion Shou (J) - TODO
-- Kaitei Daisensou (J) - TODO
-- Kaitou Saint Tail (J) - TODO
-- Kakinoki Shougi (J) - TODO
-- Kakyuusei (J) (Disc 1) - TODO
-- Kakyuusei (J) (Disc 2) (2M) - TODO
-- Kakyuusei (J) (Disc 3) (2M) - TODO
-- Kamen Rider - Sakusen File 1 (J) - TODO (Recorded)
-- Kanazawa Shougi (J) (1M) - TODO
-- Kanazawa Shougi (J) (2M) - TODO
-- Kanzen Chuukei Pro Yakyuu Greatest Nine (J) (Demo) - TODO
-- Kanzen Chuukei Pro Yakyuu Greatest Nine (J) (Rev A) - TODO
-- Kanzen Chuukei Pro Yakyuu Greatest Nine (J) (Rev B) - TODO
-- Keio Flying Squadron 2 (E) - TODO
-- Keiou Yuugekitai - Katsugeki-hen (J) - TODO
-- Keiou Yuugekitai - Okiraku Tamatebako (J) - TODO
-- Kekkon - Marriage (J) - TODO
-- Kekkon - Marriage - Zen'ya (J) - TODO
-- Keriotosse! (J) (Demo) - TODO
-- Keriotosse! (J) - TODO
-- Kidou Senkan Nadesico - The Blank of 3 Years (J) (Disc 1) - TODO
-- Kidou Senkan Nadesico - The Blank of 3 Years (J) (Disc 2) - TODO
-- Kidou Senkan Nadesico - Yappari Saigo wa Ai ga Katsu (J) - TODO
-- Kidou Senshi Gundam - Gihren no Yabou (J) - TODO
-- Kidou Senshi Gundam - Gihren no Yabou - Kouryaku Shireisho (J) - TODO
-- Kidou Senshi Z Gundam - Kouhen Uchuu o Kakeru (J) - TODO
-- Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (J) - TODO
-- Kindaichi Shounen no Jikenbo - Hoshimitou Kanashimi no Fukushuuki (J) - TODO
-- King of Boxing, The (J) - TODO
-- Kiss yori... (J) (Rev A) - TODO
-- Kiss yori... (J) - TODO
-- Kisuishou Densetsu Astal (J) (1M, 4M) - TODO
-- Kisuishou Densetsu Astal (J) (3A) - TODO
-- Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (J) (Satakore) - TODO
-- Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (J) - TODO
-- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (J) (Disc 1) (Joukan) - TODO
-- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (J) (Disc 2) (Gekan) - TODO
-- Koi no Summer Fantasy - in Miyazaki Seagaia (J) - TODO
-- Konami Antiques - MSX Collection Ultra Pack (J) (2M) - TODO
-- [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc A](./J/T-28004G/01/README.md)
-- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc B) - TODO
-- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (J) (Disc C) - TODO
-- [Koudou Saisoku Densetsu - Initial D (J)](./J/T-25503G/01/README.md)
-- Kouryuu Sangoku Engi (J) - TODO
-- Koutetsu Reiiki - Steeldom (J) (2M) - TODO
-- Krazy Ivan (E) - TODO
-- Krazy Ivan (G) - TODO
-- Krazy Ivan (J) - TODO
-- Kumitate Battle Kuttu Ketto (J) - TODO
-- Kunoichi Torimonochou (J) - TODO
-- Kuro no Danshou - The Literary Fragment (J) (2M) - TODO
-- Kuro no Danshou - The Literary Fragment (J) (3M) - TODO
-- Kurubushi Kyoudai Gekijou Dai-ikkan - Mahjong-hen (J) (2M) - TODO
-- Kururin Pa! (J) - TODO
-- Kuusou Kagaku Sekai Gulliver Boy (J) (Disc 1) - TODO
-- Kuusou Kagaku Sekai Gulliver Boy (J) (Disc 2) - TODO
-- Kyuukyoku Tiger II Plus (J) - TODO
-- Kyuutenkai (J) - TODO
+- K-1 Grand Prix - Fighting Illusion Shou (Japan) - TODO
+- Kaitei Daisensou (Japan) - TODO
+- Kaitou Saint Tail (Japan) - TODO
+- Kakinoki Shougi (Japan) - TODO
+- Kakyuusei (Japan) (Disc 1) - TODO
+- Kakyuusei (Japan) (Disc 2) (2M) - TODO
+- Kakyuusei (Japan) (Disc 3) (2M) - TODO
+- Kamen Rider - Sakusen File 1 (Japan) - TODO (Recorded)
+- Kanazawa Shougi (Japan) (1M) - TODO
+- Kanazawa Shougi (Japan) (2M) - TODO
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Demo) - TODO
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Rev A) - TODO
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Rev B) - TODO
+- Keio Flying Squadron 2 (Europe) - TODO
+- Keiou Yuugekitai - Katsugeki-hen (Japan) - TODO
+- Keiou Yuugekitai - Okiraku Tamatebako (Japan) - TODO
+- Kekkon - Marriage (Japan) - TODO
+- Kekkon - Marriage - Zen'ya (Japan) - TODO
+- Keriotosse! (Japan) (Demo) - TODO
+- Keriotosse! (Japan) - TODO
+- Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 1) - TODO
+- Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 2) - TODO
+- Kidou Senkan Nadesico - Yappari Saigo wa Ai ga Katsu (Japan) - TODO
+- Kidou Senshi Gundam - Gihren no Yabou (Japan) - TODO
+- Kidou Senshi Gundam - Gihren no Yabou - Kouryaku Shireisho (Japan) - TODO
+- Kidou Senshi Z Gundam - Kouhen Uchuu o Kakeru (Japan) - TODO
+- Kidou Senshi Z Gundam - Zenpen Zeta no Kodou (Japan) - TODO
+- Kindaichi Shounen no Jikenbo - Hoshimitou Kanashimi no Fukushuuki (Japan) - TODO
+- King of Boxing, The (Japan) - TODO
+- Kiss yori... (Japan) (Rev A) - TODO
+- Kiss yori... (Japan) - TODO
+- Kisuishou Densetsu Astal (Japan) (1M, 4M) - TODO
+- Kisuishou Densetsu Astal (Japan) (3A) - TODO
+- Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (Japan) (Satakore) - TODO
+- Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (Japan) - TODO
+- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 1) (Joukan) - TODO
+- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 2) (Gekan) - TODO
+- Koi no Summer Fantasy - in Miyazaki Seagaia (Japan) - TODO
+- Konami Antiques - MSX Collection Ultra Pack (Japan) (2M) - TODO
+- [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc A](./Regions/Japan/T-28004G/01/README.md)
+- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc B) - TODO
+- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc C) - TODO
+- [Koudou Saisoku Densetsu - Initial D (Japan)](./Regions/Japan/T-25503G/01/README.md)
+- Kouryuu Sangoku Engi (Japan) - TODO
+- Koutetsu Reiiki - Steeldom (Japan) (2M) - TODO
+- Krazy Ivan (Europe) - TODO
+- Krazy Ivan (Germany) - TODO
+- Krazy Ivan (Japan) - TODO
+- Kumitate Battle Kuttu Ketto (Japan) - TODO
+- Kunoichi Torimonochou (Japan) - TODO
+- Kuro no Danshou - The Literary Fragment (Japan) (2M) - TODO
+- Kuro no Danshou - The Literary Fragment (Japan) (3M) - TODO
+- Kurubushi Kyoudai Gekijou Dai-ikkan - Mahjong-hen (Japan) (2M) - TODO
+- Kururin Pa! (Japan) - TODO
+- Kuusou Kagaku Sekai Gulliver Boy (Japan) (Disc 1) - TODO
+- Kuusou Kagaku Sekai Gulliver Boy (Japan) (Disc 2) - TODO
+- Kyuukyoku Tiger II Plus (Japan) - TODO
+- Kyuutenkai (Japan) - TODO
 
 #### L
 
-- [Langrisser - Dramatic Edition (J) (1M)](./J/T-2507G/01/README.md)
-- Langrisser - Dramatic Edition (J) (2M) - TODO
-- [Langrisser III (J) (1M)](./J/T-2502G/01/README.md)
-- Langrisser III (J) (3M) - TODO
-- Langrisser III (J) (Rev A) (5M) - TODO
-- Langrisser III (J) (Rev A) (7M) - TODO
-- [Langrisser IV (J) (1M, 3M)](./J/T-2505G/01/README.md)
-- [Langrisser V - The End of Legend (J) (1M)](./J/T-2509G/01/README.md)
-- Langrisser V - The End of Legend (J) (3M) - TODO
-- Last Bronx (E) - TODO
-- Last Bronx (J) (Disc 1) (Arcade Disc) - TODO
-- Last Bronx (J) (Disc 2) (Special Disc) - TODO
-- [Last Bronx (U)](./U/MK-81078/01/README.md)
-- [Last Gladiators - Digital Pinball (U) (3S)](./U/T-4804H/01/README.md)
-- Last Gladiators - Digital Pinball (U) (4S) - TODO
-- [Layer Section (J) (3M)](./J/T-1101G/01/README.md)
-- Layer Section (J) (6M) - TODO
-- Layer Section (J) (Rev A) (11M) - TODO
-- Layer Section II (J) (Demo) - TODO
-- [Layer Section II (J)](./J/T-26409G/01/README.md)
-- [Legend of Heroes I & II, The - Eiyuu Densetsu (J)](./J/T-37101G/01/README.md)
-- [Legend of K-1 - Grand Prix '96 (J)](./J/T-7503G/01/README.md)
-- [Legend of K-1 - The Best Collection (J)](./J/T-7501G/01/README.md)
+- [Langrisser - Dramatic Edition (Japan) (1M)](./Regions/Japan/T-2507G/01/README.md)
+- Langrisser - Dramatic Edition (Japan) (2M) - TODO
+- [Langrisser III (Japan) (1M)](./Regions/Japan/T-2502G/01/README.md)
+- Langrisser III (Japan) (3M) - TODO
+- Langrisser III (Japan) (Rev A) (5M) - TODO
+- Langrisser III (Japan) (Rev A) (7M) - TODO
+- [Langrisser IV (Japan) (1M, 3M)](./Regions/Japan/T-2505G/01/README.md)
+- [Langrisser V - The End of Legend (Japan) (1M)](./Regions/Japan/T-2509G/01/README.md)
+- Langrisser V - The End of Legend (Japan) (3M) - TODO
+- Last Bronx (Europe) - TODO
+- Last Bronx (Japan) (Disc 1) (Arcade Disc) - TODO
+- Last Bronx (Japan) (Disc 2) (Special Disc) - TODO
+- [Last Bronx (USA)](./Regions/USA/MK-81078/01/README.md)
+- [Last Gladiators - Digital Pinball (USA) (3S)](./Regions/USA/T-4804H/01/README.md)
+- Last Gladiators - Digital Pinball (USA) (4S) - TODO
+- [Layer Section (Japan) (3M)](./Regions/Japan/T-1101G/01/README.md)
+- Layer Section (Japan) (6M) - TODO
+- Layer Section (Japan) (Rev A) (11M) - TODO
+- Layer Section II (Japan) (Demo) - TODO
+- [Layer Section II (Japan)](./Regions/Japan/T-26409G/01/README.md)
+- [Legend of Heroes I & II, The - Eiyuu Densetsu (Japan)](./Regions/Japan/T-37101G/01/README.md)
+- [Legend of K-1 - Grand Prix '96 (Japan)](./Regions/Japan/T-7503G/01/README.md)
+- [Legend of K-1 - The Best Collection (Japan)](./Regions/Japan/T-7501G/01/README.md)
 
-- [LifeScape - Seimei 40 Okunen Haruka na Tabi (J) (Disc 1) (Aquasphere) (4M)](./J/T-26405G/01/README.md)
-- LifeScape - Seimei 40 Okunen Haruka na Tabi (J) (Disc 2) (Landsphere) (3M) - TODO
-- [LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai (J)](./J/T-26411G/01/README.md)
-- [Linda³ Kanzenban (J)](./J/T-2112G/01/README.md)
-- [Linkle Liver Story (J)](./J/GS-9055/01/README.md)
-- Loaded (E) (En,Fr,De) (Alt) - TODO
-- Loaded (E) (En,Fr,De) - TODO
-- [Loaded (U)](./U/T-12519H/01/README.md)
-- [Lode Runner - The Legend Returns (J)](./J/T-25101G/01/README.md)
-- [Lode Runner Extra (J)](./J/T-25103G/01/README.md)
-- [Logic Puzzle Rainbow Town (J)](./J/T-4303G/01/README.md)
-- [Lovely Pop 2 in 1 - Jan Jan Koi Shimasho (J)](./J/T-5801G/01/README.md)
-- [LuLu - Un Conte Interactif de Romain Victor-Pujebet (J)](./J/GS-9118/01/README.md)
-- [Lunacy (U) (Disc 1)](./U/T-14403H/01/README.md)
-- Lunacy (U) (Disc 2) - TODO
-- Lunar - Silver Star Story (J) (Demo) - TODO
-- Lunar - Silver Star Story (J) (Rev A) - TODO
-- [Lunar - Silver Star Story (J)](./J/T-27901G/01/README.md)
-- [Lunar - Silver Star Story Complete (J)](./J/T-27904G/01/README.md)
-- [Lunar 2 - Eternal Blue (J) (Disc 1)](./J/T-27906G/01/README.md)
-- Lunar 2 - Eternal Blue (J) (Disc 2) - TODO
-- [Lupin Sansei - Pyramid no Kenja (J)](./J/T-2004G/01/README.md)
-- [Lupin the 3rd - The Master File (J)](./J/T-18801G/01/README.md)
-- [Lupin the 3rd Chronicles (J) (Disc 1)](./J/T-18804G/01/README.md)
-- Lupin the 3rd Chronicles (J) (Disc 2) - TODO
+- [LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere) (4M)](./Regions/Japan/T-26405G/01/README.md)
+- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere) (3M) - TODO
+- [LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai (Japan)](./Regions/Japan/T-26411G/01/README.md)
+- [Linda³ Kanzenban (Japan)](./Regions/Japan/T-2112G/01/README.md)
+- [Linkle Liver Story (Japan)](./Regions/Japan/GS-9055/01/README.md)
+- Loaded (Europe) (En,Fr,De) (Alt) - TODO
+- Loaded (Europe) (En,Fr,De) - TODO
+- [Loaded (USA)](./Regions/USA/T-12519H/01/README.md)
+- [Lode Runner - The Legend Returns (Japan)](./Regions/Japan/T-25101G/01/README.md)
+- [Lode Runner Extra (Japan)](./Regions/Japan/T-25103G/01/README.md)
+- [Logic Puzzle Rainbow Town (Japan)](./Regions/Japan/T-4303G/01/README.md)
+- [Lovely Pop 2 in 1 - Jan Jan Koi Shimasho (Japan)](./Regions/Japan/T-5801G/01/README.md)
+- [LuLu - Un Conte Interactif de Romain Victor-Pujebet (Japan)](./Regions/Japan/GS-9118/01/README.md)
+- [Lunacy (USA) (Disc 1)](./Regions/USA/T-14403H/01/README.md)
+- Lunacy (USA) (Disc 2) - TODO
+- Lunar - Silver Star Story (Japan) (Demo) - TODO
+- Lunar - Silver Star Story (Japan) (Rev A) - TODO
+- [Lunar - Silver Star Story (Japan)](./Regions/Japan/T-27901G/01/README.md)
+- [Lunar - Silver Star Story Complete (Japan)](./Regions/Japan/T-27904G/01/README.md)
+- [Lunar 2 - Eternal Blue (Japan) (Disc 1)](./Regions/Japan/T-27906G/01/README.md)
+- Lunar 2 - Eternal Blue (Japan) (Disc 2) - TODO
+- [Lupin Sansei - Pyramid no Kenja (Japan)](./Regions/Japan/T-2004G/01/README.md)
+- [Lupin the 3rd - The Master File (Japan)](./Regions/Japan/T-18801G/01/README.md)
+- [Lupin the 3rd Chronicles (Japan) (Disc 1)](./Regions/Japan/T-18804G/01/README.md)
+- Lupin the 3rd Chronicles (Japan) (Disc 2) - TODO
 
 #### M
 
-- Maboroshi no Black Bass (J) - TODO
-- Machi (J) (Demo) (1M) - TODO
-- Machi (J) (Demo) (2M) - TODO
-- Machi (J) (Demo) (4M) - TODO
-- [Machine Head (U)](./U/T-7914H/01/README.md)
-- Madden NFL 97 (E) - TODO
-- Madden NFL 97 (U) - TODO
-- Madden NFL 98 (E) - TODO
-- Madden NFL 98 (U) - TODO
-- Madou Monogatari (J) - TODO
-- Magic Carpet (E) - TODO
-- Magic Carpet (J) - TODO
-- Magic Carpet (U) - TODO
-- Magic Knight Rayearth (J) (4M) - TODO
-- Magic Knight Rayearth (J) (Genteiban) (1M) - TODO
-- Magic Knight Rayearth (J) (Genteiban) (2M, 3M) - TODO
-- Magic Knight Rayearth (U) - TODO
-- Magical Drop (J) (Demo) - TODO
-- Magical Drop (J) - TODO
-- Magical Drop 2 (J) - TODO
-- Magical Drop III - Toretate Zoukan-gou! (J) (2M) - TODO
-- Magical Drop III - Toretate Zoukan-gou! (J) (Demo) (1M) - TODO
-- Magical Drop III - Toretate Zoukan-gou! (J) (Demo) (2M) - TODO
-- Magical Hoppers (J) - TODO
-- Magical Night Dreams - Cotton 2 (J) - TODO
-- Magical Night Dreams - Cotton Boomerang (J) - TODO
-- Mahjong Doukyuusei Special (J) (Disc 1) (Shokai Genteiban) - TODO
-- Mahjong Doukyuusei Special (J) (Disc 2) (Portrait CD) (Shokai Genteiban) - TODO
-- Mahjong Doukyuusei Special (J) - TODO
-- Mahjong Gakuensai (J) (Disc 1) (Shokai Genteiban) - TODO
-- Mahjong Gakuensai (J) (Disc 2) (Seiyuu Interview Hi CD) (Shokai Genteiban) - TODO
-- Mahjong Gakuensai (J) - TODO
-- Mahjong Gakuensai DX - Zenjitsu ni Matsuwaru Funsenki (J) - TODO
-- Mahjong Ganryuujima (J) (4M) - TODO
-- Mahjong Gokuu Tenjiku (J) - TODO
-- Mahjong Hyper Reaction R (J) - TODO
-- Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (J) (2M) - TODO
-- Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (J) (Demo) - TODO
-- Mahjong Taikai II Special (J) (2M) - TODO
-- Mahjong Taikai II Special (J) (Rev A) (10M) - TODO
-- Mahjong Tenshi - Angel Lips (J) - TODO
-- Mahjong Yon Shimai - WakakU Monogatari (J) - TODO
-- Mahjong-kyou Jidai Cebu Island '96 (J) (Disc 1) - TODO
-- Mahjong-kyou Jidai Cebu Island '96 (J) (Disc 2) (Omake Disk) - TODO
-- Mahjong-kyou Jidai Cogal Houkago-hen (J) - TODO
-- Mahou Gakuen Lunar! (J) (1M) - TODO
-- Mahou Gakuen Lunar! (J) (2M) - TODO
-- Mahou Shoujo Pretty Samy - Heart no Kimochi (J) - TODO
-- Mahou Shoujo Pretty Samy - Osorubeshi Shintai Sokutei! Kakubakuhatsu 5-Byou-mae!! (J) - TODO
-- Mahou no Janshi - Poe Poe Poemy (J) (2M) - TODO
-- Mahoutsukai ni Naru Houhou (J) - TODO
-- Mainichi Kawaru Quiz Bangumi - Quiz 365 (J) - TODO
+- Maboroshi no Black Bass (Japan) - TODO
+- Machi (Japan) (Demo) (1M) - TODO
+- Machi (Japan) (Demo) (2M) - TODO
+- Machi (Japan) (Demo) (4M) - TODO
+- [Machine Head (USA)](./Regions/USA/T-7914H/01/README.md)
+- Madden NFL 97 (Europe) - TODO
+- Madden NFL 97 (USA) - TODO
+- Madden NFL 98 (Europe) - TODO
+- Madden NFL 98 (USA) - TODO
+- Madou Monogatari (Japan) - TODO
+- Magic Carpet (Europe) - TODO
+- Magic Carpet (Japan) - TODO
+- Magic Carpet (USA) - TODO
+- Magic Knight Rayearth (Japan) (4M) - TODO
+- Magic Knight Rayearth (Japan) (Genteiban) (1M) - TODO
+- Magic Knight Rayearth (Japan) (Genteiban) (2M, 3M) - TODO
+- Magic Knight Rayearth (USA) - TODO
+- Magical Drop (Japan) (Demo) - TODO
+- Magical Drop (Japan) - TODO
+- Magical Drop 2 (Japan) - TODO
+- Magical Drop III - Toretate Zoukan-gou! (Japan) (2M) - TODO
+- Magical Drop III - Toretate Zoukan-gou! (Japan) (Demo) (1M) - TODO
+- Magical Drop III - Toretate Zoukan-gou! (Japan) (Demo) (2M) - TODO
+- Magical Hoppers (Japan) - TODO
+- Magical Night Dreams - Cotton 2 (Japan) - TODO
+- Magical Night Dreams - Cotton Boomerang (Japan) - TODO
+- Mahjong Doukyuusei Special (Japan) (Disc 1) (Shokai Genteiban) - TODO
+- Mahjong Doukyuusei Special (Japan) (Disc 2) (Portrait CD) (Shokai Genteiban) - TODO
+- Mahjong Doukyuusei Special (Japan) - TODO
+- Mahjong Gakuensai (Japan) (Disc 1) (Shokai Genteiban) - TODO
+- Mahjong Gakuensai (Japan) (Disc 2) (Seiyuu Interview Hi CD) (Shokai Genteiban) - TODO
+- Mahjong Gakuensai (Japan) - TODO
+- Mahjong Gakuensai DX - Zenjitsu ni Matsuwaru Funsenki (Japan) - TODO
+- Mahjong Ganryuujima (Japan) (4M) - TODO
+- Mahjong Gokuu Tenjiku (Japan) - TODO
+- Mahjong Hyper Reaction R (Japan) - TODO
+- Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (Japan) (2M) - TODO
+- Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (Japan) (Demo) - TODO
+- Mahjong Taikai II Special (Japan) (2M) - TODO
+- Mahjong Taikai II Special (Japan) (Rev A) (10M) - TODO
+- Mahjong Tenshi - Angel Lips (Japan) - TODO
+- Mahjong Yon Shimai - WakakU Monogatari (Japan) - TODO
+- Mahjong-kyou Jidai Cebu Island '96 (Japan) (Disc 1) - TODO
+- Mahjong-kyou Jidai Cebu Island '96 (Japan) (Disc 2) (Omake Disk) - TODO
+- Mahjong-kyou Jidai Cogal Houkago-hen (Japan) - TODO
+- Mahou Gakuen Lunar! (Japan) (1M) - TODO
+- Mahou Gakuen Lunar! (Japan) (2M) - TODO
+- Mahou Shoujo Pretty Samy - Heart no Kimochi (Japan) - TODO
+- Mahou Shoujo Pretty Samy - Osorubeshi Shintai Sokutei! Kakubakuhatsu 5-Byou-mae!! (Japan) - TODO
+- Mahou no Janshi - Poe Poe Poemy (Japan) (2M) - TODO
+- Mahoutsukai ni Naru Houhou (Japan) - TODO
+- Mainichi Kawaru Quiz Bangumi - Quiz 365 (Japan) - TODO
 - Manoir des Ames Perdues, Le (France) - TODO
 - Mansion de las Almas Ocultas, La (Spain) - TODO
-- Mansion of Hidden Souls, The (E) (1S) - TODO
-- Mansion of Hidden Souls, The (E) (4S) - TODO
-- Mansion of Hidden Souls, The (U) - TODO
-- Manx TT SuperBike (E) - TODO
-- Manx TT SuperBike (J) - TODO
-- Manx TT SuperBike (U) - TODO
-- Maria - Kimi-tachi ga Umareta Wake (J) (Demo) - TODO
-- Maria - Kimi-tachi ga Umareta Wake (J) (Disc 1) - TODO
-- Maria - Kimi-tachi ga Umareta Wake (J) (Disc 2) - TODO
-- Marica - Shinjitsu no Sekai (J) - TODO
-- Marie no Atelier Ver. 1.3 - Salburg no Renkinjutsushi (J) - TODO
-- Mario Mushano no Chou Shougi Juku - Mario Mushano's Hyper Shogi School (J) - TODO
-- Marvel Super Heroes (E) - TODO
-- Marvel Super Heroes (J) (Demo) - TODO
-- [Marvel Super Heroes (J)](./J/T-1215G/01/README.md)
-- Marvel Super Heroes (U) - TODO
-- [Marvel Super Heroes vs. Street Fighter (J)](./J/T-1238G/01/README.md)
-- Mass Destruction (E) - TODO
-- Mass Destruction (U) - TODO
-- Mass Destruction - OtoUn ni mo Dekiru Soft (J) - TODO
-- Master of Monsters - Neo Generations (J) - TODO
-- Masters - Harukanaru Augusta 3 (J) (2M) - TODO
-- Matsukata Hiroki no World Fishing (J) - TODO
-- Maximum Force (E) - TODO
-- Maximum Force (U) - TODO
-- MechWarrior 2 (J) - TODO
-- MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (E) - TODO
-- MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (U) - TODO
-- Mechanical Violator Hakaider - Last Judgement (J) - TODO
-- MediaROMancer - DA - Daisuke Asakura (J) - TODO
-- [Mega Man 8 (U)](./U/T-1216H/01/README.md)
-- Mega Man X3 (E) - TODO
-- [Mega Man X4 (U)](./U/T-1219H/01/README.md)
-- MeltyLancer - Ginga Shoujo Keisatsu 2086 (J) - TODO
-- MeltyLancer - Re-inforce (J) (Demo) - TODO
-- MeltyLancer - Re-inforce (J) (Disc 1) - TODO
-- MeltyLancer - Re-inforce (J) (Disc 2) - TODO
-- MeltyLancer - Re-inforce (J) (Disc 3) - TODO
-- Message Navi (J) (Demo) - TODO
-- Message Navi (J) - TODO
-- Message Navi Vol. 2 (J) - TODO
-- Metal Black (J) (1M) - TODO
-- Metal Black (J) (3M) - TODO
-- Metal Fighter Miku (J) - TODO
-- Metal Slug - Super Vehicle-001 (J) (Rev A) - TODO
-- Metal Slug - Super Vehicle-001 (J) - TODO (Recorded)
-- Mezase Idol Star!! Natsuiro Memories - Mahjong-hen (J) (2M) - TODO
-- [Midway Presents Arcade's Greatest Hits (U)](./U/T-9703H/01/README.md)
-- [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (U)](./U/T-9706H/01/README.md)
-- Mighty Hits (E) - TODO
-- Mighty Hits (J) - TODO
-- Minakata Hakudou Toujou (J) (Disc 1) (2M) - TODO
-- Minakata Hakudou Toujou (J) (Disc 2) - TODO
-- Minami no Shima ni Buta ga Ita - Lucas no Daibouken (J) (2M) - TODO
-- [Minnesota Fats: Pool Legend (U) (R)](./U/T-1302H/01/README.md)
-- Minton Keibu no SoU File - Doukeshi Satsujin Jiken (J) - TODO
-- Mizubaku Daibouken (J) - TODO
-- Mizuki Shigeru no Youkai Zukan Soushuuhen (J) - TODO
-- Mobile Suit Gundam (J) (Rev A) - TODO
-- [Mobile Suit Gundam (J)](./J/T-13303G/01/README.md)
-- Mobile Suit Gundam Side Story - Optional Guide (J) - TODO
-- Mobile Suit Gundam Side Story I - Senritsu no Blue (J) (Demo) - TODO
-- Mobile Suit Gundam Side Story I - Senritsu no Blue (J) - TODO
-- Mobile Suit Gundam Side Story II - Ao o Uketsugu Mono (J) - TODO
-- Mobile Suit Gundam Side Story III - Sabakareshi Mono (J) - TODO
-- Moero!! Pro Yakyuu '95 - Double Header (J) - TODO
-- Mogitate SegaSaturn - Special Movie (J) (2M) - TODO
-- Mogitate SegaSaturn Vol. 2 (J) - TODO
-- Mogitate SegaSaturn Vol. 3 (J) - TODO
-- Mogitate SegaSaturn Vol. 4 (J) - TODO
-- Mogitate SegaSaturn Vol. 5 (J) - TODO
-- Mogitate SegaSaturn Vol. 6 (J) - TODO
-- Momotarou Douchuuki (J) (1M) - TODO
-- Momotarou Douchuuki (J) (2M) - TODO
-- Momotarou Douchuuki (J) (Rev A) (11M) - TODO
-- Monster Slider (J) (Demo) - TODO
-- Monster Slider (J) - TODO
-- Moon Cradle (J) (Disc 1) - TODO
-- Moon Cradle (J) (Disc 2) - TODO
-- Moon Cradle (J) (Disc 3) - TODO
-- Mortal Kombat II (E) - TODO
-- [Mortal Kombat II (U)](./U/T-8103H/01/README.md)
-- Mortal Kombat II Kanzenban (J) (4S) - TODO
-- Mortal Kombat Trilogy (E) - TODO
-- [Mortal Kombat Trilogy (U)](./U/T-9704H/01/README.md)
-- Motteke Tamago with Ganbare! Kamonohashi (J) - TODO
-- Mouja (J) - TODO
-- Mouri Motonari - Chikai no Sanshi (J) - TODO
-- Mr. Bones (E) (Disc 1) - TODO
-- Mr. Bones (E) (Disc 2) - TODO
-- Mr. Bones (J) (Demo) - TODO
-- Mr. Bones (J) (Disc 1) - TODO
-- Mr. Bones (J) (Disc 2) - TODO
-- Mr. Bones (U) (Disc 1) - TODO (Recorded)
-- Mr. Bones (U) (Disc 2) - TODO
-- Mujintou Monogatari R - Futari no Love Love Island (J) - TODO
-- Murakoshi Seikai no Bakuchou Nihon Rettou (J) - TODO
-- My Best Friends - St. Andrew Jogakuin-hen (J) - TODO
-- My Dream - On Air ga Matenakute (J) (Disc 1) - TODO
-- My Dream - On Air ga Matenakute (J) (Disc 2) - TODO
-- Myst (E) - TODO
-- Myst (J) (Rev A) - TODO
-- Myst (J) - TODO
+- Mansion of Hidden Souls, The (Europe) (1S) - TODO
+- Mansion of Hidden Souls, The (Europe) (4S) - TODO
+- Mansion of Hidden Souls, The (USA) - TODO
+- Manx TT SuperBike (Europe) - TODO
+- Manx TT SuperBike (Japan) - TODO
+- Manx TT SuperBike (USA) - TODO
+- Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo) - TODO
+- Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1) - TODO
+- Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2) - TODO
+- Marica - Shinjitsu no Sekai (Japan) - TODO
+- Marie no Atelier Ver. 1.3 - Salburg no Renkinjutsushi (Japan) - TODO
+- Mario Mushano no Chou Shougi Juku - Mario Mushano's Hyper Shogi School (Japan) - TODO
+- Marvel Super Heroes (Europe) - TODO
+- Marvel Super Heroes (Japan) (Demo) - TODO
+- [Marvel Super Heroes (Japan)](./Regions/Japan/T-1215G/01/README.md)
+- Marvel Super Heroes (USA) - TODO
+- [Marvel Super Heroes vs. Street Fighter (Japan)](./Regions/Japan/T-1238G/01/README.md)
+- Mass Destruction (Europe) - TODO
+- Mass Destruction (USA) - TODO
+- Mass Destruction - OtoUn ni mo Dekiru Soft (Japan) - TODO
+- Master of Monsters - Neo Generations (Japan) - TODO
+- Masters - Harukanaru Augusta 3 (Japan) (2M) - TODO
+- Matsukata Hiroki no World Fishing (Japan) - TODO
+- Maximum Force (Europe) - TODO
+- Maximum Force (USA) - TODO
+- MechWarrior 2 (Japan) - TODO
+- MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (Europe) - TODO
+- MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA) - TODO
+- Mechanical Violator Hakaider - Last Judgement (Japan) - TODO
+- MediaROMancer - DA - Daisuke Asakura (Japan) - TODO
+- [Mega Man 8 (USA)](./Regions/USA/T-1216H/01/README.md)
+- Mega Man X3 (Europe) - TODO
+- [Mega Man X4 (USA)](./Regions/USA/T-1219H/01/README.md)
+- MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) - TODO
+- MeltyLancer - Re-inforce (Japan) (Demo) - TODO
+- MeltyLancer - Re-inforce (Japan) (Disc 1) - TODO
+- MeltyLancer - Re-inforce (Japan) (Disc 2) - TODO
+- MeltyLancer - Re-inforce (Japan) (Disc 3) - TODO
+- Message Navi (Japan) (Demo) - TODO
+- Message Navi (Japan) - TODO
+- Message Navi Vol. 2 (Japan) - TODO
+- Metal Black (Japan) (1M) - TODO
+- Metal Black (Japan) (3M) - TODO
+- Metal Fighter Miku (Japan) - TODO
+- Metal Slug - Super Vehicle-001 (Japan) (Rev A) - TODO
+- Metal Slug - Super Vehicle-001 (Japan) - TODO (Recorded)
+- Mezase Idol Star!! Natsuiro Memories - Mahjong-hen (Japan) (2M) - TODO
+- [Midway Presents Arcade's Greatest Hits (USA)](./Regions/USA/T-9703H/01/README.md)
+- [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (USA)](./Regions/USA/T-9706H/01/README.md)
+- Mighty Hits (Europe) - TODO
+- Mighty Hits (Japan) - TODO
+- Minakata Hakudou Toujou (Japan) (Disc 1) (2M) - TODO
+- Minakata Hakudou Toujou (Japan) (Disc 2) - TODO
+- Minami no Shima ni Buta ga Ita - Lucas no Daibouken (Japan) (2M) - TODO
+- [Minnesota Fats: Pool Legend (USA) (R)](./Regions/USA/T-1302H/01/README.md)
+- Minton Keibu no SoU File - Doukeshi Satsujin Jiken (Japan) - TODO
+- Mizubaku Daibouken (Japan) - TODO
+- Mizuki Shigeru no Youkai Zukan Soushuuhen (Japan) - TODO
+- Mobile Suit Gundam (Japan) (Rev A) - TODO
+- [Mobile Suit Gundam (Japan)](./Regions/Japan/T-13303G/01/README.md)
+- Mobile Suit Gundam Side Story - Optional Guide (Japan) - TODO
+- Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan) (Demo) - TODO
+- Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan) - TODO
+- Mobile Suit Gundam Side Story II - Ao o Uketsugu Mono (Japan) - TODO
+- Mobile Suit Gundam Side Story III - Sabakareshi Mono (Japan) - TODO
+- Moero!! Pro Yakyuu '95 - Double Header (Japan) - TODO
+- Mogitate SegaSaturn - Special Movie (Japan) (2M) - TODO
+- Mogitate SegaSaturn Vol. 2 (Japan) - TODO
+- Mogitate SegaSaturn Vol. 3 (Japan) - TODO
+- Mogitate SegaSaturn Vol. 4 (Japan) - TODO
+- Mogitate SegaSaturn Vol. 5 (Japan) - TODO
+- Mogitate SegaSaturn Vol. 6 (Japan) - TODO
+- Momotarou Douchuuki (Japan) (1M) - TODO
+- Momotarou Douchuuki (Japan) (2M) - TODO
+- Momotarou Douchuuki (Japan) (Rev A) (11M) - TODO
+- Monster Slider (Japan) (Demo) - TODO
+- Monster Slider (Japan) - TODO
+- Moon Cradle (Japan) (Disc 1) - TODO
+- Moon Cradle (Japan) (Disc 2) - TODO
+- Moon Cradle (Japan) (Disc 3) - TODO
+- Mortal Kombat II (Europe) - TODO
+- [Mortal Kombat II (USA)](./Regions/USA/T-8103H/01/README.md)
+- Mortal Kombat II Kanzenban (Japan) (4S) - TODO
+- Mortal Kombat Trilogy (Europe) - TODO
+- [Mortal Kombat Trilogy (USA)](./Regions/USA/T-9704H/01/README.md)
+- Motteke Tamago with Ganbare! Kamonohashi (Japan) - TODO
+- Mouja (Japan) - TODO
+- Mouri Motonari - Chikai no Sanshi (Japan) - TODO
+- Mr. Bones (Europe) (Disc 1) - TODO
+- Mr. Bones (Europe) (Disc 2) - TODO
+- Mr. Bones (Japan) (Demo) - TODO
+- Mr. Bones (Japan) (Disc 1) - TODO
+- Mr. Bones (Japan) (Disc 2) - TODO
+- Mr. Bones (USA) (Disc 1) - TODO (Recorded)
+- Mr. Bones (USA) (Disc 2) - TODO
+- Mujintou Monogatari R - Futari no Love Love Island (Japan) - TODO
+- Murakoshi Seikai no Bakuchou Nihon Rettou (Japan) - TODO
+- My Best Friends - St. Andrew Jogakuin-hen (Japan) - TODO
+- My Dream - On Air ga Matenakute (Japan) (Disc 1) - TODO
+- My Dream - On Air ga Matenakute (Japan) (Disc 2) - TODO
+- Myst (Europe) - TODO
+- Myst (Japan) (Rev A) - TODO
+- Myst (Japan) - TODO
 - Myst (Korea) - TODO
 - Myst (Taiwan) - TODO
-- Myst (U) - TODO
-- Mystaria - The Realms of Lore (E) - TODO
-- Mystaria - The Realms of Lore (U) - TODO
-- Mystery Mansion - Das Haus der verlorenen Seelen (G) - TODO
+- Myst (USA) - TODO
+- Mystaria - The Realms of Lore (Europe) - TODO
+- Mystaria - The Realms of Lore (USA) - TODO
+- Mystery Mansion - Das Haus der verlorenen Seelen (Germany) - TODO
 
 #### N
 
-- NASCAR 98 (E) - TODO
-- NASCAR 98 (F) - TODO
-- NASCAR 98 (G) - TODO
-- NASCAR 98 (U) - TODO
-- NBA Action (E) - TODO
-- NBA Action (U) - TODO
-- NBA Action 98 (E) - TODO
-- NBA Action 98 (U) - TODO
-- NBA Jam - Tournament Edition (E) - TODO
-- NBA Jam - Tournament Edition (J) (4S) - TODO
-- NBA Jam - Tournament Edition (U) (3S) - TODO
-- NBA Jam Extreme (E) - TODO
-- NBA Jam Extreme (J) - TODO
-- NBA Jam Extreme (U) - TODO
-- NBA Live 97 (E) - TODO
-- NBA Live 97 (U) - TODO
-- NBA Live 98 (E) - TODO
-- NBA Live 98 (U) - TODO
-- NFL '97 (U) (Rev A) - TODO
-- NFL '97 (U) - TODO
-- NFL Quarterback Club '96 (J) - TODO
-- NFL Quarterback Club '96 (U) (5S) - TODO
-- NFL Quarterback Club '97 (J) - TODO
-- NFL Quarterback Club 96 (E) - TODO
-- NFL Quarterback Club 97 (E) - TODO
-- NFL Quarterback Club 97 (U) - TODO
-- NHL 97 (E) - TODO
-- NHL 97 (G) - TODO
-- NHL 97 (J) - TODO
-- NHL 97 (U) - TODO
-- NHL 98 (E) - TODO
-- NHL 98 (U) - TODO
-- NHL All-Star Hockey (E) - TODO
-- NHL All-Star Hockey (U) (1S) - TODO
-- NHL All-Star Hockey (U) (2S) - TODO
-- NHL All-Star Hockey 98 (E) - TODO
-- NHL All-Star Hockey 98 (U) - TODO
-- NHL Powerplay '96 (E) - TODO
-- NHL Powerplay '96 (J) - TODO
-- NHL Powerplay '96 (U) - TODO
-- NOeL 3 - Not Digital (J) (Disc 1) - TODO
-- NOeL 3 - Not Digital (J) (Disc 2) - TODO
-- NOeL 3 - Not Digital (J) (Disc 3) - TODO
-- Nanatsu Kaze no Shima Monogatari (J) (Disc 1) - TODO
-- Nanatsu Kaze no Shima Monogatari (J) (Disc 2) (Premium CD) - TODO
-- Nanatsu no Hikan (J) (Demo) - TODO
-- Nanatsu no Hikan (J) (Disc 1) (1M) - TODO
-- Nanatsu no Hikan (J) (Disc 1) (2M) - TODO
-- Nanatsu no Hikan (J) (Disc 2) (1M) - TODO
-- Nanatsu no Hikan (J) (Disc 2) (2M) - TODO
-- Nanatsu no Hikan (J) (Disc 3) (1M, 2M) - TODO
-- Nekketsu Oyako (J) - TODO
-- Neon Genesis - Evangelion - Koutetsu no Girlfriend (J) (Disc 1) - TODO
-- Neon Genesis - Evangelion - Koutetsu no Girlfriend (J) (Disc 2) - TODO
-- Neon Genesis Evangelion - Digital Card Library (J) - TODO
-- Next King - Koi no Sennen Oukoku (J) - TODO
-- NiGHTS into Dreams... (E) - TODO
-- NiGHTS into Dreams... (J) (Demo) - TODO
-- NiGHTS into Dreams... (J) - TODO
+- NASCAR 98 (Europe) - TODO
+- NASCAR 98 (France) - TODO
+- NASCAR 98 (Germany) - TODO
+- NASCAR 98 (USA) - TODO
+- NBA Action (Europe) - TODO
+- NBA Action (USA) - TODO
+- NBA Action 98 (Europe) - TODO
+- NBA Action 98 (USA) - TODO
+- NBA Jam - Tournament Edition (Europe) - TODO
+- NBA Jam - Tournament Edition (Japan) (4S) - TODO
+- NBA Jam - Tournament Edition (USA) (3S) - TODO
+- NBA Jam Extreme (Europe) - TODO
+- NBA Jam Extreme (Japan) - TODO
+- NBA Jam Extreme (USA) - TODO
+- NBA Live 97 (Europe) - TODO
+- NBA Live 97 (USA) - TODO
+- NBA Live 98 (Europe) - TODO
+- NBA Live 98 (USA) - TODO
+- NFL '97 (USA) (Rev A) - TODO
+- NFL '97 (USA) - TODO
+- NFL Quarterback Club '96 (Japan) - TODO
+- NFL Quarterback Club '96 (USA) (5S) - TODO
+- NFL Quarterback Club '97 (Japan) - TODO
+- NFL Quarterback Club 96 (Europe) - TODO
+- NFL Quarterback Club 97 (Europe) - TODO
+- NFL Quarterback Club 97 (USA) - TODO
+- NHL 97 (Europe) - TODO
+- NHL 97 (Germany) - TODO
+- NHL 97 (Japan) - TODO
+- NHL 97 (USA) - TODO
+- NHL 98 (Europe) - TODO
+- NHL 98 (USA) - TODO
+- NHL All-Star Hockey (Europe) - TODO
+- NHL All-Star Hockey (USA) (1S) - TODO
+- NHL All-Star Hockey (USA) (2S) - TODO
+- NHL All-Star Hockey 98 (Europe) - TODO
+- NHL All-Star Hockey 98 (USA) - TODO
+- NHL Powerplay '96 (Europe) - TODO
+- NHL Powerplay '96 (Japan) - TODO
+- NHL Powerplay '96 (USA) - TODO
+- NOeL 3 - Not Digital (Japan) (Disc 1) - TODO
+- NOeL 3 - Not Digital (Japan) (Disc 2) - TODO
+- NOeL 3 - Not Digital (Japan) (Disc 3) - TODO
+- Nanatsu Kaze no Shima Monogatari (Japan) (Disc 1) - TODO
+- Nanatsu Kaze no Shima Monogatari (Japan) (Disc 2) (Premium CD) - TODO
+- Nanatsu no Hikan (Japan) (Demo) - TODO
+- Nanatsu no Hikan (Japan) (Disc 1) (1M) - TODO
+- Nanatsu no Hikan (Japan) (Disc 1) (2M) - TODO
+- Nanatsu no Hikan (Japan) (Disc 2) (1M) - TODO
+- Nanatsu no Hikan (Japan) (Disc 2) (2M) - TODO
+- Nanatsu no Hikan (Japan) (Disc 3) (1M, 2M) - TODO
+- Nekketsu Oyako (Japan) - TODO
+- Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1) - TODO
+- Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 2) - TODO
+- Neon Genesis Evangelion - Digital Card Library (Japan) - TODO
+- Next King - Koi no Sennen Oukoku (Japan) - TODO
+- NiGHTS into Dreams... (Europe) - TODO
+- NiGHTS into Dreams... (Japan) (Demo) - TODO
+- NiGHTS into Dreams... (Japan) - TODO
 - NiGHTS into Dreams... (Korea) - TODO
-- NiGHTS into Dreams... (U) (Demo) - TODO
-- NiGHTS into Dreams... (U) (with 3D Control Pad) (RE) - TODO
+- NiGHTS into Dreams... (USA) (Demo) - TODO
+- NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE) - TODO
 - NiGHTS into Dreams... (U, Brazil) - TODO (Recorded)
-- Night Striker S (J) - TODO
-- Night Warriors - Darkstalkers' Revenge (E) - TODO
-- Night Warriors - Darkstalkers' Revenge (U) - TODO (Recorded)
-- Nightruth - Explanation of the Paranormal - Futatsu Dake no Shinjitsu (J) - TODO
-- Nightruth - Explanation of the Paranormal - Futatsu dake no Shinjitsu (J) - TODO
-- Nightruth - Explanation of the Paranormal - Making of Nightruth II - Voice Selection (J) - TODO
-- Nightruth - Explanation of the Paranormal - Maria (J) - TODO
-- Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (J) (2M) - TODO
-- Nightruth - Explanation of the Paranormal - The Making of Nightruth (J) (2M) - TODO
-- Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (J) (2M) - TODO
-- Nihon Daihyou Team no Kantoku ni Naruu! Sekaihatsu Soccer RPG - Become the Coach for the National Team! (J) - TODO
-- Nihon Pro Mahjong Renmei Kounin - Doujou Yaburi (J) - TODO
-- Nile-gawa no Yoake (J) (Rev A) - TODO
-- Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (J) (Demo) - TODO
-- Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (J) - TODO
-- Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (J) - TODO
-- Ninpen Manmaru (J) - TODO
-- Nissan Presents - Over Drivin' GT-R (J) (Demo) - TODO
-- Nissan Presents - Over Drivin' GT-R (J) (Rev A) - TODO
-- Nissan Presents - Over Drivin' GT-R (J) - TODO
-- No-appointment Gals Olympos (J) - TODO
-- Nobunaga no Yabou - Shouseiroku (J) (2M) - TODO
-- Nobunaga no Yabou Returns (J) - TODO
-- Nobunaga no Yabou Sengoku Gunyuuden (J) - TODO
-- Nobunaga no Yabou Tenshouki (J) - TODO
-- Nobunaga no Yabou Tenshouki with Power-Up Kit (J) - TODO
-- Nonomura Byouin no Hitobito (J) - TODO
-- Noon (J) (Rev A) - TODO
-- Norse by Norsewest - The Return of the Lost Vikings (U) - TODO
+- Night Striker S (Japan) - TODO
+- Night Warriors - Darkstalkers' Revenge (Europe) - TODO
+- Night Warriors - Darkstalkers' Revenge (USA) - TODO (Recorded)
+- Nightruth - Explanation of the Paranormal - Futatsu Dake no Shinjitsu (Japan) - TODO
+- Nightruth - Explanation of the Paranormal - Futatsu dake no Shinjitsu (Japan) - TODO
+- Nightruth - Explanation of the Paranormal - Making of Nightruth II - Voice Selection (Japan) - TODO
+- Nightruth - Explanation of the Paranormal - Maria (Japan) - TODO
+- Nightruth - Explanation of the Paranormal - Nightruth Voice Selection - Radio Drama-hen (Japan) (2M) - TODO
+- Nightruth - Explanation of the Paranormal - The Making of Nightruth (Japan) (2M) - TODO
+- Nightruth - Explanation of the Paranormal 01 - Yami no Tobira (Japan) (2M) - TODO
+- Nihon Daihyou Team no Kantoku ni Naruu! Sekaihatsu Soccer RPG - Become the Coach for the National Team! (Japan) - TODO
+- Nihon Pro Mahjong Renmei Kounin - Doujou Yaburi (Japan) - TODO
+- Nile-gawa no Yoake (Japan) (Rev A) - TODO
+- Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan) (Demo) - TODO
+- Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan) - TODO
+- Ninkuu - Tsuyokina Yatsura no Daigekitotsu! (Japan) - TODO
+- Ninpen Manmaru (Japan) - TODO
+- Nissan Presents - Over Drivin' GT-R (Japan) (Demo) - TODO
+- Nissan Presents - Over Drivin' GT-R (Japan) (Rev A) - TODO
+- Nissan Presents - Over Drivin' GT-R (Japan) - TODO
+- No-appointment Gals Olympos (Japan) - TODO
+- Nobunaga no Yabou - Shouseiroku (Japan) (2M) - TODO
+- Nobunaga no Yabou Returns (Japan) - TODO
+- Nobunaga no Yabou Sengoku Gunyuuden (Japan) - TODO
+- Nobunaga no Yabou Tenshouki (Japan) - TODO
+- Nobunaga no Yabou Tenshouki with Power-Up Kit (Japan) - TODO
+- Nonomura Byouin no Hitobito (Japan) - TODO
+- Noon (Japan) (Rev A) - TODO
+- Norse by Norsewest - The Return of the Lost Vikings (USA) - TODO
 
 #### O
 
-- [Ochigee Designer Tsukutte Pon! (J)](./J/T-9108G/01/README.md)
-- Off-World Interceptor Extreme (E) - TODO
-- Off-World Interceptor Extreme (J) - TODO
-- [Off-World Interceptor Extreme (U)](./U/T-15908H/01/README.md)
-- [Oh-chan no Oekaki Logic (J)](./J/T-1508G/01/README.md)
-- [Ojousama Tokkyuu (J)](./J/T-27803G/01/README.md)
-- [Ojousama o Nerae!! (J)](./J/T-38101G/01/README.md)
-- [Okudera Yasuhiko no Sekai o Mezase! Soccer Kids - Nyuumon-hen (J)](./J/T-26001G/01/README.md)
-- Olympic Soccer (E) - TODO
-- Olympic Soccer (G) - TODO
-- Olympic Soccer (J) - TODO
-- [Olympic Soccer (U)](./U/T-07904H/01/README.md)
-- [Omakase! Savers (J)](./J/GS-9030/01/README.md)
-- [OoEdo Renaissance (J)](./J/T-9104G/01/README.md)
-- [Oracle no Houseki - Jewels of the Oracle (J)](./J/T-1511G/01/README.md)
-- [Ousama Game (All Discs) (J)](./J/T-21904G/01/README.md)
+- [Ochigee Designer Tsukutte Pon! (Japan)](./Regions/Japan/T-9108G/01/README.md)
+- Off-World Interceptor Extreme (Europe) - TODO
+- Off-World Interceptor Extreme (Japan) - TODO
+- [Off-World Interceptor Extreme (USA)](./Regions/USA/T-15908H/01/README.md)
+- [Oh-chan no Oekaki Logic (Japan)](./Regions/Japan/T-1508G/01/README.md)
+- [Ojousama Tokkyuu (Japan)](./Regions/Japan/T-27803G/01/README.md)
+- [Ojousama o Nerae!! (Japan)](./Regions/Japan/T-38101G/01/README.md)
+- [Okudera Yasuhiko no Sekai o Mezase! Soccer Kids - Nyuumon-hen (Japan)](./Regions/Japan/T-26001G/01/README.md)
+- Olympic Soccer (Europe) - TODO
+- Olympic Soccer (Germany) - TODO
+- Olympic Soccer (Japan) - TODO
+- [Olympic Soccer (USA)](./Regions/USA/T-07904H/01/README.md)
+- [Omakase! Savers (Japan)](./Regions/Japan/GS-9030/01/README.md)
+- [OoEdo Renaissance (Japan)](./Regions/Japan/T-9104G/01/README.md)
+- [Oracle no Houseki - Jewels of the Oracle (Japan)](./Regions/Japan/T-1511G/01/README.md)
+- [Ousama Game (All Discs) (Japan)](./Regions/Japan/T-21904G/01/README.md)
 
 #### P
 
-- P.T.O. - Pacific Theater of Operations II (U) - TODO
-- PD Ultraman Link (J) - TODO
-- PGA Tour 97 (E) - TODO
-- PGA Tour 97 (J) - TODO
-- PGA Tour 97 (U) - TODO
-- Pachi-Slot Kanzen Kouryaku Uni-Colle '97 - Universal Collection (J) - TODO
-- Pachinko Hall - Shinsou Daikaiten (J) - TODO
-- Pad Nifty (J) - TODO
-- Pad Nifty 1.1 & Habitat II (J) - TODO
-- Pandemonium! (E) - TODO
-- Pandemonium! (U) - TODO
-- Paneltia Story - Koeln no Daibouken (J) - TODO
-- Panic-chan (J) (Rev A) (10M) - TODO
-- Panic-chan (J) (Rev A) (11M) - TODO
-- Panzer Dragoon (E) (Demo) (5S) - TODO
-- Panzer Dragoon (E) (Demo) (6S) - TODO
-- Panzer Dragoon (E) (En,Fr,De,Es,It) - TODO
-- Panzer Dragoon (J) (2M) - TODO
-- Panzer Dragoon (J) (3A, 3B) - TODO
-- Panzer Dragoon (J) (4B) - TODO
-- Panzer Dragoon (J) (5A) - TODO
-- Panzer Dragoon (J) (Demo 1) - TODO
-- Panzer Dragoon (J) (Demo 2) - TODO
-- [Panzer Dragoon (U)](./U/MK-81009/01/README.md) - TODO (Check Version)
-- Panzer Dragoon (U) (1S) - TODO
-- Panzer Dragoon (U) (5S) - TODO
-- Panzer Dragoon (U) (Demo) (2S) - TODO
-- Panzer Dragoon (U) (Demo) (3S) - TODO
-- Panzer Dragoon (U) (Demo) (4S) - TODO
-- Panzer Dragoon II Zwei (E) - TODO
-- Panzer Dragoon II Zwei (J) - TODO
-- [Panzer Dragoon II Zwei (U)](./U/MK-81022/01/README.md)
-- Panzer Dragoon Saga (E) (Disc 1) - TODO
-- Panzer Dragoon Saga (E) (Disc 2) - TODO
-- Panzer Dragoon Saga (E) (Disc 3) - TODO
-- Panzer Dragoon Saga (E) (Disc 4) - TODO
-- Panzer Dragoon Saga (U) (Disc 1) - TODO
-- Panzer Dragoon Saga (U) (Disc 2) - TODO
-- Panzer Dragoon Saga (U) (Disc 3) - TODO
-- Panzer Dragoon Saga (U) (Disc 4) - TODO
-- Pappara Paoon (J) (2M) - TODO
-- [Parodius (E)](./E/T-9501H-50/01/README.md)
-- Pastel Muses (J) - TODO
-- Pebble Beach Golf Links (E) (3S) - TODO
-- Pebble Beach Golf Links (E) (4S) - TODO
-- Pebble Beach Golf Links (U) - TODO
-- Pebble Beach Golf Links - Stadler ni Chousen (J) - TODO
-- PhantasM (J) (Disc 1) - TODO
-- PhantasM (J) (Disc 2) - TODO
-- PhantasM (J) (Disc 3) (2M) - TODO
-- PhantasM (J) (Disc 4) - TODO
-- PhantasM (J) (Disc 5) - TODO
-- PhantasM (J) (Disc 6) (4M) - TODO
-- PhantasM (J) (Disc 6) (5M) - TODO
-- PhantasM (J) (Disc 7) - TODO
-- PhantasM (J) (Disc 8) - TODO
-- Photo CD Operating System (E) (2S) - TODO
-- Photo CD Operating System (E) - TODO
-- Photo Genic (J) - TODO
-- Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa (J) - TODO
-- Pia Carrot e Youkoso!! 2 (J) (Disc 1) (Game Disc) (2M) - TODO
-- Pia Carrot e Youkoso!! 2 (J) (Disc 1) (Game Disc) (3M) - TODO
-- Pia Carrot e Youkoso!! 2 (J) (Disc 1) (Game Disc) (4M) - TODO
-- Pia Carrot e Youkoso!! 2 (J) (Disc 2) (Special Disc) (1M) - TODO
-- Pia Carrot e Youkoso!! 2 (J) (Disc 2) (Special Disc) (2M) - TODO
-- Pia Carrot e Youkoso!! We've Been Waiting for You (J) (Demo) - TODO
-- Pia Carrot e Youkoso!! We've Been Waiting for You (J) - TODO
-- PictFlash Don Don (J) - TODO
-- Pinball Graffiti (E) (Demo) - TODO
-- Pinball Graffiti (E) - TODO
-- Pinball Graffiti (J) - TODO
-- Planet Joker (J) - TODO
-- Playboy - Karaoke Collection Volume 1 (J) - TODO
-- Playboy - Karaoke Collection Volume 2 (J) (2M) - TODO
-- Pocket Fighter (J) - TODO
-- Policenauts (J) (Disc 1) - TODO
-- Policenauts (J) (Disc 2) - TODO
-- Policenauts (J) (Disc 3) - TODO
-- Popoitto Hebereke (J) - TODO
-- Powerslave (U) - TODO
-- Preview Sega Saturn Vol. 1 (E) - TODO
-- PriKura (Princess Kurara) Daisakusen (J) (Demo) - TODO
-- PriKura (Princess Kurara) Daisakusen (J) - TODO
-- Primal Rage (E) - TODO
-- Primal Rage (J) - TODO
-- Primal Rage (U) - TODO
-- Prime Selection Vol. 1 (J) - TODO
-- Princess Crown (J) (1M) - TODO
-- Princess Crown (J) (Rev A) (11M) - TODO
-- Princess Crown (J) (Rev A) (13M) - TODO
-- Princess Maker - Yumemiru Yousei (J) (Demo) (2M) - TODO
-- Princess Maker - Yumemiru Yousei (J) - TODO
-- Princess Maker 2 (J) (1M) - TODO
-- Princess Maker 2 (J) (4M) - TODO
-- Princess Quest (J) (Rev A) (11M) - TODO
-- Princess Quest (J) - TODO
-- Prisoner of Ice - Jashin Kourin (J) - TODO
-- Private Idol Disc - Data-hen - Race Queen F (J) - TODO
-- Private Idol Disc - Data-hen - Race Queen G (J) - TODO
-- Private Idol Disc - Tokubetsu-hen - Can Gal '97 (J) - TODO
-- Private Idol Disc - Tokubetsu-hen - Cosplayers (J) (2M) - TODO
-- Private Idol Disc - Tokubetsu-hen - Kogal Daihyakka 100 (J) - TODO
-- Private Idol Disc Vol. 1 - Yuu Kinoshita (J) - TODO
-- Private Idol Disc Vol. 2 - Miki Uchiyama (J) - TODO
-- Private Idol Disc Vol. 3 - Akemi Ooshima (J) (2M) - TODO
-- Private Idol Disc Vol. 4 - Mirei Kuroda (J) - TODO
-- Private Idol Disc Vol. 5 - Nanako Fujisaki (J) - TODO
-- Private Idol Disc Vol. 6 - Satomi Yoshida (J) - TODO
-- Private Idol Disc Vol. 7 - Kaori Asou (J) - TODO
-- Private Idol Disc Vol. 8 - Emiko Furukawa (J) - TODO
-- Private Idol Disc Vol. 9 - Keiko Nagamatsu (J) - TODO
-- Private Idol Disc Vol. 10 - Mai Masaki (J) - TODO
-- Private Idol Disc Vol. 11 - Mayumi Hirose (J) (2M) - TODO
-- Pro Mahjong Kiwame-S (J) (Rev A) - TODO
-- Pro Mahjong Kiwame-S (J) - TODO
-- Pro Shinan Mahjong - Tsuwamono (J) - TODO
-- Pro Yakyuu Greatest Nine '97 (J) (Rev A) - TODO
-- Pro Yakyuu Greatest Nine '97 (J) (Rev B) - TODO
-- Pro Yakyuu Greatest Nine '97 - Make Miracle (J) - TODO
-- Pro Yakyuu Greatest Nine '98 (J) (Rev A) - TODO
-- Pro Yakyuu Greatest Nine '98 (J) (Rev B) - TODO
-- Pro Yakyuu Greatest Nine '98 - Summer Action (J) - TODO
-- Pro Yakyuu Team mo Tsukurou! (J) (Rev B) - TODO
-- Pro Yakyuu Team mo Tsukurou! (J) - TODO
-- Pro-Pinball (U) - TODO
-- Pro-Pinball - The Web (E) - TODO
-- Psychotron, The (J) - TODO
-- [Pu-Li-Ru-La/Arcade Gears (J)](./J/T-26106G/01/README.md)
-- Pup-Breeder (J) - TODO
-- Puyo Puyo Sun (J) (1M, 3M) - TODO
-- Puyo Puyo Sun (J) (2M) - TODO
-- Puyo Puyo Sun (J) (Rev A) (10M) - TODO
-- Puyo Puyo Sun for SegaNet (J) - TODO
-- Puyo Puyo Tsuu (J) (1M) - TODO
-- Puyo Puyo Tsuu (J) (3M) - TODO
-- Puzzle Bobble 2X (J) (2M1, 2MB1) - TODO
-- Puzzle Bobble 2X (J) (2M2) - TODO
-- Puzzle Bobble 3 (J) (1M) - TODO
-- Puzzle Bobble 3 (J) (2M) - TODO
-- Puzzle Bobble 3 for SegaNet (J) - TODO
-- [Puzzle & Action: 2do Arukoto ha Sand-R (J)](./J/T-6802G/01/README.md)
+- P.T.O. - Pacific Theater of Operations II (USA) - TODO
+- PD Ultraman Link (Japan) - TODO
+- PGA Tour 97 (Europe) - TODO
+- PGA Tour 97 (Japan) - TODO
+- PGA Tour 97 (USA) - TODO
+- Pachi-Slot Kanzen Kouryaku Uni-Colle '97 - Universal Collection (Japan) - TODO
+- Pachinko Hall - Shinsou Daikaiten (Japan) - TODO
+- Pad Nifty (Japan) - TODO
+- Pad Nifty 1.1 & Habitat II (Japan) - TODO
+- Pandemonium! (Europe) - TODO
+- Pandemonium! (USA) - TODO
+- Paneltia Story - Koeln no Daibouken (Japan) - TODO
+- Panic-chan (Japan) (Rev A) (10M) - TODO
+- Panic-chan (Japan) (Rev A) (11M) - TODO
+- Panzer Dragoon (Europe) (Demo) (5S) - TODO
+- Panzer Dragoon (Europe) (Demo) (6S) - TODO
+- Panzer Dragoon (Europe) (En,Fr,De,Es,It) - TODO
+- Panzer Dragoon (Japan) (2M) - TODO
+- Panzer Dragoon (Japan) (3A, 3B) - TODO
+- Panzer Dragoon (Japan) (4B) - TODO
+- Panzer Dragoon (Japan) (5A) - TODO
+- Panzer Dragoon (Japan) (Demo 1) - TODO
+- Panzer Dragoon (Japan) (Demo 2) - TODO
+- [Panzer Dragoon (USA)](./Regions/USA/MK-81009/01/README.md) - TODO (Check Version)
+- Panzer Dragoon (USA) (1S) - TODO
+- Panzer Dragoon (USA) (5S) - TODO
+- Panzer Dragoon (USA) (Demo) (2S) - TODO
+- Panzer Dragoon (USA) (Demo) (3S) - TODO
+- Panzer Dragoon (USA) (Demo) (4S) - TODO
+- Panzer Dragoon II Zwei (Europe) - TODO
+- Panzer Dragoon II Zwei (Japan) - TODO
+- [Panzer Dragoon II Zwei (USA)](./Regions/USA/MK-81022/01/README.md)
+- Panzer Dragoon Saga (Europe) (Disc 1) - TODO
+- Panzer Dragoon Saga (Europe) (Disc 2) - TODO
+- Panzer Dragoon Saga (Europe) (Disc 3) - TODO
+- Panzer Dragoon Saga (Europe) (Disc 4) - TODO
+- Panzer Dragoon Saga (USA) (Disc 1) - TODO
+- Panzer Dragoon Saga (USA) (Disc 2) - TODO
+- Panzer Dragoon Saga (USA) (Disc 3) - TODO
+- Panzer Dragoon Saga (USA) (Disc 4) - TODO
+- Pappara Paoon (Japan) (2M) - TODO
+- [Parodius (Europe)](./Regions/Europe/T-9501H-50/01/README.md)
+- Pastel Muses (Japan) - TODO
+- Pebble Beach Golf Links (Europe) (3S) - TODO
+- Pebble Beach Golf Links (Europe) (4S) - TODO
+- Pebble Beach Golf Links (USA) - TODO
+- Pebble Beach Golf Links - Stadler ni Chousen (Japan) - TODO
+- PhantasM (Japan) (Disc 1) - TODO
+- PhantasM (Japan) (Disc 2) - TODO
+- PhantasM (Japan) (Disc 3) (2M) - TODO
+- PhantasM (Japan) (Disc 4) - TODO
+- PhantasM (Japan) (Disc 5) - TODO
+- PhantasM (Japan) (Disc 6) (4M) - TODO
+- PhantasM (Japan) (Disc 6) (5M) - TODO
+- PhantasM (Japan) (Disc 7) - TODO
+- PhantasM (Japan) (Disc 8) - TODO
+- Photo CD Operating System (Europe) (2S) - TODO
+- Photo CD Operating System (Europe) - TODO
+- Photo Genic (Japan) - TODO
+- Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa (Japan) - TODO
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M) - TODO
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (3M) - TODO
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (4M) - TODO
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (1M) - TODO
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (2M) - TODO
+- Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Demo) - TODO
+- Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) - TODO
+- PictFlash Don Don (Japan) - TODO
+- Pinball Graffiti (Europe) (Demo) - TODO
+- Pinball Graffiti (Europe) - TODO
+- Pinball Graffiti (Japan) - TODO
+- Planet Joker (Japan) - TODO
+- Playboy - Karaoke Collection Volume 1 (Japan) - TODO
+- Playboy - Karaoke Collection Volume 2 (Japan) (2M) - TODO
+- Pocket Fighter (Japan) - TODO
+- Policenauts (Japan) (Disc 1) - TODO
+- Policenauts (Japan) (Disc 2) - TODO
+- Policenauts (Japan) (Disc 3) - TODO
+- Popoitto Hebereke (Japan) - TODO
+- Powerslave (USA) - TODO
+- Preview Sega Saturn Vol. 1 (Europe) - TODO
+- PriKura (Princess Kurara) Daisakusen (Japan) (Demo) - TODO
+- PriKura (Princess Kurara) Daisakusen (Japan) - TODO
+- Primal Rage (Europe) - TODO
+- Primal Rage (Japan) - TODO
+- Primal Rage (USA) - TODO
+- Prime Selection Vol. 1 (Japan) - TODO
+- Princess Crown (Japan) (1M) - TODO
+- Princess Crown (Japan) (Rev A) (11M) - TODO
+- Princess Crown (Japan) (Rev A) (13M) - TODO
+- Princess Maker - Yumemiru Yousei (Japan) (Demo) (2M) - TODO
+- Princess Maker - Yumemiru Yousei (Japan) - TODO
+- Princess Maker 2 (Japan) (1M) - TODO
+- Princess Maker 2 (Japan) (4M) - TODO
+- Princess Quest (Japan) (Rev A) (11M) - TODO
+- Princess Quest (Japan) - TODO
+- Prisoner of Ice - Jashin Kourin (Japan) - TODO
+- Private Idol Disc - Data-hen - Race Queen F (Japan) - TODO
+- Private Idol Disc - Data-hen - Race Queen G (Japan) - TODO
+- Private Idol Disc - Tokubetsu-hen - Can Gal '97 (Japan) - TODO
+- Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M) - TODO
+- Private Idol Disc - Tokubetsu-hen - Kogal Daihyakka 100 (Japan) - TODO
+- Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan) - TODO
+- Private Idol Disc Vol. 2 - Miki Uchiyama (Japan) - TODO
+- Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M) - TODO
+- Private Idol Disc Vol. 4 - Mirei Kuroda (Japan) - TODO
+- Private Idol Disc Vol. 5 - Nanako Fujisaki (Japan) - TODO
+- Private Idol Disc Vol. 6 - Satomi Yoshida (Japan) - TODO
+- Private Idol Disc Vol. 7 - Kaori Asou (Japan) - TODO
+- Private Idol Disc Vol. 8 - Emiko Furukawa (Japan) - TODO
+- Private Idol Disc Vol. 9 - Keiko Nagamatsu (Japan) - TODO
+- Private Idol Disc Vol. 10 - Mai Masaki (Japan) - TODO
+- Private Idol Disc Vol. 11 - Mayumi Hirose (Japan) (2M) - TODO
+- Pro Mahjong Kiwame-S (Japan) (Rev A) - TODO
+- Pro Mahjong Kiwame-S (Japan) - TODO
+- Pro Shinan Mahjong - Tsuwamono (Japan) - TODO
+- Pro Yakyuu Greatest Nine '97 (Japan) (Rev A) - TODO
+- Pro Yakyuu Greatest Nine '97 (Japan) (Rev B) - TODO
+- Pro Yakyuu Greatest Nine '97 - Make Miracle (Japan) - TODO
+- Pro Yakyuu Greatest Nine '98 (Japan) (Rev A) - TODO
+- Pro Yakyuu Greatest Nine '98 (Japan) (Rev B) - TODO
+- Pro Yakyuu Greatest Nine '98 - Summer Action (Japan) - TODO
+- Pro Yakyuu Team mo Tsukurou! (Japan) (Rev B) - TODO
+- Pro Yakyuu Team mo Tsukurou! (Japan) - TODO
+- Pro-Pinball (USA) - TODO
+- Pro-Pinball - The Web (Europe) - TODO
+- Psychotron, The (Japan) - TODO
+- [Pu-Li-Ru-La/Arcade Gears (Japan)](./Regions/Japan/T-26106G/01/README.md)
+- Pup-Breeder (Japan) - TODO
+- Puyo Puyo Sun (Japan) (1M, 3M) - TODO
+- Puyo Puyo Sun (Japan) (2M) - TODO
+- Puyo Puyo Sun (Japan) (Rev A) (10M) - TODO
+- Puyo Puyo Sun for SegaNet (Japan) - TODO
+- Puyo Puyo Tsuu (Japan) (1M) - TODO
+- Puyo Puyo Tsuu (Japan) (3M) - TODO
+- Puzzle Bobble 2X (Japan) (2M1, 2MB1) - TODO
+- Puzzle Bobble 2X (Japan) (2M2) - TODO
+- Puzzle Bobble 3 (Japan) (1M) - TODO
+- Puzzle Bobble 3 (Japan) (2M) - TODO
+- Puzzle Bobble 3 for SegaNet (Japan) - TODO
+- [Puzzle & Action: 2do Arukoto ha Sand-R (Japan)](./Regions/Japan/T-6802G/01/README.md)
 
-- Pyon Pyon Kyaruru no Mahjong Biyori (J) (2M) - TODO
+- Pyon Pyon Kyaruru no Mahjong Biyori (Japan) (2M) - TODO
 
 #### Q
 
-- Quake (E) - TODO
-- [Quake (U)](./U/MK-081066/01/README.md)
-- Quantum Gate I - Akumu no Joshou (J) - TODO
-- [Quarterback Attack with Mike Ditka (U)](./U/T-16213H/01/README.md)
-- [Quiz Nanairo Dreams Nijiirochou no Kiseki (J)](./J/T-1220G/01/README.md)
-- Quiz Nanairo Dreams Nijiirochou no Kiseki (J) (Rev A) - TODO
-- [QuoVadis (J)](./J/T-17401G/01/README.md)
-- [QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J) (Disc 1)](./J/T-17402G/01/README.md)
-- QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J) (Disc 2) - TODO
-- QuoVadis 2: Wakusei Kyoushuu Ovan Rei (J) (Demo) - TODO
+- Quake (Europe) - TODO
+- [Quake (USA)](./Regions/USA/MK-081066/01/README.md)
+- Quantum Gate I - Akumu no Joshou (Japan) - TODO
+- [Quarterback Attack with Mike Ditka (USA)](./Regions/USA/T-16213H/01/README.md)
+- [Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan)](./Regions/Japan/T-1220G/01/README.md)
+- Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan) (Rev A) - TODO
+- [QuoVadis (Japan)](./Regions/Japan/T-17401G/01/README.md)
+- [QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 1)](./Regions/Japan/T-17402G/01/README.md)
+- QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 2) - TODO
+- QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Demo) - TODO
 
 #### R
 
-- Rabbit (J) (Demo) - TODO
-- [Rabbit (J)](./J/T-10610G/01/README.md)
-- [Race Drivin' (J)](./J/T-4802G/01/README.md)
-- [Radiant Silvergun (J)](./J/T-32902G/01/README.md)
-- Rampage - World Tour (E) - TODO
-- [Rampage - World Tour (U)](./U/T-9708H/01/README.md)
-- Rampo (J) (Disc 1) - TODO
-- Rampo (J) (Disc 2) - TODO
-- Rayman (E) (1S) - TODO
-- Rayman (E) (6S) - TODO
-- Rayman (J) - TODO
-- Rayman (U) (Demo) - TODO
-- [Rayman (U)](./U/T-17701G/01/README.md)
-- [Real Bout Garou Densetsu (Real Bout Fatal Fury) (J) (2M)](./J/T-3105G/01/README.md)
-- Real Bout Garou Densetsu (J) (Demo) - TODO
-- Real Bout Garou Densetsu Special (J) (Rev A) - TODO
-- [Real Bout Fatal Fury Special (J)](./J/T-3119G/01/README.md)
-- Real Mahjong Adventure "Umi-He": Summer Waltz (J) (P's Club Genteiban) - TODO
-- [Real Mahjong Adventure "Umi-He": Summer Waltz (J)](./J/T-16511G/01/README.md)
-- [Real Sound - Kaze no Regret (J)](./J/T-30002G/01/README.md)
-- [Refrain Love - Anata ni Aitai (J)](./J/T-5308G/01/README.md)
-- Resident Evil (E) - TODO
-- Resident Evil (U) - TODO
-- [Return to Zork (J)](./J/T-23401G/01/README.md)
-- Revolution X - Music Is the Weapon (E) - TODO
-- Revolution X - Music Is the Weapon (G) (5S) - TODO
-- Revolution X - Music Is the Weapon (J) (10S) - TODO
-- Revolution X - Music Is the Weapon (U) (Beta) - TODO
-- [Revolution X - Music is the Weapon featuring Aerosmith (U)](./U/T-8107H/01/README.md)
-- Riglordsaga (J) (Demo) - TODO
-- [Riglordsaga (J)](./J/GS-9021/01/README.md)
-- [Riglordsaga 2 (J)](./J/GS-9084/01/README.md) - TODO
-- Rise 2 - Resurrection (E) (Beta) - TODO
-- Rise 2 - Resurrection (E) - TODO
-- Rise 2 - Resurrection (J) - TODO
-- [Rise 2 - Resurrection (U)](./U/T-8114-H/01/README.md)
-- [Riven - A Sequencia de Myst (Brazil)](./B/MK-8180145/01/README.md)
-- Riven - The Sequel to Myst (E) (Disc 1) - TODO
-- Riven - The Sequel to Myst (E) (Disc 2) - TODO
-- Riven - The Sequel to Myst (E) (Disc 3) - TODO
-- Riven - The Sequel to Myst (E) (Disc 4) - TODO
-- Riven - The Sequel to Myst (J) (Disc 1) - TODO
-- Riven - The Sequel to Myst (J) (Disc 2) - TODO
-- Riven - The Sequel to Myst (J) (Disc 3) - TODO
-- Riven - The Sequel to Myst (J) (Disc 4) - TODO
-- [R?MJ: The Mystery Hospital (J)](./J/T-13322G/01/README.md)
-- [RoX - 6 = Six (J)](./J/T-16612G/01/README.md)
-- Road & Track Presents - The Need for Speed (E) - TODO
-- [Road & Track Presents - The Need for Speed (U)](./U/T-5009H/01/README.md)
-- Road Rash (E) - TODO
-- Road Rash (J) - TODO
-- [Road Rash (U)](./U/T-5008H/01/README.md)
-- Robo Pit (E) - TODO
-- Robo Pit (J) - TODO
-- [Robo Pit (U)](./U/T-10002H/01/README.md)
-- [Robotica: Cybernation Revolt (U)](./U/T-8104H/01/README.md)
-- Robotica - Cybernation Revolt (E) - TODO
-- Rockman 8 - Metal Heroes (J) - TODO
-- [Rockman X3 (J)](./J/T-1210G/01/README.md)
-- [Rockman X4 (J)](./J/T-1221G/01/README.md)
-- [Romance of the Three Kingdoms IV - Wall of Fire (U)](./U/T-7601H/01/README.md)
-- [Ronde (J)](./J/T-14415G/01/README.md)
-- [Roommate - Inoue Ryouko (J)](./J/T-19502G/01/README.md)
-- [Roommate - Ryouko in Summer Vacation (J)](./J/T-19504G/01/README.md)
-- [Roommate 3 - Ryouko Kaze no Kagayaku Asa ni (J)](./J/T-19507G/01/README.md)
-- [Roommate W - Futari (J)](./J/T-19508G/01/README.md)
-- [Ruriiro no Yuki (J)](./J/T-19722G/01/README.md)
-- [Ryouko no Oshaberi Room (J)](./J/T-19509G/01/README.md)
-- [Ryouri no Tetsujin - Kitchen Stadium Tour (J)](./J/T-21702G/01/README.md)
-- [Ryuuteki Gosennen - Dragons of China (J)](./J/T-15025G/01/README.md)
+- Rabbit (Japan) (Demo) - TODO
+- [Rabbit (Japan)](./Regions/Japan/T-10610G/01/README.md)
+- [Race Drivin' (Japan)](./Regions/Japan/T-4802G/01/README.md)
+- [Radiant Silvergun (Japan)](./Regions/Japan/T-32902G/01/README.md)
+- Rampage - World Tour (Europe) - TODO
+- [Rampage - World Tour (USA)](./Regions/USA/T-9708H/01/README.md)
+- Rampo (Japan) (Disc 1) - TODO
+- Rampo (Japan) (Disc 2) - TODO
+- Rayman (Europe) (1S) - TODO
+- Rayman (Europe) (6S) - TODO
+- Rayman (Japan) - TODO
+- Rayman (USA) (Demo) - TODO
+- [Rayman (USA)](./Regions/USA/T-17701G/01/README.md)
+- [Real Bout Garou Densetsu (Real Bout Fatal Fury) (Japan) (2M)](./Regions/Japan/T-3105G/01/README.md)
+- Real Bout Garou Densetsu (Japan) (Demo) - TODO
+- Real Bout Garou Densetsu Special (Japan) (Rev A) - TODO
+- [Real Bout Fatal Fury Special (Japan)](./Regions/Japan/T-3119G/01/README.md)
+- Real Mahjong Adventure "Umi-He": Summer Waltz (Japan) (P's Club Genteiban) - TODO
+- [Real Mahjong Adventure "Umi-He": Summer Waltz (Japan)](./Regions/Japan/T-16511G/01/README.md)
+- [Real Sound - Kaze no Regret (Japan)](./Regions/Japan/T-30002G/01/README.md)
+- [Refrain Love - Anata ni Aitai (Japan)](./Regions/Japan/T-5308G/01/README.md)
+- Resident Evil (Europe) - TODO
+- Resident Evil (USA) - TODO
+- [Return to Zork (Japan)](./Regions/Japan/T-23401G/01/README.md)
+- Revolution X - Music Is the Weapon (Europe) - TODO
+- Revolution X - Music Is the Weapon (Germany) (5S) - TODO
+- Revolution X - Music Is the Weapon (Japan) (10S) - TODO
+- Revolution X - Music Is the Weapon (USA) (Beta) - TODO
+- [Revolution X - Music is the Weapon featuring Aerosmith (USA)](./Regions/USA/T-8107H/01/README.md)
+- Riglordsaga (Japan) (Demo) - TODO
+- [Riglordsaga (Japan)](./Regions/Japan/GS-9021/01/README.md)
+- [Riglordsaga 2 (Japan)](./Regions/Japan/GS-9084/01/README.md) - TODO
+- Rise 2 - Resurrection (Europe) (Beta) - TODO
+- Rise 2 - Resurrection (Europe) - TODO
+- Rise 2 - Resurrection (Japan) - TODO
+- [Rise 2 - Resurrection (USA)](./Regions/USA/T-8114-H/01/README.md)
+- [Riven - A Sequencia de Myst (Brazil)](./Regions/Brazil/MK-8180145/01/README.md)
+- Riven - The Sequel to Myst (Europe) (Disc 1) - TODO
+- Riven - The Sequel to Myst (Europe) (Disc 2) - TODO
+- Riven - The Sequel to Myst (Europe) (Disc 3) - TODO
+- Riven - The Sequel to Myst (Europe) (Disc 4) - TODO
+- Riven - The Sequel to Myst (Japan) (Disc 1) - TODO
+- Riven - The Sequel to Myst (Japan) (Disc 2) - TODO
+- Riven - The Sequel to Myst (Japan) (Disc 3) - TODO
+- Riven - The Sequel to Myst (Japan) (Disc 4) - TODO
+- [R?MJ: The Mystery Hospital (Japan)](./Regions/Japan/T-13322G/01/README.md)
+- [RoX - 6 = Six (Japan)](./Regions/Japan/T-16612G/01/README.md)
+- Road & Track Presents - The Need for Speed (Europe) - TODO
+- [Road & Track Presents - The Need for Speed (USA)](./Regions/USA/T-5009H/01/README.md)
+- Road Rash (Europe) - TODO
+- Road Rash (Japan) - TODO
+- [Road Rash (USA)](./Regions/USA/T-5008H/01/README.md)
+- Robo Pit (Europe) - TODO
+- Robo Pit (Japan) - TODO
+- [Robo Pit (USA)](./Regions/USA/T-10002H/01/README.md)
+- [Robotica: Cybernation Revolt (USA)](./Regions/USA/T-8104H/01/README.md)
+- Robotica - Cybernation Revolt (Europe) - TODO
+- Rockman 8 - Metal Heroes (Japan) - TODO
+- [Rockman X3 (Japan)](./Regions/Japan/T-1210G/01/README.md)
+- [Rockman X4 (Japan)](./Regions/Japan/T-1221G/01/README.md)
+- [Romance of the Three Kingdoms IV - Wall of Fire (USA)](./Regions/USA/T-7601H/01/README.md)
+- [Ronde (Japan)](./Regions/Japan/T-14415G/01/README.md)
+- [Roommate - Inoue Ryouko (Japan)](./Regions/Japan/T-19502G/01/README.md)
+- [Roommate - Ryouko in Summer Vacation (Japan)](./Regions/Japan/T-19504G/01/README.md)
+- [Roommate 3 - Ryouko Kaze no Kagayaku Asa ni (Japan)](./Regions/Japan/T-19507G/01/README.md)
+- [Roommate W - Futari (Japan)](./Regions/Japan/T-19508G/01/README.md)
+- [Ruriiro no Yuki (Japan)](./Regions/Japan/T-19722G/01/README.md)
+- [Ryouko no Oshaberi Room (Japan)](./Regions/Japan/T-19509G/01/README.md)
+- [Ryouri no Tetsujin - Kitchen Stadium Tour (Japan)](./Regions/Japan/T-21702G/01/README.md)
+- [Ryuuteki Gosennen - Dragons of China (Japan)](./Regions/Japan/T-15025G/01/README.md)
 
 #### S
 
-- SD Gundam - GCentury S (J) - TODO
-- Sakamoto Ryouma - Ishin Kaikoku (J) - TODO
-- Sakura Taisen (J) (Disc 1) (6M) - TODO
-- Sakura Taisen (J) (Disc 1) (7M, 9M, 10M) - TODO
-- Sakura Taisen (J) (Disc 1) (8M, 13M) - TODO
-- Sakura Taisen (J) (Disc 2) (6M) - TODO
-- Sakura Taisen (J) (Disc 2) (7M) - TODO
-- Sakura Taisen (J) (Disc 2) (8M, 9M) - TODO
-- Sakura Taisen - Hanagumi Taisen Columns (J) (1M) - TODO
-- Sakura Taisen - Hanagumi Taisen Columns (J) (2M) - TODO
-- Sakura Taisen - Hanagumi Tsuushin (J) (1M) - TODO
-- Sakura Taisen - Hanagumi Tsuushin (J) (2M) - TODO
-- Sakura Taisen - Jouki Radio Show (J) (Disc 1) (Yuugi-ban) - TODO
-- Sakura Taisen - Jouki Radio Show (J) (Disc 2) (Kayou-ban) - TODO
-- Sakura Taisen - Teigeki Graph - Teigeki Graph in Sakura Wars (J) (Disc 1) - TODO
-- Sakura Taisen - Teigeki Graph - Teigeki Graph in Sakura Wars (J) (Disc 2) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Demo) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 1) (Rev A) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 1) (Shokai Tokutenban) (1M, 3M, 4M) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 1) (Shokai Tokutenban) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 2) (Rev A) (10M, 11M) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 2) (Rev A) (12M) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 2) (Shokai Tokutenban) (1M, 2M, 4M) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 2) (Shokai Tokutenban) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 3) (Rev A) (12M) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 3) (Shokai Tokutenban) (2M) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 3) (Shokai Tokutenban) (3M, 4M, 5M, 6M) - TODO
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (J) (Disc 3) (Shokai Tokutenban) - TODO
-- Sakura Taisen Teikokukagekidan Taiin Meibo (J) - TODO
-- Sakura Tsuushin (J) - TODO
-- Salamander Deluxe Pack Plus (J) - TODO (Recorded)
-- [Samurai Spirits - Amakusa Kourin (J)](./J/T-3116G/01/README.md)
-- [Samurai Spirits - Zankurou Musouken (J)](./J/T-3104G/01/README.md)
-- Sangokushi Eiketsuden (J) - TODO
-- Sangokushi IV (J) - TODO
-- Sangokushi IV with Power-Up Kit (J) - TODO
-- Sangokushi Koumeiden (J) - TODO
-- Sangokushi Returns (J) - TODO
-- Sangokushi V (J) (Rev A) - TODO
-- Sangokushi V (J) - TODO
+- SD Gundam - GCentury S (Japan) - TODO
+- Sakamoto Ryouma - Ishin Kaikoku (Japan) - TODO
+- Sakura Taisen (Japan) (Disc 1) (6M) - TODO
+- Sakura Taisen (Japan) (Disc 1) (7M, 9M, 10M) - TODO
+- Sakura Taisen (Japan) (Disc 1) (8M, 13M) - TODO
+- Sakura Taisen (Japan) (Disc 2) (6M) - TODO
+- Sakura Taisen (Japan) (Disc 2) (7M) - TODO
+- Sakura Taisen (Japan) (Disc 2) (8M, 9M) - TODO
+- Sakura Taisen - Hanagumi Taisen Columns (Japan) (1M) - TODO
+- Sakura Taisen - Hanagumi Taisen Columns (Japan) (2M) - TODO
+- Sakura Taisen - Hanagumi Tsuushin (Japan) (1M) - TODO
+- Sakura Taisen - Hanagumi Tsuushin (Japan) (2M) - TODO
+- Sakura Taisen - Jouki Radio Show (Japan) (Disc 1) (Yuugi-ban) - TODO
+- Sakura Taisen - Jouki Radio Show (Japan) (Disc 2) (Kayou-ban) - TODO
+- Sakura Taisen - Teigeki Graph - Teigeki Graph in Sakura Wars (Japan) (Disc 1) - TODO
+- Sakura Taisen - Teigeki Graph - Teigeki Graph in Sakura Wars (Japan) (Disc 2) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Demo) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Rev A) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Shokai Tokutenban) (1M, 3M, 4M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Shokai Tokutenban) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) (Rev A) (10M, 11M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) (Rev A) (12M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) (Shokai Tokutenban) (1M, 2M, 4M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) (Shokai Tokutenban) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Rev A) (12M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban) (2M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban) (3M, 4M, 5M, 6M) - TODO
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban) - TODO
+- Sakura Taisen Teikokukagekidan Taiin Meibo (Japan) - TODO
+- Sakura Tsuushin (Japan) - TODO
+- Salamander Deluxe Pack Plus (Japan) - TODO (Recorded)
+- [Samurai Spirits - Amakusa Kourin (Japan)](./Regions/Japan/T-3116G/01/README.md)
+- [Samurai Spirits - Zankurou Musouken (Japan)](./Regions/Japan/T-3104G/01/README.md)
+- Sangokushi Eiketsuden (Japan) - TODO
+- Sangokushi IV (Japan) - TODO
+- Sangokushi IV with Power-Up Kit (Japan) - TODO
+- Sangokushi Koumeiden (Japan) - TODO
+- Sangokushi Returns (Japan) - TODO
+- Sangokushi V (Japan) (Rev A) - TODO
+- Sangokushi V (Japan) - TODO
 - Sanguozhi IV (Taiwan) - TODO
 - Sanguozhi V (Taiwan) - TODO
 - Sanguozhi Yingjiezhuan (Taiwan) - TODO
-- Sankyo Fever - Jikki Simulation S (J) - TODO
-- Sankyo Fever - Jikki Simulation S Vol. 2 (J) - TODO
-- Sankyo Fever - Jikki Simulation S Vol. 3 (J) - TODO
-- SatMag Sono CD (J) - TODO
-- Saturn Bomberman (E) - TODO
-- Saturn Bomberman (J) (Demo) - TODO
-- Saturn Bomberman (J) (SegaNet) - TODO
-- Saturn Bomberman (J) - TODO
-- [Saturn Bomberman (U)](./U/MK-81070/01/README.md)
-- Saturn Bomberman Fight!! (J) (Demo) - TODO
-- Saturn Bomberman Fight!! (J) - TODO
-- Saturn CG Selection Vol. 1 (J) (Rev A) - TODO
-- Saturn Music School (J) - TODO
-- Saturn Music School 2 (J) (Rev A) - TODO
-- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (J) (1M) - TODO
-- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (J) (2M) - TODO
-- Saturn Super Vol. 1 (J) (6M) - TODO
-- Saturn Super Vol. 1 (J) (7M) - TODO
-- Saturn Super Vol. 1 (J) (8M) - TODO
-- Saturn Super Vol. 10 Furoku CD-ROM (J) (2M, 3M) - TODO
-- Saturn Super Vol. 11 Furoku CD-ROM (J) - TODO
-- Saturn Super Vol. 2 (J) (1M) - TODO
-- Saturn Super Vol. 2 (J) (2M) - TODO
-- Saturn Super Vol. 2 (J) (6M) - TODO
-- Saturn Super Vol. 3 (J) (Rev A) (3M) - TODO
-- Saturn Super Vol. 4 (J) (2M) - TODO
-- Saturn Super Vol. 5 (J) (2M) - TODO
-- Saturn Super Vol. 6 (J) (1M) - TODO
-- Saturn Super Vol. 6 (J) (2M) - TODO
-- Saturn Super Vol. 7 (J) (2M) - TODO
-- Saturn Super Vol. 8 (J) - TODO
-- Saturn Super Vol. 9 Furoku CD-ROM (J) - TODO
-- Savaki (J) (2M) - TODO
-- Scorcher (E) - TODO
-- Scorcher (U) (RE) - TODO
-- Scud - The Disposable Assassin (U) - TODO
-- Sea Bass Fishing (E) - TODO
-- SeaBass Fishing (J) - TODO
-- SeaBass Fishing 2 (J) - TODO
-- Sega Ages - After Burner II (J) - TODO
-- Sega Ages - Columns Arcade Collection (J) - TODO
-- Sega Ages - Fantasy Zone (J) - TODO
-- Sega Ages - Galaxy Force II (J) - TODO
-- Sega Ages - I Love Mickey Mouse - Fushigi no Oshiro Daibouken & I Love Donald Duck - Georgia Ou no Hihou (J) - TODO
-- Sega Ages - Memorial Selection Vol. 1 (J) - TODO
-- Sega Ages - Memorial Selection Vol. 2 (J) - TODO
-- Sega Ages - OutRun (J) (Rev A) - TODO
-- Sega Ages - OutRun (J) - TODO
-- Sega Ages - Phantasy Star Collection (J) - TODO
-- Sega Ages - Power Drift (J) - TODO
-- Sega Ages - Rouka ni Ichidanto R (J) - TODO
-- Sega Ages - Shukudai ga Tanto R (J) - TODO
-- Sega Ages - Space Harrier (J) (Rev A) (11M) - TODO
-- Sega Ages - Space Harrier (J) (Rev A) (13M) - TODO
-- Sega Ages - Space Harrier (J) - TODO
-- Sega Ages Volume 1 (E) - TODO
-- Sega Ages Volume 1 (U) - TODO
-- Sega Flash Vol. 1 (E) - TODO
-- Sega Flash Vol. 2 (E) - TODO
-- Sega Flash Vol. 3 (E) (Rev A) - TODO
-- Sega Flash Vol. 3 (E) - TODO
-- Sega Flash Vol. 4 (E) - TODO
-- Sega Flash Vol. 5 (E) - TODO
-- Sega Flash Vol. 6 (E) - TODO
-- Sega Flash Vol. 7 (E) - TODO
-- Sega International Victory Goal (J) (5M) - TODO
-- Sega Rally Championship (E) (Made in EU) - TODO
-- Sega Rally Championship (E) (Made in USA) - TODO
-- Sega Rally Championship (J) (Demo) - TODO
-- Sega Rally Championship (J) - TODO
-- Sega Rally Championship (K) - TODO
-- Sega Rally Championship (U) - TODO (Recorded)
-- Sega Rally Championship Plus (J) - TODO
-- Sega Rally Championship Plus Netlink Edition (U) - TODO
-- Sega Saturn Bootleg II - On the Road (U) - TODO
-- Sega Saturn Choice Cuts (U) (R2) - TODO
-- Sega Saturn Choice Cuts (U) (RE) - TODO
-- Sega Saturn de Hakken!! Tamagotchi Park (J) - TODO
-- Sega Screams Volume 2 (U) - TODO
-- Sega Touring Car Championship (E) - TODO
-- Sega Touring Car Championship (J) (Demo) - TODO
-- Sega Touring Car Championship (J) - TODO
-- Sega Touring Car Championship (U) - TODO (Recorded)
-- Sega Worldwide Soccer '97 (U) - TODO
-- Sega Worldwide Soccer '98 (J) - TODO
-- Sega Worldwide Soccer '98 - Club Edition (E) (Rev A) - TODO
-- Sega Worldwide Soccer '98 - Club Edition (E) (Rev B) - TODO
-- Sega Worldwide Soccer '98 - Club Edition (E) - TODO
-- Sega Worldwide Soccer 97 (E) (Alt) - TODO
-- Sega Worldwide Soccer 97 (E) - TODO
-- SegaColle Sega Bible Mogitate SegaSaturn Soukan-gou (J) - TODO
-- SegaSaturn - Graphic & Sound Tools for Macintosh (J) - TODO
-- SegaSaturn - Movie Tools - Cinepak for Sega Saturn (J) (Hybrid Version) - TODO
-- SegaSaturn - SGL Tool Kit - Sega 3D Game Library (J) - TODO
-- SegaSaturn Electronic Book Operator (J) - TODO
-- SegaSaturn FDD Operator (J) - TODO
-- SegaSaturn Internet 2 (J) - TODO
-- SegaSaturn Internet Vol. 1 (J) - TODO
-- SegaSaturn Photo CD Operator (J) (Rev A) - TODO
-- SegaSaturn Photo CD Operator (J) - TODO
-- Segata Sanshirou - Shinken Yuugi (J) - TODO
-- Seifuku Densetsu - Pretty Fighter X (J) (1M) - TODO
-- Seifuku Densetsu - Pretty Fighter X (J) (2B) - TODO
-- Seikai Risshiden - Yoi Kuni, Yoi Seiji (J) - TODO
-- Seireki 1999 - Pharaoh no Fukkatsu (J) - TODO
-- Sekai no Shasou kara - I Swiss-hen - Alps Tozantetsudou no Tabi (J) - TODO
-- Sengoku Blade - Sengoku Ace Episode II (J) (Demo) - TODO
-- [Sengoku Blade - Sengoku Ace Episode II (J) (Disc 1)](./J/T-14410G/01/README.md)
-- Sengoku Blade - Sengoku Ace Episode II (J) (Disc 2) (Sengoku Kawaraban - Digital Edition) - TODO
-- Senken Kigyouden (J) - TODO
-- Senkutsu Katsuryu Taisen - Chaos Seed (J) (Disc 1) (Game Disc) (Rev A) (10M) - TODO
-- Senkutsu Katsuryu Taisen - Chaos Seed (J) (Disc 1) (Game Disc) (Rev B) (21M) - TODO
-- Senkutsu Katsuryu Taisen - Chaos Seed (J) (Disc 2) (Omake Disc) - TODO
-- Senryaku Shougi (J) - TODO
-- Sentimental Graffiti (J) (Disc 1) (Game Disc) (1M) - TODO
-- Sentimental Graffiti (J) (Disc 1) (Game Disc) (2M) - TODO
-- Sentimental Graffiti (J) (Disc 1) (Game Disc) (4M) - TODO
-- Sentimental Graffiti (J) (Disc 1) (Game Disc) (5M) - TODO
-- Sentimental Graffiti (J) (Disc 2) (Second Window) (1M, 2M) - TODO
-- Sentimental Graffiti (J) (Disc 2) (Second Window) (4M) - TODO
-- Sentimental Graffiti (J) (Disc 2) (Second Window) (5M) - TODO
-- Sentimental Graffiti - First Window (J) - TODO
-- Sento Monogatari Sono I (J) - TODO
-- [Sexy Parodius (J)](./J/T-9514G/01/README.md)
-- Shadows of the Tusk (J) - TODO
-- Shanghai - Banri no Choujou - The Great Wall (J) (1M) - TODO
-- Shanghai - Banri no Choujou - The Great Wall (J) (Rev A) (15M) - TODO
-- Shanghai - Great Moments (J) (1M) - TODO
-- Shanghai - Great Moments (J) (2M) - TODO
-- Shanghai - Triple-Threat (U) - TODO
-- She'sn (J) - TODO
-- Shellshock (E) - TODO
+- Sankyo Fever - Jikki Simulation S (Japan) - TODO
+- Sankyo Fever - Jikki Simulation S Vol. 2 (Japan) - TODO
+- Sankyo Fever - Jikki Simulation S Vol. 3 (Japan) - TODO
+- SatMag Sono CD (Japan) - TODO
+- Saturn Bomberman (Europe) - TODO
+- Saturn Bomberman (Japan) (Demo) - TODO
+- Saturn Bomberman (Japan) (SegaNet) - TODO
+- Saturn Bomberman (Japan) - TODO
+- [Saturn Bomberman (USA)](./Regions/USA/MK-81070/01/README.md)
+- Saturn Bomberman Fight!! (Japan) (Demo) - TODO
+- Saturn Bomberman Fight!! (Japan) - TODO
+- Saturn CG Selection Vol. 1 (Japan) (Rev A) - TODO
+- Saturn Music School (Japan) - TODO
+- Saturn Music School 2 (Japan) (Rev A) - TODO
+- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (Japan) (1M) - TODO
+- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (Japan) (2M) - TODO
+- Saturn Super Vol. 1 (Japan) (6M) - TODO
+- Saturn Super Vol. 1 (Japan) (7M) - TODO
+- Saturn Super Vol. 1 (Japan) (8M) - TODO
+- Saturn Super Vol. 10 Furoku CD-ROM (Japan) (2M, 3M) - TODO
+- Saturn Super Vol. 11 Furoku CD-ROM (Japan) - TODO
+- Saturn Super Vol. 2 (Japan) (1M) - TODO
+- Saturn Super Vol. 2 (Japan) (2M) - TODO
+- Saturn Super Vol. 2 (Japan) (6M) - TODO
+- Saturn Super Vol. 3 (Japan) (Rev A) (3M) - TODO
+- Saturn Super Vol. 4 (Japan) (2M) - TODO
+- Saturn Super Vol. 5 (Japan) (2M) - TODO
+- Saturn Super Vol. 6 (Japan) (1M) - TODO
+- Saturn Super Vol. 6 (Japan) (2M) - TODO
+- Saturn Super Vol. 7 (Japan) (2M) - TODO
+- Saturn Super Vol. 8 (Japan) - TODO
+- Saturn Super Vol. 9 Furoku CD-ROM (Japan) - TODO
+- Savaki (Japan) (2M) - TODO
+- Scorcher (Europe) - TODO
+- Scorcher (USA) (RE) - TODO
+- Scud - The Disposable Assassin (USA) - TODO
+- Sea Bass Fishing (Europe) - TODO
+- SeaBass Fishing (Japan) - TODO
+- SeaBass Fishing 2 (Japan) - TODO
+- Sega Ages - After Burner II (Japan) - TODO
+- Sega Ages - Columns Arcade Collection (Japan) - TODO
+- Sega Ages - Fantasy Zone (Japan) - TODO
+- Sega Ages - Galaxy Force II (Japan) - TODO
+- Sega Ages - I Love Mickey Mouse - Fushigi no Oshiro Daibouken & I Love Donald Duck - Georgia Ou no Hihou (Japan) - TODO
+- Sega Ages - Memorial Selection Vol. 1 (Japan) - TODO
+- Sega Ages - Memorial Selection Vol. 2 (Japan) - TODO
+- Sega Ages - OutRun (Japan) (Rev A) - TODO
+- Sega Ages - OutRun (Japan) - TODO
+- Sega Ages - Phantasy Star Collection (Japan) - TODO
+- Sega Ages - Power Drift (Japan) - TODO
+- Sega Ages - Rouka ni Ichidanto R (Japan) - TODO
+- Sega Ages - Shukudai ga Tanto R (Japan) - TODO
+- Sega Ages - Space Harrier (Japan) (Rev A) (11M) - TODO
+- Sega Ages - Space Harrier (Japan) (Rev A) (13M) - TODO
+- Sega Ages - Space Harrier (Japan) - TODO
+- Sega Ages Volume 1 (Europe) - TODO
+- Sega Ages Volume 1 (USA) - TODO
+- Sega Flash Vol. 1 (Europe) - TODO
+- Sega Flash Vol. 2 (Europe) - TODO
+- Sega Flash Vol. 3 (Europe) (Rev A) - TODO
+- Sega Flash Vol. 3 (Europe) - TODO
+- Sega Flash Vol. 4 (Europe) - TODO
+- Sega Flash Vol. 5 (Europe) - TODO
+- Sega Flash Vol. 6 (Europe) - TODO
+- Sega Flash Vol. 7 (Europe) - TODO
+- Sega International Victory Goal (Japan) (5M) - TODO
+- Sega Rally Championship (Europe) (Made in EU) - TODO
+- Sega Rally Championship (Europe) (Made in USA) - TODO
+- Sega Rally Championship (Japan) (Demo) - TODO
+- Sega Rally Championship (Japan) - TODO
+- Sega Rally Championship (South Korea) - TODO
+- Sega Rally Championship (USA) - TODO (Recorded)
+- Sega Rally Championship Plus (Japan) - TODO
+- Sega Rally Championship Plus Netlink Edition (USA) - TODO
+- Sega Saturn Bootleg II - On the Road (USA) - TODO
+- Sega Saturn Choice Cuts (USA) (R2) - TODO
+- Sega Saturn Choice Cuts (USA) (RE) - TODO
+- Sega Saturn de Hakken!! Tamagotchi Park (Japan) - TODO
+- Sega Screams Volume 2 (USA) - TODO
+- Sega Touring Car Championship (Europe) - TODO
+- Sega Touring Car Championship (Japan) (Demo) - TODO
+- Sega Touring Car Championship (Japan) - TODO
+- Sega Touring Car Championship (USA) - TODO (Recorded)
+- Sega Worldwide Soccer '97 (USA) - TODO
+- Sega Worldwide Soccer '98 (Japan) - TODO
+- Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev A) - TODO
+- Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev B) - TODO
+- Sega Worldwide Soccer '98 - Club Edition (Europe) - TODO
+- Sega Worldwide Soccer 97 (Europe) (Alt) - TODO
+- Sega Worldwide Soccer 97 (Europe) - TODO
+- SegaColle Sega Bible Mogitate SegaSaturn Soukan-gou (Japan) - TODO
+- SegaSaturn - Graphic & Sound Tools for Macintosh (Japan) - TODO
+- SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version) - TODO
+- SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) - TODO
+- SegaSaturn Electronic Book Operator (Japan) - TODO
+- SegaSaturn FDD Operator (Japan) - TODO
+- SegaSaturn Internet 2 (Japan) - TODO
+- SegaSaturn Internet Vol. 1 (Japan) - TODO
+- SegaSaturn Photo CD Operator (Japan) (Rev A) - TODO
+- SegaSaturn Photo CD Operator (Japan) - TODO
+- Segata Sanshirou - Shinken Yuugi (Japan) - TODO
+- Seifuku Densetsu - Pretty Fighter X (Japan) (1M) - TODO
+- Seifuku Densetsu - Pretty Fighter X (Japan) (2B) - TODO
+- Seikai Risshiden - Yoi Kuni, Yoi Seiji (Japan) - TODO
+- Seireki 1999 - Pharaoh no Fukkatsu (Japan) - TODO
+- Sekai no Shasou kara - I Swiss-hen - Alps Tozantetsudou no Tabi (Japan) - TODO
+- Sengoku Blade - Sengoku Ace Episode II (Japan) (Demo) - TODO
+- [Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 1)](./Regions/Japan/T-14410G/01/README.md)
+- Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition) - TODO
+- Senken Kigyouden (Japan) - TODO
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M) - TODO
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev B) (21M) - TODO
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc) - TODO
+- Senryaku Shougi (Japan) - TODO
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (1M) - TODO
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (2M) - TODO
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (4M) - TODO
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (5M) - TODO
+- Sentimental Graffiti (Japan) (Disc 2) (Second Window) (1M, 2M) - TODO
+- Sentimental Graffiti (Japan) (Disc 2) (Second Window) (4M) - TODO
+- Sentimental Graffiti (Japan) (Disc 2) (Second Window) (5M) - TODO
+- Sentimental Graffiti - First Window (Japan) - TODO
+- Sento Monogatari Sono I (Japan) - TODO
+- [Sexy Parodius (Japan)](./Regions/Japan/T-9514G/01/README.md)
+- Shadows of the Tusk (Japan) - TODO
+- Shanghai - Banri no Choujou - The Great Wall (Japan) (1M) - TODO
+- Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev A) (15M) - TODO
+- Shanghai - Great Moments (Japan) (1M) - TODO
+- Shanghai - Great Moments (Japan) (2M) - TODO
+- Shanghai - Triple-Threat (USA) - TODO
+- She'sn (Japan) - TODO
+- Shellshock (Europe) - TODO
 - Shellshock (France) - TODO
 - Shellshock (Germany) - TODO
-- Shellshock (U) - TODO
-- Shellshock - Jus' Keepin' da Peace (J) - TODO
-- Shichisei Toushin Guyferd - Crown Kaimetsu Sakusen (J) - TODO
-- Shichuu Suimei Pitagraph (J) (2M) - TODO
-- Shienryuu (J) - TODO
-- Shin Kaitei Gunkan - Koutetsu no Kodoku (J) - TODO
-- Shin Megami Tensei - Devil Summoner (J) (Rev A) - TODO
-- Shin Megami Tensei - Devil Summoner (J) (Rev B) - TODO
-- Shin Megami Tensei - Devil Summoner - Akuma Zensho (J) - TODO
-- Shin Seiki Evangelion (J) - TODO
-- Shin Seiki Evangelion - 2nd Impression (J) (Made in J) - TODO
-- Shin Seiki Evangelion - 2nd Impression (J) (Made in U.S.A.) - TODO
-- Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (J) - TODO
-- Shin Shinobiden (J) - TODO
-- Shin Theme Park (J) - TODO
-- Shingata Kururin Pa! (J) - TODO
-- Shining Force III (E) (R) - TODO
-- Shining Force III (U) (Beta) - TODO
-- Shining Force III (U) - TODO
-- Shining Force III - Scenario 1 - Outo no Kyoshin (J) (Demo) - TODO
-- Shining Force III - Scenario 1 - Outo no Kyoshin (J) (Rev A) - TODO
-- Shining Force III - Scenario 1 - Outo no Kyoshin (J) - TODO
-- Shining Force III - Scenario 2 - Nerawareta Miko (J) (Rev A) - TODO
-- Shining Force III - Scenario 2 - Nerawareta Miko (J) - TODO
-- Shining Force III - Scenario 3 - Hyouheki no Jashinguu (J) - TODO
-- Shining Force III Premium Disc (J) - TODO
-- Shining Wisdom (E) - TODO
-- Shining Wisdom (J) (Demo) - TODO
-- Shining Wisdom (J) (Rev A) - TODO
-- Shining Wisdom (J) - TODO
-- Shining Wisdom (U) (Beta) - TODO
-- Shining Wisdom (U) - TODO
-- Shining the Holy Ark (E) - TODO
-- Shining the Holy Ark (J) (1M) - TODO
-- Shining the Holy Ark (J) (3M) - TODO
-- Shining the Holy Ark (U) - TODO
-- [Shinobi Legions (U)](./U/T-2301H/01/README.md)
-- Shinobi-X - Shin Shinobi Den (E) - TODO
-- Shinouken (J) - TODO
-- Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World for Sega Saturn (J) (2M) - TODO
-- Shinrei Jusatsushi Taroumaru (J) - TODO
-- Shinsetsu Samurai Spirits - Bushidou Retsuden (J) - TODO
-- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (J) (Rev A) (1M) - TODO
-- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (J) (Rev A) (2A, 2B) - TODO
-- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (J) (Rev A) (5M) - TODO
-- Shippuu Mahou Daisakusen - Kingdom-Grandprix (J) - TODO
-- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (J) (Demo) - TODO
-- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (J) (Disc 1) - TODO
-- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (J) (Disc 2) - TODO
-- Shockwave Assault (E) - TODO
-- Shockwave Assault (U) - TODO
-- Shougi Matsuri (J) - TODO
-- Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (J) (Disc 1) - TODO
-- Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (J) (Disc 2) - TODO
-- Shouryuu Sangoku Engi (J) - TODO
-- Shunsai (J) - TODO
-- Shusse Mahjong Daisettai (J) - TODO
-- Shutsudou! Miniskirt Police (J) (2M) - TODO
-- Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (J) - TODO
-- Side Pocket 2 - Densetsu no Hustler (J) - TODO
-- Side Pocket 3 (J) (Demo) - TODO
-- Side Pocket 3 (J) - TODO (Recorded)
-- Silhouette Mirage (J) (Demo) - TODO
-- Silhouette Mirage (J) (Rev A) - TODO
-- Silhouette Mirage (J) - TODO
-- SimCity 2000 (E) - TODO
-- SimCity 2000 (J) (Rev A) - TODO
-- SimCity 2000 (U) - TODO
-- Simulation RPG Tkool (J) - TODO
-- Simulation Zoo (J) - TODO
-- Skeleton Warriors (E) - TODO
-- Skeleton Warriors (U) - TODO (Recorded)
-- Skull Fang - Kuuga Gaiden (J) - TODO
-- Sky Target (E) - TODO
-- Sky Target (J) - TODO
-- Sky Target (U) - TODO
-- Slam 'n Jam '96 featuring Magic & Kareem (J) - TODO
-- Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (E) - TODO
-- Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (U) - TODO
-- Slayers Royal (J) - TODO
-- Slayers Royal 2 (J) (1M) - TODO
-- Slayers Royal 2 (J) (2M) - TODO
-- Snatcher (J) - TODO
-- Soeldnerschild (J) - TODO
-- Sokkou Seitokai - Sonic Council (J) - TODO
-- [Sol Divide (J)](./J/T-14423G/01/README.md)
-- Solar Eclipse (U) (2S) - TODO
-- Solo Crisis (J) (1M) - TODO
-- Solo Crisis (J) (2M) - TODO
-- Solo Crisis (J) (Demo) - TODO
-- Sonic 3D - Flickies' Island (E) - TODO
-- Sonic 3D - Flickies' Island (J) - TODO
-- Sonic 3D Blast (U) - TODO (Recorded)
-- Sonic Jam (E) - TODO
-- Sonic Jam (J) (Rev A) - TODO
-- Sonic Jam (J) - TODO
-- Sonic Jam (U) - TODO
-- Sonic R (E) - TODO
-- Sonic R (J) (1M) - TODO
-- Sonic R (J) (2M) - TODO
-- Sonic R (J) (Demo) - TODO
+- Shellshock (USA) - TODO
+- Shellshock - Jus' Keepin' da Peace (Japan) - TODO
+- Shichisei Toushin Guyferd - Crown Kaimetsu Sakusen (Japan) - TODO
+- Shichuu Suimei Pitagraph (Japan) (2M) - TODO
+- Shienryuu (Japan) - TODO
+- Shin Kaitei Gunkan - Koutetsu no Kodoku (Japan) - TODO
+- Shin Megami Tensei - Devil Summoner (Japan) (Rev A) - TODO
+- Shin Megami Tensei - Devil Summoner (Japan) (Rev B) - TODO
+- Shin Megami Tensei - Devil Summoner - Akuma Zensho (Japan) - TODO
+- Shin Seiki Evangelion (Japan) - TODO
+- Shin Seiki Evangelion - 2nd Impression (Japan) (Made in J) - TODO
+- Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.) - TODO
+- Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan) - TODO
+- Shin Shinobiden (Japan) - TODO
+- Shin Theme Park (Japan) - TODO
+- Shingata Kururin Pa! (Japan) - TODO
+- Shining Force III (Europe) (R) - TODO
+- Shining Force III (USA) (Beta) - TODO
+- Shining Force III (USA) - TODO
+- Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Demo) - TODO
+- Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A) - TODO
+- Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) - TODO
+- Shining Force III - Scenario 2 - Nerawareta Miko (Japan) (Rev A) - TODO
+- Shining Force III - Scenario 2 - Nerawareta Miko (Japan) - TODO
+- Shining Force III - Scenario 3 - Hyouheki no Jashinguu (Japan) - TODO
+- Shining Force III Premium Disc (Japan) - TODO
+- Shining Wisdom (Europe) - TODO
+- Shining Wisdom (Japan) (Demo) - TODO
+- Shining Wisdom (Japan) (Rev A) - TODO
+- Shining Wisdom (Japan) - TODO
+- Shining Wisdom (USA) (Beta) - TODO
+- Shining Wisdom (USA) - TODO
+- Shining the Holy Ark (Europe) - TODO
+- Shining the Holy Ark (Japan) (1M) - TODO
+- Shining the Holy Ark (Japan) (3M) - TODO
+- Shining the Holy Ark (USA) - TODO
+- [Shinobi Legions (USA)](./Regions/USA/T-2301H/01/README.md)
+- Shinobi-X - Shin Shinobi Den (Europe) - TODO
+- Shinouken (Japan) - TODO
+- Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World for Sega Saturn (Japan) (2M) - TODO
+- Shinrei Jusatsushi Taroumaru (Japan) - TODO
+- Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - TODO
+- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (Japan) (Rev A) (1M) - TODO
+- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (Japan) (Rev A) (2A, 2B) - TODO
+- Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (Japan) (Rev A) (5M) - TODO
+- Shippuu Mahou Daisakusen - Kingdom-Grandprix (Japan) - TODO
+- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Demo) - TODO
+- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Disc 1) - TODO
+- Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Disc 2) - TODO
+- Shockwave Assault (Europe) - TODO
+- Shockwave Assault (USA) - TODO
+- Shougi Matsuri (Japan) - TODO
+- Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1) - TODO
+- Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2) - TODO
+- Shouryuu Sangoku Engi (Japan) - TODO
+- Shunsai (Japan) - TODO
+- Shusse Mahjong Daisettai (Japan) - TODO
+- Shutsudou! Miniskirt Police (Japan) (2M) - TODO
+- Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan) - TODO
+- Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
+- Side Pocket 3 (Japan) (Demo) - TODO
+- Side Pocket 3 (Japan) - TODO (Recorded)
+- Silhouette Mirage (Japan) (Demo) - TODO
+- Silhouette Mirage (Japan) (Rev A) - TODO
+- Silhouette Mirage (Japan) - TODO
+- SimCity 2000 (Europe) - TODO
+- SimCity 2000 (Japan) (Rev A) - TODO
+- SimCity 2000 (USA) - TODO
+- Simulation RPG Tkool (Japan) - TODO
+- Simulation Zoo (Japan) - TODO
+- Skeleton Warriors (Europe) - TODO
+- Skeleton Warriors (USA) - TODO (Recorded)
+- Skull Fang - Kuuga Gaiden (Japan) - TODO
+- Sky Target (Europe) - TODO
+- Sky Target (Japan) - TODO
+- Sky Target (USA) - TODO
+- Slam 'n Jam '96 featuring Magic & Kareem (Japan) - TODO
+- Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (Europe) - TODO
+- Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (USA) - TODO
+- Slayers Royal (Japan) - TODO
+- Slayers Royal 2 (Japan) (1M) - TODO
+- Slayers Royal 2 (Japan) (2M) - TODO
+- Snatcher (Japan) - TODO
+- Soeldnerschild (Japan) - TODO
+- Sokkou Seitokai - Sonic Council (Japan) - TODO
+- [Sol Divide (Japan)](./Regions/Japan/T-14423G/01/README.md)
+- Solar Eclipse (USA) (2S) - TODO
+- Solo Crisis (Japan) (1M) - TODO
+- Solo Crisis (Japan) (2M) - TODO
+- Solo Crisis (Japan) (Demo) - TODO
+- Sonic 3D - Flickies' Island (Europe) - TODO
+- Sonic 3D - Flickies' Island (Japan) - TODO
+- Sonic 3D Blast (USA) - TODO (Recorded)
+- Sonic Jam (Europe) - TODO
+- Sonic Jam (Japan) (Rev A) - TODO
+- Sonic Jam (Japan) - TODO
+- Sonic Jam (USA) - TODO
+- Sonic R (Europe) - TODO
+- Sonic R (Japan) (1M) - TODO
+- Sonic R (Japan) (2M) - TODO
+- Sonic R (Japan) (Demo) - TODO
 - Sonic R (USA, Brazil) - TODO
-- [Sonic Wings Special (J)](./J/T-26402G/01/README.md)
-- Sorvice (J) - TODO
-- Sotsugyou - Graduation S (J) - TODO
-- Sotsugyou Album (J) - TODO
-- Sotsugyou Crossworld (J) - TODO
-- Sotsugyou II - Neo Generation (J) (1M) - TODO
-- Sotsugyou II - Neo Generation (J) (2M) - TODO
-- Sotsugyou III - Wedding Bell (J) - TODO
-- Soukuu no Tsubasa - Gotha World (J) (Demo) - TODO
-- Soukuu no Tsubasa - Gotha World (J) (Disc 1) - TODO
-- Soukuu no Tsubasa - Gotha World (J) (Disc 2) - TODO
-- Soukyuu Gurentai (J) (Rev A) - TODO
-- Soukyuu Gurentai (J) - TODO (Recorded)
-- Soukyuu Gurentai - Otokuyou (J) - TODO
-- Sound Novel Machi (J) (Disc 1) (1M) - TODO
-- Sound Novel Machi (J) (Disc 2) (1M) - TODO
-- Sound Novel Machi (J) (Disc 2) (2M) - TODO
-- Sound Novel Tkool 2 (J) - TODO
-- Sound Qube (J) - TODO
-- Soviet Strike (E) - TODO
+- [Sonic Wings Special (Japan)](./Regions/Japan/T-26402G/01/README.md)
+- Sorvice (Japan) - TODO
+- Sotsugyou - Graduation S (Japan) - TODO
+- Sotsugyou Album (Japan) - TODO
+- Sotsugyou Crossworld (Japan) - TODO
+- Sotsugyou II - Neo Generation (Japan) (1M) - TODO
+- Sotsugyou II - Neo Generation (Japan) (2M) - TODO
+- Sotsugyou III - Wedding Bell (Japan) - TODO
+- Soukuu no Tsubasa - Gotha World (Japan) (Demo) - TODO
+- Soukuu no Tsubasa - Gotha World (Japan) (Disc 1) - TODO
+- Soukuu no Tsubasa - Gotha World (Japan) (Disc 2) - TODO
+- Soukyuu Gurentai (Japan) (Rev A) - TODO
+- Soukyuu Gurentai (Japan) - TODO (Recorded)
+- Soukyuu Gurentai - Otokuyou (Japan) - TODO
+- Sound Novel Machi (Japan) (Disc 1) (1M) - TODO
+- Sound Novel Machi (Japan) (Disc 2) (1M) - TODO
+- Sound Novel Machi (Japan) (Disc 2) (2M) - TODO
+- Sound Novel Tkool 2 (Japan) - TODO
+- Sound Qube (Japan) - TODO
+- Soviet Strike (Europe) - TODO
 - Soviet Strike (France) - TODO
 - Soviet Strike (Germany) - TODO
-- Soviet Strike (J) - TODO
-- [Soviet Strike (U)](./U/T-5013H/01/README.md)
-- Space Hulk - Vengeance of the Blood Angels (E) - TODO
-- Space Hulk - Vengeance of the Blood Angels (U) - TODO
-- Space Invaders (J) - TODO
-- Space Jam (E) - TODO
-- Space Jam (J) - TODO
-- Space Jam (U) - TODO (Recorded)
-- Special Disc with SegaSaturn Internet 2 (J) - TODO
-- Spot Goes to Hollywood (E) - TODO
-- Spot Goes to Hollywood (J) - TODO
-- Spot Goes to Hollywood (U) - TODO
-- Stakes Winner - GI Kanzen Seiha e no Michi (J) - TODO
-- Stakes Winner 2 - Saikyouba Densetsu (J) - TODO
-- Standby Say You! (J) - TODO
-- Star Bowling Vol. 2, The (J) (Disc 1) - TODO
-- Star Bowling Vol. 2, The (J) (Disc 2) - TODO
-- Star Bowling, The (J) (Disc 1) - TODO
-- Star Bowling, The (J) (Disc 2) - TODO
-- Star Fighter (U) - TODO
-- StarFighter 3000 (E) - TODO
-- StarFighter 3000 (J) - TODO
-- Steam-Heart's (J) - TODO
-- Steamgear Mash (J) (1M) - TODO
-- Steamgear Mash (J) (2M) - TODO
-- Steep Slope Sliders (E) - TODO
-- Steep Slope Sliders (J) (Demo) - TODO
-- Steep Slope Sliders (J) - TODO
-- Steep Slope Sliders (U) - TODO
-- Stellar Assault SS (J) (Demo) - TODO
-- Stellar Assault SS (J) - TODO
-- Story of Thor 2, The (E) - TODO
-- Strahl - Himerareshi Nanatsu no Hikari (J) - TODO
-- Street Fighter - Real Battle on Film (J) (2M) - TODO
-- Street Fighter - Real Battle on Film (J) (3M) - TODO
-- Street Fighter - Real Battle on Film (J) (4M) - TODO
-- Street Fighter - The Movie (E) (2S) - TODO
-- Street Fighter - The Movie (E) (4S) - TODO
-- [Street Fighter - The Movie (U)](./U/T-8105H/01/README.md)
-- Street Fighter Alpha - Warriors' Dreams (E) - TODO
-- [Street Fighter Alpha: Warrior's Dreams (U)](./U/T-1206H/01/README.md)
-- Street Fighter Alpha 2 (E) - TODO
-- [Street Fighter Alpha 2 (U)](./U/T-1213H/01/README.md)
-- Street Fighter Collection (E) (Disc 1) (R) - TODO
-- Street Fighter Collection (E) (Disc 2) (R) - TODO
-- Street Fighter Collection (J) (Demo) - TODO
-- Street Fighter Collection (J) (Disc 1) - TODO
-- Street Fighter Collection (J) (Disc 2) - TODO
-- [Street Fighter Collection (U) (Disc 1)](./U/T-1222H/01/README.md)
-- Street Fighter Collection (U) (Disc 2) - TODO
-- Street Fighter II Movie (J) (Disc 1) - TODO
-- Street Fighter II Movie (J) (Disc 2) - TODO
-- Street Fighter Zero (J) (1M) - TODO (Recorded - Check Version)
-- Street Fighter Zero (J) (2M) - TODO
-- Street Fighter Zero (J) (Rev A) (10M) - TODO
-- Street Fighter Zero 2 (J) (Demo) - TODO
-- Street Fighter Zero 2 (J) - TODO
-- Street Fighter Zero 2' (J) - TODO (Recorded)
-- [Street Fighter Zero 3 (J)](./J/T-1246G/01/README.md)
-- Street Racer (E) - TODO
-- Street Racer Extra (J) - TODO
-- Striker 96 (E) - TODO
-- Striker 96 (J) - TODO
-- [Striker '96 (U)](./U/T-8133H/01/README.md)
-- [Strikers 1945 (J)](./J/T-14407G/01/README.md)
-- Strikers 1945 II (J) - TODO
-- Suchie-Pai Adventure - Doki Doki Nightmare (J) (Disc 1) - TODO
-- Suchie-Pai Adventure - Doki Doki Nightmare (J) (Disc 2) - TODO
-- Sugoventure - Dragon Master Silk Gaiden (J) - TODO
-- Suiko Enbu (J) - TODO
-- Suiko Enbu - Fuuun Saiki (J) (Demo) - TODO
-- Suiko Enbu - Fuuun Saiki (J) - TODO
-- Suikoden - Tendou Hyaku Hachi-sei (J) - TODO
-- Suikoden - Tenmei no Chikai (J) (2M) - TODO
-- Super Adventure Rockman (J) (Disc 1) (Episode 1 - Tsuki no Shinden) (1M) - TODO
-- Super Adventure Rockman (J) (Disc 1) (Episode 1 - Tsuki no Shinden) - TODO
-- Super Adventure Rockman (J) (Disc 2) (Episode 2 - Shitou! Wily Numbers) (1M) - TODO
-- Super Adventure Rockman (J) (Disc 2) (Episode 2 - Shitou! Wily Numbers) - TODO
-- Super Adventure Rockman (J) (Disc 3) (Episode 3 - Saigo no Tatakai!!) (1M) - TODO
-- Super Adventure Rockman (J) (Disc 3) (Episode 3 - Saigo no Tatakai!!) - TODO
-- Super Casino Special (J) - TODO
-- Super Puzzle Fighter II Turbo (E) - TODO
-- [Super Puzzle Fighter II Turbo (U)](./U/T-1215H/01/README.md)
-- Super Puzzle Fighter II X (J) - TODO
-- Super Real Mahjong Graffiti (J) (2M) - TODO
-- Super Real Mahjong Graffiti (J) (P's Club Special Edition) (2M) - TODO
-- Super Real Mahjong P.V (J) (2M) - TODO
-- Super Real Mahjong P7 (J) (3M) - TODO
-- Super Real Mahjong P7 (J) (P's Club Special Edition) - TODO
-- Super Real Mahjong PVI (J) (P's Club Special Edition) - TODO
-- Super Real Mahjong PVI (J) - TODO
-- Super Robot Taisen F (J) (Demo) - TODO
-- Super Robot Taisen F (J) (Rev A) (10M, 11M, 12M, 13M) - TODO
-- Super Robot Taisen F (J) (Rev B) (21M) - TODO
-- [Super Robot Taisen F Kanketsuhen (J)](./J/T-20612G/01/README.md)
-- Super Tempo (J) - TODO
-- Swagman (E) (Demo) - TODO
-- Swagman (E) - TODO
-- Sword & Sorcery (J) (2M) - TODO
-- Sword & Sorcery (J) (Rev A) (10M) - TODO
-- System-Disc (KD02) Columbia (J) (16M) - TODO
+- Soviet Strike (Japan) - TODO
+- [Soviet Strike (USA)](./Regions/USA/T-5013H/01/README.md)
+- Space Hulk - Vengeance of the Blood Angels (Europe) - TODO
+- Space Hulk - Vengeance of the Blood Angels (USA) - TODO
+- Space Invaders (Japan) - TODO
+- Space Jam (Europe) - TODO
+- Space Jam (Japan) - TODO
+- Space Jam (USA) - TODO (Recorded)
+- Special Disc with SegaSaturn Internet 2 (Japan) - TODO
+- Spot Goes to Hollywood (Europe) - TODO
+- Spot Goes to Hollywood (Japan) - TODO
+- Spot Goes to Hollywood (USA) - TODO
+- Stakes Winner - GI Kanzen Seiha e no Michi (Japan) - TODO
+- Stakes Winner 2 - Saikyouba Densetsu (Japan) - TODO
+- Standby Say You! (Japan) - TODO
+- Star Bowling Vol. 2, The (Japan) (Disc 1) - TODO
+- Star Bowling Vol. 2, The (Japan) (Disc 2) - TODO
+- Star Bowling, The (Japan) (Disc 1) - TODO
+- Star Bowling, The (Japan) (Disc 2) - TODO
+- Star Fighter (USA) - TODO
+- StarFighter 3000 (Europe) - TODO
+- StarFighter 3000 (Japan) - TODO
+- Steam-Heart's (Japan) - TODO
+- Steamgear Mash (Japan) (1M) - TODO
+- Steamgear Mash (Japan) (2M) - TODO
+- Steep Slope Sliders (Europe) - TODO
+- Steep Slope Sliders (Japan) (Demo) - TODO
+- Steep Slope Sliders (Japan) - TODO
+- Steep Slope Sliders (USA) - TODO
+- Stellar Assault SS (Japan) (Demo) - TODO
+- Stellar Assault SS (Japan) - TODO
+- Story of Thor 2, The (Europe) - TODO
+- Strahl - Himerareshi Nanatsu no Hikari (Japan) - TODO
+- Street Fighter - Real Battle on Film (Japan) (2M) - TODO
+- Street Fighter - Real Battle on Film (Japan) (3M) - TODO
+- Street Fighter - Real Battle on Film (Japan) (4M) - TODO
+- Street Fighter - The Movie (Europe) (2S) - TODO
+- Street Fighter - The Movie (Europe) (4S) - TODO
+- [Street Fighter - The Movie (USA)](./Regions/USA/T-8105H/01/README.md)
+- Street Fighter Alpha - Warriors' Dreams (Europe) - TODO
+- [Street Fighter Alpha: Warrior's Dreams (USA)](./Regions/USA/T-1206H/01/README.md)
+- Street Fighter Alpha 2 (Europe) - TODO
+- [Street Fighter Alpha 2 (USA)](./Regions/USA/T-1213H/01/README.md)
+- Street Fighter Collection (Europe) (Disc 1) (R) - TODO
+- Street Fighter Collection (Europe) (Disc 2) (R) - TODO
+- Street Fighter Collection (Japan) (Demo) - TODO
+- Street Fighter Collection (Japan) (Disc 1) - TODO
+- Street Fighter Collection (Japan) (Disc 2) - TODO
+- [Street Fighter Collection (USA) (Disc 1)](./Regions/USA/T-1222H/01/README.md)
+- Street Fighter Collection (USA) (Disc 2) - TODO
+- Street Fighter II Movie (Japan) (Disc 1) - TODO
+- Street Fighter II Movie (Japan) (Disc 2) - TODO
+- Street Fighter Zero (Japan) (1M) - TODO (Recorded - Check Version)
+- Street Fighter Zero (Japan) (2M) - TODO
+- Street Fighter Zero (Japan) (Rev A) (10M) - TODO
+- Street Fighter Zero 2 (Japan) (Demo) - TODO
+- Street Fighter Zero 2 (Japan) - TODO
+- Street Fighter Zero 2' (Japan) - TODO (Recorded)
+- [Street Fighter Zero 3 (Japan)](./Regions/Japan/T-1246G/01/README.md)
+- Street Racer (Europe) - TODO
+- Street Racer Extra (Japan) - TODO
+- Striker 96 (Europe) - TODO
+- Striker 96 (Japan) - TODO
+- [Striker '96 (USA)](./Regions/USA/T-8133H/01/README.md)
+- [Strikers 1945 (Japan)](./Regions/Japan/T-14407G/01/README.md)
+- Strikers 1945 II (Japan) - TODO
+- Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1) - TODO
+- Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 2) - TODO
+- Sugoventure - Dragon Master Silk Gaiden (Japan) - TODO
+- Suiko Enbu (Japan) - TODO
+- Suiko Enbu - Fuuun Saiki (Japan) (Demo) - TODO
+- Suiko Enbu - Fuuun Saiki (Japan) - TODO
+- Suikoden - Tendou Hyaku Hachi-sei (Japan) - TODO
+- Suikoden - Tenmei no Chikai (Japan) (2M) - TODO
+- Super Adventure Rockman (Japan) (Disc 1) (Episode 1 - Tsuki no Shinden) (1M) - TODO
+- Super Adventure Rockman (Japan) (Disc 1) (Episode 1 - Tsuki no Shinden) - TODO
+- Super Adventure Rockman (Japan) (Disc 2) (Episode 2 - Shitou! Wily Numbers) (1M) - TODO
+- Super Adventure Rockman (Japan) (Disc 2) (Episode 2 - Shitou! Wily Numbers) - TODO
+- Super Adventure Rockman (Japan) (Disc 3) (Episode 3 - Saigo no Tatakai!!) (1M) - TODO
+- Super Adventure Rockman (Japan) (Disc 3) (Episode 3 - Saigo no Tatakai!!) - TODO
+- Super Casino Special (Japan) - TODO
+- Super Puzzle Fighter II Turbo (Europe) - TODO
+- [Super Puzzle Fighter II Turbo (USA)](./Regions/USA/T-1215H/01/README.md)
+- Super Puzzle Fighter II X (Japan) - TODO
+- Super Real Mahjong Graffiti (Japan) (2M) - TODO
+- Super Real Mahjong Graffiti (Japan) (P's Club Special Edition) (2M) - TODO
+- Super Real Mahjong P.V (Japan) (2M) - TODO
+- Super Real Mahjong P7 (Japan) (3M) - TODO
+- Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO
+- Super Real Mahjong PVI (Japan) (P's Club Special Edition) - TODO
+- Super Real Mahjong PVI (Japan) - TODO
+- Super Robot Taisen F (Japan) (Demo) - TODO
+- Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M) - TODO
+- Super Robot Taisen F (Japan) (Rev B) (21M) - TODO
+- [Super Robot Taisen F Kanketsuhen (Japan)](./Regions/Japan/T-20612G/01/README.md)
+- Super Tempo (Japan) - TODO
+- Swagman (Europe) (Demo) - TODO
+- Swagman (Europe) - TODO
+- Sword & Sorcery (Japan) (2M) - TODO
+- Sword & Sorcery (Japan) (Rev A) (10M) - TODO
+- System-Disc (KD02) Columbia (Japan) (16M) - TODO
 
 #### T
 
-- TNN Motor Sports HardCore 4X4 (U) - TODO
-- Tactical Fighter (J) - TODO
-- Tactics Formula (J) (Demo) - TODO
-- Tactics Formula (J) - TODO
-- Tactics Ogre - Let Us Cling Together (J) - TODO
-- Tadaima Wakusei Kaitaku-chuu! (J) - TODO
-- Taiheiyou no Arashi 2 - 3D Heiki Data-shuu (J) - TODO
-- Taiheiyou no Arashi 2 - Shippuu no Moudou (J) - TODO
-- Taikou Risshiden II (J) (2M) - TODO
-- Taikou Risshiden II (J) (Rev A) (10M) - TODO
-- Taikyoku Shougi - Kiwame II (J) - TODO
-- Taito Chase H.Q. + S.C.I. (J) - TODO
-- Taklamakan - Tonkou Denki (J) - TODO
-- Tama - Adventurous Ball in Giddy Labyrinth (J) - TODO
-- Tanjou - Debut S (J) (1M) - TODO
-- Tanjou - Debut S (J) (5M) - TODO
-- Tantei Jinguuji Saburou - Mikan no Report (J) - TODO
-- Tantei Jinguuji Saburou - Yume no Owari ni (J) (3M) - TODO
-- Tech Saturn Apr.1997 (J) - TODO
-- Tech Saturn Aug.1997 (J) - TODO
-- Tech Saturn Feb.1997 - E, Chocolate Kurereba Morau yo (J) - TODO
-- Tech Saturn Jan.1997 - Kizuitara Gekkan-ka (J) - TODO
-- Tech Saturn Jul.1997 (J) - TODO
-- Tech Saturn Jun.1997 (J) - TODO
-- Tech Saturn Mar.1997 - Okaeshi wa Marshmallow, Cookie, Howaito Choco (J) - TODO
-- Tech Saturn May.1997 (J) - TODO
-- Tech Saturn Oct.1997 (J) - TODO
-- Tech Saturn Sep.1997 (J) - TODO
-- Tech Saturn Tsuushin - Autumn 1995 - Special CD-ROM (J) - TODO
-- Tech Saturn Tsuushin - Spring 1995 (J) - TODO
-- Tech Saturn Tsuushin - Winter 1995 - Taikenban & Demo-ban ga Tenkomori! (J) - TODO
-- Tech Saturn Tsuushin Vol. 4 - Spring 1996 - Youriyou Meippai Kikaku Tenkomori (J) - TODO
-- Tech Saturn Tsuushin Vol. 5 - Summer 1996 (J) - TODO
-- Tech Saturn Vol. 1-1996 - Yatchimatta! (J) - TODO
-- Tech Saturn Vol. 2-1996 - Maitsuki 8-nichi wa Tessa no Hi - Ataru to Sugo Iyo (J) - TODO
-- Techno Motor (J) - TODO
-- Teitoku no Ketsudan II (J) - TODO
-- Teitoku no Ketsudan III (J) - TODO
-- Teitoku no Ketsudan III with Power-Up Kit (J) - TODO
-- Tekkyuu - True Pinball (J) - TODO
-- Tempest 2000 (E) - TODO
-- Tempest 2000 (U) - TODO
-- Ten Pin Alley (U) - TODO
-- Tenant Wars (J) (Demo) - TODO
-- Tenant Wars (J) - TODO
-- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (J) (Disc 1) - TODO
-- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (J) (Disc 2) - TODO
-- Tenchi Muyou! Rensa Hitsuyou (J) - TODO
-- Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn (J) (1M) - TODO
-- Tenchi Muyou! Toukou Muyou - Aniraji Collection (J) (Disc 1) - TODO
-- Tenchi Muyou! Toukou Muyou - Aniraji Collection (J) (Disc 2) - TODO
-- Tenchi o Kurau II - Sekiheki no Tatakai (J) - TODO
-- Tenga Seiha (J) - TODO
-- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (J) (Demo) - TODO
-- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (J) (Disc 1) - TODO
-- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (J) (Disc 2) - TODO
-- Tennis Arena (J) - TODO
-- Terra Cresta 3D (J) (2M) - TODO
-- Terra Phantastica (J) - TODO
-- Terry Pratchett's Discworld (E) - TODO
-- Tetris Plus (E) - TODO
-- Tetris Plus (J) - TODO
-- Tetris Plus (U) - TODO
-- Tetris S (J) (Rev A) - TODO
-- Tetris S (J) - TODO
-- Texthoth Ludo - Arcana Senki (J) - TODO
-- The Crow - City of Angels (E) - TODO
-- The Crow - City of Angels (G) - TODO
-- The Crow - City of Angels (J) - TODO
-- The Crow - City of Angels (U) - TODO
-- The Horde (E) - TODO
+- TNN Motor Sports HardCore 4X4 (USA) - TODO
+- Tactical Fighter (Japan) - TODO
+- Tactics Formula (Japan) (Demo) - TODO
+- Tactics Formula (Japan) - TODO
+- Tactics Ogre - Let Us Cling Together (Japan) - TODO
+- Tadaima Wakusei Kaitaku-chuu! (Japan) - TODO
+- Taiheiyou no Arashi 2 - 3D Heiki Data-shuu (Japan) - TODO
+- Taiheiyou no Arashi 2 - Shippuu no Moudou (Japan) - TODO
+- Taikou Risshiden II (Japan) (2M) - TODO
+- Taikou Risshiden II (Japan) (Rev A) (10M) - TODO
+- Taikyoku Shougi - Kiwame II (Japan) - TODO
+- Taito Chase H.Q. + S.C.I. (Japan) - TODO
+- Taklamakan - Tonkou Denki (Japan) - TODO
+- Tama - Adventurous Ball in Giddy Labyrinth (Japan) - TODO
+- Tanjou - Debut S (Japan) (1M) - TODO
+- Tanjou - Debut S (Japan) (5M) - TODO
+- Tantei Jinguuji Saburou - Mikan no Report (Japan) - TODO
+- Tantei Jinguuji Saburou - Yume no Owari ni (Japan) (3M) - TODO
+- Tech Saturn Apr.1997 (Japan) - TODO
+- Tech Saturn Aug.1997 (Japan) - TODO
+- Tech Saturn Feb.1997 - E, Chocolate Kurereba Morau yo (Japan) - TODO
+- Tech Saturn Jan.1997 - Kizuitara Gekkan-ka (Japan) - TODO
+- Tech Saturn Jul.1997 (Japan) - TODO
+- Tech Saturn Jun.1997 (Japan) - TODO
+- Tech Saturn Mar.1997 - Okaeshi wa Marshmallow, Cookie, Howaito Choco (Japan) - TODO
+- Tech Saturn May.1997 (Japan) - TODO
+- Tech Saturn Oct.1997 (Japan) - TODO
+- Tech Saturn Sep.1997 (Japan) - TODO
+- Tech Saturn Tsuushin - Autumn 1995 - Special CD-ROM (Japan) - TODO
+- Tech Saturn Tsuushin - Spring 1995 (Japan) - TODO
+- Tech Saturn Tsuushin - Winter 1995 - Taikenban & Demo-ban ga Tenkomori! (Japan) - TODO
+- Tech Saturn Tsuushin Vol. 4 - Spring 1996 - Youriyou Meippai Kikaku Tenkomori (Japan) - TODO
+- Tech Saturn Tsuushin Vol. 5 - Summer 1996 (Japan) - TODO
+- Tech Saturn Vol. 1-1996 - Yatchimatta! (Japan) - TODO
+- Tech Saturn Vol. 2-1996 - Maitsuki 8-nichi wa Tessa no Hi - Ataru to Sugo Iyo (Japan) - TODO
+- Techno Motor (Japan) - TODO
+- Teitoku no Ketsudan II (Japan) - TODO
+- Teitoku no Ketsudan III (Japan) - TODO
+- Teitoku no Ketsudan III with Power-Up Kit (Japan) - TODO
+- Tekkyuu - True Pinball (Japan) - TODO
+- Tempest 2000 (Europe) - TODO
+- Tempest 2000 (USA) - TODO
+- Ten Pin Alley (USA) - TODO
+- Tenant Wars (Japan) (Demo) - TODO
+- Tenant Wars (Japan) - TODO
+- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan) (Disc 1) - TODO
+- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan) (Disc 2) - TODO
+- Tenchi Muyou! Rensa Hitsuyou (Japan) - TODO
+- Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn (Japan) (1M) - TODO
+- Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan) (Disc 1) - TODO
+- Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan) (Disc 2) - TODO
+- Tenchi o Kurau II - Sekiheki no Tatakai (Japan) - TODO
+- Tenga Seiha (Japan) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Demo) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 1) - TODO
+- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 2) - TODO
+- Tennis Arena (Japan) - TODO
+- Terra Cresta 3D (Japan) (2M) - TODO
+- Terra Phantastica (Japan) - TODO
+- Terry Pratchett's Discworld (Europe) - TODO
+- Tetris Plus (Europe) - TODO
+- Tetris Plus (Japan) - TODO
+- Tetris Plus (USA) - TODO
+- Tetris S (Japan) (Rev A) - TODO
+- Tetris S (Japan) - TODO
+- Texthoth Ludo - Arcana Senki (Japan) - TODO
+- The Crow - City of Angels (Europe) - TODO
+- The Crow - City of Angels (Germany) - TODO
+- The Crow - City of Angels (Japan) - TODO
+- The Crow - City of Angels (USA) - TODO
+- The Horde (Europe) - TODO
 - The Horde (France) - TODO
-- The Horde (G) - TODO
-- The Horde (J) - TODO
-- [The Horde (U)](./U/T-15909H50/01/README.md)
-- The House of the Dead (E) - TODO
-- The House of the Dead (J) (Demo) - TODO
-- The House of the Dead (J) (Rev A) - TODO
-- The House of the Dead (J) - TODO
-- [The House of the Dead (U)](./U/T-26109G/01/README.md)
-- [The Hyper Golf - Devil's Course (J)](./J/T-2303H/01/README.md)
-- The Incredible Hulk - The Pantheon Saga (E) - TODO
-- [The Incredible Hulk - The Pantheon Saga (U)](./U/T-7905H/01/README.md)
-- The King of Fighters '95 (E) - TODO
-- The King of Fighters '95 (J) (1M) - TODO
-- The King of Fighters '95 (J) (2M) - TODO
-- The King of Fighters '95 (J) (3M) - TODO
-- [The King of Fighters '96 (J)](./J/T-3108G/01/README.md)
-- [The King of Fighters '97 (J)](./J/T-3121G/01/README.md)
-- [The Legend of Oasis (U)](./U/MK-81302/01/README.md)
-- [The Lost Vikings 2 - Norse by Norsewest (E)](./E/T-12521H50/01/README.md)
-- The Lost World - Jurassic Park (E) - TODO
-- The Lost World - Jurassic Park (J) - TODO
-- [The Lost World - Jurassic Park (U)](./U/MK-81065/01/README.md)
-- The Unsolved (J) (Disc 1) - TODO (Recorded)
-- The Unsolved (J) (Disc 2) - TODO
-- The Unsolved (J) (Disc 3) - TODO
-- [The Yakyuuken Special: Konya wa 12-kaisen (J)](./J/T-21901G/01/README.md)
-- Theme Park (E) - TODO
-- Theme Park (J) - TODO
-- [Theme Park (U)](./U/T-5001H/01/README.md)
-- Thor - Seireioukiden (J) - TODO
-- Three Dirty Dwarves (E) - TODO
-- Three Dirty Dwarves (J) (2M) - TODO
-- Three Dirty Dwarves (U) (RE) - TODO (Recorded)
-- Thunder Force Gold Pack 1 (J) - TODO
-- Thunder Force Gold Pack 2 (J) (Rev A) - TODO
-- Thunder Force V (J) (Demo) - TODO
-- Thunder Force V (J) - TODO (Recorded)
-- Thunder Storm & Road Blaster (J) (Disc 1) (Thunder Storm) - TODO
-- Thunder Storm & Road Blaster (J) (Disc 2) (Road Blaster) - TODO
-- Thunderhawk II (J) - TODO
-- Thunderstrike 2 (U) (Rev A) - TODO
-- Thunderstrike 2 (U) - TODO
-- Tilk - Aoi Umi kara Kita Shoujo (J) - TODO
-- Tilt! (E) - TODO
-- Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (J) - TODO
-- Time Commando (J) - TODO
-- Time Gal & Ninja Hayate (J) (Disc 1) (Time Gal) - TODO
-- Time Gal & Ninja Hayate (J) (Disc 2) (Ninja Hayate) (3M) - TODO
-- Titan Wars (E) - TODO
-- Titan Wars (J) - TODO
-- Tokimeki Mahjong Graffiti - Toshishita no Tenshi-tachi (J) - TODO
-- Tokimeki Mahjong Paradise - Koi no Tenpai Beat (J) - TODO
-- Tokimeki Memorial - Forever with You (J) (1M) - TODO
-- Tokimeki Memorial - Forever with You (J) (2M) - TODO
-- Tokimeki Memorial - Forever with You (J) (Special-ban) (2M) - TODO
-- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (J) (Demo) - TODO
-- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (J) - TODO
-- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (J) (Disc 1) (2M) - TODO
-- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (J) (Disc 2) (2M) - TODO
-- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (J) (Disc 1) - TODO
-- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (J) (Disc 2) - TODO
-- Tokimeki Memorial Selection - Fujisaki Shiori (J) - TODO
-- Tokimeki Memorial Taisen Puzzledama (J) (1M) - TODO
-- Tokimeki Memorial Taisen Puzzledama (J) (2M) - TODO
-- Tokimeki Memorial Taisen Tokkaedama (J) - TODO
-- Tokuso Kidoutai J-SWAT (J) - TODO
-- [Tokyo Shadow (J)](./J/T-1110G/01/README.md)
-- Tomb Raider (E) - TODO
-- [Tomb Raider (U)](./U/T-7910H/01/README.md)
-- Tomb Raiders (J) (Demo) - TODO
-- Tomb Raiders (J) - TODO
-- Top Anglers - Super Fishing Big Fight 2 (J) - TODO
-- Torico (E) (Disc 1) - TODO
-- Torico (E) (Disc 2) - TODO
-- [Touge King the Spirits (J)](./J/T-14401G/01/README.md)
-- Touge King the Spirits 2 (J) (Demo) - TODO
-- [Touge King the Spirits 2 (J)](./J/T-14412G/01/README.md)
-- Tour Party - Sotsugyou Ryokou ni Ikou (J) (Rev A) - TODO
-- Tournament Leader (J) - TODO
-- Touryuu Densetsu Elan Doree (J) - TODO
-- Toushinden S (J) - TODO
-- Toushinden URA (J) - TODO
-- Tower, The (J) - TODO
-- Transport Tycoon (J) - TODO
-- Trash It (E) - TODO
-- True Pinball (E) - TODO
-- True Pinball (U) - TODO
-- Tryrush Deppy (J) - TODO
-- Tsuukai!! Slot Shooting (J) - TODO
-- Tunnel B1 (E) - TODO
-- Tunnel B1 (U) - TODO
-- [Tunnel B1 - 3D Mission Shooting: Finalist (J)](./J/T-18511G/01/README.md)
-- TurfWind '96 - Take Yutaka Kyousouba Ikusei Game (J) - TODO
-- Tutankhamen no Nazo - A.N.K.H (J) (Disc 1) - TODO
-- Tutankhamen no Nazo - A.N.K.H (J) (Disc 2) - TODO
-- Twinkle Star Sprites (J) (Disc 1) (Game Disc) - TODO
-- Twinkle Star Sprites (J) (Disc 2) (Omake Disc) - TODO
+- The Horde (Germany) - TODO
+- The Horde (Japan) - TODO
+- [The Horde (USA)](./Regions/USA/T-15909H50/01/README.md)
+- The House of the Dead (Europe) - TODO
+- The House of the Dead (Japan) (Demo) - TODO
+- The House of the Dead (Japan) (Rev A) - TODO
+- The House of the Dead (Japan) - TODO
+- [The House of the Dead (USA)](./Regions/USA/T-26109G/01/README.md)
+- [The Hyper Golf - Devil's Course (Japan)](./Regions/Japan/T-2303H/01/README.md)
+- The Incredible Hulk - The Pantheon Saga (Europe) - TODO
+- [The Incredible Hulk - The Pantheon Saga (USA)](./Regions/USA/T-7905H/01/README.md)
+- The King of Fighters '95 (Europe) - TODO
+- The King of Fighters '95 (Japan) (1M) - TODO
+- The King of Fighters '95 (Japan) (2M) - TODO
+- The King of Fighters '95 (Japan) (3M) - TODO
+- [The King of Fighters '96 (Japan)](./Regions/Japan/T-3108G/01/README.md)
+- [The King of Fighters '97 (Japan)](./Regions/Japan/T-3121G/01/README.md)
+- [The Legend of Oasis (USA)](./Regions/USA/MK-81302/01/README.md)
+- [The Lost Vikings 2 - Norse by Norsewest (Europe)](./Regions/Europe/T-12521H50/01/README.md)
+- The Lost World - Jurassic Park (Europe) - TODO
+- The Lost World - Jurassic Park (Japan) - TODO
+- [The Lost World - Jurassic Park (USA)](./Regions/USA/MK-81065/01/README.md)
+- The Unsolved (Japan) (Disc 1) - TODO (Recorded)
+- The Unsolved (Japan) (Disc 2) - TODO
+- The Unsolved (Japan) (Disc 3) - TODO
+- [The Yakyuuken Special: Konya wa 12-kaisen (Japan)](./Regions/Japan/T-21901G/01/README.md)
+- Theme Park (Europe) - TODO
+- Theme Park (Japan) - TODO
+- [Theme Park (USA)](./Regions/USA/T-5001H/01/README.md)
+- Thor - Seireioukiden (Japan) - TODO
+- Three Dirty Dwarves (Europe) - TODO
+- Three Dirty Dwarves (Japan) (2M) - TODO
+- Three Dirty Dwarves (USA) (RE) - TODO (Recorded)
+- Thunder Force Gold Pack 1 (Japan) - TODO
+- Thunder Force Gold Pack 2 (Japan) (Rev A) - TODO
+- Thunder Force V (Japan) (Demo) - TODO
+- Thunder Force V (Japan) - TODO (Recorded)
+- Thunder Storm & Road Blaster (Japan) (Disc 1) (Thunder Storm) - TODO
+- Thunder Storm & Road Blaster (Japan) (Disc 2) (Road Blaster) - TODO
+- Thunderhawk II (Japan) - TODO
+- Thunderstrike 2 (USA) (Rev A) - TODO
+- Thunderstrike 2 (USA) - TODO
+- Tilk - Aoi Umi kara Kita Shoujo (Japan) - TODO
+- Tilt! (Europe) - TODO
+- Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan) - TODO
+- Time Commando (Japan) - TODO
+- Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal) - TODO
+- Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) - TODO
+- Titan Wars (Europe) - TODO
+- Titan Wars (Japan) - TODO
+- Tokimeki Mahjong Graffiti - Toshishita no Tenshi-tachi (Japan) - TODO
+- Tokimeki Mahjong Paradise - Koi no Tenpai Beat (Japan) - TODO
+- Tokimeki Memorial - Forever with You (Japan) (1M) - TODO
+- Tokimeki Memorial - Forever with You (Japan) (2M) - TODO
+- Tokimeki Memorial - Forever with You (Japan) (Special-ban) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan) (Demo) - TODO
+- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan) - TODO
+- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 1) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 2) (2M) - TODO
+- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 1) - TODO
+- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 2) - TODO
+- Tokimeki Memorial Selection - Fujisaki Shiori (Japan) - TODO
+- Tokimeki Memorial Taisen Puzzledama (Japan) (1M) - TODO
+- Tokimeki Memorial Taisen Puzzledama (Japan) (2M) - TODO
+- Tokimeki Memorial Taisen Tokkaedama (Japan) - TODO
+- Tokuso Kidoutai J-SWAT (Japan) - TODO
+- [Tokyo Shadow (Japan)](./Regions/Japan/T-1110G/01/README.md)
+- Tomb Raider (Europe) - TODO
+- [Tomb Raider (USA)](./Regions/USA/T-7910H/01/README.md)
+- Tomb Raiders (Japan) (Demo) - TODO
+- Tomb Raiders (Japan) - TODO
+- Top Anglers - Super Fishing Big Fight 2 (Japan) - TODO
+- Torico (Europe) (Disc 1) - TODO
+- Torico (Europe) (Disc 2) - TODO
+- [Touge King the Spirits (Japan)](./Regions/Japan/T-14401G/01/README.md)
+- Touge King the Spirits 2 (Japan) (Demo) - TODO
+- [Touge King the Spirits 2 (Japan)](./Regions/Japan/T-14412G/01/README.md)
+- Tour Party - Sotsugyou Ryokou ni Ikou (Japan) (Rev A) - TODO
+- Tournament Leader (Japan) - TODO
+- Touryuu Densetsu Elan Doree (Japan) - TODO
+- Toushinden S (Japan) - TODO
+- Toushinden URA (Japan) - TODO
+- Tower, The (Japan) - TODO
+- Transport Tycoon (Japan) - TODO
+- Trash It (Europe) - TODO
+- True Pinball (Europe) - TODO
+- True Pinball (USA) - TODO
+- Tryrush Deppy (Japan) - TODO
+- Tsuukai!! Slot Shooting (Japan) - TODO
+- Tunnel B1 (Europe) - TODO
+- Tunnel B1 (USA) - TODO
+- [Tunnel B1 - 3D Mission Shooting: Finalist (Japan)](./Regions/Japan/T-18511G/01/README.md)
+- TurfWind '96 - Take Yutaka Kyousouba Ikusei Game (Japan) - TODO
+- Tutankhamen no Nazo - A.N.K.H (Japan) (Disc 1) - TODO
+- Tutankhamen no Nazo - A.N.K.H (Japan) (Disc 2) - TODO
+- Twinkle Star Sprites (Japan) (Disc 1) (Game Disc) - TODO
+- Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc) - TODO
 
 #### U
 
-- [UEFA Euro 96 - England (E)](./E/MK-81180/01/README.md)
-- Ultimate Mortal Kombat 3 (E) (Rev A) - TODO
-- Ultimate Mortal Kombat 3 (E) - TODO
-- [Ultimate Mortal Kombat 3 (U)](./U/T-9701H/01/README.md)
-- [Ultraman - Hikari no Kyojin Densetsu (J)](./J/T-13308G/01/README.md)
-- [Ultraman Zukan (J)](./J/T-25501G/01/README.md)
-- [Ultraman Zukan 2 (J)](./J/T-25502G/01/README.md)
-- [Ultraman Zukan 3 (J)](./J/T-25505G/01/README.md)
-- [Umanari 1 Furlong Gekijou (Umanari 1 Furlong Theater) (J)](./J/T-35001G/01/README.md)
-- [Universal Nuts (J)](./J/T-36202G/01/README.md)
-- [Uno DX (J)](./J/T-26414G/01/README.md)
+- [UEFA Euro 96 - England (Europe)](./Regions/Europe/MK-81180/01/README.md)
+- Ultimate Mortal Kombat 3 (Europe) (Rev A) - TODO
+- Ultimate Mortal Kombat 3 (Europe) - TODO
+- [Ultimate Mortal Kombat 3 (USA)](./Regions/USA/T-9701H/01/README.md)
+- [Ultraman - Hikari no Kyojin Densetsu (Japan)](./Regions/Japan/T-13308G/01/README.md)
+- [Ultraman Zukan (Japan)](./Regions/Japan/T-25501G/01/README.md)
+- [Ultraman Zukan 2 (Japan)](./Regions/Japan/T-25502G/01/README.md)
+- [Ultraman Zukan 3 (Japan)](./Regions/Japan/T-25505G/01/README.md)
+- [Umanari 1 Furlong Gekijou (Umanari 1 Furlong Theater) (Japan)](./Regions/Japan/T-35001G/01/README.md)
+- [Universal Nuts (Japan)](./Regions/Japan/T-36202G/01/README.md)
+- [Uno DX (Japan)](./Regions/Japan/T-26414G/01/README.md)
 
 #### V
 
-- VR Golf '97 (U) - TODO
-- VR Soccer (U) - TODO
-- Valora Valley Golf (E) - TODO
-- Valora Valley Golf (U) - TODO
-- Vampire Hunter - Darkstalker's Revenge (J) (Demo) - TODO
-- Vampire Hunter - Darkstalkers' Revenge (J) (1M) - TODO
-- Vampire Hunter - Darkstalkers' Revenge (J) (2M, 4M) - TODO
-- Vampire Hunter - Darkstalkers' Revenge (J) (3M) - TODO
-- Vampire Savior (J) - TODO
-- Vandal Hearts - Ushinawareta Kodai Bunmei (J) - TODO
-- Vatlva (J) (Demo) - TODO
-- Vatlva (J) (Rev A) - TODO
-- Victory Boxing (E) (Demo) - TODO
-- Victory Boxing (E) - TODO
-- Victory Goal (J) (1A) - TODO
-- Victory Goal (J) (2B) - TODO
-- Victory Goal (J) (3A) - TODO
-- Victory Goal Worldwide Edition (J) - TODO
-- Virtua Cop (E) (2S) - TODO
-- Virtua Cop (E) (4S) - TODO
-- Virtua Cop (E) (7S) - TODO
-- Virtua Cop (E) - TODO
-- Virtua Cop (J) (1M, 5M) - TODO
-- Virtua Cop (J) (2M) - TODO
-- Virtua Cop (U) (5S, 6S) - TODO
-- Virtua Cop (U) (7S) - TODO
-- Virtua Cop (U) (8S, 12S) - TODO
-- Virtua Cop 2 (E) - TODO
-- Virtua Cop 2 (J) (2M) - TODO
-- Virtua Cop 2 (J) (3M) - TODO
-- Virtua Cop 2 (J) (Rev B) (23M) - TODO
-- [Virtua Cop 2 (U)](./U/MK-81043/01/README.md)
-- Virtua Fighter (E) (Made in EU) - TODO
-- Virtua Fighter (E) (Made in USA) - TODO
-- Virtua Fighter (J) (Demo) - TODO
-- Virtua Fighter (J) - TODO
-- Virtua Fighter (U) - TODO
-- Virtua Fighter 2 (E) (Made in EU) - TODO
-- Virtua Fighter 2 (E) (Made in USA) - TODO
-- Virtua Fighter 2 (E) (Rev A) (Made in EU) - TODO
-- Virtua Fighter 2 (E) (Rev A) (Made in USA) - TODO
-- Virtua Fighter 2 (J) (Demo) - TODO
-- Virtua Fighter 2 (J) (Rev B) (32B, 37M) - TODO
-- Virtua Fighter 2 (J) (Rev B) (35C) - TODO
-- Virtua Fighter 2 (J) (Rev B) (36B, 36C) - TODO
-- Virtua Fighter 2 (J) (Rev B) (39B) - TODO
-- Virtua Fighter 2 (J) (Rev B) - TODO
-- Virtua Fighter 2 (J) (Rev C) (42M) - TODO
-- Virtua Fighter 2 (K) - TODO
-- Virtua Fighter 2 (U) (RE) - TODO
-- Virtua Fighter 2 (U) - TODO
-- Virtua Fighter CG Portrait Collection (E) - TODO
-- Virtua Fighter CG Portrait Collection (J) - TODO
-- Virtua Fighter CG Portrait Series - The Final - Dural (J) - TODO
-- Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (J) (1M) - TODO
-- Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (J) (Rev A) - TODO
-- Virtua Fighter CG Portrait Series Vol. 10 - Jeffry McWild (J) (4M) - TODO
-- Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (J) - TODO
-- Virtua Fighter CG Portrait Series Vol. 3 - Akira Yuki (J) (2M) - TODO
-- Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (J) (2M) - TODO
-- Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (J) (3M) - TODO
-- Virtua Fighter CG Portrait Series Vol. 5 - Wolf Hawkfield (J) - TODO
-- Virtua Fighter CG Portrait Series Vol. 6 - Lau Chan (J) (4M) - TODO
-- Virtua Fighter CG Portrait Series Vol. 7 - Shun Di (J) (2M) - TODO
-- Virtua Fighter CG Portrait Series Vol. 8 - Lion Rafale (J) (2M) - TODO
-- Virtua Fighter CG Portrait Series Vol. 9 - Kage Maru (J) (2M) - TODO
-- Virtua Fighter Kids (E) - TODO
-- Virtua Fighter Kids (J) (Java Tea Original) - TODO
-- Virtua Fighter Kids (J) - TODO
-- Virtua Fighter Kids (K) - TODO
-- Virtua Fighter Kids (U) - TODO
-- Virtua Fighter Remix (E) - TODO
-- Virtua Fighter Remix (J) (2M, 5M) - TODO
-- Virtua Fighter Remix (J) (4M) - TODO
-- Virtua Fighter Remix (J) (6M) - TODO
-- Virtua Fighter Remix (J) (SegaNet) - TODO
-- Virtua Fighter Remix (K) - TODO
-- Virtua Fighter Remix (U) - TODO
-- Virtua Photo Studio - Cameraman Simulation (J) (1M, 2M) - TODO
-- Virtua Racing (E) - TODO
-- Virtua Racing (J) - TODO
-- Virtua Racing (U) (12S) - TODO
-- Virtua Racing (U) (15S) - TODO
-- Virtuacall S (J) (Disc 1) (Game Honpen) - TODO
-- Virtuacall S (J) (Disc 2) (Shokai Gentei Yobikake-kun) - TODO
-- Virtual Casino (J) - TODO
-- Virtual Casino (U) - TODO
-- Virtual Golf (E) - TODO
-- Virtual Hydlide (E) - TODO
-- Virtual Hydlide (J) (2M) - TODO
-- Virtual Hydlide (U) (P4H) - TODO
-- Virtual Hydlide (U) (P5H) - TODO
-- Virtual Kyoutei (J) - TODO
-- Virtual Kyoutei 2 (J) (2M) - TODO
-- Virtual Mahjong (J) - TODO
-- Virtual Mahjong 2 - My Fair Lady (J) - TODO
-- Virtual On - Cyber Troopers (E) - TODO
-- Virtual On - Cyber Troopers (U) - TODO
-- Virtual On - Cyber Troopers Net Link Edition (U) - TODO
-- Virtual Open Tennis (E) - TODO
-- Virtual Open Tennis (J) - TODO
-- Virtual Open Tennis (U) - TODO
-- Virtual Volleyball (J) - TODO
-- Virus (J) (Demo) - TODO
-- Virus (J) (Disc 1) - TODO
-- Virus (J) (Disc 2) - TODO
-- Virus (J) (Disc 3) - TODO
-- Voice Fantasia S - Ushinawareta Voice Power (J) (Disc 1) - TODO
-- Voice Fantasia S - Ushinawareta Voice Power (J) (Disc 2) (Premium CD-ROM) - TODO
-- Voice Idol Maniacs - Pool Bar Story (J) (Disc 1) (2M) - TODO
-- Voice Idol Maniacs - Pool Bar Story (J) (Disc 2) - TODO
+- VR Golf '97 (USA) - TODO
+- VR Soccer (USA) - TODO
+- Valora Valley Golf (Europe) - TODO
+- Valora Valley Golf (USA) - TODO
+- Vampire Hunter - Darkstalker's Revenge (Japan) (Demo) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (Japan) (1M) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (Japan) (2M, 4M) - TODO
+- Vampire Hunter - Darkstalkers' Revenge (Japan) (3M) - TODO
+- Vampire Savior (Japan) - TODO
+- Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) - TODO
+- Vatlva (Japan) (Demo) - TODO
+- Vatlva (Japan) (Rev A) - TODO
+- Victory Boxing (Europe) (Demo) - TODO
+- Victory Boxing (Europe) - TODO
+- Victory Goal (Japan) (1A) - TODO
+- Victory Goal (Japan) (2B) - TODO
+- Victory Goal (Japan) (3A) - TODO
+- Victory Goal Worldwide Edition (Japan) - TODO
+- Virtua Cop (Europe) (2S) - TODO
+- Virtua Cop (Europe) (4S) - TODO
+- Virtua Cop (Europe) (7S) - TODO
+- Virtua Cop (Europe) - TODO
+- Virtua Cop (Japan) (1M, 5M) - TODO
+- Virtua Cop (Japan) (2M) - TODO
+- Virtua Cop (USA) (5S, 6S) - TODO
+- Virtua Cop (USA) (7S) - TODO
+- Virtua Cop (USA) (8S, 12S) - TODO
+- Virtua Cop 2 (Europe) - TODO
+- Virtua Cop 2 (Japan) (2M) - TODO
+- Virtua Cop 2 (Japan) (3M) - TODO
+- Virtua Cop 2 (Japan) (Rev B) (23M) - TODO
+- [Virtua Cop 2 (USA)](./Regions/USA/MK-81043/01/README.md)
+- Virtua Fighter (Europe) (Made in EU) - TODO
+- Virtua Fighter (Europe) (Made in USA) - TODO
+- Virtua Fighter (Japan) (Demo) - TODO
+- Virtua Fighter (Japan) - TODO
+- Virtua Fighter (USA) - TODO
+- Virtua Fighter 2 (Europe) (Made in EU) - TODO
+- Virtua Fighter 2 (Europe) (Made in USA) - TODO
+- Virtua Fighter 2 (Europe) (Rev A) (Made in EU) - TODO
+- Virtua Fighter 2 (Europe) (Rev A) (Made in USA) - TODO
+- Virtua Fighter 2 (Japan) (Demo) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) (35C) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) (36B, 36C) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) (39B) - TODO
+- Virtua Fighter 2 (Japan) (Rev B) - TODO
+- Virtua Fighter 2 (Japan) (Rev C) (42M) - TODO
+- Virtua Fighter 2 (South Korea) - TODO
+- Virtua Fighter 2 (USA) (RE) - TODO
+- Virtua Fighter 2 (USA) - TODO
+- Virtua Fighter CG Portrait Collection (Europe) - TODO
+- Virtua Fighter CG Portrait Collection (Japan) - TODO
+- Virtua Fighter CG Portrait Series - The Final - Dural (Japan) - TODO
+- Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan) (1M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan) (Rev A) - TODO
+- Virtua Fighter CG Portrait Series Vol. 10 - Jeffry McWild (Japan) (4M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan) - TODO
+- Virtua Fighter CG Portrait Series Vol. 3 - Akira Yuki (Japan) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (Japan) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (Japan) (3M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 5 - Wolf Hawkfield (Japan) - TODO
+- Virtua Fighter CG Portrait Series Vol. 6 - Lau Chan (Japan) (4M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 7 - Shun Di (Japan) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 8 - Lion Rafale (Japan) (2M) - TODO
+- Virtua Fighter CG Portrait Series Vol. 9 - Kage Maru (Japan) (2M) - TODO
+- Virtua Fighter Kids (Europe) - TODO
+- Virtua Fighter Kids (Japan) (Java Tea Original) - TODO
+- Virtua Fighter Kids (Japan) - TODO
+- Virtua Fighter Kids (South Korea) - TODO
+- Virtua Fighter Kids (USA) - TODO
+- Virtua Fighter Remix (Europe) - TODO
+- Virtua Fighter Remix (Japan) (2M, 5M) - TODO
+- Virtua Fighter Remix (Japan) (4M) - TODO
+- Virtua Fighter Remix (Japan) (6M) - TODO
+- Virtua Fighter Remix (Japan) (SegaNet) - TODO
+- Virtua Fighter Remix (South Korea) - TODO
+- Virtua Fighter Remix (USA) - TODO
+- Virtua Photo Studio - Cameraman Simulation (Japan) (1M, 2M) - TODO
+- Virtua Racing (Europe) - TODO
+- Virtua Racing (Japan) - TODO
+- Virtua Racing (USA) (12S) - TODO
+- Virtua Racing (USA) (15S) - TODO
+- Virtuacall S (Japan) (Disc 1) (Game Honpen) - TODO
+- Virtuacall S (Japan) (Disc 2) (Shokai Gentei Yobikake-kun) - TODO
+- Virtual Casino (Japan) - TODO
+- Virtual Casino (USA) - TODO
+- Virtual Golf (Europe) - TODO
+- Virtual Hydlide (Europe) - TODO
+- Virtual Hydlide (Japan) (2M) - TODO
+- Virtual Hydlide (USA) (P4H) - TODO
+- Virtual Hydlide (USA) (P5H) - TODO
+- Virtual Kyoutei (Japan) - TODO
+- Virtual Kyoutei 2 (Japan) (2M) - TODO
+- Virtual Mahjong (Japan) - TODO
+- Virtual Mahjong 2 - My Fair Lady (Japan) - TODO
+- Virtual On - Cyber Troopers (Europe) - TODO
+- Virtual On - Cyber Troopers (USA) - TODO
+- Virtual On - Cyber Troopers Net Link Edition (USA) - TODO
+- Virtual Open Tennis (Europe) - TODO
+- Virtual Open Tennis (Japan) - TODO
+- Virtual Open Tennis (USA) - TODO
+- Virtual Volleyball (Japan) - TODO
+- Virus (Japan) (Demo) - TODO
+- Virus (Japan) (Disc 1) - TODO
+- Virus (Japan) (Disc 2) - TODO
+- Virus (Japan) (Disc 3) - TODO
+- Voice Fantasia S - Ushinawareta Voice Power (Japan) (Disc 1) - TODO
+- Voice Fantasia S - Ushinawareta Voice Power (Japan) (Disc 2) (Premium CD-ROM) - TODO
+- Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 1) (2M) - TODO
+- Voice Idol Maniacs - Pool Bar Story (Japan) (Disc 2) - TODO
 
 #### W
 
-- WWF In Your House (E) - TODO
-- WWF In Your House (J) - TODO
-- WWF In Your House (U) - TODO
-- WWF WrestleMania - The Arcade Game (E) (Demo) - TODO
-- WWF WrestleMania - The Arcade Game (E) - TODO
-- WWF WrestleMania - The Arcade Game (J) - TODO
-- WWF WrestleMania - The Arcade Game (U) - TODO
-- Wachenroeder (J) - TODO
-- Waialae no Kiseki - Extra 36 Holes (J) - TODO
-- Waku Waku 7 (J) (Demo) - TODO
-- Waku Waku 7 (J) - TODO
-- Waku Waku Puyo Puyo Dungeon (J) (3M) - TODO
-- Waku Waku Puyo Puyo Dungeon (J) (4M) - TODO
-- Waku Waku Puyo Puyo Dungeon (J) (Demo) - TODO
-- Waku^2 Monster (J) - TODO
-- WanChai Connection (J) (Disc A) - TODO
-- WanChai Connection (J) (Disc B) (3A, 3C) - TODO
-- Wangan Dead Heat (J) - TODO
-- Wangan Dead Heat + Real Arrange (J) (Disc 1) - TODO
-- Wangan Dead Heat + Real Arrange (J) (Disc 2) (Addition) - TODO
-- Wangan Trial Love (J) - TODO
-- WarCraft II - The Dark Saga (E) - TODO
-- WarCraft II - The Dark Saga (J) - TODO
-- WarCraft II - The Dark Saga (U) - TODO
-- Wara Wara Wars - Gekitou! Daigundan Battle (J) - TODO
-- Welcome House (J) - TODO
-- Wheel's (J) - TODO
-- Whizz (E) - TODO
-- Whizz (J) - TODO
-- Willy Wombat (J) - TODO
-- Wing Arms (E) - TODO
-- Wing Arms (U) (4S) - TODO
-- Wing Arms (U) (5S) - TODO
-- Wing Arms - Kareinaru Gekitsuiou (J) (Rev A) - TODO
-- Winning Post (U) - TODO
-- Winning Post 2 (J) (2M) - TODO
-- Winning Post 2 (J) (Rev A) (10M) - TODO
-- Winning Post 2 - Final '97 (J) - TODO
-- Winning Post 2 - Program '96 (J) - TODO
-- Winning Post 3 (J) (2M) - TODO
-- Winning Post 3 (J) (3M) - TODO
-- Winning Post 3 - Program '98 (J) - TODO
-- Winning Post EX (J) (2M) - TODO
-- Winter Heat (E) (Demo) - TODO
-- Winter Heat (E) - TODO
-- Winter Heat (J) - TODO
-- Winter Heat (U) - TODO
-- WipEout (E) - TODO
-- WipEout (J) (2M) - TODO
-- WipEout (U) - TODO
-- WipEout 2097 (E) (Demo) - TODO
-- WipEout 2097 (E) - TODO
-- Wipeout XL (J) - TODO
-- With You - Mitsumeteitai (J) (Disc 1) - TODO
-- With You - Mitsumeteitai (J) (Disc 2) - TODO
-- Wizard's Harmony (J) - TODO
-- Wizard's Harmony 2 (J) (1M) - TODO
-- Wizard's Harmony 2 (J) (2M) - TODO
-- Wizardry - Llylgamyn Saga (J) - TODO
-- Wizardry Nemesis - The Wizardry Adventure (J) (Disc 1) - TODO
-- Wizardry Nemesis - The Wizardry Adventure (J) (Disc 2) - TODO
-- Wizardry VI & VII Complete (J) (3M) - TODO
-- Wizardry VI & VII Complete (J) (Sample-ban) (3M) - TODO
-- Wolf Fang SS - Kuuga 2001 (J) - TODO
-- [Wonder 3 Arcade Gears (J)](./J/T-26107G/01/README.md)
-- World Advanced Daisenryaku - Koutetsu no Senpuu (J) (1M, 4M) - TODO
-- World Advanced Daisenryaku - Koutetsu no Senpuu (J) (2M) - TODO
-- World Advanced Daisenryaku - Koutetsu no Senpuu (J) (Rev A) (10M) - TODO
-- World Advanced Daisenryaku - Sakusen File (J) (1M) - TODO
-- World Advanced Daisenryaku - Sakusen File (J) (2M) - TODO
-- World Cup '98 France - Road to Win (J) - TODO
-- World Cup Golf - In Hyatt Dorado Beach (J) - TODO
-- World Cup Golf - Professional Edition (E) (1S) - TODO
-- World Cup Golf - Professional Edition (E) (3S) - TODO
-- World Cup Golf - Professional Edition (F) - TODO
-- World Cup Golf - Professional Edition (G) (Rev A) - TODO
-- World Cup Golf - Professional Edition (U) (RE2) - TODO
-- World Evolution Soccer (J) - TODO
-- World Heroes Perfect (J) - TODO
-- World League Soccer '98 (E) - TODO
-- World Series Baseball (E) - TODO
-- World Series Baseball (U) - TODO
-- World Series Baseball 98 (U) - TODO
-- World Series Baseball II (E) - TODO
-- World Series Baseball II (J) - TODO
-- World Series Baseball II (U) (1S) - TODO
-- World Series Baseball II (U) (2S) - TODO
-- Worldwide Soccer '98 (U) - TODO
-- Worldwide Soccer - Sega International Victory Goal Edition (K) - TODO
-- Worldwide Soccer - Sega International Victory Goal Edition (U) (RE) - TODO
-- Worms (E) - TODO
-- Worms (J) - TODO
-- Worms (U) - TODO
+- WWF In Your House (Europe) - TODO
+- WWF In Your House (Japan) - TODO
+- WWF In Your House (USA) - TODO
+- WWF WrestleMania - The Arcade Game (Europe) (Demo) - TODO
+- WWF WrestleMania - The Arcade Game (Europe) - TODO
+- WWF WrestleMania - The Arcade Game (Japan) - TODO
+- WWF WrestleMania - The Arcade Game (USA) - TODO
+- Wachenroeder (Japan) - TODO
+- Waialae no Kiseki - Extra 36 Holes (Japan) - TODO
+- Waku Waku 7 (Japan) (Demo) - TODO
+- Waku Waku 7 (Japan) - TODO
+- Waku Waku Puyo Puyo Dungeon (Japan) (3M) - TODO
+- Waku Waku Puyo Puyo Dungeon (Japan) (4M) - TODO
+- Waku Waku Puyo Puyo Dungeon (Japan) (Demo) - TODO
+- Waku^2 Monster (Japan) - TODO
+- WanChai Connection (Japan) (Disc A) - TODO
+- WanChai Connection (Japan) (Disc B) (3A, 3C) - TODO
+- Wangan Dead Heat (Japan) - TODO
+- Wangan Dead Heat + Real Arrange (Japan) (Disc 1) - TODO
+- Wangan Dead Heat + Real Arrange (Japan) (Disc 2) (Addition) - TODO
+- Wangan Trial Love (Japan) - TODO
+- WarCraft II - The Dark Saga (Europe) - TODO
+- WarCraft II - The Dark Saga (Japan) - TODO
+- WarCraft II - The Dark Saga (USA) - TODO
+- Wara Wara Wars - Gekitou! Daigundan Battle (Japan) - TODO
+- Welcome House (Japan) - TODO
+- Wheel's (Japan) - TODO
+- Whizz (Europe) - TODO
+- Whizz (Japan) - TODO
+- Willy Wombat (Japan) - TODO
+- Wing Arms (Europe) - TODO
+- Wing Arms (USA) (4S) - TODO
+- Wing Arms (USA) (5S) - TODO
+- Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev A) - TODO
+- Winning Post (USA) - TODO
+- Winning Post 2 (Japan) (2M) - TODO
+- Winning Post 2 (Japan) (Rev A) (10M) - TODO
+- Winning Post 2 - Final '97 (Japan) - TODO
+- Winning Post 2 - Program '96 (Japan) - TODO
+- Winning Post 3 (Japan) (2M) - TODO
+- Winning Post 3 (Japan) (3M) - TODO
+- Winning Post 3 - Program '98 (Japan) - TODO
+- Winning Post EX (Japan) (2M) - TODO
+- Winter Heat (Europe) (Demo) - TODO
+- Winter Heat (Europe) - TODO
+- Winter Heat (Japan) - TODO
+- Winter Heat (USA) - TODO
+- WipEout (Europe) - TODO
+- WipEout (Japan) (2M) - TODO
+- WipEout (USA) - TODO
+- WipEout 2097 (Europe) (Demo) - TODO
+- WipEout 2097 (Europe) - TODO
+- Wipeout XL (Japan) - TODO
+- With You - Mitsumeteitai (Japan) (Disc 1) - TODO
+- With You - Mitsumeteitai (Japan) (Disc 2) - TODO
+- Wizard's Harmony (Japan) - TODO
+- Wizard's Harmony 2 (Japan) (1M) - TODO
+- Wizard's Harmony 2 (Japan) (2M) - TODO
+- Wizardry - Llylgamyn Saga (Japan) - TODO
+- Wizardry Nemesis - The Wizardry Adventure (Japan) (Disc 1) - TODO
+- Wizardry Nemesis - The Wizardry Adventure (Japan) (Disc 2) - TODO
+- Wizardry VI & VII Complete (Japan) (3M) - TODO
+- Wizardry VI & VII Complete (Japan) (Sample-ban) (3M) - TODO
+- Wolf Fang SS - Kuuga 2001 (Japan) - TODO
+- [Wonder 3 Arcade Gears (Japan)](./Regions/Japan/T-26107G/01/README.md)
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (1M, 4M) - TODO
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (2M) - TODO
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (Rev A) (10M) - TODO
+- World Advanced Daisenryaku - Sakusen File (Japan) (1M) - TODO
+- World Advanced Daisenryaku - Sakusen File (Japan) (2M) - TODO
+- World Cup '98 France - Road to Win (Japan) - TODO
+- World Cup Golf - In Hyatt Dorado Beach (Japan) - TODO
+- World Cup Golf - Professional Edition (Europe) (1S) - TODO
+- World Cup Golf - Professional Edition (Europe) (3S) - TODO
+- World Cup Golf - Professional Edition (France) - TODO
+- World Cup Golf - Professional Edition (Germany) (Rev A) - TODO
+- World Cup Golf - Professional Edition (USA) (RE2) - TODO
+- World Evolution Soccer (Japan) - TODO
+- World Heroes Perfect (Japan) - TODO
+- World League Soccer '98 (Europe) - TODO
+- World Series Baseball (Europe) - TODO
+- World Series Baseball (USA) - TODO
+- World Series Baseball 98 (USA) - TODO
+- World Series Baseball II (Europe) - TODO
+- World Series Baseball II (Japan) - TODO
+- World Series Baseball II (USA) (1S) - TODO
+- World Series Baseball II (USA) (2S) - TODO
+- Worldwide Soccer '98 (USA) - TODO
+- Worldwide Soccer - Sega International Victory Goal Edition (South Korea) - TODO
+- Worldwide Soccer - Sega International Victory Goal Edition (USA) (RE) - TODO
+- Worms (Europe) - TODO
+- Worms (Japan) - TODO
+- Worms (USA) - TODO
 
 #### X
 
-- [X Japan - Virtual Shock 001 (J)](./J/GS-9023/01/README.md)
-- X-Men - Children of the Atom (E) (2S) - TODO
-- X-Men - Children of the Atom (E) (3S) - TODO
-- X-Men - Children of the Atom (J) (Demo) - TODO
-- X-Men - Children of the Atom (J) - TODO
-- [X-Men - Children of the Atom (U)](./U/T-8108H/01/README.md)
-- [X-Men vs. Street Fighter (J)](./J/T-1226G/01/README.md)
-- [Xianjian Qixiazhuan (T)](./T/T-37401H/01/README.md)
+- [X Japan - Virtual Shock 001 (Japan)](./Regions/Japan/GS-9023/01/README.md)
+- X-Men - Children of the Atom (Europe) (2S) - TODO
+- X-Men - Children of the Atom (Europe) (3S) - TODO
+- X-Men - Children of the Atom (Japan) (Demo) - TODO
+- X-Men - Children of the Atom (Japan) - TODO
+- [X-Men - Children of the Atom (USA)](./Regions/USA/T-8108H/01/README.md)
+- [X-Men vs. Street Fighter (Japan)](./Regions/Japan/T-1226G/01/README.md)
+- [Xianjian Qixiazhuan (Taiwan)](./Regions/Taiwan/T-37401H/01/README.md)
 
 #### Y
 
-- [Yellow Brick Road (J) (3M)](./J/T-8109G/01/README.md)
-- [Yoshimoto Mahjong Club (J)](./J/T-20403G/01/README.md)
-- [Yoshimura Shougi (J)](./J/T-9531G/01/README.md)
-- [Yoshiyuki Sadamoto Illustrations (J)](./J/T-35102G/01/README.md)
-- [Yumimi Mix Remix (J)](./J/T-4501G/01/README.md)
-- [Yuukyuu Gensoukyoku (J)](./J/T-27804G/01/README.md)
-- [Yuukyuu Gensoukyoku 2nd Album (J)](./J/T-27807G/01/README.md)
-- [Yuukyuu Gensoukyoku Ensemble (J)](./J/T-27808G/01/README.md)
-- [Yuukyuu Gensoukyoku Ensemble 2 (J)](./J/T-27809G/01/README.md)
-- [Yuukyuu no Kobako Official Collection (J)](./J/T-27806G/01/README.md)
-- [Yuushun Classic Road (J)](./J/T-6009G/01/README.md)
+- [Yellow Brick Road (Japan) (3M)](./Regions/Japan/T-8109G/01/README.md)
+- [Yoshimoto Mahjong Club (Japan)](./Regions/Japan/T-20403G/01/README.md)
+- [Yoshimura Shougi (Japan)](./Regions/Japan/T-9531G/01/README.md)
+- [Yoshiyuki Sadamoto Illustrations (Japan)](./Regions/Japan/T-35102G/01/README.md)
+- [Yumimi Mix Remix (Japan)](./Regions/Japan/T-4501G/01/README.md)
+- [Yuukyuu Gensoukyoku (Japan)](./Regions/Japan/T-27804G/01/README.md)
+- [Yuukyuu Gensoukyoku 2nd Album (Japan)](./Regions/Japan/T-27807G/01/README.md)
+- [Yuukyuu Gensoukyoku Ensemble (Japan)](./Regions/Japan/T-27808G/01/README.md)
+- [Yuukyuu Gensoukyoku Ensemble 2 (Japan)](./Regions/Japan/T-27809G/01/README.md)
+- [Yuukyuu no Kobako Official Collection (Japan)](./Regions/Japan/T-27806G/01/README.md)
+- [Yuushun Classic Road (Japan)](./Regions/Japan/T-6009G/01/README.md)
 
 #### Z
 
-- [Z (E)](./E/T-25412H-5/01/README.md)
-- [Zanma Chou Ougi - Valhollian (J)](./J/T-38201G/01/README.md)
-- [Zap! Snowboarding Trix (J)](./J/T-7502G/01/README.md)
-- [Zap! Snowboarding Trix '98 (J)](./J/T-7504G/01/README.md)
-- [Zen Nihon Pro Wres featuring Virtua (J) (Rev A)](./J/GS-9158/01/README.md)
-- [Zenkoku Seifuku Bishoujo Grand Prix - Find Love (J)](./J/T-34602G/01/README.md)
-- [Zero Divide - The Final Conflict (J)](./J/T-31601G/01/README.md)
-- [Zero4 Champ DooZy-J Type-R (J)](./J/T-21401G/01/README.md)
-- [Zoku Gussun Oyoyo (J) (2M)](./J/T-20604G/01/README.md)
-- [Zoku Hatsukoi Monogatari - Shuugaku Ryokou (J)](./J/T-33005G/01/README.md)
-- [Zoop (J)](./J/T-26406G/01/README.md)
-- [Zork I - The Great Underground Empire (J)](./J/T-21502G/01/README.md)
+- [Z (Europe)](./Regions/Europe/T-25412H-5/01/README.md)
+- [Zanma Chou Ougi - Valhollian (Japan)](./Regions/Japan/T-38201G/01/README.md)
+- [Zap! Snowboarding Trix (Japan)](./Regions/Japan/T-7502G/01/README.md)
+- [Zap! Snowboarding Trix '98 (Japan)](./Regions/Japan/T-7504G/01/README.md)
+- [Zen Nihon Pro Wres featuring Virtua (Japan) (Rev A)](./Regions/Japan/GS-9158/01/README.md)
+- [Zenkoku Seifuku Bishoujo Grand Prix - Find Love (Japan)](./Regions/Japan/T-34602G/01/README.md)
+- [Zero Divide - The Final Conflict (Japan)](./Regions/Japan/T-31601G/01/README.md)
+- [Zero4 Champ DooZy-J Type-R (Japan)](./Regions/Japan/T-21401G/01/README.md)
+- [Zoku Gussun Oyoyo (Japan) (2M)](./Regions/Japan/T-20604G/01/README.md)
+- [Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan)](./Regions/Japan/T-33005G/01/README.md)
+- [Zoop (Japan)](./Regions/Japan/T-26406G/01/README.md)
+- [Zork I - The Great Underground Empire (Japan)](./Regions/Japan/T-21502G/01/README.md)
