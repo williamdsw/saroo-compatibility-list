@@ -1,16 +1,9 @@
-# J.B. Harold Blue Chicago Blues (J)
+# J.B. Harold Blue Chicago Blues (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 240118, SS: 240118, FPGA: 05
 
@@ -49,4 +42,4 @@ It's needs a full gameplay test on both discs.
 
 Disc 1:
 
-[![[Sample] SAROO 1.32 (240118) - J.B. Harold Blue Chicago Blues (J) (Disc 1)](https://img.youtube.com/vi/wXpDGsz7diw/0.jpg)](https://www.youtube.com/watch?v=wXpDGsz7diw)
+[![[Sample] SAROO 1.32 (240118) - J.B. Harold Blue Chicago Blues (Japan) (Disc 1)](https://img.youtube.com/vi/wXpDGsz7diw/0.jpg)](https://www.youtube.com/watch?v=wXpDGsz7diw)

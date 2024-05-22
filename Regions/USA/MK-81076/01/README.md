@@ -1,16 +1,9 @@
-# Enemy Zero (U)
+# Enemy Zero (USA)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 240118, SS: 240118, FPGA: 05
 
@@ -53,8 +46,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Disc 0:
 
-[![[Complete] SAROO 1.32 (240118) - Enemy Zero (U) (Disc 0)](https://img.youtube.com/vi/21aptNmny1s/0.jpg)](https://www.youtube.com/watch?v=21aptNmny1s)
+[![[Complete] SAROO 1.32 (240118) - Enemy Zero (USA) (Disc 0)](https://img.youtube.com/vi/21aptNmny1s/0.jpg)](https://www.youtube.com/watch?v=21aptNmny1s)
 
 Disc 1:
 
-[![[Sample] SAROO 1.32 (240118) - Enemy Zero (U) (Disc 1)](https://img.youtube.com/vi/e5DVeG2BXvw/0.jpg)](https://www.youtube.com/watch?v=e5DVeG2BXvw)
+[![[Sample] SAROO 1.32 (240118) - Enemy Zero (USA) (Disc 1)](https://img.youtube.com/vi/e5DVeG2BXvw/0.jpg)](https://www.youtube.com/watch?v=e5DVeG2BXvw)

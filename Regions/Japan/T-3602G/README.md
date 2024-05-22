@@ -1,4 +1,4 @@
-# J.League Go Go Goal! (J)
+# J.League Go Go Goal! (Japan)
 
 ### Tested Versions
 

@@ -1,16 +1,9 @@
-# Isto é Zico: Zico no Kangaeru Soccer (J)
+# Isto é Zico: Zico no Kangaeru Soccer (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231111, SS: 231111, FPGA: 05 [Vortex]
 
@@ -45,4 +38,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231111) - Isto é Zico: Zico no Kangaeru Soccer (J) = Crashes](https://img.youtube.com/vi/UYddqwXNSHg/0.jpg)](https://www.youtube.com/watch?v=UYddqwXNSHg)
+[![[Complete] SAROO 1.32 (231111) - Isto é Zico: Zico no Kangaeru Soccer (Japan) = Crashes](https://img.youtube.com/vi/UYddqwXNSHg/0.jpg)](https://www.youtube.com/watch?v=UYddqwXNSHg)

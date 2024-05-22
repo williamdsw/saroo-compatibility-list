@@ -1,16 +1,9 @@
 # Castlevania: Symphony of the Night - Hack by YZB
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231005, SS: 231005, FPGA: 04
   2. [MCU: 231005, SS: 231005, FPGA: 04](../02/README.md)

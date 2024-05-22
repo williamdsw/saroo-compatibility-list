@@ -1,16 +1,9 @@
-# Die Hard Trilogy (U)
+# Die Hard Trilogy (USA)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231108, SS: 231108, FPGA: 04 [Vortex]
 
@@ -41,4 +34,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231108) - Die Hard Trilogy (U) = Playable](https://img.youtube.com/vi/nATfzbHmRIE/0.jpg)](https://www.youtube.com/watch?v=nATfzbHmRIE)
+[![[Sample] SAROO 1.32 (231108) - Die Hard Trilogy (USA) = Playable](https://img.youtube.com/vi/nATfzbHmRIE/0.jpg)](https://www.youtube.com/watch?v=nATfzbHmRIE)

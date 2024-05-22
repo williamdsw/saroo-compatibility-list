@@ -1,4 +1,4 @@
-# Koudou Saisoku Densetsu - Initial D (J)
+# Koudou Saisoku Densetsu - Initial D (Japan)
 
 ### Tested Versions
 

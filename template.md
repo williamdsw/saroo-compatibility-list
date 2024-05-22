@@ -2,11 +2,9 @@
 
 Game information about compatibility for Sega Saturn's SAROO cartridge.
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS:</b> TODO
-- <b>Region:</b> TODO
-- <b>Model:</b> TODO
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 ### SD Card Info
 

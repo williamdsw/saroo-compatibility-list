@@ -1,16 +1,9 @@
-# Zen Nihon Pro Wres Featuring Virtua (J)
+# Zen Nihon Pro Wres Featuring Virtua (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231125, SS: 231125, FPGA: 05
 
@@ -43,10 +36,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test normal/first disc version aka Zen Nihon Pro Wres featuring Virtua (J).
+- Test normal/first disc version aka Zen Nihon Pro Wres featuring Virtua (Japan).
 
 ### Evidence
 
 Rev A:
 
-[![[Sample] SAROO 1.32 (231125) - Zen Nihon Pro Wres Featuring Virtua (J) = Playable](https://img.youtube.com/vi/BztaLskZ7Ow/0.jpg)](https://www.youtube.com/watch?v=BztaLskZ7Ow)
+[![[Sample] SAROO 1.32 (231125) - Zen Nihon Pro Wres Featuring Virtua (Japan) = Playable](https://img.youtube.com/vi/BztaLskZ7Ow/0.jpg)](https://www.youtube.com/watch?v=BztaLskZ7Ow)

@@ -1,16 +1,9 @@
-# Strikers 1945 (J)
+# Strikers 1945 (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231005, SS: 231005, FPGA: 04
 
@@ -43,9 +36,9 @@ It does need tests on another difficulties and with another characters.
 
 ### TODO
 
-- Test X-Men vs. Street Fighter (J) (1M)
-- Test X-Men vs. Street Fighter (J) (2M)
+- Test X-Men vs. Street Fighter (Japan) (1M)
+- Test X-Men vs. Street Fighter (Japan) (2M)
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - Strikers 1945 (J)](https://img.youtube.com/vi/h1JsM3GUI1U/0.jpg)](https://www.youtube.com/watch?v=h1JsM3GUI1U)
+[![[Complete] SAROO 1.32 (231005) - Strikers 1945 (Japan)](https://img.youtube.com/vi/h1JsM3GUI1U/0.jpg)](https://www.youtube.com/watch?v=h1JsM3GUI1U)

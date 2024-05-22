@@ -1,16 +1,9 @@
-# The Legend of Heroes I & II Eiyuu Densetsu (J)
+# The Legend of Heroes I & II Eiyuu Densetsu (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 240316, SS: 240316, FPGA: 05
 
@@ -44,8 +37,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 The Legend of Heroes I:
 
-[![[Sample] SAROO 1.32 (240316) - The Legend of Heroes I & II Eiyuu Densetsu (J) - TLH I](https://img.youtube.com/vi/-HvLguE3Fig/0.jpg)](https://www.youtube.com/watch?v=-HvLguE3Fig)
+[![[Sample] SAROO 1.32 (240316) - The Legend of Heroes I & II Eiyuu Densetsu (Japan) - TLH I](https://img.youtube.com/vi/-HvLguE3Fig/0.jpg)](https://www.youtube.com/watch?v=-HvLguE3Fig)
 
 The Legend of Heroes II:
 
-[![[Sample] SAROO 1.32 (240316) - The Legend of Heroes I & II Eiyuu Densetsu (J) - TLH II](https://img.youtube.com/vi/PO5tFLtm-qA/0.jpg)](https://www.youtube.com/watch?v=PO5tFLtm-qA)
+[![[Sample] SAROO 1.32 (240316) - The Legend of Heroes I & II Eiyuu Densetsu (Japan) - TLH II](https://img.youtube.com/vi/PO5tFLtm-qA/0.jpg)](https://www.youtube.com/watch?v=PO5tFLtm-qA)

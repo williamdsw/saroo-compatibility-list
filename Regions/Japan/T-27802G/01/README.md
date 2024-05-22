@@ -1,16 +1,9 @@
-# Eternal Melody (J)
+# Eternal Melody (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 240118, SS: 240118, FPGA: 05
 
@@ -41,8 +34,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Eternal Melody (J) (Rev A)
+- Test Eternal Melody (Japan) (Rev A)
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Eternal Melody (J)](https://img.youtube.com/vi/DZ6MjaSZPRA/0.jpg)](https://www.youtube.com/watch?v=DZ6MjaSZPRA)
+[![[Sample] SAROO 1.32 (240118) - Eternal Melody (Japan)](https://img.youtube.com/vi/DZ6MjaSZPRA/0.jpg)](https://www.youtube.com/watch?v=DZ6MjaSZPRA)

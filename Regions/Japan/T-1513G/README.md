@@ -1,4 +1,4 @@
-# Amagi Shien (J)
+# Amagi Shien (Japan)
 
 ### Tested Versions
 

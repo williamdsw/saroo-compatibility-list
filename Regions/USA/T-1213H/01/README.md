@@ -1,16 +1,9 @@
-# Street Fighter Alpha 2 (U)
+# Street Fighter Alpha 2 (USA)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231005, SS: 231005, FPGA: 04
 
@@ -45,4 +38,4 @@ It needs tests with others caracters, and others modes (tournement, etc).
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Street Fighter Alpha 2 (U) = Freezes](https://img.youtube.com/vi/f70O0AcXrqs/0.jpg)](https://www.youtube.com/watch?v=f70O0AcXrqs)
+[![[Sample] SAROO 1.32 (231005) - Street Fighter Alpha 2 (USA) = Freezes](https://img.youtube.com/vi/f70O0AcXrqs/0.jpg)](https://www.youtube.com/watch?v=f70O0AcXrqs)

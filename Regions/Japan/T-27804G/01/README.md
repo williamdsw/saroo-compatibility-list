@@ -1,16 +1,9 @@
-# Yuukyuu Gensoukyoku (J)
+# Yuukyuu Gensoukyoku (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 240118, SS: 240118, FPGA: 05
 
@@ -43,9 +36,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Yuukyuu Gensoukyoku (J) (Alt)
-- Test Yuukyuu Gensoukyoku (J) (Demo)
+- Test Yuukyuu Gensoukyoku (Japan) (Alt)
+- Test Yuukyuu Gensoukyoku (Japan) (Demo)
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Yuukyuu Gensoukyoku (J) = Playable](https://img.youtube.com/vi/Pxt4TKkM4kY/0.jpg)](https://www.youtube.com/watch?v=Pxt4TKkM4kY)
+[![[Sample] SAROO 1.32 (240118) - Yuukyuu Gensoukyoku (Japan) = Playable](https://img.youtube.com/vi/Pxt4TKkM4kY/0.jpg)](https://www.youtube.com/watch?v=Pxt4TKkM4kY)

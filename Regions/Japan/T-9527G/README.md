@@ -1,4 +1,4 @@
-# Akumajou Dracula X - Gekka no Yasoukyoku (J)
+# Akumajou Dracula X - Gekka no Yasoukyoku (Japan)
 
 ### Tested Versions
 

@@ -1,16 +1,9 @@
-# Soviet Strike (U)
+# Soviet Strike (USA)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231005, SS: 231005, FPGA: 04
 
@@ -46,4 +39,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Soviet Strike (U) = Cutscene Freeze & In Game Playable](https://img.youtube.com/vi/PVZdIP1oB7Q/0.jpg)](https://www.youtube.com/watch?v=PVZdIP1oB7Q)
+[![[Sample] SAROO 1.32 (231005) - Soviet Strike (USA) = Cutscene Freeze & In Game Playable](https://img.youtube.com/vi/PVZdIP1oB7Q/0.jpg)](https://www.youtube.com/watch?v=PVZdIP1oB7Q)

@@ -1,16 +1,9 @@
-# Shinobi Legions (U)
+# Shinobi Legions (USA)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231005, SS: 231005, FPGA: 04
 
@@ -41,4 +34,4 @@ Tested until Stage 3. It's needs a full gameplay test.
 
 ### Evidence
 
-[![Shinobi Legions (U)](https://img.youtube.com/vi/5N5PxQVanz8/0.jpg)](https://www.youtube.com/watch?v=5N5PxQVanz8)
+[![Shinobi Legions (USA)](https://img.youtube.com/vi/5N5PxQVanz8/0.jpg)](https://www.youtube.com/watch?v=5N5PxQVanz8)

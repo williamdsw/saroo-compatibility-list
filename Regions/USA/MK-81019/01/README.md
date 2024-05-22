@@ -1,16 +1,9 @@
-# Astal (U)
+# Astal (USA)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231125, SS: 231125, FPGA: 05
 
@@ -43,11 +36,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Astal (U) (2S)
-- Test Astal (U) (3S)
+- Test Astal (USA) (2S)
+- Test Astal (USA) (3S)
 
 ### Evidence
 
 1S:
 
-[![[Sample] SAROO 1.32 (231125) - Astal (U) (1S) = Playable](https://img.youtube.com/vi/Yfhz5RX9gwc/0.jpg)](https://www.youtube.com/watch?v=Yfhz5RX9gwc)
+[![[Sample] SAROO 1.32 (231125) - Astal (USA) (1S) = Playable](https://img.youtube.com/vi/Yfhz5RX9gwc/0.jpg)](https://www.youtube.com/watch?v=Yfhz5RX9gwc)

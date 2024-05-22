@@ -1,16 +1,9 @@
-# Duke Nukem 3D (U)
+# Duke Nukem 3D (USA)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 000000, SS: 231005, FPGA: 04
 
@@ -41,4 +34,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Duke Nukem 3D (U) = Playable](https://img.youtube.com/vi/mxY5-EnT8E4/0.jpg)](https://www.youtube.com/watch?v=mxY5-EnT8E4)
+[![[Sample] SAROO 1.32 (231005) - Duke Nukem 3D (USA) = Playable](https://img.youtube.com/vi/mxY5-EnT8E4/0.jpg)](https://www.youtube.com/watch?v=mxY5-EnT8E4)

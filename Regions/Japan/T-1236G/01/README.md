@@ -1,16 +1,9 @@
-# Capcom Generation Vol.5 (J)
+# Capcom Generation Vol.5 (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231108, SS: 231108, FPGA: 04 [Vortex]
 
@@ -41,4 +34,4 @@ It needs gameplay tests with others characters and difficulties.
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231108) - Capcom Generations 5: Street Fighter Collection 2 (J)](https://img.youtube.com/vi/zURb4HVkROw/0.jpg)](https://www.youtube.com/watch?v=zURb4HVkROw)
+[![[Complete] SAROO 1.32 (231108) - Capcom Generations 5: Street Fighter Collection 2 (Japan)](https://img.youtube.com/vi/zURb4HVkROw/0.jpg)](https://www.youtube.com/watch?v=zURb4HVkROw)

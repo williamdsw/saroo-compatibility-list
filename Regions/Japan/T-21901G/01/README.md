@@ -1,16 +1,9 @@
-# The Yakyuuken Special: Konya wa 12-kaisen (J)
+# The Yakyuuken Special: Konya wa 12-kaisen (Japan)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 240118, SS: 240118, FPGA: 05
 
@@ -41,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - The Yakyuuken Special: Konya wa 12-kaisen (J) = Playable](https://img.youtube.com/vi/MvaDt19GR44/0.jpg)](https://www.youtube.com/watch?v=MvaDt19GR44)
+[![[Sample] SAROO 1.32 (240118) - The Yakyuuken Special: Konya wa 12-kaisen (Japan) = Playable](https://img.youtube.com/vi/MvaDt19GR44/0.jpg)](https://www.youtube.com/watch?v=MvaDt19GR44)

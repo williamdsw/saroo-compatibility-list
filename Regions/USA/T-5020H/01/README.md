@@ -1,16 +1,9 @@
-# Andretti Racing (U)
+# Andretti Racing (USA)
 
-### Console Info
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
-- <b>BIOS Version:</b> V1.00a (1995)
-- <b>Region:</b> US - NTSC
-- <b>Model:</b> HST-3220 (Black - Tectoy)
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
-### SAROO Info
-
-- <b>Vendor:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_DlCqvfB)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
 - <b>Firmwares Tested:</b>
   1. MCU: 231111, SS: 231111, FPGA: 05 [Vortex]
 
@@ -42,4 +35,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Andretti Racing (U) = Playable](https://img.youtube.com/vi/v5_4ANWEels/0.jpg)](https://www.youtube.com/watch?v=v5_4ANWEels)
+[![[Sample] SAROO 1.32 (231111) - Andretti Racing (USA) = Playable](https://img.youtube.com/vi/v5_4ANWEels/0.jpg)](https://www.youtube.com/watch?v=v5_4ANWEels)
