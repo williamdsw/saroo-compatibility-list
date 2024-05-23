@@ -7,12 +7,7 @@
 - <b>Firmwares Tested:</b>
   1. MCU: 231125, SS: 231125, FPGA: 05
 
-### SD Card Info
-
-- <b>Brand:</b> [Lenovo](https://s.click.aliexpress.com/e/_DBowUFx)
-- <b>File System:</b> Large FAT32
-- <b>Capacity:</b> 128 GB
-- <b>Cluster Size:</b> 32 kb
+### [SD Card Info (Lenovo - 128 GB)](../../../../Info/SdCards/Lenovo/128GB/README.md)
 
 ### Game Info
 
