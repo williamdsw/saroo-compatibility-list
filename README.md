@@ -19,11 +19,11 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 - `France` - FRA, FR (0 Games)
 - `Germany` - GER, GE (0 Games)
 - `Italy` - ITA, IT (0 Games)
-- `Japan` - JAP, JP (257 Games)
+- `Japan` - JAP, JP (266 Games)
 - `South Korea` - STK, SK (0 Games)
 - `Taiwan` - TAI, TW (1 Game)
-- `USA` - United States of America, US (79 Games)
-- Total: 355 games registered here
+- `USA` - United States of America, US (86 Games)
+- Total: 371 games registered here
 
 ### Games
 

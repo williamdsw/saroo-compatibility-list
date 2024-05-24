@@ -2,7 +2,7 @@
 
 ## B
 
-#### 106 Games (9 Tested)
+#### 106 Games (10 Tested)
 
 - BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) - TODO
 - BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) - TODO

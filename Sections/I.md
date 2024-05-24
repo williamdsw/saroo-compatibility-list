@@ -4,7 +4,7 @@
 
 #### 29 Games (19 Tested)
 
-- [Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (2M)](../Regions/Japan/T-1208G/01/README.md)
+- [Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)](../Regions/Japan/T-1208G/01/README.md)
 - [Idol Janshi Suchie-Pai II (Japan)](../Regions/Japan/T-5705G/01/README.md)
 - [Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (Japan)](../Regions/Japan/T-5716G/01/README.md)
 - [Idol Janshi Suchie-Pai Remix (Japan)](../Regions/Japan/T-5704G/01/README.md)

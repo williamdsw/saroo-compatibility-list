@@ -2,7 +2,7 @@
 
 ## G
 
-#### 111 Games (5 Tested)
+#### 111 Games (11 Tested)
 
 - G Vector (Japan) - TODO
 - GT24 (Japan) - TODO

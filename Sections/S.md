@@ -2,7 +2,7 @@
 
 ## S
 
-#### 402 Games (18 Tested)
+#### 402 Games (22 Tested)
 
 - SD Gundam - GCentury S (Japan) - TODO
 - Sakamoto Ryouma - Ishin Kaikoku (Japan) - TODO

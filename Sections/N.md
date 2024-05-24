@@ -2,7 +2,7 @@
 
 ## N
 
-#### 92 Games (0 Tested)
+#### 92 Games (2 Tested)
 
 - NASCAR 98 (Europe) - TODO
 - NASCAR 98 (France) - TODO

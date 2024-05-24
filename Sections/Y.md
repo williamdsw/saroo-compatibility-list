@@ -4,7 +4,7 @@
 
 #### 11 Games
 
-- [Yellow Brick Road (Japan) (3M)](../Regions/Japan/T-8109G/01/README.md)
+- [Yellow Brick Road (Japan)](../Regions/Japan/T-8109G/01/README.md)
 - [Yoshimoto Mahjong Club (Japan)](../Regions/Japan/T-20403G/01/README.md)
 - [Yoshimura Shougi (Japan)](../Regions/Japan/T-9531G/01/README.md)
 - [Yoshiyuki Sadamoto Illustrations (Japan)](../Regions/Japan/T-35102G/01/README.md)
