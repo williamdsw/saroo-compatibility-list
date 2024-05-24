@@ -1,11 +1,11 @@
-# Panzer Dragoon (USA)
+# Bust-A-Move 3 (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
 ### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. MCU: 231005, SS: 231005, FPGA: 04
+  1. MCU: 231125, SS: 231125, FPGA: 05
 
 ### [SD Card Info (XRayDisk - 128 GB)](../../../../Info/SdCards/XRayDisk/128GB/README.md)
 
@@ -13,27 +13,20 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> PANZER DRAGOON
-- <b>Product Number:</b> MK-81009
+- <b>Game Name:</b> BUST-A-MOVE 3
+- <b>Product Number:</b> T-31103H
 - <b>Version:</b> V1.001
-- <b>Area Code:</b> BKUT
+- <b>Area Code:</b> U
 - <b>Peripheral Code:</b> J
 
 ### Status
 
-- (1S): Untested :question:
-- (5S): Playable :white_check_mark:
+- Playable :white_check_mark:
 
 ### Extra Info
 
-It's needs a full gameplay test on both ISOs
-
-### TODO
-
-- Test Panzer Dragoon (USA) (1S)
+- It does need a full gameplay test.
 
 ### Evidence
 
-(5S):
-
-[![[Sample] SAROO 1.32 (231005) - Panzer Dragoon (USA) = Playable](https://img.youtube.com/vi/URZ9K-G0dpU/0.jpg)](https://www.youtube.com/watch?v=URZ9K-G0dpU)
+[![[Sample] SAROO 1.32 (231125) - Bust-A-Move 3 (U) = Playable](https://img.youtube.com/vi/noLfhZyNlk4/0.jpg)](https://www.youtube.com/watch?v=noLfhZyNlk4)

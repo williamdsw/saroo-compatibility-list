@@ -11,9 +11,10 @@
 - Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) - TODO
 - Gal Jan (Japan) - TODO
 - Galactic Attack (Europe) - TODO
-- Galactic Attack (USA) - TODO (Recorded)
+- [Galactic Attack (USA)](../Regions/USA/T-8116H/01/README.md)
+- (USA) - TODO (Recorded)
 - Galaxy Fight (Europe) - TODO
-- Galaxy Fight (USA) - TODO (Recorded)
+- [Galaxy Fight (USA)](../Regions/USA/T-1504H/01/README.md)
 - Galaxy Fight - Universal Warriors (Japan) - TODO
 - Gale Racer (Japan) (1A) - TODO
 - Gals Panic SS (Japan) - TODO
@@ -41,7 +42,7 @@
 - Gebockers (Japan) (Demo) - TODO
 - Gebockers (Japan) - TODO
 - Gekiretsu Pachinkers (Japan) - TODO
-- Gekirindan (Japan) - TODO (Recorded)
+- [Gekirindan (Japan)](../Regions/Japan/T-7008G/01/README.md)
 - Gekitotsu Koushien (Japan) (Demo) - TODO
 - Gekitotsu Koushien (Japan) - TODO
 - Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M) - TODO
@@ -79,7 +80,7 @@
 - Gotha II - Tenkuu no Kishi (Japan) - TODO
 - Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (Japan) (Demo) - TODO
 - [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../Regions/Japan/T-14411G/01/README.md)
-- Gradius Deluxe Pack (Japan) - TODO (Check if recorded)
+- [Gradius Deluxe Pack (Japan)](../Regions/Japan/T-9509G/01/README.md)
 - Gran Chaser (Japan) (3M) - TODO
 - GranDread (Japan) - TODO
 - Grand Slam (USA) - TODO
@@ -100,7 +101,7 @@
 - Gremlin Demo Disk (Europe) - TODO
 - Grid Run (Europe) - TODO
 - Grid Runner (Japan) - TODO
-- Grid Runner (USA) - TODO (Recorded)
+- [Grid Runner (USA)](../Regions/USA/T-7025H/01/README.md)
 - Guardian Force (Japan) - TODO
 - Guardian Heroes (Europe) - TODO
 - Guardian Heroes (Japan) (3M) - TODO
@@ -108,7 +109,7 @@
 - [Gun Frontier Arcade Gears (Japan)](../Regions/Japan/T-26109G/01/README.md)
 - Gun Griffon (Europe) - TODO
 - GunBlaze-S (Japan) - TODO
-- Gunbird (Japan) - TODO (Recorded)
+- [Gunbird (Japan)](../Regions/Japan/T-14402G/01/README.md)
 - Gungriffon (USA) - TODO
 - Gungriffon - The Eurasian Conflict (Japan) - TODO
 - Gungriffon II (Japan) (Demo) - TODO

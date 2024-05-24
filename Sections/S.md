@@ -34,7 +34,7 @@
 - Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban) - TODO
 - Sakura Taisen Teikokukagekidan Taiin Meibo (Japan) - TODO
 - Sakura Tsuushin (Japan) - TODO
-- Salamander Deluxe Pack Plus (Japan) - TODO (Recorded)
+- [Salamander Deluxe Pack Plus (Japan)](../Regions/Japan/T-9520G/01/README.md)
 - [Samurai Spirits - Amakusa Kourin (Japan)](../Regions/Japan/T-3116G/01/README.md)
 - [Samurai Spirits - Zankurou Musouken (Japan)](../Regions/Japan/T-3104G/01/README.md)
 - Sangokushi Eiketsuden (Japan) - TODO
@@ -185,9 +185,9 @@
 - Shellshock - Jus' Keepin' da Peace (Japan) - TODO
 - Shichisei Toushin Guyferd - Crown Kaimetsu Sakusen (Japan) - TODO
 - Shichuu Suimei Pitagraph (Japan) (2M) - TODO
-- Shienryuu (Japan) - TODO
+- [Shienryuu (Japan)](../Regions/Japan/T-29102G/01/README.md)
 - Shin Kaitei Gunkan - Koutetsu no Kodoku (Japan) - TODO
-- Shin Megami Tensei - Devil Summoner (Japan) (Rev A) - TODO
+- Shin Megami Tensei - Shinrei Summoner (Japan) (Rev A) - TODO
 - Shin Megami Tensei - Devil Summoner (Japan) (Rev B) - TODO
 - Shin Megami Tensei - Devil Summoner - Akuma Zensho (Japan) - TODO
 - Shin Seiki Evangelion (Japan) - TODO
@@ -221,7 +221,7 @@
 - Shinobi-X - Shin Shinobi Den (Europe) - TODO
 - Shinouken (Japan) - TODO
 - Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World for Sega Saturn (Japan) (2M) - TODO
-- Shinrei Jusatsushi Taroumaru (Japan) - TODO
+- [Shinrei Jusatsushi Taroumaru (Japan)](../Regions/Japan/T-4804G/01/README.md)
 - Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - TODO
 - Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (Japan) (Rev A) (1M) - TODO
 - Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (Japan) (Rev A) (2A, 2B) - TODO
@@ -357,9 +357,7 @@
 - Street Fighter Collection (USA) (Disc 2) - TODO
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
-- Street Fighter Zero (Japan) (1M) - TODO (Recorded - Check Version)
-- Street Fighter Zero (Japan) (2M) - TODO
-- Street Fighter Zero (Japan) (Rev A) (10M) - TODO
+- [Street Fighter Zero (Japan)](../Regions/Japan/T-1206G/01/README.md)
 - Street Fighter Zero 2 (Japan) (Demo) - TODO
 - Street Fighter Zero 2 (Japan) - TODO
 - Street Fighter Zero 2' (Japan) - TODO (Recorded)

@@ -21,7 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (1M): Untested :question:
+- (2M): Playable :white_check_mark:
+- (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
@@ -29,6 +31,13 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - It does need tests with others characters.
 - It does need tests with others difficulties.
 
+### TODO
+
+- Test Dead Or Alive (1M)
+- Test Dead Or Alive (Rev A) (10M)
+
 ### Evidence
+
+(2M):
 
 [![[Complete] SAROO 1.32 (231111) - Dead Or Alive (Japan) = Playable](https://img.youtube.com/vi/30PiaAt4488/0.jpg)](https://www.youtube.com/watch?v=30PiaAt4488)

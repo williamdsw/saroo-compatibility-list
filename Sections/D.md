@@ -58,10 +58,7 @@
 - DeJig - Lassen - Art Collection (Japan) - TODO
 - DeJig - McKnight - Art Collection (Japan) - TODO
 - DeJig - Tin Toy (Japan) - TODO
-- [Dead Or Alive (Japan)](../Regions/Japan/T-3603G/01/README.md) - TODO (Check correct version)
-- Dead or Alive (Japan) (1M) - TODO
-- Dead or Alive (Japan) (2M) - TODO
-- Dead or Alive (Japan) (Rev A) (10M) - TODO
+- [Dead Or Alive (Japan)](../Regions/Japan/T-3603G/01/README.md)
 - Deadalus (Japan) (1M) - TODO
 - Deadalus (Japan) (2A) - TODO
 - Deadalus (Japan) (3A) - TODO

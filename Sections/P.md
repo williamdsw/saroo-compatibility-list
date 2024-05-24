@@ -27,9 +27,7 @@
 - Panzer Dragoon (Japan) (5A) - TODO
 - Panzer Dragoon (Japan) (Demo 1) - TODO
 - Panzer Dragoon (Japan) (Demo 2) - TODO
-- [Panzer Dragoon (USA)](../Regions/USA/MK-81009/01/README.md) - TODO (Check Version)
-- Panzer Dragoon (USA) (1S) - TODO
-- Panzer Dragoon (USA) (5S) - TODO
+- [Panzer Dragoon (USA)](../Regions/USA/MK-81009/01/README.md)
 - Panzer Dragoon (USA) (Demo) (2S) - TODO
 - Panzer Dragoon (USA) (Demo) (3S) - TODO
 - Panzer Dragoon (USA) (Demo) (4S) - TODO

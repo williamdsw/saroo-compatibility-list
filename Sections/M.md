@@ -103,7 +103,7 @@
 - Metal Black (Japan) (3M) - TODO
 - Metal Fighter Miku (Japan) - TODO
 - Metal Slug - Super Vehicle-001 (Japan) (Rev A) - TODO
-- Metal Slug - Super Vehicle-001 (Japan) - TODO (Recorded)
+- [Metal Slug - Super Vehicle-001 (Japan)](../Regions/Japan/T-3111G/01/README.md)
 - Mezase Idol Star!! Natsuiro Memories - Mahjong-hen (Japan) (2M) - TODO
 - [Midway Presents Arcade's Greatest Hits (USA)](../Regions/USA/T-9703H/01/README.md)
 - [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (USA)](../Regions/USA/T-9706H/01/README.md)
@@ -112,7 +112,7 @@
 - Minakata Hakudou Toujou (Japan) (Disc 1) (2M) - TODO
 - Minakata Hakudou Toujou (Japan) (Disc 2) - TODO
 - Minami no Shima ni Buta ga Ita - Lucas no Daibouken (Japan) (2M) - TODO
-- [Minnesota Fats: Pool Legend (USA) (R)](../Regions/USA/T-1302H/01/README.md)
+- [Minnesota Fats: Pool Legend (USA)](../Regions/USA/T-1302H/01/README.md)
 - Minton Keibu no SoU File - Doukeshi Satsujin Jiken (Japan) - TODO
 - Mizubaku Daibouken (Japan) - TODO
 - Mizuki Shigeru no Youkai Zukan Soushuuhen (Japan) - TODO
