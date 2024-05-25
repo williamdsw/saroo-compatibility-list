@@ -2,7 +2,7 @@
 
 ## F
 
-#### 106 Games (2 Tested)
+#### 106 Games (4 Tested)
 
 - F-1 Live Information (Japan) - TODO
 - F1 Challenge (Europe) - TODO
@@ -37,14 +37,13 @@
 - Fighters Megamix (Japan) (2M) - TODO
 - Fighters Megamix (Japan) - TODO
 - Fighters Megamix (USA) (RE) - TODO
-- Fighters Megamix (USA) - TODO (Recorded)
+- [Fighters Megamix (USA)](../Regions/USA/MK-81073/01/README.md)
 - Fighting Vipers (Europe) - TODO
 - Fighting Vipers (Japan) (Demo) - TODO
 - Fighting Vipers (Japan) (Rev A) - TODO
 - Fighting Vipers (Japan) (Rev C) - TODO
 - Fighting Vipers (Korea) - TODO
-- Fighting Vipers (USA) (5S) - TODO (Recorded - Check Version)
-- Fighting Vipers (USA) (6S) - TODO (Recorded - Check Version)
+- [Fighting Vipers (USA)](../Regions/USA/MK-81041/01/README.md)
 - [Final Fight Revenge (Japan)](../Regions/Japan/T-20605G/01/README.md)
 - Find Love 2 - Rhapsody (Japan) (Disc 1) - TODO
 - Find Love 2 - Rhapsody (Japan) (Disc 2) - TODO

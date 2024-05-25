@@ -2,7 +2,7 @@
 
 ## D
 
-#### 172 Games (12 Tested)
+#### 172 Games (13 Tested)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -150,7 +150,7 @@
 - Doukyuusei 2 (Japan) (Disc B) - TODO
 - Dragon Ball Z - Idainaru Dragon Ball Densetsu (Japan) - TODO
 - Dragon Ball Z - La Grande Legende des Boules de Cristal (F, S) - TODO
-- Dragon Ball Z - Shinbutouden (Japan) - TODO (Recorded)
+- [Dragon Ball Z - Shinbutouden (Japan)](../Regions/Japan/T-13302G/01/README.md)
 - Dragon Force (Europe) - TODO
 - Dragon Force (Japan) (1M, 2M, 3M) - TODO
 - Dragon Force (Japan) (4M) - TODO

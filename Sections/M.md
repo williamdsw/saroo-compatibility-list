@@ -2,7 +2,7 @@
 
 ## M
 
-#### 163 Games (12 Tested)
+#### 162 Games (13 Tested)
 
 - Maboroshi no Black Bass (Japan) - TODO
 - Machi (Japan) (Demo) (1M) - TODO
@@ -151,8 +151,7 @@
 - Mr. Bones (Japan) (Demo) - TODO
 - Mr. Bones (Japan) (Disc 1) - TODO
 - Mr. Bones (Japan) (Disc 2) - TODO
-- Mr. Bones (USA) (Disc 1) - TODO (Recorded)
-- Mr. Bones (USA) (Disc 2) - TODO
+- [Mr. Bones (USA)](../Regions/USA/MK-81016/01/README.md)
 - Mujintou Monogatari R - Futari no Love Love Island (Japan) - TODO
 - Murakoshi Seikai no Bakuchou Nihon Rettou (Japan) - TODO
 - My Best Friends - St. Andrew Jogakuin-hen (Japan) - TODO

@@ -2,7 +2,7 @@
 
 ## G
 
-#### 111 Games (11 Tested)
+#### 111 Games (12 Tested)
 
 - G Vector (Japan) - TODO
 - GT24 (Japan) - TODO
@@ -12,7 +12,6 @@
 - Gal Jan (Japan) - TODO
 - Galactic Attack (Europe) - TODO
 - [Galactic Attack (USA)](../Regions/USA/T-8116H/01/README.md)
-- (USA) - TODO (Recorded)
 - Galaxy Fight (Europe) - TODO
 - [Galaxy Fight (USA)](../Regions/USA/T-1504H/01/README.md)
 - Galaxy Fight - Universal Warriors (Japan) - TODO
@@ -105,7 +104,7 @@
 - Guardian Force (Japan) - TODO
 - Guardian Heroes (Europe) - TODO
 - Guardian Heroes (Japan) (3M) - TODO
-- Guardian Heroes (USA) - TODO (Recorded)
+- [Guardian Heroes (USA)](../Regions/USA/MK-81035/01/README.md)
 - [Gun Frontier Arcade Gears (Japan)](../Regions/Japan/T-26109G/01/README.md)
 - Gun Griffon (Europe) - TODO
 - GunBlaze-S (Japan) - TODO

@@ -2,7 +2,7 @@
 
 ## B
 
-#### 106 Games (10 Tested)
+#### 106 Games (11 Tested)
 
 - BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) - TODO
 - BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) - TODO
@@ -107,7 +107,7 @@
 - Burning Rangers (Japan) - TODO
 - [Burning Rangers (USA)](../Regions/USA/MK-81803/01/README.md)
 - Bust-A-Move 2 - Arcade Edition (Europe) - TODO
-- Bust-A-Move 2 - Arcade Edition (USA) - TODO (Recorded)
+- [Bust-A-Move 2 - Arcade Edition (USA)](../Regions/USA/T-8132H/01/README.md)
 - Bust-A-Move 3 (Europe) - TODO
 - [Bust-A-Move 3 (USA)](../Regions/USA/T-31103H/01/README.md)
 

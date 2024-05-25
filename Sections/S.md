@@ -2,7 +2,7 @@
 
 ## S
 
-#### 402 Games (22 Tested)
+#### 402 Games (28 Tested)
 
 - SD Gundam - GCentury S (Japan) - TODO
 - Sakamoto Ryouma - Ishin Kaikoku (Japan) - TODO
@@ -118,7 +118,7 @@
 - Sega Rally Championship (Japan) (Demo) - TODO
 - Sega Rally Championship (Japan) - TODO
 - Sega Rally Championship (South Korea) - TODO
-- Sega Rally Championship (USA) - TODO (Recorded)
+- [Sega Rally Championship (USA)](../Regions/USA/MK-81207/01/README.md)
 - Sega Rally Championship Plus (Japan) - TODO
 - Sega Rally Championship Plus Netlink Edition (USA) - TODO
 - Sega Saturn Bootleg II - On the Road (USA) - TODO
@@ -129,7 +129,7 @@
 - Sega Touring Car Championship (Europe) - TODO
 - Sega Touring Car Championship (Japan) (Demo) - TODO
 - Sega Touring Car Championship (Japan) - TODO
-- Sega Touring Car Championship (USA) - TODO (Recorded)
+- [Sega Rally Championship (USA)](../Regions/USA/MK-81207/01/README.md)
 - Sega Worldwide Soccer '97 (USA) - TODO
 - Sega Worldwide Soccer '98 (Japan) - TODO
 - Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev A) - TODO
@@ -242,7 +242,7 @@
 - Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan) - TODO
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
 - Side Pocket 3 (Japan) (Demo) - TODO
-- Side Pocket 3 (Japan) - TODO (Recorded)
+- [Side Pocket 3 (Japan)](../Regions/Japan/T-1314G/01/README.md)
 - Silhouette Mirage (Japan) (Demo) - TODO
 - Silhouette Mirage (Japan) (Rev A) - TODO
 - Silhouette Mirage (Japan) - TODO
@@ -252,7 +252,7 @@
 - Simulation RPG Tkool (Japan) - TODO
 - Simulation Zoo (Japan) - TODO
 - Skeleton Warriors (Europe) - TODO
-- Skeleton Warriors (USA) - TODO (Recorded)
+- [Skeleton Warriors (USA)](../Regions/USA/T-13204H/01/README.md)
 - Skull Fang - Kuuga Gaiden (Japan) - TODO
 - Sky Target (Europe) - TODO
 - Sky Target (Japan) - TODO
@@ -295,8 +295,8 @@
 - Soukuu no Tsubasa - Gotha World (Japan) (Disc 1) - TODO
 - Soukuu no Tsubasa - Gotha World (Japan) (Disc 2) - TODO
 - Soukyuu Gurentai (Japan) (Rev A) - TODO
-- Soukyuu Gurentai (Japan) - TODO (Recorded)
-- Soukyuu Gurentai - Otokuyou (Japan) - TODO
+- Soukyuu Gurentai (Japan) - TODO
+- [Soukyugurentai Otokuyou (Japan)](../Regions/Japan/T-10626G/01/README.md)
 - Sound Novel Machi (Japan) (Disc 1) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (2M) - TODO
@@ -360,7 +360,7 @@
 - [Street Fighter Zero (Japan)](../Regions/Japan/T-1206G/01/README.md)
 - Street Fighter Zero 2 (Japan) (Demo) - TODO
 - Street Fighter Zero 2 (Japan) - TODO
-- Street Fighter Zero 2' (Japan) - TODO (Recorded)
+- [Street Fighter Zero 2' - Dash (Japan)](../Regions/Japan/T-1244G/01/README.md)
 - [Street Fighter Zero 3 (Japan)](../Regions/Japan/T-1246G/01/README.md)
 - Street Racer (Europe) - TODO
 - Street Racer Extra (Japan) - TODO
@@ -368,7 +368,7 @@
 - Striker 96 (Japan) - TODO
 - [Striker '96 (USA)](../Regions/USA/T-8133H/01/README.md)
 - [Strikers 1945 (Japan)](../Regions/Japan/T-14407G/01/README.md)
-- Strikers 1945 II (Japan) - TODO
+- [Strikers 1945 II (Japan)](../Regions/Japan/T-20402G/01/README.md)
 - Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1) - TODO
 - Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 2) - TODO
 - Sugoventure - Dragon Master Silk Gaiden (Japan) - TODO
