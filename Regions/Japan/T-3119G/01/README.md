@@ -1,4 +1,4 @@
-# Real Bout Fatal Fury Special (Japan)
+# Real Bout Garou Densetsu Special (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -22,10 +22,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
+- (Rev A): Untested :question:
 
 ### Extra Info
 
-- It does need tests with another characters.
+- It does need tests with another characters
+
+### TODO
+
+- Test Real Bout Garou Densetsu Special (Japan) (Rev A)
 
 ### Evidence
 

@@ -1,4 +1,4 @@
-# Real Bout Fatal Fury (Japan)
+# Real Bout Garou Densetsu (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,14 +21,21 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Game): Playable :white_check_mark:
+- (Demo): Untested :question:
 
 ### Extra Info
 
-- Full campaign tested with Terry Bogard.
-- It does need tests with others characters.
-- It does need tests on others difficulties.
+- Full campaign tested with Terry Bogard
+- It does need tests with others characters
+- It does need tests on others difficulties
+
+### TODO
+
+- Test Real Bout Garou Densetsu (Japan) (Demo)
 
 ### Evidence
+
+Game:
 
 [![[Complete] SAROO 1.32 (231125) - Real Bout Fatal Fury (Japan)](https://img.youtube.com/vi/K4kKJ0AjmLw/0.jpg)](https://www.youtube.com/watch?v=K4kKJ0AjmLw)

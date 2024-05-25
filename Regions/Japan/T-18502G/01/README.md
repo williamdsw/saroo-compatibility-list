@@ -1,4 +1,4 @@
-# Rabbit (Japan)
+# Quantum Gate I: Akumu no Joshou (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,28 +13,20 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> RABBIT
-- <b>Product Number:</b> T-10610G
-- <b>Version:</b> V1.001
+- <b>Game Name:</b> QUANTUMGATE
+- <b>Product Number:</b> T-18502G
+- <b>Version:</b> V1.000
 - <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
+- <b>Peripheral Code:</b> JM
 
 ### Status
 
-- (Game): Playable :white_check_mark:
-- (Demo): Untested :question:
+- Playable :white_check_mark:
 
 ### Extra Info
 
-- Full campaign tested with `Wu-ling`.
-- It does need a full gameplay tests with other characters and difficulties.
-
-### TODO
-
-- Test Rabbit (Japan) (Demo)
+- It needs a full gameplay test.
 
 ### Evidence
 
-Game:
-
-[![[Complete] SAROO 1.32 (240316) - Rabbit (Japan)](https://img.youtube.com/vi/9Kc0AYuvz0A/0.jpg)](https://www.youtube.com/watch?v=9Kc0AYuvz0A)
+[![[Sample] SAROO 1.32 (240316) - Quantum Gate I: Akumu no Joshou (J)](https://img.youtube.com/vi/dSe9MrEXg_A/0.jpg)](https://www.youtube.com/watch?v=dSe9MrEXg_A)

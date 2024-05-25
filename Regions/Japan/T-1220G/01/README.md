@@ -22,10 +22,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable (Disc A) :white_check_mark:
+- (Rev A): Untested :question:
 
 ### Extra Info
 
-- It needs a full gameplay test.
+- It needs a full gameplay test
+
+### TODO
+
+- Test Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan) (Rev A)
 
 ### Evidence
 

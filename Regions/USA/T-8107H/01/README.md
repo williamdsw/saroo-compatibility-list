@@ -22,10 +22,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
+- (Beta): Untested :question:
 
 ### Extra Info
 
 It's needs a full gameplay test.
+
+### TODO
+
+- Test Revolution X - Music Is the Weapon (USA) (Beta)
 
 ### Evidence
 

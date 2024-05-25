@@ -21,12 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc 1) :white_check_mark:
-- Untested (Disc 2) :question:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
-- It needs a full gameplay test on Disc 1 and Disc 2.
+- It needs a full gameplay test on both discs
+
+### TODO
+
+- Fully test QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 1)
+- Test QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 2)
+- Test QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Demo)
 
 ### Evidence
 

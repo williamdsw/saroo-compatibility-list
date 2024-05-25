@@ -25,6 +25,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - (Made in Japan) (4M): Untested :question:
 - (Made in U.S.A.) (1S): Untested :question:
 - (Made in U.S.A.) (4S): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -35,6 +36,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Test Riglordsaga (Japan) (Made in J) (4M)
 - Test Riglordsaga (Japan) (Made in U.S.A.) (1S)
 - Test Riglordsaga (Japan) (Made in U.S.A.) (4S)
+- Test Riglordsaga (Japan) (Demo)
 
 ### Evidence
 

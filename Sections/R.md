@@ -2,9 +2,8 @@
 
 ## R
 
-#### 70 Games (34 Tested)
+#### 65 Games (34 Tested)
 
-- Rabbit (Japan) (Demo) - TODO
 - [Rabbit (Japan)](../Regions/Japan/T-10610G/01/README.md)
 - [Race Drivin' (Japan)](../Regions/Japan/T-4802G/01/README.md)
 - [Radiant Silvergun (Japan)](../Regions/Japan/T-32902G/01/README.md)
@@ -15,12 +14,9 @@
 - Rayman (Europe) (1S) - TODO
 - Rayman (Europe) (6S) - TODO
 - Rayman (Japan) - TODO
-- Rayman (USA) (Demo) - TODO
 - [Rayman (USA)](../Regions/USA/T-17701G/01/README.md)
-- [Real Bout Garou Densetsu (Real Bout Fatal Fury) (Japan) (2M)](../Regions/Japan/T-3105G/01/README.md)
-- Real Bout Garou Densetsu (Japan) (Demo) - TODO
-- Real Bout Garou Densetsu Special (Japan) (Rev A) - TODO
-- [Real Bout Fatal Fury Special (Japan)](../Regions/Japan/T-3119G/01/README.md)
+- [Real Bout Garou Densetsu (Japan)](../Regions/Japan/T-3105G/01/README.md)
+- [Real Bout Garou Densetsu Special (Japan)](../Regions/Japan/T-3119G/01/README.md)
 - Real Mahjong Adventure "Umi-He": Summer Waltz (Japan) (P's Club Genteiban) - TODO
 - [Real Mahjong Adventure "Umi-He": Summer Waltz (Japan)](../Regions/Japan/T-16511G/01/README.md)
 - [Real Sound - Kaze no Regret (Japan)](../Regions/Japan/T-30002G/01/README.md)
@@ -33,7 +29,6 @@
 - Revolution X - Music Is the Weapon (Japan) (10S) - TODO
 - Revolution X - Music Is the Weapon (USA) (Beta) - TODO
 - [Revolution X - Music is the Weapon featuring Aerosmith (USA)](../Regions/USA/T-8107H/01/README.md)
-- Riglordsaga (Japan) (Demo) - TODO
 - [Riglordsaga (Japan)](../Regions/Japan/GS-9021/01/README.md)
 - [Riglordsaga 2 (Japan)](../Regions/Japan/GS-9084/01/README.md) - TODO
 - Rise 2 - Resurrection (Europe) (Beta) - TODO
