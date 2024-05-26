@@ -29,6 +29,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It needs a full gameplay test on Disc A, B and C.
 
+### TODO
+
+- Fully test Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc A)
+- Fully test Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc B)
+- Test Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc C)
+
 ### Evidence
 
 [![[Sample] SAROO 1.32 (240118) - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) = Playable](https://img.youtube.com/vi/YgbM9KPl2OE/0.jpg)](https://www.youtube.com/watch?v=YgbM9KPl2OE)

@@ -15,15 +15,15 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 ### Regions
 
 - `Brazil` - BRA, BR (1 Game)
-- `Europe` - EUR, EU (17 Games)
+- `Europe` - EUR, EU (20 Games)
 - `France` - FRA, FR (0 Games)
-- `Germany` - GER, GE (0 Games)
+- `Germany` - GER, GE (1 Games)
 - `Italy` - ITA, IT (0 Games)
-- `Japan` - JAP, JP (272 Games)
+- `Japan` - JAP, JP (309 Games)
 - `South Korea` - STK, SK (0 Games)
 - `Taiwan` - TAI, TW (1 Game)
 - `USA` - United States of America, US (94 Games)
-- Total: 385 games registered here
+- Total: 426 games registered here
 
 ### Games
 

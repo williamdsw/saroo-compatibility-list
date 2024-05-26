@@ -2,7 +2,7 @@
 
 ## T
 
-#### 169 Games (18 Tested)
+#### 168 Games (20 Tested)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO
@@ -87,10 +87,9 @@
 - [The Hyper Golf - Devil's Course (Japan)](../Regions/Japan/T-2303H/01/README.md)
 - The Incredible Hulk - The Pantheon Saga (Europe) - TODO
 - [The Incredible Hulk - The Pantheon Saga (USA)](../Regions/USA/T-7905H/01/README.md)
-- The King of Fighters '95 (Europe) - TODO
-- The King of Fighters '95 (Japan) (1M) - TODO
-- The King of Fighters '95 (Japan) (2M) - TODO
-- The King of Fighters '95 (Japan) (3M) - TODO
+- The King of Boxing (Japan) - TODO
+- [The King of Fighters '95 (Europe)](../Regions/Europe/MK-81088/01/README.md)
+- [The King of Fighters '95 (Japan)](../Regions/Japan/T-3101G/01/README.md)
 - [The King of Fighters '96 (Japan)](../Regions/Japan/T-3108G/01/README.md)
 - [The King of Fighters '97 (Japan)](../Regions/Japan/T-3121G/01/README.md)
 - [The Legend of Oasis (USA)](../Regions/USA/MK-81302/01/README.md)
