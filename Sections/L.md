@@ -4,7 +4,7 @@
 
 #### 33 Games (28 Tested)
 
-- [Langrisser - Dramatic Edition (Japan) (1M)](../Regions/Japan/T-2507G/01/README.md)
+- [Langrisser - Dramatic Edition (Japan)](../Regions/Japan/T-2507G/01/README.md)
 - [Langrisser III (Japan)](../Regions/Japan/T-2502G/01/README.md)
 - [Langrisser IV (Japan)](../Regions/Japan/T-2505G/01/README.md)
 - [Langrisser V - The End of Legend (Japan)](../Regions/Japan/T-2509G/01/README.md)
