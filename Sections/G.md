@@ -2,7 +2,7 @@
 
 ## G
 
-#### 111 Games (12 Tested)
+#### 105 Games (12 Tested)
 
 - G Vector (Japan) - TODO
 - GT24 (Japan) - TODO
@@ -83,13 +83,7 @@
 - Gran Chaser (Japan) (3M) - TODO
 - GranDread (Japan) - TODO
 - Grand Slam (USA) - TODO
-- [Grandia (Japan)](../Regions/Japan/T-4507G/01/README.md) - TODO (Check version)
-- Grandia (Japan) (Disc 1) (1M) - TODO
-- Grandia (Japan) (Disc 1) (2M) - TODO
-- Grandia (Japan) (Disc 1) (4M) - TODO
-- Grandia (Japan) (Disc 2) (1M, 2M) - TODO
-- Grandia (Japan) (Disc 2) (3M) - TODO
-- Grandia (Japan) (Disc 2) (4M) - TODO
+- [Grandia (Japan)](../Regions/Japan/T-4507G/01/README.md)
 - Grandia - Digital Museum (Japan) (Rev A) (10M) - TODO
 - Grandia - Digital Museum (Japan) - TODO
 - Grandia - Prelude (Japan) - TODO

@@ -21,15 +21,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
 
 ### Extra Info
 
-- It does need a full gameplay test on both discs.
+- It does need a full gameplay test on both discs
+
+### TODO
+
+- Fully Test Lunacy (USA) (Disc 1)
+- Test Lunacy (USA) (Disc 2)
 
 ### Evidence
 
-Disc 1:
+(Disc 1):
 
 [![[Sample] SAROO 1.32 (240316) - Lunacy (USA) (Disc 1)](https://img.youtube.com/vi/GYGlhvBCPe4/0.jpg)](https://www.youtube.com/watch?v=GYGlhvBCPe4)

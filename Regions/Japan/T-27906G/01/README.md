@@ -21,15 +21,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test on both discs.
 
+### TODO
+
+- Fully Test Lunar 2 - Eternal Blue (Japan) (Disc 1)
+- Test Lunar 2 - Eternal Blue (Japan) (Disc 2)
+
 ### Evidence
 
-Disc 1:
+(Disc 1):
 
 [![[Sample] SAROO 1.32 (240316) - Lunar 2 Eternal Blue (Japan) (Disc 1)](https://img.youtube.com/vi/k1gVuMPD2ys/0.jpg)](https://www.youtube.com/watch?v=k1gVuMPD2ys)

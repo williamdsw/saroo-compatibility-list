@@ -26,10 +26,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Extra Info
 
-- It does need a full gameplay test on both discs.
+- It does need a full gameplay test on both discs
+
+### TODO
+
+- Fully Test Lupin the 3rd Chronicles (Japan) (Disc 1)
+- Test Lupin the 3rd Chronicles (Japan) (Disc 2)
 
 ### Evidence
 
-Disc 1:
+(Disc 1):
 
 [![[Sample] SAROO 1.32 (240316) - Lupin the 3rd: Chronicles (Japan)](https://img.youtube.com/vi/pQACQWBfEcc/0.jpg)](https://www.youtube.com/watch?v=pQACQWBfEcc)

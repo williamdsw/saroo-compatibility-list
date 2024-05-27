@@ -22,6 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Issues :warning:
+- (Demo): Untested :question:
 
 ### Problems
 
@@ -30,6 +31,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 It's fully playable on single player mode (1P).
+
+### TODO
+
+- Test DonPachi (Japan) (Demo)
 
 ### Evidence
 

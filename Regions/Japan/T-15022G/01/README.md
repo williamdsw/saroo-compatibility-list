@@ -21,17 +21,24 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc 1) :white_check_mark:
-- Untested (Disc 2) :question:
-- Untested (Disc 3) :question:
-- Untested (Disc 4) :question:
+- (Disc 1) (Kojiroh Disc): Playable :white_check_mark:
+- (Disc 2) (Marina Disc): Untested :question:
+- (Disc 3) (Terror Disc): Untested :question:
+- (Disc 4) (Making Disc): Untested :question:
 
 ### Extra Info
 
-- It does need full gameplay tests on all discs.
+- It does need full gameplay tests on all discs
+
+### TODO
+
+- Fully Test Eve - Burst Error (Japan) (Disc 1) (Kojiroh Disc)
+- Fully Test Eve - Burst Error (Japan) (Disc 2) (Marina Disc)
+- Fully Test Eve - Burst Error (Japan) (Disc 3) (Terror Disc)
+- Test Eve - Burst Error (Japan) (Disc 4) (Making Disc)
 
 ### Evidence
 
-Disc 1:
+(Disc 1) (Kojiroh Disc):
 
 [![[Sample] SAROO 1.32 (240118) - Eve Burst Error (Japan) (Disc 1)](https://img.youtube.com/vi/POjMNeLW3i8/0.jpg)](https://www.youtube.com/watch?v=POjMNeLW3i8)

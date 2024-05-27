@@ -2,7 +2,7 @@
 
 ## B
 
-#### 106 Games (11 Tested)
+#### 104 Games (11 Tested)
 
 - BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) - TODO
 - BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) - TODO
@@ -96,8 +96,6 @@
 - Bug Too! (USA) - TODO
 - Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (Japan) - TODO
 - [Bug! (Europe)](../Regions/Europe/MK-81004/01/README.md)
-- Bug! (USA) (Demo) (1S) - TODO
-- Bug! (USA) (Demo) (3S) - TODO
 - [Bug! (USA)](../Regions/USA/GM-81004/01/README.md)
 - [Bug! Jump Shite, Funzukechatte, Petchanko (Japan)](../Regions/Japan/GS-9063/01/README.md)
 - Bulk Slash (Japan) - TODO

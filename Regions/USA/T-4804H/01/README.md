@@ -21,17 +21,27 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Fixed with configuration :hammer_and_wrench:
+- (3S): Fixed with configuration :hammer_and_wrench:
+- (4S): Untested :question:
 
 ### Problems without configuration
 
 - Freezing video after leaving the `Options` and after leaving main gameplay to `Instructions` (check the video).
 
+### Solution (Optional)
+
+[Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/U/T-4804H/README.md).
+
 ### Extra Info
 
-- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/U/T-4804H/README.md).
 - It needs a full gameplay test.
 
+### TODO
+
+- Test Last Gladiators - Digital Pinball (USA) (4S)
+
 ### Evidence
+
+(3S):
 
 [![[Sample] SAROO 1.32 (240118) - Digital Pinball: Last Gladiators (USA) - Fixed?](https://img.youtube.com/vi/80jjlTDehb8/0.jpg)](https://www.youtube.com/watch?v=80jjlTDehb8)

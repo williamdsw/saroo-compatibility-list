@@ -2,10 +2,9 @@
 
 ## E
 
-#### 54 Games (20 Tested)
+#### 44 Games (20 Tested)
 
-- [EGWord (Japan) (1M)](../Regions/Japan/T-7626G/01/README.md)
-- EGWord (Japan) (Rev A) (10M) - TODO
+- [EGWord (Japan)](../Regions/Japan/T-7626G/01/README.md)
 - EGWord Ver 2.00 (Japan) - TODO
 - Earthworm Jim 2 (Europe) - TODO
 - Earthworm Jim 2 (Japan) (2M) - TODO
@@ -45,17 +44,8 @@
 - [Enemy Zero (USA)](../Regions/USA/MK-81076/01/README.md)
 - [Eternal Melody (Japan)](../Regions/Japan/T-27802G/01/README.md)
 - [Étude Prologue: Yureugoku Kokoro no Katachi (Japan)](../Regions/Japan/T-37901G/01/README.md)
-- [Eve - Burst Error (Japan) (Disc 1) (Kojiroh Disc)](../Regions/Japan/T-15022G/01/README.md)
-- Eve - Burst Error (Japan) (Disc 2) (Marina Disc) - TODO
-- Eve - Burst Error (Japan) (Disc 3) (Terror Disc) - TODO
-- Eve - Burst Error (Japan) (Disc 4) (Making Disc) - TODO
-- Eve - The Lost One (Japan) (Demo) - TODO
-- [Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc)(1M)](../Regions/Japan/T-15035G/01/README.md)
-- Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (2M) - TODO
-- Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (1M) - TODO
-- Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (2M) - TODO
-- Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (1M) - TODO
-- Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (2M) - TODO
+- [Eve - Burst Error (Japan)](../Regions/Japan/T-15022G/01/README.md)
+- [Eve - The Lost One (Japan)](../Regions/Japan/T-15035G/01/README.md)
 - [Exhumed (Europe)](../Regions/Europe/MK-81084/01/README.md)
 - [Eyeful Home (Japan)](../Regions/Japan/GS-9083/01/README.md)
 

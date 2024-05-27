@@ -21,12 +21,23 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (1M): Playable :white_check_mark:
+- (3M): Untested :question:
+- (Rev A) (5M): Untested :question:
+- (Rev A) (7M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Langrisser III (Japan) (3M)
+- Test Langrisser III (Japan) (Rev A) (5M)
+- Test Langrisser III (Japan) (Rev A) (7M)
+
 ### Evidence
+
+(1M):
 
 [![[Sample] SAROO 1.32 (240118) - Langrisser III (Japan)](https://img.youtube.com/vi/QSR1-XTx8y0/0.jpg)](https://www.youtube.com/watch?v=QSR1-XTx8y0)

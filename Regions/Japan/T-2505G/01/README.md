@@ -21,12 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (1M): Playable :white_check_mark:
+- (3M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Langrisser V - The End of Legend (Japan) (3M)
+
 ### Evidence
+
+(1M):
 
 [![[Sample] SAROO 1.32 (240118) - Langrisser IV (Japan)](https://img.youtube.com/vi/rFYKQU_Rs28/0.jpg)](https://www.youtube.com/watch?v=rFYKQU_Rs28)

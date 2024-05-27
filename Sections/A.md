@@ -78,7 +78,6 @@
 - Atlantis - The Lost Tales (France) (Disc 2) - TODO
 - [Ayakashi Ninden Kunoichiban Plus (Japan)](../Regions/Japan/T-21512G/01/README.md)
 - [Ayrton Senna Personal Talk - Message for the Future (Japan)](../Regions/Japan/GS-9020/01/README.md)
-- Azel - Panzer Dragoon RPG (Japan) (Demo) - TODO
 - [Azel - Panzer Dragoon RPG (Japan)](../Regions/Japan/GS-9076/01/README.md)
 
 Navigation:

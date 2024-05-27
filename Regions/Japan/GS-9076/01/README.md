@@ -27,6 +27,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Disc 3 (1M): Untested :question:
 - Disc 3 (2M): Untested :question:
 - Disc 4 (2M, 3M): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -40,6 +41,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Fully test Disc 3 (1M)
 - Fully test Disc 3 (2M)
 - Test Disc 4 (2M, 3M)
+- Test Azel - Panzer Dragoon RPG (Japan) (Demo)
 
 ### Evidence
 

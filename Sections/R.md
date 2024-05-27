@@ -2,7 +2,7 @@
 
 ## R
 
-#### 65 Games (34 Tested)
+#### 64 Games (34 Tested)
 
 - [Rabbit (Japan)](../Regions/Japan/T-10610G/01/README.md)
 - [Race Drivin' (Japan)](../Regions/Japan/T-4802G/01/README.md)
@@ -27,7 +27,6 @@
 - Revolution X - Music Is the Weapon (Europe) - TODO
 - Revolution X - Music Is the Weapon (Germany) (5S) - TODO
 - Revolution X - Music Is the Weapon (Japan) (10S) - TODO
-- Revolution X - Music Is the Weapon (USA) (Beta) - TODO
 - [Revolution X - Music is the Weapon featuring Aerosmith (USA)](../Regions/USA/T-8107H/01/README.md)
 - [Riglordsaga (Japan)](../Regions/Japan/GS-9021/01/README.md)
 - [Riglordsaga 2 (Japan)](../Regions/Japan/GS-9084/01/README.md) - TODO

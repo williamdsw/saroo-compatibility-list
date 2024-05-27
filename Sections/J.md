@@ -2,22 +2,16 @@
 
 ## J
 
-#### 37 Games (25 Tested)
+#### 31 Games (25 Tested)
 
 - [J. B. Harold - Blue Chicago Blues (Japan)](../Regions/Japan/T-5302G/01/README.md)
 - [J.League Go Go Goal! (Japan)](../Regions/Japan/T-3602G/README.md)
 - [J.League Jikkyou Honoo no Striker (Japan)](../Regions/Japan/T-9528G/01/README.md)
 - [J.League Pro Soccer Club o Tsukurou! (Japan)](../Regions/Japan/GS-9034/01/README.md)
-- [J.League Pro Soccer Club o Tsukurou! 2 (Japan) (1M)](../Regions/Japan/GS-9168/01/README.md)
-- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (2M) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (3M) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (4M) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev C) (32M) - TODO
-- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev D) (41M) - TODO
+- [J.League Pro Soccer Club o Tsukurou! 2 (Japan)](../Regions/Japan/GS-9168/01/README.md)
 - [J.League Victory Goal '96 (Japan)](../Regions/Japan/GS-9048/01/README.md)
 - [J.League Victory Goal '97 (Japan)](../Regions/Japan/GS-9140/01/README.md)
-- Jantei Battle Cos-Player (Japan) (Demo) - TODO
-- [Jantei Battle Cos-Player (Japan))](../Regions/Japan/T-34601G/01/README.md)
+- [Jantei Battle Cos-Player (Japan)](../Regions/Japan/T-34601G/01/README.md)
 - [Jantei Battle Cos-Player - Original Genga-shuu (Japan)](../Regions/Japan/T-3466106553/01/README.md)
 - [J Super Bass Classic '96](../Regions/Japan/T-18707G/01/README.md)
 - Jewels of the Oracle (Europe) - TODO

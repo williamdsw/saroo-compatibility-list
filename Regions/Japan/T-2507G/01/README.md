@@ -21,8 +21,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
+(1M):
+
 - Langrisser - Issues :warning:
 - Langrisser II - Playable :white_check_mark:
+
+(2M):
+
+- Langrisser - Untested :question:
+- Langrisser II - Untested :question:
 
 ### Problems
 
@@ -32,7 +39,13 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test for both games.
 
+### TODO
+
+- Test Langrisser - Dramatic Edition (Japan) (2M)
+
 ### Evidence
+
+(1M):
 
 Langrisser:
 

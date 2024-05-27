@@ -2,7 +2,7 @@
 
 ## D
 
-#### 172 Games (13 Tested)
+#### 167 Games (13 Tested)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -133,9 +133,7 @@
 - Disc Station Bessatsu - I Miss You. Tanaka Katsumi (Japan) (1M) - TODO
 - Discworld (Japan) - TODO
 - Discworld II - Missing Presumed...! (Europe) - TODO
-- DoDonPachi (Japan) (Demo) - TODO
 - [DoDonPachi (Japan)](../Regions/Japan/T-14419G/01/README.md)
-- DonPachi (Japan) (Demo) - TODO
 - [DonPachi (Japan)](../Regions/Japan/T-14405G/01/README.md)
 - Doom (Europe) (R) - TODO
 - Doom (Japan) - TODO

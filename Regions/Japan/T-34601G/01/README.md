@@ -21,21 +21,23 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
-- Tested `Free play` mode of Disc 1.
+- Tested `Free play` mode of (Disc 1).
 - It does need a full gameplay test on `Story game` mode of both discs.
 
 ### TODO
 
-- Full Test Disc 1
-- Test Disc 2 (Making Disc)
+- Full Test (Disc 1)
+- Test (Disc 2) (Making Disc)
+- Test (Demo)
 
 ### Evidence
 
-Disc 1:
+(Disc 1):
 
 [![[Sample] SAROO 1.32 (240118) - Jantei Battle Cos-Player (Japan)](https://img.youtube.com/vi/yiBD0m6xWVA/0.jpg)](https://www.youtube.com/watch?v=yiBD0m6xWVA)

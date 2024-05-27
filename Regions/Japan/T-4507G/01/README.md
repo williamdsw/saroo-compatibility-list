@@ -21,12 +21,28 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1) (1M): Playable :white_check_mark:
+- (Disc 1) (2M): Untested :question:
+- (Disc 1) (4M): Untested :question:
+- (Disc 2) (1M, 2M): Untested :question:
+- (Disc 2) (3M): Untested :question:
+- (Disc 2) (4M): Untested :question:
 
 ### Extra Info
 
-It needs a full gameplay test.
+It needs a full gameplay test on all discs
+
+### TODO
+
+- Fully Test Grandia (Japan) (Disc 1) (1M)
+- Fully Test Grandia (Japan) (Disc 1) (2M)
+- Fully Test Grandia (Japan) (Disc 1) (4M)
+- Fully Test Grandia (Japan) (Disc 2) (1M, 2M)
+- Fully Test Grandia (Japan) (Disc 2) (3M)
+- Fully Test Grandia (Japan) (Disc 2) (4M)
 
 ### Evidence
+
+(Disc 1) (1M):
 
 [![[Sample] SAROO 1.32 (231111) - Grandia (Japan) - Playable](https://img.youtube.com/vi/HDYUJqpuatk/0.jpg)](https://www.youtube.com/watch?v=HDYUJqpuatk)
