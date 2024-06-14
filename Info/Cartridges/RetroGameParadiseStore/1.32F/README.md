@@ -41,3 +41,5 @@ Prices in USD, may vary depending on sales promotions:
 ![CardDetail4](Images/CardDetail4.jpg)
 
 ![CardDetail5](Images/CardDetail5.jpg)
+
+![Lights](Images/Lights.jpg)
