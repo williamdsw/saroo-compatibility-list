@@ -129,7 +129,6 @@
 - Sega Touring Car Championship (Europe) - TODO
 - Sega Touring Car Championship (Japan) (Demo) - TODO
 - Sega Touring Car Championship (Japan) - TODO
-- [Sega Rally Championship (USA)](../Regions/USA/MK-81207/01/README.md)
 - Sega Worldwide Soccer '97 (USA) - TODO
 - Sega Worldwide Soccer '98 (Japan) - TODO
 - Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev A) - TODO
