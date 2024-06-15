@@ -7,7 +7,7 @@
 Games compatibility list of SAROO cartridge for Sega Saturn.
 It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 
-[Playlist with Tested Games on Youtube (+ 400 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
+[Playlist with Tested Games on Youtube (+ 550 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
 
 - `TODO` - Game needs to be tested, recorded, uploaded to youtube and be registered here.
 - `TODO (Recorded)` - Game already tested, recorded and uploaded to youtube but they need to be registered here.
@@ -15,15 +15,15 @@ It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
 ### Regions
 
 - `Brazil` - BRA, BR (1 Game)
-- `Europe` - EUR, EU (20 Games)
+- `Europe` - EUR, EU (23 Games)
 - `France` - FRA, FR (0 Games)
 - `Germany` - GER, GE (1 Games)
 - `Italy` - ITA, IT (0 Games)
-- `Japan` - JAP, JP (309 Games)
+- `Japan` - JAP, JP (336 Games)
 - `South Korea` - STK, SK (0 Games)
 - `Taiwan` - TAI, TW (1 Game)
-- `USA` - United States of America, US (94 Games)
-- Total: 426 games registered here
+- `USA` - United States of America, US (105 Games)
+- Total: 467 games registered here
 
 ### Games
 

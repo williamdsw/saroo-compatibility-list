@@ -2,7 +2,7 @@
 
 ## C
 
-#### 107 Games (3 Tested)
+#### 110 Games (4 Tested)
 
 - Can Can Bunny Extra (Japan) - TODO
 - Can Can Bunny Premiere (Japan) (1M) - TODO
@@ -106,6 +106,9 @@
 - Cyber Doll (Japan) - TODO
 - Cyber Speedway (Europe) (RE) - TODO
 - Cyber Speedway (USA) - TODO
+- Cyber Troopers Virtual-On (Europe) - TODO
+- [Cyber Troopers Virtual-On (USA)](../Regions/USA/MK-81042/01/README.md)
+- Cyber Troopers Virtual-On Net Link Edition (USA) - TODO
 - Cyberbots - Fullmetal Madness (Japan) (1M) - TODO
 - Cyberbots - Fullmetal Madness (Japan) (2M) - TODO
 - Cyberia (Europe) - TODO
