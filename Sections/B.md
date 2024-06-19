@@ -2,103 +2,92 @@
 
 ## B
 
-#### 104 Games (11 Tested)
+#### 93 Games (54 Tested)
 
-- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1) - TODO
-- BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2) - TODO
-- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1) - TODO
-- BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 2) - TODO
+- [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../Regions/Japan/T-19907G/01/README.md)
+- [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../Regions/Japan/T-19906G/01/README.md)
 - Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan) (Rev A) - TODO
 - Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan) - TODO
 - Baku Baku Animal - World Zookeeper Contest (Europe) - TODO
-- Baku Baku Animal - World Zookeeper Contest (USA) - TODO
-- Bakuretsu Hunter (Japan) (Disc 1) - TODO
-- Bakuretsu Hunter (Japan) (Disc 2) (Omake CD) - TODO
-- Bakuretsu Hunter R (Japan) - TODO
-- Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan) - TODO
-- Baldy Land (Japan) - TODO
+- [Baku Baku Animal - World Zookeeper Contest (USA)](../Regions/USA/MK-81501/01/README.md)
+- [Bakuretsu Hunter (Japan)](../Regions/Japan/T-22402G/01/README.md)
+- [Bakuretsu Hunter R (Japan)](../Regions/Japan/T-24903G/01/README.md)
+- [Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)](../Regions/Japan/T-20001G/01/README.md)
+- [Baldy Land (Japan)](../Regions/Japan/T-20608G/01/README.md)
 - [Baroque (Japan)](../Regions/Japan/T-33901G/01/README.md)
-- Baroque Report - CD Data File (Japan) - TODO
-- Bases Loaded '96 - Double Header (USA) - TODO
-- Batman Forever - The Arcade Game (Europe) - TODO
-- Batman Forever - The Arcade Game (Japan) - TODO
-- Batman Forever - The Arcade Game (USA) - TODO
+- [Baroque Report CD Data File (Japan)](../Regions/Japan/6106848/01/README.md)
+- [Bases Loaded '96: Double Header (USA)](../Regions/USA/T-5703H/01/README.md)
+- Batman Forever: The Arcade Game (Europe) - TODO
+- Batman Forever: The Arcade Game (Japan) - TODO
+- [Batman Forever: The Arcade Game (USA)](../Regions/USA/T-8140H/01/README.md)
 - [Batsugun (Japan)](../Regions/Japan/T-1248G/01/README.md)
 - Battle Arena Toshinden Remix (Europe) - TODO
-- Battle Arena Toshinden Remix (USA) - TODO
+- [Battle Arena Toshinden Remix (USA)](../Regions/USA/MK-81029/01/README.md)
 - Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) (Beta) - TODO
 - Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) - TODO
-- Battle Arena Toshinden URA - Ultimate Revenge Attack (USA) - TODO
-- Battle Athletess Daiundoukai (Japan) - TODO
+- [Battle Arena Toshinden URA - Ultimate Revenge Attack (USA)](../Regions/USA/MK-81054/01/README.md)
+- [Battle Athletess Daiundoukai (Japan)](../Regions/Japan/T-24601G/01/README.md)
 - [Battle Garegga (Japan)](../Regions/Japan/T-10627G/01/README.md)
 - Battle Monsters (Europe) - TODO
 - Battle Monsters (Japan) - TODO
-- Battle Monsters (USA) - TODO
+- [Battle Monsters (USA)](../Regions/USA/T-8137H/01/README.md)
 - Battle Stations (Europe) (En,Fr,De) - TODO
-- Battle Stations (USA) - TODO
-- BattleSport (USA) - TODO
-- Beach de Riichi! (Japan) - TODO
-- Bedlam (USA) (Proto) - TODO
-- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (1M) - TODO
-- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (Rev A) (10M) - TODO
-- Big Thanks - Super Keirin - Dream with Keirin 50 Years (Japan) - TODO
+- [Battle Stations (USA)](../Regions/USA/T-5021H/01/README.md)
+- [BattleSport (USA)](../Regions/USA/T-8149H/01/README.md)
+- [Beach de Reach! (Japan)](../Regions/Japan/T-29004G/01/README.md)
+- [Bedlam (USA)](../Regions/USA/T-25407H45/01/README.md)
+- [Big Ichigeki! Pachi-Slot Daikouryaku: Universal Museum (Japan)](../Regions/Japan/T-16704G/01/README.md)
+- [Big Thanks - Super Keirin - Dream with Keirin 50 Years (Japan)](../Regions/Japan/6106987/01/README.md)
 - Bio Hazard (Japan) - TODO
-- Bishoujo Hanafuda Kikou - Michinoku Hitou Koi Monogatari Special (Japan) - TODO
-- Bishoujo Senshi Sailor Moon SuperS - Various Emotion (Japan) - TODO
-- [Bishoujo Variety Game: Rapyulus Panic (Japan)](../Regions/Japan/T-21503G/01/README.md) - TODO (Move to B)
+- [Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special (Japan)](../Regions/Japan/T-36701G/01/README.md)
+- [Bishoujo Senshi Sailor Moon SuperS: Various Emotion (Japan)](../Regions/Japan/T-15701G/01/README.md)
+- [Bishoujo Variety Game: Rapyulus Panic (Japan)](../Regions/Japan/T-21503G/01/README.md)
 - Black Dawn (Europe) - TODO
 - Black Dawn (Japan) - TODO
-- Black Dawn (USA) - TODO
+- [Black Dawn (USA)](../Regions/USA/T-7027H/01/README.md)
 - Black-Matrix (Japan) (Rerelease) - TODO
-- Black-Matrix (Japan) - TODO
-- BlackFire (Europe) - TODO
-- BlackFire (Japan) - TODO
-- BlackFire (USA) (2S) - TODO
-- BlackFire (USA) (3S) - TODO
+- [Black-Matrix (Japan)](../Regions/Japan/T-20113G/01/README.md)
+- Black Fire (Europe) - TODO
+- Black Fire (Japan) - TODO
+- [Black Fire (USA)](../Regions/USA/MK-81003/01/README.md)
 - Blam! Machinehead (Europe) - TODO
 - Blam! Machinehead (France) - TODO
 - Blam! Machinehead (Germany) - TODO
 - Blam! Machinehead (Japan) - TODO
 - Blast Chamber (Europe) - TODO
-- Blast Chamber (USA) - TODO
+- [Blast Chamber (USA)](../Regions/USA/T-13003H/01/README.md)
 - [Blast Wind (Japan)](../Regions/Japan/T-1810G/01/README.md)
 - Blazing Dragons (Europe) - TODO
 - Blazing Dragons (France) - TODO
 - Blazing Dragons (Germany) - TODO
-- Blazing Dragons (USA) - TODO
-- Blazing Heroes (USA) - TODO
-- Blood Factory (Japan) - TODO
-- Blue Breaker - Ken yori mo Hohoemi o (Japan) (Demo) - TODO
-- Blue Breaker - Ken yori mo Hohoemi o (Japan) - TODO
-- Blue Seed - Kushinada Hirokuden (Japan) - TODO
-- Bomberman Wars (Japan) - TODO
+- [Blazing Dragons (USA)](../Regions/USA/T-15907H/01/README.md)
+- [Blazing Heroes (USA)](../Regions/USA/MK-81303/01/README.md)
+- [Blood Factory (Japan)](../Regions/Japan/T-12504G/01/README.md)
+- [Blue Breaker - Ken yori mo Hohoemi o (Japan)](../Regions/Japan/T-4315G/01/README.md)
+- [Blue Seed: Kushinada Hirokuden (Japan)](../Regions/Japan/GS-9014/01/README.md)
+- [Bomberman Wars (Japan)](../Regions/Japan/T-14320G/01/README.md)
 - Bootleg Sampler (Europe) (Made in EU, Made in J) - TODO
 - Bootleg Sampler (Europe) (Made in U) - TODO
-- Bootleg Sampler (USA) (15S) - TODO
-- Bootleg Sampler (USA) (8S, 9S, 17S) - TODO
-- Bootleg Sampler (USA) (Rev A) (1S) - TODO
-- Bootleg Sampler (USA) (Rev A) (2S) - TODO
-- Bootleg Sampler (USA) - TODO
-- Bottom of the 9th (USA) - TODO
-- Bouken Katsugeki Monomono (Japan) (Demo) - TODO
-- Bouken Katsugeki Monomono (Japan) - TODO
-- Brain Battle Q (Japan) - TODO
+- [Bootleg Sampler (USA)](../Regions/USA/MK-81031/01/README.md)
+- [Bottom of the 9th (USA)](../Regions/USA/T-9505H/01/README.md)
+- [Bouken Katsugeki Mono Mono (Japan)](../Regions/Japan/T-21508G/01/README.md)
+- [Brain Battle Q (Japan)](../Regions/Japan/T-25701G/01/README.md)
 - BrainDead 13 (Japan) - TODO
-- BrainDead 13 (USA) - TODO
+- [BrainDead 13 (USA)](../Regions/USA/T-12103H/01/README.md)
 - Break Point (Europe) (En,Fr) - TODO
 - Break Point (Japan) - TODO
-- Break Point Tennis (USA) - TODO
-- BreakThru! (Japan) - TODO
+- [Break Point Tennis (USA)](../Regions/USA/T-8145H/01/README.md)
+- [BreakThru! (Japan)](../Regions/Japan/T-21501G/01/README.md)
 - Bubble Bobble also featuring Rainbow Islands (Europe) - TODO
-- Bubble Bobble also featuring Rainbow Islands (USA) - TODO
-- Bubble Symphony (Japan) - TODO
+- [Bubble Bobble also featuring Rainbow Islands (USA)](../Regions/USA/T-8131H/01/README.md)
+- [Bubble Symphony (Japan)](../Regions/Japan/T-19905G/01/README.md)
 - Bug Too! (Europe) - TODO
-- Bug Too! (USA) - TODO
+- [Bug Too! (USA)](../Regions/USA/MK-81040/01/README.md)
 - Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (Japan) - TODO
 - [Bug! (Europe)](../Regions/Europe/MK-81004/01/README.md)
 - [Bug! (USA)](../Regions/USA/GM-81004/01/README.md)
 - [Bug! Jump Shite, Funzukechatte, Petchanko (Japan)](../Regions/Japan/GS-9063/01/README.md)
-- Bulk Slash (Japan) - TODO
+- [Bulk Slash (Japan)](../Regions/Japan/T-14310G/01/README.md)
 - Burning Rangers (Europe) - TODO
 - Burning Rangers (Japan) (Demo) - TODO
 - Burning Rangers (Japan) (Proto) - TODO
