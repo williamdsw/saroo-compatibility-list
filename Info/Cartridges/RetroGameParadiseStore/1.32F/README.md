@@ -24,22 +24,40 @@ Prices in USD, may vary depending on sales promotions:
 
 #### Images
 
+Shell Outside:
+
 ![Shell1](Images/Shell1.jpg)
+
+Shell Inside:
 
 ![Shell2](Images/Shell2.jpg)
 
+PCB Front:
+
 ![Card1](Images/Card1.jpg)
 
+PCB Back:
+
 ![Card2](Images/Card2.jpg)
+
+- ALVC16424S / A1824100 02 / YXD2103D (4 chips)
 
 ![CardDetail1](Images/CardDetail1.jpg)
 
 ![CardDetail2](Images/CardDetail2.jpg)
 
+- ALTERA Cyclone IV / EPACE6F17CON / G BCAAA12135 / MALAYSIA / VCAAA482 / 3N3G1 4100 (1 chip)
+
 ![CardDetail3](Images/CardDetail3.jpg)
+
+- SAMSUNG 734 / K4S5116320-UC75 / S5116 WHG022PW (1 chip)
 
 ![CardDetail4](Images/CardDetail4.jpg)
 
+- STM324750 / VBT6 V / 7824V VQ / PHL 78 322 / ST ARM (1 chip)
+
 ![CardDetail5](Images/CardDetail5.jpg)
+
+Lights:
 
 ![Lights](Images/Lights.jpg)

@@ -22,9 +22,11 @@ Prices in USD, may vary depending on sales promotions:
 
 #### Images
 
-Shells:
+Shell Outside:
 
 ![Shell1](Images/Shell1.jpg)
+
+Shell Inside:
 
 ![Shell2](Images/Shell2.jpg)
 
