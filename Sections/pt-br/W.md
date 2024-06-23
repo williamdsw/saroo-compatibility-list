@@ -1,0 +1,102 @@
+# SAROO Compatibility List
+
+## W
+
+#### 93 Games (1 Tested)
+
+- WWF In Your House (Europe) - TODO
+- WWF In Your House (Japan) - TODO
+- WWF In Your House (USA) - TODO
+- WWF WrestleMania - The Arcade Game (Europe) (Demo) - TODO
+- WWF WrestleMania - The Arcade Game (Europe) - TODO
+- WWF WrestleMania - The Arcade Game (Japan) - TODO
+- WWF WrestleMania - The Arcade Game (USA) - TODO
+- Wachenroeder (Japan) - TODO
+- Waialae no Kiseki - Extra 36 Holes (Japan) - TODO
+- Waku Waku 7 (Japan) (Demo) - TODO
+- Waku Waku 7 (Japan) - TODO
+- Waku Waku Puyo Puyo Dungeon (Japan) (3M) - TODO
+- Waku Waku Puyo Puyo Dungeon (Japan) (4M) - TODO
+- Waku Waku Puyo Puyo Dungeon (Japan) (Demo) - TODO
+- Waku^2 Monster (Japan) - TODO
+- WanChai Connection (Japan) (Disc A) - TODO
+- WanChai Connection (Japan) (Disc B) (3A, 3C) - TODO
+- Wangan Dead Heat (Japan) - TODO
+- Wangan Dead Heat + Real Arrange (Japan) (Disc 1) - TODO
+- Wangan Dead Heat + Real Arrange (Japan) (Disc 2) (Addition) - TODO
+- Wangan Trial Love (Japan) - TODO
+- WarCraft II - The Dark Saga (Europe) - TODO
+- WarCraft II - The Dark Saga (Japan) - TODO
+- WarCraft II - The Dark Saga (USA) - TODO
+- Wara Wara Wars - Gekitou! Daigundan Battle (Japan) - TODO
+- Welcome House (Japan) - TODO
+- Wheel's (Japan) - TODO
+- Whizz (Europe) - TODO
+- Whizz (Japan) - TODO
+- Willy Wombat (Japan) - TODO
+- Wing Arms (Europe) - TODO
+- Wing Arms (USA) (4S) - TODO
+- Wing Arms (USA) (5S) - TODO
+- Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev A) - TODO
+- Winning Post (USA) - TODO
+- Winning Post 2 (Japan) (2M) - TODO
+- Winning Post 2 (Japan) (Rev A) (10M) - TODO
+- Winning Post 2 - Final '97 (Japan) - TODO
+- Winning Post 2 - Program '96 (Japan) - TODO
+- Winning Post 3 (Japan) (2M) - TODO
+- Winning Post 3 (Japan) (3M) - TODO
+- Winning Post 3 - Program '98 (Japan) - TODO
+- Winning Post EX (Japan) (2M) - TODO
+- Winter Heat (Europe) (Demo) - TODO
+- Winter Heat (Europe) - TODO
+- Winter Heat (Japan) - TODO
+- Winter Heat (USA) - TODO
+- WipEout (Europe) - TODO
+- WipEout (Japan) (2M) - TODO
+- WipEout (USA) - TODO
+- WipEout 2097 (Europe) (Demo) - TODO
+- WipEout 2097 (Europe) - TODO
+- Wipeout XL (Japan) - TODO
+- With You - Mitsumeteitai (Japan) (Disc 1) - TODO
+- With You - Mitsumeteitai (Japan) (Disc 2) - TODO
+- Wizard's Harmony (Japan) - TODO
+- Wizard's Harmony 2 (Japan) (1M) - TODO
+- Wizard's Harmony 2 (Japan) (2M) - TODO
+- Wizardry - Llylgamyn Saga (Japan) - TODO
+- Wizardry Nemesis - The Wizardry Adventure (Japan) (Disc 1) - TODO
+- Wizardry Nemesis - The Wizardry Adventure (Japan) (Disc 2) - TODO
+- Wizardry VI & VII Complete (Japan) (3M) - TODO
+- Wizardry VI & VII Complete (Japan) (Sample-ban) (3M) - TODO
+- Wolf Fang SS - Kuuga 2001 (Japan) - TODO
+- [Wonder 3 Arcade Gears (Japan)](../Regions/Japan/T-26107G/01/README.md)
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (1M, 4M) - TODO
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (2M) - TODO
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (Rev A) (10M) - TODO
+- World Advanced Daisenryaku - Sakusen File (Japan) (1M) - TODO
+- World Advanced Daisenryaku - Sakusen File (Japan) (2M) - TODO
+- World Cup '98 France - Road to Win (Japan) - TODO
+- World Cup Golf - In Hyatt Dorado Beach (Japan) - TODO
+- World Cup Golf - Professional Edition (Europe) (1S) - TODO
+- World Cup Golf - Professional Edition (Europe) (3S) - TODO
+- World Cup Golf - Professional Edition (France) - TODO
+- World Cup Golf - Professional Edition (Germany) (Rev A) - TODO
+- World Cup Golf - Professional Edition (USA) (RE2) - TODO
+- World Evolution Soccer (Japan) - TODO
+- World Heroes Perfect (Japan) - TODO
+- World League Soccer '98 (Europe) - TODO
+- World Series Baseball (Europe) - TODO
+- World Series Baseball (USA) - TODO
+- World Series Baseball 98 (USA) - TODO
+- World Series Baseball II (Europe) - TODO
+- World Series Baseball II (Japan) - TODO
+- World Series Baseball II (USA) (1S) - TODO
+- World Series Baseball II (USA) (2S) - TODO
+- Worldwide Soccer '98 (USA) - TODO
+- Worldwide Soccer - Sega International Victory Goal Edition (South Korea) - TODO
+- Worldwide Soccer - Sega International Victory Goal Edition (USA) (RE) - TODO
+- Worms (Europe) - TODO
+- Worms (Japan) - TODO
+- Worms (USA) - TODO
+
+Navigation:
+[# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) **W** [X](./X.md) [Y](./Y.md) [Z](./Z.md)
