@@ -8,7 +8,7 @@
 - Machi (Japan) (Demo) (1M) - TODO
 - Machi (Japan) (Demo) (2M) - TODO
 - Machi (Japan) (Demo) (4M) - TODO
-- [Machine Head (USA)](../Regions/USA/T-7914H/01/README.md)
+- [Machine Head (USA)](../../Regions/USA/T-7914H/01/README.md)
 - Madden NFL 97 (Europe) - TODO
 - Madden NFL 97 (USA) - TODO
 - Madden NFL 98 (Europe) - TODO
@@ -72,9 +72,9 @@
 - Mario Mushano no Chou Shougi Juku - Mario Mushano's Hyper Shogi School (Japan) - TODO
 - Marvel Super Heroes (Europe) - TODO
 - Marvel Super Heroes (Japan) (Demo) - TODO
-- [Marvel Super Heroes (Japan)](../Regions/Japan/T-1215G/01/README.md)
+- [Marvel Super Heroes (Japan)](../../Regions/Japan/T-1215G/01/README.md)
 - Marvel Super Heroes (USA) - TODO
-- [Marvel Super Heroes vs. Street Fighter (Japan)](../Regions/Japan/T-1238G/01/README.md)
+- [Marvel Super Heroes vs. Street Fighter (Japan)](../../Regions/Japan/T-1238G/01/README.md)
 - Mass Destruction (Europe) - TODO
 - Mass Destruction (USA) - TODO
 - Mass Destruction - OtoUn ni mo Dekiru Soft (Japan) - TODO
@@ -88,9 +88,9 @@
 - MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA) - TODO
 - Mechanical Violator Hakaider - Last Judgement (Japan) - TODO
 - MediaROMancer - DA - Daisuke Asakura (Japan) - TODO
-- [Mega Man 8 (USA)](../Regions/USA/T-1216H/01/README.md)
+- [Mega Man 8 (USA)](../../Regions/USA/T-1216H/01/README.md)
 - Mega Man X3 (Europe) - TODO
-- [Mega Man X4 (USA)](../Regions/USA/T-1219H/01/README.md)
+- [Mega Man X4 (USA)](../../Regions/USA/T-1219H/01/README.md)
 - MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) - TODO
 - MeltyLancer - Re-inforce (Japan) (Demo) - TODO
 - MeltyLancer - Re-inforce (Japan) (Disc 1) - TODO
@@ -103,21 +103,21 @@
 - Metal Black (Japan) (3M) - TODO
 - Metal Fighter Miku (Japan) - TODO
 - Metal Slug - Super Vehicle-001 (Japan) (Rev A) - TODO
-- [Metal Slug - Super Vehicle-001 (Japan)](../Regions/Japan/T-3111G/01/README.md)
+- [Metal Slug - Super Vehicle-001 (Japan)](../../Regions/Japan/T-3111G/01/README.md)
 - Mezase Idol Star!! Natsuiro Memories - Mahjong-hen (Japan) (2M) - TODO
-- [Midway Presents Arcade's Greatest Hits (USA)](../Regions/USA/T-9703H/01/README.md)
-- [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (USA)](../Regions/USA/T-9706H/01/README.md)
+- [Midway Presents Arcade's Greatest Hits (USA)](../../Regions/USA/T-9703H/01/README.md)
+- [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (USA)](../../Regions/USA/T-9706H/01/README.md)
 - Mighty Hits (Europe) - TODO
 - Mighty Hits (Japan) - TODO
 - Minakata Hakudou Toujou (Japan) (Disc 1) (2M) - TODO
 - Minakata Hakudou Toujou (Japan) (Disc 2) - TODO
 - Minami no Shima ni Buta ga Ita - Lucas no Daibouken (Japan) (2M) - TODO
-- [Minnesota Fats: Pool Legend (USA)](../Regions/USA/T-1302H/01/README.md)
+- [Minnesota Fats: Pool Legend (USA)](../../Regions/USA/T-1302H/01/README.md)
 - Minton Keibu no SoU File - Doukeshi Satsujin Jiken (Japan) - TODO
 - Mizubaku Daibouken (Japan) - TODO
 - Mizuki Shigeru no Youkai Zukan Soushuuhen (Japan) - TODO
 - Mobile Suit Gundam (Japan) (Rev A) - TODO
-- [Mobile Suit Gundam (Japan)](../Regions/Japan/T-13303G/01/README.md)
+- [Mobile Suit Gundam (Japan)](../../Regions/Japan/T-13303G/01/README.md)
 - Mobile Suit Gundam Side Story - Optional Guide (Japan) - TODO
 - Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan) (Demo) - TODO
 - Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan) - TODO
@@ -139,10 +139,10 @@
 - Moon Cradle (Japan) (Disc 2) - TODO
 - Moon Cradle (Japan) (Disc 3) - TODO
 - Mortal Kombat II (Europe) - TODO
-- [Mortal Kombat II (USA)](../Regions/USA/T-8103H/01/README.md)
+- [Mortal Kombat II (USA)](../../Regions/USA/T-8103H/01/README.md)
 - Mortal Kombat II Kanzenban (Japan) (4S) - TODO
 - Mortal Kombat Trilogy (Europe) - TODO
-- [Mortal Kombat Trilogy (USA)](../Regions/USA/T-9704H/01/README.md)
+- [Mortal Kombat Trilogy (USA)](../../Regions/USA/T-9704H/01/README.md)
 - Motteke Tamago with Ganbare! Kamonohashi (Japan) - TODO
 - Mouja (Japan) - TODO
 - Mouri Motonari - Chikai no Sanshi (Japan) - TODO
@@ -151,13 +151,13 @@
 - Mr. Bones (Japan) (Demo) - TODO
 - Mr. Bones (Japan) (Disc 1) - TODO
 - Mr. Bones (Japan) (Disc 2) - TODO
-- [Mr. Bones (USA)](../Regions/USA/MK-81016/01/README.md)
+- [Mr. Bones (USA)](../../Regions/USA/MK-81016/01/README.md)
 - Mujintou Monogatari R - Futari no Love Love Island (Japan) - TODO
 - Murakoshi Seikai no Bakuchou Nihon Rettou (Japan) - TODO
 - My Best Friends - St. Andrew Jogakuin-hen (Japan) - TODO
 - My Dream - On Air ga Matenakute (Japan) (Disc 1) - TODO
 - My Dream - On Air ga Matenakute (Japan) (Disc 2) - TODO
-- [My Fair Lady: Virtual Mahjong II (Japan)](../Regions/Japan/T-2207G/01/README.md)
+- [My Fair Lady: Virtual Mahjong II (Japan)](../../Regions/Japan/T-2207G/01/README.md)
 - Myst (Europe) - TODO
 - Myst (Japan) (Rev A) - TODO
 - Myst (Japan) - TODO

@@ -11,9 +11,9 @@
 - Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) - TODO
 - Gal Jan (Japan) - TODO
 - Galactic Attack (Europe) - TODO
-- [Galactic Attack (USA)](../Regions/USA/T-8116H/01/README.md)
+- [Galactic Attack (USA)](../../Regions/USA/T-8116H/01/README.md)
 - Galaxy Fight (Europe) - TODO
-- [Galaxy Fight (USA)](../Regions/USA/T-1504H/01/README.md)
+- [Galaxy Fight (USA)](../../Regions/USA/T-1504H/01/README.md)
 - Galaxy Fight - Universal Warriors (Japan) - TODO
 - Gale Racer (Japan) (1A) - TODO
 - Gals Panic SS (Japan) - TODO
@@ -36,12 +36,12 @@
 - Game-Ware Vol. 4 (Japan) (Disc B) - TODO
 - Game-Ware Vol. 5 (Japan) (Disc A) - TODO
 - Game-Ware Vol. 5 (Japan) (Disc B) - TODO
-- [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (Japan)](../Regions/Japan/T-3102G/01/README.md)
+- [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (Japan)](../../Regions/Japan/T-3102G/01/README.md)
 - GeGeGe no Kitarou - Gentou Kaikitan (Japan) - TODO
 - Gebockers (Japan) (Demo) - TODO
 - Gebockers (Japan) - TODO
 - Gekiretsu Pachinkers (Japan) - TODO
-- [Gekirindan (Japan)](../Regions/Japan/T-7008G/01/README.md)
+- [Gekirindan (Japan)](../../Regions/Japan/T-7008G/01/README.md)
 - Gekitotsu Koushien (Japan) (Demo) - TODO
 - Gekitotsu Koushien (Japan) - TODO
 - Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M) - TODO
@@ -52,7 +52,7 @@
 - Gensou Suikoden (Japan) - TODO
 - Gex (Europe) - TODO
 - Gex (Japan) - TODO
-- [Gex (USA)](../Regions/USA/T-15904H/01/README.md)
+- [Gex (USA)](../../Regions/USA/T-15904H/01/README.md)
 - Ghen War (Europe) - TODO
 - Ghen War (Japan) - TODO
 - Ghen War (USA) - TODO
@@ -78,12 +78,12 @@
 - Gotha - Ismailia SenEki (Japan) - TODO
 - Gotha II - Tenkuu no Kishi (Japan) - TODO
 - Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (Japan) (Demo) - TODO
-- [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../Regions/Japan/T-14411G/01/README.md)
-- [Gradius Deluxe Pack (Japan)](../Regions/Japan/T-9509G/01/README.md)
+- [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../Regions/Japan/T-14411G/01/README.md)
+- [Gradius Deluxe Pack (Japan)](../../Regions/Japan/T-9509G/01/README.md)
 - Gran Chaser (Japan) (3M) - TODO
 - GranDread (Japan) - TODO
 - Grand Slam (USA) - TODO
-- [Grandia (Japan)](../Regions/Japan/T-4507G/01/README.md)
+- [Grandia (Japan)](../../Regions/Japan/T-4507G/01/README.md)
 - Grandia - Digital Museum (Japan) (Rev A) (10M) - TODO
 - Grandia - Digital Museum (Japan) - TODO
 - Grandia - Prelude (Japan) - TODO
@@ -94,15 +94,15 @@
 - Gremlin Demo Disk (Europe) - TODO
 - Grid Run (Europe) - TODO
 - Grid Runner (Japan) - TODO
-- [Grid Runner (USA)](../Regions/USA/T-7025H/01/README.md)
+- [Grid Runner (USA)](../../Regions/USA/T-7025H/01/README.md)
 - Guardian Force (Japan) - TODO
 - Guardian Heroes (Europe) - TODO
 - Guardian Heroes (Japan) (3M) - TODO
-- [Guardian Heroes (USA)](../Regions/USA/MK-81035/01/README.md)
-- [Gun Frontier Arcade Gears (Japan)](../Regions/Japan/T-26109G/01/README.md)
+- [Guardian Heroes (USA)](../../Regions/USA/MK-81035/01/README.md)
+- [Gun Frontier Arcade Gears (Japan)](../../Regions/Japan/T-26109G/01/README.md)
 - Gun Griffon (Europe) - TODO
 - GunBlaze-S (Japan) - TODO
-- [Gunbird (Japan)](../Regions/Japan/T-14402G/01/README.md)
+- [Gunbird (Japan)](../../Regions/Japan/T-14402G/01/README.md)
 - Gungriffon (USA) - TODO
 - Gungriffon - The Eurasian Conflict (Japan) - TODO
 - Gungriffon II (Japan) (Demo) - TODO

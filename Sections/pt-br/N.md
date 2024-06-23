@@ -66,10 +66,10 @@
 - NiGHTS into Dreams... (Korea) - TODO
 - NiGHTS into Dreams... (USA) (Demo) - TODO
 - NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE) - TODO
-- [NiGHTS into Dreams... (USA, Brazil)](../Regions/USA/MK-81020/01/README.md)
+- [NiGHTS into Dreams... (USA, Brazil)](../../Regions/USA/MK-81020/01/README.md)
 - Night Striker S (Japan) - TODO
 - Night Warriors - Darkstalkers' Revenge (Europe) - TODO
-- [Night Warriors - Darkstalkers' Revenge (USA)](../Regions/USA/T-1208H/01/README.md)
+- [Night Warriors - Darkstalkers' Revenge (USA)](../../Regions/USA/T-1208H/01/README.md)
 - Nightruth - Explanation of the Paranormal - Futatsu Dake no Shinjitsu (Japan) - TODO
 - Nightruth - Explanation of the Paranormal - Futatsu dake no Shinjitsu (Japan) - TODO
 - Nightruth - Explanation of the Paranormal - Making of Nightruth II - Voice Selection (Japan) - TODO

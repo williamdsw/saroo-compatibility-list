@@ -27,13 +27,13 @@
 - Panzer Dragoon (Japan) (5A) - TODO
 - Panzer Dragoon (Japan) (Demo 1) - TODO
 - Panzer Dragoon (Japan) (Demo 2) - TODO
-- [Panzer Dragoon (USA)](../Regions/USA/MK-81009/01/README.md)
+- [Panzer Dragoon (USA)](../../Regions/USA/MK-81009/01/README.md)
 - Panzer Dragoon (USA) (Demo) (2S) - TODO
 - Panzer Dragoon (USA) (Demo) (3S) - TODO
 - Panzer Dragoon (USA) (Demo) (4S) - TODO
 - Panzer Dragoon II Zwei (Europe) - TODO
 - Panzer Dragoon II Zwei (Japan) - TODO
-- [Panzer Dragoon II Zwei (USA)](../Regions/USA/MK-81022/01/README.md)
+- [Panzer Dragoon II Zwei (USA)](../../Regions/USA/MK-81022/01/README.md)
 - Panzer Dragoon Saga (Europe) (Disc 1) - TODO
 - Panzer Dragoon Saga (Europe) (Disc 2) - TODO
 - Panzer Dragoon Saga (Europe) (Disc 3) - TODO
@@ -43,7 +43,7 @@
 - Panzer Dragoon Saga (USA) (Disc 3) - TODO
 - Panzer Dragoon Saga (USA) (Disc 4) - TODO
 - Pappara Paoon (Japan) (2M) - TODO
-- [Parodius (Europe)](../Regions/Europe/T-9501H-50/01/README.md)
+- [Parodius (Europe)](../../Regions/Europe/T-9501H-50/01/README.md)
 - Pastel Muses (Japan) - TODO
 - Pebble Beach Golf Links (Europe) (3S) - TODO
 - Pebble Beach Golf Links (Europe) (4S) - TODO
@@ -129,7 +129,7 @@
 - Pro-Pinball (USA) - TODO
 - Pro-Pinball - The Web (Europe) - TODO
 - Psychotron, The (Japan) - TODO
-- [Pu-Li-Ru-La/Arcade Gears (Japan)](../Regions/Japan/T-26106G/01/README.md)
+- [Pu-Li-Ru-La/Arcade Gears (Japan)](../../Regions/Japan/T-26106G/01/README.md)
 - Pup-Breeder (Japan) - TODO
 - Puyo Puyo Sun (Japan) (1M, 3M) - TODO
 - Puyo Puyo Sun (Japan) (2M) - TODO
@@ -142,7 +142,7 @@
 - Puzzle Bobble 3 (Japan) (1M) - TODO
 - Puzzle Bobble 3 (Japan) (2M) - TODO
 - Puzzle Bobble 3 for SegaNet (Japan) - TODO
-- [Puzzle & Action: 2do Arukoto ha Sand-R (Japan)](../Regions/Japan/T-6802G/01/README.md)
+- [Puzzle & Action: 2do Arukoto ha Sand-R (Japan)](../../Regions/Japan/T-6802G/01/README.md)
 - Pyon Pyon Kyaruru no Mahjong Biyori (Japan) (2M) - TODO
 
 Navigation:

@@ -14,7 +14,7 @@
 - Capcom Generation - Dai-2-shuu Makai to Kishi (Japan) - TODO
 - Capcom Generation - Dai-3-shuu Koko ni Rekishi Hajimaru (Japan) - TODO
 - Capcom Generation - Dai-4-shuu Kokou no Eiyuu (Japan) - TODO
-- [Capcom Generation Vol.5 (Japan)](../Regions/Japan/T-1236G/01/README.md)
+- [Capcom Generation Vol.5 (Japan)](../../Regions/Japan/T-1236G/01/README.md)
 - Casper (Europe) - TODO
 - Casper (Japan) - TODO
 - Casper (USA) - TODO
@@ -33,7 +33,7 @@
 - Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 2) - TODO
 - Christmas NiGHTS into Dreams... (Europe) - TODO
 - Christmas NiGHTS into Dreams... (Japan) (Rev A) - TODO
-- [Christmas NiGHTS into Dreams (USA)](../Regions/USA/MK-81067/01/README.md)
+- [Christmas NiGHTS into Dreams (USA)](../../Regions/USA/MK-81067/01/README.md)
 - Cleaning Kit for Sega Saturn (USA) - TODO
 - Cleopatra Fortune (Japan) - TODO
 - ClockWerx (Japan) - TODO
@@ -93,7 +93,7 @@
 - Crusader - No Remorse (Europe) - TODO
 - Crusader - No Remorse (France) - TODO
 - Crusader - No Remorse (Germany) - TODO
-- [Crusader: No Remorse (USA)](../Regions/USA/T-5014H/01/README.md)
+- [Crusader: No Remorse (USA)](../../Regions/USA/T-5014H/01/README.md)
 - Crypt Killer (Europe) (R) - TODO
 - Crypt Killer (USA) - TODO
 - Cube Battler - Story of Anna (Japan) - TODO
@@ -107,7 +107,7 @@
 - Cyber Speedway (Europe) (RE) - TODO
 - Cyber Speedway (USA) - TODO
 - Cyber Troopers Virtual-On (Europe) - TODO
-- [Cyber Troopers Virtual-On (USA)](../Regions/USA/MK-81042/01/README.md)
+- [Cyber Troopers Virtual-On (USA)](../../Regions/USA/MK-81042/01/README.md)
 - Cyber Troopers Virtual-On Net Link Edition (USA) - TODO
 - Cyberbots - Fullmetal Madness (Japan) (1M) - TODO
 - Cyberbots - Fullmetal Madness (Japan) (2M) - TODO

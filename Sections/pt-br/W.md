@@ -68,7 +68,7 @@
 - Wizardry VI & VII Complete (Japan) (3M) - TODO
 - Wizardry VI & VII Complete (Japan) (Sample-ban) (3M) - TODO
 - Wolf Fang SS - Kuuga 2001 (Japan) - TODO
-- [Wonder 3 Arcade Gears (Japan)](../Regions/Japan/T-26107G/01/README.md)
+- [Wonder 3 Arcade Gears (Japan)](../../Regions/Japan/T-26107G/01/README.md)
 - World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (1M, 4M) - TODO
 - World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (2M) - TODO
 - World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (Rev A) (10M) - TODO

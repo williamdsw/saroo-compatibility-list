@@ -46,19 +46,19 @@
 - Darklight Conflict (Europe) - TODO
 - Darklight Conflict (USA) - TODO
 - Darkseed (Japan) - TODO
-- [Daytona USA (Europe)](../Regions/Europe/MK_8120050/01/README.md)
+- [Daytona USA (Europe)](../../Regions/Europe/MK_8120050/01/README.md)
 - Daytona USA (Japan) (Demo) (2M) - TODO
-- [Daytona USA (Japan)](../Regions/Japan/GS-9013/01/README.md)
-- [Daytona USA (USA)](../Regions/USA/MK-81200/01/README.md)
+- [Daytona USA (Japan)](../../Regions/Japan/GS-9013/01/README.md)
+- [Daytona USA (USA)](../../Regions/USA/MK-81200/01/README.md)
 - Daytona USA - Championship Circuit Edition (Europe) (Rev A) - TODO
-- [Daytona USA: Championship Circuit Edition (USA)](../Regions/USA/MK-81213/01/README.md)
+- [Daytona USA: Championship Circuit Edition (USA)](../../Regions/USA/MK-81213/01/README.md)
 - Daytona USA - Circuit Edition (Japan) - TODO
 - Daytona USA C.C.E. Net Link Edition (USA) - TODO
 - DeJig - Aqua World (Japan) - TODO
 - DeJig - Lassen - Art Collection (Japan) - TODO
 - DeJig - McKnight - Art Collection (Japan) - TODO
 - DeJig - Tin Toy (Japan) - TODO
-- [Dead Or Alive (Japan)](../Regions/Japan/T-3603G/01/README.md)
+- [Dead Or Alive (Japan)](../../Regions/Japan/T-3603G/01/README.md)
 - Deadalus (Japan) (1M) - TODO
 - Deadalus (Japan) (2A) - TODO
 - Deadalus (Japan) (3A) - TODO
@@ -74,7 +74,7 @@
 - DecAthlete (Japan) (Rev B) (20M) - TODO
 - DecAthlete (USA) - TODO
 - DecAthlete for SegaNet (Japan) - TODO
-- [Deep Fear (Europe)](../Regions/Europe/MK-81804/01/README.md)
+- [Deep Fear (Europe)](../../Regions/Europe/MK-81804/01/README.md)
 - Deep Fear (Japan) (Demo) - TODO
 - Deep Fear (Japan) (Disc 1) - TODO
 - Deep Fear (Japan) (Disc 2) - TODO
@@ -113,10 +113,10 @@
 - Devil Summoner - Soul Hackers Extra Dungeon (Japan) (3M) - TODO
 - Dezaemon 2 (Japan) - TODO
 - Die Hard Arcade (Europe) - TODO
-- [Die Hard Arcade (USA)](../Regions/USA/MK-81057/01/README.md)
+- [Die Hard Arcade (USA)](../../Regions/USA/MK-81057/01/README.md)
 - Die Hard Trilogy (Europe) - TODO
 - Die Hard Trilogy (Japan) - TODO
-- [Die Hard Trilogy (USA)](../Regions/USA/T-16103H/01/README.md)
+- [Die Hard Trilogy (USA)](../../Regions/USA/T-16103H/01/README.md)
 - Digital Ange - Dennou Tenshi SS (Japan) - TODO
 - Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M) - TODO
 - Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (11M) - TODO
@@ -133,11 +133,11 @@
 - Disc Station Bessatsu - I Miss You. Tanaka Katsumi (Japan) (1M) - TODO
 - Discworld (Japan) - TODO
 - Discworld II - Missing Presumed...! (Europe) - TODO
-- [DoDonPachi (Japan)](../Regions/Japan/T-14419G/01/README.md)
-- [DonPachi (Japan)](../Regions/Japan/T-14405G/01/README.md)
+- [DoDonPachi (Japan)](../../Regions/Japan/T-14419G/01/README.md)
+- [DonPachi (Japan)](../../Regions/Japan/T-14405G/01/README.md)
 - Doom (Europe) (R) - TODO
 - Doom (Japan) - TODO
-- [Doom (USA)](../Regions/USA/T-25405H/01/README.md)
+- [Doom (USA)](../../Regions/USA/T-25405H/01/README.md)
 - Doraemon - Nobita to Fukkatsu no Hoshi (Japan) - TODO
 - Double Switch (USA) (Disc 1) - TODO
 - Double Switch (USA) (Disc 2) - TODO
@@ -148,7 +148,7 @@
 - Doukyuusei 2 (Japan) (Disc B) - TODO
 - Dragon Ball Z - Idainaru Dragon Ball Densetsu (Japan) - TODO
 - Dragon Ball Z - La Grande Legende des Boules de Cristal (F, S) - TODO
-- [Dragon Ball Z - Shinbutouden (Japan)](../Regions/Japan/T-13302G/01/README.md)
+- [Dragon Ball Z - Shinbutouden (Japan)](../../Regions/Japan/T-13302G/01/README.md)
 - Dragon Force (Europe) - TODO
 - Dragon Force (Japan) (1M, 2M, 3M) - TODO
 - Dragon Force (Japan) (4M) - TODO
@@ -166,7 +166,7 @@
 - Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) - TODO (Recorded)
 - Druid - Yami e no Tsuisekisha (Japan) - TODO
 - Duke Nukem 3D (Europe) - TODO
-- [Duke Nukem 3D (USA)](../Regions/USA/MK-81071/01/README.md)
+- [Duke Nukem 3D (USA)](../../Regions/USA/MK-81071/01/README.md)
 - Dungeon Master Nexus (Japan) - TODO
 - Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom) - TODO
 - Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara) - TODO

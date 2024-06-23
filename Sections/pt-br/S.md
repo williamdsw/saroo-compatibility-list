@@ -34,9 +34,9 @@
 - Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 3) (Shokai Tokutenban) - TODO
 - Sakura Taisen Teikokukagekidan Taiin Meibo (Japan) - TODO
 - Sakura Tsuushin (Japan) - TODO
-- [Salamander Deluxe Pack Plus (Japan)](../Regions/Japan/T-9520G/01/README.md)
-- [Samurai Spirits - Amakusa Kourin (Japan)](../Regions/Japan/T-3116G/01/README.md)
-- [Samurai Spirits - Zankurou Musouken (Japan)](../Regions/Japan/T-3104G/01/README.md)
+- [Salamander Deluxe Pack Plus (Japan)](../../Regions/Japan/T-9520G/01/README.md)
+- [Samurai Spirits - Amakusa Kourin (Japan)](../../Regions/Japan/T-3116G/01/README.md)
+- [Samurai Spirits - Zankurou Musouken (Japan)](../../Regions/Japan/T-3104G/01/README.md)
 - Sangokushi Eiketsuden (Japan) - TODO
 - Sangokushi IV (Japan) - TODO
 - Sangokushi IV with Power-Up Kit (Japan) - TODO
@@ -55,7 +55,7 @@
 - Saturn Bomberman (Japan) (Demo) - TODO
 - Saturn Bomberman (Japan) (SegaNet) - TODO
 - Saturn Bomberman (Japan) - TODO
-- [Saturn Bomberman (USA)](../Regions/USA/MK-81070/01/README.md)
+- [Saturn Bomberman (USA)](../../Regions/USA/MK-81070/01/README.md)
 - Saturn Bomberman Fight!! (Japan) (Demo) - TODO
 - Saturn Bomberman Fight!! (Japan) - TODO
 - Saturn CG Selection Vol. 1 (Japan) (Rev A) - TODO
@@ -118,7 +118,7 @@
 - Sega Rally Championship (Japan) (Demo) - TODO
 - Sega Rally Championship (Japan) - TODO
 - Sega Rally Championship (South Korea) - TODO
-- [Sega Rally Championship (USA)](../Regions/USA/MK-81207/01/README.md)
+- [Sega Rally Championship (USA)](../../Regions/USA/MK-81207/01/README.md)
 - Sega Rally Championship Plus (Japan) - TODO
 - Sega Rally Championship Plus Netlink Edition (USA) - TODO
 - Sega Saturn Bootleg II - On the Road (USA) - TODO
@@ -153,7 +153,7 @@
 - Seireki 1999 - Pharaoh no Fukkatsu (Japan) - TODO
 - Sekai no Shasou kara - I Swiss-hen - Alps Tozantetsudou no Tabi (Japan) - TODO
 - Sengoku Blade - Sengoku Ace Episode II (Japan) (Demo) - TODO
-- [Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 1)](../Regions/Japan/T-14410G/01/README.md)
+- [Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 1)](../../Regions/Japan/T-14410G/01/README.md)
 - Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition) - TODO
 - Senken Kigyouden (Japan) - TODO
 - Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M) - TODO
@@ -169,7 +169,7 @@
 - Sentimental Graffiti (Japan) (Disc 2) (Second Window) (5M) - TODO
 - Sentimental Graffiti - First Window (Japan) - TODO
 - Sento Monogatari Sono I (Japan) - TODO
-- [Sexy Parodius (Japan)](../Regions/Japan/T-9514G/01/README.md)
+- [Sexy Parodius (Japan)](../../Regions/Japan/T-9514G/01/README.md)
 - Shadows of the Tusk (Japan) - TODO
 - Shanghai - Banri no Choujou - The Great Wall (Japan) (1M) - TODO
 - Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev A) (15M) - TODO
@@ -184,7 +184,7 @@
 - Shellshock - Jus' Keepin' da Peace (Japan) - TODO
 - Shichisei Toushin Guyferd - Crown Kaimetsu Sakusen (Japan) - TODO
 - Shichuu Suimei Pitagraph (Japan) (2M) - TODO
-- [Shienryuu (Japan)](../Regions/Japan/T-29102G/01/README.md)
+- [Shienryuu (Japan)](../../Regions/Japan/T-29102G/01/README.md)
 - Shin Kaitei Gunkan - Koutetsu no Kodoku (Japan) - TODO
 - Shin Megami Tensei - Shinrei Summoner (Japan) (Rev A) - TODO
 - Shin Megami Tensei - Devil Summoner (Japan) (Rev B) - TODO
@@ -216,11 +216,11 @@
 - Shining the Holy Ark (Japan) (1M) - TODO
 - Shining the Holy Ark (Japan) (3M) - TODO
 - Shining the Holy Ark (USA) - TODO
-- [Shinobi Legions (USA)](../Regions/USA/T-2301H/01/README.md)
+- [Shinobi Legions (USA)](../../Regions/USA/T-2301H/01/README.md)
 - Shinobi-X - Shin Shinobi Den (Europe) - TODO
 - Shinouken (Japan) - TODO
 - Shinpi no Sekai El-Hazard - El-Hazard - The Magnificent World for Sega Saturn (Japan) (2M) - TODO
-- [Shinrei Jusatsushi Taroumaru (Japan)](../Regions/Japan/T-4804G/01/README.md)
+- [Shinrei Jusatsushi Taroumaru (Japan)](../../Regions/Japan/T-4804G/01/README.md)
 - Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) - TODO
 - Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (Japan) (Rev A) (1M) - TODO
 - Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga... (Japan) (Rev A) (2A, 2B) - TODO
@@ -241,7 +241,7 @@
 - Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan) - TODO
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
 - Side Pocket 3 (Japan) (Demo) - TODO
-- [Side Pocket 3 (Japan)](../Regions/Japan/T-1314G/01/README.md)
+- [Side Pocket 3 (Japan)](../../Regions/Japan/T-1314G/01/README.md)
 - Silhouette Mirage (Japan) (Demo) - TODO
 - Silhouette Mirage (Japan) (Rev A) - TODO
 - Silhouette Mirage (Japan) - TODO
@@ -251,7 +251,7 @@
 - Simulation RPG Tkool (Japan) - TODO
 - Simulation Zoo (Japan) - TODO
 - Skeleton Warriors (Europe) - TODO
-- [Skeleton Warriors (USA)](../Regions/USA/T-13204H/01/README.md)
+- [Skeleton Warriors (USA)](../../Regions/USA/T-13204H/01/README.md)
 - Skull Fang - Kuuga Gaiden (Japan) - TODO
 - Sky Target (Europe) - TODO
 - Sky Target (Japan) - TODO
@@ -265,7 +265,7 @@
 - Snatcher (Japan) - TODO
 - Soeldnerschild (Japan) - TODO
 - Sokkou Seitokai - Sonic Council (Japan) - TODO
-- [Sol Divide (Japan)](../Regions/Japan/T-14423G/01/README.md)
+- [Sol Divide (Japan)](../../Regions/Japan/T-14423G/01/README.md)
 - Solar Eclipse (USA) (2S) - TODO
 - Solo Crisis (Japan) (1M) - TODO
 - Solo Crisis (Japan) (2M) - TODO
@@ -282,7 +282,7 @@
 - Sonic R (Japan) (2M) - TODO
 - Sonic R (Japan) (Demo) - TODO
 - Sonic R (USA, Brazil) - TODO
-- [Sonic Wings Special (Japan)](../Regions/Japan/T-26402G/01/README.md)
+- [Sonic Wings Special (Japan)](../../Regions/Japan/T-26402G/01/README.md)
 - Sorvice (Japan) - TODO
 - Sotsugyou - Graduation S (Japan) - TODO
 - Sotsugyou Album (Japan) - TODO
@@ -295,7 +295,7 @@
 - Soukuu no Tsubasa - Gotha World (Japan) (Disc 2) - TODO
 - Soukyuu Gurentai (Japan) (Rev A) - TODO
 - Soukyuu Gurentai (Japan) - TODO
-- [Soukyugurentai Otokuyou (Japan)](../Regions/Japan/T-10626G/01/README.md)
+- [Soukyugurentai Otokuyou (Japan)](../../Regions/Japan/T-10626G/01/README.md)
 - Sound Novel Machi (Japan) (Disc 1) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (2M) - TODO
@@ -305,7 +305,7 @@
 - Soviet Strike (France) - TODO
 - Soviet Strike (Germany) - TODO
 - Soviet Strike (Japan) - TODO
-- [Soviet Strike (USA)](../Regions/USA/T-5013H/01/README.md)
+- [Soviet Strike (USA)](../../Regions/USA/T-5013H/01/README.md)
 - Space Hulk - Vengeance of the Blood Angels (Europe) - TODO
 - Space Hulk - Vengeance of the Blood Angels (USA) - TODO
 - Space Invaders (Japan) - TODO
@@ -342,32 +342,32 @@
 - Street Fighter - Real Battle on Film (Japan) (4M) - TODO
 - Street Fighter - The Movie (Europe) (2S) - TODO
 - Street Fighter - The Movie (Europe) (4S) - TODO
-- [Street Fighter - The Movie (USA)](../Regions/USA/T-8105H/01/README.md)
+- [Street Fighter - The Movie (USA)](../../Regions/USA/T-8105H/01/README.md)
 - Street Fighter Alpha - Warriors' Dreams (Europe) - TODO
-- [Street Fighter Alpha: Warrior's Dreams (USA)](../Regions/USA/T-1206H/01/README.md)
+- [Street Fighter Alpha: Warrior's Dreams (USA)](../../Regions/USA/T-1206H/01/README.md)
 - Street Fighter Alpha 2 (Europe) - TODO
-- [Street Fighter Alpha 2 (USA)](../Regions/USA/T-1213H/01/README.md)
+- [Street Fighter Alpha 2 (USA)](../../Regions/USA/T-1213H/01/README.md)
 - Street Fighter Collection (Europe) (Disc 1) (R) - TODO
 - Street Fighter Collection (Europe) (Disc 2) (R) - TODO
 - Street Fighter Collection (Japan) (Demo) - TODO
 - Street Fighter Collection (Japan) (Disc 1) - TODO
 - Street Fighter Collection (Japan) (Disc 2) - TODO
-- [Street Fighter Collection (USA) (Disc 1)](../Regions/USA/T-1222H/01/README.md)
+- [Street Fighter Collection (USA) (Disc 1)](../../Regions/USA/T-1222H/01/README.md)
 - Street Fighter Collection (USA) (Disc 2) - TODO
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
-- [Street Fighter Zero (Japan)](../Regions/Japan/T-1206G/01/README.md)
+- [Street Fighter Zero (Japan)](../../Regions/Japan/T-1206G/01/README.md)
 - Street Fighter Zero 2 (Japan) (Demo) - TODO
 - Street Fighter Zero 2 (Japan) - TODO
-- [Street Fighter Zero 2' - Dash (Japan)](../Regions/Japan/T-1244G/01/README.md)
-- [Street Fighter Zero 3 (Japan)](../Regions/Japan/T-1246G/01/README.md)
+- [Street Fighter Zero 2' - Dash (Japan)](../../Regions/Japan/T-1244G/01/README.md)
+- [Street Fighter Zero 3 (Japan)](../../Regions/Japan/T-1246G/01/README.md)
 - Street Racer (Europe) - TODO
 - Street Racer Extra (Japan) - TODO
 - Striker 96 (Europe) - TODO
 - Striker 96 (Japan) - TODO
-- [Striker '96 (USA)](../Regions/USA/T-8133H/01/README.md)
-- [Strikers 1945 (Japan)](../Regions/Japan/T-14407G/01/README.md)
-- [Strikers 1945 II (Japan)](../Regions/Japan/T-20402G/01/README.md)
+- [Striker '96 (USA)](../../Regions/USA/T-8133H/01/README.md)
+- [Strikers 1945 (Japan)](../../Regions/Japan/T-14407G/01/README.md)
+- [Strikers 1945 II (Japan)](../../Regions/Japan/T-20402G/01/README.md)
 - Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1) - TODO
 - Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 2) - TODO
 - Sugoventure - Dragon Master Silk Gaiden (Japan) - TODO
@@ -384,7 +384,7 @@
 - Super Adventure Rockman (Japan) (Disc 3) (Episode 3 - Saigo no Tatakai!!) - TODO
 - Super Casino Special (Japan) - TODO
 - Super Puzzle Fighter II Turbo (Europe) - TODO
-- [Super Puzzle Fighter II Turbo (USA)](../Regions/USA/T-1215H/01/README.md)
+- [Super Puzzle Fighter II Turbo (USA)](../../Regions/USA/T-1215H/01/README.md)
 - Super Puzzle Fighter II X (Japan) - TODO
 - Super Real Mahjong Graffiti (Japan) (2M) - TODO
 - Super Real Mahjong Graffiti (Japan) (P's Club Special Edition) (2M) - TODO
@@ -396,7 +396,7 @@
 - Super Robot Taisen F (Japan) (Demo) - TODO
 - Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M) - TODO
 - Super Robot Taisen F (Japan) (Rev B) (21M) - TODO
-- [Super Robot Taisen F Kanketsuhen (Japan)](../Regions/Japan/T-20612G/01/README.md)
+- [Super Robot Taisen F Kanketsuhen (Japan)](../../Regions/Japan/T-20612G/01/README.md)
 - Super Tempo (Japan) - TODO
 - Swagman (Europe) (Demo) - TODO
 - Swagman (Europe) - TODO
