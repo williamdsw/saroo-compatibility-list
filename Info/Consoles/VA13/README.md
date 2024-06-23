@@ -1,3 +1,5 @@
+**English** | [Português](pt-br.md)
+
 # Sega Saturn Model
 
 ### General Info

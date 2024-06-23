@@ -26,7 +26,7 @@ Carcaça Externa:
 
 ![Shell1](Images/Shell1.jpg)
 
-Carcaça Intera:
+Carcaça Interna:
 
 ![Shell2](Images/Shell2.jpg)
 
