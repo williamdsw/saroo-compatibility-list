@@ -1,16 +1,18 @@
-# SAROO Compatibility List
+**English** | [Português](pt-br.md)
+
+# SAROO - Compatibility List
 
 ## :construction: In Progress :construction:
 
 ### About
 
 Games compatibility list of SAROO cartridge for Sega Saturn.
-It's based on tests from my [Youtube Channel](https://www.youtube.com/@chap3l).
+It's based on tests from my [YouTube Channel](https://www.youtube.com/@chap3l).
 
-[Playlist with Tested Games on Youtube (+ 550 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
+[Playlist with Tested Games on YouTube (+ 550 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
 
-- `TODO` - Game needs to be tested, recorded, uploaded to youtube and be registered here.
-- `TODO (Recorded)` - Game already tested, recorded and uploaded to youtube but they need to be registered here.
+- `TODO` - Game needs to be tested, recorded, uploaded to YouTube and be registered here.
+- `TODO (Recorded)` - Game already tested, recorded and uploaded to YouTube but they need to be registered here.
 
 ### Regions
 
