@@ -1,3 +1,5 @@
+[English](README.md) | **Português**
+
 # Cartão Micro SD - EVO Samsung 64 GB
 
 ### Informações Gerais

@@ -1,3 +1,5 @@
+[English](README.md) | **Português**
+
 # Cartão Micro SD - XRayDisk 128 GB
 
 ### Informações Gerais
