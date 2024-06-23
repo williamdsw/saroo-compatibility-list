@@ -1,42 +1,42 @@
-**English** | [Português](pt-br.md)
+[English](README.md) | **Português**
 
-# SAROO - Cartridge Model
+# SAROO - Model do Cartucho
 
-### General Info
+### Informações Gerais
 
-- <b>Vendor/Store:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_Dl2XgzD)
-- <b>Version:</b> 1.32F
-- <b>Model:</b> Green Card
+- <b>Fornecedor/Loja:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_Dl2XgzD)
+- <b>Versão:</b> 1.32F
+- <b>Modelo:</b> Cartucho Verde
 
-#### Purchase Links (AliExpress)
+#### Links de Compra (AliExpress)
 
 - https://s.click.aliexpress.com/e/_DBkI7hz
 - https://s.click.aliexpress.com/e/_Dmz9Rmn
 - https://s.click.aliexpress.com/e/_Dm27GUX
 - https://s.click.aliexpress.com/e/_DFGd6bz
 
-#### Some Chips
+#### Alguns Chips
 
 - ALVC16424S / A1824100 02 / YXD2103D (4 chips)
 - ALTERA Cyclone IV / EPACE6F17CON / G BCAAA12135 / MALAYSIA / VCAAA482 / 3N3G1 4100 (1 chip)
 - SAMSUNG 734 / K4S5116320-UC75 / S5116 WHG022PW (1 chip)
 - STM324750 / VBT6 V / 7824V VQ / PHL 78 322 / ST ARM (1 chip)
 
-#### Images
+#### Imagens
 
-Shell Outside:
+Carcaça Externa:
 
 ![Shell1](Images/Shell1.jpg)
 
-Shell Inside:
+Carcaça Intera:
 
 ![Shell2](Images/Shell2.jpg)
 
-PCB Front:
+Frente da Placa:
 
 ![Card1](Images/Card1.jpg)
 
-PCB Back:
+Costas da Placa:
 
 ![Card2](Images/Card2.jpg)
 
@@ -58,6 +58,6 @@ PCB Back:
 
 ![CardDetail5](Images/CardDetail5.jpg)
 
-Lights:
+Luzes:
 
 ![Lights](Images/Lights.jpg)

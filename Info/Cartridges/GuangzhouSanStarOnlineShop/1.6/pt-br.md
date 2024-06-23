@@ -1,40 +1,40 @@
-**English** | [Português](pt-br.md)
+[English](README.md) | **Português**
 
-# SAROO - Cartridge Model
+# SAROO - Model do Cartucho
 
-### General Info
+### Informações Gerais
 
-- <b>Vendor:</b> [Guangzhou San Star Online Shop](https://s.click.aliexpress.com/e/_Dmwjf6r)
-- <b>Version:</b> 1.6
-- <b>Model:</b> Blue Card (Elite)
+- <b>Fornecedor/Loja:</b> [Guangzhou San Star Online Shop](https://s.click.aliexpress.com/e/_Dmwjf6r)
+- <b>Versão:</b> 1.6
+- <b>Modelo:</b> Cartucho Azul (Elite)
 
-#### Purchase Links (AliExpress)
+#### Links de Compra (AliExpress)
 
 - https://s.click.aliexpress.com/e/_DB1riYr
 - https://s.click.aliexpress.com/e/_Dmwjf6r
 
-#### Some Chips
+#### Alguns Chips
 
 - 3CCK32K G4 / ALVC164245 (4 chips)
 - ALTERA Cyclone IV / EP4CE6F17CBN / G BCABG2307E / MALAYSIA / S308MJ20 / 303GESD09 (1 chip)
 - SAMSUNG 321 / K4S511632B-UC75 / S3115 KLK328FT (1 chip)
 - STM32H750 / VBT6 V / 7834D VQ / PHL 7B 342 / ST ARM (1 chip)
 
-#### Images
+#### Imagens
 
-Shell Outside:
+Carcaça Externa:
 
 ![Shell1](Images/Shell1.jpg)
 
-Shell Inside:
+Carcaça Intera:
 
 ![Shell2](Images/Shell2.jpg)
 
-PCB Front:
+Frente da Placa:
 
 ![Card1](Images/Card1.jpg)
 
-PCB Back:
+Costas da Placa:
 
 ![Card2](Images/Card2.jpg)
 
@@ -54,6 +54,6 @@ STM32H750 / VBT6 V / 7834D VQ / PHL 7B 342 / ST ARM (1 chip)
 
 ![CardDetail4](Images/CardDetail4.jpg)
 
-Lights:
+Luzes:
 
 ![Lights](Images/Lights.jpg)
