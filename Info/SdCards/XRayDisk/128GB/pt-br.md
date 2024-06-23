@@ -1,13 +1,13 @@
-# Micro SD Card - XRayDisk 128 GB
+# Cartão Micro SD - XRayDisk 128 GB
 
-### General Info
+### Informações Gerais
 
-- <b>Vendor/Brand:</b> [XRayDisk](https://s.click.aliexpress.com/e/_Dcz0PBZ)
-- <b>File System:</b> Large FAT32
-- <b>Capacity:</b> 128 GB
-- <b>Cluster Size:</b> 32 kb
+- <b>Fornecedor/Marca:</b> [XRayDisk](https://s.click.aliexpress.com/e/_Dcz0PBZ)
+- <b>Sistema de Arquivos:</b> Large FAT32
+- <b>Capacidade:</b> 128 GB
+- <b>Tamanho do Cluster:</b> 32 kb
 
-#### Purchase Links (AliExpress)
+#### Links de Compras (AliExpress)
 
 - https://s.click.aliexpress.com/e/_Dnrb2tt
 - https://s.click.aliexpress.com/e/_DmsCz2r
@@ -16,7 +16,7 @@
 - https://aliexpress.com/item/1005005943025090.html
 - https://aliexpress.com/item/1005005942334674.html
 
-#### Images
+#### Imagens
 
 ![SdCard](Images/SdCard.png)
 

@@ -1,4 +1,4 @@
-# Lenovo 128 GB SD Card
+# Micro SD Card - Lenovo 128 GB
 
 ### General Info
 
@@ -9,10 +9,8 @@
 
 #### Purchase Links (AliExpress)
 
-Prices in USD, may vary depending on sales promotions:
-
-- Link 1 - https://s.click.aliexpress.com/e/_DlLeTZ5
-- Link 2 - https://s.click.aliexpress.com/e/_DdWkxHl
+- https://s.click.aliexpress.com/e/_DlLeTZ5
+- https://s.click.aliexpress.com/e/_DdWkxHl
 
 #### Images
 
