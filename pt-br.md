@@ -9,7 +9,14 @@
 Lista de compatibilidade de jogos do cartucho SAROO para o Sega Saturn.
 É baseada nos testes armazenados no [meu canal no YouTube](https://www.youtube.com/@chap3l).
 
-[Playlist no YouTube com jogos testados (+ 550 vídeos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO).
+Outros links relacionados ao SAROO:
+
+- [Repositório Oficial](https://github.com/tpunix/SAROO)
+- [Lista de Compatibilidade](https://github.com/williamdsw/saroo-compatibility-list)
+- [Backgrounds para firmwares >= v0.5](https://github.com/williamdsw/saroo-backgrounds)
+- [Playlist no YouTube com jogos testados (+ 550 vídeos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
+
+### Rótulos
 
 - `TODO` - Jogo que precisa ser testado, registrado por vídeo, upload para YouTube e registrado aqui.
 - `TODO (Recorded)` - Jogo já tesado, registrado e carregado para o o YouTube mas precisa ser registrado aqui.
