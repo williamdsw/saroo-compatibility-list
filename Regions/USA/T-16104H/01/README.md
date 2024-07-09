@@ -7,7 +7,7 @@
 - <b>Firmwares Tested:</b>
   1. MCU: 240118, SS: 240118, FPGA: 05 [Vortex]
 
-### [SD Card Info (Lenovo - 128 GB)](../../../../Info/SdCards/Lenovo/128GB/README.md)
+### [SD Card Info (Lenovo - 128 GB)](../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
 
 ### Game Info
 

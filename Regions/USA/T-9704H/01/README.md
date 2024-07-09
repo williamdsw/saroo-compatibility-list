@@ -7,7 +7,7 @@
 - <b>Firmwares Tested:</b>
   1. MCU: 231005, SS: 231005, FPGA: 04
 
-### [SD Card Info (XRayDisk - 128 GB)](../../../../Info/SdCards/XRayDisk/128GB/README.md)
+### [SD Card Info (XRayDisk - 128 GB)](../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
 
 ### Game Info
 

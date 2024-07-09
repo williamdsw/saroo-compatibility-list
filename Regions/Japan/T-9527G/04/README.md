@@ -10,7 +10,7 @@
   3. [MCU: 231125, SS: 231125, FPGA: 05](../03/README.md)
   4. MCU: 240107, SS: 240107, FPGA: 05 [KLnm]
 
-### [SD Card Info (XRayDisk - 128 GB)](../../../../Info/SdCards/XRayDisk/128GB/README.md)
+### [SD Card Info (XRayDisk - 128 GB)](../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
 
 ### Game Info
 

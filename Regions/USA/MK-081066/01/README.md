@@ -7,7 +7,7 @@
 - <b>Firmwares Tested:</b>
   1. MCU: 231125, SS: 231125, FPGA: 05
 
-### [SD Card Info (EVO Samsung - 64 GB)](../../../../Info/SdCards/Samsung/64GB/README.md)
+### [SD Card Info (EVO Samsung - 64 GB)](../../../../Info/SdCards/Samsung/64GB/fat32/README.md)
 
 ### Game Info
 

@@ -20,12 +20,12 @@
 
 #### Imagens
 
-![SdCard](Images/SdCard.png)
+![SdCard](../Images/SdCard.png)
 
-![Properties](Images/Properties.png)
+![Properties](../Images/Properties.png)
 
-![CrystalDiskMark](Images/CrystalDiskMark.png)
+![CrystalDiskMark](../Images/CrystalDiskMark.png)
 
-![H2TestW](Images/H2TestW.png)
+![H2TestW](../Images/H2TestW.png)
 
-![AJASystemText](Images/AJASystemText.png)
+![AJASystemText](../Images/AJASystemText.png)

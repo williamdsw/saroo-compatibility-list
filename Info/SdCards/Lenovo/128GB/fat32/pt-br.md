@@ -16,4 +16,4 @@
 
 #### Imagens
 
-![SdCard1](Images/SdCard.jpg)
+![SdCard1](../Images/SdCard.jpg)

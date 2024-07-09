@@ -10,7 +10,7 @@
   3. [MCU: 231125, SS: 231125, FPGA: 05](../03/README.md)
   4. [MCU: 240107, SS: 240107, FPGA: 05 [KLnm]](../04/README.md)
 
-### [SD Card Info (EVO Samsung - 64 GB)](../../../../Info/SdCards/Samsung/64GB/README.md)
+### [SD Card Info (EVO Samsung - 64 GB)](../../../../Info/SdCards/Samsung/64GB/fat32/README.md)
 
 ### Game Info
 

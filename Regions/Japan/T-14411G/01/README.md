@@ -7,7 +7,7 @@
 - <b>Firmwares Tested:</b>
   1. MCU: 231108, SS: 231108, FPGA: 04 [Vortex]
 
-### [SD Card Info (EVO Samsung - 64 GB)](../../../../Info/SdCards/Samsung/64GB/README.md)
+### [SD Card Info (EVO Samsung - 64 GB)](../../../../Info/SdCards/Samsung/64GB/fat32/README.md)
 
 ### Game Info
 
