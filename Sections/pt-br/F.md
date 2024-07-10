@@ -2,41 +2,38 @@
 
 ## F
 
-#### 106 Games (4 Tested)
+#### 95 Jogos (36 Testados)
 
-- F-1 Live Information (Japan) - TODO
+- [F-1 Live Information (Japan)](../../Regions/Japan/GS-9035/01/README.md)
 - F1 Challenge (Europe) - TODO
 - F1 Challenge (USA) - TODO
-- FEDA Remake! The Emblem of Justice (Japan) - TODO
+- [FEDA Remake! The Emblem of Justice (Japan)](../../Regions/Japan/GS-9107/01/README.md)
 - FIFA - Die WM-Qualifikation 98 (Germany) - TODO
 - FIFA - En Route pour la Coupe du Monde 98 (France) - TODO
 - FIFA - Road to World Cup 98 (Europe) - TODO
 - FIFA - Road to World Cup 98 (Italy) - TODO
-- FIFA - Road to World Cup 98 (USA) - TODO
+- [FIFA - Road to World Cup 98 (USA)](../../Regions/USA/T-5025H/01/README.md)
 - FIFA - Rumbo al Mundial 98 (S) - TODO
-- FIFA 97 (Europe) - TODO
+- [FIFA 97 (Europe)](../../Regions/Europe/T-5017H/01/README.md)
 - FIFA 97 (France) - TODO
 - FIFA 97 (Germany) - TODO
 - FIFA Soccer 96 (Europe) - TODO
 - FIFA Soccer 96 (Japan) - TODO
-- FIFA Soccer 96 (USA) - TODO
+- [FIFA Soccer 96 (USA)](../../Regions/USA/T-5003H/01/README.md)
 - FIFA Soccer 97 (USA) - TODO
-- Falcom Classics (Japan) (Disc 1) (Game Disc) - TODO
-- Falcom Classics (Japan) (Disc 2) (Special CD) - TODO
+- [Falcom Classics (Japan)](../../Regions/Japan/T-31503G/01/README.md)
 - Falcom Classics II (Japan) (Genteiban) - TODO
 - Falcom Classics II (Japan) - TODO
-- Fantastep (Japan) - TODO
-- Farland Saga (Japan) - TODO
-- Farland Saga - Toki no Michishirube (Japan) - TODO
-- Farland Story - Habou no Mai (Japan) (Demo) - TODO
-- Farland Story - Habou no Mai (Japan) - TODO
-- Father Christmas (Japan) - TODO
+- [Fantastep (Japan)](../../Regions/Japan/GS-9107/01/README.md)
+- [Farland Saga (Japan)](../../Regions/Japan/T-32507G/01/README.md)
+- [Farland Saga: Toki no Michishirube (Japan)](../../Regions/Japan/T-32511G/01/README.md)
+- [Farland Story: Habou no Mai (Japan)](../../Regions/Japan/T-32505G/01/README.md)
+- [Father Christmas (Japan)](../../Regions/Japan/T-18504G/01/README.md)
 - [Fighter's History Dynamite (Japan)](../../Regions/Japan/GS-9107/01/README.md)
 - Fighters Megamix (Europe) - TODO
 - Fighters Megamix (Japan) (1M) - TODO
 - Fighters Megamix (Japan) (2M) - TODO
 - Fighters Megamix (Japan) - TODO
-- Fighters Megamix (USA) (RE) - TODO
 - [Fighters Megamix (USA)](../../Regions/USA/MK-81073/01/README.md)
 - Fighting Vipers (Europe) - TODO
 - Fighting Vipers (Japan) (Demo) - TODO
@@ -45,18 +42,15 @@
 - Fighting Vipers (Korea) - TODO
 - [Fighting Vipers (USA)](../../Regions/USA/MK-81041/01/README.md)
 - [Final Fight Revenge (Japan)](../../Regions/Japan/T-20605G/01/README.md)
-- Find Love 2 - Rhapsody (Japan) (Disc 1) - TODO
-- Find Love 2 - Rhapsody (Japan) (Disc 2) - TODO
-- Find Love 2 - The Prologue (Japan) - TODO
-- Fire Pro Gaiden Blazing Tornado (Japan) (Demo) - TODO
-- Fire Pro Gaiden Blazing Tornado (Japan) - TODO
-- Fire Prowrestling S - 6Men Scramble (Japan) (1M) - TODO
-- Fire Prowrestling S - 6Men Scramble (Japan) (2M) - TODO
-- Firestorm - Thunderhawk 2 (Europe) - TODO
+- [Find Love 2 - Rhapsody (Japan)](../../Regions/Japan/T-34605G/01/README.md)
+- [Find Love 2 - The Prologue (Japan)](../../Regions/Japan/T-34604G/01/README.md)
+- [Fire Pro Gaiden: Blazing Tornado (Japan)](../../Regions/Japan/T-4302G/01/README.md)
+- [Fire Prowrestling S - 6Men Scramble (Japan)](../../Regions/Japan/T-4308G/01/README.md)
+- [Firestorm - Thunderhawk 2 (Europe)](../../Regions/Europe/T-11501H00/01/README.md)
 - Firestorm - Thunderhawk 2 (Germany) - TODO
-- Fishing Koushien (Japan) - TODO
-- Fishing Koushien II (Japan) - TODO
-- Fist (Japan) - TODO
+- [Fishing Koushien (Japan)](../../Regions/Japan/T-24901G/01/README.md)
+- [Fishing Koushien II (Japan)](../../Regions/Japan/T-24904G/01/README.md)
+- [Fist (Japan)](../../Regions/Japan/T-15015G/01/README.md)
 - Flash SegaSaturn - Ochikazuki-hen (Japan) - TODO
 - Flash SegaSaturn Vol. 1 (Japan) (2M) - TODO
 - Flash SegaSaturn Vol. 10 (Japan) - TODO
@@ -90,25 +84,21 @@
 - Flash SegaSaturn Vol. 7 (Japan) - TODO
 - Flash SegaSaturn Vol. 8 (Japan) - TODO
 - Flash SegaSaturn Vol. 9 (Japan) - TODO
-- Formula Grand Prix - Team Un'ei Simulation (Japan) - TODO
-- Formula Karts - Special Edition (Europe) - TODO
+- [Formula Grand Prix - Team Un'ei Simulation (Japan)](../../Regions/Japan/T-7309G/01/README.md)
+- [Formula Karts Special Edition (Europe)](../../Regions/Europe/MK-81282/01/README.md)
 - Frank Thomas Big Hurt Baseball (Europe) - TODO
 - Frank Thomas Big Hurt Baseball (Japan) - TODO
-- Frank Thomas Big Hurt Baseball (USA) - TODO
-- Frankenstein - Through the Eyes of the Monster (Europe) - TODO
-- Free Talk Studio - Mari no Kimamana Oshaberi (Japan) - TODO
-- Friends - Seishun no Kagayaki (Japan) (Disc 1) (Game Disc) - TODO
-- Friends - Seishun no Kagayaki (Japan) (Disc 2) (Special Disc) - TODO
-- From TV Animation Slam Dunk - I Love Basketball (Japan) - TODO
-- Fully Cowled Mini Yonku - Super Factory (Japan) (Demo) - TODO
-- Fully Cowled Mini Yonku - Super Factory (Japan) (Rev A) (10M) - TODO
-- Fully Cowled Mini Yonku - Super Factory (Japan) (Rev A) (11M) - TODO
-- Funky Fantasy (Japan) - TODO
-- Funky Head Boxers (Japan) (Demo) - TODO
-- Funky Head Boxers (Japan) - TODO
-- Funky Head Boxers Plus (Japan) - TODO
-- Fushigi no Kuni no Angelique (Japan) - TODO
-- Fuusui Sensei - Feng-Shui Master (Japan) - TODO
+- [Frank Thomas Big Hurt Baseball (USA)](../../Regions/USA/T-8138H/01/README.md)
+- [Frankenstein - Through the Eyes of the Monster (Europe)](../../Regions/Europe/T-12511H/01/README.md)
+- [Free Talk Studio - Mari no Kimamana Oshaberi (Japan)](../../Regions/Japan/T-20504G/01/README.md)
+- [Friends - Seishun no Kagayaki (Japan)](../../Regions/Japan/T-20109G/01/README.md)
+- [From TV Animation Slam Dunk - I Love Basketball (Japan)](../../Regions/Japan/T-13301G/01/README.md)
+- [Fully Cowled Mini Yonku Super Factory (Japan)](../../Regions/Japan/T-26407G/01/README.md)
+- [Funky Fantasy (Japan)](../../Regions/Japan/T-20002G/01/README.md)
+- [Funky Head Boxers (Japan)](../../Regions/Japan/T-20003G/01/README.md)
+- [Funky Head Boxers Plus (Japan)](../../Regions/Japan/T-20004G/01/README.md)
+- [Fushigi no Kuni no Angelique (Japan)](../../Regions/Japan/T-7634G/01/README.md)
+- [Fuusui Sensei - Feng-Shui Master (Japan)](../../Regions/Japan/T-21701G/01/README.md)
 
 Navigation:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) **F** [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

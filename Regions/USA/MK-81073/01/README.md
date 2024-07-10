@@ -22,6 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Issues :warning:
+- (RE): Untested :question:
 
 ### Problems
 
@@ -32,6 +33,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - `1P Mode` campaign fully tested with `Akira`
 - It does need tests on other modes
 - It does need tests with other characters
+
+### Extra Info
+
+- Test Fighters Megamix (USA) (RE)
 
 ### Evidence
 
