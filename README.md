@@ -12,7 +12,7 @@ It's based on tests from my [YouTube Channel](https://www.youtube.com/@chap3l).
 Other links related to SAROO:
 
 - [Official Repository](https://github.com/tpunix/SAROO)
-- [Compatibility List](https://github.com/williamdsw/saroo-compatibility-list)
+- [Configuration List](https://github.com/williamdsw/saroo-configuration-list)
 - [Backgrounds for >= v0.5 firmware](https://github.com/williamdsw/saroo-backgrounds)
 - [Playlist with Tested Games on YouTube (+ 550 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
 
