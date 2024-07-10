@@ -7,7 +7,7 @@
 - <b>Firmwares Tested:</b>
   1. MCU: 240627, SS: 240627, FPGA: 05
 
-### [SD Card Info (Lenovo - 128 GB)](../../../../Info/SdCards/Lenovo/128GB/exfat/README.md)
+### [SD Card Info (Lenovo - 128 GB - exFat)](../../../../Info/SdCards/Lenovo/128GB/exfat/README.md)
 
 ### Game Info
 
