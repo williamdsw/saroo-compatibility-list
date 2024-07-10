@@ -13,7 +13,7 @@
 - FIFA - Road to World Cup 98 (Europe) - TODO
 - FIFA - Road to World Cup 98 (Italy) - TODO
 - [FIFA - Road to World Cup 98 (USA)](../../Regions/USA/T-5025H/01/README.md)
-- FIFA - Rumbo al Mundial 98 (S) - TODO
+- FIFA - Rumbo al Mundial 98 (Spain) - TODO
 - [FIFA 97 (Europe)](../../Regions/Europe/T-5017H/01/README.md)
 - FIFA 97 (France) - TODO
 - FIFA 97 (Germany) - TODO

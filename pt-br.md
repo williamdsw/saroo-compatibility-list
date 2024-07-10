@@ -30,6 +30,7 @@ Outros links relacionados ao SAROO:
 - `Italy` - ITA, IT (0 Jogos)
 - `Japan` - JAP, JP (384 Jogos)
 - `South Korea` - STK, SK (0 Jogos)
+- `Spain` - Espanha, SPA, SP (0 Jogos)
 - `Taiwan` - TAI, TW (1 Jogo)
 - `USA` - Estados Unidos da América, US (128 Jogos)
 - Total: 542 jogos registrados
