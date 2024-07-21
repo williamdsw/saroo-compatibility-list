@@ -28,12 +28,12 @@ Other links related to SAROO:
 - `France` - FRA, FR (0 Games)
 - `Germany` - GER, GE (1 Games)
 - `Italy` - ITA, IT (0 Games)
-- `Japan` - JAP, JP (384 Games)
+- `Japan` - JAP, JP (417 Games)
 - `South Korea` - STK, SK (0 Games)
 - `Spain` - SPA, SP (0 Games)
 - `Taiwan` - TAI, TW (1 Game)
 - `USA` - United States of America, US (128 Games)
-- Total: 542 games registered
+- Total: 575 games registered
 
 ### Games
 
