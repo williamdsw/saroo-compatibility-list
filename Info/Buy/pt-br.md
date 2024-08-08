@@ -32,10 +32,12 @@ Links de Compra:
 
 #### Outras Lojas / Outros Modelos
 
-- KK DIY Retro Game Store:
-  https://s.click.aliexpress.com/e/_DB5WNPB
-  https://s.click.aliexpress.com/e/_DmFNruD
-  https://s.click.aliexpress.com/e/_DCHAyCz (Abaixo de 50 dólares)
 - [Gamophile Store](https://s.click.aliexpress.com/e/_DFolRYn)
 - [Retro Game Paradise Second Store](https://s.click.aliexpress.com/e/_DD69TwH)
 - [FunFortress Game Accessory Store Store](https://s.click.aliexpress.com/e/_DlwHcLF)
+
+##### KK DIY Retro Game Store:
+
+- https://s.click.aliexpress.com/e/_DB5WNPB
+- https://s.click.aliexpress.com/e/_DmFNruD
+- https://s.click.aliexpress.com/e/_DCHAyCz (Abaixo de 50 dólares)
