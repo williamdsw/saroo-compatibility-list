@@ -21,15 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (3M): Playable :white_check_mark:
+- (Sample-ban) (3M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- Wizardry VI & VII Complete (Japan) (3M) - TODO
-- Wizardry VI & VII Complete (Japan) (Sample-ban) (3M) - TODO
+### TODO
+
+- Test Wizardry VI & VII Complete (Japan) (Sample-ban) (3M)
 
 ### Evidence
+
+(3M):
 
 [![](https://img.youtube.com/vi/APOt5OWN0vs/0.jpg)](https://www.youtube.com/watch?v=APOt5OWN0vs)

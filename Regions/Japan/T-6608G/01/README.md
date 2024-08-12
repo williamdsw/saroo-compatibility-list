@@ -21,16 +21,21 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (3M): Playable :white_check_mark:
+- (4M): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- Waku Waku Puyo Puyo Dungeon (Japan) (3M) - TODO
-- Waku Waku Puyo Puyo Dungeon (Japan) (4M) - TODO
-- Waku Waku Puyo Puyo Dungeon (Japan) (Demo) - TODO
+### TODO
+
+- Test Waku Waku Puyo Puyo Dungeon (Japan) (4M)
+- Test Waku Waku Puyo Puyo Dungeon (Japan) (Demo)
 
 ### Evidence
+
+(3M):
 
 [![](https://img.youtube.com/vi/5KgFRcAweo4/0.jpg)](https://www.youtube.com/watch?v=5KgFRcAweo4)

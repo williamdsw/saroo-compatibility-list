@@ -21,15 +21,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- Wizardry Nemesis - The Wizardry Adventure (Japan) (Disc 1) - TODO
-- Wizardry Nemesis - The Wizardry Adventure (Japan) (Disc 2) - TODO
+### TODO
+
+- Fully Test Wizardry Nemesis - The Wizardry Adventure (Japan) (Disc 1)
+- Test Wizardry Nemesis - The Wizardry Adventure (Japan) (Disc 2)
 
 ### Evidence
+
+(Disc 1):
 
 [![](https://img.youtube.com/vi/GNQ2rH_c7Vc/0.jpg)](https://www.youtube.com/watch?v=GNQ2rH_c7Vc)

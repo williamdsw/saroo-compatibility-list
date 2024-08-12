@@ -21,15 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (1S): Playable :white_check_mark:
+- (2S): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- World Series Baseball II (USA) (1S) - TODO
-- World Series Baseball II (USA) (2S) - TODO
+### TODO
+
+- Test World Series Baseball II (USA) (2S)
 
 ### Evidence
+
+(1S):
 
 [![](https://img.youtube.com/vi/tjWO5PzpCGY/0.jpg)](https://www.youtube.com/watch?v=tjWO5PzpCGY)

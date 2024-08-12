@@ -21,7 +21,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Issues :warning:
+
+### Problems
+
+- Missing UI and ring bars randomly
 
 ### Extra Info
 

@@ -1,4 +1,4 @@
-# Wizardry Llylgamyn Saga (Japan)
+# Golden Axe: The Duel (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,10 +13,10 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> WIZARDRY LS
-- <b>Product Number:</b> T-38601G
-- <b>Version:</b> V1.002
-- <b>Area Code:</b> J
+- <b>Game Name:</b> GOLDEN AXE THE DUEL
+- <b>Product Number:</b> MK-81045
+- <b>Version:</b> V1.000
+- <b>Area Code:</b> UTJ
 - <b>Peripheral Code:</b> J
 
 ### Status
@@ -25,16 +25,18 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Problems without configuration
 
-- It does freezes when a monster is found before the battle begins
+- It does boot to bios when a bluetooth or 3rd party controller is connected
+- It does random freezes when showing the character screen after confirming a continue
 
 ### Solution
 
-- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-38601G/README.md).
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/U/MK-81045/README.md).
 
 ### Extra Info
 
-- It does need a full gameplay test.
+- Beat the `Game Start` mode
+- It does need to test `VS Start` mode
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/fo9_jg3HVL8/0.jpg)](https://www.youtube.com/watch?v=fo9_jg3HVL8)
+[![](https://img.youtube.com/vi/aw9GeTj0ZFk/0.jpg)](https://www.youtube.com/watch?v=aw9GeTj0ZFk)

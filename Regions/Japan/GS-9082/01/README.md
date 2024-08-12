@@ -21,15 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (1M): Playable :white_check_mark:
+- (2M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- World Advanced Daisenryaku - Sakusen File (Japan) (1M) - TODO
-- World Advanced Daisenryaku - Sakusen File (Japan) (2M) - TODO
+### TODO
+
+- Test World Advanced Daisenryaku - Sakusen File (Japan) (2M)
 
 ### Evidence
+
+(1M):
 
 [![](https://img.youtube.com/vi/SQhTL8oUE88/0.jpg)](https://www.youtube.com/watch?v=SQhTL8oUE88)

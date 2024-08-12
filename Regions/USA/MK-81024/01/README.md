@@ -21,15 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (4S): Playable :white_check_mark:
+- (5S): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- Wing Arms (USA) (4S) - TODO
-- Wing Arms (USA) (5S) - TODO
+### TODO
+
+- Test Wing Arms (USA) (5S)
 
 ### Evidence
+
+(4S):
 
 [![](https://img.youtube.com/vi/2eFYAXZITiY/0.jpg)](https://www.youtube.com/watch?v=2eFYAXZITiY)

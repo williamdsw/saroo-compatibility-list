@@ -21,15 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (2M): Playable :white_check_mark:
+- (3M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- Winning Post 3 (Japan) (2M) - TODO
-- Winning Post 3 (Japan) (3M) - TODO
+### TODO
+
+- Test Winning Post 3 (Japan) (3M)
 
 ### Evidence
+
+(2M):
 
 [![](https://img.youtube.com/vi/Bfw3N7Ds984/0.jpg)](https://www.youtube.com/watch?v=Bfw3N7Ds984)

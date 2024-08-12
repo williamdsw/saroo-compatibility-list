@@ -2,7 +2,7 @@
 
 ## P
 
-#### 142 Games (5 Tested)
+#### 138 Jogos (6 Testados)
 
 - P.T.O. - Pacific Theater of Operations II (USA) - TODO
 - PD Ultraman Link (Japan) - TODO
@@ -38,10 +38,7 @@
 - Panzer Dragoon Saga (Europe) (Disc 2) - TODO
 - Panzer Dragoon Saga (Europe) (Disc 3) - TODO
 - Panzer Dragoon Saga (Europe) (Disc 4) - TODO
-- Panzer Dragoon Saga (USA) (Disc 1) - TODO
-- Panzer Dragoon Saga (USA) (Disc 2) - TODO
-- Panzer Dragoon Saga (USA) (Disc 3) - TODO
-- Panzer Dragoon Saga (USA) (Disc 4) - TODO
+- [Panzer Dragoon Saga (USA)](../../Regions/USA/MK-81307/01/README.md)
 - Pappara Paoon (Japan) (2M) - TODO
 - [Parodius (Europe)](../../Regions/Europe/T-9501H-50/01/README.md)
 - Pastel Muses (Japan) - TODO

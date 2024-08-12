@@ -21,17 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Playable :white_check_mark:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- Wangan Dead Heat + Real Arrange (Japan) (Disc 1) - TODO
-- Wangan Dead Heat + Real Arrange (Japan) (Disc 2) (Addition) - TODO
-
 ### Evidence
 
+(Disc 1):
+
 [![](https://img.youtube.com/vi/_TmZCzjUH2I/0.jpg)](https://www.youtube.com/watch?v=_TmZCzjUH2I)
+
+(Disc 2):
 
 [![](https://img.youtube.com/vi/cls2oBdRHWw/0.jpg)](https://www.youtube.com/watch?v=cls2oBdRHWw)

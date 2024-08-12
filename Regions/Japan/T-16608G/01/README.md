@@ -21,7 +21,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Fixed with configuration :hammer_and_wrench:
+
+### Problems without configuration
+
+- It does shows a black screen when you lose a battle
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-16608G/README.md).
 
 ### Extra Info
 

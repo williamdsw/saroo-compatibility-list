@@ -2,7 +2,7 @@
 
 ## G
 
-#### 105 Games (12 Tested)
+#### 105 Jogos (13 Testados)
 
 - G Vector (Japan) - TODO
 - GT24 (Japan) - TODO
@@ -74,7 +74,7 @@
 - Gokujou Parodius Da! Deluxe Pack (Japan) - TODO (Check if recorded)
 - Golden Axe - The Duel (Europe) - TODO
 - Golden Axe - The Duel (Japan) (2M) - TODO
-- Golden Axe - The Duel (USA) - TODO
+- [Golden Axe: The Duel (USA)](../../Regions/USA/MK-81045/01/README.md)
 - Gotha - Ismailia SenEki (Japan) - TODO
 - Gotha II - Tenkuu no Kishi (Japan) - TODO
 - Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (Japan) (Demo) - TODO

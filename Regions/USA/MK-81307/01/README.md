@@ -1,4 +1,4 @@
-# With You: Mitsumete Itai (Japan)
+# Panzer Dragoon Saga (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,28 +13,32 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> WITHYOU
-- <b>Product Number:</b> T-20117G
+- <b>Game Name:</b> J:AZEL PANZER DRAGOON RPG U:PANZER DRAGOON SAGA
+- <b>Product Number:</b> MK-81307
 - <b>Version:</b> V1.000
-- <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
+- <b>Area Code:</b> AEFJK
+- <b>Peripheral Code:</b> U
 
 ### Status
 
 - (Disc 1): Playable :white_check_mark:
 - (Disc 2): Untested :question:
+- (Disc 3): Untested :question:
+- (Disc 4): Untested :question:
 
 ### Extra Info
 
-- It does need a full gameplay test.
+- It does need a full gameplay test on all discs.
 
 ### TODO
 
-- Fully Test With You - Mitsumeteitai (Japan) (Disc 1)
-- Test With You - Mitsumeteitai (Japan) (Disc 2)
+- Fully test Panzer Dragoon Saga (USA) (Disc 1)
+- Fully test Panzer Dragoon Saga (USA) (Disc 2)
+- Fully test Panzer Dragoon Saga (USA) (Disc 3)
+- Fully test Panzer Dragoon Saga (USA) (Disc 4)
 
 ### Evidence
 
-- (Disc 1):
+(Disc 1):
 
-[![](https://img.youtube.com/vi/D32ycPNR4gE/0.jpg)](https://www.youtube.com/watch?v=D32ycPNR4gE)
+[![](https://img.youtube.com/vi/TVyOGTlfc-Y/0.jpg)](https://www.youtube.com/watch?v=TVyOGTlfc-Y)

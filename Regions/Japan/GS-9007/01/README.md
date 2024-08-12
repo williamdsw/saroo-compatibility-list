@@ -21,15 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc A): Playable :white_check_mark:
+- (Disc B) (3A, 3C): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-- WanChai Connection (Japan) (Disc A) - TODO
-- WanChai Connection (Japan) (Disc B) (3A, 3C) - TODO
+### TODO
+
+- Test WanChai Connection (Japan) (Disc B) (3A, 3C)
 
 ### Evidence
+
+(Disc A):
 
 [![](https://img.youtube.com/vi/4k9-_o1Yws8/0.jpg)](https://www.youtube.com/watch?v=4k9-_o1Yws8)
