@@ -2,7 +2,7 @@
 
 ## S
 
-#### 402 Games (28 Tested)
+#### 400 Games (28 Tested)
 
 - SD Gundam - GCentury S (Japan) - TODO
 - Sakamoto Ryouma - Ishin Kaikoku (Japan) - TODO
@@ -154,7 +154,6 @@
 - Sekai no Shasou kara - I Swiss-hen - Alps Tozantetsudou no Tabi (Japan) - TODO
 - Sengoku Blade - Sengoku Ace Episode II (Japan) (Demo) - TODO
 - [Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 1)](../../Regions/Japan/T-14410G/01/README.md)
-- Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition) - TODO
 - Senken Kigyouden (Japan) - TODO
 - Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M) - TODO
 - Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev B) (21M) - TODO
@@ -240,7 +239,6 @@
 - Shutsudou! Miniskirt Police (Japan) (2M) - TODO
 - Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan) - TODO
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
-- Side Pocket 3 (Japan) (Demo) - TODO
 - [Side Pocket 3 (Japan)](../../Regions/Japan/T-1314G/01/README.md)
 - Silhouette Mirage (Japan) (Demo) - TODO
 - Silhouette Mirage (Japan) (Rev A) - TODO

@@ -21,15 +21,24 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
 
 ### Extra Info
+
+(Disc 1):
 
 - Full campaign tested with `Miko / Koyori` on `Monkey` difficulty.
 - Full campaign tested with `Tengai` on `Child` difficulty.
 - It does need tests with others characters.
 - It does need tests on others difficulties.
 
+### TODO
+
+- Test Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition)
+
 ### Evidence
+
+(Disc 1):
 
 [![[Complete] SAROO 1.32 (231125) - Senkogu Blade (Japan)](https://img.youtube.com/vi/KQ4exGsGnJI/0.jpg)](https://www.youtube.com/watch?v=KQ4exGsGnJI)

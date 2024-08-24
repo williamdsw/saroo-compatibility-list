@@ -2,7 +2,7 @@
 
 ## T
 
-#### 168 Games (20 Tested)
+#### 167 Games (20 Tested)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO
@@ -110,7 +110,6 @@
 - [Three Dirty Dwarves (USA)](../../Regions/USA/T-30401H/01/README.md)
 - Thunder Force Gold Pack 1 (Japan) - TODO
 - Thunder Force Gold Pack 2 (Japan) (Rev A) - TODO
-- Thunder Force V (Japan) (Demo) - TODO
 - [Thunder Force V (Japan)](../../Regions/Japan/T-1811G/01/README.md)
 - Thunder Storm & Road Blaster (Japan) (Disc 1) (Thunder Storm) - TODO
 - Thunder Storm & Road Blaster (Japan) (Disc 2) (Road Blaster) - TODO
