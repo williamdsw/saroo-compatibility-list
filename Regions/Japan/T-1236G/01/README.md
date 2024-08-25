@@ -1,4 +1,4 @@
-# Capcom Generation Vol.5 (Japan)
+# Capcom Generation: Dai-5-shuu Kakutouka-tachi (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 

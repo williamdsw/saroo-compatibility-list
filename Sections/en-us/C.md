@@ -2,118 +2,102 @@
 
 ## C
 
-#### 110 Games (4 Tested)
+#### 97 Games (53 Tested)
 
-- Can Can Bunny Extra (Japan) - TODO
-- Can Can Bunny Premiere (Japan) (1M) - TODO
-- Can Can Bunny Premiere 2 (Japan) (Disc 1) (Rev A) - TODO
-- Can Can Bunny Premiere 2 (Japan) (Disc 1) - TODO
-- Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar) (Hibaihin) - TODO
-- Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar) - TODO
-- Capcom Generation - Dai-1-shuu Gekitsuiou no Jidai (Japan) - TODO
-- Capcom Generation - Dai-2-shuu Makai to Kishi (Japan) - TODO
-- Capcom Generation - Dai-3-shuu Koko ni Rekishi Hajimaru (Japan) - TODO
-- Capcom Generation - Dai-4-shuu Kokou no Eiyuu (Japan) - TODO
-- [Capcom Generation Vol.5 (Japan)](../../Regions/Japan/T-1236G/01/README.md)
+- [Can Can Bunny Extra (Japan)](../../Regions/Japan/T-19706G/01/README.md)
+- [Can Can Bunny Premiere (Japan)](../../Regions/Japan/T-19701G/01/README.md)
+- [Can Can Bunny Premiere 2 (Japan)](../../Regions/Japan/T-19703G/01/README.md)
+- [Capcom Generation: Dai-1-shuu Gekitsuiou no Jidai (Japan)](../../Regions/Japan/T-1232G/01/README.md)
+- [Capcom Generation: Dai-2-shuu Makai to Kishi (Japan)](../../Regions/Japan/T-1233G/01/README.md)
+- [Capcom Generation: Dai-3-shuu Koko ni Rekishi Hajimaru (Japan)](../../Regions/Japan/T-1234G/01/README.md)
+- [Capcom Generation: Dai-4-shuu Kokou no Eiyuu (Japan)](../../Regions/Japan/T-1235G/01/README.md)
+- [Capcom Generation: Dai-5-shuu Kakutouka-tachi (Japan)](../../Regions/Japan/T-1236G/01/README.md)
 - Casper (Europe) - TODO
 - Casper (Japan) - TODO
-- Casper (USA) - TODO
-- Cat the Ripper - 13Ninme no Tanteishi (Japan) - TODO
-- Center Ring Boxing (USA) - TODO
-- Chaos Control (Europe) (Beta) - TODO
-- Chaos Control (Europe) - TODO
+- [Casper (USA)](../../Regions/USA/T-12512H/01/README.md)
+- [Cat the Ripper: 13Ninme no Tanteishi (Japan)](../../Regions/Japan/T-35701G/01/README.md)
+- [Center Ring Boxing (USA)](../../Regions/USA/T-6005H/01/README.md) - TODO
+- [Chaos Control (Europe)](../../Regions/Europe/T-15102H/01/README.md)
 - Chaos Control (Japan) - TODO
-- Chaos Control Remix (Japan) - TODO
-- Chibi Maruko-chan no Taisen Puzzle-dama (Japan) - TODO
-- Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 1) - TODO
-- Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 2) - TODO
-- Choro Q Park (Japan) - TODO
-- Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (Japan) - TODO
-- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 1) - TODO
-- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 2) - TODO
+- [Chaos Control Remix (Japan)](../../Regions/Japan/T-7006G/01/README.md)
+- [Chibi Maruko-chan no Taisen Puzzle-dama (Japan)](../../Regions/Japan/T-9507G/01/README.md)
+- [Chisato Moritaka: Watarasebashi/Lala Sunshine (Japan)](../../Regions/Japan/GS-9172/01/README.md)
+- [Choro Q Park (Japan)](../../Regions/Japan/T-10314G/01/README.md)
+- [Cho Aniki: Kyukyoku ... Otoko no Gyakushu (Japan)](../../Regions/Japan/T-2503G/01/README.md)
+- [Choujikuu Yousai Macross: Ai Oboete Imasu ka (Japan)](../../Regions/Japan/T-23403G/01/README.md)
 - Christmas NiGHTS into Dreams... (Europe) - TODO
 - Christmas NiGHTS into Dreams... (Japan) (Rev A) - TODO
 - [Christmas NiGHTS into Dreams (USA)](../../Regions/USA/MK-81067/01/README.md)
-- Cleaning Kit for Sega Saturn (USA) - TODO
-- Cleopatra Fortune (Japan) - TODO
-- ClockWerx (Japan) - TODO
+- [Cleaning Kit for Sega Saturn (USA)](../../Regions/USA/T-25901H/01/README.md)
+- [Cleopatra Fortune (Japan)](../../Regions/Japan/T-1108G/01/README.md)
+- [ClockWerx (Japan)](../../Regions/Japan/T-22302G/01/README.md)
 - Clockwork Knight - Pepperouchau no Daibouken Gekan (Japan) (2M) - TODO
 - Clockwork Knight - Pepperouchau no Daibouken Joukan (Japan) - TODO
 - Clockwork Knight - Pepperouchau no Fukubukuro (Japan) - TODO
 - Clockwork Knight - Pepperouchau's Adventure (Europe) - TODO
-- Clockwork Knight - Pepperouchau's Adventure (USA) - TODO
+- [Clockwork Knight - Pepperouchau's Adventure (USA)](../../Regions/USA/MK-81007/01/README.md) - TODO
 - Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S) - TODO
 - Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (3S) - TODO
 - Clockwork Knight 2 - Pepperouchau's Adventure (USA) (Beta) - TODO
-- Clockwork Knight 2 - Pepperouchau's Adventure (U, B) - TODO
-- Clockwork Knight Puzzle - Pengin War (Japan) (Beta) - TODO
+- [Clockwork Knight 2 - Pepperouchau's Adventure (USA, Brazil)](../../Regions/USA/MK-81036/01/README.md) - TODO
+- [Clockwork Knight Puzzle - Pengin War (Japan) (Beta)](../../Regions/Japan/T-1236G/01/README.md) - TODO
+- [Code R (Japan)](../../Regions/Japan/T-23502G/01/README.md) - TODO
 - Code R (Japan) (Demo) - TODO
 - Code R (Japan) - TODO
-- College Slam (USA) - TODO
+- [College Slam (USA)](../../Regions/USA/T-8111H/01/README.md)
 - Command & Conquer (Europe) (Disc 1) (GDI) - TODO
 - Command & Conquer (Europe) (Disc 2) (NOD) - TODO
 - Command & Conquer (France) (Disc 1) (GDI) - TODO
 - Command & Conquer (France) (Disc 2) (NOD) - TODO
 - Command & Conquer (Japan) (Disc 1) (GDI Disc) - TODO
 - Command & Conquer (Japan) (Disc 2) (NOD Disc) - TODO
-- Command & Conquer (USA) (Disc 1) (GDI Disc) - TODO
-- Command & Conquer (USA) (Disc 2) (NOD Disc) - TODO
+- [Command & Conquer (USA)](../../Regions/USA/T-7028H/01/README.md)
 - Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 1) (GDI) - TODO
 - Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 2) (NOD) - TODO
-- Congo - The Movie - The Lost City of Zinj (USA) - TODO
-- Contra - Legacy of War (USA) - TODO
-- Conveni 2, The - Zenkoku Chain Tenkai da! (Japan) - TODO
-- Conveni, The - Ano Machi o Dokusen seyo (Japan) - TODO
-- Core Demo Disc (Europe) - TODO
-- Corpse Killer - Graveyard Edition (USA) (Disc 1) (R) - TODO
-- Corpse Killer - Graveyard Edition (USA) (Disc 2) - TODO
-- Courier Crisis - The Saga of the Modern Fatalist (Europe) - TODO
-- Courier Crisis - The Saga of the Modern Fatalist (Japan) - TODO
-- Courier Crisis - The Saga of the Modern Fatalist (USA) - TODO
-- Creature Shock (Japan) (Disc 1) - TODO
-- Creature Shock (Japan) (Disc 2) - TODO
-- Creature Shock - Special Edition (USA) (Disc 1) - TODO
-- Creature Shock - Special Edition (USA) (Disc 2) - TODO
-- Crime Patrol (USA) (Proto) - TODO
+- [Congo the Movie: The Lost City of Zinj (USA)](../../Regions/USA/MK-81010/01/README.md)
+- [Contra - Legacy of War (USA)](../../Regions/USA/T-9507H/01/README.md) - TODO
+- [Core Demo Disc (Europe)](../../Regions/Europe/610-6576/01/README.md) - TODO
+- [Corpse Killer - Graveyard Edition (USA)](../../Regions/USA/T-16201H/01/README.md)
+- Courier Crisis (Europe) - TODO
+- Courier Crisis (Japan) - TODO
+- [Courier Crisis (USA)](../../Regions/USA/T-25415H/01/README.md)
+- [Creature Shock (Japan)](../../Regions/Japan/T-1303G/01/README.md)
+- [Creature Shock - Special Edition (USA)](../../Regions/USA/T-01304H/01/README.md)
+- [Crime Patrol (USA)](../../Regions/USA/T-1236G/01/README.md) - TODO
 - Crimewave (Europe) (Demo) - TODO
 - Crimewave (Europe) - TODO
 - Crimewave (Japan) - TODO
-- Crimewave (USA) - TODO
-- Criticom (USA) - TODO
+- [Crimewave (USA)](../../Regions/USA/T-8807H/01/README.md)
+- [Criticom (USA)](../../Regions/USA/T-2302H/01/README.md)
 - Criticom - The Critical Combat (Japan) - TODO
 - Croc - Legend of the Gobbos (Europe) - TODO
-- Croc - Legend of the Gobbos (USA) - TODO
+- [Croc - Legend of the Gobbos (USA)](../../Regions/USA/T-5029H-50/01/README.md) - TODO
 - Croc! Pau-Pau Island (Japan) - TODO
-- Cross Romance - Koi to Mahjong to Hanafuda to (Japan) - TODO
-- Cross Tantei Monogatari (Japan) (Demo 1) - TODO
-- Cross Tantei Monogatari (Japan) (Demo 2) - TODO
-- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1) - TODO
-- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 2) - TODO
-- Crows - The Battle Action for SegaSaturn (Japan) - TODO
+- [Cross Romance - Koi to Mahjong to Hanafuda to (Japan)](../../Regions/Japan/T-7103G/01/README.md)
+- [Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan)](../../Regions/Japan/T-36401G/01/README.md)
+- [Crows - The Battle Action for SegaSaturn (Japan)](../../Regions/Japan/T-1236G/01/README.md) - TODO
 - Crusader - No Remorse (Europe) - TODO
 - Crusader - No Remorse (France) - TODO
 - Crusader - No Remorse (Germany) - TODO
 - [Crusader: No Remorse (USA)](../../Regions/USA/T-5014H/01/README.md)
 - Crypt Killer (Europe) (R) - TODO
-- Crypt Killer (USA) - TODO
-- Cube Battler - Story of Anna (Japan) - TODO
-- Cube Battler - Story of Shou (Japan) - TODO
-- Cubic Gallery - Edy & Disy (Japan) - TODO
-- Culdcept (Japan) (Rev A) (10M) - TODO
-- Culdcept (Japan) (Rev B) (20M) - TODO
-- Custom Web Browser (Version 2) (USA) - TODO
-- Custom Web Browser (Version 3.0) (USA) - TODO
-- Cyber Doll (Japan) - TODO
+- [Crypt Killer (USA)](../../Regions/USA/T-9509H/01/README.md)
+- [Cube Battler: Anna Mirai-hen (Japan)](../../Regions/Japan/T-21006G/01/README.md)
+- [Cube Battler: Debugger Shou-hen (Japan)](../../Regions/Japan/T-21004G/01/README.md)
+- [Cubic Gallery - Edy & Disy (Japan)](../../Regions/Japan/T-19401G/01/README.md) - TODO
+- [Culdcept (Japan)](../../Regions/Japan/T-31401G/01/README.md)
+- [Cyber Doll (Japan)](../../Regions/Japan/T-22401G/01/README.md)
 - Cyber Speedway (Europe) (RE) - TODO
-- Cyber Speedway (USA) - TODO
+- [Cyber Speedway (USA)](../../Regions/USA/MK-81204/01/README.md)
 - Cyber Troopers Virtual-On (Europe) - TODO
 - [Cyber Troopers Virtual-On (USA)](../../Regions/USA/MK-81042/01/README.md)
 - Cyber Troopers Virtual-On Net Link Edition (USA) - TODO
+- [Cyberbots - Fullmetal Madness (Japan)](../../Regions/Japan/T-1217G/01/README.md) - TODO
 - Cyberbots - Fullmetal Madness (Japan) (1M) - TODO
 - Cyberbots - Fullmetal Madness (Japan) (2M) - TODO
 - Cyberia (Europe) - TODO
 - Cyberia (Japan) - TODO
-- Cyberia (USA) - TODO
+- [Cyberia (USA)](../../Regions/USA/T-12508H/01/README.md) - TODO
 
 Navigation:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) **C** [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

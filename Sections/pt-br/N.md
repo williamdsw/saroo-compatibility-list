@@ -59,6 +59,7 @@
 - Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 1) - TODO
 - Neon Genesis - Evangelion - Koutetsu no Girlfriend (Japan) (Disc 2) - TODO
 - Neon Genesis Evangelion - Digital Card Library (Japan) - TODO
+- [NetLink Custom Web Browser (USA)](../../Regions/USA/T-319-01H/01/README.md)
 - Next King - Koi no Sennen Oukoku (Japan) - TODO
 - NiGHTS into Dreams... (Europe) - TODO
 - NiGHTS into Dreams... (Japan) (Demo) - TODO

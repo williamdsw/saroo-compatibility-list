@@ -70,10 +70,12 @@
 - Tetris S (Japan) (Rev A) - TODO
 - Tetris S (Japan) - TODO
 - Texthoth Ludo - Arcana Senki (Japan) - TODO
+- [The Conveni: Ano Machi o Dokusen Seyo (Japan)](../../Regions/Japan/T-4310G/01/README.md)
+- [The Conveni 2: Zenkoku Chain Tenkai da! (Japan)](../../Regions/Japan/T-4317G/01/README.md)
 - The Crow - City of Angels (Europe) - TODO
 - The Crow - City of Angels (Germany) - TODO
 - The Crow - City of Angels (Japan) - TODO
-- The Crow - City of Angels (USA) - TODO
+- [The Crow - City of Angels (USA)](../../Regions/USA/T-8124H/01/README.md)
 - The Horde (Europe) - TODO
 - The Horde (France) - TODO
 - The Horde (Germany) - TODO
