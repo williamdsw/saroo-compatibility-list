@@ -1,7 +1,7 @@
 #!/bin/bash
 
-folder=Copy
-games=("Game 1" "Game 2")
+folder=Template/Copy
+games=("Game1" "Game2")
 
 for game in "${games[@]}";
 do

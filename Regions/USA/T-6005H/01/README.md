@@ -1,4 +1,6 @@
-# Game (Region)
+_For the European version, see [Victory Boxing (Europe)](../../../Europe/T-6005H-50/01/README.md)_
+
+# Center Ring Boxing (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +15,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> VERSION
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Game Name:</b> THE KING OF BOXING/CENTER RING BOXING
+- <b>Product Number:</b> T-6005H
+- <b>Version:</b> V1.02U
+- <b>Area Code:</b> U
+- <b>Peripheral Code:</b> J
 
 ### Status
 
@@ -29,4 +31,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM)
+[![](https://img.youtube.com/vi/bVncUGnkUjY/0.jpg)](https://www.youtube.com/watch?v=bVncUGnkUjY)

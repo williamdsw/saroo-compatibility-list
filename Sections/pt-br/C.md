@@ -2,7 +2,7 @@
 
 ## C
 
-#### 97 Jogos (53 Testados)
+#### 90 Jogos (53 Testados)
 
 - [Can Can Bunny Extra (Japan)](../../Regions/Japan/T-19706G/01/README.md)
 - [Can Can Bunny Premiere (Japan)](../../Regions/Japan/T-19701G/01/README.md)
@@ -16,7 +16,7 @@
 - Casper (Japan) - TODO
 - [Casper (USA)](../../Regions/USA/T-12512H/01/README.md)
 - [Cat the Ripper: 13Ninme no Tanteishi (Japan)](../../Regions/Japan/T-35701G/01/README.md)
-- [Center Ring Boxing (USA)](../../Regions/USA/T-6005H/01/README.md) - TODO
+- [Center Ring Boxing (USA)](../../Regions/USA/T-6005H/01/README.md)
 - [Chaos Control (Europe)](../../Regions/Europe/T-15102H/01/README.md)
 - Chaos Control (Japan) - TODO
 - [Chaos Control Remix (Japan)](../../Regions/Japan/T-7006G/01/README.md)
@@ -35,15 +35,13 @@
 - Clockwork Knight - Pepperouchau no Daibouken Joukan (Japan) - TODO
 - Clockwork Knight - Pepperouchau no Fukubukuro (Japan) - TODO
 - Clockwork Knight - Pepperouchau's Adventure (Europe) - TODO
-- [Clockwork Knight - Pepperouchau's Adventure (USA)](../../Regions/USA/MK-81007/01/README.md) - TODO
+- [Clockwork Knight - Pepperouchau's Adventure (USA)](../../Regions/USA/MK-81007/01/README.md) - TODO (Recorded)
 - Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S) - TODO
 - Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (3S) - TODO
 - Clockwork Knight 2 - Pepperouchau's Adventure (USA) (Beta) - TODO
-- [Clockwork Knight 2 - Pepperouchau's Adventure (USA, Brazil)](../../Regions/USA/MK-81036/01/README.md) - TODO
-- [Clockwork Knight Puzzle - Pengin War (Japan) (Beta)](../../Regions/Japan/T-1236G/01/README.md) - TODO
-- [Code R (Japan)](../../Regions/Japan/T-23502G/01/README.md) - TODO
-- Code R (Japan) (Demo) - TODO
-- Code R (Japan) - TODO
+- [Clockwork Knight 2 - Pepperouchau's Adventure (USA, Brazil)](../../Regions/USA/MK-81036/01/README.md) - TODO (Recorded)
+- [Clockwork Knight Puzzle - Pengin War (Japan) (Beta)](../../Regions/Japan/T-1236G/01/README.md) - TODO (Recorded)
+- [Code R (Japan)](../../Regions/Japan/T-23502G/01/README.md)
 - [College Slam (USA)](../../Regions/USA/T-8111H/01/README.md)
 - Command & Conquer (Europe) (Disc 1) (GDI) - TODO
 - Command & Conquer (Europe) (Disc 2) (NOD) - TODO
@@ -55,15 +53,15 @@
 - Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 1) (GDI) - TODO
 - Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 2) (NOD) - TODO
 - [Congo the Movie: The Lost City of Zinj (USA)](../../Regions/USA/MK-81010/01/README.md)
-- [Contra - Legacy of War (USA)](../../Regions/USA/T-9507H/01/README.md) - TODO
-- [Core Demo Disc (Europe)](../../Regions/Europe/610-6576/01/README.md) - TODO
+- [Contra - Legacy of War (USA)](../../Regions/USA/T-9507H/01/README.md)
+- [Core Demo Disc (Europe)](../../Regions/Europe/610-6576/01/README.md)
 - [Corpse Killer - Graveyard Edition (USA)](../../Regions/USA/T-16201H/01/README.md)
 - Courier Crisis (Europe) - TODO
 - Courier Crisis (Japan) - TODO
 - [Courier Crisis (USA)](../../Regions/USA/T-25415H/01/README.md)
 - [Creature Shock (Japan)](../../Regions/Japan/T-1303G/01/README.md)
 - [Creature Shock - Special Edition (USA)](../../Regions/USA/T-01304H/01/README.md)
-- [Crime Patrol (USA)](../../Regions/USA/T-1236G/01/README.md) - TODO
+- [Crime Patrol (USA) (Proto) (1996-09-24)](../../Regions/USA/T-11102H/01/README.md)
 - Crimewave (Europe) (Demo) - TODO
 - Crimewave (Europe) - TODO
 - Crimewave (Japan) - TODO
@@ -71,11 +69,11 @@
 - [Criticom (USA)](../../Regions/USA/T-2302H/01/README.md)
 - Criticom - The Critical Combat (Japan) - TODO
 - Croc - Legend of the Gobbos (Europe) - TODO
-- [Croc - Legend of the Gobbos (USA)](../../Regions/USA/T-5029H-50/01/README.md) - TODO
+- [Croc - Legend of the Gobbos (USA)](../../Regions/USA/T-5029H-50/01/README.md)
 - Croc! Pau-Pau Island (Japan) - TODO
 - [Cross Romance - Koi to Mahjong to Hanafuda to (Japan)](../../Regions/Japan/T-7103G/01/README.md)
 - [Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan)](../../Regions/Japan/T-36401G/01/README.md)
-- [Crows - The Battle Action for SegaSaturn (Japan)](../../Regions/Japan/T-1236G/01/README.md) - TODO
+- [Crows: The Battle Action for SegaSaturn (Japan)](../../Regions/Japan/T-16806G/01/README.md)
 - Crusader - No Remorse (Europe) - TODO
 - Crusader - No Remorse (France) - TODO
 - Crusader - No Remorse (Germany) - TODO
@@ -84,7 +82,7 @@
 - [Crypt Killer (USA)](../../Regions/USA/T-9509H/01/README.md)
 - [Cube Battler: Anna Mirai-hen (Japan)](../../Regions/Japan/T-21006G/01/README.md)
 - [Cube Battler: Debugger Shou-hen (Japan)](../../Regions/Japan/T-21004G/01/README.md)
-- [Cubic Gallery - Edy & Disy (Japan)](../../Regions/Japan/T-19401G/01/README.md) - TODO
+- [Cubic Gallery (Japan)](../../Regions/Japan/T-19401G/01/README.md)
 - [Culdcept (Japan)](../../Regions/Japan/T-31401G/01/README.md)
 - [Cyber Doll (Japan)](../../Regions/Japan/T-22401G/01/README.md)
 - Cyber Speedway (Europe) (RE) - TODO
@@ -92,12 +90,10 @@
 - Cyber Troopers Virtual-On (Europe) - TODO
 - [Cyber Troopers Virtual-On (USA)](../../Regions/USA/MK-81042/01/README.md)
 - Cyber Troopers Virtual-On Net Link Edition (USA) - TODO
-- [Cyberbots - Fullmetal Madness (Japan)](../../Regions/Japan/T-1217G/01/README.md) - TODO
-- Cyberbots - Fullmetal Madness (Japan) (1M) - TODO
-- Cyberbots - Fullmetal Madness (Japan) (2M) - TODO
+- [Cyberbots: FullMetal Madness (Japan)](../../Regions/Japan/T-1217G/01/README.md)
 - Cyberia (Europe) - TODO
 - Cyberia (Japan) - TODO
-- [Cyberia (USA)](../../Regions/USA/T-12508H/01/README.md) - TODO
+- [Cyberia (USA)](../../Regions/USA/T-12508H/01/README.md)
 
 Navigation:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) **C** [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

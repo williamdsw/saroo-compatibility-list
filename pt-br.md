@@ -25,16 +25,16 @@ Outros links relacionados ao SAROO:
 ### Regiões
 
 - `Brazil` - BRA, BR (1 Jogo)
-- `Europe` - EUR, EU (31 Jogos)
+- `Europe` - EUR, EU (32 Jogos)
 - `France` - FRA, FR (0 Jogos)
 - `Germany` - GER, GE (1 Jogo)
 - `Italy` - ITA, IT (0 Jogos)
-- `Japan` - JAP, JP (470 Jogos)
+- `Japan` - JAP, JP (475 Jogos)
 - `South Korea` - STK, SK (0 Jogos)
 - `Spain` - Espanha, SPA, SP (0 Jogos)
 - `Taiwan` - TAI, TW (1 Jogo)
-- `USA` - Estados Unidos da América, US (158 Jogos)
-- Total: 662 jogos registrados
+- `USA` - Estados Unidos da América, US (163 Jogos)
+- Total: 673 jogos registrados
 
 ### Jogos
 

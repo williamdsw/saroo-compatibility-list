@@ -1,4 +1,4 @@
-# Game (Region)
+# Crime Patrol (USA) (Proto) (1996-09-24)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> VERSION
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Game Name:</b> CRIMEPATROL
+- <b>Product Number:</b> T-11102H
+- <b>Version:</b> V1.000
+- <b>Area Code:</b> U
+- <b>Peripheral Code:</b> JG
 
 ### Status
 
@@ -25,8 +25,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Extra Info
 
+- Keep reseting to bios screen until the visual glitches are gone
+- Continue resetando para a tela de bios até os glitches visuais irem embora
 - It does need a full gameplay test.
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM)
+[![](https://img.youtube.com/vi/pD7nqosgTVk/0.jpg)](https://www.youtube.com/watch?v=pD7nqosgTVk)

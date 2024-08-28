@@ -1,4 +1,4 @@
-# Game (Region)
+# Cubic Gallery (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,15 +13,19 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> VERSION
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Game Name:</b> CUBICGALLERY
+- <b>Product Number:</b> T-19401G
+- <b>Version:</b> V1.005
+- <b>Area Code:</b> J
+- <b>Peripheral Code:</b> J
 
 ### Status
 
-- Playable :white_check_mark:
+- Issues :warning:
+
+### Problems
+
+- It does freeze the game when exiting the options menu
 
 ### Extra Info
 
@@ -29,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM)
+[![](https://img.youtube.com/vi/5uymGD5iD2U/0.jpg)](https://www.youtube.com/watch?v=5uymGD5iD2U)

@@ -1,3 +1,5 @@
+_For the American version, see [Center Ring Boxing (USA)](../../../USA/T-6005H/01/README.md)_
+
 # Victory Boxing (Europe)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
