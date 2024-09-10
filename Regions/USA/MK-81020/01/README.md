@@ -21,12 +21,21 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (USA, Brazil): Playable :white_check_mark:
+- (USA) (Demo): Untested :question:
+- (USA) (with 3D Control Pad) (RE) : Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODOs
+
+- Test NiGHTS into Dreams... (USA) (Demo)
+- Test NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE)
+
 ### Evidence
+
+(USA, Brazil):
 
 [![[Sample] SAROO 1.32 (231125) - NiGHTS into Dreams... (U) = Playable](https://img.youtube.com/vi/vZdfZhRnEiA/0.jpg)](https://www.youtube.com/watch?v=vZdfZhRnEiA)

@@ -2,7 +2,7 @@
 
 ## S
 
-#### 400 Jogos (28 Testados)
+#### 401 Jogos (29 Testados)
 
 - SD Gundam - GCentury S (Japan) - TODO
 - Sakamoto Ryouma - Ishin Kaikoku (Japan) - TODO
@@ -188,6 +188,7 @@
 - Shin Megami Tensei - Shinrei Summoner (Japan) (Rev A) - TODO
 - Shin Megami Tensei - Devil Summoner (Japan) (Rev B) - TODO
 - Shin Megami Tensei - Devil Summoner - Akuma Zensho (Japan) - TODO
+- [Shinseiki Evangelion: Digital Card Library (Japan)](../../Regions/Japan/GS-9159/01/README.md)
 - Shin Seiki Evangelion (Japan) - TODO
 - Shin Seiki Evangelion - 2nd Impression (Japan) (Made in J) - TODO
 - Shin Seiki Evangelion - 2nd Impression (Japan) (Made in U.S.A.) - TODO

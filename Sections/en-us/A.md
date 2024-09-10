@@ -2,7 +2,7 @@
 
 ## A
 
-#### 76 Games (46 Tested)
+#### 77 Games (47 Tested)
 
 - [AI Igo (Japan)](../../Regions/Japan/T-17601G/01/README.md)
 - [AI Shougi (Japan)](../../Regions/Japan/T18602G/01/README.md)
@@ -52,6 +52,7 @@
 - Angelique Special (Japan) - TODO
 - [Angelique Special 2 (Japan)](../../Regions/Japan/T-7627G/01/README.md)
 - [Another Memories (Japan)](../../Regions/Japan/T-38001G/01/README.md)
+- [Aponasi Gals Olympos (Japan)](../../Regions/Japan/T-4304G/01/README.md)
 - [Aqua-world - Umi Monogatari (Japan)](../../Regions/Japan/T-30301G/01/README.md)
 - [Aquazone - Desktop Life (Japan)](../../Regions/Japan/T-24001G/01/README.md)
 - [Aquazone - Desktop Life Option Disc Series 1 - Angel Fish (Japan) (Rev A)](../../Regions/Japan/T-24002G/01/README.md)
