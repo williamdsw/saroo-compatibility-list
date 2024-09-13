@@ -1,4 +1,4 @@
-# NIGHTRUTH: Explanation of the paranormal - "Maria" (Japan)
+# Nobunaga no Yabou Tenshouki (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,20 +13,24 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> Nightruth #2 Explanation of the paranormal Maria
-- <b>Product Number:</b> T-20206G
-- <b>Version:</b> V1.003
+- <b>Game Name:</b> NOBUNAGA NO YABOU TENSYOUKI
+- <b>Product Number:</b> T-7605G
+- <b>Version:</b> V1.002
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
 
 ### Status
 
-- Playable :white_check_mark:
+- Fixed with configuration :hammer_and_wrench:
 
-### Extra Info
+### Problems without configuration
 
-- It does need a full gameplay test.
+- Wrong/distored textures
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-7605G/README.md).
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/QX0ZKxsFYmI/0.jpg)](https://www.youtube.com/watch?v=QX0ZKxsFYmI)
+[![](https://img.youtube.com/vi/FmHdt4gRDO8/0.jpg)](https://www.youtube.com/watch?v=FmHdt4gRDO8)

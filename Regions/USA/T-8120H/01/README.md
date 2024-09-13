@@ -1,4 +1,4 @@
-# NIGHTRUTH: Explanation of the paranormal - "Maria" (Japan)
+# NBA Jam Extreme (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,20 +13,24 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> Nightruth #2 Explanation of the paranormal Maria
-- <b>Product Number:</b> T-20206G
-- <b>Version:</b> V1.003
-- <b>Area Code:</b> J
+- <b>Game Name:</b> JAM EXTREME
+- <b>Product Number:</b> T-8120H
+- <b>Version:</b> V1.000
+- <b>Area Code:</b> U
 - <b>Peripheral Code:</b> J
 
 ### Status
 
-- Playable :white_check_mark:
+- Issues :warning:
+
+### Problems without configuration
+
+- It does freezes while on match game
 
 ### Extra Info
 
-- It does need a full gameplay test.
+- It does need a full gameplay test
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/QX0ZKxsFYmI/0.jpg)](https://www.youtube.com/watch?v=QX0ZKxsFYmI)
+[![](https://img.youtube.com/vi/Ejw4K7LAySs/0.jpg)](https://www.youtube.com/watch?v=Ejw4K7LAySs)

@@ -1,4 +1,4 @@
-# NIGHTRUTH: Explanation of the paranormal - "Maria" (Japan)
+# NFL Quarterback Club '96 (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,10 +13,10 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> Nightruth #2 Explanation of the paranormal Maria
-- <b>Product Number:</b> T-20206G
-- <b>Version:</b> V1.003
-- <b>Area Code:</b> J
+- <b>Game Name:</b> NFL QUARTERBACK CLUB '96
+- <b>Product Number:</b> T-8109H
+- <b>Version:</b> V1.000
+- <b>Area Code:</b> U
 - <b>Peripheral Code:</b> J
 
 ### Status
@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/QX0ZKxsFYmI/0.jpg)](https://www.youtube.com/watch?v=QX0ZKxsFYmI)
+[![](https://img.youtube.com/vi/ndLiu2205ks/0.jpg)](https://www.youtube.com/watch?v=ndLiu2205ks)

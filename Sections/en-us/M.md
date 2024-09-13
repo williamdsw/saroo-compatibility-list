@@ -2,7 +2,7 @@
 
 ## M
 
-#### 163 Games (14 Tested)
+#### 164 Games (15 Tested)
 
 - Maboroshi no Black Bass (Japan) - TODO
 - Machi (Japan) (Demo) (1M) - TODO
@@ -56,6 +56,7 @@
 - Mahou no Janshi - Poe Poe Poemy (Japan) (2M) - TODO
 - Mahoutsukai ni Naru Houhou (Japan) - TODO
 - Mainichi Kawaru Quiz Bangumi - Quiz 365 (Japan) - TODO
+- [Making of Nightruth II: Voice Selection (Japan)](../../Regions/Japan/T-20205G/01/README.md)
 - Manoir des Ames Perdues, Le (France) - TODO
 - Mansion de las Almas Ocultas, La (Spain) - TODO
 - Mansion of Hidden Souls, The (Europe) (1S) - TODO

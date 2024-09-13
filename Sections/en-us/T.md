@@ -2,7 +2,7 @@
 
 ## T
 
-#### 167 Games (20 Tested)
+#### 168 Games (21 Tested)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO
@@ -99,6 +99,7 @@
 - The Lost World - Jurassic Park (Europe) - TODO
 - The Lost World - Jurassic Park (Japan) - TODO
 - [The Lost World - Jurassic Park (USA)](../../Regions/USA/MK-81065/01/README.md)
+- [The Making of Nightruth (Japan)](../../Regions/Japan/T-20203G/01/README.md)
 - The Unsolved (Japan) (Disc 1) - TODO (Recorded)
 - The Unsolved (Japan) (Disc 2) - TODO
 - The Unsolved (Japan) (Disc 3) - TODO

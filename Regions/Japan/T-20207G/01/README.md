@@ -1,4 +1,4 @@
-# NIGHTRUTH: Explanation of the paranormal - "Maria" (Japan)
+# Nightruth Voice Selection: Radio Drama Hen (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,20 +13,24 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> Nightruth #2 Explanation of the paranormal Maria
-- <b>Product Number:</b> T-20206G
+- <b>Game Name:</b> NIGHTRUTH VOICE SELECTION FOR RADIO DRAMA
+- <b>Product Number:</b> T-20207G
 - <b>Version:</b> V1.003
 - <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
+- <b>Peripheral Code:</b> JP
 
 ### Status
 
-- Playable :white_check_mark:
+- Issues :warning:
+
+### Problems without configuration
+
+- Freezes a video while playing
 
 ### Extra Info
 
-- It does need a full gameplay test.
+- It does need a full gameplay test
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/QX0ZKxsFYmI/0.jpg)](https://www.youtube.com/watch?v=QX0ZKxsFYmI)
+[![](https://img.youtube.com/vi/vawR0N6KlL4/0.jpg)](https://www.youtube.com/watch?v=vawR0N6KlL4)
