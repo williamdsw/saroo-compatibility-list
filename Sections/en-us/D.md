@@ -2,7 +2,7 @@
 
 ## D
 
-#### 167 Games (13 Tested)
+#### 169 Games (15 Tested)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -170,6 +170,8 @@
 - Dungeon Master Nexus (Japan) - TODO
 - Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom) - TODO
 - Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara) - TODO
+- [DX Jinsei Game (Japan)](../../Regions/Japan/T-10302G/01/README.md)
+- [DX Jinsei Game II (Japan)](../../Regions/Japan/T-10310G/01/README.md)
 - Dynamite Deka (Japan) - TODO
 
 Navigation:

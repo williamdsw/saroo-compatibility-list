@@ -15,7 +15,7 @@ Outros links relacionados ao SAROO:
 - [Aonde Comprar](Info/Buy/pt-br.md)
 - [Lista de Configurações](https://github.com/williamdsw/saroo-configuration-list)
 - [Imagens de Fundo e Música para o Menu](https://github.com/williamdsw/saroo-backgrounds)
-- [Playlist no YouTube com jogos testados (+ 660 vídeos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
+- [Playlist no YouTube com jogos testados (+ 830 vídeos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
 
 ### Rótulos
 
@@ -25,16 +25,16 @@ Outros links relacionados ao SAROO:
 ### Regiões
 
 - `Brazil` - BRA, BR (1 Jogo)
-- `Europe` - EUR, EU (32 Jogos)
+- `Europe` - EUR, EU (35 Jogos)
 - `France` - FRA, FR (0 Jogos)
 - `Germany` - GER, GE (1 Jogo)
 - `Italy` - ITA, IT (0 Jogos)
-- `Japan` - JAP, JP (504 Jogos)
+- `Japan` - JAP, JP (546 Jogos)
 - `South Korea` - STK, SK (0 Jogos)
 - `Spain` - Espanha, SPA, SP (0 Jogos)
 - `Taiwan` - TAI, TW (1 Jogo)
-- `USA` - Estados Unidos da América, US (179 Jogos)
-- Total: 715 jogos registrados
+- `USA` - Estados Unidos da América, US (182 Jogos)
+- Total: 766 jogos registrados
 
 ### Jogos
 

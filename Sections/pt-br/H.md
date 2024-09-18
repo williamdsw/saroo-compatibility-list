@@ -2,7 +2,7 @@
 
 ## H
 
-#### 51 Games (40 Tested)
+#### 53 Games (42 Tested)
 
 - [Habitat II (Japan)](../../Regions/Japan/GS-7105/01/README.md)
 - Hang On GP '95 (Japan) (1M) - TODO
@@ -40,6 +40,7 @@
 - [Himitsu Sentai Metamor V (Japan)](../../Regions/Japan/T-29005G/01/README.md)
 - [Hissatsu Pachinko Collection (Japan)](../../Regions/Japan/T-1503G/01/README.md)
 - [Hissatsu! (Japan)](../../Regions/Japan/T-23402G/01/README.md)
+- [Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1 (Japan)](../../Regions/Japan/T-21002G/01/README.md)
 - [Hokuto no Ken (Japan)](../../Regions/Japan/T-20601G/01/README.md)
 - [Honkaku 4-nin Uchi Geinoujin Taikyoku Mahjong - The Wareme de Pon (Japan)](../../Regions/Japan/T-3001G/01/README.md)
 - [Honkaku Hanafuda (Japan)](../../Regions/Japan/T-16611G/01/README.md)
@@ -52,6 +53,7 @@
 - [Hudson Soft - New Soft Line Up for Sega Saturn (Japan)](../../Regions/Japan/610-6540/01/README.md)
 - [Hyper 3-D Pinball (USA)](../../Regions/USA/T-7015H/01/README.md)
 - Hyper 3D Pinball (Japan) - TODO
+- [Hyper 3D Taisen Battle Gebockers (Japan)](../../Regions/Japan/T-5303G/01/README.md)
 - [Hyper Duel (Japan)](../../Regions/Japan/T-1809G/01/README.md)
 - [Hyper Reverthion (Japan)](../../Regions/Japan/T-1803G/01/README.md)
 - [Hyper Securities S (Japan)](../../Regions/Japan/T-9105G/01/README.md)

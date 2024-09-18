@@ -2,33 +2,28 @@
 
 ## G
 
-#### 105 Jogos (13 Testados)
+#### 86 Jogos (56 Testados)
 
-- G Vector (Japan) - TODO
-- GT24 (Japan) - TODO
-- Gaia Breeder (Japan) - TODO
+- [G Vector (Japan)](../../Regions/Japan/T-30603G/01/README.md)
+- [GT24 (Japan)](../../Regions/Japan/T-5714G/01/README.md)
+- [Gaia Breeder (Japan)](../../Regions/Japan/T-34801G/01/README.md)
 - Gakkou no Kaidan (Japan) - TODO
-- Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (Japan) - TODO
-- Gal Jan (Japan) - TODO
+- [Gakkou no Kowai Uwasa Hanako-san ga Kita!! (Japan)](../../Regions/Japan/T-1205G/01/README.md)
+- [Gal Jan (Japan)](../../Regions/Japan/T-29101G/01/README.md)
 - Galactic Attack (Europe) - TODO
 - [Galactic Attack (USA)](../../Regions/USA/T-8116H/01/README.md)
 - Galaxy Fight (Europe) - TODO
 - [Galaxy Fight (USA)](../../Regions/USA/T-1504H/01/README.md)
 - Galaxy Fight - Universal Warriors (Japan) - TODO
-- Gale Racer (Japan) (1A) - TODO
-- Gals Panic SS (Japan) - TODO
-- Game Basic for SegaSaturn (Japan) - TODO
-- Game Nihonshi - Kakumeiji Oda Nobunaga (Japan) - TODO
-- Game Tengoku - The Game Paradise! (Japan) - TODO
-- Game de Seishun (Japan) (Rev A) - TODO
-- Game no Tatsujin (Japan) (4M) - TODO
-- Game no Tatsujin (Japan) (Rev A) - TODO
+- [Gale Racer (Japan)](../../Regions/Japan/GS-9003/01/README.md)
+- [Gals Panic SS (Japan)](../../Regions/Japan/T-29002G/01/README.md)
+- [Game Basic for Sega Saturn (Japan)](../../Regions/Japan/T-2111G/01/README.md)
+- [Game Nihonshi: Kakumeiji Oda Nobunaga (Japan)](../../Regions/Japan/T-7633G/01/README.md)
+- [Game Tengoku (Japan)](../../Regions/Japan/T-5712G/01/README.md)
+- [Game de Seishun (Japan)](../../Regions/Japan/T-19711G/01/README.md)
+- [Game no Tatsujin (Japan)](../../Regions/Japan/T-1502G/01/README.md)
 - Game no Tatsujin 2 (Japan) - TODO
-- Game no Tetsujin - The Shanghai (Japan) - TODO
-- Game of Life, The - DX Jinsei Game (Japan) (Rev A) - TODO
-- Game of Life, The - DX Jinsei Game (Japan) (Rev B) - TODO
-- Game of Life, The - DX Jinsei Game (Japan) - TODO
-- Game of Life, The - DX Jinsei Game II (Japan) (2M) - TODO
+- [Game no Tatsujin: The Shanghai (Japan)](../../Regions/Japan/T-1506G/01/README.md)
 - Game-Ware (Japan) - TODO
 - Game-Ware Vol. 2 (Japan) - TODO
 - Game-Ware Vol. 3 (Japan) - TODO
@@ -37,37 +32,28 @@
 - Game-Ware Vol. 5 (Japan) (Disc A) - TODO
 - Game-Ware Vol. 5 (Japan) (Disc B) - TODO
 - [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (Japan)](../../Regions/Japan/T-3102G/01/README.md)
-- GeGeGe no Kitarou - Gentou Kaikitan (Japan) - TODO
-- Gebockers (Japan) (Demo) - TODO
-- Gebockers (Japan) - TODO
-- Gekiretsu Pachinkers (Japan) - TODO
+- [Gegege no Kitarou: Gentou Kaikitan (Japan)](../../Regions/Japan/T-13310G/01/README.md)
+- [Gekiretsu Pachinkers (Japan)](../../Regions/Japan/T-29601G/01/README.md)
 - [Gekirindan (Japan)](../../Regions/Japan/T-7008G/01/README.md)
-- Gekitotsu Koushien (Japan) (Demo) - TODO
-- Gekitotsu Koushien (Japan) - TODO
-- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M) - TODO
-- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (2M) - TODO
-- Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (1M) - TODO
-- Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (2M) - TODO
-- Gekka no Kishi - Ouryuu-sen (Japan) - TODO
-- Gensou Suikoden (Japan) - TODO
+- [Gekitotsu Koushien (Japan)](../../Regions/Japan/T-6701G/01/README.md)
+- [Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M)](../../Regions/Japan/GS-9056/01/README.md)
+- [Gekka no Kishi: Ouryuusen (Japan)](../../Regions/Japan/T-20606G/01/README.md)
+- [Gensou Suikoden (Japan)](../../Regions/Japan/T-9525G/01/README.md)
 - Gex (Europe) - TODO
 - Gex (Japan) - TODO
 - [Gex (USA)](../../Regions/USA/T-15904H/01/README.md)
 - Ghen War (Europe) - TODO
 - Ghen War (Japan) - TODO
-- Ghen War (USA) - TODO
-- Ginga Eiyuu Densetsu (Japan) - TODO
-- Ginga Eiyuu Densetsu Plus (Japan) - TODO
-- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works (Japan) - TODO
-- Ginga OjoUma Densetsu Yuna - Mika Akitaka Illust Works 2 (Japan) - TODO
-- Ginga OjoUma Densetsu Yuna 3 - Lightning Angel (Japan) - TODO
-- Ginga OjoUma Densetsu Yuna Remix (Japan) - TODO
-- Girl Doll Toy - Tamashii o Kudasai (Japan) - TODO
-- Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (Japan) - TODO
-- Girls in Motion Puzzle Vol. 2 - Body Special 264 (Japan) (Demo) (2M) - TODO
-- Girls in Motion Puzzle Vol. 2 - Body Special 264 (Japan) - TODO
-- Go III Professional - Taikyoku Igo (Japan) - TODO
-- Godzilla - Rettou Shinkan (Japan) - TODO
+- [Ghen War (USA)](../../Regions/USA/MK-81001/01/README.md)
+- [Ginga Eiyuu Densetsu (Japan)](../../Regions/Japan/T-22301G/01/README.md)
+- [Ginga Eiyuu Densetsu Plus (Japan)](../../Regions/Japan/T-22303G/01/README.md)
+- [Ginga Ojousama Densetsu Yuna Mika Akitaka Illust Works (Japan)](../../Regions/Japan/T-14308G/01/README.md)
+- [Ginga Ojousama Densetsu Yuna Mika Akitaka Illust Works 2 (Japan)](../../Regions/Japan/T-14323G/01/README.md)
+- [Ginga Ojousama Densetsu Yuna 3: Lightning Angel (Japan)](../../Regions/Japan/T-14311G/01/README.md)
+- [Ginga Ojousama Densetsu Yuna Remix (Japan)](../../Regions/Japan/T-14307G/01/README.md)
+- [Girl Doll Toy: Tamashii o Kudasai (Japan)](../../Regions/Japan/T-37002G/01/README.md)
+- [Go III Professional Taikyoku Igo (Japan)](../../Regions/Japan/T-29003G/01/README.md)
+- [Godzilla Rettoushinkan (Japan)](../../Regions/Japan/GS-9050/01/README.md)
 - Goiken Muyou - Anarchy in the Nippon (Japan) (Demo) - TODO
 - Goiken Muyou - Anarchy in the Nippon (Japan) - TODO
 - Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - TODO
@@ -76,39 +62,34 @@
 - Golden Axe - The Duel (Japan) (2M) - TODO
 - [Golden Axe: The Duel (USA)](../../Regions/USA/MK-81045/01/README.md)
 - Gotha - Ismailia SenEki (Japan) - TODO
-- Gotha II - Tenkuu no Kishi (Japan) - TODO
-- Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (Japan) (Demo) - TODO
+- [Gotha II: Tenkuu no Kishi (Japan)](../../Regions/Japan/T-7608G/01/README.md)
 - [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../Regions/Japan/T-14411G/01/README.md)
 - [Gradius Deluxe Pack (Japan)](../../Regions/Japan/T-9509G/01/README.md)
-- Gran Chaser (Japan) (3M) - TODO
+- [Gran Chaser (Japan)](../../Regions/Japan/GS-9022/01/README.md)
 - GranDread (Japan) - TODO
-- Grand Slam (USA) - TODO
+- [Grand Slam (USA)](../../Regions/USA/T-07004H/01/README.md)
 - [Grandia (Japan)](../../Regions/Japan/T-4507G/01/README.md)
-- Grandia - Digital Museum (Japan) (Rev A) (10M) - TODO
-- Grandia - Digital Museum (Japan) - TODO
-- Grandia - Prelude (Japan) - TODO
-- Greatest Nine '96 (Japan) (2M) - TODO
-- Greatest Nine '96 (Japan) (3M) - TODO
-- Greatest Nine '96 (Japan) (Rev A) (10M) - TODO
-- Gremlin Demo Disc (Europe) - TODO
-- Gremlin Demo Disk (Europe) - TODO
+- [Grandia Digital Museum (Japan)](../../Regions/Japan/T-4512G/01/README.md)
+- [Grandia: Prelude (Japan)](../../Regions/Japan/6106600/01/README.md)
+- [Greatest Nine '96 (Japan)](../../Regions/Japan/GS-9086/01/README.md)
+- [Gremlin Interactive Demo Disc (Europe)](../../Regions/Europe/T-12313H/01/README.md)
+- [Gremlin Interactive Demo Disk (Europe)](../../Regions/Europe/T-12301H/01/README.md)
 - Grid Run (Europe) - TODO
 - Grid Runner (Japan) - TODO
 - [Grid Runner (USA)](../../Regions/USA/T-7025H/01/README.md)
-- Guardian Force (Japan) - TODO
+- [Guardian Force (Japan)](../../Regions/Japan/T-9905G/01/README.md)
 - Guardian Heroes (Europe) - TODO
 - Guardian Heroes (Japan) (3M) - TODO
 - [Guardian Heroes (USA)](../../Regions/USA/MK-81035/01/README.md)
 - [Gun Frontier Arcade Gears (Japan)](../../Regions/Japan/T-26109G/01/README.md)
-- Gun Griffon (Europe) - TODO
-- GunBlaze-S (Japan) - TODO
+- [Gunblaze S (Japan)](../../Regions/Japan/T-19710G/01/README.md)
 - [Gunbird (Japan)](../../Regions/Japan/T-14402G/01/README.md)
-- Gungriffon (USA) - TODO
+- [Gungriffon (Europe)](../../Regions/Europe/MK-81046/01/README.md)
+- [Gungriffon (USA)](../../Regions/USA/MK-81046/01/README.md)
 - Gungriffon - The Eurasian Conflict (Japan) - TODO
-- Gungriffon II (Japan) (Demo) - TODO
-- Gungriffon II (Japan) - TODO
+- [Gungriffon II (Japan)](../../Regions/Japan/T-4511G/01/README.md)
 - Gussun Oyoyo S (Japan) - TODO
-- Gyuwambler Jiko Chuushinha - Tokyo Mahjongland (Japan) - TODO
+- [Gyuwambler Jiko Chuushinha - Tokyo Mahjongland (Japan)](../../Regions/Japan/T-4504G/01/README.md)
 
 Navigation:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) **G** [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

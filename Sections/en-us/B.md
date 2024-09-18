@@ -2,7 +2,7 @@
 
 ## B
 
-#### 93 Games (54 Tested)
+#### 94 Games (55 Tested)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../Regions/Japan/T-19907G/01/README.md)
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../Regions/Japan/T-19906G/01/README.md)
@@ -65,6 +65,7 @@
 - [Blood Factory (Japan)](../../Regions/Japan/T-12504G/01/README.md)
 - [Blue Breaker - Ken yori mo Hohoemi o (Japan)](../../Regions/Japan/T-4315G/01/README.md)
 - [Blue Seed: Kushinada Hirokuden (Japan)](../../Regions/Japan/GS-9014/01/README.md)
+- [Body Special 264: Girls in Motion Puzzle Vol. 2 (Japan)](../../Regions/Japan/T-21003G/01/README.md)
 - [Bomberman Wars (Japan)](../../Regions/Japan/T-14320G/01/README.md)
 - Bootleg Sampler (Europe) (Made in EU, Made in J) - TODO
 - Bootleg Sampler (Europe) (Made in U) - TODO
