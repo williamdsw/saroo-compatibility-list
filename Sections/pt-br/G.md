@@ -2,12 +2,12 @@
 
 ## G
 
-#### 86 Jogos (56 Testados)
+#### 90 Jogos (60 Testados)
 
 - [G Vector (Japan)](../../Regions/Japan/T-30603G/01/README.md)
 - [GT24 (Japan)](../../Regions/Japan/T-5714G/01/README.md)
 - [Gaia Breeder (Japan)](../../Regions/Japan/T-34801G/01/README.md)
-- Gakkou no Kaidan (Japan) - TODO
+- [Gakkou no Kaidan (Japan)](../../Regions/Japan/GS-9026/01/README.md)
 - [Gakkou no Kowai Uwasa Hanako-san ga Kita!! (Japan)](../../Regions/Japan/T-1205G/01/README.md)
 - [Gal Jan (Japan)](../../Regions/Japan/T-29101G/01/README.md)
 - Galactic Attack (Europe) - TODO
@@ -54,19 +54,18 @@
 - [Girl Doll Toy: Tamashii o Kudasai (Japan)](../../Regions/Japan/T-37002G/01/README.md)
 - [Go III Professional Taikyoku Igo (Japan)](../../Regions/Japan/T-29003G/01/README.md)
 - [Godzilla Rettoushinkan (Japan)](../../Regions/Japan/GS-9050/01/README.md)
-- Goiken Muyou - Anarchy in the Nippon (Japan) (Demo) - TODO
-- Goiken Muyou - Anarchy in the Nippon (Japan) - TODO
+- [Goiken Muyou - Anarchy in the Nippon (Japan)](../../Regions/Japan/T-28902G/01/README.md)
 - Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - TODO
 - Gokujou Parodius Da! Deluxe Pack (Japan) - TODO (Check if recorded)
 - Golden Axe - The Duel (Europe) - TODO
 - Golden Axe - The Duel (Japan) (2M) - TODO
 - [Golden Axe: The Duel (USA)](../../Regions/USA/MK-81045/01/README.md)
-- Gotha - Ismailia SenEki (Japan) - TODO
+- [Gotha - Ismailia SenEki (Japan)](../../Regions/Japan/GS-9009/01/README.md)
 - [Gotha II: Tenkuu no Kishi (Japan)](../../Regions/Japan/T-7608G/01/README.md)
 - [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../Regions/Japan/T-14411G/01/README.md)
 - [Gradius Deluxe Pack (Japan)](../../Regions/Japan/T-9509G/01/README.md)
 - [Gran Chaser (Japan)](../../Regions/Japan/GS-9022/01/README.md)
-- GranDread (Japan) - TODO
+- [GranDread (Japan)](../../Regions/Japan/T-20603G/01/README.md)
 - [Grand Slam (USA)](../../Regions/USA/T-07004H/01/README.md)
 - [Grandia (Japan)](../../Regions/Japan/T-4507G/01/README.md)
 - [Grandia Digital Museum (Japan)](../../Regions/Japan/T-4512G/01/README.md)
@@ -88,7 +87,7 @@
 - [Gungriffon (USA)](../../Regions/USA/MK-81046/01/README.md)
 - Gungriffon - The Eurasian Conflict (Japan) - TODO
 - [Gungriffon II (Japan)](../../Regions/Japan/T-4511G/01/README.md)
-- Gussun Oyoyo S (Japan) - TODO
+- [Gussun Oyoyo S (Japan)](../../Regions/Japan/T-26101G/01/README.md)
 - [Gyuwambler Jiko Chuushinha - Tokyo Mahjongland (Japan)](../../Regions/Japan/T-4504G/01/README.md)
 
 Navigation:
