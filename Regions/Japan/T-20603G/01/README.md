@@ -21,15 +21,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Fixed with configuration :hammer_and_wrench:
+- Issues :warning:
 
-### Problems without configuration
+### Problems
 
-- It does freezes in battle
-
-### Solution
-
-- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-28902G/README.md).
+- Intro video is darker than should
 
 ### Extra Info
 
@@ -37,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/cq3zmbzgfvo/0.jpg)](https://www.youtube.com/watch?v=cq3zmbzgfvo)
+[![](https://img.youtube.com/vi/CiW7lVmlSCk/0.jpg)](https://www.youtube.com/watch?v=CiW7lVmlSCk)
