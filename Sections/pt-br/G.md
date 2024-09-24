@@ -2,7 +2,7 @@
 
 ## G
 
-#### 90 Jogos (60 Testados)
+#### 83 Jogos (65 Testados)
 
 - [G Vector (Japan)](../../Regions/Japan/T-30603G/01/README.md)
 - [GT24 (Japan)](../../Regions/Japan/T-5714G/01/README.md)
@@ -24,13 +24,11 @@
 - [Game no Tatsujin (Japan)](../../Regions/Japan/T-1502G/01/README.md)
 - Game no Tatsujin 2 (Japan) - TODO
 - [Game no Tatsujin: The Shanghai (Japan)](../../Regions/Japan/T-1506G/01/README.md)
-- Game-Ware (Japan) - TODO
-- Game-Ware Vol. 2 (Japan) - TODO
-- Game-Ware Vol. 3 (Japan) - TODO
-- Game-Ware Vol. 4 (Japan) (Disc A) - TODO
-- Game-Ware Vol. 4 (Japan) (Disc B) - TODO
-- Game-Ware Vol. 5 (Japan) (Disc A) - TODO
-- Game-Ware Vol. 5 (Japan) (Disc B) - TODO
+- [Game-Ware (Japan)](../../Regions/Japan/T-17002G/01/README.md)
+- [Game-Ware Vol. 2 (Japan)](../../Regions/Japan/T-17003G/01/README.md)
+- [Game-Ware Vol. 3 (Japan)](../../Regions/Japan/T-17004G-T/01/README.md)
+- [Game-Ware Vol. 4 (Japan)](../../Regions/Japan/T-17005G/01/README.md)
+- [Game-Ware Vol. 5 (Japan)](../../Regions/Japan/T-17006G/01/README.md)
 - [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (Japan)](../../Regions/Japan/T-3102G/01/README.md)
 - [Gegege no Kitarou: Gentou Kaikitan (Japan)](../../Regions/Japan/T-13310G/01/README.md)
 - [Gekiretsu Pachinkers (Japan)](../../Regions/Japan/T-29601G/01/README.md)
@@ -55,8 +53,8 @@
 - [Go III Professional Taikyoku Igo (Japan)](../../Regions/Japan/T-29003G/01/README.md)
 - [Godzilla Rettoushinkan (Japan)](../../Regions/Japan/GS-9050/01/README.md)
 - [Goiken Muyou - Anarchy in the Nippon (Japan)](../../Regions/Japan/T-28902G/01/README.md)
-- Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - TODO
-- Gokujou Parodius Da! Deluxe Pack (Japan) - TODO (Check if recorded)
+- Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - TODO (Recorded)
+- Gokujou Parodius Da! Deluxe Pack (Japan) - TODO (Recorded)
 - Golden Axe - The Duel (Europe) - TODO
 - Golden Axe - The Duel (Japan) (2M) - TODO
 - [Golden Axe: The Duel (USA)](../../Regions/USA/MK-81045/01/README.md)
