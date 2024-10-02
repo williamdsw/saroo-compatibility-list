@@ -21,12 +21,22 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1) - Playable :white_check_mark:
+- (Disc 2) (1M) - Untested :question:
+- (Disc 2) (2M) - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Fully Test Desire (Japan) (Disc 1)
+- Fully Test Desire (Japan) (Disc 2) (1M)
+- Fully Test Desire (Japan) (Disc 2) (2M)
+
 ### Evidence
+
+(Disc 1):
 
 [![](https://img.youtube.com/vi/YxVFn6oB3hQ/0.jpg)](https://www.youtube.com/watch?v=YxVFn6oB3hQ)

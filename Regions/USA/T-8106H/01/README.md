@@ -13,6 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+(Disc I):
+
 - <b>Game Name:</b> D
 - <b>Product Number:</b> T-8106H
 - <b>Version:</b> V1.000
@@ -21,12 +23,24 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc I) (Beta) - Untested :question:
+- (Disc II) (Beta) - Untested :question:
+- (Disc I) - Playable :white_check_mark:
+- (Disc II) - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODOs
+
+- Fully Test D (USA) (Disc I) (Beta)
+- Fully Test D (USA) (Disc I)
+- Fully Test D (USA) (Disc II) (Beta)
+- Fully Test D (USA) (Disc II)
+
 ### Evidence
+
+(Disc I):
 
 [![](https://img.youtube.com/vi/n3Uhj8azNiI/0.jpg)](https://www.youtube.com/watch?v=n3Uhj8azNiI)

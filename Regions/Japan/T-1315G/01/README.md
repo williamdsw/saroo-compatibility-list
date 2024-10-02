@@ -15,18 +15,26 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - <b>Game Name:</b> DOUKOKU
 - <b>Product Number:</b> T-1315G
-- <b>Version:</b> T-1315G
+- <b>Version:</b> V1.003
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> JM
 
 ### Status
 
-- Playable :white_check_mark:
+- (1M) - Playable :white_check_mark:
+- (2M) - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Doukoku Soshite... (Japan) (1M)
+- Test Doukoku Soshite... (Japan) (2M)
+
 ### Evidence
+
+(1M):
 
 [![](https://img.youtube.com/vi/St6OzvDTp_E/0.jpg)](https://www.youtube.com/watch?v=St6OzvDTp_E)

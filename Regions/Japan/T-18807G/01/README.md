@@ -21,12 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Demo) - Untested :question:
+- (Rev A) (10M) - Playable :white_check_mark:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODOs
+
+- Test DJ Wars (Japan) (Demo)
+
 ### Evidence
+
+(Rev A) (10M):
 
 [![](https://img.youtube.com/vi/3sk6TJv8dMI/0.jpg)](https://www.youtube.com/watch?v=3sk6TJv8dMI)

@@ -2,7 +2,7 @@
 
 ## D
 
-#### 169 Games (15 Tested)
+#### 153 Games (71 Tested)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -10,63 +10,52 @@
 - D (France) (Disc II) - TODO
 - D (Germany) (Disc I) - TODO
 - D (Germany) (Disc II) - TODO
-- D (USA) (Disc I) (Beta) - TODO
-- D (USA) (Disc I) - TODO
-- D (USA) (Disc II) (Beta) - TODO
-- D (USA) (Disc II) - TODO
+- [D (USA)](../../Regions/USA/T-8106H/01/README.md)
 - D no Shokutaku (Japan) (Disc 1) - TODO
 - D no Shokutaku (Japan) (Disc 2) - TODO
 - D-Xhird (Japan) (1M) - TODO
 - D-Xhird (Japan) (2M) - TODO
-- DJ Wars (Japan) (Demo) - TODO
-- DJ Wars (Japan) (Rev A) (10M) - TODO
-- DX Nippon Tokkyuu Ryokou Game - Let's Travel in J (Japan) - TODO
-- Daibouken - Great Adventure - St. Elmos no Kiseki (Japan) - TODO
+- [DJ Wars (Japan)](../../Regions/Japan/T-18807G/01/README.md)
+- [DX Nippon Tokkyuu Ryokou Game (Japan)](../../Regions/Japan/T-10306G/01/README.md)
+- [Daibouken: Saint Elmos no Kiseki (Japan)](../../Regions/Japan/T-23101G/01/README.md)
 - Daikoukai Jidai Gaiden (Japan) - TODO
-- Daikoukai Jidai II (Japan) - TODO
-- Daisenryaku - Strong Style (Japan) - TODO
-- Daisuki (Japan) (Disc 1) - TODO
-- Daisuki (Japan) (Disc 2) (Special) - TODO
-- Daitoride (Japan) - TODO
+- [Daikoukai Jidai II (Japan)](../../Regions/Japan/T-7628G/01/README.md)
+- [Daisenryaku - Strong Style (Japan)](../../Regions/Japan/T-21202G/01/README.md)
+- [Daisuki (Japan)](../../Regions/Japan/T-18510G/01/README.md)
+- [Daitoride (Japan)](../../Regions/Japan/T-29201G/01/README.md)
 - Darius Gaiden (Europe) - TODO
 - Darius Gaiden (Japan) (2M) - TODO
 - Darius Gaiden (Japan) (3M) - TODO
-- Darius Gaiden (USA) (Beta) - TODO
-- Darius Gaiden (USA) - TODO
+- [Darius Gaiden (USA)](../../Regions/USA/T-8123H/01/README.md)
 - Darius II (Europe) - TODO
 - Darius II (Japan) (2M) - TODO
-- Dark Hunter Ge - Youma no Mori (Japan) - TODO
-- Dark Hunter Jou - Ijigen Gakuen (Japan) - TODO
-- Dark Legend (USA) - TODO
+- [Dark Hunter (Ge) Youma no Mori (Japan)](../../Regions/Japan/T-7632G/01/README.md)
+- [Dark Hunter (Jou) Ijigen Gakuen (Japan)](../../Regions/Japan/T-7631G/01/README.md)
+- [Dark Legend (USA)](../../Regions/USA/T-1305H/02/README.md) - TODO
 - Dark Savior (Europe) - TODO
 - Dark Savior (Japan) (Demo) - TODO
 - Dark Savior (Japan) - TODO
 - Dark Savior (USA) - TODO
-- Dark Seed II (Japan) - TODO
+- [Dark Seed (Japan)](../../Regions/Japan/T-18501G/01/README.md)
+- [Dark Seed II (Japan)](../../Regions/Japan/T-36101G/01/README.md)
 - Darklight Conflict (Europe) - TODO
-- Darklight Conflict (USA) - TODO
-- Darkseed (Japan) - TODO
+- [Darklight Conflict (USA)](../../Regions/USA/T-5022H/01/README.md)
 - [Daytona USA (Europe)](../../Regions/Europe/MK_8120050/01/README.md)
-- Daytona USA (Japan) (Demo) (2M) - TODO
 - [Daytona USA (Japan)](../../Regions/Japan/GS-9013/01/README.md)
 - [Daytona USA (USA)](../../Regions/USA/MK-81200/01/README.md)
 - Daytona USA - Championship Circuit Edition (Europe) (Rev A) - TODO
 - [Daytona USA: Championship Circuit Edition (USA)](../../Regions/USA/MK-81213/01/README.md)
 - Daytona USA - Circuit Edition (Japan) - TODO
 - Daytona USA C.C.E. Net Link Edition (USA) - TODO
-- DeJig - Aqua World (Japan) - TODO
-- DeJig - Lassen - Art Collection (Japan) - TODO
-- DeJig - McKnight - Art Collection (Japan) - TODO
-- DeJig - Tin Toy (Japan) - TODO
+- [Dejig Aqua World (Japan)](../../Regions/Japan/T-30303G/01/README.md)
+- [Dejig Lassen: Art Collection (Japan)](../../Regions/Japan/T-30304G/01/README.md)
+- [Dejig McKnight: Art Collection (Japan)](../../Regions/Japan/T-30305G/01/README.md)
+- [Dejig Tin Toy (Japan)](../../Regions/Japan/T-30302G/01/README.md)
 - [Dead Or Alive (Japan)](../../Regions/Japan/T-3603G/01/README.md)
-- Deadalus (Japan) (1M) - TODO
-- Deadalus (Japan) (2A) - TODO
-- Deadalus (Japan) (3A) - TODO
-- Death Crimson (Japan) - TODO
-- Death Throttle - Kakuzetsu Toshi kara no Dasshutsu (Japan) - TODO
-- DeathMask (Japan) (Disc 1) - TODO
-- DeathMask (Japan) (Disc 2) - TODO
-- DeathMask (Japan) (Disc 3) - TODO
+- [Deadalus (Japan)](../../Regions/Japan/SG-9008/01/README.md)
+- [Death Crimson (Japan)](../../Regions/Japan/T-23202G/01/README.md)
+- [Death Throttle: Kakuzetsu Toshi kara no Dasshutsu (Japan)](../../Regions/Japan/T-26403G/01/README.md)
+- [DeathMask (Japan)](../../Regions/Japan/T-22701G/01/README.md)
 - DecAthlete (Japan) (1M) - TODO
 - DecAthlete (Japan) (2M) - TODO
 - DecAthlete (Japan) (Demo) - TODO
@@ -83,35 +72,32 @@
 - Defcon 5 (Europe) - TODO
 - Defcon 5 (France) - TODO
 - Defcon 5 (Japan) - TODO
-- Defcon 5 - Peace Has a Price... (USA) - TODO
-- Deka 4-ku - Tough the Truck (Japan) - TODO
-- Delisoba Deluxe (Japan) - TODO
+- [Defcon 5 (USA)](../../Regions/USA/T-1301G/01/README.md)
+- [Deka Yonku: Tough the Truck (Japan)](../../Regions/Japan/T-4313G/01/README.md)
+- [Delisoba Deluxe (Japan)](../../Regions/Japan/6106803/01/README.md)
 - Dennou Senki - Virtual On - Cyber Troopers (Japan) (Demo) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers (Japan) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers (Korea) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers for SegaNet (Japan) - TODO
+- [Denpa Shounen-teki Game (Japan)](../../Regions/Japan/T-14316G/01/README.md)
 - Denpa Shounen-teki Game (Japan) (Rerelease) - TODO
-- Denpa Shounen-teki Game (Japan) (Rev A) - TODO
-- Densetsu no Ogre Battle (Japan) - TODO
-- Densha de Go! EX (Japan) - TODO
-- Derby Analyst (Japan) - TODO
-- Derby Stallion (Japan) - TODO
-- Deroon Dero Dero (Japan) (1M) - TODO
-- Desire (Japan) (Disc 1) - TODO
-- Desire (Japan) (Disc 2) (1M) - TODO
-- Desire (Japan) (Disc 2) (2M) - TODO
-- Destruction Derby (Europe) - TODO
+- [Densetsu no Ogre Battle (Japan)](../../Regions/Japan/T-5305G/01/README.md)
+- [Densha de Go! EX (Japan)](../../Regions/Japan/T-10317G/01/README.md)
+- [Derby Analyst (Japan)](../../Regions/Japan/T-20505G/01/README.md)
+- [Derby Stallion (Japan)](../../Regions/Japan/T-2113G/01/README.md)
+- [Deroon Dero Dero (Japan)](../../Regions/Japan/T-3601G/01/README.md)
+- [Desire (Japan)](../../Regions/Japan/T-15031G/01/README.md)\
+- [Destruction Derby (Europe)](../../Regions/T-11303/NUMBER/01/README.md)
 - Destruction Derby (Japan) - TODO
-- Detana Twinbee Yahoo! Deluxe Pack (Japan) (3M) - TODO
+- [Detana Twinbee Yahoo! Deluxe Pack (Japan)](../../Regions/Japan/T-9505G/01/README.md)
 - Develo Magazine Appendix CD-ROM for SegaSaturn (Japan) - TODO
-- Device Reign (Japan) - TODO
-- Devil Summoner - Soul Hackers (Japan) (Disc 01) - TODO
-- Devil Summoner - Soul Hackers (Japan) (Disc 02) - TODO
+- [Device Reign (Japan)](../../Regions/Japan/T-27810G/01/README.md)
+- [Devil Summoner: Soul Hackers (Japan)](../../Regions/Japan/T-14420G/01/README.md)
 - Devil Summoner - Soul Hackers + Ronde (Japan) (Demo 1) - TODO
 - Devil Summoner - Soul Hackers + Ronde (Japan) (Demo 2) - TODO
-- Devil Summoner - Soul Hackers - Akuma Zensho Daini-shuu (Japan) - TODO
-- Devil Summoner - Soul Hackers Extra Dungeon (Japan) (3M) - TODO
-- Dezaemon 2 (Japan) - TODO
+- [Devil Summoner: Soul Hackers: Akuma Zensho Dainishū (Japan)](../../Regions/Japan/T-14421G/01/README.md)
+- [Devil Summoner: Soul Hackers Extra Dungeon (Japan)](../../Regions/Japan/6106804/01/README.md)
+- [Dezaemon 2 (Japan)](../../Regions/Japan/T-16804G/01/README.md)
 - Die Hard Arcade (Europe) - TODO
 - [Die Hard Arcade (USA)](../../Regions/USA/MK-81057/01/README.md)
 - Die Hard Trilogy (Europe) - TODO
@@ -120,7 +106,7 @@
 - Digital Ange - Dennou Tenshi SS (Japan) - TODO
 - Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M) - TODO
 - Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (11M) - TODO
-- Digital Monster Ver. S - Digimon Tamers (Japan) - TODO
+- [Digital Monster Ver. S: Digimon Tamers (Japan)](../../Regions/Japan/T-13331G/01/README.md)
 - Digital Pinball (Europe) (4S) - TODO
 - Digital Pinball (Europe) (7S) - TODO
 - Digital Pinball - Last Gladiators (Japan) (5M) (Demo) - TODO
@@ -130,46 +116,44 @@
 - Digital Pinball - Necronomicon - Revelations (Japan) (Demo) - TODO
 - Dino Island (Japan) - TODO
 - Dino Island - Yokoku-hen (Japan) - TODO
-- Disc Station Bessatsu - I Miss You. Tanaka Katsumi (Japan) (1M) - TODO
-- Discworld (Japan) - TODO
+- [DiscStation Bessatsu i miss you. (Japan)](../../Regions/Japan/6106732/01/README.md)
+- [Discworld (Japan)](../../Regions/Japan/T-20502G/01/README.md)
 - Discworld II - Missing Presumed...! (Europe) - TODO
 - [DoDonPachi (Japan)](../../Regions/Japan/T-14419G/01/README.md)
 - [DonPachi (Japan)](../../Regions/Japan/T-14405G/01/README.md)
 - Doom (Europe) (R) - TODO
 - Doom (Japan) - TODO
 - [Doom (USA)](../../Regions/USA/T-25405H/01/README.md)
-- Doraemon - Nobita to Fukkatsu no Hoshi (Japan) - TODO
+- [Doraemon: Nobita to Fukkatsu no Hoshi (Japan)](../../Regions/Japan/T-19801G/01/README.md)
 - Double Switch (USA) (Disc 1) - TODO
 - Double Switch (USA) (Disc 2) - TODO
-- Doukoku Soshite... (Japan) (1M) - TODO
-- Doukoku Soshite... (Japan) (2M) - TODO
-- Doukyuusei - if (Japan) (1M, 2M) - TODO
-- Doukyuusei 2 (Japan) (Disc A) - TODO
-- Doukyuusei 2 (Japan) (Disc B) - TODO
-- Dragon Ball Z - Idainaru Dragon Ball Densetsu (Japan) - TODO
+- [Doukoku Soshite... (Japan](../../Regions/Japan/T-1315G/01/README.md)
+- [Doukyuusei - if (Japan)](../../Regions/Japan/T-20102G/01/README.md)
+- [Doukyuusei 2 (Japan)](../../Regions/Japan/T-20104G/01/README.md)
+- [Dragon Ball Z: Idainaru Dragon Ball Densetsu (Japan)](../../Regions/Japan/T-13305G/01/README.md)
 - Dragon Ball Z - La Grande Legende des Boules de Cristal (France, Spain) - TODO
-- [Dragon Ball Z - Shinbutouden (Japan)](../../Regions/Japan/T-13302G/01/README.md)
+- [Dragon Ball Z: Shin Butouden (Japan)](../../Regions/Japan/T-13302G/01/README.md)
 - Dragon Force (Europe) - TODO
 - Dragon Force (Japan) (1M, 2M, 3M) - TODO
 - Dragon Force (Japan) (4M) - TODO
 - Dragon Force (Japan) (Rev A) (10M) - TODO
-- Dragon Force (USA) - TODO
+- Dragon Force (USA) - TODO (Recorded)
 - Dragon Force II - Kami Sarishi Daichi ni (Japan) (Rev A) - TODO
-- Dragon Force II - Kami Sarishi Daichi ni (Japan) - TODO
-- Dragon Master Silk (Japan) - TODO
-- Dragon's Dream (Japan) - TODO
-- DragonHeart - Fire & Steel (Europe) - TODO
-- DragonHeart - Fire & Steel (USA) - TODO
-- Dream Generation - Koi ka Shigoto ka!... (Japan) - TODO
-- Dream Square - Hinagata Akiko (Japan) (2M) - TODO
+- Dragon Force II - Kami Sarishi Daichi ni (Japan) - TODO (Recorded)
+- [Dragon Master Silk (Japan)](../../Regions/Japan/T-19503G/01/README.md)
+- [Dragon's Dream (Japan)](../../Regions/Japan/GS-7114/01/README.md)
+- Dragonheart: Fire & Steel (Europe) - TODO
+- [Dragonheart: Fire & Steel (USA)](../../Regions/USA/T-8117H/01/README.md)
+- [Dream Generation: Koi ka? Shigoto ka!?... (Japan)](../../Regions/Japan/T-2511G/01/README.md)
+- [Dream Square Hinagata Akiko (Japan)](../../Regions/Japan/T-3002G/01/README.md)
 - Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) (Demo) - TODO
 - Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) - TODO (Recorded)
-- Druid - Yami e no Tsuisekisha (Japan) - TODO
+- [Druid: Yami-He no Tsuiseki Sha (Japan)](../../Regions/Japan/T-7670G/01/README.md)
 - Duke Nukem 3D (Europe) - TODO
 - [Duke Nukem 3D (USA)](../../Regions/USA/MK-81071/01/README.md)
 - Dungeon Master Nexus (Japan) - TODO
-- Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom) - TODO
-- Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara) - TODO
+- [Dungeon Master Nexus (Japan)](../../Regions/Japan/T-9111G/01/README.md)
+- [Dungeons & Dragons Collection (Japan)](../../Regions/Japan/T-1245G/01/README.md)
 - [DX Jinsei Game (Japan)](../../Regions/Japan/T-10302G/01/README.md)
 - [DX Jinsei Game II (Japan)](../../Regions/Japan/T-10310G/01/README.md)
 - Dynamite Deka (Japan) - TODO

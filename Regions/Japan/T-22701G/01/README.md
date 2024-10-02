@@ -21,12 +21,22 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1) - Playable :white_check_mark:
+- (Disc 2) - Untested :question:
+- (Disc 3) - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Fully Test DeathMask (Japan) (Disc 1)
+- Fully Test DeathMask (Japan) (Disc 2)
+- Fully Test DeathMask (Japan) (Disc 3)
+
 ### Evidence
+
+(Disc 1):
 
 [![](https://img.youtube.com/vi/WP8es_GYZyM/0.jpg)](https://www.youtube.com/watch?v=WP8es_GYZyM)

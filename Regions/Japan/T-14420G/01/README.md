@@ -1,4 +1,4 @@
-# Devil Summoner: Soul Hackers (Japan) (Disc 1)
+# Devil Summoner: Soul Hackers (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,12 +21,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 01) - Playable :white_check_mark:
+- (Disc 02) - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Fully Test Devil Summoner - Soul Hackers (Japan) (Disc 01)
+- Fully Test Devil Summoner - Soul Hackers (Japan) (Disc 02)
+
 ### Evidence
+
+(Disc 01):
 
 [![](https://img.youtube.com/vi/KEY_LPVcWzw/0.jpg)](https://www.youtube.com/watch?v=KEY_LPVcWzw)

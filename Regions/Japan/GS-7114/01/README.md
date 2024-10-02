@@ -21,7 +21,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Issues :warning:
+
+### Problems
+
+- A saturn keyboard is required to run the game. I will test later with a bluetooth keyboard on blueretro adapter.
 
 ### Extra Info
 

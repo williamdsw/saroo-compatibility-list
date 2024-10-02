@@ -1,4 +1,4 @@
-# Dungeons & Dragons: Tower of Dooms (Japan)
+# Dungeons & Dragons Collection (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,12 +21,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-
-### Extra Info
-
-- It does need a full gameplay test.
+- (Disc 1) (Tower of Doom): Playable :white_check_mark:
+- (Disc 2) (Shadow over Mystara): Playable :white_check_mark:
 
 ### Evidence
 
+(Disc 1) (Tower of Doom):
+
 [![](https://img.youtube.com/vi/3rY-s8Wo830/0.jpg)](https://www.youtube.com/watch?v=3rY-s8Wo830)
+
+(Disc 2) (Shadow over Mystara):
+
+[![](https://img.youtube.com/vi/z_UtTZsEcRE/0.jpg)](https://www.youtube.com/watch?v=z_UtTZsEcRE)

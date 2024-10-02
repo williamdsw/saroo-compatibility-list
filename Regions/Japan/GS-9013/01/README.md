@@ -13,6 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+(Retail):
+
 - <b>Game Name:</b> DAYTONA USA
 - <b>Product Number:</b> GS-9013
 - <b>Version:</b> V1.000
@@ -21,7 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Fixed with configuration :hammer_and_wrench:
+- (Demo) (2M): Untested :question:
+- (Retail): Fixed with configuration :hammer_and_wrench:
 
 ### Problems without configuration
 
@@ -35,6 +38,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It needs a full gameplay test.
 
+### TODO
+
+- Test Daytona USA (Japan) (Demo) (2M)
+
 ### Evidence
+
+(Retail):
 
 [![[Sample] SAROO 1.32 (231125) - Daytona USA (USA) = Fixed?](https://img.youtube.com/vi/YZOGw2jjz5k/0.jpg)](https://www.youtube.com/watch?v=YZOGw2jjz5k)

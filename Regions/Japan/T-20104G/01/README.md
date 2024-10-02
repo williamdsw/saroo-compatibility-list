@@ -21,12 +21,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc A) - Playable :white_check_mark:
+- (Disc B) - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Fully Test Doukyuusei 2 (Japan) (Disc A)
+- Fully Test Doukyuusei 2 (Japan) (Disc B)
+
 ### Evidence
+
+(Disc A):
 
 [![](https://img.youtube.com/vi/NuxQv2f_xzo/0.jpg)](https://www.youtube.com/watch?v=NuxQv2f_xzo)
