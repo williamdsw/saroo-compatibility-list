@@ -15,7 +15,7 @@ Other links related to SAROO:
 - [Where to Buy](Info/Buy/README.md)
 - [Configuration List](https://github.com/williamdsw/saroo-configuration-list)
 - [Background and Music for Menu](https://github.com/williamdsw/saroo-backgrounds)
-- [Playlist with Tested Games on YouTube (+ 830 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
+- [Playlist with Tested Games on YouTube (+ 900 videos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
 
 ### Labels
 
