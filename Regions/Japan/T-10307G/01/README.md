@@ -1,4 +1,4 @@
-# Daisuki (Japan)
+# D-Xhird (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,18 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1):
-
-- <b>Game Name:</b> DAISUKI
-- <b>Product Number:</b> T-18510G
-- <b>Version:</b> V1.002
-- <b>Area Code:</b> J
-- <b>Peripheral Code:</b> JMGE
-
-(Disc 2) (Special):
-
-- <b>Game Name:</b> DAISUKI
-- <b>Product Number:</b> T-18510G
+- <b>Game Name:</b> D-XHIRD
+- <b>Product Number:</b> T-10307G
 - <b>Version:</b> V1.002
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
@@ -33,19 +23,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 TODO
 
-- (Disc 1): Untested :question:
-- (Disc 2) (Special): Playable :white_check_mark:
+<!-- - Playable :white_check_mark: -->
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test D-Xhird (Japan) (1M)
+- Test D-Xhird (Japan) (2M)
+
 ### Evidence
 
-(Disc 1):
+TODO
 
-[![](https://img.youtube.com/vi/Mqnt-AzQNSo/0.jpg)](https://www.youtube.com/watch?v=Mqnt-AzQNSo)
-
-(Disc 2) (Special):
-
-[![](https://img.youtube.com/vi/mC1tr9wR3ok/0.jpg)](https://www.youtube.com/watch?v=mC1tr9wR3ok)
+<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->

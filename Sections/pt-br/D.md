@@ -2,7 +2,7 @@
 
 ## D
 
-#### 153 Jogos (71 Testados)
+#### 150 Jogos (82 Testados)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -13,12 +13,11 @@
 - [D (USA)](../../Regions/USA/T-8106H/01/README.md)
 - D no Shokutaku (Japan) (Disc 1) - TODO
 - D no Shokutaku (Japan) (Disc 2) - TODO
-- D-Xhird (Japan) (1M) - TODO
-- D-Xhird (Japan) (2M) - TODO
+- [D-Xhird (Japan)](../../Regions/Japan/T-10307G/01/README.md)
 - [DJ Wars (Japan)](../../Regions/Japan/T-18807G/01/README.md)
 - [DX Nippon Tokkyuu Ryokou Game (Japan)](../../Regions/Japan/T-10306G/01/README.md)
 - [Daibouken: Saint Elmos no Kiseki (Japan)](../../Regions/Japan/T-23101G/01/README.md)
-- Daikoukai Jidai Gaiden (Japan) - TODO
+- [Daikoukai Jidai Gaiden (Japan)](../../Regions/Japan/T-7657G/01/README.md)
 - [Daikoukai Jidai II (Japan)](../../Regions/Japan/T-7628G/01/README.md)
 - [Daisenryaku - Strong Style (Japan)](../../Regions/Japan/T-21202G/01/README.md)
 - [Daisuki (Japan)](../../Regions/Japan/T-18510G/01/README.md)
@@ -27,7 +26,7 @@
 - Darius Gaiden (Japan) (2M) - TODO
 - Darius Gaiden (Japan) (3M) - TODO
 - [Darius Gaiden (USA)](../../Regions/USA/T-8123H/01/README.md)
-- Darius II (Europe) - TODO
+- [Darius II (Europe)](../../Regions/Europe/MK-81085/01/README.md)
 - Darius II (Japan) (2M) - TODO
 - [Dark Hunter (Ge) Youma no Mori (Japan)](../../Regions/Japan/T-7632G/01/README.md)
 - [Dark Hunter (Jou) Ijigen Gakuen (Japan)](../../Regions/Japan/T-7631G/01/README.md)
@@ -35,7 +34,7 @@
 - Dark Savior (Europe) - TODO
 - Dark Savior (Japan) (Demo) - TODO
 - Dark Savior (Japan) - TODO
-- Dark Savior (USA) - TODO
+- [Dark Savior (USA)](../../Regions/USA/MK-81304/01/README.md)
 - [Dark Seed (Japan)](../../Regions/Japan/T-18501G/01/README.md)
 - [Dark Seed II (Japan)](../../Regions/Japan/T-36101G/01/README.md)
 - Darklight Conflict (Europe) - TODO
@@ -86,11 +85,11 @@
 - [Derby Analyst (Japan)](../../Regions/Japan/T-20505G/01/README.md)
 - [Derby Stallion (Japan)](../../Regions/Japan/T-2113G/01/README.md)
 - [Deroon Dero Dero (Japan)](../../Regions/Japan/T-3601G/01/README.md)
-- [Desire (Japan)](../../Regions/Japan/T-15031G/01/README.md)\
-- [Destruction Derby (Europe)](../../Regions/T-11303/NUMBER/01/README.md)
+- [Desire (Japan)](../../Regions/Japan/T-15031G/01/README.md)
+- [Destruction Derby (Europe)](../../Regions/Europe/T-11303H/01/README.md)
 - Destruction Derby (Japan) - TODO
 - [Detana Twinbee Yahoo! Deluxe Pack (Japan)](../../Regions/Japan/T-9505G/01/README.md)
-- Develo Magazine Appendix CD-ROM for SegaSaturn (Japan) - TODO
+- [Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)](../../Regions/Japan/610645801/01/README.md)
 - [Device Reign (Japan)](../../Regions/Japan/T-27810G/01/README.md)
 - [Devil Summoner: Soul Hackers (Japan)](../../Regions/Japan/T-14420G/01/README.md)
 - Devil Summoner - Soul Hackers + Ronde (Japan) (Demo 1) - TODO
@@ -103,9 +102,8 @@
 - Die Hard Trilogy (Europe) - TODO
 - Die Hard Trilogy (Japan) - TODO
 - [Die Hard Trilogy (USA)](../../Regions/USA/T-16103H/01/README.md)
-- Digital Ange - Dennou Tenshi SS (Japan) - TODO
-- Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M) - TODO
-- Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (11M) - TODO
+- [Digital Ange: Dennou Tenshi SS (Japan)](../../Regions/Japan/T-33003G/01/README.md)
+- [Digital Dance Mix Vol. 1 Namie Amuro (Japan)](../../Regions/Japan/GS-9133/01/README.md)
 - [Digital Monster Ver. S: Digimon Tamers (Japan)](../../Regions/Japan/T-13331G/01/README.md)
 - Digital Pinball (Europe) (4S) - TODO
 - Digital Pinball (Europe) (7S) - TODO
@@ -114,19 +112,18 @@
 - Digital Pinball - Last Gladiators Ver.9.7 (Japan) - TODO
 - Digital Pinball - Necronomicon (Japan) - TODO
 - Digital Pinball - Necronomicon - Revelations (Japan) (Demo) - TODO
-- Dino Island (Japan) - TODO
-- Dino Island - Yokoku-hen (Japan) - TODO
+- [Daina Airan (Japan)](../../Regions/Japan/T-4503G/01/README.md)
+- [Daina Airan: Yokoku Hen (Japan)](../../Regions/Japan/T-4505G/01/README.md)
 - [DiscStation Bessatsu i miss you. (Japan)](../../Regions/Japan/6106732/01/README.md)
 - [Discworld (Japan)](../../Regions/Japan/T-20502G/01/README.md)
-- Discworld II - Missing Presumed...! (Europe) - TODO
+- [Discworld II - Missing Presumed...! (Europe)](../../Regions/Europe/MK-81093/01/README.md)
 - [DoDonPachi (Japan)](../../Regions/Japan/T-14419G/01/README.md)
 - [DonPachi (Japan)](../../Regions/Japan/T-14405G/01/README.md)
 - Doom (Europe) (R) - TODO
 - Doom (Japan) - TODO
 - [Doom (USA)](../../Regions/USA/T-25405H/01/README.md)
 - [Doraemon: Nobita to Fukkatsu no Hoshi (Japan)](../../Regions/Japan/T-19801G/01/README.md)
-- Double Switch (USA) (Disc 1) - TODO
-- Double Switch (USA) (Disc 2) - TODO
+- [Double Switch (USA)](../../Regions/USA/T-16207H/01/README.md)
 - [Doukoku Soshite... (Japan](../../Regions/Japan/T-1315G/01/README.md)
 - [Doukyuusei - if (Japan)](../../Regions/Japan/T-20102G/01/README.md)
 - [Doukyuusei 2 (Japan)](../../Regions/Japan/T-20104G/01/README.md)
