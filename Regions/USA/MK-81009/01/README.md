@@ -31,6 +31,9 @@ It's needs a full gameplay test on both ISOs
 ### TODO
 
 - Test Panzer Dragoon (USA) (1S)
+- Test Panzer Dragoon (USA) (Demo) (2S)
+- Test Panzer Dragoon (USA) (Demo) (3S)
+- Test Panzer Dragoon (USA) (Demo) (4S)
 
 ### Evidence
 
