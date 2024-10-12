@@ -100,6 +100,7 @@
 - The Lost World - Jurassic Park (Japan) - TODO
 - [The Lost World - Jurassic Park (USA)](../../Regions/USA/MK-81065/01/README.md)
 - [The Making of Nightruth (Japan)](../../Regions/Japan/T-20203G/01/README.md)
+- [The Psychotron (Japan)](../../Regions/Japan/T-18503G/01/README.md)
 - The Unsolved (Japan) (Disc 1) - TODO (Recorded)
 - The Unsolved (Japan) (Disc 2) - TODO
 - The Unsolved (Japan) (Disc 3) - TODO

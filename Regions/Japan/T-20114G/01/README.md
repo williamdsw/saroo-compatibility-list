@@ -31,9 +31,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- (Disc 1) (Game Disc) (2M) Untested :question:
+- (Disc 1) (Game Disc) (3M) Untested :question:
+- (Disc 1) (Game Disc) (4M) Untested :question:
+- (Disc 2) (Special Disc) (1M): Playable :white_check_mark:
+- (Disc 2) (Special Disc) (2M): Untested :question:
 
 ### Extra Info
 
@@ -44,11 +46,10 @@ TODO
 - Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)
 - Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (3M)
 - Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (4M)
-- Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (1M)
 - Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (2M)
 
 ### Evidence
 
-TODO
+(Disc 2) (Special Disc) (1M):
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/EWZdaqcutXM/0.jpg)](https://www.youtube.com/watch?v=EWZdaqcutXM)

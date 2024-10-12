@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
+- (Disc 3): Untested :question:
 
 ### Extra Info
 
@@ -31,12 +31,12 @@ TODO
 
 ### TODO
 
-- Test Policenauts (Japan) (Disc 1)
-- Test Policenauts (Japan) (Disc 2)
-- Test Policenauts (Japan) (Disc 3)
+- Fully Test Policenauts (Japan) (Disc 1)
+- Fully Test Policenauts (Japan) (Disc 2)
+- Fully Test Policenauts (Japan) (Disc 3)
 
 ### Evidence
 
-TODO
+(Disc 1):
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/Fk_jh0U1k/0.jpg)](https://www.youtube.com/watch?v=Fk_jh0U1k)

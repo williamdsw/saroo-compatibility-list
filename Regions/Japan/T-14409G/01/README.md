@@ -21,9 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- (Retail): Playable :white_check_mark:
+- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -32,10 +31,9 @@ TODO
 ### TODO
 
 - Test PriKura (Princess Kurara) Daisakusen (Japan) (Demo)
-- Test PriKura (Princess Kurara) Daisakusen (Japan)
 
 ### Evidence
 
-TODO
+(Retail):
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/8zrrbNgO2DU/0.jpg)](https://www.youtube.com/watch?v=8zrrbNgO2DU)

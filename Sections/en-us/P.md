@@ -2,7 +2,7 @@
 
 ## P
 
-#### 104 Games (44 To Be Tested - 6 Tested)
+#### 102 Games (7 To Be Tested - 41 Tested)
 
 - [Pacific Theater of Operations II (USA)](../../Regions/USA/T-7604H/01/README.md)
 - [PD Ultraman Link (Japan)](../../Regions/Japan/T-13304G/01/README.md)
@@ -46,7 +46,6 @@
 - Photo CD Operating System (Europe) (2S) - TODO
 - Photo CD Operating System (Europe) - TODO
 - [Photo Genic (Japan)](../../Regions/Japan/T-1524G/01/README.md)
-- [Hankou Shashin: Shibarareta Shoujo-tachi no Mita Mono ha? (Japan)](../../Regions/Japan/T-15008G/01/README.md) - TODO move to H
 - [Pia Carrot e Youkoso!! (Japan)](../../Regions/Japan/T-19708G/01/README.md)
 - [Pia Carrot e Youkoso!! 2 (Japan)](../../Regions/Japan/T-20114G/01/README.md)
 - [Pict Flash Dondon (Japan)](../../Regions/Japan/T-17811G/01/README.md)
@@ -95,7 +94,6 @@
 - [Pro Yakyuu Team mo Tsukurou! (Japan)](../../Regions/Japan/GS-9165/01/README.md)
 - [Pro-Pinball: The Web (USA)](../../Regions/USA/T-12520H/01/README.md)
 - Pro-Pinball: The Web (Europe) - TODO
-- [The Psychotron (Japan)](../../Regions/Japan/T-18503G/01/README.md) - TODO Move to T
 - [Pu-Li-Ru-La/Arcade Gears (Japan)](../../Regions/Japan/T-26106G/01/README.md)
 - [Pup-Breeder (Japan)](../../Regions/Japan/T-29301G/01/README.md)
 - [Puyo Puyo Sun (Japan)](../../Regions/Japan/T-6603G/01/README.md)

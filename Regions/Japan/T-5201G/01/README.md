@@ -21,9 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- (1M): Playable :white_check_mark:
+- (4M): Untested :question:
 
 ### Extra Info
 
@@ -31,11 +30,10 @@ TODO
 
 ### TODO
 
-- Test Princess Maker 2 (Japan) (1M)
 - Test Princess Maker 2 (Japan) (4M)
 
 ### Evidence
 
-TODO
+(1M):
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/9Zojd72PBo4/0.jpg)](https://www.youtube.com/watch?v=9Zojd72PBo4)

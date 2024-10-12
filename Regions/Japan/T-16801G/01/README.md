@@ -21,9 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- (Retail): Playable :white_check_mark:
+- (Retail) (Rev A): Untested :question:
 
 ### Extra Info
 
@@ -32,10 +31,9 @@ TODO
 ### TODO
 
 - Test Pro Mahjong Kiwame-S (Japan) (Rev A)
-- Test Pro Mahjong Kiwame-S (Japan)
 
 ### Evidence
 
-TODO
+(Retail):
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/i4R77HxFLQk/0.jpg)](https://www.youtube.com/watch?v=i4R77HxFLQk)

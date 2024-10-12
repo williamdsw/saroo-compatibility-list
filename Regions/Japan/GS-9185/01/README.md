@@ -21,9 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- (Retail) (Rev A): Playable :white_check_mark:
+- (Retail) (Rev B): Untested :question:
 
 ### Extra Info
 
@@ -31,11 +30,10 @@ TODO
 
 ### TODO
 
-- Test Pro Yakyuu Greatest Nine '98 (Japan) (Rev A)
 - Test Pro Yakyuu Greatest Nine '98 (Japan) (Rev B)
 
 ### Evidence
 
-TODO
+(Retail) (Rev A):
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/o9uTqoLbaPM/0.jpg)](https://www.youtube.com/watch?v=o9uTqoLbaPM)

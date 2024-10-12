@@ -21,9 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- Playable :white_check_mark:
 
 ### Extra Info
 
@@ -31,6 +29,4 @@ TODO
 
 ### Evidence
 
-TODO
-
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/FEMdIcnOY7g/0.jpg)](https://www.youtube.com/watch?v=FEMdIcnOY7g)
