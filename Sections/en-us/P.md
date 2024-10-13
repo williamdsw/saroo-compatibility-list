@@ -2,7 +2,7 @@
 
 ## P
 
-#### 102 Games (7 To Be Tested - 41 Tested)
+#### 102 Games (47 Tested)
 
 - [Pacific Theater of Operations II (USA)](../../Regions/USA/T-7604H/01/README.md)
 - [PD Ultraman Link (Japan)](../../Regions/Japan/T-13304G/01/README.md)
