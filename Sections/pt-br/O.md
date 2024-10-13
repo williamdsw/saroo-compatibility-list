@@ -2,7 +2,7 @@
 
 ## O
 
-#### 16 Games (11 Tested)
+#### 16 Jogos (11 Testados)
 
 - [Ochigee Designer Tsukutte Pon! (Japan)](../../Regions/Japan/T-9108G/01/README.md)
 - Off-World Interceptor Extreme (Europe) - TODO
@@ -21,5 +21,5 @@
 - [Oracle no Houseki - Jewels of the Oracle (Japan)](../../Regions/Japan/T-1511G/01/README.md)
 - [Ousama Game (Japan)](../../Regions/Japan/T-21904G/01/README.md)
 
-Navigation:
+Navegação:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) **O** [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

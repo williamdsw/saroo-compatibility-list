@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- (Retail) (1M, 3M): Playable :white_check_mark:
+- (Retail) (2M): Untested :question:
+- (Retail) (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
@@ -31,12 +31,11 @@ TODO
 
 ### TODO
 
-- Test Puyo Puyo Sun (Japan) (1M, 3M)
 - Test Puyo Puyo Sun (Japan) (2M)
 - Test Puyo Puyo Sun (Japan) (Rev A) (10M)
 
 ### Evidence
 
-TODO
+(Retail) (1M, 3M):
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/b_WaTCCnYXs/0.jpg)](https://www.youtube.com/watch?v=b_WaTCCnYXs)

@@ -2,7 +2,7 @@
 
 ## B
 
-#### 94 Games (55 Tested)
+#### 94 Jogos (55 Testados)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../Regions/Japan/T-19907G/01/README.md)
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../Regions/Japan/T-19906G/01/README.md)
@@ -99,5 +99,5 @@
 - Bust-A-Move 3 (Europe) - TODO
 - [Bust-A-Move 3 (USA)](../../Regions/USA/T-31103H/01/README.md)
 
-Navigation:
+Navegação:
 [# (0-9)](./09.md) [A](./A.md) **B** [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

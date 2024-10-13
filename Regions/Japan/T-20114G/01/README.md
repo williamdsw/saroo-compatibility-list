@@ -31,11 +31,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Disc) (2M) Untested :question:
+- (Disc 1) (Game Disc) (2M) Fixed with configuration :hammer_and_wrench:
 - (Disc 1) (Game Disc) (3M) Untested :question:
 - (Disc 1) (Game Disc) (4M) Untested :question:
 - (Disc 2) (Special Disc) (1M): Playable :white_check_mark:
 - (Disc 2) (Special Disc) (2M): Untested :question:
+
+### Problems without configuration
+
+- It does freezes on 'Now Loading' screen
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-20114G/README.md).
 
 ### Extra Info
 
@@ -43,12 +51,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M)
 - Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (3M)
 - Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (4M)
 - Test Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (2M)
 
 ### Evidence
+
+(Disc 1) (Game Disc) (2M):
+
+[![](https://img.youtube.com/vi/fYEm7gOIvNc/0.jpg)](https://www.youtube.com/watch?v=fYEm7gOIvNc)
 
 (Disc 2) (Special Disc) (1M):
 

@@ -2,7 +2,7 @@
 
 ## T
 
-#### 168 Games (21 Tested)
+#### 168 Jogos (21 Testados)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO
@@ -175,5 +175,5 @@
 - Twinkle Star Sprites (Japan) (Disc 1) (Game Disc) - TODO
 - Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc) - TODO
 
-Navigation:
+Navegação:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) **T** [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

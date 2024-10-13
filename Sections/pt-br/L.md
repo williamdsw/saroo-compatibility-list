@@ -2,7 +2,7 @@
 
 ## L
 
-#### 33 Games (28 Tested)
+#### 33 Jogos (28 Testados)
 
 - [Langrisser - Dramatic Edition (Japan)](../../Regions/Japan/T-2507G/01/README.md)
 - [Langrisser III (Japan)](../../Regions/Japan/T-2502G/01/README.md)
@@ -38,5 +38,5 @@
 - [Lupin the 3rd - The Master File (Japan)](../../Regions/Japan/T-18801G/01/README.md)
 - [Lupin the 3rd Chronicles (Japan)](../../Regions/Japan/T-18804G/01/README.md)
 
-Navigation:
+Navegação:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) **L** [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

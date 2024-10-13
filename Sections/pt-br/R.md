@@ -2,7 +2,7 @@
 
 ## R
 
-#### 64 Games (34 Tested)
+#### 64 Jogos (34 Testados)
 
 - [Rabbit (Japan)](../../Regions/Japan/T-10610G/01/README.md)
 - [Race Drivin' (Japan)](../../Regions/Japan/T-4802G/01/README.md)
@@ -69,5 +69,5 @@
 - [Ryouri no Tetsujin - Kitchen Stadium Tour (Japan)](../../Regions/Japan/T-21702G/01/README.md)
 - [Ryuuteki Gosennen - Dragons of China (Japan)](../../Regions/Japan/T-15025G/01/README.md)
 
-Navigation:
+Navegação:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) **R** [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

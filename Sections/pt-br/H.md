@@ -59,5 +59,5 @@
 - [Hyper Reverthion (Japan)](../../Regions/Japan/T-1803G/01/README.md)
 - [Hyper Securities S (Japan)](../../Regions/Japan/T-9105G/01/README.md)
 
-Navigation:
+Navegação:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) **H** [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

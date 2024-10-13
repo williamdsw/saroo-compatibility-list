@@ -21,9 +21,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
+- Fixed with configuration :hammer_and_wrench:
 
-<!-- - Playable :white_check_mark: -->
+### Problems without configuration
+
+- It does randomly freezes after playing an animation and before loading a stage/level
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/U/T-4802H/README.md).
 
 ### Extra Info
 
@@ -31,6 +37,4 @@ TODO
 
 ### Evidence
 
-TODO
-
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/5zFSAxBXiSU/0.jpg)](https://www.youtube.com/watch?v=5zFSAxBXiSU)
