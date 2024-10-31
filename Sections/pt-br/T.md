@@ -2,7 +2,7 @@
 
 ## T
 
-#### 169 Jogos (29 Testados - 57 a serem registrados)
+#### 161 Jogos (41 Testados - 46 a serem registrados)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO (Recorded)
@@ -14,7 +14,7 @@
 - Taikou Risshiden II (Japan) (2M) - TODO (Recorded)
 - Taikou Risshiden II (Japan) (Rev A) (10M) - TODO
 - Taikyoku Shougi - Kiwame II (Japan) - TODO (Recorded)
-- Taito Chase H.Q. + S.C.I. (Japan) - TODO (Recorded)
+- [Taito Chase H.Q. + S.C.I. (Japan)](../../Regions/Japan/T-1105G/01/README.md)
 - Taklamakan - Tonkou Denki (Japan) - TODO (Recorded)
 - Tama - Adventurous Ball in Giddy Labyrinth (Japan) - TODO (Recorded)
 - Tanjou - Debut S (Japan) (1M) - TODO (Recorded)
@@ -48,12 +48,10 @@
 - Ten Pin Alley (USA) - TODO (Recorded)
 - Tenant Wars (Japan) (Demo) - TODO
 - Tenant Wars (Japan) - TODO (Recorded)
-- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan) (Disc 1) - TODO (Recorded)
-- Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan) (Disc 2) - TODO
-- Tenchi Muyou! Rensa Hitsuyou (Japan) - TODO (Recorded)
-- Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn (Japan) (1M) - TODO (Recorded)
-- Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan) (Disc 1) - TODO (Recorded)
-- Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan) (Disc 2) - TODO
+- [Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan)](../../Regions/Japan/T-21802G/01/README.md)
+- [Tenchi Muyou! Rensa Hitsuyou (Japan)](../../Regions/Japan/T-22204G/01/README.md)
+- [Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn (Japan)](../../Regions/Japan/T-21801G00/01/README.md)
+- [Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan)](../../Regions/Japan/T-26103G/01/README.md)
 - Tenchi o Kurau II - Sekiheki no Tatakai (Japan) - TODO (Recorded)
 - Tenga Seiha (Japan) - TODO (Recorded)
 - Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Demo) - TODO
@@ -128,19 +126,13 @@
 - Titan Wars (Japan) - TODO
 - Tokimeki Mahjong Graffiti - Toshishita no Tenshi-tachi (Japan) - TODO (Recorded)
 - Tokimeki Mahjong Paradise - Koi no Tenpai Beat (Japan) - TODO (Recorded)
-- Tokimeki Memorial - Forever with You (Japan) (1M) - TODO (Recorded)
-- Tokimeki Memorial - Forever with You (Japan) (2M) - TODO
-- Tokimeki Memorial - Forever with You (Japan) (Special-ban) (2M) - TODO
-- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan) (Demo) - TODO
-- Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan) - TODO (Recorded)
-- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 1) (2M) - TODO (Recorded)
-- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 2) (2M) - TODO
-- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 1) - TODO (Recorded)
-- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 2) - TODO
-- Tokimeki Memorial Selection - Fujisaki Shiori (Japan) - TODO (Recorded)
-- Tokimeki Memorial Taisen Puzzledama (Japan) (1M) - TODO
-- Tokimeki Memorial Taisen Puzzledama (Japan) (2M) - TODO
-- Tokimeki Memorial Taisen Tokkaedama (Japan) - TODO (Recorded)
+- [Tokimeki Memorial - Forever with You (Japan)](../../Regions/Japan/T-9504G/01/README.md)
+- [Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan)](../../Regions/Japan/T-9522G/01/README.md)
+- [Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan)](../../Regions/Japan/T-9529G/01/README.md)
+- [Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan)](../../Regions/Japan/T-9532G/01/README.md)
+- [Tokimeki Memorial Selection - Fujisaki Shiori (Japan)](../../Regions/Japan/T-9517G/01/README.md)
+- [Tokimeki Memorial Taisen Puzzledama (Japan)](../../Regions/Japan/T-9512G/01/README.md)
+- [Tokimeki Memorial Taisen Tokkaedama (Japan)](../../Regions/Japan/T-9524G/01/README.md)
 - [Tokuso Kidoutai J-SWAT (Japan)](../../Regions/Japan/T-20602G/01/README.md)
 - [Tokyo Shadow (Japan)](../../Regions/Japan/T-1110G/01/README.md)
 - Tomb Raider (Europe) - TODO
