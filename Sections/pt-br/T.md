@@ -2,12 +2,11 @@
 
 ## T
 
-#### 168 Jogos (21 Testados - 62 a serem registrados)
+#### 169 Jogos (29 Testados - 57 a serem registrados)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO (Recorded)
-- Tactics Formula (Japan) (Demo) - TODO
-- Tactics Formula (Japan) - TODO (Recorded)
+- [Tactics Formula (Japan)](../../Regions/Japan/T-34101G/01/README.md)
 - Tactics Ogre - Let Us Cling Together (Japan) - TODO
 - Tadaima Wakusei Kaitaku-chuu! (Japan) - TODO (Recorded)
 - Taiheiyou no Arashi 2 - 3D Heiki Data-shuu (Japan) - TODO (Recorded)
@@ -121,11 +120,11 @@
 - Thunderstrike 2 (USA) - TODO
 - Tilk - Aoi Umi kara Kita Shoujo (Japan) - TODO (Recorded)
 - Tilt! (Europe) - TODO (Recorded)
-- Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan) - TODO (Recorded)
+- [Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)](../../Regions/Japan/T-20607G/01/README.md)
 - Time Commando (Japan) - TODO
 - Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal) - TODO (Recorded)
 - Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) - TODO (Recorded)
-- Titan Wars (Europe) - TODO (Recorded)
+- [Titan Wars (Europe)](../../Regions/Europe/T-15911H50/01/README.md)
 - Titan Wars (Japan) - TODO
 - Tokimeki Mahjong Graffiti - Toshishita no Tenshi-tachi (Japan) - TODO (Recorded)
 - Tokimeki Mahjong Paradise - Koi no Tenpai Beat (Japan) - TODO (Recorded)
@@ -142,7 +141,7 @@
 - Tokimeki Memorial Taisen Puzzledama (Japan) (1M) - TODO
 - Tokimeki Memorial Taisen Puzzledama (Japan) (2M) - TODO
 - Tokimeki Memorial Taisen Tokkaedama (Japan) - TODO (Recorded)
-- Tokuso Kidoutai J-SWAT (Japan) - TODO (Recorded)
+- [Tokuso Kidoutai J-SWAT (Japan)](../../Regions/Japan/T-20602G/01/README.md)
 - [Tokyo Shadow (Japan)](../../Regions/Japan/T-1110G/01/README.md)
 - Tomb Raider (Europe) - TODO
 - [Tomb Raider (USA)](../../Regions/USA/T-7910H/01/README.md)
@@ -163,7 +162,7 @@
 - Transport Tycoon (Japan) - TODO (Recorded)
 - Trash It (Europe) - TODO (Recorded)
 - True Pinball (Europe) - TODO
-- True Pinball (USA) - TODO (Recorded)
+- [True Pinball (USA)](../../Regions/USA/T-16406H/01/README.md)
 - Tryrush Deppy (Japan) - TODO (Recorded)
 - Tsuukai!! Slot Shooting (Japan) - TODO (Recorded)
 - Tunnel B1 (Europe) - TODO
