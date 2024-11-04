@@ -27,6 +27,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 It needs a full gameplay test.
 
+### TODO
+
+- Test Mobile Suit Gundam (Japan) (Rev A)
+
 ### Evidence
 
 [![[Sample] SAROO 1.32 (231111) - Mobile Suit Gundam (Japan) = Playable](https://img.youtube.com/vi/rHKvgVxV-J4/0.jpg)](https://www.youtube.com/watch?v=rHKvgVxV-J4)

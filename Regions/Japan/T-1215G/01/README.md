@@ -21,13 +21,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Issues :warning:
+- (Retail): Issues :warning:
+- (Demo): Untested :question:
 
 ### Problems
 
 - Slowdowns on spawning powers and on loading
 - Graphic glitches on 3MB mode off.
 
+### TODO
+
+- Test Marvel Super Heroes (Japan) (Demo)
+
 ### Evidence
+
+(Retail):
 
 [![[Complete] SAROO 1.32 (231111) - Marvel Super Heroes (Japan) = Issues](https://img.youtube.com/vi/6amFw2VzGCk/0.jpg)](https://www.youtube.com/watch?v=6amFw2VzGCk)
