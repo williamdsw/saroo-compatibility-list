@@ -25,7 +25,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Extra Info
 
-- It does need a full gameplay test.
+- Playable :white_check_mark:
 
 ### TODO
 
