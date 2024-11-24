@@ -101,9 +101,9 @@
 - [Mizuki Shigeru no Youkai Zukan Soushuuhen (Japan)](../../Regions/Japan/T-25506G/01/README.md) - TODO
 - [Mobile Suit Gundam (Japan)](../../Regions/Japan/T-13303G/01/README.md)
 - [Mobile Suit Gundam Side Story - Optional Guide (Japan)](../../Regions/Japan/T-13318G/01/README.md) - TODO
-- [Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan)](../../Regions/Japan/T-13306G/01/README.md) - TODO
-- [Mobile Suit Gundam Side Story II - Ao o Uketsugu Mono (Japan)](../../Regions/Japan/T-13309G/01/README.md) - TODO
-- [Mobile Suit Gundam Side Story III - Sabakareshi Mono (Japan)](../../Regions/Japan/T-13312G/01/README.md) - TODO
+- [Kidou Senshi Gundam Gaiden I: Senritsu no Blue (Japan)](../../Regions/Japan/T-13306G/01/README.md) - TODO
+- [Kidou Senshi Gundam Gaiden II: Ao wo Uketsugu Mono (Japan)](../../Regions/Japan/T-13309G/01/README.md) - TODO
+- [Kidou Senshi Gundam Gaiden III: Sabakareshi Mono (Japan)](../../Regions/Japan/T-13312G/01/README.md) - TODO
 - Moero!! Pro Yakyuu '95 - Double Header (Japan) - TODO
 - Mogitate SegaSaturn - Special Movie (Japan) (2M) - TODO
 - Mogitate SegaSaturn Vol. 2 (Japan) - TODO

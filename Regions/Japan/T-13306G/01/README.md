@@ -1,4 +1,4 @@
-# Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan)
+# Kidou Senshi Gundam Gaiden I: Senritsu no Blue (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Playable :white_check_mark:
 
 ### Extra Info
 
