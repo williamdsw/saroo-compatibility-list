@@ -1,4 +1,4 @@
-# Mahjong-kyou Jidai Cogal Houkago-hen (Japan)
+# Mahjong Kyou Jidai: Cogal Houkago Hen (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/pdjpDy6OTxo/0.jpg)](https://www.youtube.com/watch?v=pdjpDy6OTxo)

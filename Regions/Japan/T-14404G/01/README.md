@@ -1,4 +1,4 @@
-# My Best Friends - St. Andrew Jogakuin-hen (Japan)
+# My Best Friends: St. Andrew Jogakuin Hen (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/81TsaIAM5R8/0.jpg)](https://www.youtube.com/watch?v=81TsaIAM5R8)

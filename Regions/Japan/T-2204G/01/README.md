@@ -1,4 +1,4 @@
-# Mahjong-kyou Jidai Cebu Island '96 (Japan)
+# Mahjong Kyou Jidai: Cebu Island '96 (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,17 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2) (Omake Disk): Playable :white_check_mark:
 
 ### Extra Info
 
-- It does need a full gameplay test.
-
-### TODO
-
-- Test Mahjong-kyou Jidai Cebu Island '96 (Japan) (Disc 1)
-- Test Mahjong-kyou Jidai Cebu Island '96 (Japan) (Disc 2) (Omake Disk)
+- It does need a full gameplay test on Disc 1.
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Disc 1):
+
+[![](https://img.youtube.com/vi/qtb_eNJ8lYk/0.jpg)](https://www.youtube.com/watch?v=qtb_eNJ8lYk)
+
+(Disc 2) (Omake Disk):
+
+[![](https://img.youtube.com/vi/RqV03t1GGcc/0.jpg)](https://www.youtube.com/watch?v=RqV03t1GGcc)

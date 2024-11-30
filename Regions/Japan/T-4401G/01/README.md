@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Retail): Playable :white_check_mark:
+- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -30,8 +31,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Test Message Navi (Japan) (Demo)
-- Test Message Navi (Japan)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Retail):
+
+[![](https://img.youtube.com/vi/uv5gnzXYwoo/0.jpg)](https://www.youtube.com/watch?v=uv5gnzXYwoo)

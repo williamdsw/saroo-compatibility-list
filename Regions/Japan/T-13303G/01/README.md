@@ -33,4 +33,4 @@ It needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Mobile Suit Gundam (Japan) = Playable](https://img.youtube.com/vi/rHKvgVxV-J4/0.jpg)](https://www.youtube.com/watch?v=rHKvgVxV-J4)
+[![](https://img.youtube.com/vi/rHKvgVxV-J4/0.jpg)](https://www.youtube.com/watch?v=rHKvgVxV-J4)

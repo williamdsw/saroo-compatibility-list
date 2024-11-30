@@ -1,4 +1,4 @@
-# Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (Japan)
+# Mahjong Kaigan Monogatari: Mahjong Kyou Jidai Sexy Idol Hen (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Retail) (2M): Playable :white_check_mark:
+- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -29,9 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (Japan) (2M)
 - Test Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (Japan) (Demo)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Retail) (2M):
+
+[![](https://img.youtube.com/vi/DhI-52BAzfU/0.jpg)](https://www.youtube.com/watch?v=DhI-52BAzfU)

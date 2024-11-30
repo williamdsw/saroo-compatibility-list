@@ -21,12 +21,21 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Fixed with configuration :hammer_and_wrench:
+
+### Problems without configuration
+
+- A black screen does appear when accessing the options screen
+- A black screen with audio does appear when the mahjong table is loaded
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-2402G/README.md).
 
 ### Extra Info
 
-- It does need a full gameplay test.
+- It needs a full gameplay test.
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/dxbbmJAcr2k/0.jpg)](https://www.youtube.com/watch?v=dxbbmJAcr2k)

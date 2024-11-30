@@ -29,4 +29,4 @@ It needs tests with others caracters.
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - Mortal Kombat II (USA)](https://img.youtube.com/vi/rL3Y8LSk7mc/0.jpg)](https://www.youtube.com/watch?v=rL3Y8LSk7mc)
+[![](https://img.youtube.com/vi/rL3Y8LSk7mc/0.jpg)](https://www.youtube.com/watch?v=rL3Y8LSk7mc)

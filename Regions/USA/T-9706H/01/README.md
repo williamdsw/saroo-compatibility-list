@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (USA)](https://img.youtube.com/vi/TWP284HexJI/0.jpg)](https://www.youtube.com/watch?v=TWP284HexJI)
+[![](https://img.youtube.com/vi/TWP284HexJI/0.jpg)](https://www.youtube.com/watch?v=TWP284HexJI)

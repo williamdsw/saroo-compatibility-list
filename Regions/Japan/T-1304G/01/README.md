@@ -27,6 +27,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Magical Drop (Japan) (Demo)
+
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/vSzY6as8u4I/0.jpg)](https://www.youtube.com/watch?v=vSzY6as8u4I)

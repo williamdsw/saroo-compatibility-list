@@ -2,7 +2,7 @@
 
 ## R
 
-#### 64 Games (34 Tested)
+#### 65 Games (35 Tested)
 
 - [Rabbit (Japan)](../../Regions/Japan/T-10610G/01/README.md)
 - [Race Drivin' (Japan)](../../Regions/Japan/T-4802G/01/README.md)
@@ -65,6 +65,7 @@
 - [Roommate 3 - Ryouko Kaze no Kagayaku Asa ni (Japan)](../../Regions/Japan/T-19507G/01/README.md)
 - [Roommate W - Futari (Japan)](../../Regions/Japan/T-19508G/01/README.md)
 - [Ruriiro no Yuki (Japan)](../../Regions/Japan/T-19722G/01/README.md)
+- [Ryougae Puzzle Game Moudjiya (Japan)](../../Regions/Japan/T-7010G/01/README.md)
 - [Ryouko no Oshaberi Room (Japan)](../../Regions/Japan/T-19509G/01/README.md)
 - [Ryouri no Tetsujin - Kitchen Stadium Tour (Japan)](../../Regions/Japan/T-21702G/01/README.md)
 - [Ryuuteki Gosennen - Dragons of China (Japan)](../../Regions/Japan/T-15025G/01/README.md)

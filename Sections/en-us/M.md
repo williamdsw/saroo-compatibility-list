@@ -2,108 +2,100 @@
 
 ## M
 
-#### 138 Games (15 Tested - 72 To Be Tested)
+#### 129 Games (78 Tested)
 
-- [Maboroshi no Black Bass (Japan)](../../Regions/Japan/T-25303G/01/README.md) - TODO
-- [Machi (Japan) (Demo)](../../Regions/Japan/6106777/01/README.md) - TODO
+- [Maboroshi no Black Bass (Japan)](../../Regions/Japan/T-25303G/01/README.md)
+- [Machi (Japan) (Demo)](../../Regions/Japan/6106777/01/README.md)
 - [Machine Head (USA)](../../Regions/USA/T-7914H/01/README.md)
 - Madden NFL 97 (Europe) - TODO
-- [Madden NFL 97 (USA)](../../Regions/USA/T-5010H/01/README.md) - TODO
+- [Madden NFL 97 (USA)](../../Regions/USA/T-5010H/01/README.md)
 - Madden NFL 98 (Europe) - TODO
-- [Madden NFL 98 (USA)](../../Regions/USA/T-5024H/01/README.md) - TODO
-- [Madou Monogatari (Japan)](../../Regions/Japan/T-6607G/01/README.md) - TODO
+- [Madden NFL 98 (USA)](../../Regions/USA/T-5024H/01/README.md)
+- [Madou Monogatari (Japan)](../../Regions/Japan/T-6607G/01/README.md)
 - Magic Carpet (Europe) - TODO
 - Magic Carpet (Japan) - TODO
-- [Magic Carpet (USA)](../../Regions/USA/T-5006H/01/README.md) - TODO
+- [Magic Carpet (USA)](../../Regions/USA/T-5006H/01/README.md)
 - Magic Knight Rayearth (Japan) (4M) - TODO
 - Magic Knight Rayearth (Japan) (Genteiban) (1M) - TODO
 - Magic Knight Rayearth (Japan) (Genteiban) (2M, 3M) - TODO
-- [Magic Knight Rayearth (USA)](../../Regions/USA/T-12706H/01/README.md) - TODO
-- Magical Drop (Japan) (Demo) - TODO
-- [Magical Drop (Japan)](../../Regions/Japan/T-1304G/01/README.md) - TODO
-- [Magical Drop 2 (Japan)](../../Regions/Japan/GS-9104/01/README.md) - TODO
-- [Magical Drop III - Toretate Zoukan-gou! (Japan)](../../Regions/Japan/T-1313G/01/README.md) - TODO
+- [Magic Knight Rayearth (USA)](../../Regions/USA/T-12706H/01/README.md)
+- [Magical Drop (Japan)](../../Regions/Japan/T-1304G/01/README.md)
+- [Magical Drop 2 (Japan)](../../Regions/Japan/GS-9104/01/README.md)
+- [Magical Drop III Toretate Zoukangou! (Japan)](../../Regions/Japan/T-1313G/01/README.md)
 - Magical Hoppers (Japan) - TODO
-- [Magical Night Dreams - Cotton 2 (Japan)](../../Regions/Japan/T-9904G/01/README.md) - TODO
-- [Magical Night Dreams - Cotton Boomerang (Japan)](../../Regions/Japan/T-9906G/01/README.md) - TODO
 - Mahjong Doukyuusei Special (Japan) (Disc 1) (Shokai Genteiban) - TODO
 - Mahjong Doukyuusei Special (Japan) (Disc 2) (Portrait CD) (Shokai Genteiban) - TODO
-- [Mahjong Doukyuusei Special (Japan)](../../Regions/Japan/T-25301G/01/README.md) - TODO
+- [Mahjong Doukyuusei Special (Japan)](../../Regions/Japan/T-25301G/01/README.md)
 - Mahjong Gakuensai (Japan) (Disc 1) (Shokai Genteiban) - TODO
 - Mahjong Gakuensai (Japan) (Disc 2) (Seiyuu Interview Hi CD) (Shokai Genteiban) - TODO
-- [Mahjong Gakuensai (Japan)](../../Regions/Japan/T-25304G/01/README.md) - TODO
-- [Mahjong Gakuensai DX - Zenjitsu ni Matsuwaru Funsenki (Japan)](../../Regions/Japan/T-25306G/01/README.md) - TODO
-- [Mahjong Ganryuujima (Japan)](../../Regions/Japan/T-2101G/01/README.md) - TODO
-- [Mahjong Gokuu Tenjiku (Japan)](../../Regions/Japan/T-10601G/01/README.md) - TODO
-- [Mahjong Hyper Reaction R (Japan)](../../Regions/Japan/T-2402G/01/README.md) - TODO
-- [Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (Japan)](../../Regions/Japan/T-2201G/01/README.md) - TODO
-- [Mahjong Taikai II Special (Japan)](../../Regions/Japan/T-7621G/01/README.md) - TODO
-- [Mahjong Tenshi - Angel Lips (Japan)](../../Regions/Japan/T-27001G/01/README.md) - TODO
-- [Mahjong Yon Shimai - Wakakusa Monogatari (Japan)](../../Regions/Japan/T-18704G/01/README.md) - TODO
-- [Mahjong-kyou Jidai Cebu Island '96 (Japan)](../../Regions/Japan/T-2204G/01/README.md) - TODO
-- [Mahjong-kyou Jidai Cogal Houkago-hen (Japan)](../../Regions/Japan/T-2203G/01/README.md) - TODO
-- [Mahou Gakuen Lunar! (Japan)](../../Regions/Japan/T-27902G/01/README.md) - TODO
-- [Mahou Shoujo Pretty Samy - Heart no Kimochi (Japan)](../../Regions/Japan/T-20112G/01/README.md) - TODO
-- [Mahou Shoujo Pretty Samy - Osorubeshi Shintai Sokutei! Kakubakuhatsu 5-Byou-mae!! (Japan)](../../Regions/Japan/T-20110G/01/README.md) - TODO
-- [Mahou no Janshi - Poe Poe Poemy (Japan)](../../Regions/Japan/T-15004G/01/README.md) - TODO
-- [Mahoutsukai ni Naru Houhou (Japan)](../../Regions/Japan/T-32510G/01/README.md) - TODO
-- [Mainichi Kawaru Quiz Bangumi - Quiz 365 (Japan)](../../Regions/Japan/T-21201G/01/README.md) - TODO
+- [Mahjong Gakuensai (Japan)](../../Regions/Japan/T-25304G/01/README.md)
+- [Mahjong Gakuensai DX: Zenjitsu ni Matsuwaru Funsenki (Japan)](../../Regions/Japan/T-25306G/01/README.md)
+- [Mahjong Ganryuujima (Japan)](../../Regions/Japan/T-2101G/01/README.md)
+- [Mahjong Gokuu Tenjiku (Japan)](../../Regions/Japan/T-10601G/01/README.md)
+- [Mahjong Hyper Reaction R (Japan)](../../Regions/Japan/T-2402G/01/README.md)
+- [Mahjong Kaigan Monogatari: Mahjong Kyou Jidai Sexy Idol Hen (Japan)](../../Regions/Japan/T-2201G/01/README.md)
+- [Mahjong Taikai II Special (Japan)](../../Regions/Japan/T-7621G/01/README.md)
+- [Mahjong Tenshi Angel Lips (Japan)](../../Regions/Japan/T-27001G/01/README.md)
+- [Mahjong Yon-Shimai: Wakakusa Monogatari (Japan)](../../Regions/Japan/T-18704G/01/README.md)
+- [Mahjong Kyou Jidai: Cebu Island '96 (Japan)](../../Regions/Japan/T-2204G/01/README.md)
+- [Mahjong Kyou Jidai: Cogal Houkago Hen (Japan)](../../Regions/Japan/T-2203G/01/README.md)
+- [Mahou Gakuen Lunar! (Japan)](../../Regions/Japan/T-27902G/01/README.md)
+- [Mahou Shoujo Pretty Samy: Heart no Kimochi (Japan)](../../Regions/Japan/T-20112G/01/README.md)
+- [Mahou Shoujo Pretty Samy: Osorubeshi Shintaisokutei! Kakubakuhatsu 5 Byou Mae!! (Japan)](../../Regions/Japan/T-20110G/01/README.md)
+- [Mahou no Jansi Poe Poe Poemy (Japan)](../../Regions/Japan/T-15004G/01/README.md)
+- [Mahou Tsukai ni Naru Houhou (Japan)](../../Regions/Japan/T-32510G/01/README.md)
+- [Mainichi Kawaru Quiz Bangumi Quiz 365 (Japan)](../../Regions/Japan/T-21201G/01/README.md)
 - [Making of Nightruth II: Voice Selection (Japan)](../../Regions/Japan/T-20205G/01/README.md)
 - Manoir des Ames Perdues, Le (France) - TODO
 - Mansion de las Almas Ocultas, La (Spain) - TODO
 - Mansion of Hidden Souls, The (Europe) (1S) - TODO
 - Mansion of Hidden Souls, The (Europe) (4S) - TODO
-- [The Mansion of Hidden Souls (USA)](../../Regions/USA/MK-81012/01/README.md) - TODO
 - Manx TT SuperBike (Europe) - TODO
 - Manx TT SuperBike (Japan) - TODO
-- [Manx TT SuperBike (USA)](../../Regions/USA/MK-81210/01/README.md) - TODO
-- [Maria - Kimi-tachi ga Umareta Wake (Japan)](../../Regions/Japan/T-36302G/01/README.md) - TODO
-- [Marica - Shinjitsu no Sekai (Japan)](../../Regions/Japan/T-6008G/01/README.md) - TODO
-- [Marie no Atelier Ver. 1.3 - Salburg no Renkinjutsushi (Japan)](../../Regions/Japan/T-15033G/01/README.md) - TODO
-- [Mario Mushano no Chou Shougi Juku - Mario Mushano's Hyper Shogi School (Japan)](../../Regions/Japan/T-24905G/01/README.md) - TODO
+- [Manx TT SuperBike (USA)](../../Regions/USA/MK-81210/01/README.md)
+- [Maria: Kimitachi ga Umareta Wake (Japan)](../../Regions/Japan/T-36302G/01/README.md)
+- [Marica: Shinjitsu no Sekai (Japan)](../../Regions/Japan/T-6008G/01/README.md)
+- [Marie no Atelier Ver. 1.3: Salburg no Renkinjutsushi (Japan)](../../Regions/Japan/T-15033G/01/README.md)
+- [Mario Mushano no Chou Shougi Juku (Japan)](../../Regions/Japan/T-24905G/01/README.md)
 - Marvel Super Heroes (Europe) - TODO
 - [Marvel Super Heroes (Japan)](../../Regions/Japan/T-1215G/01/README.md)
 - Marvel Super Heroes (USA) - TODO
 - [Marvel Super Heroes vs. Street Fighter (Japan)](../../Regions/Japan/T-1238G/01/README.md)
 - Mass Destruction (Europe) - TODO
-- [Mass Destruction (USA)](../../Regions/USA/T-18007H/01/README.md) - TODO
+- [Mass Destruction (USA)](../../Regions/USA/T-18007H/01/README.md)
 - Mass Destruction - OtoUn ni mo Dekiru Soft (Japan) - TODO
-- [Master of Monsters - Neo Generations (Japan)](../../Regions/Japan/T-6301G/01/README.md) - TODO
-- [Masters - Harukanaru Augusta 3 (Japan)](../../Regions/Japan/T-11401G/01/README.md) - TODO
-- [Matsukata Hiroki no World Fishing (Japan)](../../Regions/Japan/T-24801G/01/README.md) - TODO
+- [Master of Monsters (Japan)](../../Regions/Japan/T-6301G/01/README.md)
+- [Masters: Harukanaru Augusta 3 (Japan)](../../Regions/Japan/T-11401G/01/README.md)
+- [Matsukata Hiroki no World Fishing (Japan)](../../Regions/Japan/T-24801G/01/README.md)
 - Maximum Force (Europe) - TODO
-- [Maximum Force (USA)](../../Regions/USA/T-9707H/01/README.md) - TODO
+- [Maximum Force (USA)](../../Regions/USA/T-9707H/01/README.md)
 - MechWarrior 2 (Japan) - TODO
 - MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (Europe) - TODO
-- [MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA)](../../Regions/USA/T-13004H/01/README.md) - TODO
-- [Mechanical Violator Hakaider - Last Judgement (Japan)](../../Regions/Japan/GS-9088/01/README.md) - TODO
-- [MediaROMancer - DA - Daisuke Asakura (Japan)](../../Regions/Japan/T-25001G/01/README.md) - TODO
+- [MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA)](../../Regions/USA/T-13004H/01/README.md)
+- [Media ROMancer Daisuke Asakura (Japan)](../../Regions/Japan/T-25001G/01/README.md)
 - [Mega Man 8 (USA)](../../Regions/USA/T-1216H/01/README.md)
 - Mega Man X3 (Europe) - TODO
 - [Mega Man X4 (USA)](../../Regions/USA/T-1219H/01/README.md)
-- [MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan)](../../Regions/Japan/T-15016G/01/README.md) - TODO
-- [MeltyLancer - Re-inforce (Japan)](../../Regions/Japan/T-15038G/01/README.md) - TODO
-- [Message Navi (Japan)](../../Regions/Japan/T-4401G/01/README.md) - TODO
-- [Message Navi Vol. 2 (Japan)](../../Regions/Japan/T-4404G/01/README.md) - TODO
-- [Metal Black (Japan)](../../Regions/Japan/T-19902G/01/README.md) - TODO
-- [Metal Fighter Miku (Japan)](../../Regions/Japan/T-6002G/01/README.md) - TODO
+- [MeltyLancer: Ginga Shoujo Keisatsu 2086 (Japan)](../../Regions/Japan/T-15016G/01/README.md)
+- [MeltyLancer Re-inforce (Japan)](../../Regions/Japan/T-15038G/01/README.md)
+- [Message Navi (Japan)](../../Regions/Japan/T-4401G/01/README.md)
+- [Message Navi Vol. 2 (Japan)](../../Regions/Japan/T-4404G/01/README.md)
+- [Metal Black (Japan)](../../Regions/Japan/T-19902G/01/README.md)
+- [Metal Fighter Miku (Japan)](../../Regions/Japan/T-6002G/01/README.md)
 - [Metal Slug - Super Vehicle-001 (Japan)](../../Regions/Japan/T-3111G/01/README.md)
-- [Mezase Idol Star!! Natsuiro Memories - Mahjong-hen (Japan)](../../Regions/Japan/T-31001G/01/README.md) - TODO
+- [Mezase Idol Star!! Natsuiro Memories: Mahjong Hen (Japan)](../../Regions/Japan/T-31001G/01/README.md)
 - [Midway Presents Arcade's Greatest Hits (USA)](../../Regions/USA/T-9703H/01/README.md)
 - [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (USA)](../../Regions/USA/T-9706H/01/README.md)
-- [Mighty Hits (Europe)](../../Regions/Europe/MK-81087/01/README.md) - TODO
+- [Mighty Hits (Europe)](../../Regions/Europe/MK-81087/01/README.md)
 - Mighty Hits (Japan) - TODO
-- [Minakata Hakudou Toujou (Japan)](../../Regions/Japan/T-14414G/01/README.md) - TODO
-- [Minami no Shima ni Buta ga Ita - Lucas no Daibouken (Japan)](../../Regions/Japan/T-27101G/01/README.md) - TODO
+- [Minakata Hakudou Toujou (Japan)](../../Regions/Japan/T-14414G/01/README.md)
+- [Minami no Shima ni Buta ga Ita: Lucas no Daibouken (Japan)](../../Regions/Japan/T-27101G/01/README.md)
 - [Minnesota Fats: Pool Legend (USA)](../../Regions/USA/T-1302H/01/README.md)
-- [Minton Keibu no Sousa File - Doukeshi Satsujin Jiken (Japan)](../../Regions/Japan/T-5307G/01/README.md) - TODO
-- [Mizubaku Daibouken (Japan)](../../Regions/Japan/T-19910G/01/README.md) - TODO
-- [Mizuki Shigeru no Youkai Zukan Soushuuhen (Japan)](../../Regions/Japan/T-25506G/01/README.md) - TODO
+- [Minton Keibu no Sousa File: Doukeshi Satsujin Jiken (Japan)](../../Regions/Japan/T-5307G/01/README.md)
+- [Mizubaku Daibouken (Japan)](../../Regions/Japan/T-19910G/01/README.md)
+- [Mizuki Shigeru no Youkai Zukan Soushuuhen (Japan)](../../Regions/Japan/T-25506G/01/README.md)
 - [Mobile Suit Gundam (Japan)](../../Regions/Japan/T-13303G/01/README.md)
-- [Mobile Suit Gundam Side Story - Optional Guide (Japan)](../../Regions/Japan/T-13318G/01/README.md) - TODO
-- [Kidou Senshi Gundam Gaiden I: Senritsu no Blue (Japan)](../../Regions/Japan/T-13306G/01/README.md) - TODO
-- [Kidou Senshi Gundam Gaiden II: Ao wo Uketsugu Mono (Japan)](../../Regions/Japan/T-13309G/01/README.md) - TODO
-- [Kidou Senshi Gundam Gaiden III: Sabakareshi Mono (Japan)](../../Regions/Japan/T-13312G/01/README.md) - TODO
+- [Mobile Suit Gundam Side Story - Optional Guide (Japan)](../../Regions/Japan/T-13318G/01/README.md)
 - Moero!! Pro Yakyuu '95 - Double Header (Japan) - TODO
 - Mogitate SegaSaturn - Special Movie (Japan) (2M) - TODO
 - Mogitate SegaSaturn Vol. 2 (Japan) - TODO
@@ -111,27 +103,26 @@
 - Mogitate SegaSaturn Vol. 4 (Japan) - TODO
 - Mogitate SegaSaturn Vol. 5 (Japan) - TODO
 - Mogitate SegaSaturn Vol. 6 (Japan) - TODO
-- [Momotarou Douchuuki (Japan)](../../Regions/Japan/T-14309G/01/README.md) - TODO
-- [Monster Slider (Japan)](../../Regions/Japan/T-27302G/01/README.md) - TODO
-- [Moon Cradle (Japan)](../../Regions/Japan/T-9109G/01/README.md) - TODO
+- [Momotarou Douchuuki (Japan)](../../Regions/Japan/T-14309G/01/README.md)
+- [Monster Slider (Japan)](../../Regions/Japan/T-27302G/01/README.md)
+- [Moon Cradle (Japan)](../../Regions/Japan/T-9109G/01/README.md)
 - Mortal Kombat II (Europe) - TODO
 - [Mortal Kombat II (USA)](../../Regions/USA/T-8103H/01/README.md)
 - Mortal Kombat II Kanzenban (Japan) (4S) - TODO
 - Mortal Kombat Trilogy (Europe) - TODO
 - [Mortal Kombat Trilogy (USA)](../../Regions/USA/T-9704H/01/README.md)
-- [Motteke Tamago with Ganbare! Kamonohashi (Japan)](../../Regions/Japan/T-18712G/01/README.md) - TODO
-- [Mouja (Japan)](../../Regions/Japan/T-7010G/01/README.md) - TODO
-- [Mouri Motonari - Chikai no Sanshi (Japan)](../../Regions/Japan/T-7646G/01/README.md) - TODO
+- [Motteke Tamago with Ganbare! Kamonohashi (Japan)](../../Regions/Japan/T-18712G/01/README.md)
+- [Mouri Motonari: Chikai no Sanshi (Japan)](../../Regions/Japan/T-7646G/01/README.md)
 - Mr. Bones (Europe) (Disc 1) - TODO
 - Mr. Bones (Europe) (Disc 2) - TODO
 - Mr. Bones (Japan) (Demo) - TODO
 - Mr. Bones (Japan) (Disc 1) - TODO
 - Mr. Bones (Japan) (Disc 2) - TODO
 - [Mr. Bones (USA)](../../Regions/USA/MK-81016/01/README.md)
-- [Mujintou Monogatari R - Futari no Love Love Island (Japan)](../../Regions/Japan/T-28901G/01/README.md) - TODO
-- [Murakoshi Seikai no Bakuchou Nihon Rettou (Japan)](../../Regions/Japan/T-9115G/01/README.md) - TODO
-- [My Best Friends - St. Andrew Jogakuin-hen (Japan)](../../Regions/Japan/T-14404G/01/README.md) - TODO
-- [My Dream - On Air ga Matenakute (Japan)](../../Regions/Japan/T-21303G/01/README.md) - TODO
+- [Mujintou Monogatari R: Futari no Love Love Island (Japan)](../../Regions/Japan/T-28901G/01/README.md)
+- [Murakoshi Seikai no Bakuchou Nihon Rettou (Japan)](../../Regions/Japan/T-9115G/01/README.md)
+- [My Best Friends: St. Andrew Jogakuin Hen (Japan)](../../Regions/Japan/T-14404G/01/README.md)
+- [My Dream: On Air ga Matenakute (Japan)](../../Regions/Japan/T-21303G/01/README.md)
 - [My Fair Lady: Virtual Mahjong II (Japan)](../../Regions/Japan/T-2207G/01/README.md)
 - Myst (Europe) - TODO
 - Myst (Japan) (Rev A) - TODO

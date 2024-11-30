@@ -1,4 +1,4 @@
-# My Dream - On Air ga Matenakute (Japan)
+# My Dream: On Air ga Matenakute (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -29,9 +30,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully test My Dream - On Air ga Matenakute (Japan) (Disc 1)
-- Fully test My Dream - On Air ga Matenakute (Japan) (Disc 2)
+- Fully test My Dream: On Air ga Matenakute (Japan) (Disc 1)
+- Fully test My Dream: On Air ga Matenakute (Japan) (Disc 2)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+<!-- [![](https://img.youtube.com/vi/hPYbWH_FW6g/0.jpg)](https://www.youtube.com/watch?v=hPYbWH_FW6g) -->

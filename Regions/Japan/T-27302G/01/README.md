@@ -21,7 +21,16 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- (Retail): Fixed with configuration :hammer_and_wrench:
+- (Demo): Untested :question:
+
+### Problems without configuration
+
+- Title screen does show glitched texts
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-27302G/README.md).
 
 ### Extra Info
 
@@ -33,4 +42,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Retail):
+
+[![](https://img.youtube.com/vi/lYe2l688h-U/0.jpg)](https://www.youtube.com/watch?v=lYe2l688h-U)

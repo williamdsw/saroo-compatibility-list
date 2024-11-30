@@ -33,4 +33,4 @@ It needs tests with others caracters, and others modes (tournement, etc) and oth
 
 ### Evidence
 
-[![Mortal Kombat Trilogy (USA)](https://img.youtube.com/vi/TQ35HhiHeFA/0.jpg)](https://www.youtube.com/watch?v=TQ35HhiHeFA)
+[![](https://img.youtube.com/vi/TQ35HhiHeFA/0.jpg)](https://www.youtube.com/watch?v=TQ35HhiHeFA)

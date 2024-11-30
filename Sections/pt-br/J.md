@@ -2,7 +2,7 @@
 
 ## J
 
-#### 31 Jogos (25 Testados)
+#### 32 Jogos (26 Testados)
 
 - [J. B. Harold - Blue Chicago Blues (Japan)](../../Regions/Japan/T-5302G/01/README.md)
 - [J.League Go Go Goal! (Japan)](../../Regions/Japan/T-3602G/README.md)
@@ -21,6 +21,7 @@
 - [Jikkyou Powerful Pro Yakyuu '95 Kaimaku-ban (Japan) (2M)](../../Regions/Japan/T-9502G/01/README.md)
 - [Jikkyou Powerful Pro Yakyuu S (Japan)](../../Regions/Japan/T-9523G/01/README.md)
 - [Jikuu Tantei DD (Dracula Detective) - Maboroshi no Lorelei (Japan)](../../Regions/Japan/T-2103G/01/README.md)
+- [Jinzou Ningen Hakaider: Last Judgement (Japan)](../../Regions/Japan/GS-9088/01/README.md)
 - [Jissen Mahjong (Japan)](../../Regions/Japan/T-15002G/01/README.md)
 - [Jissen Pachinko Hisshou-hou! Twin (Japan)](../../Regions/Japan/T-2407G/01/README.md)
 - [Jissen! Pachi-Slot Hisshou-hou! 3 (Japan)](../../Regions/Japan/T-2401G/01/README.md)

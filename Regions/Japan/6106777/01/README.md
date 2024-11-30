@@ -21,7 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Demo) (1M): Playable :white_check_mark:
+- (Demo) (2M): Untested :question:
+- (Demo) (4M): Untested :question:
 
 ### Extra Info
 
@@ -29,10 +31,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Machi (Japan) (Demo) (1M)
 - Test Machi (Japan) (Demo) (2M)
 - Test Machi (Japan) (Demo) (4M)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Demo) (1M):
+
+[![](https://img.youtube.com/vi/rf7RWt4jr2A/0.jpg)](https://www.youtube.com/watch?v=rf7RWt4jr2A)

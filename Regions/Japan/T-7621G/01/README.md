@@ -25,7 +25,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Extra Info
 
-- Playable :white_check_mark:
+- (Retail) (2M): Playable :white_check_mark:
+- (Retail) (Rev A) (10M): Untested :question:
 
 ### TODO
 
@@ -34,4 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Retail) (2M):
+
+[![](https://img.youtube.com/vi/e61a7fyVw0Q/0.jpg)](https://www.youtube.com/watch?v=e61a7fyVw0Q)

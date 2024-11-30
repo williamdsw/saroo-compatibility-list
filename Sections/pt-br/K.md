@@ -2,7 +2,7 @@
 
 ## K
 
-#### 44 Jogos (41 Testados)
+#### 47 Jogos (43 Testados)
 
 - [K-1 Fighting Illusion Shou (Japan)](../../Regions/Japan/T-26102G/01/README.md)
 - [Kaitei Daisensou (Japan)](../../Regions/Japan/T-15006G/01/README.md)
@@ -20,6 +20,9 @@
 - [Keriotosse! (Japan)](../../Regions/Japan/T-30306G/01/README.md)
 - [Kidou Senkan Nadesico: The Blank of 3 Years (J)](../../Regions/Japan/GS-9195/01/README.md)
 - [Kidou Senkan Nadesico: Yappari Saigo ha 'Ai ga Katsu' ? (Japan)](../../Regions/Japan/GS-9142/01/README.md)
+- [Kidou Senshi Gundam Gaiden I: Senritsu no Blue (Japan)](../../Regions/Japan/T-13306G/01/README.md)
+- [Kidou Senshi Gundam Gaiden II: Ao wo Uketsugu Mono (Japan)](../../Regions/Japan/T-13309G/01/README.md)
+- [Kidou Senshi Gundam Gaiden III: Sabakareshi Mono (Japan)](../../Regions/Japan/T-13312G/01/README.md)
 - [Kidou Senshi Gundam: Giren no Yabou (Japan)](../../Regions/Japan/T-13327G/01/README.md)
 - [Kidou Senshi Gundam: Giren no Yabou - Kouryaku Shireisho (Japan)](../../Regions/Japan/T-13333G/01/README.md)
 - [Kidou Senshi Z Gundam: Kouhen Sora o Kakeru (Japan)](../../Regions/Japan/T-13320G/01/README.md)

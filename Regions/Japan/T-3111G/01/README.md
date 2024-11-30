@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Metal Slug: Super Vehicle-001 (J) = Issues](https://img.youtube.com/vi/bvS4M3aETYQ/0.jpg)](https://www.youtube.com/watch?v=bvS4M3aETYQ)
+[![](https://img.youtube.com/vi/bvS4M3aETYQ/0.jpg)](https://www.youtube.com/watch?v=bvS4M3aETYQ)

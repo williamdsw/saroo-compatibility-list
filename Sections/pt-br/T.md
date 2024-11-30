@@ -2,7 +2,7 @@
 
 ## T
 
-#### 161 Jogos (41 Testados - 46 a serem registrados)
+#### 162 Jogos (42 Testados - 46 a serem registrados)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO (Recorded)
@@ -97,6 +97,7 @@
 - The Lost World - Jurassic Park (Japan) - TODO
 - [The Lost World - Jurassic Park (USA)](../../Regions/USA/MK-81065/01/README.md)
 - [The Making of Nightruth (Japan)](../../Regions/Japan/T-20203G/01/README.md)
+- [The Mansion of Hidden Souls (USA)](../../Regions/USA/MK-81012/01/README.md)
 - The Unsolved (Japan) (Disc 1) - TODO (Recorded)
 - The Unsolved (Japan) (Disc 2) - TODO
 - The Unsolved (Japan) (Disc 3) - TODO

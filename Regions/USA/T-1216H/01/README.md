@@ -29,4 +29,4 @@ Tested the first stage. It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Mega Man 8 (USA) = Playable](https://img.youtube.com/vi/EP-FtIIdBj0/0.jpg)](https://www.youtube.com/watch?v=EP-FtIIdBj0)
+[![](https://img.youtube.com/vi/EP-FtIIdBj0/0.jpg)](https://www.youtube.com/watch?v=EP-FtIIdBj0)

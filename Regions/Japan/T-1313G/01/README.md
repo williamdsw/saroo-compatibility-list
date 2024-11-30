@@ -1,4 +1,4 @@
-# Magical Drop III - Toretate Zoukan-gou! (Japan)
+# Magical Drop III Toretate Zoukangou! (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,18 +21,29 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- (Retail) (2M): Fixed with configuration :hammer_and_wrench:
+- (Demo) (1M): Untested :question:
+- (Demo) (2M): Untested :question:
+
+### Problems without configuration
+
+- Intro does play with sound but no video is shown.
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-1313G/README.md).
 
 ### Extra Info
 
-- It does need a full gameplay test.
+- It needs a full gameplay test.
 
 ### TODO
 
-- Test Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)
 - Test Magical Drop III - Toretate Zoukan-gou! (Japan) (Demo) (1M)
 - Test Magical Drop III - Toretate Zoukan-gou! (Japan) (Demo) (2M)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Retail) (2M):
+
+[![](https://img.youtube.com/vi/oql2upiWRq8/0.jpg)](https://www.youtube.com/watch?v=oql2upiWRq8)

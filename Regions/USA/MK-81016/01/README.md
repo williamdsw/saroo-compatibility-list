@@ -35,4 +35,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Mr Bones (U) = Playable](https://img.youtube.com/vi/F8FgqWW7_Gk/0.jpg)](https://www.youtube.com/watch?v=F8FgqWW7_Gk)
+[![](https://img.youtube.com/vi/F8FgqWW7_Gk/0.jpg)](https://www.youtube.com/watch?v=F8FgqWW7_Gk)

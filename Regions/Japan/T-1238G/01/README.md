@@ -29,4 +29,4 @@ It needs gameplay tests with others characters and difficulties.
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231111) - Marvel Super Heroes vs. Street Fighter (Japan)](https://img.youtube.com/vi/BjaPr4LqpFY/0.jpg)](https://www.youtube.com/watch?v=BjaPr4LqpFY)
+[![](https://img.youtube.com/vi/BjaPr4LqpFY/0.jpg)](https://www.youtube.com/watch?v=BjaPr4LqpFY)

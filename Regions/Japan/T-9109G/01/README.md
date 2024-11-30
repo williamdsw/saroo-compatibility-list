@@ -21,7 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
+- (Disc 3): Untested :question:
 
 ### Extra Info
 
@@ -35,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/pOrd8CEJtYU/0.jpg)](https://www.youtube.com/watch?v=pOrd8CEJtYU)

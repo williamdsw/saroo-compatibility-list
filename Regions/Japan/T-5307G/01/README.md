@@ -1,4 +1,4 @@
-# Minton Keibu no Sousa File - Doukeshi Satsujin Jiken (Japan)
+# Minton Keibu no Sousa File: Doukeshi Satsujin Jiken (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 

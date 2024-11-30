@@ -2,7 +2,7 @@
 
 ## C
 
-#### 90 Jogos (53 Testados)
+#### 94 Jogos (57 Testados)
 
 - [Can Can Bunny Extra (Japan)](../../Regions/Japan/T-19706G/01/README.md)
 - [Can Can Bunny Premiere (Japan)](../../Regions/Japan/T-19701G/01/README.md)
@@ -56,6 +56,8 @@
 - [Contra - Legacy of War (USA)](../../Regions/USA/T-9507H/01/README.md)
 - [Core Demo Disc (Europe)](../../Regions/Europe/610-6576/01/README.md)
 - [Corpse Killer - Graveyard Edition (USA)](../../Regions/USA/T-16201H/01/README.md)
+- [Cotton 2 (Japan)](../../Regions/Japan/T-9904G/01/README.md)
+- [Cotton Boomerang (Japan)](../../Regions/Japan/T-9906G/01/README.md)
 - Courier Crisis (Europe) - TODO
 - Courier Crisis (Japan) - TODO
 - [Courier Crisis (USA)](../../Regions/USA/T-25415H/01/README.md)
