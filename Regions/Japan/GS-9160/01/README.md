@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sakura Taisen Jouki Radio Show (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,21 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
+(Disc 1) (Yuugi-ban):
+
+- <b>Game Name:</b> SAKURA RAJIO
+- <b>Product Number:</b> GS-9160
+- <b>Version:</b> V1.004
 - <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
+- <b>Peripheral Code:</b> JM
+
+(Disc 2) (Kayou-ban):
+
+- <b>Game Name:</b> SAKURA RAJIO
+- <b>Product Number:</b> GS-9160
+- <b>Version:</b> V1.002
+- <b>Area Code:</b> J
+- <b>Peripheral Code:</b> JMP
 
 ### Status
 
@@ -26,6 +36,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 - It does need a full gameplay test.
+
+### TODO
+
+- Test Sakura Taisen: Jouki Radio Show (Japan) (Disc 1) (Yuugi-ban)
+- Test Sakura Taisen: Jouki Radio Show (Japan) (Disc 2) (Kayou-ban)
 
 ### Evidence
 

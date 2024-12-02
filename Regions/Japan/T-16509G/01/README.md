@@ -1,4 +1,4 @@
-# Game (Japan)
+# Super Real Mahjong P7 (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
+- <b>Game Name:</b> SUPERREALMAHJONG_P7
+- <b>Product Number:</b> T-16509G
+- <b>Version:</b> V1.003
 - <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
+- <b>Peripheral Code:</b> JW
 
 ### Status
 

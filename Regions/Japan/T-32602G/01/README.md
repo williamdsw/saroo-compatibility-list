@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sakura Taisen Teigeki Graph (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,9 +13,9 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
+- <b>Game Name:</b> SAKURA TAISEN TEIGEKI GRAPH
+- <b>Product Number:</b> T-32602G
+- <b>Version:</b> V1.003
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
 
@@ -26,6 +26,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 - It does need a full gameplay test.
+
+### TODO
+
+- Test Sakura Taisen Teigeki Graph (Japan) (Disc 1)
+- Test Sakura Taisen Teigeki Graph (Japan) (Disc 2)
 
 ### Evidence
 

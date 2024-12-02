@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sega Ages Columns Arcade Collection (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,10 +13,10 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> J
+- <b>Game Name:</b> COLUMNS ARCADECOLLECTION
+- <b>Product Number:</b> GS-9161
+- <b>Version:</b> V1.008
+- <b>Area Code:</b> JT
 - <b>Peripheral Code:</b> J
 
 ### Status

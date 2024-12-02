@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sakura Taisen (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
+- <b>Game Name:</b> SAKURA TAISEN
+- <b>Product Number:</b> GS-9037
+- <b>Version:</b> V1.005
+- <b>Area Code:</b> JT
+- <b>Peripheral Code:</b> JM
 
 ### Status
 
@@ -26,6 +26,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 - It does need a full gameplay test.
+
+### TODO
+
+- Test Sakura Taisen (Japan) (Disc 1) (6M)
+- Test Sakura Taisen (Japan) (Disc 1) (7M, 9M, 10M)
+- Test Sakura Taisen (Japan) (Disc 1) (8M, 13M)
+- Test Sakura Taisen (Japan) (Disc 2) (6M)
+- Test Sakura Taisen (Japan) (Disc 2) (7M)
+- Test Sakura Taisen (Japan) (Disc 2) (8M, 9M)
 
 ### Evidence
 

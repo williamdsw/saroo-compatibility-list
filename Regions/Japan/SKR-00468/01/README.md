@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,10 +13,10 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
+- <b>Game Name:</b> SAKURA-TAISEN PR
+- <b>Product Number:</b> SKR-00468
 - <b>Version:</b> V1.000
-- <b>Area Code:</b> J
+- <b>Area Code:</b> JT
 - <b>Peripheral Code:</b> J
 
 ### Status

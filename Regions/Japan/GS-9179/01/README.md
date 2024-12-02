@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sega Ages I Love Mickey Mouse: Fushigi no Oshiro Daibouken/I Love Donald Duck: Gurujia Ou no Hihou (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,8 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
+- <b>Game Name:</b> SEGAAGES MICKEY MOUSE/DONALD DUCK
+- <b>Product Number:</b> GS-9179
 - <b>Version:</b> V1.000
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J

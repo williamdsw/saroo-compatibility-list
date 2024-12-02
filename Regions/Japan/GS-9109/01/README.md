@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sega Ages After Burner II (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
+- <b>Game Name:</b> AFTER BURNER 2
+- <b>Product Number:</b> GS-9109
+- <b>Version:</b> V1.001
+- <b>Area Code:</b> JT
+- <b>Peripheral Code:</b> JAE
 
 ### Status
 

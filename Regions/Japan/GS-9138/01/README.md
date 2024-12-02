@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sakura Taisen: Hanagumi Taisen Columns (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,10 +13,10 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
+- <b>Game Name:</b> HANAGUMI TAISEN COLUMNS
+- <b>Product Number:</b> GS-9138
 - <b>Version:</b> V1.000
-- <b>Area Code:</b> J
+- <b>Area Code:</b> JT
 - <b>Peripheral Code:</b> J
 
 ### Status
@@ -26,6 +26,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 - It does need a full gameplay test.
+
+### TODO
+
+- Test Sakura Taisen: Hanagumi Taisen Columns (Japan) (1M)
+- Test Sakura Taisen: Hanagumi Taisen Columns (Japan) (2M)
 
 ### Evidence
 

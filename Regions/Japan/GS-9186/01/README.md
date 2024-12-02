@@ -13,10 +13,10 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> J
+- <b>Game Name:</b> PHANTASY STAR COLLECTION
+- <b>Product Number:</b> GS-9186
+- <b>Version:</b> V1.003
+- <b>Area Code:</b> JT
 - <b>Peripheral Code:</b> J
 
 ### Status
