@@ -2,7 +2,7 @@
 
 ## S
 
-#### 398 Games (30 Tested  - 145 to be tested)
+#### 398 Games (30 Tested - 145 to be tested)
 
 - [SD Gundam - GCentury S (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Sakamoto Ryouma - Ishin Kaikoku (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
@@ -81,9 +81,9 @@
 - Saturn Super Vol. 9 Furoku CD-ROM (Japan) - TODO
 - [Savaki (Japan) (2M)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Scorcher (Europe) - TODO
-- [Scorcher (USA) (RE)](../../Regions/USA/PRODUCT/01/README.md) - TODO
-- [Scud - The Disposable Assassin (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
-- [Sea Bass Fishing (Europe)](../../Regions/Europe/PRODUCT/01/README.md) - TODO
+- [Scorcher (USA) (RE)](../../Regions/USA/MK-81214/01/README.md) - TODO
+- [Scud: The Disposable Assassin (USA)](../../Regions/USA/T-30403H/01/README.md) - TODO
+- [Sea Bass Fishing (Europe)](../../Regions/Europe/T-6009H-50/01/README.md) - TODO
 - SeaBass Fishing (Japan) - TODO
 - [SeaBass Fishing 2 (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Sega Ages - After Burner II (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
@@ -102,7 +102,7 @@
 - Sega Ages - Space Harrier (Japan) (Rev A) (13M) - TODO
 - [Sega Ages - Space Harrier (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Sega Ages Volume 1 (Europe) - TODO
-- [Sega Ages Volume 1 (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Sega Ages Volume 1 (USA)](../../Regions/USA/T-12707H/01/README.md) - TODO
 - Sega Flash Vol. 1 (Europe) - TODO
 - Sega Flash Vol. 2 (Europe) - TODO
 - Sega Flash Vol. 3 (Europe) (Rev A) - TODO
@@ -120,19 +120,16 @@
 - [Sega Rally Championship (USA)](../../Regions/USA/MK-81207/01/README.md)
 - [Sega Rally Championship Plus (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Sega Rally Championship Plus Netlink Edition (USA) - TODO
-- [Sega Saturn Bootleg II - On the Road (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
-- [Sega Saturn Choice Cuts (USA) (R2)](../../Regions/USA/PRODUCT/01/README.md) - TODO
-- Sega Saturn Choice Cuts (USA) (RE) - TODO
+- [Sega Saturn Bootleg II: On the Road (USA)](../../Regions/USA/MK-81068/01/README.md) - TODO
+- [Sega Saturn Choice Cuts (USA)](../../Regions/USA/81600/01/README.md) - TODO
 - [Sega Saturn de Hakken!! Tamagotchi Park (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
-- [Sega Screams Volume 2 (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Sega Screams Volume 2 (USA)](../../Regions/USA/MK-81077/01/README.md) - TODO
 - Sega Touring Car Championship (Europe) - TODO
 - Sega Touring Car Championship (Japan) (Demo) - TODO
 - Sega Touring Car Championship (Japan) - TODO
-- [Sega Worldwide Soccer '97 (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Sega Worldwide Soccer '97 (USA)](../../Regions/USA/MK-81112/01/README.md) - TODO
 - [Sega Worldwide Soccer '98 (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
-- Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev A) - TODO
-- Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev B) - TODO
-- [Sega Worldwide Soccer '98 - Club Edition (Europe)](../../Regions/Europe/PRODUCT/01/README.md) - TODO
+- [Sega Worldwide Soccer '98 - Club Edition (Europe)](../../Regions/Europe/MK-81123/01/README.md) - TODO
 - Sega Worldwide Soccer 97 (Europe) (Alt) - TODO
 - Sega Worldwide Soccer 97 (Europe) - TODO
 - SegaColle Sega Bible Mogitate SegaSaturn Soukan-gou (Japan) - TODO
@@ -173,12 +170,12 @@
 - Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev A) (15M) - TODO
 - [Shanghai - Great Moments (Japan) (1M)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Shanghai - Great Moments (Japan) (2M) - TODO
-- [Shanghai - Triple-Threat (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Shanghai: Triple-Threat (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
 - [She'sn (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Shellshock (Europe) - TODO
 - Shellshock (France) - TODO
 - Shellshock (Germany) - TODO
-- [Shellshock (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Shellshock (USA)](../../Regions/USA/T-7901H/01/README.md) - TODO
 - Shellshock - Jus' Keepin' da Peace (Japan) - TODO
 - [Shichisei Toushin Guyferd - Crown Kaimetsu Sakusen (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Shichuu Suimei Pitagraph (Japan) (2M)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
@@ -211,7 +208,7 @@
 - Shining Wisdom (Japan) (Rev A) - TODO
 - Shining Wisdom (Japan) - TODO
 - Shining Wisdom (USA) (Beta) - TODO
-- [Shining Wisdom (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Shining Wisdom (USA)](../../Regions/USA/T-12702H/01/README.md) - TODO
 - Shining the Holy Ark (Europe) - TODO
 - Shining the Holy Ark (Japan) (1M) - TODO
 - Shining the Holy Ark (Japan) (3M) - TODO
@@ -230,7 +227,7 @@
 - [Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Disc 1)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Shiroki Majo - Mou Hitotsu no Eiyuu Densetsu (Japan) (Disc 2) - TODO
 - Shockwave Assault (Europe) - TODO
-- [Shockwave Assault (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Shockwave Assault (USA)](../../Regions/USA/T-5005H/01/README.md) - TODO
 - [Shougi Matsuri (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2) - TODO
@@ -254,10 +251,10 @@
 - [Skull Fang - Kuuga Gaiden (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Sky Target (Europe) - TODO
 - Sky Target (Japan) - TODO
-- [Sky Target (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Sky Target (USA)](../../Regions/USA/MK-81051/01/README.md) - TODO
 - Slam 'n Jam '96 featuring Magic & Kareem (Japan) - TODO
 - Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (Europe) - TODO
-- [Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (USA)](../../Regions/USA/T-159028H/01/README.md) - TODO
 - [Slayers Royal (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Slayers Royal 2 (Japan) (1M)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Slayers Royal 2 (Japan) (2M) - TODO
@@ -265,7 +262,7 @@
 - [Soeldnerschild (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Sokkou Seitokai - Sonic Council (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Sol Divide (Japan)](../../Regions/Japan/T-14423G/01/README.md)
-- [Solar Eclipse (USA)](../../Regions/USA/PRODUCT/01/README.md) (2S) - TODO
+- [Solar Eclipse (USA)](../../Regions/USA/T-15911H/01/README.md) (2S) - TODO
 - [Solo Crisis (Japan) (1M)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Solo Crisis (Japan) (2M) - TODO
 - Solo Crisis (Japan) (Demo) - TODO
@@ -275,7 +272,7 @@
 - Sonic Jam (Europe) - TODO
 - Sonic Jam (Japan) (Rev A) - TODO
 - Sonic Jam (Japan) - TODO
-- [Sonic Jam (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Sonic Jam (USA)](../../Regions/USA/MK-81079/01/README.md) - TODO
 - Sonic R (Europe) - TODO
 - Sonic R (Japan) (1M) - TODO
 - Sonic R (Japan) (2M) - TODO
@@ -305,7 +302,7 @@
 - Soviet Strike (Japan) - TODO
 - [Soviet Strike (USA)](../../Regions/USA/T-5013H/01/README.md)
 - Space Hulk - Vengeance of the Blood Angels (Europe) - TODO
-- [Space Hulk - Vengeance of the Blood Angels (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Space Hulk: Vengeance of the Blood Angels (USA)](../../Regions/USA/T-5007H/01/README.md) - TODO
 - [Space Invaders (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Space Jam (Europe) - TODO
 - Space Jam (Japan) - TODO
@@ -313,7 +310,7 @@
 - Special Disc with SegaSaturn Internet 2 (Japan) - TODO
 - Spot Goes to Hollywood (Europe) - TODO
 - Spot Goes to Hollywood (Japan) - TODO
-- [Spot Goes to Hollywood (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Spot Goes to Hollywood (USA)](../../Regions/USA/T-7001H/01/README.md) - TODO
 - [Stakes Winner - GI Kanzen Seiha e no Michi (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Stakes Winner 2 - Saikyouba Densetsu (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - [Standby Say You! (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
@@ -321,7 +318,7 @@
 - Star Bowling Vol. 2, The (Japan) (Disc 2) - TODO
 - [Star Bowling, The (Japan) (Disc 1)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Star Bowling, The (Japan) (Disc 2) - TODO
-- [Star Fighter (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Star Fighter (USA)](../../Regions/USA/T-8135H/01/README.md) - TODO
 - StarFighter 3000 (Europe) - TODO
 - StarFighter 3000 (Japan) - TODO
 - [Steam-Heart's (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
@@ -330,7 +327,7 @@
 - Steep Slope Sliders (Europe) - TODO
 - Steep Slope Sliders (Japan) (Demo) - TODO
 - Steep Slope Sliders (Japan) - TODO
-- [Steep Slope Sliders (USA)](../../Regions/USA/PRODUCT/01/README.md) - TODO
+- [Steep Slope Sliders (USA)](../../Regions/USA/MK-81128/01/README.md) - TODO
 - Stellar Assault SS (Japan) (Demo) - TODO
 - [Stellar Assault SS (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Story of Thor 2, The (Europe) - TODO
@@ -359,7 +356,7 @@
 - Street Fighter Zero 2 (Japan) - TODO
 - [Street Fighter Zero 2' - Dash (Japan)](../../Regions/Japan/T-1244G/01/README.md)
 - [Street Fighter Zero 3 (Japan)](../../Regions/Japan/T-1246G/01/README.md)
-- [Street Racer (Europe)](../../Regions/Europe/PRODUCT/01/README.md) - TODO
+- [Street Racer (Europe)](../../Regions/Europe/T-17702H/01/README.md) - TODO
 - Street Racer Extra (Japan) - TODO
 - Striker 96 (Europe) - TODO
 - Striker 96 (Japan) - TODO
@@ -398,7 +395,7 @@
 - [Super Robot Taisen F Kanketsuhen (Japan)](../../Regions/Japan/T-20612G/01/README.md)
 - [Super Tempo (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Swagman (Europe) (Demo) - TODO
-- [Swagman (Europe)](../../Regions/Europe/PRODUCT/01/README.md) - TODO
+- [Swagman (Europe)](../../Regions/Europe/T-11502H-5/01/README.md) - TODO
 - [Sword & Sorcery (Japan) (2M)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
 - Sword & Sorcery (Japan) (Rev A) (10M) - TODO
 - [System-Disc (KD02) Columbia (Japan) (16M)](../../Regions/Japan/PRODUCT/01/README.md) - TODO

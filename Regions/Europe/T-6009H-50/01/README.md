@@ -1,4 +1,4 @@
-# Game (Region)
+# Sea Bass Fishing (Europe)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,15 +13,13 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Game Name:</b> SEABASS FISHING
+- <b>Product Number:</b> T-6009H-50
+- <b>Version:</b> V1.002
+- <b>Area Code:</b> E
+- <b>Peripheral Code:</b> J
 
 ### Status
-
-<!-- - Playable :white_check_mark: -->
 
 - Untested :question:
 

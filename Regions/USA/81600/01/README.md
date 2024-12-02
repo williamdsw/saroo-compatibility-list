@@ -1,4 +1,4 @@
-# Game (Region)
+# Sega Saturn Choice Cuts (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,21 +13,24 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Game Name:</b> CHOICE CUTS
+- <b>Product Number:</b> 81600
+- <b>Version:</b> V2.000
+- <b>Area Code:</b> JU
+- <b>Peripheral Code:</b> J
 
 ### Status
-
-<!-- - Playable :white_check_mark: -->
 
 - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
+
+### TODO
+
+- Test Sega Saturn Choice Cuts (USA) (R2)
+- Test Sega Saturn Choice Cuts (USA) (RE)
 
 ### Evidence
 

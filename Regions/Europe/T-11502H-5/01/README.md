@@ -1,4 +1,4 @@
-# Game (Region)
+# Game (Europe)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
+- <b>Game Name:</b> SWAGMAN
+- <b>Product Number:</b> T-11502H-5
 - <b>Version:</b> V1.000
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Area Code:</b> E
+- <b>Peripheral Code:</b> J
 
 ### Status
 

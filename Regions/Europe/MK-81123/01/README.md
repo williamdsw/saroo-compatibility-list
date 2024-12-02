@@ -1,4 +1,4 @@
-# Game (Region)
+# Sega Worldwide Soccer '98 Club Edition (Europe)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,21 +13,25 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Game Name:</b> WWS 98
+- <b>Product Number:</b> MK-81123
+- <b>Version:</b> V1.002
+- <b>Area Code:</b> E
+- <b>Peripheral Code:</b> JT
 
 ### Status
-
-<!-- - Playable :white_check_mark: -->
 
 - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
+
+### TODO
+
+- Test Sega Worldwide Soccer '98 - Club Edition (Europe)
+- Test Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev A)
+- Test Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev B)
 
 ### Evidence
 

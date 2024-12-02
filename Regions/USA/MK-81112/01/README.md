@@ -1,4 +1,4 @@
-# Game (Region)
+# Sega Worldwide Soccer '97 (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,15 +13,13 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Game Name:</b> WWS 97
+- <b>Product Number:</b> MK-81112
+- <b>Version:</b> V1.001
+- <b>Area Code:</b> UTJ
+- <b>Peripheral Code:</b> JT
 
 ### Status
-
-<!-- - Playable :white_check_mark: -->
 
 - Untested :question:
 

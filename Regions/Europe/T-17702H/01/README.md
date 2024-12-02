@@ -1,4 +1,4 @@
-# Game (Region)
+# Street Racer (Europe)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,15 +13,13 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
+- <b>Game Name:</b> STREET RACER
+- <b>Product Number:</b> T-17702H
 - <b>Version:</b> V1.000
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Area Code:</b> E
+- <b>Peripheral Code:</b> JT
 
 ### Status
-
-<!-- - Playable :white_check_mark: -->
 
 - Untested :question:
 

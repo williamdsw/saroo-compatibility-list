@@ -1,4 +1,4 @@
-# Game (Region)
+# Shining the Holy Ark (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,15 +13,13 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> AREA
-- <b>Peripheral Code:</b> PERIPHERAL
+- <b>Game Name:</b> SHINING THE HOLYARK
+- <b>Product Number:</b> MK-81306
+- <b>Version:</b> V1.003
+- <b>Area Code:</b> U
+- <b>Peripheral Code:</b> JE
 
 ### Status
-
-<!-- - Playable :white_check_mark: -->
 
 - Untested :question:
 
