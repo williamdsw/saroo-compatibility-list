@@ -1,4 +1,4 @@
-# Game (Region)
+# Sangokushi V (Taiwan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> PRODUCT_NUMBER
-- <b>Version:</b> VERSION
-- <b>Area Code:</b> AREA_CODE
-- <b>Peripheral Code:</b> PERIPHERAL_CODE
+- <b>Game Name:</b> SANGOKUSHI V (CHINESE VERSION)
+- <b>Product Number:</b> T-7606H-16
+- <b>Version:</b> V1.000
+- <b>Area Code:</b> JT
+- <b>Peripheral Code:</b> J
 
 ### Status
 

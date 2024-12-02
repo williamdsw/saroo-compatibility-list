@@ -2,7 +2,7 @@
 
 ## S
 
-#### 398 Games (30 Tested - 145 to be tested)
+#### 335 Games (30 Tested - 145 to be tested)
 
 - [SD Gundam G Century S (Japan)](../../Regions/Japan/T-13324G/01/README.md) - TODO
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../Regions/Japan/T-19709G/01/README.md) - TODO
@@ -17,16 +17,16 @@
 - [Salamander Deluxe Pack Plus (Japan)](../../Regions/Japan/T-9520G/01/README.md)
 - [Samurai Spirits - Amakusa Kourin (Japan)](../../Regions/Japan/T-3116G/01/README.md)
 - [Samurai Spirits - Zankurou Musouken (Japan)](../../Regions/Japan/T-3104G/01/README.md)
-- [Sangokushi Eiketsuden (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
-- [Sangokushi IV (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
+- [Sangokushi Eiketsuden (Japan)](../../Regions/Japan/T-7613G/01/README.md) - TODO
+- [Sangokushi Koumeiden (Japan)](../../Regions/Japan/T-7629G/01/README.md) - TODO
+- [Sangokushi Returns (Japan)](../../Regions/Japan/T-7617G/01/README.md) - TODO
+- [Sangokushi IV (Japan)](../../Regions/Japan/T-7601G/01/README.md) - TODO
 - Sangokushi IV with Power-Up Kit (Japan) - TODO
-- [Sangokushi Koumeiden (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
-- [Sangokushi Returns (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
+- Sangokushi V (Japan) - TODO
 - Sangokushi V (Japan) (Rev A) - TODO
-- [Sangokushi V (Japan)](../../Regions/Japan/PRODUCT/01/README.md) - TODO
-- [Sanguozhi IV (Taiwan)](../../Regions/Taiwan/PRODUCT/01/README.md) - TODO
-- [Sanguozhi V (Taiwan)](../../Regions/Taiwan/PRODUCT/01/README.md) - TODO
-- [Sanguozhi Yingjiezhuan (Taiwan)](../../Regions/Taiwan/PRODUCT/01/README.md) - TODO
+- [Sanguozhi IV (Taiwan)](../../Regions/Taiwan/T-7601H-40/01/README.md) - TODO
+- [Sanguozhi V (Taiwan)](../../Regions/Taiwan/T-7606H-16/01/README.md) - TODO
+- [Sānguózhì Yīngjiéchuán (Taiwan)](../../Regions/Taiwan/T-7603H-16/01/README.md) - TODO
 - [Sankyo Fever Jikki Simulation S (Japan)](../../Regions/Japan/T-32102G/01/README.md) - TODO
 - [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../Regions/Japan/T-32103G/01/README.md) - TODO
 - [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../Regions/Japan/T-32105G/01/README.md) - TODO
