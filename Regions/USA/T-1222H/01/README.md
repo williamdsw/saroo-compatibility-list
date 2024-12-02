@@ -13,6 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+(Disc 1):
+
 - <b>Game Name:</b> STREET FIGHTER COLLECTION
 - <b>Product Number:</b> T-1222H
 - <b>Version:</b> V1.000
@@ -21,12 +23,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
 
 ### Extra Info
 
 It needs gameplay tests with others characters and difficulties.
 
+### TODO
+
+- Check if Street Fighter Collection (USA) (Disc 2) was tested
+
 ### Evidence
+
+(Disc 1):
 
 [![[Complete] SAROO 1.32 (231108) - Street Fighter Collection (USA)](https://img.youtube.com/vi/AnQANMErggE/0.jpg)](https://www.youtube.com/watch?v=AnQANMErggE)

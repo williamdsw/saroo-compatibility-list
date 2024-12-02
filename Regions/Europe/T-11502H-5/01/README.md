@@ -1,4 +1,4 @@
-# Game (Europe)
+# Swagman (Europe)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,6 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+(Retail):
+
 - <b>Game Name:</b> SWAGMAN
 - <b>Product Number:</b> T-11502H-5
 - <b>Version:</b> V1.000
@@ -21,13 +23,17 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-<!-- - Playable :white_check_mark: -->
-
-- Untested :question:
+- (Retail): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
+
+### TODO
+
+- Test Swagman (Europe) (Demo)
+- Test Swagman (Europe)
 
 ### Evidence
 

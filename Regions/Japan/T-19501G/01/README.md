@@ -1,4 +1,4 @@
-# Game (USA)
+# Shichuu Suimei Pitagraph (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> NAME
-- <b>Product Number:</b> NUMBER
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> U
-- <b>Peripheral Code:</b> J
+- <b>Game Name:</b> PITAGRAPH
+- <b>Product Number:</b> T-19501G
+- <b>Version:</b> V1.060
+- <b>Area Code:</b> J
+- <b>Peripheral Code:</b> JM
 
 ### Status
 

@@ -1,4 +1,4 @@
-# Game (Japan)
+# Sega Ages Phantasy Star Collection (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 

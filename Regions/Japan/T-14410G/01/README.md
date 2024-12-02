@@ -23,6 +23,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - (Disc 1): Playable :white_check_mark:
 - (Disc 2): Untested :question:
+- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -35,6 +36,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
+- Test Sengoku Blade - Sengoku Ace Episode II (Japan) (Demo)
 - Test Sengoku Blade - Sengoku Ace Episode II (Japan) (Disc 2) (Sengoku Kawaraban - Digital Edition)
 
 ### Evidence
