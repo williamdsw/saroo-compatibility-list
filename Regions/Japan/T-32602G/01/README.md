@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Sakura Taisen Teigeki Graph (Japan) (Disc 1): Playable :white_check_mark:
+- Sakura Taisen Teigeki Graph (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -29,9 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Sakura Taisen Teigeki Graph (Japan) (Disc 1)
-- Test Sakura Taisen Teigeki Graph (Japan) (Disc 2)
+- Fully Test Sakura Taisen Teigeki Graph (Japan) (Disc 1)
+- Fully Test Sakura Taisen Teigeki Graph (Japan) (Disc 2)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Sakura Taisen Teigeki Graph (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/7Bil5uCp1a4/0.jpg)](https://www.youtube.com/watch?v=7Bil5uCp1a4)

@@ -1,4 +1,4 @@
-# Sakura Taisen: Hanagumi Tsuushin (Japan)
+# Sakura Taisen Hanagumi Tsuushin (Japan)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -13,6 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+Sakura Taisen Hanagumi Tsuushin (Japan) (1M):
+
 - <b>Game Name:</b> SAKURA CLUB
 - <b>Product Number:</b> GS-9134
 - <b>Version:</b> V1.009
@@ -21,7 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Sakura Taisen Hanagumi Tsuushin (Japan) (1M): Playable :white_check_mark:
+- Sakura Taisen Hanagumi Tsuushin (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -29,9 +32,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Sakura Taisen: Hanagumi Tsuushin (Japan) (1M)
-- Test Sakura Taisen: Hanagumi Tsuushin (Japan) (2M)
+- Sakura Taisen Hanagumi Tsuushin (Japan) (2M)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Sakura Taisen Hanagumi Tsuushin (Japan) (1M):
+
+[![](https://img.youtube.com/vi/UnBFYm3aowE/0.jpg)](https://www.youtube.com/watch?v=UnBFYm3aowE)

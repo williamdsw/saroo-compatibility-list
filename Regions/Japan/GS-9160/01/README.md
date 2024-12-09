@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1) (Yuugi-ban):
+Sakura Taisen Jouki Radio Show (Japan) (Disc 1) (Yuugi-ban):
 
 - <b>Game Name:</b> SAKURA RAJIO
 - <b>Product Number:</b> GS-9160
@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> JM
 
-(Disc 2) (Kayou-ban):
+Sakura Taisen Jouki Radio Show (Japan) (Disc 2) (Kayou-ban):
 
 - <b>Game Name:</b> SAKURA RAJIO
 - <b>Product Number:</b> GS-9160
@@ -31,7 +31,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Sakura Taisen Jouki Radio Show (Japan) (Disc 1) (Yuugi-ban): Playable :white_check_mark:
+- Sakura Taisen Jouki Radio Show (Japan) (Disc 2) (Kayou-ban): Untested :question:
 
 ### Extra Info
 
@@ -39,9 +40,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Sakura Taisen: Jouki Radio Show (Japan) (Disc 1) (Yuugi-ban)
-- Test Sakura Taisen: Jouki Radio Show (Japan) (Disc 2) (Kayou-ban)
+- Fully Test Sakura Taisen Jouki Radio Show (Japan) (Disc 1) (Yuugi-ban)
+- Fully Test Sakura Taisen Jouki Radio Show (Japan) (Disc 2) (Kayou-ban)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Test Sakura Taisen Jouki Radio Show (Japan) (Disc 1) (Yuugi-ban):
+
+[![](https://img.youtube.com/vi/huxdJB_HduQ/0.jpg)](https://www.youtube.com/watch?v=huxdJB_HduQ)
+
+Test Sakura Taisen Jouki Radio Show (Japan) (Disc 2) (Kayou-ban):
+
+[![](https://img.youtube.com/vi/F2vSu0pIrEQ/0.jpg)](https://www.youtube.com/watch?v=F2vSu0pIrEQ)

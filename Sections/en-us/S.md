@@ -6,10 +6,10 @@
 
 - [SD Gundam G Century S (Japan)](../../Regions/Japan/T-13324G/01/README.md) - TODO
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../Regions/Japan/T-19709G/01/README.md) - TODO
-- [Sakura Taisen (Japan)](../../Regions/Japan/GS-9037/01/README.md) - TODO
-- [Sakura Taisen: Hanagumi Taisen Columns (Japan)](../../Regions/Japan/GS-9138/01/README.md) - TODO
-- [Sakura Taisen: Hanagumi Tsuushin (Japan)](../../Regions/Japan/GS-9134/01/README.md) - TODO
-- [Sakura Taisen: Jouki Radio Show (Japan)](../../Regions/Japan/GS-9160/01/README.md) - TODO
+- [Sakura Taisen (Japan)](../../Regions/Japan/GS-9037/01/README.md)
+- [Hanagumi Taisen Columns (Japan)](../../Regions/Japan/GS-9138/01/README.md)
+- [Sakura Taisen Hanagumi Tsuushin (Japan)](../../Regions/Japan/GS-9134/01/README.md)
+- [Sakura Taisen Jouki Radio Show  (Japan)](../../Regions/Japan/GS-9160/01/README.md)
 - [Sakura Taisen Teigeki Graph (Japan)](../../Regions/Japan/T-32602G/01/README.md) - TODO
 - [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../Regions/Japan/GS-9169/01/README.md) - TODO
 - [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../Regions/Japan/SKR-00468/01/README.md) - TODO
@@ -27,9 +27,9 @@
 - [Sanguozhi IV (Taiwan)](../../Regions/Taiwan/T-7601H-40/01/README.md) - TODO
 - [Sanguozhi V (Taiwan)](../../Regions/Taiwan/T-7606H-16/01/README.md) - TODO
 - [Sānguózhì Yīngjiéchuán (Taiwan)](../../Regions/Taiwan/T-7603H-16/01/README.md) - TODO
-- [Sankyo Fever Jikki Simulation S (Japan)](../../Regions/Japan/T-32102G/01/README.md) - TODO
-- [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../Regions/Japan/T-32103G/01/README.md) - TODO
-- [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../Regions/Japan/T-32105G/01/README.md) - TODO
+- [Sankyo Fever Jikki Simulation S (Japan)](../../Regions/Japan/T-32102G/01/README.md)
+- [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../Regions/Japan/T-32103G/01/README.md)
+- [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../Regions/Japan/T-32105G/01/README.md)
 - [SatMag Sono CD (Japan)](../../Regions/Japan/6106833/01/README.md) - TODO
 - Saturn Bomberman (Europe) - TODO
 - Saturn Bomberman (Japan) (Demo) - TODO
@@ -323,14 +323,13 @@
 - Super Puzzle Fighter II Turbo (Europe) - TODO
 - [Super Puzzle Fighter II Turbo (USA)](../../Regions/USA/T-1215H/01/README.md)
 - Super Puzzle Fighter II X (Japan) - TODO
-- [Super Real Mahjong Graffiti (Japan) (2M)](../../Regions/Japan/T-16504G/01/README.md) - TODO
+- [Super Real Mahjong Graffiti (Japan)](../../Regions/Japan/T-16504G/01/README.md)
 - Super Real Mahjong Graffiti (Japan) (P's Club Special Edition) (2M) - TODO
-- Super Real Mahjong P.V (Japan) (2M) - TODO
-- [Super Real Mahjong P.V (Japan) (2M)](../../Regions/Japan/T-16501G/01/README.md) - TODO
-- [Super Real Mahjong P7 (Japan) (3M)](../../Regions/Japan/T-16509G/01/README.md) - TODO
+- [Super Real Mahjong PV (Japan)](../../Regions/Japan/T-16501G/01/README.md)
+- [Super Real Mahjong P7 (Japan)](../../Regions/Japan/T-16509G/01/README.md) - TODO
 - Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO
-- Super Real Mahjong PVI (Japan) (P's Club Special Edition) - TODO
-- [Super Real Mahjong PVI (Japan)](../../Regions/Japan/T-16507G/01/README.md) - TODO
+- Super Real Mahjong P VI (Japan) (P's Club Special Edition) - TODO
+- [Super Real Mahjong P VI (Japan)](../../Regions/Japan/T-16507G/01/README.md)
 - Super Robot Taisen F (Japan) (Demo) - TODO
 - Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M) - TODO
 - Super Robot Taisen F (Japan) (Rev B) (21M) - TODO
