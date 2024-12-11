@@ -236,11 +236,11 @@
 - Sonic R (USA, Brazil) - TODO
 - [Sonic Wings Special (Japan)](../../Regions/Japan/T-26402G/01/README.md)
 - [Sorvice (Japan)](../../Regions/Japan/T-16609G/01/README.md) - TODO
-- [Sotsugyou S (Japan)](../../Regions/Japan/T-20103G/01/README.md) - TODO
-- [Sotsugyou Album (Japan)](../../Regions/Japan/T-10504G/01/README.md) - TODO
-- [Sotsugyou Crossworld (Japan)](../../Regions/Japan/T-10503G/01/README.md) - TODO
-- [Sotsugyou II Neo Generation (Japan)](../../Regions/Japan/T-5301G/01/README.md) - TODO
-- [Sotsugyou III Wedding Bell (Japan)](../../Regions/Japan/T-10505G/01/README.md) - TODO
+- [Sotsugyou S (Japan)](../../Regions/Japan/T-20103G/01/README.md)
+- [Sotsugyou Album (Japan)](../../Regions/Japan/T-10504G/01/README.md)
+- [Sotsugyou Crossworld (Japan)](../../Regions/Japan/T-10503G/01/README.md)
+- [Sotsugyou II Neo Generation (Japan)](../../Regions/Japan/T-5301G/01/README.md)
+- [Sotsugyou III Wedding Bell (Japan)](../../Regions/Japan/T-10505G/01/README.md)
 - [Soukuu no Tsubasa: Gotha World (Japan)](../../Regions/Japan/T-2205G/01/README.md) - TODO
 - Soukyuu Gurentai (Japan) (Rev A) - TODO
 - Soukyuu Gurentai (Japan) - TODO
