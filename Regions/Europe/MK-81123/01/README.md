@@ -1,4 +1,4 @@
-# Sega Worldwide Soccer '98 Club Edition (Europe)
+# Sega Worldwide Soccer 98: Club Edition (Europe)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
@@ -21,7 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Sega Worldwide Soccer '98 - Club Edition (Europe): Playable :white_check_mark:
+- Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev A): Untested :question:
+- Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev B): Untested :question:
 
 ### Extra Info
 
@@ -29,10 +31,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Sega Worldwide Soccer '98 - Club Edition (Europe)
 - Test Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev A)
 - Test Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev B)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Sega Worldwide Soccer '98 - Club Edition (Europe):
+
+[![](https://img.youtube.com/vi/7VPYw_m4I38/0.jpg)](https://www.youtube.com/watch?v=7VPYw_m4I38)

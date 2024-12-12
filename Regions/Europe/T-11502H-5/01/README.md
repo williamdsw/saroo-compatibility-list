@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Retail):
+Swagman (Europe):
 
 - <b>Game Name:</b> SWAGMAN
 - <b>Product Number:</b> T-11502H-5
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail): Untested :question:
-- (Demo): Untested :question:
+- Swagman (Europe): Playable :white_check_mark:
+- Swagman (Europe) (Demo): Untested :question:
 
 ### Extra Info
 
@@ -33,8 +33,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Test Swagman (Europe) (Demo)
-- Test Swagman (Europe)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Swagman (Europe):
+
+[![](https://img.youtube.com/vi/XtqDCtaI-aw/0.jpg)](https://www.youtube.com/watch?v=XtqDCtaI-aw)

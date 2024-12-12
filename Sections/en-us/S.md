@@ -63,7 +63,7 @@
 - Scorcher (Europe) - TODO
 - [Scorcher (USA) (RE)](../../Regions/USA/MK-81214/01/README.md) - TODO
 - [Scud: The Disposable Assassin (USA)](../../Regions/USA/T-30403H/01/README.md) - TODO
-- [Sea Bass Fishing (Europe)](../../Regions/Europe/T-6009H-50/01/README.md) - TODO
+- [Sea Bass Fishing (Europe)](../../Regions/Europe/T-6009H-50/01/README.md)
 - SeaBass Fishing (Japan) - TODO
 - [SeaBass Fishing 2 (Japan)](../../Regions/Japan/T-6011G/01/README.md) - TODO
 - [Sega Ages After Burner II (Japan)](../../Regions/Japan/GS-9109/01/README.md) - TODO
@@ -107,7 +107,7 @@
 - Sega Touring Car Championship (Japan) - TODO
 - [Sega Worldwide Soccer '97 (USA)](../../Regions/USA/MK-81112/01/README.md) - TODO
 - [Sega Worldwide Soccer 98 (Japan)](../../Regions/Japan/GS-9187/01/README.md) - TODO
-- [Sega Worldwide Soccer 98 - Club Edition (Europe)](../../Regions/Europe/MK-81123/01/README.md) - TODO
+- [Sega Worldwide Soccer 98: Club Edition (Europe)](../../Regions/Europe/MK-81123/01/README.md)
 - Sega Worldwide Soccer 97 (Europe) (Alt) - TODO
 - Sega Worldwide Soccer 97 (Europe) - TODO
 - SegaColle Sega Bible Mogitate SegaSaturn Soukan-gou (Japan) - TODO
@@ -305,7 +305,7 @@
 - Street Fighter Zero 2 (Japan) - TODO
 - [Street Fighter Zero 2' - Dash (Japan)](../../Regions/Japan/T-1244G/01/README.md)
 - [Street Fighter Zero 3 (Japan)](../../Regions/Japan/T-1246G/01/README.md)
-- [Street Racer (Europe)](../../Regions/Europe/T-17702H/01/README.md) - TODO
+- [Street Racer (Europe)](../../Regions/Europe/T-17702H/01/README.md)
 - Street Racer Extra (Japan) - TODO
 - Striker 96 (Europe) - TODO
 - Striker 96 (Japan) - TODO
@@ -335,7 +335,7 @@
 - Super Robot Taisen F (Japan) (Rev B) (21M) - TODO
 - [Super Robot Taisen F Kanketsuhen (Japan)](../../Regions/Japan/T-20612G/01/README.md)
 - [Super Tempo (Japan)](../../Regions/Japan/T-26413G/01/README.md) - TODO
-- [Swagman (Europe)](../../Regions/Europe/T-11502H-5/01/README.md) - TODO
+- [Swagman (Europe)](../../Regions/Europe/T-11502H-5/01/README.md)
 - [Sword & Sorcery (Japan)](../../Regions/Japan/T-5202G/01/README.md) - TODO
 - [System-Disc (KD02) Columbia (Japan)](../../Regions/Japan/SEGASYSTEM/01/README.md) - TODO
 
