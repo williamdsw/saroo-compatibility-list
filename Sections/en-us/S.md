@@ -9,7 +9,7 @@
 - [Sakura Taisen (Japan)](../../Regions/Japan/GS-9037/01/README.md)
 - [Hanagumi Taisen Columns (Japan)](../../Regions/Japan/GS-9138/01/README.md)
 - [Sakura Taisen Hanagumi Tsuushin (Japan)](../../Regions/Japan/GS-9134/01/README.md)
-- [Sakura Taisen Jouki Radio Show  (Japan)](../../Regions/Japan/GS-9160/01/README.md)
+- [Sakura Taisen Jouki Radio Show (Japan)](../../Regions/Japan/GS-9160/01/README.md)
 - [Sakura Taisen Teigeki Graph (Japan)](../../Regions/Japan/T-32602G/01/README.md) - TODO
 - [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../Regions/Japan/GS-9169/01/README.md) - TODO
 - [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../Regions/Japan/SKR-00468/01/README.md) - TODO
@@ -62,7 +62,7 @@
 - [Savaki (Japan) (2M)](../../Regions/Japan/T-5208G/01/README.md) - TODO
 - Scorcher (Europe) - TODO
 - [Scorcher (USA) (RE)](../../Regions/USA/MK-81214/01/README.md) - TODO
-- [Scud: The Disposable Assassin (USA)](../../Regions/USA/T-30403H/01/README.md) - TODO
+- [Scud: The Disposable Assassin (USA)](../../Regions/USA/T-30403H/01/README.md)
 - [Sea Bass Fishing (Europe)](../../Regions/Europe/T-6009H-50/01/README.md)
 - SeaBass Fishing (Japan) - TODO
 - [SeaBass Fishing 2 (Japan)](../../Regions/Japan/T-6011G/01/README.md) - TODO
@@ -79,8 +79,8 @@
 - [Sega Ages Rouka ni Ichidant-R (Japan)](../../Regions/Japan/GS-9043/01/README.md) - TODO
 - [Sega Ages Shukudai ga Tanto R (Japan)](../../Regions/Japan/GS-9042/01/README.md) - TODO
 - [Sega Ages Space Harrier (Japan)](../../Regions/Japan/GS-9108/01/README.md) - TODO
-- Sega Ages Volume 1 (Europe) - TODO
-- [Sega Ages Volume 1 (USA)](../../Regions/USA/T-12707H/01/README.md) - TODO
+- Sega Ages: Volume 1 (Europe) - TODO
+- [Sega Ages: Volume 1 (USA)](../../Regions/USA/T-12707H/01/README.md)
 - Sega Flash Vol. 1 (Europe) - TODO
 - Sega Flash Vol. 2 (Europe) - TODO
 - Sega Flash Vol. 3 (Europe) (Rev A) - TODO
@@ -101,11 +101,11 @@
 - [Sega Saturn Bootleg II: On the Road (USA)](../../Regions/USA/MK-81068/01/README.md) - TODO
 - [Sega Saturn Choice Cuts (USA)](../../Regions/USA/81600/01/README.md) - TODO
 - [Sega Saturn de Hakken!! Tamagotchi Park (Japan)](../../Regions/Japan/T-13325G/01/README.md) - TODO
-- [Sega Screams Volume 2 (USA)](../../Regions/USA/MK-81077/01/README.md) - TODO
+- [Sega Screams Volume 2 (USA)](../../Regions/USA/MK-81077/01/README.md)
 - Sega Touring Car Championship (Europe) - TODO
 - Sega Touring Car Championship (Japan) (Demo) - TODO
 - Sega Touring Car Championship (Japan) - TODO
-- [Sega Worldwide Soccer '97 (USA)](../../Regions/USA/MK-81112/01/README.md) - TODO
+- [Sega Worldwide Soccer '97 (USA)](../../Regions/USA/MK-81112/01/README.md)
 - [Sega Worldwide Soccer 98 (Japan)](../../Regions/Japan/GS-9187/01/README.md) - TODO
 - [Sega Worldwide Soccer 98: Club Edition (Europe)](../../Regions/Europe/MK-81123/01/README.md)
 - Sega Worldwide Soccer 97 (Europe) (Alt) - TODO
@@ -136,7 +136,7 @@
 - [Shadows of the Tusk (Japan)](../../Regions/Japan/T-14319G/01/README.md) - TODO
 - [Shanghai: Banri no Choujou (Japan)](../../Regions/Japan/T-1505G/01/README.md) - TODO
 - [Shanghai: Great Moments (Japan)](../../Regions/Japan/T-1512G/01/README.md) - TODO
-- [Shanghai: Triple-Threat (USA)](../../Regions/USA/T-13001/01/README.md) - TODO
+- [Shanghai: Triple-Threat (USA)](../../Regions/USA/T-13001/01/README.md)
 - [She'sn (Japan)](../../Regions/Japan/T-19717G/01/README.md) - TODO
 - Shellshock (Europe) - TODO
 - Shellshock (France) - TODO
@@ -172,11 +172,11 @@
 - Shining Wisdom (Japan) (Rev A) - TODO
 - Shining Wisdom (Japan) - TODO
 - Shining Wisdom (USA) (Beta) - TODO
-- [Shining Wisdom (USA)](../../Regions/USA/T-12702H/01/README.md) - TODO
+- [Shining Wisdom (USA)](../../Regions/USA/T-12702H/01/README.md)
 - Shining the Holy Ark (Europe) - TODO
 - Shining the Holy Ark (Japan) (1M) - TODO
 - Shining the Holy Ark (Japan) (3M) - TODO
-- [Shining the Holy Ark (USA)](../../Regions/USA/MK-81306/01/README.md) - TODO
+- [Shining the Holy Ark (USA)](../../Regions/USA/MK-81306/01/README.md)
 - [Shinobi Legions (USA)](../../Regions/USA/T-2301H/01/README.md)
 - Shinobi-X - Shin Shinobi Den (Europe) - TODO
 - [Shinouken (Japan)](../../Regions/Japan/T-3113G/01/README.md) - TODO
@@ -187,7 +187,7 @@
 - [Shippuu Mahou Daisakusen (Japan)](../../Regions/Japan/T-18506G/01/README.md) - TODO
 - [Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan)](../../Regions/Japan/T-14322G/01/README.md) - TODO
 - Shockwave Assault (Europe) - TODO
-- [Shockwave Assault (USA)](../../Regions/USA/T-5005H/01/README.md) - TODO
+- [Shockwave Assault (USA)](../../Regions/USA/T-5005H/01/README.md)
 - [Shougi Matsuri (Japan)](../../Regions/Japan/T-16502G/01/README.md) - TODO
 - [Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan)](../../Regions/Japan/GS-9182/01/README.md) - TODO
 - [Shouryuu Sangoku Engi (Japan)](../../Regions/Japan/T-15009G/01/README.md) - TODO
@@ -200,9 +200,9 @@
 - Silhouette Mirage (Japan) (Demo) - TODO
 - Silhouette Mirage (Japan) (Rev A) - TODO
 - Silhouette Mirage (Japan) - TODO
-- Sim City 2000 (Europe) - TODO
-- Sim City 2000 (Japan) (Rev A) - TODO
-- [Sim City 2000 (USA)](../../Regions/USA/T-12601H/01/README.md) - TODO
+- SimCity 2000 (Europe) - TODO
+- SimCity 2000 (Japan) (Rev A) - TODO
+- [SimCity 2000 (USA)](../../Regions/USA/T-12601H/01/README.md)
 - [Simulation RPG Tsukuru (Japan)](../../Regions/Japan/T-2106G/01/README.md) - TODO
 - [Simulation Zoo (Japan)](../../Regions/Japan/T-18611G/01/README.md) - TODO
 - Skeleton Warriors (Europe) - TODO
@@ -210,17 +210,17 @@
 - [Skull Fang: Kuuga Gaiden (Japan)](../../Regions/Japan/T-1311G/01/README.md) - TODO
 - Sky Target (Europe) - TODO
 - Sky Target (Japan) - TODO
-- [Sky Target (USA)](../../Regions/USA/MK-81051/01/README.md) - TODO
-- Slam 'n Jam '96 featuring Magic & Kareem (Japan) - TODO
-- Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (Europe) - TODO
-- [Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition (USA)](../../Regions/USA/T-159028H/01/README.md) - TODO
+- [Sky Target (USA)](../../Regions/USA/MK-81051/01/README.md)
+- Slam 'n Jam '96 Featuring Magic & Kareem (Japan) - TODO
+- Slam 'n Jam '96 Featuring Magic & Kareem (Europe) - TODO
+- [Slam 'n Jam '96 Featuring Magic & Kareem (USA)](../../Regions/USA/T-159028H/01/README.md)
 - [Slayers Royal (Japan)](../../Regions/Japan/T-27903G/01/README.md) - TODO
 - [Slayers Royal 2 (Japan)](../../Regions/Japan/T-27907G/01/README.md) - TODO
 - [Snatcher (Japan)](../../Regions/Japan/T-9508G/01/README.md) - TODO
 - [Söldnerschild (Japan)](../../Regions/Japan/GS-9155/01/README.md) - TODO
 - [Sokkou Seitokai (Japan)](../../Regions/Japan/T-20611G/01/README.md) - TODO
 - [Sol Divide (Japan)](../../Regions/Japan/T-14423G/01/README.md)
-- [Solar Eclipse (USA)](../../Regions/USA/T-15911H/01/README.md) - TODO
+- [Solar Eclipse (USA)](../../Regions/USA/T-15911H/01/README.md)
 - [Solo Crisis (Japan)](../../Regions/Japan/T-23501G/01/README.md) - TODO
 - Sonic 3D - Flickies' Island (Europe) - TODO
 - Sonic 3D - Flickies' Island (Japan) - TODO
@@ -228,7 +228,7 @@
 - Sonic Jam (Europe) - TODO
 - Sonic Jam (Japan) (Rev A) - TODO
 - Sonic Jam (Japan) - TODO
-- [Sonic Jam (USA)](../../Regions/USA/MK-81079/01/README.md) - TODO
+- [Sonic Jam (USA)](../../Regions/USA/MK-81079/01/README.md)
 - Sonic R (Europe) - TODO
 - Sonic R (Japan) (1M) - TODO
 - Sonic R (Japan) (2M) - TODO
@@ -264,13 +264,13 @@
 - Special Disc with SegaSaturn Internet 2 (Japan) - TODO
 - Spot Goes to Hollywood (Europe) - TODO
 - Spot Goes to Hollywood (Japan) - TODO
-- [Spot Goes to Hollywood (USA)](../../Regions/USA/T-7001H/01/README.md) - TODO
+- [Spot Goes to Hollywood (USA)](../../Regions/USA/T-7001H/01/README.md)
 - [Stakes Winner: GI Kanzen Seiha Heno Michi (Japan)](../../Regions/Japan/T-3107G/01/README.md) - TODO
 - [Stakes Winner 2: Saikyouba Densetsu (Japan)](../../Regions/Japan/T-3115G/01/README.md) - TODO
 - [Standby Say You! (Japan)](../../Regions/Japan/T-4309G/01/README.md) - TODO
 - [The Star Bowling (Japan)](../../Regions/Japan/T-21804G/01/README.md) - TODO
 - [The Star Bowling Vol. 2 (Japan)](../../Regions/Japan/T-21805G/01/README.md) - TODO
-- [Star Fighter (USA)](../../Regions/USA/T-8135H/01/README.md) - TODO
+- [Star Fighter (USA)](../../Regions/USA/T-8135H/01/README.md)
 - StarFighter 3000 (Europe) - TODO
 - StarFighter 3000 (Japan) - TODO
 - [Steam-Heart's (Japan)](../../Regions/Japan/T-32502G/01/README.md) - TODO
@@ -278,7 +278,7 @@
 - Steep Slope Sliders (Europe) - TODO
 - Steep Slope Sliders (Japan) (Demo) - TODO
 - Steep Slope Sliders (Japan) - TODO
-- [Steep Slope Sliders (USA)](../../Regions/USA/MK-81128/01/README.md) - TODO
+- [Steep Slope Sliders (USA)](../../Regions/USA/MK-81128/01/README.md)
 - [Stellar Assault SS (Japan)](../../Regions/Japan/T-4403G/01/README.md) - TODO
 - Story of Thor 2, The (Europe) - TODO
 - [Strahl: Himerareshi Nanatsu no Hikari (Japan)](../../Regions/Japan/T-20501G/01/README.md) - TODO
