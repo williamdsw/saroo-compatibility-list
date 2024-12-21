@@ -4,8 +4,8 @@
 
 #### 335 Games (30 Tested - 145 to be tested)
 
-- [SD Gundam G Century S (Japan)](../../Regions/Japan/T-13324G/01/README.md) - TODO
-- [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../Regions/Japan/T-19709G/01/README.md) - TODO
+- [SD Gundam G Century S (Japan)](../../Regions/Japan/T-13324G/01/README.md)
+- [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../Regions/Japan/T-19709G/01/README.md)
 - [Sakura Taisen (Japan)](../../Regions/Japan/GS-9037/01/README.md)
 - [Hanagumi Taisen Columns (Japan)](../../Regions/Japan/GS-9138/01/README.md)
 - [Sakura Taisen Hanagumi Tsuushin (Japan)](../../Regions/Japan/GS-9134/01/README.md)
@@ -13,7 +13,7 @@
 - [Sakura Taisen Teigeki Graph (Japan)](../../Regions/Japan/T-32602G/01/README.md) - TODO
 - [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../Regions/Japan/GS-9169/01/README.md) - TODO
 - [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../Regions/Japan/SKR-00468/01/README.md) - TODO
-- [Sakura Tsuushin (Japan)](../../Regions/Japan/T-38401G/01/README.md) - TODO
+- [Sakura Tsuushin (Japan)](../../Regions/Japan/T-38401G/01/README.md)
 - [Salamander Deluxe Pack Plus (Japan)](../../Regions/Japan/T-9520G/01/README.md)
 - [Samurai Spirits - Amakusa Kourin (Japan)](../../Regions/Japan/T-3116G/01/README.md)
 - [Samurai Spirits - Zankurou Musouken (Japan)](../../Regions/Japan/T-3104G/01/README.md)
@@ -30,7 +30,7 @@
 - [Sankyo Fever Jikki Simulation S (Japan)](../../Regions/Japan/T-32102G/01/README.md)
 - [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../Regions/Japan/T-32103G/01/README.md)
 - [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../Regions/Japan/T-32105G/01/README.md)
-- [SatMag Sono CD (Japan)](../../Regions/Japan/6106833/01/README.md) - TODO
+- [SatMag Sono CD (Japan)](../../Regions/Japan/6106833/01/README.md)
 - Saturn Bomberman (Europe) - TODO
 - Saturn Bomberman (Japan) (Demo) - TODO
 - Saturn Bomberman (Japan) (SegaNet) - TODO
@@ -59,13 +59,13 @@
 - Saturn Super Vol. 7 (Japan) (2M) - TODO
 - Saturn Super Vol. 8 (Japan) - TODO
 - Saturn Super Vol. 9 Furoku CD-ROM (Japan) - TODO
-- [Savaki (Japan) (2M)](../../Regions/Japan/T-5208G/01/README.md) - TODO
+- [Savaki (Japan) (2M)](../../Regions/Japan/T-5208G/01/README.md)
 - Scorcher (Europe) - TODO
 - [Scorcher (USA) (RE)](../../Regions/USA/MK-81214/01/README.md) - TODO
 - [Scud: The Disposable Assassin (USA)](../../Regions/USA/T-30403H/01/README.md)
 - [Sea Bass Fishing (Europe)](../../Regions/Europe/T-6009H-50/01/README.md)
 - SeaBass Fishing (Japan) - TODO
-- [SeaBass Fishing 2 (Japan)](../../Regions/Japan/T-6011G/01/README.md) - TODO
+- [SeaBass Fishing 2 (Japan)](../../Regions/Japan/T-6011G/01/README.md)
 - [Sega Ages After Burner II (Japan)](../../Regions/Japan/GS-9109/01/README.md) - TODO
 - [Sega Ages Columns Arcade Collection (Japan)](../../Regions/Japan/GS-9161/01/README.md) - TODO
 - [Sega Ages Fantasy Zone (Japan)](../../Regions/Japan/GS-9136/01/README.md) - TODO
@@ -96,17 +96,17 @@
 - Sega Rally Championship (Japan) - TODO
 - Sega Rally Championship (South Korea) - TODO
 - [Sega Rally Championship (USA)](../../Regions/USA/MK-81207/01/README.md)
-- [Sega Rally Championship Plus (Japan)](../../Regions/Japan/GS-9116/01/README.md) - TODO
+- [Sega Rally Championship Plus (Japan)](../../Regions/Japan/GS-9116/01/README.md)
 - Sega Rally Championship Plus Netlink Edition (USA) - TODO
 - [Sega Saturn Bootleg II: On the Road (USA)](../../Regions/USA/MK-81068/01/README.md) - TODO
 - [Sega Saturn Choice Cuts (USA)](../../Regions/USA/81600/01/README.md) - TODO
-- [Sega Saturn de Hakken!! Tamagotchi Park (Japan)](../../Regions/Japan/T-13325G/01/README.md) - TODO
+- [Sega Saturn de Hakken!! Tamagotchi Park (Japan)](../../Regions/Japan/T-13325G/01/README.md)
 - [Sega Screams Volume 2 (USA)](../../Regions/USA/MK-81077/01/README.md)
 - Sega Touring Car Championship (Europe) - TODO
 - Sega Touring Car Championship (Japan) (Demo) - TODO
 - Sega Touring Car Championship (Japan) - TODO
 - [Sega Worldwide Soccer '97 (USA)](../../Regions/USA/MK-81112/01/README.md)
-- [Sega Worldwide Soccer 98 (Japan)](../../Regions/Japan/GS-9187/01/README.md) - TODO
+- [Sega Worldwide Soccer 98 (Japan)](../../Regions/Japan/GS-9187/01/README.md)
 - [Sega Worldwide Soccer 98: Club Edition (Europe)](../../Regions/Europe/MK-81123/01/README.md)
 - Sega Worldwide Soccer 97 (Europe) (Alt) - TODO
 - Sega Worldwide Soccer 97 (Europe) - TODO
@@ -120,7 +120,7 @@
 - SegaSaturn Internet Vol. 1 (Japan) - TODO
 - SegaSaturn Photo CD Operator (Japan) (Rev A) - TODO
 - SegaSaturn Photo CD Operator (Japan) - TODO
-- [Segata Sanshirou - Shinken Yuugi (Japan)](../../Regions/Japan/GS-9204/01/README.md) - TODO
+- [Segata Sanshirou - Shinken Yuugi (Japan)](../../Regions/Japan/GS-9204/01/README.md)
 - [Seifuku Densetsu Pretty Fighter X (Japan)](../../Regions/Japan/T-15001G/01/README.md) - TODO
 - [Seikai Risshiden: Yoi Kuni Yoi Seiji (Japan)](../../Regions/Japan/T-18005G/01/README.md) - TODO
 - [Seireki 1999 ~Pharaoh no Fukkatsu~ (Japan)](../../Regions/Japan/T-18001G/01/README.md) - TODO
