@@ -31,7 +31,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Disc) (Rev A) (10M): Untested :question:
+- (Disc 1) (Game Disc) (Rev A) (10M): Playable :white_check_mark:
 - (Disc 1) (Game Disc) (Rev B) (21M): Untested :question:
 - (Disc 2) (Omake Disc): Untested :question:
 
@@ -47,4 +47,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Disc 1) (Game Disc) (Rev A) (10M):
+
+[![](https://img.youtube.com/vi/Pg10zVC3svI/0.jpg)](https://www.youtube.com/watch?v=Pg10zVC3svI)

@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Shanghai: Banri no Choujou (Japan) (1M): Playable :white_check_mark:
+- Shanghai: Banri no Choujou (Japan) (Rev A) (15M): Untested :question:
 
 ### Extra Info
 
@@ -29,9 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Shanghai: Banri no Choujou (Japan) (1M)
 - Test Shanghai: Banri no Choujou (Japan) (Rev A) (15M)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Shanghai: Banri no Choujou (Japan) (1M):
+
+[![](https://img.youtube.com/vi/OFVIbo3Spe4/0.jpg)](https://www.youtube.com/watch?v=OFVIbo3Spe4)

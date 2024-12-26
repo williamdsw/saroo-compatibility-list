@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Made in U.S.A.):
+Shinseiki Evangelion: 2nd Impression (Japan) (Made in U.S.A.):
 
 - <b>Game Name:</b> EVANGELION2
 - <b>Product Number:</b> GS-9129
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Made in Japan): Untested :question:
-- (Made in U.S.A.): Untested :question:
+- Shinseiki Evangelion: 2nd Impression (Japan) (Made in Japan): Untested :question:
+- Shinseiki Evangelion: 2nd Impression (Japan) (Made in U.S.A.): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/KT6rKXBuHQA/0.jpg)](https://www.youtube.com/watch?v=KT6rKXBuHQA)

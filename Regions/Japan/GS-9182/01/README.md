@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1):
+Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1):
 
 - <b>Game Name:</b> SYOUJYOKAKUMEI UTENA ITUKAKAKUMEISURUMONOGATARI
 - <b>Product Number:</b> GS-9182
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Untested :question:
-- (Disc 2): Untested :question:
+- Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1): Playable :white_check_mark:
+- Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -32,9 +32,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1)
-- Test Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2)
+- Fully Test Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1)
+- Fully Test Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/Vv4HNuuVBDo/0.jpg)](https://www.youtube.com/watch?v=Vv4HNuuVBDo)

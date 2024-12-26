@@ -122,41 +122,41 @@
 - SegaSaturn Photo CD Operator (Japan) - TODO
 - [Segata Sanshirou - Shinken Yuugi (Japan)](../../Regions/Japan/GS-9204/01/README.md)
 - [Seifuku Densetsu Pretty Fighter X (Japan)](../../Regions/Japan/T-15001G/01/README.md) - TODO
-- [Seikai Risshiden: Yoi Kuni Yoi Seiji (Japan)](../../Regions/Japan/T-18005G/01/README.md) - TODO
-- [Seireki 1999 ~Pharaoh no Fukkatsu~ (Japan)](../../Regions/Japan/T-18001G/01/README.md) - TODO
-- [Sekai no Shasou kara I Swiss-hen: Alps Tozantetsudou no Tabi (Japan)](../../Regions/Japan/T-32201G/01/README.md) - TODO
+- [Seikai Risshiden: Yoi Kuni Yoi Seiji (Japan)](../../Regions/Japan/T-18005G/01/README.md)
+- [Seireki 1999 ~Pharaoh no Fukkatsu~ (Japan)](../../Regions/Japan/T-18001G/01/README.md)
+- [Sekai no Shasou kara I Swiss-hen: Alps Tozantetsudou no Tabi (Japan)](../../Regions/Japan/T-32201G/01/README.md)
 - [Sengoku Blade - Sengoku Ace Episode II (Japan)](../../Regions/Japan/T-14410G/01/README.md)
-- [Senken Kigyouden (Japan)](../../Regions/Japan/T-37401G/01/README.md) - TODO
-- [Senkutsu Katsuryuu Taisen Chaos Seed (Japan)](../../Regions/Japan/T-30902G/01/README.md) - TODO
-- [Senryaku Shougi (Japan)](../../Regions/Japan/T-10604G/01/README.md) - TODO
-- [Sentimental Graffiti (Japan)](../../Regions/Japan/T-20106G/01/README.md) - TODO
-- [Sentimental Graffiti: First Window (Japan)](../../Regions/Japan/T-20111G/01/README.md) - TODO
-- [Sento Monogatari Sono I (Japan)](../../Regions/Japan/T-6801G/01/README.md) - TODO
+- [Senken Kigyouden (Japan)](../../Regions/Japan/T-37401G/01/README.md)
+- [Senkutsu Katsuryuu Taisen Chaos Seed (Japan)](../../Regions/Japan/T-30902G/01/README.md)
+- [Senryaku Shougi (Japan)](../../Regions/Japan/T-10604G/01/README.md)
+- [Sentimental Graffiti (Japan)](../../Regions/Japan/T-20106G/01/README.md)
+- [Sentimental Graffiti: First Window (Japan)](../../Regions/Japan/T-20111G/01/README.md)
+- [Sento Monogatari Sono I (Japan)](../../Regions/Japan/T-6801G/01/README.md)
 - [Sexy Parodius (Japan)](../../Regions/Japan/T-9514G/01/README.md)
-- [Shadows of the Tusk (Japan)](../../Regions/Japan/T-14319G/01/README.md) - TODO
-- [Shanghai: Banri no Choujou (Japan)](../../Regions/Japan/T-1505G/01/README.md) - TODO
-- [Shanghai: Great Moments (Japan)](../../Regions/Japan/T-1512G/01/README.md) - TODO
+- [Shadows of the Tusk (Japan)](../../Regions/Japan/T-14319G/01/README.md)
+- [Shanghai: Banri no Choujou (Japan)](../../Regions/Japan/T-1505G/01/README.md)
+- [Shanghai: Great Moments (Japan)](../../Regions/Japan/T-1512G/01/README.md)
 - [Shanghai: Triple-Threat (USA)](../../Regions/USA/T-13001/01/README.md)
-- [She'sn (Japan)](../../Regions/Japan/T-19717G/01/README.md) - TODO
+- [She'sn (Japan)](../../Regions/Japan/T-19717G/01/README.md)
 - Shellshock (Europe) - TODO
 - Shellshock (France) - TODO
 - Shellshock (Germany) - TODO
 - [Shellshock (USA)](../../Regions/USA/T-7901H/01/README.md) - TODO
 - Shellshock - Jus' Keepin' da Peace (Japan) - TODO
-- [Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen (Japan)](../../Regions/Japan/T-1242G/01/README.md) - TODO
+- [Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen (Japan)](../../Regions/Japan/T-1242G/01/README.md)
 - [Shichuu Suimei Pitagraph (Japan)](../../Regions/Japan/T-19501G/01/README.md) - TODO
 - [Shienryuu (Japan)](../../Regions/Japan/T-29102G/01/README.md)
-- [Shin Kaitei Gunkan: Koutetsu no Kodoku (Japan)](../../Regions/Japan/T-2105G/01/README.md) - TODO
+- [Shin Kaitei Gunkan: Koutetsu no Kodoku (Japan)](../../Regions/Japan/T-2105G/01/README.md)
 - [Shin Megami Tensei: Devil Summoner (Japan)](../../Regions/Japan/T-14403G/01/README.md) - TODO
-- [Shin Megami Tensei Devil Summoner: Akuma Zensho (Japan)](../../Regions/Japan/T-14406G/01/README.md) - TODO
-- [Shinseiki Evangelion (Japan)](../../Regions/Japan/GS-9051/01/README.md) - TODO
-- [Shinseiki Evangelion: 2nd Impression (Japan)](../../Regions/Japan/GS-9129/01/README.md) - TODO
+- [Shin Megami Tensei Devil Summoner: Akuma Zensho (Japan)](../../Regions/Japan/T-14406G/01/README.md)
+- [Shinseiki Evangelion (Japan)](../../Regions/Japan/GS-9051/01/README.md)
+- [Shinseiki Evangelion: 2nd Impression (Japan)](../../Regions/Japan/GS-9129/01/README.md)
 - [Shinseiki Evangelion: Digital Card Library (Japan)](../../Regions/Japan/GS-9159/01/README.md)
-- [Shinseiki Evangelion: Eva to Yukai na Nakamatachi (Japan)](../../Regions/Japan/T-35103G/01/README.md) - TODO
+- [Shinseiki Evangelion: Eva to Yukai na Nakamatachi (Japan)](../../Regions/Japan/T-35103G/01/README.md)
 - [Shinseiki Evangelion: Koutetsu no Girlfriend (Japan)](../../Regions/Japan/GS-9194/01/README.md)
 - Shin Shinobiden (Japan) - TODO
-- [Shin Theme Park (Japan)](../../Regions/Japan/T-10618G/01/README.md) - TODO
-- [Shingata Kururin Pa! (Japan)](../../Regions/Japan/T-24202G/01/README.md) - TODO
+- [Shin Theme Park (Japan)](../../Regions/Japan/T-10618G/01/README.md)
+- [Shingata Kururin Pa! (Japan)](../../Regions/Japan/T-24202G/01/README.md)
 - Shining Force III (Europe) (R) - TODO
 - Shining Force III (USA) (Beta) - TODO
 - Shining Force III (USA) - TODO
@@ -180,20 +180,20 @@
 - [Shinobi Legions (USA)](../../Regions/USA/T-2301H/01/README.md)
 - Shinobi-X - Shin Shinobi Den (Europe) - TODO
 - [Shinouken (Japan)](../../Regions/Japan/T-3113G/01/README.md) - TODO
-- [Shinpi no Sekai El-Hazard (Japan)](../../Regions/Japan/T-22202G/01/README.md) - TODO
+- [Shinpi no Sekai El-Hazard (Japan)](../../Regions/Japan/T-22202G/01/README.md)
 - [Shinrei Jusatsushi Taroumaru (Japan)](../../Regions/Japan/T-4804G/01/README.md)
-- [Shinsetsu Samurai Spirits Bushidou Retsuden (Japan)](../../Regions/Japan/T-3112G/01/README.md) - TODO
+- [Shinsetsu Samurai Spirits Bushidou Retsuden (Japan)](../../Regions/Japan/T-3112G/01/README.md)
 - [Shinsetsu Yumemi Yakata: Tobira no Oku ni Dareka ga... (Japan)](../../Regions/Japan/GS-9005/01/README.md) - TODO
 - [Shippuu Mahou Daisakusen (Japan)](../../Regions/Japan/T-18506G/01/README.md) - TODO
 - [Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan)](../../Regions/Japan/T-14322G/01/README.md) - TODO
 - Shockwave Assault (Europe) - TODO
 - [Shockwave Assault (USA)](../../Regions/USA/T-5005H/01/README.md)
-- [Shougi Matsuri (Japan)](../../Regions/Japan/T-16502G/01/README.md) - TODO
-- [Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan)](../../Regions/Japan/GS-9182/01/README.md) - TODO
-- [Shouryuu Sangoku Engi (Japan)](../../Regions/Japan/T-15009G/01/README.md) - TODO
-- [Shunsai: Keiba Data Stable (Japan)](../../Regions/Japan/T-18703G/01/README.md) - TODO
-- [Shusse Mahjong Daisettai (Japan)](../../Regions/Japan/T-24902G/01/README.md) - TODO
-- [Shutsudou! Miniskirt Police (Japan)](../../Regions/Japan/T-30812G/01/README.md) - TODO
+- [Shougi Matsuri (Japan)](../../Regions/Japan/T-16502G/01/README.md)
+- [Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan)](../../Regions/Japan/GS-9182/01/README.md)
+- [Shouryuu Sangoku Engi (Japan)](../../Regions/Japan/T-15009G/01/README.md)
+- [Shunsai: Keiba Data Stable (Japan)](../../Regions/Japan/T-18703G/01/README.md)
+- [Shusse Mahjong Daisettai (Japan)](../../Regions/Japan/T-24902G/01/README.md)
+- [Shutsudou! Miniskirt Police (Japan)](../../Regions/Japan/T-30812G/01/README.md)
 - [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../Regions/Japan/T-2003G/01/README.md) - TODO
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
 - [Side Pocket 3 (Japan)](../../Regions/Japan/T-1314G/01/README.md)
@@ -207,7 +207,7 @@
 - [Simulation Zoo (Japan)](../../Regions/Japan/T-18611G/01/README.md) - TODO
 - Skeleton Warriors (Europe) - TODO
 - [Skeleton Warriors (USA)](../../Regions/USA/T-13204H/01/README.md)
-- [Skull Fang: Kuuga Gaiden (Japan)](../../Regions/Japan/T-1311G/01/README.md) - TODO
+- [Skull Fang: Kuuga Gaiden (Japan)](../../Regions/Japan/T-1311G/01/README.md)
 - Sky Target (Europe) - TODO
 - Sky Target (Japan) - TODO
 - [Sky Target (USA)](../../Regions/USA/MK-81051/01/README.md)

@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Shanghai: Great Moments (Japan) (1M): Playable :white_check_mark:
+- Shanghai: Great Moments (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -29,9 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Shanghai: Great Moments (Japan) (1M)
 - Test Shanghai: Great Moments (Japan) (2M)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Shanghai: Great Moments (Japan) (1M):
+
+[![](https://img.youtube.com/vi/kMaE5NVhxL8/0.jpg)](https://www.youtube.com/watch?v=kMaE5NVhxL8)

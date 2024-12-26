@@ -23,7 +23,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Disc) (1M): Untested :question:
+- (Disc 1) (Game Disc) (1M): Playable :white_check_mark:
 - (Disc 1) (Game Disc) (2M): Untested :question:
 - (Disc 1) (Game Disc) (4M): Untested :question:
 - (Disc 1) (Game Disc) (5M): Untested :question:
@@ -47,4 +47,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+(Disc 1) (Game Disc) (1M):
+
+[![](https://img.youtube.com/vi/PhcHUB26OyA/0.jpg)](https://www.youtube.com/watch?v=PhcHUB26OyA)
