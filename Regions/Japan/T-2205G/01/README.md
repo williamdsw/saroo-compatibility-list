@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Retail) (Disc 1):
+Soukuu no Tsubasa: Gotha World (Japan) (Disc 1):
 
 - <b>Game Name:</b> SOUKUU NO TUBASA
 - <b>Product Number:</b> T-2205G
@@ -23,9 +23,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail) (Disc 1): Untested :question:
-- (Retail) (Disc 2): Untested :question:
-- (Demo): Untested :question:
+- Soukuu no Tsubasa: Gotha World (Japan) (Disc 1): Playable :white_check_mark:
+- Soukuu no Tsubasa: Gotha World (Japan) (Disc 2): Untested :question:
+- Soukuu no Tsubasa: Gotha World (Japan) (Demo): Untested :question:
 
 ### Extra Info
 
@@ -34,9 +34,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Soukuu no Tsubasa: Gotha World (Japan) (Demo)
-- Soukuu no Tsubasa: Gotha World (Japan) (Disc 1)
-- Soukuu no Tsubasa: Gotha World (Japan) (Disc 2)
+- Fully test Soukuu no Tsubasa: Gotha World (Japan) (Disc 1)
+- Fully test Soukuu no Tsubasa: Gotha World (Japan) (Disc 2)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Soukuu no Tsubasa: Gotha World (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/Ec_UokZJl_A/0.jpg)](https://www.youtube.com/watch?v=Ec_UokZJl_A)

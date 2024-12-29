@@ -194,7 +194,7 @@
 - [Shunsai: Keiba Data Stable (Japan)](../../Regions/Japan/T-18703G/01/README.md)
 - [Shusse Mahjong Daisettai (Japan)](../../Regions/Japan/T-24902G/01/README.md)
 - [Shutsudou! Miniskirt Police (Japan)](../../Regions/Japan/T-30812G/01/README.md)
-- [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../Regions/Japan/T-2003G/01/README.md) - TODO
+- [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../Regions/Japan/T-2003G/01/README.md)
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
 - [Side Pocket 3 (Japan)](../../Regions/Japan/T-1314G/01/README.md)
 - Silhouette Mirage (Japan) (Demo) - TODO
@@ -203,8 +203,8 @@
 - SimCity 2000 (Europe) - TODO
 - SimCity 2000 (Japan) (Rev A) - TODO
 - [SimCity 2000 (USA)](../../Regions/USA/T-12601H/01/README.md)
-- [Simulation RPG Tsukuru (Japan)](../../Regions/Japan/T-2106G/01/README.md) - TODO
-- [Simulation Zoo (Japan)](../../Regions/Japan/T-18611G/01/README.md) - TODO
+- [Simulation RPG Tsukuru (Japan)](../../Regions/Japan/T-2106G/01/README.md)
+- [Simulation Zoo (Japan)](../../Regions/Japan/T-18611G/01/README.md)
 - Skeleton Warriors (Europe) - TODO
 - [Skeleton Warriors (USA)](../../Regions/USA/T-13204H/01/README.md)
 - [Skull Fang: Kuuga Gaiden (Japan)](../../Regions/Japan/T-1311G/01/README.md)
@@ -214,14 +214,14 @@
 - Slam 'n Jam '96 Featuring Magic & Kareem (Japan) - TODO
 - Slam 'n Jam '96 Featuring Magic & Kareem (Europe) - TODO
 - [Slam 'n Jam '96 Featuring Magic & Kareem (USA)](../../Regions/USA/T-159028H/01/README.md)
-- [Slayers Royal (Japan)](../../Regions/Japan/T-27903G/01/README.md) - TODO
-- [Slayers Royal 2 (Japan)](../../Regions/Japan/T-27907G/01/README.md) - TODO
-- [Snatcher (Japan)](../../Regions/Japan/T-9508G/01/README.md) - TODO
-- [Söldnerschild (Japan)](../../Regions/Japan/GS-9155/01/README.md) - TODO
+- [Slayers Royal (Japan)](../../Regions/Japan/T-27903G/01/README.md)
+- [Slayers Royal 2 (Japan)](../../Regions/Japan/T-27907G/01/README.md)
+- [Snatcher (Japan)](../../Regions/Japan/T-9508G/01/README.md)
+- [Söldnerschild (Japan)](../../Regions/Japan/GS-9155/01/README.md)
 - [Sokkou Seitokai (Japan)](../../Regions/Japan/T-20611G/01/README.md) - TODO
 - [Sol Divide (Japan)](../../Regions/Japan/T-14423G/01/README.md)
 - [Solar Eclipse (USA)](../../Regions/USA/T-15911H/01/README.md)
-- [Solo Crisis (Japan)](../../Regions/Japan/T-23501G/01/README.md) - TODO
+- [Solo Crisis (Japan)](../../Regions/Japan/T-23501G/01/README.md)
 - Sonic 3D - Flickies' Island (Europe) - TODO
 - Sonic 3D - Flickies' Island (Japan) - TODO
 - Sonic 3D Blast (USA) - TODO (Recorded)
@@ -235,21 +235,21 @@
 - Sonic R (Japan) (Demo) - TODO
 - Sonic R (USA, Brazil) - TODO
 - [Sonic Wings Special (Japan)](../../Regions/Japan/T-26402G/01/README.md)
-- [Sorvice (Japan)](../../Regions/Japan/T-16609G/01/README.md) - TODO
+- [Sorvice (Japan)](../../Regions/Japan/T-16609G/01/README.md)
 - [Sotsugyou S (Japan)](../../Regions/Japan/T-20103G/01/README.md)
 - [Sotsugyou Album (Japan)](../../Regions/Japan/T-10504G/01/README.md)
 - [Sotsugyou Crossworld (Japan)](../../Regions/Japan/T-10503G/01/README.md)
 - [Sotsugyou II Neo Generation (Japan)](../../Regions/Japan/T-5301G/01/README.md)
 - [Sotsugyou III Wedding Bell (Japan)](../../Regions/Japan/T-10505G/01/README.md)
-- [Soukuu no Tsubasa: Gotha World (Japan)](../../Regions/Japan/T-2205G/01/README.md) - TODO
+- [Soukuu no Tsubasa: Gotha World (Japan)](../../Regions/Japan/T-2205G/01/README.md)
 - Soukyuu Gurentai (Japan) (Rev A) - TODO
 - Soukyuu Gurentai (Japan) - TODO
 - [Soukyugurentai Otokuyou (Japan)](../../Regions/Japan/T-10626G/01/README.md)
 - Sound Novel Machi (Japan) (Disc 1) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (2M) - TODO
-- [Sound Novel Tsukuru 2 (Japan)](../../Regions/Japan/T-2108G/01/README.md) - TODO
-- [Sound Qube (Japan)](../../Regions/Japan/T-4318G/01/README.md) - TODO
+- [Sound Novel Tsukuru 2 (Japan)](../../Regions/Japan/T-2108G/01/README.md)
+- [Sound Qube (Japan)](../../Regions/Japan/T-4318G/01/README.md)
 - Soviet Strike (Europe) - TODO
 - Soviet Strike (France) - TODO
 - Soviet Strike (Germany) - TODO
@@ -257,7 +257,7 @@
 - [Soviet Strike (USA)](../../Regions/USA/T-5013H/01/README.md)
 - Space Hulk - Vengeance of the Blood Angels (Europe) - TODO
 - [Space Hulk: Vengeance of the Blood Angels (USA)](../../Regions/USA/T-5007H/01/README.md) - TODO
-- [Space Invaders (Japan)](../../Regions/Japan/T-1107G/01/README.md) - TODO
+- [Space Invaders (Japan)](../../Regions/Japan/T-1107G/01/README.md)
 - Space Jam (Europe) - TODO
 - Space Jam (Japan) - TODO
 - Space Jam (USA) - TODO (Recorded)
@@ -265,23 +265,23 @@
 - Spot Goes to Hollywood (Europe) - TODO
 - Spot Goes to Hollywood (Japan) - TODO
 - [Spot Goes to Hollywood (USA)](../../Regions/USA/T-7001H/01/README.md)
-- [Stakes Winner: GI Kanzen Seiha Heno Michi (Japan)](../../Regions/Japan/T-3107G/01/README.md) - TODO
-- [Stakes Winner 2: Saikyouba Densetsu (Japan)](../../Regions/Japan/T-3115G/01/README.md) - TODO
-- [Standby Say You! (Japan)](../../Regions/Japan/T-4309G/01/README.md) - TODO
+- [Stakes Winner: GI Kanzen Seiha Heno Michi (Japan)](../../Regions/Japan/T-3107G/01/README.md)
+- [Stakes Winner 2: Saikyouba Densetsu (Japan)](../../Regions/Japan/T-3115G/01/README.md)
+- [Standby Say You! (Japan)](../../Regions/Japan/T-4309G/01/README.md)
 - [The Star Bowling (Japan)](../../Regions/Japan/T-21804G/01/README.md) - TODO
 - [The Star Bowling Vol. 2 (Japan)](../../Regions/Japan/T-21805G/01/README.md) - TODO
 - [Star Fighter (USA)](../../Regions/USA/T-8135H/01/README.md)
 - StarFighter 3000 (Europe) - TODO
 - StarFighter 3000 (Japan) - TODO
-- [Steam-Heart's (Japan)](../../Regions/Japan/T-32502G/01/README.md) - TODO
-- [SteamGear Mash (Japan)](../../Regions/Japan/T-10301G/01/README.md) - TODO
+- [Steam-Heart's (Japan)](../../Regions/Japan/T-32502G/01/README.md)
+- [SteamGear Mash (Japan)](../../Regions/Japan/T-10301G/01/README.md)
 - Steep Slope Sliders (Europe) - TODO
 - Steep Slope Sliders (Japan) (Demo) - TODO
 - Steep Slope Sliders (Japan) - TODO
 - [Steep Slope Sliders (USA)](../../Regions/USA/MK-81128/01/README.md)
-- [Stellar Assault SS (Japan)](../../Regions/Japan/T-4403G/01/README.md) - TODO
+- [Stellar Assault SS (Japan)](../../Regions/Japan/T-4403G/01/README.md)
 - Story of Thor 2, The (Europe) - TODO
-- [Strahl: Himerareshi Nanatsu no Hikari (Japan)](../../Regions/Japan/T-20501G/01/README.md) - TODO
+- [Strahl: Himerareshi Nanatsu no Hikari (Japan)](../../Regions/Japan/T-20501G/01/README.md)
 - Street Fighter - Real Battle on Film (Japan) (2M) - TODO
 - Street Fighter - Real Battle on Film (Japan) (3M) - TODO
 - Street Fighter - Real Battle on Film (Japan) (4M) - TODO

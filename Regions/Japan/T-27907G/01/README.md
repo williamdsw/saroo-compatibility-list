@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Playable :white_check_mark:
 
 ### Extra Info
 
@@ -29,9 +29,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Slayers Royal 2 (Japan) (1M)
 - Test Slayers Royal 2 (Japan) (2M)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Slayers Royal 2 (Japan) (1M):
+
+[![](https://img.youtube.com/vi/_c40oEbm2y8/0.jpg)](https://www.youtube.com/watch?v=_c40oEbm2y8)

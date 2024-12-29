@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- SteamGear Mash (Japan) (1M): Playable :white_check_mark:
+- SteamGear Mash (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -29,9 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- SteamGear Mash (Japan) (1M)
 - SteamGear Mash (Japan) (2M)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+SteamGear Mash (Japan) (1M):
+
+[![](https://img.youtube.com/vi/_4X0VDvJKkM/0.jpg)](https://www.youtube.com/watch?v=_4X0VDvJKkM)

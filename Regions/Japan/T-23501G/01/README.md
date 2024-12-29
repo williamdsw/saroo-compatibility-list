@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Retail) (1M):
+Solo Crisis (Japan) (1M):
 
 - <b>Game Name:</b> Solo Crisis
 - <b>Product Number:</b> T-23501G
@@ -23,9 +23,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail) (1M): Untested :question:
-- (Retail) (2M): Untested :question:
-- (Demo): Untested :question:
+- Solo Crisis (Japan) (1M): Playable :white_check_mark:
+- Solo Crisis (Japan) (2M): Untested :question:
+- Solo Crisis (Japan) (Demo): Untested :question:
 
 ### Extra Info
 
@@ -33,10 +33,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Solo Crisis (Japan) (1M)
 - Test Solo Crisis (Japan) (2M)
 - Test Solo Crisis (Japan) (Demo)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Solo Crisis (Japan) (1M):
+
+[![](https://img.youtube.com/vi/Ix9bDnS6aiU/0.jpg)](https://www.youtube.com/watch?v=Ix9bDnS6aiU)

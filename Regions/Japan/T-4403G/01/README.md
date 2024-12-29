@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Retail):
+Stellar Assault SS (Japan):
 
 - <b>Game Name:</b> STELLAR ASSAULT SS
 - <b>Product Number:</b> T-4403G
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail): Untested :question:
-- (Demo): Untested :question:
+- Stellar Assault SS (Japan): Playable :white_check_mark:
+- Stellar Assault SS (Japan) (Demo): Untested :question:
 
 ### Extra Info
 
@@ -33,8 +33,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Test Stellar Assault SS (Japan) (Demo)
-- Test Stellar Assault SS (Japan)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Stellar Assault SS (Japan):
+
+[![](https://img.youtube.com/vi/HsAxYDeOzhw/0.jpg)](https://www.youtube.com/watch?v=HsAxYDeOzhw)
