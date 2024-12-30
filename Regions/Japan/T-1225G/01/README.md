@@ -21,7 +21,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Super Adventure Rockman (Japan) (Disc 1): Playable :white_check_mark:
+- Super Adventure Rockman (Japan) (Disc 2) (1M): Untested :question:
+- Super Adventure Rockman (Japan) (Disc 2): Untested :question:
+- Super Adventure Rockman (Japan) (Disc 3) (1M): Untested :question:
+- Super Adventure Rockman (Japan) (Disc 3): Untested :question:
 
 ### Extra Info
 
@@ -29,13 +33,14 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Super Adventure Rockman (Japan) (Disc 1)
-- Test Super Adventure Rockman (Japan) (Disc 1)
-- Test Super Adventure Rockman (Japan) (Disc 2) (1M)
-- Test Super Adventure Rockman (Japan) (Disc 2)
-- Test Super Adventure Rockman (Japan) (Disc 3) (1M)
-- Test Super Adventure Rockman (Japan) (Disc 3)
+- Full Test Super Adventure Rockman (Japan) (Disc 1)
+- Full Test Super Adventure Rockman (Japan) (Disc 2) (1M)
+- Full Test Super Adventure Rockman (Japan) (Disc 2)
+- Full Test Super Adventure Rockman (Japan) (Disc 3) (1M)
+- Full Test Super Adventure Rockman (Japan) (Disc 3)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Super Adventure Rockman (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/wZhT04RMsXc/0.jpg)](https://www.youtube.com/watch?v=wZhT04RMsXc)

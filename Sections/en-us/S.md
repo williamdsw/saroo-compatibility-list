@@ -268,8 +268,8 @@
 - [Stakes Winner: GI Kanzen Seiha Heno Michi (Japan)](../../Regions/Japan/T-3107G/01/README.md)
 - [Stakes Winner 2: Saikyouba Densetsu (Japan)](../../Regions/Japan/T-3115G/01/README.md)
 - [Standby Say You! (Japan)](../../Regions/Japan/T-4309G/01/README.md)
-- [The Star Bowling (Japan)](../../Regions/Japan/T-21804G/01/README.md) - TODO
-- [The Star Bowling Vol. 2 (Japan)](../../Regions/Japan/T-21805G/01/README.md) - TODO
+- [The Star Bowling (Japan)](../../Regions/Japan/T-21804G/01/README.md)
+- [The Star Bowling Vol. 2 (Japan)](../../Regions/Japan/T-21805G/01/README.md)
 - [Star Fighter (USA)](../../Regions/USA/T-8135H/01/README.md)
 - StarFighter 3000 (Europe) - TODO
 - StarFighter 3000 (Japan) - TODO
@@ -312,14 +312,14 @@
 - [Striker '96 (USA)](../../Regions/USA/T-8133H/01/README.md)
 - [Strikers 1945 (Japan)](../../Regions/Japan/T-14407G/01/README.md)
 - [Strikers 1945 II (Japan)](../../Regions/Japan/T-20402G/01/README.md)
-- [Suchie-Pai Adventure Doki Doki Nightmare (Japan)](../../Regions/Japan/T-5713G/01/README.md) - TODO
-- [Sugobencha: Dragon Master Silk Gaiden (Japan)](../../Regions/Japan/T-19505G/01/README.md) - TODO
-- [Suiko Enbu (Japan)](../../Regions/Japan/T-1302G/01/README.md) - TODO
-- [Suiko Enbu: Fuunsaiki (Japan)](../../Regions/Japan/T-1305G/01/README.md) - TODO
-- [Suikoden Tendou 108 Sei (Japan)](../../Regions/Japan/T-7656G/01/README.md) - TODO
-- [Suikoden: Tenmei no Chikai (Japan)](../../Regions/Japan/T-7624G/01/README.md) - TODO
-- [Super Adventure Rockman (Japan)](../../Regions/Japan/T-1225G/01/README.md) - TODO
-- [Super Casino Special (Japan)](../../Regions/Japan/T-7306G/01/README.md) - TODO
+- [Suchie-Pai Adventure Doki Doki Nightmare (Japan)](../../Regions/Japan/T-5713G/01/README.md)
+- [Sugobencha: Dragon Master Silk Gaiden (Japan)](../../Regions/Japan/T-19505G/01/README.md)
+- [Suiko Enbu (Japan)](../../Regions/Japan/T-1302G/01/README.md)
+- [Suiko Enbu: Fuunsaiki (Japan)](../../Regions/Japan/T-1305G/01/README.md)
+- [Suikoden Tendou 108 Sei (Japan)](../../Regions/Japan/T-7656G/01/README.md)
+- [Suikoden: Tenmei no Chikai (Japan)](../../Regions/Japan/T-7624G/01/README.md)
+- [Super Adventure Rockman (Japan)](../../Regions/Japan/T-1225G/01/README.md)
+- [Super Casino Special (Japan)](../../Regions/Japan/T-7306G/01/README.md)
 - Super Puzzle Fighter II Turbo (Europe) - TODO
 - [Super Puzzle Fighter II Turbo (USA)](../../Regions/USA/T-1215H/01/README.md)
 - Super Puzzle Fighter II X (Japan) - TODO
@@ -336,7 +336,7 @@
 - [Super Robot Taisen F Kanketsuhen (Japan)](../../Regions/Japan/T-20612G/01/README.md)
 - [Super Tempo (Japan)](../../Regions/Japan/T-26413G/01/README.md) - TODO
 - [Swagman (Europe)](../../Regions/Europe/T-11502H-5/01/README.md)
-- [Sword & Sorcery (Japan)](../../Regions/Japan/T-5202G/01/README.md) - TODO
+- [Sword & Sorcery (Japan)](../../Regions/Japan/T-5202G/01/README.md)
 - [System-Disc (KD02) Columbia (Japan)](../../Regions/Japan/SEGASYSTEM/01/README.md) - TODO
 
 Navigation:

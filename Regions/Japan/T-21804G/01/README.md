@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- The Star Bowling (Japan) (Disc 1): Playable :white_check_mark:
+- The Star Bowling (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -29,9 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test The Star Bowling (Japan) (Disc 1)
-- Test The Star Bowling (Japan) (Disc 2)
+- Full test The Star Bowling (Japan) (Disc 1)
+- Full test The Star Bowling (Japan) (Disc 2)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+The Star Bowling (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/3ru-4PTDSWM/0.jpg)](https://www.youtube.com/watch?v=3ru-4PTDSWM)

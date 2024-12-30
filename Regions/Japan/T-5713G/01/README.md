@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1):
+Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 1):
 
 - <b>Game Name:</b> THE THROBBING NIGHTMARE
 - <b>Product Number:</b> T-5713G
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Untested :question:
-- (Disc 2): Untested :question:
+- Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 1): Playable :white_check_mark:
+- Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -32,9 +32,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 1)
-- Test Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 2)
+- Full test Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 1)
+- Full test Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 2)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/aU1MB05DHtw/0.jpg)](https://www.youtube.com/watch?v=aU1MB05DHtw)

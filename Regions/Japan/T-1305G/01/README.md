@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Retail):
+Suiko Enbu: Fuunsaiki (Japan):
 
 - <b>Game Name:</b> FUUN SAIKI
 - <b>Product Number:</b> T-1305G
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail): Untested :question:
-- (Demo): Untested :question:
+- Suiko Enbu: Fuunsaiki (Japan): Playable :white_check_mark:
+- Suiko Enbu: Fuunsaiki (Japan) (Demo): Untested :question:
 
 ### Extra Info
 
@@ -33,8 +33,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Test Suiko Enbu: Fuunsaiki (Japan) (Demo)
-- Test Suiko Enbu: Fuunsaiki (Japan)
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Suiko Enbu: Fuunsaiki (Japan):
+
+[![](https://img.youtube.com/vi/PCXrEEooUOA/0.jpg)](https://www.youtube.com/watch?v=PCXrEEooUOA)

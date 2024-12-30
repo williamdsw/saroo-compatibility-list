@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Retail) (2M):
+Sword & Sorcery (Japan) (2M):
 
 - <b>Game Name:</b> SWORD&SORCERY
 - <b>Product Number:</b> T-5202G
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail) (2M): Untested :question:
-- (Retail) (Rev A) (10M): Untested :question:
+- Sword & Sorcery (Japan) (2M): Playable :white_check_mark:
+- Sword & Sorcery (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
@@ -37,4 +37,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Sword & Sorcery (Japan) (2M):
+
+[![](https://img.youtube.com/vi/FlcS9q64QhY/0.jpg)](https://www.youtube.com/watch?v=FlcS9q64QhY)
