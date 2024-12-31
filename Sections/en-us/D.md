@@ -2,7 +2,7 @@
 
 ## D
 
-#### 150 Games (82 Tested)
+#### 148 Games (82 Tested)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -143,8 +143,6 @@
 - [Dragonheart: Fire & Steel (USA)](../../Regions/USA/T-8117H/01/README.md)
 - [Dream Generation: Koi ka? Shigoto ka!?... (Japan)](../../Regions/Japan/T-2511G/01/README.md)
 - [Dream Square Hinagata Akiko (Japan)](../../Regions/Japan/T-3002G/01/README.md)
-- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) (Demo) - TODO
-- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) - TODO (Recorded)
 - [Druid: Yami-He no Tsuiseki Sha (Japan)](../../Regions/Japan/T-7670G/01/README.md)
 - Duke Nukem 3D (Europe) - TODO
 - [Duke Nukem 3D (USA)](../../Regions/USA/MK-81071/01/README.md)

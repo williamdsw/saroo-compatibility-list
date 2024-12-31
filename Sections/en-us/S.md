@@ -36,8 +36,8 @@
 - Saturn Bomberman (Japan) (SegaNet) - TODO
 - Saturn Bomberman (Japan) - TODO
 - [Saturn Bomberman (USA)](../../Regions/USA/MK-81070/01/README.md)
-- Saturn Bomberman Fight!! (Japan) (Demo) - TODO
-- Saturn Bomberman Fight!! (Japan) - TODO
+- [Saturn Bomberman Fight!!](../../Regions/Japan/T-14321G/01/README.md)
+- (Japan) - TODO
 - Saturn CG Selection Vol. 1 (Japan) (Rev A) - TODO
 - Saturn Music School (Japan) - TODO
 - Saturn Music School 2 (Japan) (Rev A) - TODO
@@ -193,6 +193,7 @@
 - [Shouryuu Sangoku Engi (Japan)](../../Regions/Japan/T-15009G/01/README.md)
 - [Shunsai: Keiba Data Stable (Japan)](../../Regions/Japan/T-18703G/01/README.md)
 - [Shusse Mahjong Daisettai (Japan)](../../Regions/Japan/T-24902G/01/README.md)
+- [Shutokou Battle '97: Tsuchiya Keiichi & Bandou Masaaki (Japan)](../../Regions/Japan/T-15019G/01/README.md)
 - [Shutsudou! Miniskirt Police (Japan)](../../Regions/Japan/T-30812G/01/README.md)
 - [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../Regions/Japan/T-2003G/01/README.md)
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
@@ -224,7 +225,7 @@
 - [Solo Crisis (Japan)](../../Regions/Japan/T-23501G/01/README.md)
 - Sonic 3D - Flickies' Island (Europe) - TODO
 - Sonic 3D - Flickies' Island (Japan) - TODO
-- Sonic 3D Blast (USA) - TODO (Recorded)
+- [Sonic 3D Blast (USA)](../../Regions/USA/MK-81062/01/README.md)
 - Sonic Jam (Europe) - TODO
 - Sonic Jam (Japan) (Rev A) - TODO
 - Sonic Jam (Japan) - TODO
@@ -233,7 +234,7 @@
 - Sonic R (Japan) (1M) - TODO
 - Sonic R (Japan) (2M) - TODO
 - Sonic R (Japan) (Demo) - TODO
-- Sonic R (USA, Brazil) - TODO
+- [Sonic R (USA)](../../Regions/USA/MK-81800/01/README.md)
 - [Sonic Wings Special (Japan)](../../Regions/Japan/T-26402G/01/README.md)
 - [Sorvice (Japan)](../../Regions/Japan/T-16609G/01/README.md)
 - [Sotsugyou S (Japan)](../../Regions/Japan/T-20103G/01/README.md)
@@ -260,7 +261,7 @@
 - [Space Invaders (Japan)](../../Regions/Japan/T-1107G/01/README.md)
 - Space Jam (Europe) - TODO
 - Space Jam (Japan) - TODO
-- Space Jam (USA) - TODO (Recorded)
+- [Space Jam (USA)](../../Regions/USA/T-8125H/01/README.md)
 - Special Disc with SegaSaturn Internet 2 (Japan) - TODO
 - Spot Goes to Hollywood (Europe) - TODO
 - Spot Goes to Hollywood (Japan) - TODO
@@ -280,7 +281,6 @@
 - Steep Slope Sliders (Japan) - TODO
 - [Steep Slope Sliders (USA)](../../Regions/USA/MK-81128/01/README.md)
 - [Stellar Assault SS (Japan)](../../Regions/Japan/T-4403G/01/README.md)
-- Story of Thor 2, The (Europe) - TODO
 - [Strahl: Himerareshi Nanatsu no Hikari (Japan)](../../Regions/Japan/T-20501G/01/README.md)
 - Street Fighter - Real Battle on Film (Japan) (2M) - TODO
 - Street Fighter - Real Battle on Film (Japan) (3M) - TODO

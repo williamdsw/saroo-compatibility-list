@@ -1,11 +1,11 @@
-# Hansha de Spark! (Japan)
+# Sonic R (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 
 ### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. MCU: 240316, SS: 240316, FPGA: 05
+  1. MCU: 231125, SS: 231125, FPGA: 05
 
 ### [SD Card Info (Lenovo - 128 GB)](../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> HANSYA DE SPARK
-- <b>Product Number:</b> T-20902G
-- <b>Version:</b> V1.004
-- <b>Area Code:</b> JT
-- <b>Peripheral Code:</b> JT
+- <b>Game Name:</b> SONIC R
+- <b>Product Number:</b> MK-81800
+- <b>Version:</b> V1.000
+- <b>Area Code:</b> U
+- <b>Peripheral Code:</b> JE
 
 ### Status
 
@@ -27,10 +27,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
-### TODO
-
-- Test Hansha de Spark! (Japan) (Demo) - TODO
-
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hansha de Spark! (Japan)](https://img.youtube.com/vi/CMzIlHhDOOA/0.jpg)](https://www.youtube.com/watch?v=CMzIlHhDOOA)
+[![](https://img.youtube.com/vi/XEnqwnCg3JU/0.jpg)](https://www.youtube.com/watch?v=XEnqwnCg3JU)

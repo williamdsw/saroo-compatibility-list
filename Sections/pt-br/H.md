@@ -2,7 +2,7 @@
 
 ## H
 
-#### 54 Jogos (43 Testados)
+#### 53 Jogos (43 Testados)
 
 - [Habitat II (Japan)](../../Regions/Japan/GS-7105/01/README.md)
 - Hang On GP '95 (Japan) (1M) - TODO
@@ -11,7 +11,6 @@
 - Hang On GP '96 (Europe) - TODO
 - [Hang-On GP (USA)](../../Regions/USA/MK-81202/01/README.md)
 - [Hankou Shashin: Shibarareta Shoujo-tachi no Mita Mono ha? (Japan)](../../Regions/Japan/T-15008G/01/README.md)
-- Hansha de Spark! (Japan) (Demo) - TODO
 - [Hansha de Spark! (Japan)](../../Regions/Japan/T-20902G/01/README.md)
 - [Hardcore 4x4 (Europe)](../../Regions/Europe/T-12303H/01/README.md)
 - [Harukaze Sentai V-Force (Japan)](../../Regions/Japan/T-19904G/01/README.md)

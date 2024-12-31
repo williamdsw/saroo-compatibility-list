@@ -2,7 +2,7 @@
 
 ## K
 
-#### 47 Games (43 Tested)
+#### 47 Games (44 Tested)
 
 - [K-1 Fighting Illusion Shou (Japan)](../../Regions/Japan/T-26102G/01/README.md)
 - [Kaitei Daisensou (Japan)](../../Regions/Japan/T-15006G/01/README.md)
@@ -31,7 +31,7 @@
 - [Kiss Yori... (Japan)](../../Regions/Japan/T-19724G/01/README.md)
 - Kisuishou Densetsu Astal (Japan) (1M, 4M) - TODO
 - Kisuishou Densetsu Astal (Japan) (3A) - TODO
-- Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (Japan) (Satakore) - TODO
+- Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race! (Japan) (Satakore) - TODO
 - [Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race! (Japan)](../../Regions/Japan/T-13319G/01/README.md)
 - [Koden Koureijutsu Hyaku Monogatari: Hontoni Atta Kowai Hanashi (Japan)](../../Regions/Japan/T-14312G/01/README.md)
 - [Koi no Summer Fantasy: in Miyazaki Seagaia (Japan)](../../Regions/Japan/T-23407G/01/README.md)

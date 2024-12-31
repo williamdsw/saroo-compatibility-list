@@ -2,7 +2,7 @@
 
 ## I
 
-#### 29 Jogos (19 Testados)
+#### 28 Jogos (19 Testados)
 
 - [Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)](../../Regions/Japan/T-1208G/01/README.md)
 - [Idol Janshi Suchie-Pai II (Japan)](../../Regions/Japan/T-5705G/01/README.md)
@@ -20,7 +20,6 @@
 - Impact Racing (Japan) - TODO
 - [Impact Racing (USA)](../../Regions/USA/T-8139H/01/README.md)
 - In the Hunt (Europe) - TODO
-- In the Hunt (USA) (Beta) - TODO
 - [In The Hunt (USA)](../../Regions/USA/T-10001G/01/README.md)
 - [Independence Day (USA)](../../Regions/USA/T-16104H/01/README.md)
 - Independence Day - The Game (Europe) - TODO

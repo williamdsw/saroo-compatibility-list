@@ -5,10 +5,10 @@
 ### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. MCU: 240515, SS: 240515, FPGA: 05
-  2. [MCU: 240627, SS: 240627, FPGA: 05](../02/README.md)
+  1. [MCU: 240515, SS: 240515, FPGA: 05](../01/README.md)
+  2. MCU: 240627, SS: 240627, FPGA: 05
 
-### [SD Card Info (Lenovo - 128 GB)](../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
+### [SD Card Info (Lexar - 64 GB - exFat)](../../../../Info/SdCards/Lexar/64GB/exfat/README.md)
 
 ### Game Info
 
@@ -32,11 +32,11 @@ Thunder Storm & Road Blaster (Japan) (Disc 2):
 
 ### Status
 
-- Thunder Storm & Road Blaster (Japan) (Disc 1): Playable on 240627 :white_check_mark:
-- Thunder Storm & Road Blaster (Japan) (Disc 2): Playable :white_check_mark:
+- Thunder Storm & Road Blaster (Japan) (Disc 1): Playable :white_check_mark:
+- Thunder Storm & Road Blaster (Japan) (Disc 2): Playable on 240515 :white_check_mark:
 
 ### Evidence
 
-Thunder Storm & Road Blaster (Japan) (Disc 2):
+Thunder Storm & Road Blaster (Japan) (Disc 1):
 
-[![](https://img.youtube.com/vi/L3qZvc2ZLkY/0.jpg)](https://www.youtube.com/watch?v=L3qZvc2ZLkY)
+[![](https://img.youtube.com/vi/8Ks5xmaS3uY/0.jpg)](https://www.youtube.com/watch?v=8Ks5xmaS3uY)

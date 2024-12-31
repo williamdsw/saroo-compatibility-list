@@ -13,6 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+The Unsolved (Japan) (Disc 1):
+
 - <b>Game Name:</b> UNSOLVED001 1
 - <b>Product Number:</b> T-7017G
 - <b>Version:</b> V1.002
@@ -21,16 +23,18 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc 1) :white_check_mark:
-- Untested (Disc 2) :question:
-- Untested (Disc 3) :question:
+- The Unsolved (Japan) (Disc 1): Playable :white_check_mark:
+- The Unsolved (Japan) (Disc 2): Untested :question:
+- The Unsolved (Japan) (Disc 3): Untested :question:
 
-### Extra Info
+### TODO
 
-It does need full gameplay tests for Disc 1, 2 and 3.
+- Full test The Unsolved (Japan) (Disc 1)
+- Full test The Unsolved (Japan) (Disc 2)
+- Full test The Unsolved (Japan) (Disc 3)
 
 ### Evidence
 
-Disc 1:
+The Unsolved (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240118) - The Unsolved: Hyper Science Adventure - Disc 1 (Japan) = Playable](https://img.youtube.com/vi/1nxOQ_vpHWQ/0.jpg)](https://www.youtube.com/watch?v=1nxOQ_vpHWQ)
+[![](https://img.youtube.com/vi/1nxOQ_vpHWQ/0.jpg)](https://www.youtube.com/watch?v=1nxOQ_vpHWQ)

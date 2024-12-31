@@ -2,7 +2,7 @@
 
 ## T
 
-#### 162 Games (42 Tested - 46 to be registered)
+#### 162 Games (46 Tested - 41 to be registered)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO (Recorded)
@@ -91,6 +91,7 @@
 - [The King of Fighters '95 (Japan)](../../Regions/Japan/T-3101G/01/README.md)
 - [The King of Fighters '96 (Japan)](../../Regions/Japan/T-3108G/01/README.md)
 - [The King of Fighters '97 (Japan)](../../Regions/Japan/T-3121G/01/README.md)
+- [The Legend of Heroes I & II - Eiyuu Densetsu (Japan)](../../Regions/Japan/T-37101G/01/README.md)
 - [The Legend of Oasis (USA)](../../Regions/USA/MK-81302/01/README.md)
 - [The Lost Vikings 2 - Norse by Norsewest (Europe)](../../Regions/Europe/T-12521H50/01/README.md)
 - The Lost World - Jurassic Park (Europe) - TODO
@@ -98,9 +99,10 @@
 - [The Lost World - Jurassic Park (USA)](../../Regions/USA/MK-81065/01/README.md)
 - [The Making of Nightruth (Japan)](../../Regions/Japan/T-20203G/01/README.md)
 - [The Mansion of Hidden Souls (USA)](../../Regions/USA/MK-81012/01/README.md)
-- The Unsolved (Japan) (Disc 1) - TODO (Recorded)
-- The Unsolved (Japan) (Disc 2) - TODO
-- The Unsolved (Japan) (Disc 3) - TODO
+- The Mansion of Hidden Souls (Europe) (1S) - TODO
+- The Mansion of Hidden Souls (Europe) (4S) - TODO
+- The Story of Thor 2 (Europe) - TODO
+- [The Unsolved (Japan)](../../Regions/Japan/T-7017G/01/README.md)
 - [The Yakyuuken Special: Konya wa 12-kaisen (Japan)](../../Regions/Japan/T-21901G/01/README.md)
 - Theme Park (Europe) - TODO
 - Theme Park (Japan) - TODO
@@ -109,11 +111,10 @@
 - Three Dirty Dwarves (Europe) - TODO
 - Three Dirty Dwarves (Japan) (2M) - TODO
 - [Three Dirty Dwarves (USA)](../../Regions/USA/T-30401H/01/README.md)
-- Thunder Force Gold Pack 1 (Japan) - TODO (Recorded)
-- Thunder Force Gold Pack 2 (Japan) (Rev A) - TODO (Recorded)
+- [Thunder Force Gold Pack 1 (Japan)](../../Regions/Japan/T-1807G/01/README.md)
+- [Thunder Force Gold Pack 2 (Japan)](../../Regions/Japan/T-1808G/01/README.md)
 - [Thunder Force V (Japan)](../../Regions/Japan/T-1811G/01/README.md)
-- Thunder Storm & Road Blaster (Japan) (Disc 1) (Thunder Storm) - TODO (Recorded)
-- Thunder Storm & Road Blaster (Japan) (Disc 2) (Road Blaster) - TODO (Recorded)
+- [Thunder Storm & Road Blaster (Japan)](../../Regions/Japan/T-20701G/01/README.md)
 - Thunderhawk II (Japan) - TODO
 - Thunderstrike 2 (USA) (Rev A) - TODO
 - Thunderstrike 2 (USA) - TODO
@@ -151,7 +152,7 @@
 - Touryuu Densetsu Elan Doree (Japan) - TODO (Recorded)
 - Toushinden S (Japan) - TODO
 - Toushinden URA (Japan) - TODO
-- Tower, The (Japan) - TODO (Recorded)
+- The Tower (Japan) - TODO (Recorded)
 - Transport Tycoon (Japan) - TODO (Recorded)
 - Trash It (Europe) - TODO (Recorded)
 - True Pinball (Europe) - TODO
@@ -160,7 +161,6 @@
 - Tsuukai!! Slot Shooting (Japan) - TODO (Recorded)
 - Tunnel B1 (Europe) - TODO
 - Tunnel B1 (USA) - TODO
-- [Tunnel B1 - 3D Mission Shooting: Finalist (Japan)](../../Regions/Japan/T-18511G/01/README.md)
 - TurfWind '96 - Take Yutaka Kyousouba Ikusei Game (Japan) - TODO (Recorded)
 - Tutankhamen no Nazo - A.N.K.H (Japan) (Disc 1) - TODO (Recorded)
 - Tutankhamen no Nazo - A.N.K.H (Japan) (Disc 2) - TODO

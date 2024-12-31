@@ -16,7 +16,7 @@
 - Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (Japan) (Rev B) (22M) - TODO (GS-9190 ?)
 - [Ai Iijima Interactive Video Clip - Good Island Cafe (Japan)](../../Regions/Japan/T-25201G/01/README.md)
 - [Air Management '96 (Japan)](../../Regions/Japan/T-7611G/01/README.md)
-- [Airs Adventure (Japan)](../../Regions/Japan/T-20701G/01/README.md)
+- [Airs Adventure (Japan)](../../Regions/Japan/T-20301G/01/README.md)
 - [Akumajou Dracula X - Gekka no Yasoukyoku (Japan)](../../Regions/Japan/T-9527G/README.md)
 - Albert Odyssey - Legend of Eldean (USA) (RE) - TODO
 - Albert Odyssey - Legend of Eldean (USA) - TODO

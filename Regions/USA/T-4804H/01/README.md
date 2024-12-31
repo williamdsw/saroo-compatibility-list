@@ -1,4 +1,4 @@
-# Digital Pinball: Last Gladiators (USA)
+# Last Gladiators (USA)
 
 ### [Console Info](../../../../Info/Consoles/VA13/README.md)
 

@@ -2,8 +2,9 @@
 
 ## L
 
-#### 33 Games (28 Tested)
+#### 34 Games (27 Tested)
 
+- La Mansion de las Almas Ocultas (Spain) - TODO
 - [Langrisser - Dramatic Edition (Japan)](../../Regions/Japan/T-2507G/01/README.md)
 - [Langrisser III (Japan)](../../Regions/Japan/T-2502G/01/README.md)
 - [Langrisser IV (Japan)](../../Regions/Japan/T-2505G/01/README.md)
@@ -12,10 +13,10 @@
 - Last Bronx (Japan) (Disc 1) (Arcade Disc) - TODO
 - Last Bronx (Japan) (Disc 2) (Special Disc) - TODO
 - [Last Bronx (USA)](../../Regions/USA/MK-81078/01/README.md)
-- [Last Gladiators - Digital Pinball (USA)](../../Regions/USA/T-4804H/01/README.md)
+- [Last Gladiators (USA)](../../Regions/USA/T-4804H/01/README.md)
 - [Layer Section (Japan)](../../Regions/Japan/T-1101G/01/README.md)
 - [Layer Section II (Japan)](../../Regions/Japan/T-26409G/01/README.md)
-- [Legend of Heroes I & II, The - Eiyuu Densetsu (Japan)](../../Regions/Japan/T-37101G/01/README.md)
+- Le Manoir des Ames Perdues (France) - TODO
 - [Legend of K-1 - Grand Prix '96 (Japan)](../../Regions/Japan/T-7503G/01/README.md)
 - [Legend of K-1 - The Best Collection (Japan)](../../Regions/Japan/T-7501G/01/README.md)
 - [LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan)](../../Regions/Japan/T-26405G/01/README.md)

@@ -2,7 +2,7 @@
 
 ## G
 
-#### 83 Games (65 Tested)
+#### 82 Games (67 Tested)
 
 - [G Vector (Japan)](../../Regions/Japan/T-30603G/01/README.md)
 - [GT24 (Japan)](../../Regions/Japan/T-5714G/01/README.md)
@@ -53,8 +53,7 @@
 - [Go III Professional Taikyoku Igo (Japan)](../../Regions/Japan/T-29003G/01/README.md)
 - [Godzilla Rettoushinkan (Japan)](../../Regions/Japan/GS-9050/01/README.md)
 - [Goiken Muyou - Anarchy in the Nippon (Japan)](../../Regions/Japan/T-28902G/01/README.md)
-- Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - TODO (Recorded)
-- Gokujou Parodius Da! Deluxe Pack (Japan) - TODO (Recorded)
+- [Gokujou Parodius Da! Deluxe Pack (Japan)](../../Regions/Japan/T-9501G/01/README.md)
 - Golden Axe - The Duel (Europe) - TODO
 - Golden Axe - The Duel (Japan) (2M) - TODO
 - [Golden Axe: The Duel (USA)](../../Regions/USA/MK-81045/01/README.md)

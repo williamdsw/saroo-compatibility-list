@@ -13,6 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+In the Hunt (USA):
+
 - <b>Game Name:</b> IN THE HUNT
 - <b>Product Number:</b> T-10001G
 - <b>Version:</b> V1.000
@@ -21,7 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Issues :warning:
+- In the Hunt (USA): Issues :warning:
+- In the Hunt (USA) (Beta): Untested :question:
 
 ### Problems
 
@@ -31,6 +34,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 It needs tests with others caracters, and others modes (tournement, etc) and other 'prizes' after beating Shao Kahn.
 
+### TODO
+
+- Test In the Hunt (USA) (Beta)
+
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - In the Hunt (USA) = Glitch & Playable](https://img.youtube.com/vi/Inq819H-vWM/0.jpg)](https://www.youtube.com/watch?v=Inq819H-vWM)
+In the Hunt (USA):
+
+[![](https://img.youtube.com/vi/Inq819H-vWM/0.jpg)](https://www.youtube.com/watch?v=Inq819H-vWM)
