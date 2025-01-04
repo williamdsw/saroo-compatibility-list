@@ -2,7 +2,7 @@
 
 ## P
 
-#### 102 Games (47 Tested)
+#### 100 Games (47 Tested)
 
 - [Pacific Theater of Operations II (USA)](../../Regions/USA/T-7604H/01/README.md)
 - [PD Ultraman Link (Japan)](../../Regions/Japan/T-13304G/01/README.md)
@@ -17,9 +17,7 @@
 - [Pandemonium! (USA)](../../Regions/USA/T-15914H/01/README.md)
 - [Paneltia Story: Karen no Daibouken (Japan)](../../Regions/Japan/T-21510G/01/README.md)
 - [Panic Chan (Japan)](../../Regions/Japan/T-15010G/01/README.md)
-- Panzer Dragoon (Europe) (Demo) (5S) - TODO
-- Panzer Dragoon (Europe) (Demo) (6S) - TODO
-- Panzer Dragoon (Europe) (En,Fr,De,Es,It) - TODO
+- [Panzer Dragoon (Europe)](../../Regions/Europe/MK-81009/01/README.md)
 - Panzer Dragoon (Japan) (2M) - TODO
 - Panzer Dragoon (Japan) (3A, 3B) - TODO
 - Panzer Dragoon (Japan) (4B) - TODO
@@ -60,7 +58,7 @@
 - Powerslave (USA) - TODO
 - Preview Sega Saturn Vol. 1 (Europe) - TODO
 - [PriCla Daisakusen (Japan)](../../Regions/Japan/T-14409G/01/README.md)
-- Primal Rage (Europe) - TODO
+- [Primal Rage (Europe)](../../Regions/Europe/T-4802H-50/01/README.md)
 - Primal Rage (Japan) - TODO
 - [Primal Rage (USA)](../../Regions/USA/T-4802H/01/README.md)
 - Prime Selection Vol. 1 (Japan) - TODO

@@ -2,7 +2,7 @@
 
 ## B
 
-#### 94 Jogos (55 Testados)
+#### 93 Jogos (59 Testados)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../Regions/Japan/T-19907G/01/README.md)
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../Regions/Japan/T-19906G/01/README.md)
@@ -23,9 +23,8 @@
 - [Batsugun (Japan)](../../Regions/Japan/T-1248G/01/README.md)
 - Battle Arena Toshinden Remix (Europe) - TODO
 - [Battle Arena Toshinden Remix (USA)](../../Regions/USA/MK-81029/01/README.md)
-- Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) (Beta) - TODO
-- Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) - TODO
-- [Battle Arena Toshinden URA - Ultimate Revenge Attack (USA)](../../Regions/USA/MK-81054/01/README.md)
+- [Battle Arena Toshinden URA (Europe)](../../Regions/Europe/MK-81054/01/README.md)
+- [Battle Arena Toshinden URA (USA)](../../Regions/USA/MK-81054/01/README.md)
 - [Battle Athletess Daiundoukai (Japan)](../../Regions/Japan/T-24601G/01/README.md)
 - [Battle Garegga (Japan)](../../Regions/Japan/T-10627G/01/README.md)
 - Battle Monsters (Europe) - TODO
@@ -94,9 +93,9 @@
 - Burning Rangers (Japan) (Proto) - TODO
 - Burning Rangers (Japan) - TODO
 - [Burning Rangers (USA)](../../Regions/USA/MK-81803/01/README.md)
-- Bust-A-Move 2 - Arcade Edition (Europe) - TODO
-- [Bust-A-Move 2 - Arcade Edition (USA)](../../Regions/USA/T-8132H/01/README.md)
-- Bust-A-Move 3 (Europe) - TODO
+- [Bust-A-Move 2: Arcade Edition (Europe)](../../Regions/Europe/T-8132H-50/01/README.md)
+- [Bust-A-Move 2: Arcade Edition (USA)](../../Regions/USA/T-8132H/01/README.md)
+- [Bust-A-Move 3 (Europe)](../../Regions/Europe/T-8155H-50/01/README.md)
 - [Bust-A-Move 3 (USA)](../../Regions/USA/T-31103H/01/README.md)
 
 Navegação:

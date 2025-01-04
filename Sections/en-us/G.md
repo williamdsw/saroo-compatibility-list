@@ -2,7 +2,7 @@
 
 ## G
 
-#### 82 Games (67 Tested)
+#### 82 Games (70 Tested)
 
 - [G Vector (Japan)](../../Regions/Japan/T-30603G/01/README.md)
 - [GT24 (Japan)](../../Regions/Japan/T-5714G/01/README.md)
@@ -10,7 +10,7 @@
 - [Gakkou no Kaidan (Japan)](../../Regions/Japan/GS-9026/01/README.md)
 - [Gakkou no Kowai Uwasa Hanako-san ga Kita!! (Japan)](../../Regions/Japan/T-1205G/01/README.md)
 - [Gal Jan (Japan)](../../Regions/Japan/T-29101G/01/README.md)
-- Galactic Attack (Europe) - TODO
+- [Galactic Attack (Europe)](../../Regions/Europe/T-8116H-50/01/README.md)
 - [Galactic Attack (USA)](../../Regions/USA/T-8116H/01/README.md)
 - Galaxy Fight (Europe) - TODO
 - [Galaxy Fight (USA)](../../Regions/USA/T-1504H/01/README.md)
@@ -22,7 +22,7 @@
 - [Game Tengoku (Japan)](../../Regions/Japan/T-5712G/01/README.md)
 - [Game de Seishun (Japan)](../../Regions/Japan/T-19711G/01/README.md)
 - [Game no Tatsujin (Japan)](../../Regions/Japan/T-1502G/01/README.md)
-- Game no Tatsujin 2 (Japan) - TODO
+- [Game no Tatsujin 2 (Japan)](../../Regions/Japan/T-1509G/01/README.md)
 - [Game no Tatsujin: The Shanghai (Japan)](../../Regions/Japan/T-1506G/01/README.md)
 - [Game-Ware (Japan)](../../Regions/Japan/T-17002G/01/README.md)
 - [Game-Ware Vol. 2 (Japan)](../../Regions/Japan/T-17003G/01/README.md)
@@ -54,7 +54,7 @@
 - [Godzilla Rettoushinkan (Japan)](../../Regions/Japan/GS-9050/01/README.md)
 - [Goiken Muyou - Anarchy in the Nippon (Japan)](../../Regions/Japan/T-28902G/01/README.md)
 - [Gokujou Parodius Da! Deluxe Pack (Japan)](../../Regions/Japan/T-9501G/01/README.md)
-- Golden Axe - The Duel (Europe) - TODO
+- [Golden Axe: The Duel (Europe)](../../Regions/Europe/MK-81045/01/README.md)
 - Golden Axe - The Duel (Japan) (2M) - TODO
 - [Golden Axe: The Duel (USA)](../../Regions/USA/MK-81045/01/README.md)
 - [Gotha - Ismailia SenEki (Japan)](../../Regions/Japan/GS-9009/01/README.md)

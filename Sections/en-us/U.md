@@ -2,11 +2,10 @@
 
 ## U
 
-#### 11 Games (9 Tested)
+#### 11 Games
 
 - [UEFA Euro 96 - England (Europe)](../../Regions/Europe/MK-81180/01/README.md)
-- Ultimate Mortal Kombat 3 (Europe) (Rev A) - TODO
-- Ultimate Mortal Kombat 3 (Europe) - TODO
+- [Ultimate Mortal Kombat 3 (Europe)](../../Regions/Europe/T-25403H/01/README.md)
 - [Ultimate Mortal Kombat 3 (USA)](../../Regions/USA/T-9701H/01/README.md)
 - [Ultraman - Hikari no Kyojin Densetsu (Japan)](../../Regions/Japan/T-13308G/01/README.md)
 - [Ultraman Zukan (Japan)](../../Regions/Japan/T-25501G/01/README.md)

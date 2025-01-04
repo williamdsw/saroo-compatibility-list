@@ -12,7 +12,7 @@ Lista de compatibilidade de jogos do cartucho SAROO para o Sega Saturn.
 Outros links relacionados ao SAROO:
 
 - [Repositório Oficial](https://github.com/tpunix/SAROO)
-- [Aonde Comprar](Info/Buy/pt-br.md)
+- [Links para Compra](Info/Buy/pt-br.md)
 - [Lista de Configurações](https://github.com/williamdsw/saroo-configuration-list)
 - [Imagens de Fundo e Música para o Menu](https://github.com/williamdsw/saroo-backgrounds)
 - [Playlist no YouTube com jogos testados (+ 1180 vídeos)](https://www.youtube.com/playlist?list=PLmsMlzwbRlgLngxWI9ZzPK44Gix1Ek-ZO)
@@ -24,17 +24,17 @@ Outros links relacionados ao SAROO:
 
 ### Regiões
 
-- `Brazil` - BRA, BR (1 Jogo)
-- `Europe` - EUR, EU (45 Jogos)
-- `France` - FRA, FR (0 Jogos)
-- `Germany` - GER, GE (1 Jogo)
-- `Italy` - ITA, IT (0 Jogos)
-- `Japan` - JAP, JP (847 Jogos)
-- `South Korea` - STK, SK (0 Jogos)
+- `Brazil` - Brasil, BRA, BR (1 Jogo)
+- `Europe` - Europa, EUR, EU (65 Jogos)
+- `France` - França, FRA, FR (0 Jogos)
+- `Germany` - Alemanha, GER, GE (1 Jogo)
+- `Italy` - Itália, ITA, IT (0 Jogos)
+- `Japan` - Japão, JAP, JP (851 Jogos)
+- `South Korea` - Coréia do Sul, STK, SK (0 Jogos)
 - `Spain` - Espanha, SPA, SP (0 Jogos)
 - `Taiwan` - TAI, TW (4 Jogo)
-- `USA` - Estados Unidos da América, US (230 Jogos)
-- Total: 1.128 jogos registrados
+- `USA` - Estados Unidos da América, US (231 Jogos)
+- Total: 1.153 jogos registrados
 
 ### Jogos
 

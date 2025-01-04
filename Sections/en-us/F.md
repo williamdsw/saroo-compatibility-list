@@ -2,7 +2,7 @@
 
 ## F
 
-#### 95 Games (69 Tested)
+#### 95 Games (71 Tested)
 
 - [F-1 Live Information (Japan)](../../Regions/Japan/GS-9035/01/README.md)
 - F1 Challenge (Europe) - TODO
@@ -30,12 +30,12 @@
 - [Farland Story: Habou no Mai (Japan)](../../Regions/Japan/T-32505G/01/README.md)
 - [Father Christmas (Japan)](../../Regions/Japan/T-18504G/01/README.md)
 - [Fighter's History Dynamite (Japan)](../../Regions/Japan/GS-9107/01/README.md)
-- Fighters Megamix (Europe) - TODO
+- [Fighters Megamix (Europe)](../../Regions/Europe/MK-81073/01/README.md)
 - Fighters Megamix (Japan) (1M) - TODO
 - Fighters Megamix (Japan) (2M) - TODO
 - Fighters Megamix (Japan) - TODO
 - [Fighters Megamix (USA)](../../Regions/USA/MK-81073/01/README.md)
-- Fighting Vipers (Europe) - TODO
+- [Fighting Vipers (Europe)](../../Regions/Europe/MK-81041/01/README.md)
 - Fighting Vipers (Japan) (Demo) - TODO
 - Fighting Vipers (Japan) (Rev A) - TODO
 - Fighting Vipers (Japan) (Rev C) - TODO

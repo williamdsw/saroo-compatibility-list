@@ -27,6 +27,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Shining Wisdom (USA) (Beta)
+
 ### Evidence
 
 [![](https://img.youtube.com/vi/7V6f11QwQ18/0.jpg)](https://www.youtube.com/watch?v=7V6f11QwQ18)

@@ -2,7 +2,7 @@
 
 ## I
 
-#### 28 Jogos (19 Testados)
+#### 29 Jogos (20 Testados)
 
 - [Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)](../../Regions/Japan/T-1208G/01/README.md)
 - [Idol Janshi Suchie-Pai II (Japan)](../../Regions/Japan/T-5705G/01/README.md)
@@ -15,6 +15,7 @@
 - Idol Mahjong - Final Romance R (Japan) (Kisekae Disc Kanzenban) - TODO (T-16705G ?)
 - Idol Mahjong - Final Romance R (Japan) (Kisekae Disc) - TODO (T-16705G ?)
 - [Idol Mahjong - Final Romance R (Japan)](../../Regions/Japan/T-16703G/01/README.md)
+- [ImageFight & XMultiply: Arcade Gears (Japan)](../../Regions/Japan/T-26110G/01/README.md)
 - Impact Racing (Europe) (Demo) - TODO
 - Impact Racing (Europe) - TODO
 - Impact Racing (Japan) - TODO

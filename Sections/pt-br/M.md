@@ -2,7 +2,7 @@
 
 ## M
 
-#### 129 Jogos (78 Testados)
+#### 125 Jogos (84 Testados)
 
 - [Maboroshi no Black Bass (Japan)](../../Regions/Japan/T-25303G/01/README.md)
 - [Machi (Japan) (Demo)](../../Regions/Japan/6106777/01/README.md)
@@ -46,10 +46,6 @@
 - [Mahou Tsukai ni Naru Houhou (Japan)](../../Regions/Japan/T-32510G/01/README.md)
 - [Mainichi Kawaru Quiz Bangumi Quiz 365 (Japan)](../../Regions/Japan/T-21201G/01/README.md)
 - [Making of Nightruth II: Voice Selection (Japan)](../../Regions/Japan/T-20205G/01/README.md)
-- Manoir des Ames Perdues, Le (France) - TODO
-- Mansion de las Almas Ocultas, La (Spain) - TODO
-- Mansion of Hidden Souls, The (Europe) (1S) - TODO
-- Mansion of Hidden Souls, The (Europe) (4S) - TODO
 - Manx TT SuperBike (Europe) - TODO
 - Manx TT SuperBike (Japan) - TODO
 - [Manx TT SuperBike (USA)](../../Regions/USA/MK-81210/01/README.md)
@@ -57,9 +53,9 @@
 - [Marica: Shinjitsu no Sekai (Japan)](../../Regions/Japan/T-6008G/01/README.md)
 - [Marie no Atelier Ver. 1.3: Salburg no Renkinjutsushi (Japan)](../../Regions/Japan/T-15033G/01/README.md)
 - [Mario Mushano no Chou Shougi Juku (Japan)](../../Regions/Japan/T-24905G/01/README.md)
-- Marvel Super Heroes (Europe) - TODO
+- [Marvel Super Heroes (Europe)](../../Regions/Europe/T-7032H-50/01/README.md)
 - [Marvel Super Heroes (Japan)](../../Regions/Japan/T-1215G/01/README.md)
-- Marvel Super Heroes (USA) - TODO
+- [Marvel Super Heroes (USA)](../../Regions/USA/T-1214H/01/README.md)
 - [Marvel Super Heroes vs. Street Fighter (Japan)](../../Regions/Japan/T-1238G/01/README.md)
 - Mass Destruction (Europe) - TODO
 - [Mass Destruction (USA)](../../Regions/USA/T-18007H/01/README.md)
@@ -74,7 +70,7 @@
 - [MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA)](../../Regions/USA/T-13004H/01/README.md)
 - [Media ROMancer Daisuke Asakura (Japan)](../../Regions/Japan/T-25001G/01/README.md)
 - [Mega Man 8 (USA)](../../Regions/USA/T-1216H/01/README.md)
-- Mega Man X3 (Europe) - TODO
+- [Mega Man X3 (Europe)](../../Regions/Europe/T-7029H-50/01/README.md)
 - [Mega Man X4 (USA)](../../Regions/USA/T-1219H/01/README.md)
 - [MeltyLancer: Ginga Shoujo Keisatsu 2086 (Japan)](../../Regions/Japan/T-15016G/01/README.md)
 - [MeltyLancer Re-inforce (Japan)](../../Regions/Japan/T-15038G/01/README.md)
@@ -106,10 +102,10 @@
 - [Momotarou Douchuuki (Japan)](../../Regions/Japan/T-14309G/01/README.md)
 - [Monster Slider (Japan)](../../Regions/Japan/T-27302G/01/README.md)
 - [Moon Cradle (Japan)](../../Regions/Japan/T-9109G/01/README.md)
-- Mortal Kombat II (Europe) - TODO
+- [Mortal Kombat II (Europe)](../../Regions/Europe/T-8103H-50/01/README.md)
 - [Mortal Kombat II (USA)](../../Regions/USA/T-8103H/01/README.md)
-- Mortal Kombat II Kanzenban (Japan) (4S) - TODO
-- Mortal Kombat Trilogy (Europe) - TODO
+- [Mortal Kombat II Kanzenban (Japan)](../../Regions/Japan/T-8107G/01/README.md)
+- [Mortal Kombat Trilogy (Europe)](../../Regions/Europe/T-25414H50/01/README.md)
 - [Mortal Kombat Trilogy (USA)](../../Regions/USA/T-9704H/01/README.md)
 - [Motteke Tamago with Ganbare! Kamonohashi (Japan)](../../Regions/Japan/T-18712G/01/README.md)
 - [Mouri Motonari: Chikai no Sanshi (Japan)](../../Regions/Japan/T-7646G/01/README.md)

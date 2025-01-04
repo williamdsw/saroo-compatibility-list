@@ -171,14 +171,13 @@
 - Shining Wisdom (Japan) (Demo) - TODO
 - Shining Wisdom (Japan) (Rev A) - TODO
 - Shining Wisdom (Japan) - TODO
-- Shining Wisdom (USA) (Beta) - TODO
 - [Shining Wisdom (USA)](../../Regions/USA/T-12702H/01/README.md)
 - Shining the Holy Ark (Europe) - TODO
 - Shining the Holy Ark (Japan) (1M) - TODO
 - Shining the Holy Ark (Japan) (3M) - TODO
 - [Shining the Holy Ark (USA)](../../Regions/USA/MK-81306/01/README.md)
 - [Shinobi Legions (USA)](../../Regions/USA/T-2301H/01/README.md)
-- Shinobi-X - Shin Shinobi Den (Europe) - TODO
+- [Shinobi X (Europe)](../../Regions/Europe/MK-81082/01/README.md)
 - [Shinouken (Japan)](../../Regions/Japan/T-3113G/01/README.md) - TODO
 - [Shinpi no Sekai El-Hazard (Japan)](../../Regions/Japan/T-22202G/01/README.md)
 - [Shinrei Jusatsushi Taroumaru (Japan)](../../Regions/Japan/T-4804G/01/README.md)
@@ -193,7 +192,7 @@
 - [Shouryuu Sangoku Engi (Japan)](../../Regions/Japan/T-15009G/01/README.md)
 - [Shunsai: Keiba Data Stable (Japan)](../../Regions/Japan/T-18703G/01/README.md)
 - [Shusse Mahjong Daisettai (Japan)](../../Regions/Japan/T-24902G/01/README.md)
-- [Shutokou Battle '97: Tsuchiya Keiichi & Bandou Masaaki (Japan)](../../Regions/Japan/T-15019G/01/README.md)
+- [Shutokou Battle '97: Tsuchiya Keiichi & Bandou Masaaki (Japan)](../../Regions/Japan/T-15019G/README.md)
 - [Shutsudou! Miniskirt Police (Japan)](../../Regions/Japan/T-30812G/01/README.md)
 - [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../Regions/Japan/T-2003G/01/README.md)
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
@@ -288,12 +287,11 @@
 - Street Fighter - The Movie (Europe) (2S) - TODO
 - Street Fighter - The Movie (Europe) (4S) - TODO
 - [Street Fighter - The Movie (USA)](../../Regions/USA/T-8105H/01/README.md)
-- Street Fighter Alpha - Warriors' Dreams (Europe) - TODO
+- [Street Fighter Alpha: Warrior's Dreams (Europe)](../../Regions/Europe/T-7008H-50/01/README.md)
 - [Street Fighter Alpha: Warrior's Dreams (USA)](../../Regions/USA/T-1206H/01/README.md)
 - Street Fighter Alpha 2 (Europe) - TODO
 - [Street Fighter Alpha 2 (USA)](../../Regions/USA/T-1213H/01/README.md)
-- Street Fighter Collection (Europe) (Disc 1) (R) - TODO
-- Street Fighter Collection (Europe) (Disc 2) (R) - TODO
+- [Street Fighter Collection (Europe)](../../Regions/Europe/T-7033H-50/01/README.md)
 - Street Fighter Collection (Japan) (Demo) - TODO
 - Street Fighter Collection (Japan) (Disc 1) - TODO
 - Street Fighter Collection (Japan) (Disc 2) - TODO
@@ -320,7 +318,7 @@
 - [Suikoden: Tenmei no Chikai (Japan)](../../Regions/Japan/T-7624G/01/README.md)
 - [Super Adventure Rockman (Japan)](../../Regions/Japan/T-1225G/01/README.md)
 - [Super Casino Special (Japan)](../../Regions/Japan/T-7306G/01/README.md)
-- Super Puzzle Fighter II Turbo (Europe) - TODO
+- [Super Puzzle Fighter II Turbo (Europe)](../../Regions/Europe/T-7030H-50/01/README.md)
 - [Super Puzzle Fighter II Turbo (USA)](../../Regions/USA/T-1215H/01/README.md)
 - Super Puzzle Fighter II X (Japan) - TODO
 - [Super Real Mahjong Graffiti (Japan)](../../Regions/Japan/T-16504G/01/README.md)
