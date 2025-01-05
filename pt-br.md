@@ -28,5 +28,5 @@ Outros links relacionados ao SAROO:
 - [Comerciais](Sections/Retails/en-us/README.md)
 - [Compilações](Sections/Compilations/en-us/README.md)
 - [Demos](Sections/Demos/en-us/README.md)
-- [Homebrews](Sections/Homebrews/en-us/README.md)
+- [Homebrews](Sections/Homebrews/pt-br.md)
 - [Romhacks](Sections/Romhacks/en-us/README.md)
