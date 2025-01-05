@@ -1,0 +1,45 @@
+# Daytona USA (Europe)
+
+### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+
+### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
+
+- <b>Firmwares Tested:</b>
+  1. MCU: 231125, SS: 231125, FPGA: 05
+
+### [SD Card Info (XRayDisk - 128 GB)](../../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
+
+### Game Info
+
+Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
+
+- <b>Game Name:</b> DAYTONA USA
+- <b>Product Number:</b> MK_8120050
+- <b>Version:</b> V1.000
+- <b>Area Code:</b> E
+- <b>Peripheral Code:</b> JS
+
+### Status
+
+- Fixed with configuration :hammer_and_wrench:
+
+### Problems without configuration
+
+- It does boot back to the CD menu when either the 'Advanced' and 'Expert' routes are chosen (Same error as the US version).
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/E/MK_8120050/README.md).
+
+### Extra Info
+
+- It needs a full gameplay test.
+
+### TODO
+
+- Test Daytona USA (Europe) (1S)
+- Test Daytona USA (Europe) (2S)
+
+### Evidence
+
+[![[Sample] SAROO 1.32 (231125) - Daytona USA (USA) = Fixed?](https://img.youtube.com/vi/YZOGw2jjz5k/0.jpg)](https://www.youtube.com/watch?v=YZOGw2jjz5k)

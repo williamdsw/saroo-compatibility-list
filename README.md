@@ -22,46 +22,11 @@ Other links related to SAROO:
 - `TODO` - Game needs to be tested, recorded, uploaded to YouTube and be registered here.
 - `TODO (Recorded)` - Game already tested, recorded and uploaded to YouTube but they need to be registered here.
 
-### Regions
-
-- `Brazil` - BRA, BR (1 Game)
-- `Europe` - EUR, EU (65 Games)
-- `France` - FRA, FR (0 Games)
-- `Germany` - GER, GE (1 Game)
-- `Italy` - ITA, IT (0 Game)
-- `Japan` - JAP, JP (851 Games)
-- `South Korea` - STK, SK (0 Games)
-- `Spain` - SPA, SP (0 Games)
-- `Taiwan` - TAI, TW (4 Game)
-- `USA` - United States of America, US (231 Games)
-- Total: 1.153 games registered
-
 ### Games
 
-- [# (0-9)](./Sections/en-us/09.md)
-- [A](./Sections/en-us/A.md)
-- [B](./Sections/en-us/B.md)
-- [C](./Sections/en-us/C.md)
-- [D](./Sections/en-us/D.md)
-- [E](./Sections/en-us/E.md)
-- [F](./Sections/en-us/F.md)
-- [G](./Sections/en-us/G.md)
-- [H](./Sections/en-us/H.md)
-- [I](./Sections/en-us/I.md)
-- [J](./Sections/en-us/J.md)
-- [K](./Sections/en-us/K.md)
-- [L](./Sections/en-us/L.md)
-- [M](./Sections/en-us/M.md)
-- [N](./Sections/en-us/N.md)
-- [O](./Sections/en-us/O.md)
-- [P](./Sections/en-us/P.md)
-- [Q](./Sections/en-us/Q.md)
-- [R](./Sections/en-us/R.md)
-- [S](./Sections/en-us/S.md)
-- [T](./Sections/en-us/T.md)
-- [U](./Sections/en-us/U.md)
-- [V](./Sections/en-us/V.md)
-- [W](./Sections/en-us/W.md)
-- [X](./Sections/en-us/X.md)
-- [Y](./Sections/en-us/Y.md)
-- [Z](./Sections/en-us/Z.md)
+- [Betas](Sections/Betas/en-us/README.md)
+- [Compilations](Sections/Compilations/en-us/README.md)
+- [Demos](Sections/Demos/en-us/README.md)
+- [Homebrews](Sections/Homebrews/en-us/README.md)
+- [Retails](Sections/Retails/en-us/README.md)
+- [Romhacks](Sections/Romhacks/en-us/README.md)
