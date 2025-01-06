@@ -1,4 +1,4 @@
-[English](../en-us/README.md) | **Português**
+[English](README.md) | **Português**
 
 # SAROO - Lista de Compatibilidade
 
