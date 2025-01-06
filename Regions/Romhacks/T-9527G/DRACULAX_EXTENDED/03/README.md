@@ -1,11 +1,13 @@
-# Sonic X-Treme (homebrew version)
+# Dracula X Nocturne in the Moonlight: Extended
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. MCU: 231005, SS: 231005, FPGA: 04
+  1. [MCU: 231125, SS: 231125, FPGA: 05](../01/README.md)
+  2. [MCU: 240107, SS: 240107, FPGA: 05 [KLnm]](../02/README.md)
+  3. MCU: 240107, SS: 240107, FPGA: 05 [KLnm]
 
 ### [SD Card Info (XRayDisk - 128 GB)](../../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
 
@@ -13,15 +15,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> Rockin-Bs MineSweeper for SEGA Saturn/segaXtreme coding contest 2003
-- <b>Product Number:</b> T-060680
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> JTUE
+- <b>Game Name:</b> DRACULA-X
+- <b>Product Number:</b> T-9527G
+- <b>Version:</b> V1.400
+- <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
-
-### Download Link
-
-https://segaxtreme.net/resources/sonic-x-treme-homebrew-version.145/
 
 ### Status
 
@@ -29,6 +27,6 @@ https://segaxtreme.net/resources/sonic-x-treme-homebrew-version.145/
 
 ### Evidence
 
-Sonic X-Treme (homebrew version) 2022-08-29:
+Dracula X: Nocturne in the Moonlight - Ultimate 1.0 - MARIA:
 
-[![](https://img.youtube.com/vi/Da3GOo3GwZQ/0.jpg)](https://www.youtube.com/watch?v=Da3GOo3GwZQ)
+[![](https://img.youtube.com/vi/KlvXQ147-zI/0.jpg)](https://www.youtube.com/watch?v=KlvXQ147-zI)

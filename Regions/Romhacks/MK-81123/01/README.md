@@ -1,4 +1,4 @@
-# Sonic X-Treme (homebrew version)
+# Sega Worldwide Soccer '23
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 
@@ -13,15 +13,15 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> Rockin-Bs MineSweeper for SEGA Saturn/segaXtreme coding contest 2003
-- <b>Product Number:</b> T-060680
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> JTUE
-- <b>Peripheral Code:</b> J
+- <b>Game Name:</b> WWS 98
+- <b>Product Number:</b> MK-81123
+- <b>Version:</b> V1.003
+- <b>Area Code:</b> E
+- <b>Peripheral Code:</b> JT
 
-### Download Link
+### Download
 
-https://segaxtreme.net/resources/sonic-x-treme-homebrew-version.145/
+https://segaxtreme.net/resources/sega-worldwide-soccer-23-mod.156/
 
 ### Status
 
@@ -29,6 +29,6 @@ https://segaxtreme.net/resources/sonic-x-treme-homebrew-version.145/
 
 ### Evidence
 
-Sonic X-Treme (homebrew version) 2022-08-29:
+Sega Worldwide Soccer '23:
 
-[![](https://img.youtube.com/vi/Da3GOo3GwZQ/0.jpg)](https://www.youtube.com/watch?v=Da3GOo3GwZQ)
+[![](https://img.youtube.com/vi/fffa1cuCsfo/0.jpg)](https://www.youtube.com/watch?v=fffa1cuCsfo)
