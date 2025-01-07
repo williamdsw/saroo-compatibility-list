@@ -13,16 +13,18 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+(Disc 1):
+
 - <b>Game Name:</b> KUROSU TANTEI MONOGATARI
-- <b>Product Number:</b> 6106876
+- <b>Product Number:</b> T-36401G
 - <b>Version:</b> V1.000
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
 
 ### Status
 
-- (Demo 1): Playable :white_check_mark:
-- (Demo 2): Untested :question:
+- (Disc 1): Playable :white_check_mark:
+- (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -30,10 +32,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Cross Tantei Monogatari (Japan) (Demo 2)
+- Fully Test Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1)
+- Fully Test Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 2)
 
 ### Evidence
 
-(Demo 1):
+(Disc 1):
 
-[![](https://img.youtube.com/vi/j5LrIuPjzqE/0.jpg)](https://www.youtube.com/watch?v=j5LrIuPjzqE)
+[![](https://img.youtube.com/vi/aU4MyQlA2ag/0.jpg)](https://www.youtube.com/watch?v=aU4MyQlA2ag)
