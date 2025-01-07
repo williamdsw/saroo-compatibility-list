@@ -24,10 +24,10 @@ Outros links relacionados ao SAROO:
 
 ### Jogos
 
-<!-- - [Betas](Sections/Betas/pt-br/README.md) -->
-
+- [Betas](Sections/Betas/pt-br.md)
 - [Comerciais](Sections/Retails/pt-br/README.md)
 <!-- - [Compilações](Sections/Compilations/pt-br/README.md) -->
 - [Demos](Sections/Demos/pt-br/README.md)
 - [Homebrews](Sections/Homebrews/pt-br.md)
+- [Protos](Sections/Protos/README.md)
 - [Romhacks](Sections/Romhacks/pt-br.md)

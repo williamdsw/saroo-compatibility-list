@@ -23,16 +23,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Beta): Untested :question:
 - (Retail): Playable :white_check_mark:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Darius Gaiden (USA) (Beta)
 
 ### Evidence
 

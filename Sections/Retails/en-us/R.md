@@ -2,7 +2,7 @@
 
 ## R
 
-#### 65 Games (35 Tested)
+#### 64 Games (35 Tested)
 
 - [Rabbit (Japan)](../../../Regions/Retails/Japan/T-10610G/01/README.md)
 - [Race Drivin' (Japan)](../../../Regions/Retails/Japan/T-4802G/01/README.md)
@@ -30,7 +30,6 @@
 - [Revolution X - Music is the Weapon featuring Aerosmith (USA)](../../../Regions/Retails/USA/T-8107H/01/README.md)
 - [Riglordsaga (Japan)](../../../Regions/Retails/Japan/GS-9021/01/README.md)
 - [Riglordsaga 2 (Japan)](../../../Regions/Retails/Japan/GS-9084/01/README.md) - TODO
-- Rise 2 - Resurrection (Europe) (Beta) - TODO
 - Rise 2 - Resurrection (Europe) - TODO
 - Rise 2 - Resurrection (Japan) - TODO
 - [Rise 2 - Resurrection (USA)](../../../Regions/Retails/USA/T-8114-H/01/README.md)
@@ -55,7 +54,7 @@
 - [Robo Pit (USA)](../../../Regions/Retails/USA/T-10002H/01/README.md)
 - [Robotica: Cybernation Revolt (USA)](../../../Regions/Retails/USA/T-8104H/01/README.md)
 - Robotica - Cybernation Revolt (Europe) - TODO
-- Rockman 8 - Metal Heroes (Japan) - TODO
+- Rockman 8 - Metal Heroes (Japan) - TODO (Recorded)
 - [Rockman X3 (Japan)](../../../Regions/Retails/Japan/T-1210G/01/README.md)
 - [Rockman X4 (Japan)](../../../Regions/Retails/Japan/T-1221G/01/README.md)
 - [Romance of the Three Kingdoms IV - Wall of Fire (USA)](../../../Regions/Retails/USA/T-7601H/01/README.md)

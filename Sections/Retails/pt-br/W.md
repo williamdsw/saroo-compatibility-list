@@ -2,12 +2,11 @@
 
 ## W
 
-#### 76 Jogos (47 Testados)
+#### 74 Jogos (47 Testados)
 
 - WWF In Your House (Europe) - TODO
 - WWF In Your House (Japan) - TODO
 - [WWF In Your House (USA)](../../../Regions/Retails/USA/T-8126H/01/README.md)
-- WWF WrestleMania - The Arcade Game (Europe) (Demo) - TODO
 - WWF WrestleMania - The Arcade Game (Europe) - TODO
 - WWF WrestleMania - The Arcade Game (Japan) - TODO
 - [WWF WrestleMania - The Arcade Game (USA)](../../../Regions/Retails/USA/T-8112H/01/README.md)
@@ -39,7 +38,6 @@
 - [Winning Post 3 (Japan)](../../../Regions/Retails/Japan/T-7660G/01/README.md)
 - Winning Post 3 - Program '98 (Japan) - TODO
 - [Winning Post EX (Japan)](../../../Regions/Retails/Japan/T-7606G/01/README.md)
-- Winter Heat (Europe) (Demo) - TODO
 - Winter Heat (Europe) - TODO
 - Winter Heat (Japan) - TODO
 - [Winter Heat (USA)](../../../Regions/Retails/USA/MK-81129/01/README.md)

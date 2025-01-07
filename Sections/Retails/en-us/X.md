@@ -2,7 +2,7 @@
 
 ## X
 
-#### 7 Games (4 Tested)
+#### 6 Games (5 Tested)
 
 - [X Japan - Virtual Shock 001 (Japan)](../../../Regions/Retails/Japan/GS-9023/01/README.md)
 - [X-Men - Children of the Atom (Europe)](../../../Regions/Retails/Europe/T-8108H-50/01/README.md)

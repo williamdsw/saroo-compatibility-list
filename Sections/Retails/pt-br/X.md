@@ -2,12 +2,10 @@
 
 ## X
 
-#### 8 Jogos (4 Testados)
+#### 6 Jogos (5 Testados)
 
 - [X Japan - Virtual Shock 001 (Japan)](../../../Regions/Retails/Japan/GS-9023/01/README.md)
-- X-Men - Children of the Atom (Europe) (2S) - TODO
-- X-Men - Children of the Atom (Europe) (3S) - TODO
-- X-Men - Children of the Atom (Japan) (Demo) - TODO
+- [X-Men - Children of the Atom (Europe)](../../../Regions/Retails/Europe/T-8108H-50/01/README.md)
 - X-Men - Children of the Atom (Japan) - TODO
 - [X-Men - Children of the Atom (USA)](../../../Regions/Retails/USA/T-8108H/01/README.md)
 - [X-Men vs. Street Fighter (Japan)](../../../Regions/Retails/Japan/T-1226G/01/README.md)

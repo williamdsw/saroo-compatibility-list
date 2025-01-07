@@ -2,7 +2,7 @@
 
 ## D
 
-#### 141 Games (81 Tested)
+#### 139 Games (81 Tested)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -32,7 +32,6 @@
 - [Dark Hunter (Jou) Ijigen Gakuen (Japan)](../../../Regions/Retails/Japan/T-7631G/01/README.md)
 - [Dark Legend (USA)](../../../Regions/Retails/USA/T-1305H/02/README.md) - TODO
 - Dark Savior (Europe) - TODO
-- Dark Savior (Japan) (Demo) - TODO
 - Dark Savior (Japan) - TODO
 - [Dark Savior (USA)](../../../Regions/Retails/USA/MK-81304/01/README.md)
 - [Dark Seed (Japan)](../../../Regions/Retails/Japan/T-18501G/01/README.md)

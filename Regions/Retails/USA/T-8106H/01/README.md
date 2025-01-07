@@ -23,8 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc I) (Beta) - Untested :question:
-- (Disc II) (Beta) - Untested :question:
 - (Disc I) - Playable :white_check_mark:
 - (Disc II) - Untested :question:
 
@@ -34,9 +32,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODOs
 
-- Fully Test D (USA) (Disc I) (Beta)
 - Fully Test D (USA) (Disc I)
-- Fully Test D (USA) (Disc II) (Beta)
 - Fully Test D (USA) (Disc II)
 
 ### Evidence

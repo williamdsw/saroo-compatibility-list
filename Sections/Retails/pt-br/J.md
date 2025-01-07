@@ -2,7 +2,7 @@
 
 ## J
 
-#### 32 Jogos (26 Testados)
+#### 30 Jogos (26 Testados)
 
 - [J. B. Harold - Blue Chicago Blues (Japan)](../../../Regions/Retails/Japan/T-5302G/01/README.md)
 - [J.League Go Go Goal! (Japan)](../../../Regions/Retails/Japan/T-3602G/README.md)
@@ -15,8 +15,6 @@
 - [Jantei Battle Cos-Player - Original Genga-shuu (Japan)](../../../Regions/Retails/Japan/T-3466106553/01/README.md)
 - [J Super Bass Classic '96](../../../Regions/Retails/Japan/T-18707G/01/README.md)
 - Jewels of the Oracle (Europe) - TODO
-- Jewels of the Oracle (USA) (Proto 1) - TODO
-- Jewels of the Oracle (USA) (Proto 2) - TODO
 - [Jikkyou Oshaberi Parodius - Forever with Me (Japan)](../../../Regions/Retails/Japan/T-9513G/01/README.md)
 - [Jikkyou Powerful Pro Yakyuu '95 Kaimaku-ban (Japan) (2M)](../../../Regions/Retails/Japan/T-9502G/01/README.md)
 - [Jikkyou Powerful Pro Yakyuu S (Japan)](../../../Regions/Retails/Japan/T-9523G/01/README.md)

@@ -24,15 +24,10 @@ Battle Arena Toshinden URA (Europe):
 ### Status
 
 - Battle Arena Toshinden URA (Europe): Playable :white_check_mark:
-- Battle Arena Toshinden URA (Europe) (Beta): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Battle Arena Toshinden URA (Europe) (Beta)
 
 ### Evidence
 

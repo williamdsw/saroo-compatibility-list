@@ -2,7 +2,7 @@
 
 ## V
 
-#### 87 Games (41 Tested)
+#### 88 Games (42 Tested)
 
 - [VR Golf '97 (USA)](../../../Regions/Retails/USA/T-12518H/01/README.md)
 - [VR Soccer (USA)](../../../Regions/Retails/USA/T-12517H/01/README.md)

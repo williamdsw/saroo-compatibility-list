@@ -22,7 +22,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Issues :warning:
-- (Beta): Untested :question:
 
 ### Problems
 
@@ -32,10 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 It needs tests with others caracters, and others modes (tournement, etc).
 
-### TODO
-
-- Test Street Fighter Alpha - Warriors' Dreams (USA) (Beta)
-
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Street Fighter Alpha: Warrior's Dreams (USA) = Crashes](https://img.youtube.com/vi/09pgfvhe_fE/0.jpg)](https://www.youtube.com/watch?v=09pgfvhe_fE)
+[![](https://img.youtube.com/vi/09pgfvhe_fE/0.jpg)](https://www.youtube.com/watch?v=09pgfvhe_fE)

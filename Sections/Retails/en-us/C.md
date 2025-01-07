@@ -2,7 +2,7 @@
 
 ## C
 
-#### 92 Games (56 Tested)
+#### 87 Games (52 Tested)
 
 - [Can Can Bunny Extra (Japan)](../../../Regions/Retails/Japan/T-19706G/01/README.md)
 - [Can Can Bunny Premiere (Japan)](../../../Regions/Retails/Japan/T-19701G/01/README.md)
@@ -38,9 +38,7 @@
 - [Clockwork Knight - Pepperouchau's Adventure (USA)](../../../Regions/Retails/USA/MK-81007/01/README.md) - TODO (Recorded)
 - Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S) - TODO
 - Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (3S) - TODO
-- Clockwork Knight 2 - Pepperouchau's Adventure (USA) (Beta) - TODO
 - [Clockwork Knight 2 - Pepperouchau's Adventure (USA, Brazil)](../../../Regions/Retails/USA/MK-81036/01/README.md) - TODO (Recorded)
-- [Clockwork Knight Puzzle - Pengin War (Japan) (Beta)](../../../Regions/Retails/Japan/T-1236G/01/README.md) - TODO (Recorded)
 - [Code R (Japan)](../../../Regions/Retails/Japan/T-23502G/01/README.md)
 - [College Slam (USA)](../../../Regions/Retails/USA/T-8111H/01/README.md)
 - Command & Conquer (Europe) (Disc 1) (GDI) - TODO
@@ -62,7 +60,6 @@
 - [Courier Crisis (USA)](../../../Regions/Retails/USA/T-25415H/01/README.md)
 - [Creature Shock (Japan)](../../../Regions/Retails/Japan/T-1303G/01/README.md)
 - [Creature Shock - Special Edition (USA)](../../../Regions/Retails/USA/T-01304H/01/README.md)
-- [Crime Patrol (USA) (Proto) (1996-09-24)](../../../Regions/Retails/USA/T-11102H/01/README.md)
 - Crimewave (Europe) - TODO
 - Crimewave (Japan) - TODO
 - [Crimewave (USA)](../../../Regions/Retails/USA/T-8807H/01/README.md)

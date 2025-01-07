@@ -2,7 +2,7 @@
 
 ## T
 
-#### 141 Games (46 Tested - 41 to be registered)
+#### 140 Games (46 Tested - 41 to be registered)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO (Recorded)
@@ -36,7 +36,6 @@
 - [Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan)](../../../Regions/Retails/Japan/T-26103G/01/README.md)
 - Tenchi o Kurau II - Sekiheki no Tatakai (Japan) - TODO (Recorded)
 - Tenga Seiha (Japan) - TODO (Recorded)
-- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Demo) - TODO
 - Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 1) - TODO (Recorded)
 - Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 2) - TODO
 - Tennis Arena (Japan) - TODO (Recorded)

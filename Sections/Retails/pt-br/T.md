@@ -2,7 +2,7 @@
 
 ## T
 
-#### 162 Jogos (46 Testados - 41 a serem registrados)
+#### 140 Jogos (46 Testados - 41 a serem registrados)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO (Recorded)
@@ -21,23 +21,6 @@
 - Tanjou - Debut S (Japan) (5M) - TODO
 - Tantei Jinguuji Saburou - Mikan no Report (Japan) - TODO (Recorded)
 - Tantei Jinguuji Saburou - Yume no Owari ni (Japan) (3M) - TODO (Recorded)
-- Tech Saturn Apr.1997 (Japan) - TODO
-- Tech Saturn Aug.1997 (Japan) - TODO
-- Tech Saturn Feb.1997 - E, Chocolate Kurereba Morau yo (Japan) - TODO
-- Tech Saturn Jan.1997 - Kizuitara Gekkan-ka (Japan) - TODO
-- Tech Saturn Jul.1997 (Japan) - TODO
-- Tech Saturn Jun.1997 (Japan) - TODO
-- Tech Saturn Mar.1997 - Okaeshi wa Marshmallow, Cookie, Howaito Choco (Japan) - TODO
-- Tech Saturn May.1997 (Japan) - TODO
-- Tech Saturn Oct.1997 (Japan) - TODO
-- Tech Saturn Sep.1997 (Japan) - TODO
-- Tech Saturn Tsuushin - Autumn 1995 - Special CD-ROM (Japan) - TODO
-- Tech Saturn Tsuushin - Spring 1995 (Japan) - TODO
-- Tech Saturn Tsuushin - Winter 1995 - Taikenban & Demo-ban ga Tenkomori! (Japan) - TODO
-- Tech Saturn Tsuushin Vol. 4 - Spring 1996 - Youriyou Meippai Kikaku Tenkomori (Japan) - TODO
-- Tech Saturn Tsuushin Vol. 5 - Summer 1996 (Japan) - TODO
-- Tech Saturn Vol. 1-1996 - Yatchimatta! (Japan) - TODO
-- Tech Saturn Vol. 2-1996 - Maitsuki 8-nichi wa Tessa no Hi - Ataru to Sugo Iyo (Japan) - TODO
 - Techno Motor (Japan) - TODO (Recorded)
 - Teitoku no Ketsudan II (Japan) - TODO
 - Teitoku no Ketsudan III (Japan) - TODO (Recorded)
@@ -46,7 +29,6 @@
 - Tempest 2000 (Europe) - TODO
 - Tempest 2000 (USA) - TODO (Recorded)
 - Ten Pin Alley (USA) - TODO (Recorded)
-- Tenant Wars (Japan) (Demo) - TODO
 - Tenant Wars (Japan) - TODO (Recorded)
 - [Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan)](../../../Regions/Retails/Japan/T-21802G/01/README.md)
 - [Tenchi Muyou! Rensa Hitsuyou (Japan)](../../../Regions/Retails/Japan/T-22204G/01/README.md)
@@ -54,7 +36,6 @@
 - [Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan)](../../../Regions/Retails/Japan/T-26103G/01/README.md)
 - Tenchi o Kurau II - Sekiheki no Tatakai (Japan) - TODO (Recorded)
 - Tenga Seiha (Japan) - TODO (Recorded)
-- Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Demo) - TODO
 - Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 1) - TODO (Recorded)
 - Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Disc 2) - TODO
 - Tennis Arena (Japan) - TODO (Recorded)
@@ -79,7 +60,6 @@
 - The Horde (Japan) - TODO
 - [The Horde (USA)](../../../Regions/Retails/USA/T-15909H50/01/README.md)
 - The House of the Dead (Europe) - TODO
-- The House of the Dead (Japan) (Demo) - TODO
 - The House of the Dead (Japan) (Rev A) - TODO
 - The House of the Dead (Japan) - TODO
 - [The House of the Dead (USA)](../../../Regions/Retails/USA/T-26109G/01/README.md)
@@ -139,13 +119,11 @@
 - [Tokyo Shadow (Japan)](../../../Regions/Retails/Japan/T-1110G/01/README.md)
 - Tomb Raider (Europe) - TODO
 - [Tomb Raider (USA)](../../../Regions/Retails/USA/T-7910H/01/README.md)
-- Tomb Raiders (Japan) (Demo) - TODO
 - Tomb Raiders (Japan) - TODO
 - Top Anglers - Super Fishing Big Fight 2 (Japan) - TODO
 - Torico (Europe) (Disc 1) - TODO
 - Torico (Europe) (Disc 2) - TODO
 - [Touge King the Spirits (Japan)](../../../Regions/Retails/Japan/T-14401G/01/README.md)
-- Touge King the Spirits 2 (Japan) (Demo) - TODO
 - [Touge King the Spirits 2 (Japan)](../../../Regions/Retails/Japan/T-14412G/01/README.md)
 - Tour Party - Sotsugyou Ryokou ni Ikou (Japan) (Rev A) - TODO
 - Tournament Leader (Japan) - TODO

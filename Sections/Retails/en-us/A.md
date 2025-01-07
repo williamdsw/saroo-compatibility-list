@@ -2,7 +2,7 @@
 
 ## A
 
-#### 77 Games (47 Tested)
+#### 72 Games (47 Tested)
 
 - [AI Igo (Japan)](../../../Regions/Retails/Japan/T-17601G/01/README.md)
 - [AI Shougi (Japan)](../../../Regions/Retails/Japan/T18602G/01/README.md)
@@ -26,9 +26,7 @@
 - [Album Club (Mune Kyun) - St. Paulia Jogakuin (Japan)](../../../Regions/Retails/Japan/T-21903G/01/README.md)
 - Alien Trilogy (Europe) (4S) - TODO
 - Alien Trilogy (Europe) (7S) - TODO
-- Alien Trilogy (Europe) (Beta) - TODO
 - Alien Trilogy (Germany) - TODO
-- Alien Trilogy (Japan) (Demo) - TODO
 - Alien Trilogy (Japan) - TODO
 - [Alien Trilogy (USA)](../../../Regions/Retails/USA/T-8113H/01/README.md)
 - [All-Star Baseball '97 Featuring Frank Thomas (USA)](../../../Regions/Retails/USA/T-8150H/01/README.md)
@@ -60,12 +58,10 @@
 - [Aquazone - Desktop Life Option Disc Series 3 - Blue Emperor (Japan) (Rev A)](../../../Regions/Retails/Japan/T-24004G/01/README.md)
 - [Aquazone - Desktop Life Option Disc Series 4 - Clown Loach (Japan) (Rev A)](../../../Regions/Retails/Japan/T-24005G/01/README.md)
 - [Aquazone - Desktop Life Option Disc Series 5 - False Rummy-Nose (Japan) (Rev A)](../../../Regions/Retails/Japan/T-24006G/01/README.md)
-- Arcade Gears Vol. 4 - ImageFight & XMultiply (Japan) - TODO
 - Arcade's Greatest Hits - The Atari Collection 1 (Europe) - TODO
 - [Arcana Strikes (Japan)](../../../Regions/Retails/Japan/T-10311G/01/README.md)
 - Area 51 (Europe) (En,Fr,De,Es) - TODO
 - Area 51 (Japan) - TODO
-- Area 51 (USA) (Beta) - TODO
 - [Area 51 (USA)](../../../Regions/Retails/USA/T-9705H/01/README.md)
 - [Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan) ](../../../Regions/Retails/Japan/T-1209G/01/README.md)
 - [Assault Rigs (Japan)](../../../Regions/Retails/Japan/T-18606G/01/README.md)

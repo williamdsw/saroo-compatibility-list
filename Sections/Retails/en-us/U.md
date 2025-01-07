@@ -2,7 +2,7 @@
 
 ## U
 
-#### 11 Games
+#### 10 Games
 
 - [UEFA Euro 96 - England (Europe)](../../../Regions/Retails/Europe/MK-81180/01/README.md)
 - [Ultimate Mortal Kombat 3 (Europe)](../../../Regions/Retails/Europe/T-25403H/01/README.md)

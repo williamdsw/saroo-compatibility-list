@@ -2,7 +2,7 @@
 
 ## B
 
-#### 87 Games (55 Tested)
+#### 86 Games (55 Tested)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../../Regions/Retails/Japan/T-19907G/01/README.md)
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../../Regions/Retails/Japan/T-19906G/01/README.md)
@@ -84,7 +84,6 @@
 - [Bug! Jump Shite, Funzukechatte, Petchanko (Japan)](../../../Regions/Retails/Japan/GS-9063/01/README.md)
 - [Bulk Slash (Japan)](../../../Regions/Retails/Japan/T-14310G/01/README.md)
 - Burning Rangers (Europe) - TODO
-- Burning Rangers (Japan) (Proto) - TODO
 - Burning Rangers (Japan) - TODO
 - [Burning Rangers (USA)](../../../Regions/Retails/USA/MK-81803/01/README.md)
 - [Bust-A-Move 2: Arcade Edition (Europe)](../../../Regions/Retails/Europe/T-8132H-50/01/README.md)

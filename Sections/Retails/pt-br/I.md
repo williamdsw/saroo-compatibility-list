@@ -16,7 +16,6 @@
 - Idol Mahjong - Final Romance R (Japan) (Kisekae Disc) - TODO (T-16705G ?)
 - [Idol Mahjong - Final Romance R (Japan)](../../../Regions/Retails/Japan/T-16703G/01/README.md)
 - [ImageFight & XMultiply: Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26110G/01/README.md)
-- Impact Racing (Europe) (Demo) - TODO
 - Impact Racing (Europe) - TODO
 - Impact Racing (Japan) - TODO
 - [Impact Racing (USA)](../../../Regions/Retails/USA/T-8139H/01/README.md)

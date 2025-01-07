@@ -26,7 +26,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 - Keep reseting to bios screen until the visual glitches are gone
-- Continue resetando para a tela de bios até os glitches visuais irem embora
 - It does need a full gameplay test.
 
 ### Evidence

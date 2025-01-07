@@ -2,12 +2,11 @@
 
 ## H
 
-#### 53 Jogos (43 Testados)
+#### 50 Jogos (41 Testados)
 
 - [Habitat II (Japan)](../../../Regions/Retails/Japan/GS-7105/01/README.md)
 - Hang On GP '95 (Japan) (1M) - TODO
 - Hang On GP '95 (Japan) (2M) - TODO
-- Hang On GP '95 (Japan) (Demo) (2M) - TODO
 - Hang On GP '96 (Europe) - TODO
 - [Hang-On GP (USA)](../../../Regions/Retails/USA/MK-81202/01/README.md)
 - [Hankou Shashin: Shibarareta Shoujo-tachi no Mita Mono ha? (Japan)](../../../Regions/Retails/Japan/T-15008G/01/README.md)
@@ -17,7 +16,6 @@
 - [HatTrick Hero S (Japan)](../../../Regions/Retails/Japan/T-1102G/01/README.md)
 - [Hatsukoi Monogatari (Japan)](../../../Regions/Retails/Japan/T-33004G/01/README.md)
 - [Haunted Casino (Japan)](../../../Regions/Retails/Japan/T-21902G/01/README.md)
-- [Heart of Darkness (Japan) (Proto)](../../../Regions/Retails/Japan/999999999/01/README.md)
 - [Heartbeat Scramble (Japan)](../../../Regions/Retails/Japan/T-15014G/01/README.md)
 - [Hebereke's Popoitto (Europe)](../../../Regions/Retails/Europe/T-1502H/01/README.md)
 - [Heim Waltz (Japan)](../../../Regions/Retails/Japan/GS-9121/01/README.md)
@@ -50,7 +48,6 @@
 - [Horror Tour (Japan)](../../../Regions/Retails/Japan/T-24301G/01/README.md)
 - [Houkago Ren'ai Club - Koi no Etude (Japan)](../../../Regions/Retails/Japan/T-19714G/01/README.md)
 - [Houma Hunter Lime Perfect Collection (Japan)](../../../Regions/Retails/Japan/T-2001G/01/README.md)
-- [Hudson Soft - New Soft Line Up for Sega Saturn (Japan)](../../../Regions/Retails/Japan/610-6540/01/README.md)
 - [Hyper 3-D Pinball (USA)](../../../Regions/Retails/USA/T-7015H/01/README.md)
 - Hyper 3D Pinball (Japan) - TODO
 - [Hyper 3D Taisen Battle Gebockers (Japan)](../../../Regions/Retails/Japan/T-5303G/01/README.md)

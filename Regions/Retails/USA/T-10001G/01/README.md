@@ -24,7 +24,6 @@ In the Hunt (USA):
 ### Status
 
 - In the Hunt (USA): Issues :warning:
-- In the Hunt (USA) (Beta): Untested :question:
 
 ### Problems
 
@@ -33,10 +32,6 @@ In the Hunt (USA):
 ### Extra Info
 
 It needs tests with others caracters, and others modes (tournement, etc) and other 'prizes' after beating Shao Kahn.
-
-### TODO
-
-- Test In the Hunt (USA) (Beta)
 
 ### Evidence
 

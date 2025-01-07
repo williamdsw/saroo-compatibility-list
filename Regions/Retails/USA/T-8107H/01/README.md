@@ -22,16 +22,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Beta): Untested :question:
 
 ### Extra Info
 
 It's needs a full gameplay test.
 
-### TODO
-
-- Test Revolution X - Music Is the Weapon (USA) (Beta)
-
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Revolution X - Music is the Weapon featuring Aerosmith (USA) = Playable](https://img.youtube.com/vi/ryGE3ZjZGvU/0.jpg)](https://www.youtube.com/watch?v=ryGE3ZjZGvU)
+[![](https://img.youtube.com/vi/ryGE3ZjZGvU/0.jpg)](https://www.youtube.com/watch?v=ryGE3ZjZGvU)

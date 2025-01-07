@@ -36,7 +36,6 @@
 - Fighters Megamix (Japan) - TODO
 - [Fighters Megamix (USA)](../../../Regions/Retails/USA/MK-81073/01/README.md)
 - [Fighting Vipers (Europe)](../../../Regions/Retails/Europe/MK-81041/01/README.md)
-- Fighting Vipers (Japan) (Demo) - TODO
 - Fighting Vipers (Japan) (Rev A) - TODO
 - Fighting Vipers (Japan) (Rev C) - TODO
 - Fighting Vipers (Korea) - TODO

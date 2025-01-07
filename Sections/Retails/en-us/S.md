@@ -2,7 +2,7 @@
 
 ## S
 
-#### 292 Games (29 Tested - 142 to be tested)
+#### 290 Games (29 Tested - 142 to be tested)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md)
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md)
@@ -125,7 +125,6 @@
 - [Shin Theme Park (Japan)](../../../Regions/Retails/Japan/T-10618G/01/README.md)
 - [Shingata Kururin Pa! (Japan)](../../../Regions/Retails/Japan/T-24202G/01/README.md)
 - Shining Force III (Europe) (R) - TODO
-- Shining Force III (USA) (Beta) - TODO
 - Shining Force III (USA) - TODO
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A) - TODO
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) - TODO
@@ -134,7 +133,6 @@
 - Shining Force III - Scenario 3 - Hyouheki no Jashinguu (Japan) - TODO
 - Shining Force III Premium Disc (Japan) - TODO
 - Shining Wisdom (Europe) - TODO
-- Shining Wisdom (Japan) (Demo) - TODO
 - Shining Wisdom (Japan) (Rev A) - TODO
 - Shining Wisdom (Japan) - TODO
 - [Shining Wisdom (USA)](../../../Regions/Retails/USA/T-12702H/01/README.md)

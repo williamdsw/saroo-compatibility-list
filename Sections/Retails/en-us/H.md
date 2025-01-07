@@ -2,7 +2,7 @@
 
 ## H
 
-#### 51 Games (41 Tested)
+#### 50 Games (41 Tested)
 
 - [Habitat II (Japan)](../../../Regions/Retails/Japan/GS-7105/01/README.md)
 - Hang On GP '95 (Japan) (1M) - TODO
@@ -16,7 +16,6 @@
 - [HatTrick Hero S (Japan)](../../../Regions/Retails/Japan/T-1102G/01/README.md)
 - [Hatsukoi Monogatari (Japan)](../../../Regions/Retails/Japan/T-33004G/01/README.md)
 - [Haunted Casino (Japan)](../../../Regions/Retails/Japan/T-21902G/01/README.md)
-- [Heart of Darkness (Japan) (Proto)](../../../Regions/Retails/Japan/999999999/01/README.md)
 - [Heartbeat Scramble (Japan)](../../../Regions/Retails/Japan/T-15014G/01/README.md)
 - [Hebereke's Popoitto (Europe)](../../../Regions/Retails/Europe/T-1502H/01/README.md)
 - [Heim Waltz (Japan)](../../../Regions/Retails/Japan/GS-9121/01/README.md)
