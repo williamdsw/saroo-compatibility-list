@@ -30,7 +30,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Solution
 
-- [Check this page for the configuration (< 231111 firmware)](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-14411G/README.md).
+- [Check this page for the configuration (< 231111 firmware)](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-14411G/README.md).
 
 ### Extra Info
 

@@ -30,7 +30,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Solution (Optional)
 
-[Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/U/T-4804H/README.md).
+[Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/USA/T-4804H/README.md).
 
 ### Extra Info
 

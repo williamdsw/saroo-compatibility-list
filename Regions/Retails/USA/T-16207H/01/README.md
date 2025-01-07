@@ -32,7 +32,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Solution
 
-- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/U/T-16207H/README.md).
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/USA/T-16207H/README.md).
 
 ### Extra Info
 

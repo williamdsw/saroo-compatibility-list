@@ -40,8 +40,8 @@ Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A):
 
 ### Solution
 
-- [Gokujou Parodius Da! Deluxe Pack (Japan)](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-9501G/V1.001/README.md).
-- [Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-9501G/V1.002/README.md).
+- [Gokujou Parodius Da! Deluxe Pack (Japan)](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-9501G/V1.001/README.md).
+- [Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A)](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-9501G/V1.002/README.md).
 
 ### Evidence
 

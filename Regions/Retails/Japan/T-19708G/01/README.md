@@ -29,7 +29,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Solution
 
-- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/J/T-19708G/README.md).
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-19708G/README.md).
 
 ### Extra Info
 
