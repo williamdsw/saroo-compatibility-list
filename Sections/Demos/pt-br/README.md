@@ -1,12 +1,8 @@
-**English** | [Português](../pt-br/README.md)
+[English](../en-us/README.md) | _Português_
 
 # SAROO - Lista de Compatibilidade
 
 ## Demos
-
-###
-
-- Total: 1.153 jogos registrados
 
 ### Regiões
 
