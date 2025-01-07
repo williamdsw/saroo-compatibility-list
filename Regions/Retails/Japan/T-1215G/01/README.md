@@ -22,16 +22,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (Retail): Issues :warning:
-- (Demo): Untested :question:
 
 ### Problems
 
 - Slowdowns on spawning powers and on loading
 - Graphic glitches on 3MB mode off.
-
-### TODO
-
-- Test Marvel Super Heroes (Japan) (Demo)
 
 ### Evidence
 

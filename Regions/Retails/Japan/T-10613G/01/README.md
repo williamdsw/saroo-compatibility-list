@@ -27,6 +27,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Nissan Presents - Over Drivin' GT-R (Japan) (Rev A)
+
 ### Evidence
 
 [![](https://img.youtube.com/vi/PHKl0cHG9lU/0.jpg)](https://www.youtube.com/watch?v=PHKl0cHG9lU)

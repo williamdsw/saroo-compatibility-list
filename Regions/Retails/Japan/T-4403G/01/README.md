@@ -24,15 +24,10 @@ Stellar Assault SS (Japan):
 ### Status
 
 - Stellar Assault SS (Japan): Playable :white_check_mark:
-- Stellar Assault SS (Japan) (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Stellar Assault SS (Japan) (Demo)
 
 ### Evidence
 

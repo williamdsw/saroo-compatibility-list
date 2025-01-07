@@ -2,7 +2,7 @@
 
 ## G
 
-#### 82 Games (70 Tested)
+#### 79 Games (67 Tested)
 
 - [G Vector (Japan)](../../../Regions/Retails/Japan/T-30603G/01/README.md)
 - [GT24 (Japan)](../../../Regions/Retails/Japan/T-5714G/01/README.md)
@@ -66,10 +66,7 @@
 - [Grand Slam (USA)](../../../Regions/Retails/USA/T-07004H/01/README.md)
 - [Grandia (Japan)](../../../Regions/Retails/Japan/T-4507G/01/README.md)
 - [Grandia Digital Museum (Japan)](../../../Regions/Retails/Japan/T-4512G/01/README.md)
-- [Grandia: Prelude (Japan)](../../../Regions/Retails/Japan/6106600/01/README.md)
 - [Greatest Nine '96 (Japan)](../../../Regions/Retails/Japan/GS-9086/01/README.md)
-- [Gremlin Interactive Demo Disc (Europe)](../../../Regions/Retails/Europe/T-12313H/01/README.md)
-- [Gremlin Interactive Demo Disk (Europe)](../../../Regions/Retails/Europe/T-12301H/01/README.md)
 - Grid Run (Europe) - TODO
 - Grid Runner (Japan) - TODO
 - [Grid Runner (USA)](../../../Regions/Retails/USA/T-7025H/01/README.md)

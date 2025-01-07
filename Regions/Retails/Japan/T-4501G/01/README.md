@@ -22,15 +22,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - It needs a full gameplay tests.
-
-### TODO
-
-- Test Yumimi Mix Remix (Japan) (Demo)
 
 ### Evidence
 

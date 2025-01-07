@@ -22,7 +22,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (Retail): Fixed with configuration :hammer_and_wrench:
-- (Demo): Untested :question:
 
 ### Problems without configuration
 
@@ -35,10 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Monster Slider (Japan) (Demo)
 
 ### Evidence
 

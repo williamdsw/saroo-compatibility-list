@@ -22,19 +22,14 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (Rev A): Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - (Rev A): Fully tested with `Jin & Go`
 - It does need a full gameplay test with other characters and modes
 
-### TODO
-
-- Test Vatlva (Japan) (Demo)
-
 ### Evidence
 
 (Rev A):
 
-[![[Complete] SAROO 1.32 (240515) - Vatlva (Japan)](https://img.youtube.com/vi/CJceGPba2Og/0.jpg)](https://www.youtube.com/watch?v=CJceGPba2Og)
+[![](https://img.youtube.com/vi/CJceGPba2Og/0.jpg)](https://www.youtube.com/watch?v=CJceGPba2Og)

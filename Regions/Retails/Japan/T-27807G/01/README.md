@@ -23,7 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Playable :white_check_mark:
 - (2M): Untested :question:
-- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -32,7 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Test Yuukyuu Gensoukyoku 2nd Album (Japan) (2M)
-- Test Yuukyuu Gensoukyoku 2nd Album (Japan) (Demo)
 
 ### Evidence
 

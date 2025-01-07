@@ -29,7 +29,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Demo)
 - Test Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Rev A)
 - Test Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Shokai Tokutenban) (1M, 3M, 4M)
 - Test Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Shokai Tokutenban)

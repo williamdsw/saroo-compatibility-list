@@ -2,7 +2,7 @@
 
 ## P
 
-#### 100 Games (47 Tested)
+#### 96 Games (47 Tested)
 
 - [Pacific Theater of Operations II (USA)](../../../Regions/Retails/USA/T-7604H/01/README.md)
 - [PD Ultraman Link (Japan)](../../../Regions/Retails/Japan/T-13304G/01/README.md)
@@ -22,8 +22,6 @@
 - Panzer Dragoon (Japan) (3A, 3B) - TODO
 - Panzer Dragoon (Japan) (4B) - TODO
 - Panzer Dragoon (Japan) (5A) - TODO
-- Panzer Dragoon (Japan) (Demo 1) - TODO
-- Panzer Dragoon (Japan) (Demo 2) - TODO
 - [Panzer Dragoon (USA)](../../../Regions/Retails/USA/MK-81009/01/README.md)
 - Panzer Dragoon II Zwei (Europe) - TODO
 - Panzer Dragoon II Zwei (Japan) - TODO
@@ -56,12 +54,10 @@
 - [Policenauts (Japan)](../../../Regions/Retails/Japan/T-9510G/01/README.md)
 - Popoitto Hebereke (Japan) - TODO
 - Powerslave (USA) - TODO
-- Preview Sega Saturn Vol. 1 (Europe) - TODO
 - [PriCla Daisakusen (Japan)](../../../Regions/Retails/Japan/T-14409G/01/README.md)
 - [Primal Rage (Europe)](../../../Regions/Retails/Europe/T-4802H-50/01/README.md)
 - Primal Rage (Japan) - TODO
 - [Primal Rage (USA)](../../../Regions/Retails/USA/T-4802H/01/README.md)
-- Prime Selection Vol. 1 (Japan) - TODO
 - [Princess Crown (Japan)](../../../Regions/Retails/Japan/T-14418G/01/README.md)
 - [Princess Maker: Yumemiru Yousei (Japan)](../../../Regions/Retails/Japan/T-35101G/01/README.md)
 - [Princess Maker 2 (Japan)](../../../Regions/Retails/Japan/T-5201G/01/README.md)

@@ -22,15 +22,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo) (2M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODOs
-
-- Test Girls in Motion Puzzle Vol. 2 - Body Special 264 (Japan) (Demo) (2M)
 
 ### Evidence
 

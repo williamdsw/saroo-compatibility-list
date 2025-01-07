@@ -22,16 +22,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need full campaign test
 
-### TODO
-
-- Test Side Pocket 3 (Japan) (Demo)
-
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Side Pocket 3 (J) = Playable](https://img.youtube.com/vi/RzHp3JTSVI4/0.jpg)](https://www.youtube.com/watch?v=RzHp3JTSVI4)
+[![](https://img.youtube.com/vi/RzHp3JTSVI4/0.jpg)](https://www.youtube.com/watch?v=RzHp3JTSVI4)

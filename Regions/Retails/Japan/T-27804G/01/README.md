@@ -23,7 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Playable :white_check_mark:
 - (Alt): Untested :question:
-- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -32,7 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Test Yuukyuu Gensoukyoku (Japan) (Alt)
-- Test Yuukyuu Gensoukyoku (Japan) (Demo)
 
 ### Evidence
 

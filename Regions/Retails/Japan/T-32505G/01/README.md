@@ -22,16 +22,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo) - Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-### TODO
-
-- Test Farland Story: Habou no Mai (Japan) (Demo)
-
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Farland Story: Habou no Mai (Japan)](https://img.youtube.com/vi/M2K32dRX0Bs/0.jpg)](https://www.youtube.com/watch?v=M2K32dRX0Bs)
+[![](https://img.youtube.com/vi/M2K32dRX0Bs/0.jpg)](https://www.youtube.com/watch?v=M2K32dRX0Bs)

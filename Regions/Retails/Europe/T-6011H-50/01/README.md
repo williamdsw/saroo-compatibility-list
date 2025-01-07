@@ -27,10 +27,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
-### TODO
-
-- Test Pinball Graffiti (Europe) (Demo)
-
 ### Evidence
 
 TODO

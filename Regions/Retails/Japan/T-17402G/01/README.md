@@ -23,7 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - (Disc 1): Playable :white_check_mark:
 - (Disc 2): Untested :question:
-- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -33,7 +32,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Fully test QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 1)
 - Test QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 2)
-- Test QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Demo)
 
 ### Evidence
 

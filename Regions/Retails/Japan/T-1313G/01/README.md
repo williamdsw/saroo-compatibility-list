@@ -22,8 +22,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (Retail) (2M): Fixed with configuration :hammer_and_wrench:
-- (Demo) (1M): Untested :question:
-- (Demo) (2M): Untested :question:
 
 ### Problems without configuration
 
@@ -36,11 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Extra Info
 
 - It needs a full gameplay test.
-
-### TODO
-
-- Test Magical Drop III - Toretate Zoukan-gou! (Japan) (Demo) (1M)
-- Test Magical Drop III - Toretate Zoukan-gou! (Japan) (Demo) (2M)
 
 ### Evidence
 

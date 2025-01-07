@@ -35,10 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
-### TODOs
-
-- Test Goiken Muyou - Anarchy in the Nippon (Japan) (Demo)
-
 ### Evidence
 
 [![](https://img.youtube.com/vi/cq3zmbzgfvo/0.jpg)](https://www.youtube.com/watch?v=cq3zmbzgfvo)

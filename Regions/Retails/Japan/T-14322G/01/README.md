@@ -23,7 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Demo): Untested :question:
 - (Disc 1): Untested :question:
 - (Disc 2): Untested :question:
 
@@ -33,7 +32,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan) (Demo)
 - Test Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan) (Disc 1)
 - Test Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan) (Disc 2)
 

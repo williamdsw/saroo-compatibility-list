@@ -27,7 +27,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - (Disc 3) (Disc 3) (Lost One Disc) (2M): Untested :question:
 - (Disc 4) (Extra Disc) (1M): Untested :question:
 - (Disc 4) (Extra Disc) (2M): Untested :question:
-- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -35,7 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Eve - The Lost One (Japan) (Demo)
 - Fully Test Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc) (1M)
 - Fully Test Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (2M)
 - Fully Test Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (1M)

@@ -2,7 +2,7 @@
 
 ## N
 
-#### 71 Games (43 Tested)
+#### 70 Games (43 Tested)
 
 - NASCAR 98 (Europe) - TODO
 - NASCAR 98 (France) - TODO
@@ -49,7 +49,6 @@
 - [NetLink Custom Web Browser (USA)](../../../Regions/Retails/USA/T-319-01H/01/README.md)
 - [Next King - Koi no Sennen Oukoku (Japan)](../../../Regions/Retails/Japan/T-13328G/01/README.md)
 - NiGHTS into Dreams... (Europe) - TODO
-- NiGHTS into Dreams... (Japan) (Demo) - TODO
 - NiGHTS into Dreams... (Japan) - TODO
 - NiGHTS into Dreams... (Korea) - TODO
 - [NiGHTS into Dreams... (USA, Brazil)](../../../Regions/Retails/USA/MK-81020/01/README.md)

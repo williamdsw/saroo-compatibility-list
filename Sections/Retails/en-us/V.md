@@ -2,20 +2,18 @@
 
 ## V
 
-#### 92 Games (41 Tested)
+#### 87 Games (41 Tested)
 
 - [VR Golf '97 (USA)](../../../Regions/Retails/USA/T-12518H/01/README.md)
 - [VR Soccer (USA)](../../../Regions/Retails/USA/T-12517H/01/README.md)
 - Valora Valley Golf (Europe) - TODO
 - [Valora Valley Golf (USA)](../../../Regions/Retails/USA/T-2303H/01/README.md)
-- Vampire Hunter - Darkstalker's Revenge (Japan) (Demo) - TODO
 - Vampire Hunter - Darkstalkers' Revenge (Japan) (1M) - TODO
 - Vampire Hunter - Darkstalkers' Revenge (Japan) (2M, 4M) - TODO
 - Vampire Hunter - Darkstalkers' Revenge (Japan) (3M) - TODO
 - [Vampire Savior: The Lord of Vampire (Japan)](../../../Regions/Retails/Japan/T-1229G/01/README.md)
 - [Vandal Hearts - Ushinawareta Kodai Bunmei (Japan)](../../../Regions/Retails/Japan/T-9526G/01/README.md)
 - [Vatlva (Japan)](../../../Regions/Retails/Japan/T-31501G/01/README.md)
-- Victory Boxing (Europe) (Demo) - TODO
 - [Victory Boxing (Europe)](../../../Regions/Retails/Europe/T-6005H-50/01/README.md)
 - [Victory Goal (Japan)](../../../Regions/Retails/Japan/GS-9002/01/README.md)
 - [Victory Goal Worldwide Edition (Japan)](../../../Regions/Retails/Japan/GS-9112/01/README.md)
@@ -33,14 +31,12 @@
 - [Virtua Cop 2 (USA)](../../../Regions/Retails/USA/MK-81043/01/README.md)
 - Virtua Fighter (Europe) (Made in EU) - TODO
 - Virtua Fighter (Europe) (Made in USA) - TODO
-- Virtua Fighter (Japan) (Demo) - TODO
 - Virtua Fighter (Japan) - TODO
 - [Virtua Fighter (USA)](../../../Regions/Retails/USA/T-4305G/01/README.md)
 - Virtua Fighter 2 (Europe) (Made in EU) - TODO
 - Virtua Fighter 2 (Europe) (Made in USA) - TODO
 - Virtua Fighter 2 (Europe) (Rev A) (Made in EU) - TODO
 - Virtua Fighter 2 (Europe) (Rev A) (Made in USA) - TODO
-- Virtua Fighter 2 (Japan) (Demo) - TODO
 - Virtua Fighter 2 (Japan) (Rev B) (32B, 37M) - TODO
 - Virtua Fighter 2 (Japan) (Rev B) (35C) - TODO
 - Virtua Fighter 2 (Japan) (Rev B) (36B, 36C) - TODO
@@ -64,7 +60,6 @@
 - [Virtua Fighter CG Portrait Series Vol. 9 - Kage Maru (Japan)](../../../Regions/Retails/Japan/GS-9067/01/README.md)
 - [Virtua Fighter CG Portrait Series Vol. 10 - Jeffry McWild (Japan)](../../../Regions/Retails/Japan/GS-9072/01/README.md)
 - Virtua Fighter Kids (Europe) - TODO
-- Virtua Fighter Kids (Japan) (Java Tea Original) - TODO
 - Virtua Fighter Kids (Japan) - TODO
 - Virtua Fighter Kids (South Korea) - TODO
 - [Virtua Fighter Kids (USA)](../../../Regions/Retails/USA/MK-81049/01/README.md)

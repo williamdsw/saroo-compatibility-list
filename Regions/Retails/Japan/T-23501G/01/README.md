@@ -25,7 +25,6 @@ Solo Crisis (Japan) (1M):
 
 - Solo Crisis (Japan) (1M): Playable :white_check_mark:
 - Solo Crisis (Japan) (2M): Untested :question:
-- Solo Crisis (Japan) (Demo): Untested :question:
 
 ### Extra Info
 
@@ -34,7 +33,6 @@ Solo Crisis (Japan) (1M):
 ### TODO
 
 - Test Solo Crisis (Japan) (2M)
-- Test Solo Crisis (Japan) (Demo)
 
 ### Evidence
 

@@ -23,7 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - (Retail) (Disc 1): Playable :white_check_mark:
 - (Retail) (Disc 2): Untested :question:
-- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -31,7 +30,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Maria - Kimi-tachi ga Umareta Wake (Japan) (Demo)
 - Fully Test Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1)
 - Fully Test Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2)
 

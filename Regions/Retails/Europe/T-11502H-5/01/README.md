@@ -24,15 +24,10 @@ Swagman (Europe):
 ### Status
 
 - Swagman (Europe): Playable :white_check_mark:
-- Swagman (Europe) (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Swagman (Europe) (Demo)
 
 ### Evidence
 

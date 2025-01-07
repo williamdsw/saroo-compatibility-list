@@ -27,10 +27,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
-### TODO
-
-- Test Hansha de Spark! (Japan) (Demo) - TODO
-
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hansha de Spark! (Japan)](https://img.youtube.com/vi/CMzIlHhDOOA/0.jpg)](https://www.youtube.com/watch?v=CMzIlHhDOOA)
+[![](https://img.youtube.com/vi/CMzIlHhDOOA/0.jpg)](https://www.youtube.com/watch?v=CMzIlHhDOOA)

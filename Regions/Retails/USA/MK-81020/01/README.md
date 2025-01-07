@@ -22,7 +22,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (USA, Brazil): Playable :white_check_mark:
-- (USA) (Demo): Untested :question:
 - (USA) (with 3D Control Pad) (RE) : Untested :question:
 
 ### Extra Info
@@ -31,7 +30,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODOs
 
-- Test NiGHTS into Dreams... (USA) (Demo)
 - Test NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE)
 
 ### Evidence

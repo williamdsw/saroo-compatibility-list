@@ -2,7 +2,7 @@
 
 ## C
 
-#### 94 Games (57 Tested)
+#### 92 Games (56 Tested)
 
 - [Can Can Bunny Extra (Japan)](../../../Regions/Retails/Japan/T-19706G/01/README.md)
 - [Can Can Bunny Premiere (Japan)](../../../Regions/Retails/Japan/T-19701G/01/README.md)
@@ -54,7 +54,6 @@
 - Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 2) (NOD) - TODO
 - [Congo the Movie: The Lost City of Zinj (USA)](../../../Regions/Retails/USA/MK-81010/01/README.md)
 - [Contra - Legacy of War (USA)](../../../Regions/Retails/USA/T-9507H/01/README.md)
-- [Core Demo Disc (Europe)](../../../Regions/Retails/Europe/610-6576/01/README.md)
 - [Corpse Killer - Graveyard Edition (USA)](../../../Regions/Retails/USA/T-16201H/01/README.md)
 - [Cotton 2 (Japan)](../../../Regions/Retails/Japan/T-9904G/01/README.md)
 - [Cotton Boomerang (Japan)](../../../Regions/Retails/Japan/T-9906G/01/README.md)
@@ -64,7 +63,6 @@
 - [Creature Shock (Japan)](../../../Regions/Retails/Japan/T-1303G/01/README.md)
 - [Creature Shock - Special Edition (USA)](../../../Regions/Retails/USA/T-01304H/01/README.md)
 - [Crime Patrol (USA) (Proto) (1996-09-24)](../../../Regions/Retails/USA/T-11102H/01/README.md)
-- Crimewave (Europe) (Demo) - TODO
 - Crimewave (Europe) - TODO
 - Crimewave (Japan) - TODO
 - [Crimewave (USA)](../../../Regions/Retails/USA/T-8807H/01/README.md)

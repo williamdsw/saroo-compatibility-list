@@ -21,7 +21,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Demo): Untested :question:
 - (Disc 1): Playable :white_check_mark:
 - (Disc 2): Untested :question:
 - (Disc 3): Untested :question:
@@ -32,7 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Virus (Japan) (Demo)
 - Fully test Virus (Japan) (Disc 1)
 - Fully test Virus (Japan) (Disc 2)
 - Test Virus (Japan) (Disc 3)

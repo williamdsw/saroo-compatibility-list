@@ -23,8 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Fixed with configuration :hammer_and_wrench:
 - (R): Untested :question:
-- (Demo) (1S): Untested :question:
-- (Demo) (3S): Untested :question:
 
 ### Problems without configuration
 
@@ -41,9 +39,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Test Bug! (USA) (R)
-- Test Bug! (USA) (Demo) (1S)
-- Tes Bug! (USA) (Demo) (3S)
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Bug! (USA) = Fixed?](https://img.youtube.com/vi/P4SlEjedq0Q/0.jpg)](https://www.youtube.com/watch?v=P4SlEjedq0Q)
+[![](https://img.youtube.com/vi/P4SlEjedq0Q/0.jpg)](https://www.youtube.com/watch?v=P4SlEjedq0Q)

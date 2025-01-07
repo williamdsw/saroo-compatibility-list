@@ -22,16 +22,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - Haohmaru campaign is full playable.
 - It needs gameplay tests with others characters and difficulties.
-
-### TODO
-
-- Test Samurai Spirits - Amakusa Kourin (Japan) (Demo)
 
 ### Evidence
 

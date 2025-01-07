@@ -22,16 +22,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (Game): Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - Full campaign tested with `Wu-ling`.
 - It does need a full gameplay tests with other characters and difficulties.
-
-### TODO
-
-- Test Rabbit (Japan) (Demo)
 
 ### Evidence
 

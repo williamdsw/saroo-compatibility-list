@@ -22,15 +22,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Fire Pro Gaiden: Blazing Tornado (Japan) (Demo)
 
 ### Evidence
 

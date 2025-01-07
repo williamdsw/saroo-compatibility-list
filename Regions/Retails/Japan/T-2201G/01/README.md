@@ -22,15 +22,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (Retail) (2M): Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (Japan) (Demo)
 
 ### Evidence
 

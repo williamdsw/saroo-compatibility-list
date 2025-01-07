@@ -22,17 +22,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (Game): Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - Full campaign tested with Terry Bogard
 - It does need tests with others characters
 - It does need tests on others difficulties
-
-### TODO
-
-- Test Real Bout Garou Densetsu (Japan) (Demo)
 
 ### Evidence
 

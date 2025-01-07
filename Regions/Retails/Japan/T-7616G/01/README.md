@@ -22,7 +22,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - (Disc 1) (1M): Issues :warning:
-- (Demo): Untested :question:
 - (Disc 1) (2M): Untested :question:
 - (Disc 2) (1M): Untested :question:
 - (Disc 2) (2M): Untested :question:
@@ -36,9 +35,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test
 
-### TODOs
+### TODO
 
-- Test Nanatsu no Hikan (Japan) (Demo)
 - Test Nanatsu no Hikan (Japan) (Disc 1) (1M)
 - Test Nanatsu no Hikan (Japan) (Disc 1) (2M)
 - Test Nanatsu no Hikan (Japan) (Disc 2) (1M)

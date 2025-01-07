@@ -25,7 +25,6 @@ Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan):
 ### Status
 
 - Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan): Issues :warning:
-- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) (Demo): Untested :question:
 
 ### Problems
 
@@ -34,10 +33,6 @@ Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan):
 ### Extra Info
 
 It needs a full gameplay test on all tests.
-
-### TODO
-
-- Test Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan) (Demo) - TODO
 
 ### Evidence
 

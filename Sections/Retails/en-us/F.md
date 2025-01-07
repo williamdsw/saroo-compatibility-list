@@ -2,7 +2,7 @@
 
 ## F
 
-#### 95 Games (71 Tested)
+#### 61 Games (38 Tested)
 
 - [F-1 Live Information (Japan)](../../../Regions/Retails/Japan/GS-9035/01/README.md)
 - F1 Challenge (Europe) - TODO
@@ -36,7 +36,6 @@
 - Fighters Megamix (Japan) - TODO
 - [Fighters Megamix (USA)](../../../Regions/Retails/USA/MK-81073/01/README.md)
 - [Fighting Vipers (Europe)](../../../Regions/Retails/Europe/MK-81041/01/README.md)
-- Fighting Vipers (Japan) (Demo) - TODO
 - Fighting Vipers (Japan) (Rev A) - TODO
 - Fighting Vipers (Japan) (Rev C) - TODO
 - Fighting Vipers (Korea) - TODO
@@ -51,39 +50,6 @@
 - [Fishing Koushien (Japan)](../../../Regions/Retails/Japan/T-24901G/01/README.md)
 - [Fishing Koushien II (Japan)](../../../Regions/Retails/Japan/T-24904G/01/README.md)
 - [Fist (Japan)](../../../Regions/Retails/Japan/T-15015G/01/README.md)
-- [Flash Sega Saturn - Ochikazuki-hen (Japan)](../../../Regions/Retails/Japan/610616699/01/README.md)
-- [Flash Sega Saturn Vol. 1 (Japan)](../../../Regions/Retails/Japan/610616601/01/README.md)
-- [Flash Sega Saturn Vol. 2 (Japan)](../../../Regions/Retails/Japan/610616602/01/README.md)
-- [Flash Sega Saturn Vol. 3 (Japan)](../../../Regions/Retails/Japan/610616603/01/README.md)
-- [Flash Sega Saturn Vol. 4 (Japan)](../../../Regions/Retails/Japan/610616604/01/README.md)
-- [Flash Sega Saturn Vol. 5 (Japan)](../../../Regions/Retails/Japan/610616605/01/README.md)
-- [Flash Sega Saturn Vol. 6 (Japan)](../../../Regions/Retails/Japan/610616606/01/README.md)
-- [Flash Sega Saturn Vol. 7 (Japan)](../../../Regions/Retails/Japan/610616607/01/README.md)
-- [Flash Sega Saturn Vol. 8 (Japan)](../../../Regions/Retails/Japan/610616608/01/README.md)
-- [Flash Sega Saturn Vol. 9 (Japan)](../../../Regions/Retails/Japan/610616609/01/README.md)
-- [Flash Sega Saturn Vol. 10 (Japan)](../../../Regions/Retails/Japan/610616610/01/README.md)
-- [Flash Sega Saturn Vol. 11 (Japan)](../../../Regions/Retails/Japan/610616611/01/README.md)
-- [Flash Sega Saturn Vol. 12 (Japan)](../../../Regions/Retails/Japan/610616612/01/README.md)
-- [Flash Sega Saturn Vol. 13 (Japan)](../../../Regions/Retails/Japan/610616613/01/README.md)
-- [Flash Sega Saturn Vol. 14 (Japan)](../../../Regions/Retails/Japan/610616614/01/README.md)
-- [Flash Sega Saturn Vol. 15 (Japan)](../../../Regions/Retails/Japan/610616615/01/README.md)
-- [Flash Sega Saturn Vol. 16 (Japan)](../../../Regions/Retails/Japan/610616616/01/README.md)
-- [Flash Sega Saturn Vol. 17 (Japan)](../../../Regions/Retails/Japan/610616617/01/README.md)
-- [Flash Sega Saturn Vol. 18 (Japan)](../../../Regions/Retails/Japan/610616618/01/README.md)
-- [Flash Sega Saturn Vol. 19 (Japan)](../../../Regions/Retails/Japan/610616619/01/README.md)
-- [Flash Sega Saturn Vol. 20 (Japan)](../../../Regions/Retails/Japan/610616620/01/README.md)
-- [Flash Sega Saturn Vol. 21 (Japan)](../../../Regions/Retails/Japan/610616621/01/README.md)
-- [Flash Sega Saturn Vol. 22 (Japan)](../../../Regions/Retails/Japan/610616622/01/README.md)
-- [Flash Sega Saturn Vol. 23 (Japan)](../../../Regions/Retails/Japan/610616623/01/README.md)
-- [Flash Sega Saturn Vol. 24 (Japan)](../../../Regions/Retails/Japan/610616624/01/README.md)
-- [Flash Sega Saturn Vol. 25 (Japan)](../../../Regions/Retails/Japan/610616625/01/README.md)
-- [Flash Sega Saturn Vol. 26 (Japan)](../../../Regions/Retails/Japan/610616626/01/README.md)
-- [Flash Sega Saturn Vol. 27 (Japan)](../../../Regions/Retails/Japan/610616627/01/README.md)
-- [Flash Sega Saturn Vol. 28 (Japan)](../../../Regions/Retails/Japan/610616628/01/README.md)
-- [Flash Sega Saturn Vol. 29 (Japan)](../../../Regions/Retails/Japan/610616629/01/README.md)
-- [Flash Sega Saturn Vol. 30 (Japan)](../../../Regions/Retails/Japan/610616630/01/README.md)
-- [Flash Sega Saturn Vol. 31 (Japan)](../../../Regions/Retails/Japan/610616631/01/README.md)
-- [Flash Sega Saturn Vol. 32 (Japan)](../../../Regions/Retails/Japan/610616632/01/README.md)
 - [Formula Grand Prix - Team Un'ei Simulation (Japan)](../../../Regions/Retails/Japan/T-7309G/01/README.md)
 - [Formula Karts Special Edition (Europe)](../../../Regions/Retails/Europe/MK-81282/01/README.md)
 - Frank Thomas Big Hurt Baseball (Europe) - TODO

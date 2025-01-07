@@ -22,17 +22,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - It's fully playable on single player mode (1P).
 - It does need tests on another difficulties and with 2P mode.
 
-### TODO
-
-- Test DoDonPachi (Japan) (Demo)
-
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - DoDonPachi (Japan)](https://img.youtube.com/vi/1yTMAnHpjGA/0.jpg)](https://www.youtube.com/watch?v=1yTMAnHpjGA)
+[![](https://img.youtube.com/vi/1yTMAnHpjGA/0.jpg)](https://www.youtube.com/watch?v=1yTMAnHpjGA)

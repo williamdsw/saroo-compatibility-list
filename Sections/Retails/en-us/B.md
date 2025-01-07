@@ -2,7 +2,7 @@
 
 ## B
 
-#### 93 Games (59 Tested)
+#### 87 Games (55 Tested)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../../Regions/Retails/Japan/T-19907G/01/README.md)
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../../Regions/Retails/Japan/T-19906G/01/README.md)
@@ -15,7 +15,6 @@
 - [Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)](../../../Regions/Retails/Japan/T-20001G/01/README.md)
 - [Baldy Land (Japan)](../../../Regions/Retails/Japan/T-20608G/01/README.md)
 - [Baroque (Japan)](../../../Regions/Retails/Japan/T-33901G/01/README.md)
-- [Baroque Report CD Data File (Japan)](../../../Regions/Retails/Japan/6106848/01/README.md)
 - [Bases Loaded '96: Double Header (USA)](../../../Regions/Retails/USA/T-5703H/01/README.md)
 - Batman Forever: The Arcade Game (Europe) - TODO
 - Batman Forever: The Arcade Game (Japan) - TODO
@@ -63,12 +62,8 @@
 - [Blazing Heroes (USA)](../../../Regions/Retails/USA/MK-81303/01/README.md)
 - [Blood Factory (Japan)](../../../Regions/Retails/Japan/T-12504G/01/README.md)
 - [Blue Breaker - Ken yori mo Hohoemi o (Japan)](../../../Regions/Retails/Japan/T-4315G/01/README.md)
-- [Blue Seed: Kushinada Hirokuden (Japan)](../../../Regions/Retails/Japan/GS-9014/01/README.md)
 - [Body Special 264: Girls in Motion Puzzle Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-21003G/01/README.md)
 - [Bomberman Wars (Japan)](../../../Regions/Retails/Japan/T-14320G/01/README.md)
-- Bootleg Sampler (Europe) (Made in EU, Made in J) - TODO
-- Bootleg Sampler (Europe) (Made in U) - TODO
-- [Bootleg Sampler (USA)](../../../Regions/Retails/USA/MK-81031/01/README.md)
 - [Bottom of the 9th (USA)](../../../Regions/Retails/USA/T-9505H/01/README.md)
 - [Bouken Katsugeki Mono Mono (Japan)](../../../Regions/Retails/Japan/T-21508G/01/README.md)
 - [Brain Battle Q (Japan)](../../../Regions/Retails/Japan/T-25701G/01/README.md)
@@ -89,7 +84,6 @@
 - [Bug! Jump Shite, Funzukechatte, Petchanko (Japan)](../../../Regions/Retails/Japan/GS-9063/01/README.md)
 - [Bulk Slash (Japan)](../../../Regions/Retails/Japan/T-14310G/01/README.md)
 - Burning Rangers (Europe) - TODO
-- Burning Rangers (Japan) (Demo) - TODO
 - Burning Rangers (Japan) (Proto) - TODO
 - Burning Rangers (Japan) - TODO
 - [Burning Rangers (USA)](../../../Regions/Retails/USA/MK-81803/01/README.md)

@@ -24,15 +24,10 @@ Suiko Enbu: Fuunsaiki (Japan):
 ### Status
 
 - Suiko Enbu: Fuunsaiki (Japan): Playable :white_check_mark:
-- Suiko Enbu: Fuunsaiki (Japan) (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Suiko Enbu: Fuunsaiki (Japan) (Demo)
 
 ### Evidence
 

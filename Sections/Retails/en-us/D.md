@@ -2,7 +2,7 @@
 
 ## D
 
-#### 148 Games (82 Tested)
+#### 141 Games (81 Tested)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -57,13 +57,11 @@
 - [DeathMask (Japan)](../../../Regions/Retails/Japan/T-22701G/01/README.md)
 - DecAthlete (Japan) (1M) - TODO
 - DecAthlete (Japan) (2M) - TODO
-- DecAthlete (Japan) (Demo) - TODO
 - DecAthlete (Japan) (Rev A) (10M) - TODO
 - DecAthlete (Japan) (Rev B) (20M) - TODO
 - DecAthlete (USA) - TODO
 - DecAthlete for SegaNet (Japan) - TODO
 - [Deep Fear (Europe)](../../../Regions/Retails/Europe/MK-81804/01/README.md)
-- Deep Fear (Japan) (Demo) - TODO
 - Deep Fear (Japan) (Disc 1) - TODO
 - Deep Fear (Japan) (Disc 2) - TODO
 - Deep Fear (USA) (Disc 1) (Unl) - TODO
@@ -74,7 +72,6 @@
 - [Defcon 5 (USA)](../../../Regions/Retails/USA/T-1301G/01/README.md)
 - [Deka Yonku: Tough the Truck (Japan)](../../../Regions/Retails/Japan/T-4313G/01/README.md)
 - [Delisoba Deluxe (Japan)](../../../Regions/Retails/Japan/6106803/01/README.md)
-- Dennou Senki - Virtual On - Cyber Troopers (Japan) (Demo) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers (Japan) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers (Korea) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers for SegaNet (Japan) - TODO
@@ -89,11 +86,8 @@
 - [Destruction Derby (Europe)](../../../Regions/Retails/Europe/T-11303H/01/README.md)
 - Destruction Derby (Japan) - TODO
 - [Detana Twinbee Yahoo! Deluxe Pack (Japan)](../../../Regions/Retails/Japan/T-9505G/01/README.md)
-- [Develo Magazine Appendix CD-ROM for SegaSaturn (Japan)](../../../Regions/Retails/Japan/610645801/01/README.md)
 - [Device Reign (Japan)](../../../Regions/Retails/Japan/T-27810G/01/README.md)
 - [Devil Summoner: Soul Hackers (Japan)](../../../Regions/Retails/Japan/T-14420G/01/README.md)
-- Devil Summoner - Soul Hackers + Ronde (Japan) (Demo 1) - TODO
-- Devil Summoner - Soul Hackers + Ronde (Japan) (Demo 2) - TODO
 - [Devil Summoner: Soul Hackers: Akuma Zensho Dainishū (Japan)](../../../Regions/Retails/Japan/T-14421G/01/README.md)
 - [Devil Summoner: Soul Hackers Extra Dungeon (Japan)](../../../Regions/Retails/Japan/6106804/01/README.md)
 - [Dezaemon 2 (Japan)](../../../Regions/Retails/Japan/T-16804G/01/README.md)
@@ -107,11 +101,9 @@
 - [Digital Monster Ver. S: Digimon Tamers (Japan)](../../../Regions/Retails/Japan/T-13331G/01/README.md)
 - Digital Pinball (Europe) (4S) - TODO
 - Digital Pinball (Europe) (7S) - TODO
-- Digital Pinball - Last Gladiators (Japan) (5M) (Demo) - TODO
 - Digital Pinball - Last Gladiators (Japan) - TODO
 - Digital Pinball - Last Gladiators Ver.9.7 (Japan) - TODO
 - Digital Pinball - Necronomicon (Japan) - TODO
-- Digital Pinball - Necronomicon - Revelations (Japan) (Demo) - TODO
 - [Daina Airan (Japan)](../../../Regions/Retails/Japan/T-4503G/01/README.md)
 - [Daina Airan: Yokoku Hen (Japan)](../../../Regions/Retails/Japan/T-4505G/01/README.md)
 - [DiscStation Bessatsu i miss you. (Japan)](../../../Regions/Retails/Japan/6106732/01/README.md)

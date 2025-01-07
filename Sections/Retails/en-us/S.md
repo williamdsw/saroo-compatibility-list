@@ -2,7 +2,7 @@
 
 ## S
 
-#### 335 Games (30 Tested - 145 to be tested)
+#### 292 Games (29 Tested - 142 to be tested)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md)
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md)
@@ -30,35 +30,16 @@
 - [Sankyo Fever Jikki Simulation S (Japan)](../../../Regions/Retails/Japan/T-32102G/01/README.md)
 - [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-32103G/01/README.md)
 - [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../../Regions/Retails/Japan/T-32105G/01/README.md)
-- [SatMag Sono CD (Japan)](../../../Regions/Retails/Japan/6106833/01/README.md)
 - Saturn Bomberman (Europe) - TODO
-- Saturn Bomberman (Japan) (Demo) - TODO
 - Saturn Bomberman (Japan) (SegaNet) - TODO
 - Saturn Bomberman (Japan) - TODO
 - [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/01/README.md)
 - [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/01/README.md)
-- (Japan) - TODO
 - Saturn CG Selection Vol. 1 (Japan) (Rev A) - TODO
 - Saturn Music School (Japan) - TODO
 - Saturn Music School 2 (Japan) (Rev A) - TODO
 - Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (Japan) (1M) - TODO
 - Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (Japan) (2M) - TODO
-- Saturn Super Vol. 1 (Japan) (6M) - TODO
-- Saturn Super Vol. 1 (Japan) (7M) - TODO
-- Saturn Super Vol. 1 (Japan) (8M) - TODO
-- Saturn Super Vol. 10 Furoku CD-ROM (Japan) (2M, 3M) - TODO
-- Saturn Super Vol. 11 Furoku CD-ROM (Japan) - TODO
-- Saturn Super Vol. 2 (Japan) (1M) - TODO
-- Saturn Super Vol. 2 (Japan) (2M) - TODO
-- Saturn Super Vol. 2 (Japan) (6M) - TODO
-- Saturn Super Vol. 3 (Japan) (Rev A) (3M) - TODO
-- Saturn Super Vol. 4 (Japan) (2M) - TODO
-- Saturn Super Vol. 5 (Japan) (2M) - TODO
-- Saturn Super Vol. 6 (Japan) (1M) - TODO
-- Saturn Super Vol. 6 (Japan) (2M) - TODO
-- Saturn Super Vol. 7 (Japan) (2M) - TODO
-- Saturn Super Vol. 8 (Japan) - TODO
-- Saturn Super Vol. 9 Furoku CD-ROM (Japan) - TODO
 - [Savaki (Japan) (2M)](../../../Regions/Retails/Japan/T-5208G/01/README.md)
 - Scorcher (Europe) - TODO
 - [Scorcher (USA) (RE)](../../../Regions/Retails/USA/MK-81214/01/README.md) - TODO
@@ -81,36 +62,22 @@
 - [Sega Ages Space Harrier (Japan)](../../../Regions/Retails/Japan/GS-9108/01/README.md) - TODO
 - Sega Ages: Volume 1 (Europe) - TODO
 - [Sega Ages: Volume 1 (USA)](../../../Regions/Retails/USA/T-12707H/01/README.md)
-- Sega Flash Vol. 1 (Europe) - TODO
-- Sega Flash Vol. 2 (Europe) - TODO
-- Sega Flash Vol. 3 (Europe) (Rev A) - TODO
-- Sega Flash Vol. 3 (Europe) - TODO
-- Sega Flash Vol. 4 (Europe) - TODO
-- Sega Flash Vol. 5 (Europe) - TODO
-- Sega Flash Vol. 6 (Europe) - TODO
-- Sega Flash Vol. 7 (Europe) - TODO
 - Sega International Victory Goal (Japan) (5M) - TODO
 - Sega Rally Championship (Europe) (Made in EU) - TODO
 - Sega Rally Championship (Europe) (Made in USA) - TODO
-- Sega Rally Championship (Japan) (Demo) - TODO
 - Sega Rally Championship (Japan) - TODO
 - Sega Rally Championship (South Korea) - TODO
 - [Sega Rally Championship (USA)](../../../Regions/Retails/USA/MK-81207/01/README.md)
 - [Sega Rally Championship Plus (Japan)](../../../Regions/Retails/Japan/GS-9116/01/README.md)
 - Sega Rally Championship Plus Netlink Edition (USA) - TODO
-- [Sega Saturn Bootleg II: On the Road (USA)](../../../Regions/Retails/USA/MK-81068/01/README.md) - TODO
-- [Sega Saturn Choice Cuts (USA)](../../../Regions/Retails/USA/81600/01/README.md) - TODO
 - [Sega Saturn de Hakken!! Tamagotchi Park (Japan)](../../../Regions/Retails/Japan/T-13325G/01/README.md)
-- [Sega Screams Volume 2 (USA)](../../../Regions/Retails/USA/MK-81077/01/README.md)
 - Sega Touring Car Championship (Europe) - TODO
-- Sega Touring Car Championship (Japan) (Demo) - TODO
 - Sega Touring Car Championship (Japan) - TODO
 - [Sega Worldwide Soccer '97 (USA)](../../../Regions/Retails/USA/MK-81112/01/README.md)
 - [Sega Worldwide Soccer 98 (Japan)](../../../Regions/Retails/Japan/GS-9187/01/README.md)
 - [Sega Worldwide Soccer 98: Club Edition (Europe)](../../../Regions/Retails/Europe/MK-81123/01/README.md)
 - Sega Worldwide Soccer 97 (Europe) (Alt) - TODO
 - Sega Worldwide Soccer 97 (Europe) - TODO
-- SegaColle Sega Bible Mogitate SegaSaturn Soukan-gou (Japan) - TODO
 - SegaSaturn - Graphic & Sound Tools for Macintosh (Japan) - TODO
 - SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version) - TODO
 - SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) - TODO
@@ -160,7 +127,6 @@
 - Shining Force III (Europe) (R) - TODO
 - Shining Force III (USA) (Beta) - TODO
 - Shining Force III (USA) - TODO
-- Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Demo) - TODO
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A) - TODO
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) - TODO
 - Shining Force III - Scenario 2 - Nerawareta Miko (Japan) (Rev A) - TODO
@@ -197,7 +163,6 @@
 - [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../../Regions/Retails/Japan/T-2003G/01/README.md)
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
 - [Side Pocket 3 (Japan)](../../../Regions/Retails/Japan/T-1314G/01/README.md)
-- Silhouette Mirage (Japan) (Demo) - TODO
 - Silhouette Mirage (Japan) (Rev A) - TODO
 - Silhouette Mirage (Japan) - TODO
 - SimCity 2000 (Europe) - TODO
@@ -232,7 +197,6 @@
 - Sonic R (Europe) - TODO
 - Sonic R (Japan) (1M) - TODO
 - Sonic R (Japan) (2M) - TODO
-- Sonic R (Japan) (Demo) - TODO
 - [Sonic R (USA)](../../../Regions/Retails/USA/MK-81800/01/README.md)
 - [Sonic Wings Special (Japan)](../../../Regions/Retails/Japan/T-26402G/01/README.md)
 - [Sorvice (Japan)](../../../Regions/Retails/Japan/T-16609G/01/README.md)
@@ -276,7 +240,6 @@
 - [Steam-Heart's (Japan)](../../../Regions/Retails/Japan/T-32502G/01/README.md)
 - [SteamGear Mash (Japan)](../../../Regions/Retails/Japan/T-10301G/01/README.md)
 - Steep Slope Sliders (Europe) - TODO
-- Steep Slope Sliders (Japan) (Demo) - TODO
 - Steep Slope Sliders (Japan) - TODO
 - [Steep Slope Sliders (USA)](../../../Regions/Retails/USA/MK-81128/01/README.md)
 - [Stellar Assault SS (Japan)](../../../Regions/Retails/Japan/T-4403G/01/README.md)
@@ -292,14 +255,12 @@
 - Street Fighter Alpha 2 (Europe) - TODO
 - [Street Fighter Alpha 2 (USA)](../../../Regions/Retails/USA/T-1213H/01/README.md)
 - [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/01/README.md)
-- Street Fighter Collection (Japan) (Demo) - TODO
 - Street Fighter Collection (Japan) (Disc 1) - TODO
 - Street Fighter Collection (Japan) (Disc 2) - TODO
 - [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/01/README.md)
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
 - [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/01/README.md)
-- Street Fighter Zero 2 (Japan) (Demo) - TODO
 - Street Fighter Zero 2 (Japan) - TODO
 - [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/01/README.md)
 - [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/01/README.md)
@@ -328,7 +289,6 @@
 - Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO
 - Super Real Mahjong P VI (Japan) (P's Club Special Edition) - TODO
 - [Super Real Mahjong P VI (Japan)](../../../Regions/Retails/Japan/T-16507G/01/README.md)
-- Super Robot Taisen F (Japan) (Demo) - TODO
 - Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M) - TODO
 - Super Robot Taisen F (Japan) (Rev B) (21M) - TODO
 - [Super Robot Taisen F Kanketsuhen (Japan)](../../../Regions/Retails/Japan/T-20612G/01/README.md)

@@ -22,16 +22,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-### TODO
-
-- Test Blue Breaker - Ken yori mo Hohoemi o (Japan) (Demo)
-
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Blue Breaker: Ken yorimo Hohoemi wo (Japan)](https://img.youtube.com/vi/JRd6BbxI8JI/0.jpg)](https://www.youtube.com/watch?v=JRd6BbxI8JI)
+[![](https://img.youtube.com/vi/JRd6BbxI8JI/0.jpg)](https://www.youtube.com/watch?v=JRd6BbxI8JI)

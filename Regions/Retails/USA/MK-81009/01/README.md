@@ -31,12 +31,9 @@ It's needs a full gameplay test on both ISOs
 ### TODO
 
 - Test Panzer Dragoon (USA) (1S)
-- Test Panzer Dragoon (USA) (Demo) (2S)
-- Test Panzer Dragoon (USA) (Demo) (3S)
-- Test Panzer Dragoon (USA) (Demo) (4S)
 
 ### Evidence
 
 (5S):
 
-[![[Sample] SAROO 1.32 (231005) - Panzer Dragoon (USA) = Playable](https://img.youtube.com/vi/URZ9K-G0dpU/0.jpg)](https://www.youtube.com/watch?v=URZ9K-G0dpU)
+[![](https://img.youtube.com/vi/URZ9K-G0dpU/0.jpg)](https://www.youtube.com/watch?v=URZ9K-G0dpU)

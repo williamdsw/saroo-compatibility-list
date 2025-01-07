@@ -27,10 +27,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - It does need a full gameplay test.
 
-### TODO
-
-- Test Gungriffon II (Japan) (Demo)
-
 ### Evidence
 
 [![](https://img.youtube.com/vi/H_DLrdmYBTU/0.jpg)](https://www.youtube.com/watch?v=H_DLrdmYBTU)

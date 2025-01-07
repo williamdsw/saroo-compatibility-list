@@ -23,7 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - (Rev A) (10M): Playable :white_check_mark:
 - (Rev A) (11): Untested :question:
-- (Demo): Untested :question:
 
 ### Extra Info
 
@@ -31,7 +30,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Fully Cowled Mini Yonku Super Factory (Japan) (Demo)
 - Test Fully Cowled Mini Yonku Super Factory (Japan) (Rev A) (11M)
 
 ### Evidence

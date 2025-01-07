@@ -22,17 +22,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Playable :white_check_mark:
-- (Demo): Untested :question:
 - (Rev A): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODOs
-
-- Tested Nissan Presents - Over Drivin' GT-R (Japan) (Demo)
-- Tested Nissan Presents - Over Drivin' GT-R (Japan) (Rev A)
 
 ### Evidence
 

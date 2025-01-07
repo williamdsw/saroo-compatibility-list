@@ -24,17 +24,10 @@ Panzer Dragoon (Europe) (En,Fr,De,Es,It):
 ### Status
 
 - Panzer Dragoon (Europe) (En,Fr,De,Es,It): Playable :white_check_mark:
-- Panzer Dragoon (Europe) (Demo) (5S): Untested :question:
-- Panzer Dragoon (Europe) (Demo) (6S): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
-
-### TODO
-
-- Test Panzer Dragoon (Europe) (Demo) (5S) - TODO
-- Test Panzer Dragoon (Europe) (Demo) (6S) - TODO
 
 ### Evidence
 
