@@ -2,7 +2,7 @@
 
 ## C
 
-#### 6 Games (2 Tested)
+#### 4 Games (2 Tested)
 
 - Code R (Japan) (Demo) - TODO
 - [Core Demo Disc (Europe)](../../../Regions/Demos/Europe/610-6576/01/README.md)
