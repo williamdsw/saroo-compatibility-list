@@ -2,16 +2,11 @@
 
 ## C
 
-#### 87 Games (52 Tested)
+#### 86 Games (51 Tested)
 
 - [Can Can Bunny Extra (Japan)](../../../Regions/Retails/Japan/T-19706G/01/README.md)
 - [Can Can Bunny Premiere (Japan)](../../../Regions/Retails/Japan/T-19701G/01/README.md)
 - [Can Can Bunny Premiere 2 (Japan)](../../../Regions/Retails/Japan/T-19703G/01/README.md)
-- [Capcom Generation: Dai-1-shuu Gekitsuiou no Jidai (Japan)](../../../Regions/Retails/Japan/T-1232G/01/README.md)
-- [Capcom Generation: Dai-2-shuu Makai to Kishi (Japan)](../../../Regions/Retails/Japan/T-1233G/01/README.md)
-- [Capcom Generation: Dai-3-shuu Koko ni Rekishi Hajimaru (Japan)](../../../Regions/Retails/Japan/T-1234G/01/README.md)
-- [Capcom Generation: Dai-4-shuu Kokou no Eiyuu (Japan)](../../../Regions/Retails/Japan/T-1235G/01/README.md)
-- [Capcom Generation: Dai-5-shuu Kakutouka-tachi (Japan)](../../../Regions/Retails/Japan/T-1236G/01/README.md)
 - Casper (Europe) - TODO
 - Casper (Japan) - TODO
 - [Casper (USA)](../../../Regions/Retails/USA/T-12512H/01/README.md)
@@ -28,12 +23,10 @@
 - Christmas NiGHTS into Dreams... (Europe) - TODO
 - Christmas NiGHTS into Dreams... (Japan) (Rev A) - TODO
 - [Christmas NiGHTS into Dreams (USA)](../../../Regions/Retails/USA/MK-81067/01/README.md)
-- [Cleaning Kit for Sega Saturn (USA)](../../../Regions/Retails/USA/T-25901H/01/README.md)
 - [Cleopatra Fortune (Japan)](../../../Regions/Retails/Japan/T-1108G/01/README.md)
 - [ClockWerx (Japan)](../../../Regions/Retails/Japan/T-22302G/01/README.md)
 - Clockwork Knight - Pepperouchau no Daibouken Gekan (Japan) (2M) - TODO
 - Clockwork Knight - Pepperouchau no Daibouken Joukan (Japan) - TODO
-- Clockwork Knight - Pepperouchau no Fukubukuro (Japan) - TODO
 - Clockwork Knight - Pepperouchau's Adventure (Europe) - TODO
 - [Clockwork Knight - Pepperouchau's Adventure (USA)](../../../Regions/Retails/USA/MK-81007/01/README.md) - TODO (Recorded)
 - Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S) - TODO

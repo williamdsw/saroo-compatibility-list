@@ -2,7 +2,7 @@
 
 ## T
 
-#### 140 Games (46 Tested - 41 to be registered)
+#### 134 Games (42 Tested - 39 to be registered)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO (Recorded)
@@ -14,7 +14,6 @@
 - Taikou Risshiden II (Japan) (2M) - TODO (Recorded)
 - Taikou Risshiden II (Japan) (Rev A) (10M) - TODO
 - Taikyoku Shougi - Kiwame II (Japan) - TODO (Recorded)
-- [Taito Chase H.Q. + S.C.I. (Japan)](../../../Regions/Retails/Japan/T-1105G/01/README.md)
 - Taklamakan - Tonkou Denki (Japan) - TODO (Recorded)
 - Tama - Adventurous Ball in Giddy Labyrinth (Japan) - TODO (Recorded)
 - Tanjou - Debut S (Japan) (1M) - TODO (Recorded)
@@ -91,10 +90,7 @@
 - Three Dirty Dwarves (Europe) - TODO
 - Three Dirty Dwarves (Japan) (2M) - TODO
 - [Three Dirty Dwarves (USA)](../../../Regions/Retails/USA/T-30401H/01/README.md)
-- [Thunder Force Gold Pack 1 (Japan)](../../../Regions/Retails/Japan/T-1807G/01/README.md)
-- [Thunder Force Gold Pack 2 (Japan)](../../../Regions/Retails/Japan/T-1808G/01/README.md)
 - [Thunder Force V (Japan)](../../../Regions/Retails/Japan/T-1811G/01/README.md)
-- [Thunder Storm & Road Blaster (Japan)](../../../Regions/Retails/Japan/T-20701G/01/README.md)
 - Thunderhawk II (Japan) - TODO
 - Thunderstrike 2 (USA) (Rev A) - TODO
 - Thunderstrike 2 (USA) - TODO
@@ -102,8 +98,6 @@
 - Tilt! (Europe) - TODO (Recorded)
 - [Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)](../../../Regions/Retails/Japan/T-20607G/01/README.md)
 - Time Commando (Japan) - TODO
-- Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal) - TODO (Recorded)
-- Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) - TODO (Recorded)
 - [Titan Wars (Europe)](../../../Regions/Retails/Europe/T-15911H50/01/README.md)
 - Titan Wars (Japan) - TODO
 - Tokimeki Mahjong Graffiti - Toshishita no Tenshi-tachi (Japan) - TODO (Recorded)

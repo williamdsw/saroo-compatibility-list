@@ -2,7 +2,7 @@
 
 ## F
 
-#### 61 Games (38 Tested)
+#### 58 Games (37 Tested)
 
 - [F-1 Live Information (Japan)](../../../Regions/Retails/Japan/GS-9035/01/README.md)
 - F1 Challenge (Europe) - TODO
@@ -21,9 +21,6 @@
 - FIFA Soccer 96 (Japan) - TODO
 - [FIFA Soccer 96 (USA)](../../../Regions/Retails/USA/T-5003H/01/README.md)
 - FIFA Soccer 97 (USA) - TODO
-- [Falcom Classics (Japan)](../../../Regions/Retails/Japan/T-31503G/01/README.md)
-- Falcom Classics II (Japan) (Genteiban) - TODO
-- Falcom Classics II (Japan) - TODO
 - [Fantastep (Japan)](../../../Regions/Retails/Japan/GS-9107/01/README.md)
 - [Farland Saga (Japan)](../../../Regions/Retails/Japan/T-32507G/01/README.md)
 - [Farland Saga: Toki no Michishirube (Japan)](../../../Regions/Retails/Japan/T-32511G/01/README.md)

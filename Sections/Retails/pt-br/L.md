@@ -2,7 +2,7 @@
 
 ## L
 
-#### 34 Jogos (27 Testados)
+#### 33 Jogos (26 Testados)
 
 - La Mansion de las Almas Ocultas (Spain) - TODO
 - [Langrisser - Dramatic Edition (Japan)](../../../Regions/Retails/Japan/T-2507G/01/README.md)
@@ -29,7 +29,6 @@
 - [Lode Runner - The Legend Returns (Japan)](../../../Regions/Retails/Japan/T-25101G/01/README.md)
 - [Lode Runner Extra (Japan)](../../../Regions/Retails/Japan/T-25103G/01/README.md)
 - [Logic Puzzle Rainbow Town (Japan)](../../../Regions/Retails/Japan/T-4303G/01/README.md)
-- [Lovely Pop 2 in 1 - Jan Jan Koi Shimasho (Japan)](../../../Regions/Retails/Japan/T-5801G/01/README.md)
 - [LuLu - Un Conte Interactif de Romain Victor-Pujebet (Japan)](../../../Regions/Retails/Japan/GS-9118/01/README.md)
 - [Lunacy (USA)](../../../Regions/Retails/USA/T-14403H/01/README.md)
 - [Lunar - Silver Star Story (Japan)](../../../Regions/Retails/Japan/T-27901G/01/README.md)

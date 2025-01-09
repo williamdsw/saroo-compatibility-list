@@ -26,8 +26,11 @@ Outros links relacionados ao SAROO:
 
 - [Betas](Sections/Betas/pt-br.md)
 - [Comerciais](Sections/Retails/pt-br/README.md)
-<!-- - [Compilações](Sections/Compilations/pt-br/README.md) -->
+- [Compilações](Sections/Compilations/pt-br.md)
 - [Demos](Sections/Demos/pt-br/README.md)
 - [Homebrews](Sections/Homebrews/pt-br.md)
-- [Protos](Sections/Protos/README.md)
+- [Museus / Galerias Digitais](Sections/Digitals/pt-br.md)
+- [Retails](Sections/Retails/pt-br/README.md)
+- [Protos](Sections/Protos/pt-br.md)
 - [Romhacks](Sections/Romhacks/pt-br.md)
+- [Softwares Diversos](Sections/Softwares/pt-br.md)

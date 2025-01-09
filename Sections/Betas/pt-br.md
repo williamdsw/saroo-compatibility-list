@@ -4,7 +4,7 @@
 
 ## Betas
 
-### Jogos
+### 15 Itens
 
 - Alien Trilogy (Europe) (Beta) - TODO
 - Area 51 (USA) (Beta) - TODO

@@ -2,7 +2,7 @@
 
 ## C
 
-#### 87 Jogos (52 Testados)
+#### 86 Jogos (51 Testados)
 
 - [Can Can Bunny Extra (Japan)](../../../Regions/Retails/Japan/T-19706G/01/README.md)
 - [Can Can Bunny Premiere (Japan)](../../../Regions/Retails/Japan/T-19701G/01/README.md)
@@ -28,7 +28,6 @@
 - Christmas NiGHTS into Dreams... (Europe) - TODO
 - Christmas NiGHTS into Dreams... (Japan) (Rev A) - TODO
 - [Christmas NiGHTS into Dreams (USA)](../../../Regions/Retails/USA/MK-81067/01/README.md)
-- [Cleaning Kit for Sega Saturn (USA)](../../../Regions/Retails/USA/T-25901H/01/README.md)
 - [Cleopatra Fortune (Japan)](../../../Regions/Retails/Japan/T-1108G/01/README.md)
 - [ClockWerx (Japan)](../../../Regions/Retails/Japan/T-22302G/01/README.md)
 - Clockwork Knight - Pepperouchau no Daibouken Gekan (Japan) (2M) - TODO

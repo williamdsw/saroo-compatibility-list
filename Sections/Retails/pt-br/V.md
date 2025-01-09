@@ -2,7 +2,7 @@
 
 ## V
 
-#### 88 Jogos (42 Testados)
+#### 74 Jogos (29 Testados)
 
 - [VR Golf '97 (USA)](../../../Regions/Retails/USA/T-12518H/01/README.md)
 - [VR Soccer (USA)](../../../Regions/Retails/USA/T-12517H/01/README.md)
@@ -46,19 +46,6 @@
 - Virtua Fighter 2 (South Korea) - TODO
 - Virtua Fighter 2 (USA) (RE) - TODO
 - [Virtua Fighter 2 (USA)](../../../Regions/Retails/USA/T-4305G/01/README.md)
-- [Virtua Fighter CG Portrait Collection (Europe)](../../../Regions/Retails/Europe/610-6083/01/README.md)
-- Virtua Fighter CG Portrait Collection (Japan) - TODO
-- [Virtua Fighter CG Portrait Series - The Final - Dural (Japan)](../../../Regions/Retails/Japan/GS-9073/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant (Japan)](../../../Regions/Retails/Japan/GS-9062/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant (Japan)](../../../Regions/Retails/Japan/GS-9064/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 3 - Akira Yuki (Japan) (2M)](../../../Regions/Retails/Japan/GS-9065/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan (Japan)](../../../Regions/Retails/Japan/GS-9066/01/README.md)\
-- [Virtua Fighter CG Portrait Series Vol. 5 - Wolf Hawkfield (Japan)](../../../Regions/Retails/Japan/GS-9068/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 6 - Lau Chan (Japan)](../../../Regions/Retails/Japan/GS-9069/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 7 - Shun Di (Japan)](../../../Regions/Retails/Japan/GS-9070/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 8 - Lion Rafale (Japan)](../../../Regions/Retails/Japan/GS-9071/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 9 - Kage Maru (Japan)](../../../Regions/Retails/Japan/GS-9067/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 10 - Jeffry McWild (Japan)](../../../Regions/Retails/Japan/GS-9072/01/README.md)
 - Virtua Fighter Kids (Europe) - TODO
 - Virtua Fighter Kids (Japan) - TODO
 - Virtua Fighter Kids (South Korea) - TODO
@@ -70,7 +57,6 @@
 - Virtua Fighter Remix (Japan) (SegaNet) - TODO
 - Virtua Fighter Remix (South Korea) - TODO
 - [Virtua Fighter Remix (USA)](../../../Regions/Retails/USA/MK-81023/01/README.md)
-- [Virtua Navi V.2.00 (Japan)](../../../Regions/Retails/Japan/T-17809G/01/README.md)
 - [Virtua Photo Studio - Cameraman Simulation (Japan)](../../../Regions/Retails/Japan/T-8103G/01/README.md)
 - Virtua Racing (Europe) - TODO
 - Virtua Racing (Japan) - TODO

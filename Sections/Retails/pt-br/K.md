@@ -2,14 +2,13 @@
 
 ## K
 
-#### 47 Jogos (44 Testados)
+#### 45 Jogos (42 Testados)
 
 - [K-1 Fighting Illusion Shou (Japan)](../../../Regions/Retails/Japan/T-26102G/01/README.md)
 - [Kaitei Daisensou (Japan)](../../../Regions/Retails/Japan/T-15006G/01/README.md)
 - [Kaitou Saint Tail (Japan)](../../../Regions/Retails/Japan/T-28201G/01/README.md)
 - [Kakinoki Shougi (Japan)](../../../Regions/Retails/Japan/T-2104G/01/README.md)
 - [Kakyuusei (Japan)](../../../Regions/Retails/Japan/T-28002G/01/README.md)
-- [Kamen Rider - Sakusen File 1 (Japan)](../../../Regions/Retails/Japan/T-14101G/01/README.md)
 - [Kanazawa Shougi (Japan)](../../../Regions/Retails/Japan/T-16505G/01/README.md)
 - [Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan)](../../../Regions/Retails/Japan/GS-9017/01/README.md)
 - [Keio Flying Squadron 2 (Europe)](../../../Regions/Retails/Europe/T-6008H-50/01/README.md)
@@ -35,7 +34,6 @@
 - [Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race! (Japan)](../../../Regions/Retails/Japan/T-13319G/01/README.md)
 - [Koden Koureijutsu Hyaku Monogatari: Hontoni Atta Kowai Hanashi (Japan)](../../../Regions/Retails/Japan/T-14312G/01/README.md)
 - [Koi no Summer Fantasy: in Miyazaki Seagaia (Japan)](../../../Regions/Retails/Japan/T-23407G/01/README.md)
-- [Konami Antiques MSX Collection Ultra Pack (Japan)](../../../Regions/Retails/Japan/T-9530G/01/README.md)
 - [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan)](../../../Regions/Retails/Japan/T-28004G/01/README.md)
 - [Koudou Saisoku Densetsu - Initial D (Japan)](../../../Regions/Retails/Japan/T-25503G/01/README.md)
 - [Kouryuu Sangoku Engi (Japan)](../../../Regions/Retails/Japan/T-26104G/01/README.md)

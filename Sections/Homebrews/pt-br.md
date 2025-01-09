@@ -4,7 +4,7 @@
 
 ## Homebrews
 
-### Jogos
+### 14 Jogos
 
 - [Birdcage of Horrors](../../Regions/Homebrews/999999999/BIRDCAGE_OF_HORRORS/01/README.md)
 - [Blue Skies](../../Regions/Homebrews/EMPTY/BLUE_SKIES/01/README.md)

@@ -2,9 +2,8 @@
 
 ## H
 
-#### 50 Jogos (41 Testados)
+#### 48 Jogos (39 Testados)
 
-- [Habitat II (Japan)](../../../Regions/Retails/Japan/GS-7105/01/README.md)
 - Hang On GP '95 (Japan) (1M) - TODO
 - Hang On GP '95 (Japan) (2M) - TODO
 - Hang On GP '96 (Europe) - TODO
@@ -18,7 +17,6 @@
 - [Haunted Casino (Japan)](../../../Regions/Retails/Japan/T-21902G/01/README.md)
 - [Heartbeat Scramble (Japan)](../../../Regions/Retails/Japan/T-15014G/01/README.md)
 - [Hebereke's Popoitto (Europe)](../../../Regions/Retails/Europe/T-1502H/01/README.md)
-- [Heim Waltz (Japan)](../../../Regions/Retails/Japan/GS-9121/01/README.md)
 - [Heir of Zendor - The Legend and The Land (USA)](../../../Regions/Retails/USA/T-7605H/01/README.md)
 - [Heisei Tensai Bakabon Susume! Bakabons (Japan)](../../../Regions/Retails/Japan/T-17001G/01/README.md)
 - [Heiwa Pachinko Soushingeki (Japan)](../../../Regions/Retails/Japan/T-18702G/01/README.md)

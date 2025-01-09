@@ -2,7 +2,7 @@
 
 ## P
 
-#### 96 Jogos (49 Testados)
+#### 75 Jogos (48 Testados)
 
 - [Pacific Theater of Operations II (USA)](../../../Regions/Retails/USA/T-7604H/01/README.md)
 - [PD Ultraman Link (Japan)](../../../Regions/Retails/Japan/T-13304G/01/README.md)
@@ -11,8 +11,6 @@
 - [PGA Tour 97 (USA)](../../../Regions/Retails/USA/T-5011H/01/README.md)
 - [Pachi-Slot Kanzen Kouryaku Uni-Colle'97 (Japan)](../../../Regions/Retails/Japan/T-36501G/01/README.md)
 - [Pachinko Hall Shinsou Daikaiten (Japan)](../../../Regions/Retails/Japan/T-37501G/01/README.md)
-- Pad Nifty (Japan) - TODO
-- Pad Nifty 1.1 & Habitat II (Japan) - TODO
 - Pandemonium! (Europe) - TODO
 - [Pandemonium! (USA)](../../../Regions/Retails/USA/T-15914H/01/README.md)
 - [Paneltia Story: Karen no Daibouken (Japan)](../../../Regions/Retails/Japan/T-21510G/01/README.md)
@@ -32,15 +30,12 @@
 - Panzer Dragoon Saga (Europe) (Disc 4) - TODO
 - [Panzer Dragoon Saga (USA)](../../../Regions/Retails/USA/MK-81307/01/README.md)
 - [Pappara Paoon (Japan)](../../../Regions/Retails/Japan/23201G/01/README.md)
-- [Parodius (Europe)](../../../Regions/Retails/Europe/T-9501H-50/01/README.md)
 - [Pastel Muses (Japan)](../../../Regions/Retails/Japan/T-30602G/01/README.md)
 - Pebble Beach Golf Links (Europe) (3S) - TODO
 - Pebble Beach Golf Links (Europe) (4S) - TODO
 - [Pebble Beach Golf Links (USA)](../../../Regions/Retails/USA/MK-81101/01/README.md)
 - Pebble Beach Golf Links - Stadler ni Chousen (Japan) - TODO
 - [Phantasm (Japan)](../../../Regions/Retails/Japan/T-36001G/01/README.md)
-- Photo CD Operating System (Europe) (2S) - TODO
-- Photo CD Operating System (Europe) - TODO
 - [Photo Genic (Japan)](../../../Regions/Retails/Japan/T-1524G/01/README.md)
 - [Pia Carrot e Youkoso!! (Japan)](../../../Regions/Retails/Japan/T-19708G/01/README.md)
 - [Pia Carrot e Youkoso!! 2 (Japan)](../../../Regions/Retails/Japan/T-20114G/01/README.md)
@@ -63,22 +58,6 @@
 - [Princess Maker 2 (Japan)](../../../Regions/Retails/Japan/T-5201G/01/README.md)
 - [Princess Quest (Japan)](../../../Regions/Retails/Japan/T-24604G/01/README.md)
 - [Prisoner of Ice: Jashin Kourin (Japan)](../../../Regions/Retails/Japan/T-26112G/01/README.md)
-- Private Idol Disc - Data-hen - Race Queen F (Japan) - TODO
-- Private Idol Disc - Data-hen - Race Queen G (Japan) - TODO
-- Private Idol Disc - Tokubetsu-hen - Can Gal '97 (Japan) - TODO
-- Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M) - TODO
-- Private Idol Disc - Tokubetsu-hen - Kogal Daihyakka 100 (Japan) - TODO
-- Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan) - TODO
-- Private Idol Disc Vol. 2 - Miki Uchiyama (Japan) - TODO
-- Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M) - TODO
-- Private Idol Disc Vol. 4 - Mirei Kuroda (Japan) - TODO
-- Private Idol Disc Vol. 5 - Nanako Fujisaki (Japan) - TODO
-- Private Idol Disc Vol. 6 - Satomi Yoshida (Japan) - TODO
-- Private Idol Disc Vol. 7 - Kaori Asou (Japan) - TODO
-- Private Idol Disc Vol. 8 - Emiko Furukawa (Japan) - TODO
-- Private Idol Disc Vol. 9 - Keiko Nagamatsu (Japan) - TODO
-- Private Idol Disc Vol. 10 - Mai Masaki (Japan) - TODO
-- Private Idol Disc Vol. 11 - Mayumi Hirose (Japan) (2M) - TODO
 - [Pro Mahjong Kiwame S (Japan)](../../../Regions/Retails/Japan/T-16801G/01/README.md)
 - [Pro Shinan Mahjong "Tsuwamono" (Japan)](../../../Regions/Retails/Japan/T-38501G/01/README.md)
 - [Pro Yakyuu Greatest Nine 97 (Japan)](../../../Regions/Retails/Japan/GS-9139/01/README.md)

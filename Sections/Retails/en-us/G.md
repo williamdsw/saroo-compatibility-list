@@ -2,7 +2,7 @@
 
 ## G
 
-#### 79 Games (67 Tested)
+#### 72 Games (60 Tested)
 
 - [G Vector (Japan)](../../../Regions/Retails/Japan/T-30603G/01/README.md)
 - [GT24 (Japan)](../../../Regions/Retails/Japan/T-5714G/01/README.md)
@@ -17,18 +17,12 @@
 - Galaxy Fight - Universal Warriors (Japan) - TODO
 - [Gale Racer (Japan)](../../../Regions/Retails/Japan/GS-9003/01/README.md)
 - [Gals Panic SS (Japan)](../../../Regions/Retails/Japan/T-29002G/01/README.md)
-- [Game Basic for Sega Saturn (Japan)](../../../Regions/Retails/Japan/T-2111G/01/README.md)
 - [Game Nihonshi: Kakumeiji Oda Nobunaga (Japan)](../../../Regions/Retails/Japan/T-7633G/01/README.md)
 - [Game Tengoku (Japan)](../../../Regions/Retails/Japan/T-5712G/01/README.md)
 - [Game de Seishun (Japan)](../../../Regions/Retails/Japan/T-19711G/01/README.md)
 - [Game no Tatsujin (Japan)](../../../Regions/Retails/Japan/T-1502G/01/README.md)
 - [Game no Tatsujin 2 (Japan)](../../../Regions/Retails/Japan/T-1509G/01/README.md)
 - [Game no Tatsujin: The Shanghai (Japan)](../../../Regions/Retails/Japan/T-1506G/01/README.md)
-- [Game-Ware (Japan)](../../../Regions/Retails/Japan/T-17002G/01/README.md)
-- [Game-Ware Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-17003G/01/README.md)
-- [Game-Ware Vol. 3 (Japan)](../../../Regions/Retails/Japan/T-17004G-T/01/README.md)
-- [Game-Ware Vol. 4 (Japan)](../../../Regions/Retails/Japan/T-17005G/01/README.md)
-- [Game-Ware Vol. 5 (Japan)](../../../Regions/Retails/Japan/T-17006G/01/README.md)
 - [Garou Densetsu 3 - Road to the Final Victory (Fatal Fury 3) (Japan)](../../../Regions/Retails/Japan/T-3102G/01/README.md)
 - [Gegege no Kitarou: Gentou Kaikitan (Japan)](../../../Regions/Retails/Japan/T-13310G/01/README.md)
 - [Gekiretsu Pachinkers (Japan)](../../../Regions/Retails/Japan/T-29601G/01/README.md)
@@ -60,7 +54,6 @@
 - [Gotha - Ismailia SenEki (Japan)](../../../Regions/Retails/Japan/GS-9009/01/README.md)
 - [Gotha II: Tenkuu no Kishi (Japan)](../../../Regions/Retails/Japan/T-7608G/01/README.md)
 - [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../../Regions/Retails/Japan/T-14411G/01/README.md)
-- [Gradius Deluxe Pack (Japan)](../../../Regions/Retails/Japan/T-9509G/01/README.md)
 - [Gran Chaser (Japan)](../../../Regions/Retails/Japan/GS-9022/01/README.md)
 - [GranDread (Japan)](../../../Regions/Retails/Japan/T-20603G/01/README.md)
 - [Grand Slam (USA)](../../../Regions/Retails/USA/T-07004H/01/README.md)

@@ -17,7 +17,8 @@
 - [Ai Iijima Interactive Video Clip - Good Island Cafe (Japan)](../../../Regions/Retails/Japan/T-25201G/01/README.md)
 - [Air Management '96 (Japan)](../../../Regions/Retails/Japan/T-7611G/01/README.md)
 - [Airs Adventure (Japan)](../../../Regions/Retails/Japan/T-20301G/01/README.md)
-- [Akumajou Dracula X - Gekka no Yasoukyoku (Japan)](../../../Regions/Retails/Japan/T-9527G/README.md)
+<!-- - [Akumajou Dracula X - Gekka no Yasoukyoku (Japan)](../../../Regions/Retails/Japan/T-9527G/README.md) -->
+- Akumajou Dracula X - Gekka no Yasoukyoku (Japan) - TODO
 - Albert Odyssey - Legend of Eldean (USA) (RE) - TODO
 - Albert Odyssey - Legend of Eldean (USA) - TODO
 - Albert Odyssey Gaiden - Legend of Eldean (Japan) (1M) - TODO

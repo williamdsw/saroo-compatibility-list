@@ -2,7 +2,7 @@
 
 ## D
 
-#### 139 Jogos (81 Testados)
+#### 138 Jogos (80 Testados)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -84,12 +84,10 @@
 - [Desire (Japan)](../../../Regions/Retails/Japan/T-15031G/01/README.md)
 - [Destruction Derby (Europe)](../../../Regions/Retails/Europe/T-11303H/01/README.md)
 - Destruction Derby (Japan) - TODO
-- [Detana Twinbee Yahoo! Deluxe Pack (Japan)](../../../Regions/Retails/Japan/T-9505G/01/README.md)
 - [Device Reign (Japan)](../../../Regions/Retails/Japan/T-27810G/01/README.md)
 - [Devil Summoner: Soul Hackers (Japan)](../../../Regions/Retails/Japan/T-14420G/01/README.md)
 - [Devil Summoner: Soul Hackers: Akuma Zensho Dainishū (Japan)](../../../Regions/Retails/Japan/T-14421G/01/README.md)
 - [Devil Summoner: Soul Hackers Extra Dungeon (Japan)](../../../Regions/Retails/Japan/6106804/01/README.md)
-- [Dezaemon 2 (Japan)](../../../Regions/Retails/Japan/T-16804G/01/README.md)
 - Die Hard Arcade (Europe) - TODO
 - [Die Hard Arcade (USA)](../../../Regions/Retails/USA/MK-81057/01/README.md)
 - Die Hard Trilogy (Europe) - TODO
@@ -139,7 +137,6 @@
 - [Duke Nukem 3D (USA)](../../../Regions/Retails/USA/MK-81071/01/README.md)
 - Dungeon Master Nexus (Japan) - TODO
 - [Dungeon Master Nexus (Japan)](../../../Regions/Retails/Japan/T-9111G/01/README.md)
-- [Dungeons & Dragons Collection (Japan)](../../../Regions/Retails/Japan/T-1245G/01/README.md)
 - [DX Jinsei Game (Japan)](../../../Regions/Retails/Japan/T-10302G/01/README.md)
 - [DX Jinsei Game II (Japan)](../../../Regions/Retails/Japan/T-10310G/01/README.md)
 - Dynamite Deka (Japan) - TODO

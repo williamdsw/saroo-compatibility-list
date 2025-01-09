@@ -4,7 +4,7 @@
 
 ## Betas
 
-### Games
+### 15 Items
 
 - Alien Trilogy (Europe) (Beta) - TODO
 - Area 51 (USA) (Beta) - TODO

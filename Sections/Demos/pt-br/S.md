@@ -2,7 +2,7 @@
 
 ## S
 
-#### 54 Jogos (1 Testados - 3 to be Testados)
+#### 56 Jogos (1 Testados - 3 a serem testados)
 
 - Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Demo) - TODO
 - Sakura Taisen Teikokukagekidan Taiin Meibo (Japan) (Demo) - TODO
@@ -10,6 +10,8 @@
 - [SatMag Sono CD (Japan)](../../../Regions/Demos/Japan/6106833/01/README.md) - TODO
 - Saturn Bomberman (Japan) (Demo) - TODO
 - Saturn Bomberman Fight!! (Japan) (Demo) - TODO
+- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (Japan) (1M) - TODO
+- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (Japan) (2M) - TODO
 - Saturn Super Vol. 1 (Japan) (6M) - TODO
 - Saturn Super Vol. 1 (Japan) (7M) - TODO
 - Saturn Super Vol. 1 (Japan) (8M) - TODO

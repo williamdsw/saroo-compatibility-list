@@ -2,7 +2,7 @@
 
 ## W
 
-#### 74 Jogos (47 Testados)
+#### 71 Jogos (44 Testados)
 
 - WWF In Your House (Europe) - TODO
 - WWF In Your House (Japan) - TODO
@@ -49,11 +49,8 @@
 - [With You: Mitsumete Itai (Japan)](../../../Regions/Retails/Japan/T-20117G/01/README.md)
 - [Wizard's Harmony (Japan)](../../../Regions/Retails/Japan/T-22001G/01/README.md)
 - [Wizard's Harmony 2 (Japan)](../../../Regions/Retails/Japan/T-22004G/01/README.md)
-- [Wizardry Llylgamyn Saga (Japan)](../../../Regions/Retails/Japan/T-38601G/01/README.md)
 - [Wizardry Nemesis (Japan)](../../../Regions/Retails/Japan/T-37001G/01/README.md)
-- [Wizardry VI & VII Complete (Japan)](../../../Regions/Retails/Japan/T-1306G/01/README.md)
 - [Wolf Fang SS Kuuga 2001](../../../Regions/Retails/Japan/T-26105G/01/README.md)
-- [Wonder 3 Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26107G/01/README.md)
 - [World Advanced Daisenryaku: Koutetsu no Senpuu (Japan)](../../../Regions/Retails/Japan/GS9025/01/README.md)
 - [World Advanced Daisenryaku: Sakusen File (Japan)](../../../Regions/Retails/Japan/GS-9082/01/README.md)
 - [World Cup '98 France: Road to Win (Japan)](../../../Regions/Retails/Japan/GS-9196/01/README.md)

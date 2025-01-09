@@ -2,7 +2,7 @@
 
 ## M
 
-#### 117 Jogos (83 Testados)
+#### 115 Jogos (81 Testados)
 
 - [Maboroshi no Black Bass (Japan)](../../../Regions/Retails/Japan/T-25303G/01/README.md)
 - [Machine Head (USA)](../../../Regions/Retails/USA/T-7914H/01/README.md)
@@ -79,8 +79,6 @@
 - [Metal Fighter Miku (Japan)](../../../Regions/Retails/Japan/T-6002G/01/README.md)
 - [Metal Slug - Super Vehicle-001 (Japan)](../../../Regions/Retails/Japan/T-3111G/01/README.md)
 - [Mezase Idol Star!! Natsuiro Memories: Mahjong Hen (Japan)](../../../Regions/Retails/Japan/T-31001G/01/README.md)
-- [Midway Presents Arcade's Greatest Hits (USA)](../../../Regions/Retails/USA/T-9703H/01/README.md)
-- [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (USA)](../../../Regions/Retails/USA/T-9706H/01/README.md)
 - [Mighty Hits (Europe)](../../../Regions/Retails/Europe/MK-81087/01/README.md)
 - Mighty Hits (Japan) - TODO
 - [Minakata Hakudou Toujou (Japan)](../../../Regions/Retails/Japan/T-14414G/01/README.md)

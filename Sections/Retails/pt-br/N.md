@@ -2,7 +2,7 @@
 
 ## N
 
-#### 70 Jogos (43 Testados)
+#### 69 Jogos (42 Testados)
 
 - NASCAR 98 (Europe) - TODO
 - NASCAR 98 (France) - TODO
@@ -46,7 +46,6 @@
 - [Nanatsu Kaze no Shima Monogatari (Japan)](../../../Regions/Retails/Japan/T-35501G/01/README.md)
 - [Nanatsu no Hikan (Japan)](../../../Regions/Retails/Japan/T-7616G/01/README.md)
 - [Nekketsu Oyako (Japan)](../../../Regions/Retails/Japan/T-1802G/01/README.md)
-- [NetLink Custom Web Browser (USA)](../../../Regions/Retails/USA/T-319-01H/01/README.md)
 - [Next King - Koi no Sennen Oukoku (Japan)](../../../Regions/Retails/Japan/T-13328G/01/README.md)
 - NiGHTS into Dreams... (Europe) - TODO
 - NiGHTS into Dreams... (Japan) - TODO

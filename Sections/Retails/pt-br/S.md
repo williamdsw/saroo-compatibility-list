@@ -2,7 +2,7 @@
 
 ## S
 
-#### 290 Jogos (29 Testados - 142 a serem testados)
+#### 260 Jogos (144 Testados - 24 a serem testados)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md)
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md)
@@ -14,7 +14,6 @@
 - [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../../Regions/Retails/Japan/GS-9169/01/README.md) - TODO
 - [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../../Regions/Retails/Japan/SKR-00468/01/README.md) - TODO
 - [Sakura Tsuushin (Japan)](../../../Regions/Retails/Japan/T-38401G/01/README.md)
-- [Salamander Deluxe Pack Plus (Japan)](../../../Regions/Retails/Japan/T-9520G/01/README.md)
 - [Samurai Spirits - Amakusa Kourin (Japan)](../../../Regions/Retails/Japan/T-3116G/01/README.md)
 - [Samurai Spirits - Zankurou Musouken (Japan)](../../../Regions/Retails/Japan/T-3104G/01/README.md)
 - [Sangokushi Eiketsuden (Japan)](../../../Regions/Retails/Japan/T-7613G/01/README.md)
@@ -35,11 +34,8 @@
 - Saturn Bomberman (Japan) - TODO
 - [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/01/README.md)
 - [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/01/README.md)
-- Saturn CG Selection Vol. 1 (Japan) (Rev A) - TODO
 - Saturn Music School (Japan) - TODO
 - Saturn Music School 2 (Japan) (Rev A) - TODO
-- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (Japan) (1M) - TODO
-- Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (Japan) (2M) - TODO
 - [Savaki (Japan) (2M)](../../../Regions/Retails/Japan/T-5208G/01/README.md)
 - Scorcher (Europe) - TODO
 - [Scorcher (USA) (RE)](../../../Regions/Retails/USA/MK-81214/01/README.md) - TODO
@@ -48,20 +44,11 @@
 - SeaBass Fishing (Japan) - TODO
 - [SeaBass Fishing 2 (Japan)](../../../Regions/Retails/Japan/T-6011G/01/README.md)
 - [Sega Ages After Burner II (Japan)](../../../Regions/Retails/Japan/GS-9109/01/README.md) - TODO
-- [Sega Ages Columns Arcade Collection (Japan)](../../../Regions/Retails/Japan/GS-9161/01/README.md) - TODO
 - [Sega Ages Fantasy Zone (Japan)](../../../Regions/Retails/Japan/GS-9136/01/README.md) - TODO
 - [Sega Ages Galaxy Force II (Japan)](../../../Regions/Retails/Japan/GS-9197/01/README.md) - TODO
-- [Sega Ages I Love Mickey Mouse: Fushigi no Oshiro Daibouken/I Love Donald Duck: Gurujia Ou no Hihou (Japan)](../../../Regions/Retails/Japan/GS-9179/01/README.md) - TODO
-- [Sega Ages Memorial Selection Vol. 1 (Japan)](../../../Regions/Retails/Japan/GS-9135/01/README.md) - TODO
-- [Sega Ages Memorial Selection Vol. 2 (Japan)](../../../Regions/Retails/Japan/GS-9163/01/README.md) - TODO
 - [Sega Ages OutRun (Japan)](../../../Regions/Retails/Japan/GS-9110/01/README.md) - TODO
-- [Sega Ages Phantasy Star Collection (Japan)](../../../Regions/Retails/Japan/GS-9186/01/README.md) - TODO
 - [Sega Ages Power Drift (Japan)](../../../Regions/Retails/Japan/GS-9181/01/README.md) - TODO
-- [Sega Ages Rouka ni Ichidant-R (Japan)](../../../Regions/Retails/Japan/GS-9043/01/README.md) - TODO
-- [Sega Ages Shukudai ga Tanto R (Japan)](../../../Regions/Retails/Japan/GS-9042/01/README.md) - TODO
 - [Sega Ages Space Harrier (Japan)](../../../Regions/Retails/Japan/GS-9108/01/README.md) - TODO
-- Sega Ages: Volume 1 (Europe) - TODO
-- [Sega Ages: Volume 1 (USA)](../../../Regions/Retails/USA/T-12707H/01/README.md)
 - Sega International Victory Goal (Japan) (5M) - TODO
 - Sega Rally Championship (Europe) (Made in EU) - TODO
 - Sega Rally Championship (Europe) (Made in USA) - TODO
@@ -78,15 +65,6 @@
 - [Sega Worldwide Soccer 98: Club Edition (Europe)](../../../Regions/Retails/Europe/MK-81123/01/README.md)
 - Sega Worldwide Soccer 97 (Europe) (Alt) - TODO
 - Sega Worldwide Soccer 97 (Europe) - TODO
-- SegaSaturn - Graphic & Sound Tools for Macintosh (Japan) - TODO
-- SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version) - TODO
-- SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) - TODO
-- SegaSaturn Electronic Book Operator (Japan) - TODO
-- SegaSaturn FDD Operator (Japan) - TODO
-- SegaSaturn Internet 2 (Japan) - TODO
-- SegaSaturn Internet Vol. 1 (Japan) - TODO
-- SegaSaturn Photo CD Operator (Japan) (Rev A) - TODO
-- SegaSaturn Photo CD Operator (Japan) - TODO
 - [Segata Sanshirou - Shinken Yuugi (Japan)](../../../Regions/Retails/Japan/GS-9204/01/README.md)
 - [Seifuku Densetsu Pretty Fighter X (Japan)](../../../Regions/Retails/Japan/T-15001G/01/README.md) - TODO
 - [Seikai Risshiden: Yoi Kuni Yoi Seiji (Japan)](../../../Regions/Retails/Japan/T-18005G/01/README.md)
@@ -188,10 +166,6 @@
 - Sonic 3D - Flickies' Island (Europe) - TODO
 - Sonic 3D - Flickies' Island (Japan) - TODO
 - [Sonic 3D Blast (USA)](../../../Regions/Retails/USA/MK-81062/01/README.md)
-- Sonic Jam (Europe) - TODO
-- Sonic Jam (Japan) (Rev A) - TODO
-- Sonic Jam (Japan) - TODO
-- [Sonic Jam (USA)](../../../Regions/Retails/USA/MK-81079/01/README.md)
 - Sonic R (Europe) - TODO
 - Sonic R (Japan) (1M) - TODO
 - Sonic R (Japan) (2M) - TODO
@@ -223,7 +197,6 @@
 - Space Jam (Europe) - TODO
 - Space Jam (Japan) - TODO
 - [Space Jam (USA)](../../../Regions/Retails/USA/T-8125H/01/README.md)
-- Special Disc with SegaSaturn Internet 2 (Japan) - TODO
 - Spot Goes to Hollywood (Europe) - TODO
 - Spot Goes to Hollywood (Japan) - TODO
 - [Spot Goes to Hollywood (USA)](../../../Regions/Retails/USA/T-7001H/01/README.md)
@@ -280,8 +253,6 @@
 - [Super Puzzle Fighter II Turbo (Europe)](../../../Regions/Retails/Europe/T-7030H-50/01/README.md)
 - [Super Puzzle Fighter II Turbo (USA)](../../../Regions/Retails/USA/T-1215H/01/README.md)
 - Super Puzzle Fighter II X (Japan) - TODO
-- [Super Real Mahjong Graffiti (Japan)](../../../Regions/Retails/Japan/T-16504G/01/README.md)
-- Super Real Mahjong Graffiti (Japan) (P's Club Special Edition) (2M) - TODO
 - [Super Real Mahjong PV (Japan)](../../../Regions/Retails/Japan/T-16501G/01/README.md)
 - [Super Real Mahjong P7 (Japan)](../../../Regions/Retails/Japan/T-16509G/01/README.md) - TODO
 - Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO
@@ -293,7 +264,6 @@
 - [Super Tempo (Japan)](../../../Regions/Retails/Japan/T-26413G/01/README.md) - TODO
 - [Swagman (Europe)](../../../Regions/Retails/Europe/T-11502H-5/01/README.md)
 - [Sword & Sorcery (Japan)](../../../Regions/Retails/Japan/T-5202G/01/README.md)
-- [System-Disc (KD02) Columbia (Japan)](../../../Regions/Retails/Japan/SEGASYSTEM/01/README.md) - TODO
 
 Navegação:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) **S** [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

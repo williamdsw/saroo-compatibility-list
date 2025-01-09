@@ -2,7 +2,7 @@
 
 ## B
 
-#### 86 Jogos (55 Testados)
+#### 83 Jogos (53 Testados)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../../Regions/Retails/Japan/T-19907G/01/README.md)
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../../Regions/Retails/Japan/T-19906G/01/README.md)
@@ -33,7 +33,6 @@
 - [Battle Stations (USA)](../../../Regions/Retails/USA/T-5021H/01/README.md)
 - [BattleSport (USA)](../../../Regions/Retails/USA/T-8149H/01/README.md)
 - [Beach de Reach! (Japan)](../../../Regions/Retails/Japan/T-29004G/01/README.md)
-- [Bedlam (USA)](../../../Regions/Retails/USA/T-25407H45/01/README.md)
 - [Big Ichigeki! Pachi-Slot Daikouryaku: Universal Museum (Japan)](../../../Regions/Retails/Japan/T-16704G/01/README.md)
 - [Big Thanks - Super Keirin - Dream with Keirin 50 Years (Japan)](../../../Regions/Retails/Japan/6106987/01/README.md)
 - Bio Hazard (Japan) - TODO
@@ -73,8 +72,6 @@
 - Break Point (Japan) - TODO
 - [Break Point Tennis (USA)](../../../Regions/Retails/USA/T-8145H/01/README.md)
 - [BreakThru! (Japan)](../../../Regions/Retails/Japan/T-21501G/01/README.md)
-- Bubble Bobble also featuring Rainbow Islands (Europe) - TODO
-- [Bubble Bobble also featuring Rainbow Islands (USA)](../../../Regions/Retails/USA/T-8131H/01/README.md)
 - [Bubble Symphony (Japan)](../../../Regions/Retails/Japan/T-19905G/01/README.md)
 - Bug Too! (Europe) - TODO
 - [Bug Too! (USA)](../../../Regions/Retails/USA/MK-81040/01/README.md)
