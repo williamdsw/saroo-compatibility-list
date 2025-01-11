@@ -5,10 +5,10 @@
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. [MCU: 231125, SS: 231125, FPGA: 05](../01/README.md)
-  2. [MCU: 240316, SS: 240316, FPGA: 05](../02/README.md)
-  3. MCU: 240627, SS: 240627, FPGA: 05
-  4. [MCU: 240627, SS: 240627, FPGA: 05](../04/README.md)
+  1. [MCU: 231125, SS: 231125, FPGA: 05 - v0.2](../01/README.md)
+  2. [MCU: 240316, SS: 240316, FPGA: 05 - v0.4](../02/README.md)
+  3. MCU: 240627, SS: 240627, FPGA: 05 - v0.6
+  4. [MCU: 240627, SS: 240627, FPGA: 05 - v0.6](../04/README.md)
 
 ### [SD Card Info (Lenovo - 32 GB - exFAT)](../../../../../Info/SdCards/Lenovo/32GB/exfat/README.md)
 

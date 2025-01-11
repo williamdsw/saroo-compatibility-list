@@ -5,8 +5,8 @@
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. [MCU: 231125, SS: 231125, FPGA: 05](../01/README.md)
-  2. MCU: 240316, SS: 240316, FPGA: 05
+  1. [MCU: 231125, SS: 231125, FPGA: 05 - v0.2](../01/README.md)
+  2. MCU: 240316, SS: 240316, FPGA: 05 - v0.4
 
 ### [SD Card Info (XRayDisk - 128 GB)](../../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
 

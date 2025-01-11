@@ -5,7 +5,7 @@
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. MCU: 231125, SS: 231125, FPGA: 05
+  1. MCU: 231125, SS: 231125, FPGA: 05 - v0.2
   2. [MCU: 240107, SS: 240107, FPGA: 05 [KLnm]](../02/README.md)
   3. [MCU: 240107, SS: 240107, FPGA: 05 [KLnm]](../03/README.md)
 

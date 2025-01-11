@@ -5,7 +5,7 @@
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. MCU: 240316, SS: 240316, FPGA: 05
+  1. MCU: 240316, SS: 240316, FPGA: 05 - v0.4
 
 ### [SD Card Info (Lenovo - 128 GB)](../../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
 

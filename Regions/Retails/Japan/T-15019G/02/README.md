@@ -6,7 +6,7 @@
 
 - <b>Firmwares Tested:</b>
   1. [MCU: 231101, SS: 231101, FPGA: 04](../01/README.md)
-  2. MCU: 241224, SS: 241224, FPGA: 05
+  2. MCU: 241224, SS: 241224, FPGA: 05 - v0.7
 
 ### [SD Card Info (Lexar - 64 GB - exFat)](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md)
 

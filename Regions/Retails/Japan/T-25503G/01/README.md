@@ -6,7 +6,7 @@
 
 - <b>Firmwares Tested:</b>
   1. MCU: 231103, SS: 231103, FPGA: 04
-  2. [MCU: 231125, SS: 231125, FPGA: 05](../02/README.md)
+  2. [MCU: 231125, SS: 231125, FPGA: 05 - v0.2](../02/README.md)
 
 ### [SD Card Info (EVO Samsung - 64 GB)](../../../../../Info/SdCards/Samsung/64GB/fat32/README.md)
 

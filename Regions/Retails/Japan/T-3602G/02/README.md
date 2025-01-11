@@ -5,8 +5,8 @@
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. [MCU: 231103, SS: 231103, FPGA: 04](../01/README.md)
-  2. MCU: 231111, SS: 231111, FPGA: 05
+  1. [MCU: 231103, SS: 231101, FPGA: 04](../01/README.md)
+  2. MCU: 231103, SS: 231101, FPGA: 04
 
 ### [SD Card Info (EVO Samsung - 64 GB)](../../../../../Info/SdCards/Samsung/64GB/fat32/README.md)
 

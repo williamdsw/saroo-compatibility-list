@@ -6,7 +6,7 @@
 
 - <b>Firmwares Tested:</b>
   1. MCU: 231101, SS: 231101, FPGA: 04
-  2. [MCU: 241224, SS: 241224, FPGA: 05](../02/README.md)
+  2. [MCU: 241224, SS: 241224, FPGA: 05 - v0.7](../02/README.md)
 
 ### [SD Card Info (XRayDisk - 128 GB)](../../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
 

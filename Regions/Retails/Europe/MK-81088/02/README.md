@@ -5,8 +5,8 @@
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. [MCU: 240316, SS: 240316, FPGA: 05 (Firmware)](./01/README.md)
-  2. MCU: 241224, SS: 241224, FPGA: 05
+  1. [MCU: 240316, SS: 240316, FPGA: 05 - v0.4 (Firmware)](./01/README.md)
+  2. MCU: 241224, SS: 241224, FPGA: 05 - v0.7
 
 ### [SD Card Info (Lexar - 64 GB - exFat)](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md)
 
