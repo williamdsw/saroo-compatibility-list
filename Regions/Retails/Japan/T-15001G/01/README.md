@@ -21,17 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Issues :warning:
 
-### Extra Info
+### Problems
 
-- It does need a full gameplay test.
-
-### TODO
-
-- Test Seifuku Densetsu Pretty Fighter X (Japan) (1M)
-- Test Seifuku Densetsu Pretty Fighter X (Japan) (2B)
+- Audio issues
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/LJ2uGPT0zFg/0.jpg)](https://www.youtube.com/watch?v=LJ2uGPT0zFg)

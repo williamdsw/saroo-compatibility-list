@@ -13,8 +13,6 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1):
-
 - <b>Game Name:</b> SHIROKI MAJO
 - <b>Product Number:</b> T-14322G
 - <b>Version:</b> V1.001
@@ -23,18 +21,16 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Untested :question:
-- (Disc 2): Untested :question:
+- Issues :warning:
+
+### Problems
+
+- Visual glitches after a cutscene
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-### TODO
-
-- Test Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan) (Disc 1)
-- Test Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan) (Disc 2)
-
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/lmPe9MGwFyw/0.jpg)](https://www.youtube.com/watch?v=lmPe9MGwFyw)

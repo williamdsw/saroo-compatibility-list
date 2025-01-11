@@ -1,4 +1,4 @@
-# System-Disc (KD02) Columbia (Japan)
+# Sega Saturn System Disc KD02 (Japan)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 
@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Playable :white_check_mark:
 
 ### Extra Info
 
@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/JQE4_unLkjA/0.jpg)](https://www.youtube.com/watch?v=JQE4_unLkjA)

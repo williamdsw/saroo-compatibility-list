@@ -21,17 +21,16 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Issues :warning:
+
+### Problems
+
+- Map texture glitches
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-### TODO
-
-- Test Shin Megami Tensei: Devil Summoner (Japan) (Rev A)
-- Test Shin Megami Tensei: Devil Summoner (Japan) (Rev B)
-
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/bf2r_fhytNg/0.jpg)](https://www.youtube.com/watch?v=bf2r_fhytNg)

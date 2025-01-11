@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1) (Game Disc) (Rev A) (10M):
+Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M):
 
 - <b>Game Name:</b> CHAOS SEED
 - <b>Product Number:</b> T-30902G
@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
 
-(Disc 2) (Omake Disc):
+Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc):
 
 - <b>Game Name:</b> CHAOS SEED EXTRA CD
 - <b>Product Number:</b> T-30902G
@@ -31,9 +31,13 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Disc) (Rev A) (10M): Playable :white_check_mark:
-- (Disc 1) (Game Disc) (Rev B) (21M): Untested :question:
-- (Disc 2) (Omake Disc): Untested :question:
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M): Playable :white_check_mark:
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev B) (21M): Untested :question:
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc): Issues :warning:
+
+### Problems
+
+- It does freezes at the "Now Loading" screen
 
 ### Extra Info
 
@@ -41,12 +45,16 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M)
-- Test Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev B) (21M)
-- Test Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc)
+- Fully Test Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M)
+- Fully Test Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev B) (21M)
+- Fully Test Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc)
 
 ### Evidence
 
-(Disc 1) (Game Disc) (Rev A) (10M):
+Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M):
 
 [![](https://img.youtube.com/vi/Pg10zVC3svI/0.jpg)](https://www.youtube.com/watch?v=Pg10zVC3svI)
+
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc):
+
+[![](https://img.youtube.com/vi/3Dk7y9TI0JA/0.jpg)](https://www.youtube.com/watch?v=3Dk7y9TI0JA)

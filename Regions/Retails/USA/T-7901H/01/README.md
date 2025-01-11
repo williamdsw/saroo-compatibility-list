@@ -5,7 +5,7 @@
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. MCU: 240627, SS: 240627, FPGA: 05
+  1. MCU: 241224, SS: 241224, FPGA: 05
 
 ### [SD Card Info (Lexar - 64 GB - exFat)](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md)
 
@@ -21,12 +21,13 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Issues :warning:
 
-### Extra Info
+### Problems
 
-- It does need a full gameplay test.
+- It does freezes during the intro animation
+- It does freezes during a other cutscene
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/TcNs--QJe-Q/0.jpg)](https://www.youtube.com/watch?v=TcNs--QJe-Q)
