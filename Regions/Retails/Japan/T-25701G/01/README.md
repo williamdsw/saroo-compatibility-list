@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Brain Battle Q (Japan)](https://img.youtube.com/vi/CTFOeFxnVNM/0.jpg)](https://www.youtube.com/watch?v=CTFOeFxnVNM)
+[![](https://img.youtube.com/vi/CTFOeFxnVNM/0.jpg)](https://www.youtube.com/watch?v=CTFOeFxnVNM)

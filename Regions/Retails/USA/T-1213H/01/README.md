@@ -33,4 +33,4 @@ It needs tests with others caracters, and others modes (tournement, etc).
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Street Fighter Alpha 2 (USA) = Freezes](https://img.youtube.com/vi/f70O0AcXrqs/0.jpg)](https://www.youtube.com/watch?v=f70O0AcXrqs)
+[![ = Freezes](https://img.youtube.com/vi/f70O0AcXrqs/0.jpg)](https://www.youtube.com/watch?v=f70O0AcXrqs)

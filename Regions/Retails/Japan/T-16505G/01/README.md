@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Untested :question:
-- (2M): Playable :white_check_mark:
+- Kanazawa Shougi (Japan) (1M): Untested :question:
+- Kanazawa Shougi (Japan) (2M): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(2M):
+Kanazawa Shougi (Japan) (2M):
 
-[![[Sample] SAROO 1.32 (240316) - Kanazawa Shougi (J)](https://img.youtube.com/vi/ZmdlKQ8X5J4/0.jpg)](https://www.youtube.com/watch?v=ZmdlKQ8X5J4)
+[![](https://img.youtube.com/vi/ZmdlKQ8X5J4/0.jpg)](https://www.youtube.com/watch?v=ZmdlKQ8X5J4)

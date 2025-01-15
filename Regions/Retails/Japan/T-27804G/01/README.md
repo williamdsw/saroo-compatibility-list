@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- (Alt): Untested :question:
+- Yuukyuu Gensoukyoku (Japan): Playable :white_check_mark:
+- Yuukyuu Gensoukyoku (Japan) (Alt): Untested :question:
 
 ### Extra Info
 
@@ -34,4 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Yuukyuu Gensoukyoku (Japan) = Playable](https://img.youtube.com/vi/Pxt4TKkM4kY/0.jpg)](https://www.youtube.com/watch?v=Pxt4TKkM4kY)
+Yuukyuu Gensoukyoku (Japan):
+
+[![](https://img.youtube.com/vi/Pxt4TKkM4kY/0.jpg)](https://www.youtube.com/watch?v=Pxt4TKkM4kY)

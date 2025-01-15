@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Rev A) (10M): Playable :white_check_mark:
+- Panic-chan (Japan) (Rev A) (10M): Playable :white_check_mark:
+- Panic-chan (Japan) (Rev A) (11M): Untested :question:
 
 ### Extra Info
 
@@ -33,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Rev A) (10M):
+Panic-chan (Japan) (Rev A) (10M):
 
 [![](https://img.youtube.com/vi/pQjcn3SKOK8/0.jpg)](https://www.youtube.com/watch?v=pQjcn3SKOK8)

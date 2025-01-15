@@ -2,7 +2,7 @@
 
 ## D
 
-#### 138 Jogos (80 Testados)
+#### 136 Jogos (78 Testados)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -10,57 +10,57 @@
 - D (France) (Disc II) - TODO
 - D (Germany) (Disc I) - TODO
 - D (Germany) (Disc II) - TODO
-- [D (USA)](../../../Regions/Retails/USA/T-8106H/01/README.md)
+- [D (USA)](../../../Regions/Retails/USA/T-8106H/01/README.md) - :question:
 - D no Shokutaku (Japan) (Disc 1) - TODO
 - D no Shokutaku (Japan) (Disc 2) - TODO
-- [D-Xhird (Japan)](../../../Regions/Retails/Japan/T-10307G/01/README.md)
-- [DJ Wars (Japan)](../../../Regions/Retails/Japan/T-18807G/01/README.md)
-- [DX Nippon Tokkyuu Ryokou Game (Japan)](../../../Regions/Retails/Japan/T-10306G/01/README.md)
-- [Daibouken: Saint Elmos no Kiseki (Japan)](../../../Regions/Retails/Japan/T-23101G/01/README.md)
-- [Daikoukai Jidai Gaiden (Japan)](../../../Regions/Retails/Japan/T-7657G/01/README.md)
-- [Daikoukai Jidai II (Japan)](../../../Regions/Retails/Japan/T-7628G/01/README.md)
-- [Daisenryaku - Strong Style (Japan)](../../../Regions/Retails/Japan/T-21202G/01/README.md)
-- [Daisuki (Japan)](../../../Regions/Retails/Japan/T-18510G/01/README.md)
-- [Daitoride (Japan)](../../../Regions/Retails/Japan/T-29201G/01/README.md)
+- [D-Xhird (Japan)](../../../Regions/Retails/Japan/T-10307G/01/README.md) - :white_check_mark:
+- [DJ Wars (Japan)](../../../Regions/Retails/Japan/T-18807G/01/README.md) - :white_check_mark:
+- [DX Nippon Tokkyuu Ryokou Game (Japan)](../../../Regions/Retails/Japan/T-10306G/01/README.md) - :white_check_mark:
+- [Daibouken: Saint Elmos no Kiseki (Japan)](../../../Regions/Retails/Japan/T-23101G/01/README.md) - :white_check_mark:
+- [Daikoukai Jidai Gaiden (Japan)](../../../Regions/Retails/Japan/T-7657G/01/README.md) - :hammer_and_wrench:
+- [Daikoukai Jidai II (Japan)](../../../Regions/Retails/Japan/T-7628G/01/README.md) - :white_check_mark:
+- [Daisenryaku - Strong Style (Japan)](../../../Regions/Retails/Japan/T-21202G/01/README.md) - :white_check_mark:
+- [Daisuki (Japan)](../../../Regions/Retails/Japan/T-18510G/01/README.md) - :question:
+- [Daitoride (Japan)](../../../Regions/Retails/Japan/T-29201G/01/README.md) - :white_check_mark:
 - Darius Gaiden (Europe) - TODO
 - Darius Gaiden (Japan) (2M) - TODO
 - Darius Gaiden (Japan) (3M) - TODO
-- [Darius Gaiden (USA)](../../../Regions/Retails/USA/T-8123H/01/README.md)
-- [Darius II (Europe)](../../../Regions/Retails/Europe/MK-81085/01/README.md)
+- [Darius Gaiden (USA)](../../../Regions/Retails/USA/T-8123H/01/README.md) - :white_check_mark:
+- [Darius II (Europe)](../../../Regions/Retails/Europe/MK-81085/01/README.md) - :white_check_mark:
 - Darius II (Japan) (2M) - TODO
-- [Dark Hunter (Ge) Youma no Mori (Japan)](../../../Regions/Retails/Japan/T-7632G/01/README.md)
-- [Dark Hunter (Jou) Ijigen Gakuen (Japan)](../../../Regions/Retails/Japan/T-7631G/01/README.md)
+- [Dark Hunter (Ge) Youma no Mori (Japan)](../../../Regions/Retails/Japan/T-7632G/01/README.md) - :white_check_mark:
+- [Dark Hunter (Jou) Ijigen Gakuen (Japan)](../../../Regions/Retails/Japan/T-7631G/01/README.md) - :white_check_mark:
 - [Dark Legend (USA)](../../../Regions/Retails/USA/T-1305H/02/README.md) - TODO
 - Dark Savior (Europe) - TODO
 - Dark Savior (Japan) - TODO
-- [Dark Savior (USA)](../../../Regions/Retails/USA/MK-81304/01/README.md)
-- [Dark Seed (Japan)](../../../Regions/Retails/Japan/T-18501G/01/README.md)
-- [Dark Seed II (Japan)](../../../Regions/Retails/Japan/T-36101G/01/README.md)
+- [Dark Savior (USA)](../../../Regions/Retails/USA/MK-81304/01/README.md) - :hammer_and_wrench:
+- [Dark Seed (Japan)](../../../Regions/Retails/Japan/T-18501G/01/README.md) - :white_check_mark:
+- [Dark Seed II (Japan)](../../../Regions/Retails/Japan/T-36101G/01/README.md) - :white_check_mark:
 - Darklight Conflict (Europe) - TODO
-- [Darklight Conflict (USA)](../../../Regions/Retails/USA/T-5022H/01/README.md)
-- [Daytona USA (Europe)](../../../Regions/Retails/Europe/MK_8120050/01/README.md)
-- [Daytona USA (Japan)](../../../Regions/Retails/Japan/GS-9013/01/README.md)
-- [Daytona USA (USA)](../../../Regions/Retails/USA/MK-81200/01/README.md)
+- [Darklight Conflict (USA)](../../../Regions/Retails/USA/T-5022H/01/README.md) - :white_check_mark:
+- [Daytona USA (Europe)](../../../Regions/Retails/Europe/MK_8120050/01/README.md) - :hammer_and_wrench:
+- [Daytona USA (Japan)](../../../Regions/Retails/Japan/GS-9013/01/README.md) - :hammer_and_wrench:
+- [Daytona USA (USA)](../../../Regions/Retails/USA/MK-81200/01/README.md) - :hammer_and_wrench:
 - Daytona USA - Championship Circuit Edition (Europe) (Rev A) - TODO
-- [Daytona USA: Championship Circuit Edition (USA)](../../../Regions/Retails/USA/MK-81213/01/README.md)
+- [Daytona USA: Championship Circuit Edition (USA)](../../../Regions/Retails/USA/MK-81213/01/README.md) - :white_check_mark:
 - Daytona USA - Circuit Edition (Japan) - TODO
 - Daytona USA C.C.E. Net Link Edition (USA) - TODO
-- [Dejig Aqua World (Japan)](../../../Regions/Retails/Japan/T-30303G/01/README.md)
-- [Dejig Lassen: Art Collection (Japan)](../../../Regions/Retails/Japan/T-30304G/01/README.md)
-- [Dejig McKnight: Art Collection (Japan)](../../../Regions/Retails/Japan/T-30305G/01/README.md)
-- [Dejig Tin Toy (Japan)](../../../Regions/Retails/Japan/T-30302G/01/README.md)
-- [Dead Or Alive (Japan)](../../../Regions/Retails/Japan/T-3603G/01/README.md)
-- [Deadalus (Japan)](../../../Regions/Retails/Japan/SG-9008/01/README.md)
-- [Death Crimson (Japan)](../../../Regions/Retails/Japan/T-23202G/01/README.md)
-- [Death Throttle: Kakuzetsu Toshi kara no Dasshutsu (Japan)](../../../Regions/Retails/Japan/T-26403G/01/README.md)
-- [DeathMask (Japan)](../../../Regions/Retails/Japan/T-22701G/01/README.md)
+- [Dejig Aqua World (Japan)](../../../Regions/Retails/Japan/T-30303G/01/README.md) - :white_check_mark:
+- [Dejig Lassen: Art Collection (Japan)](../../../Regions/Retails/Japan/T-30304G/01/README.md) - :white_check_mark:
+- [Dejig McKnight: Art Collection (Japan)](../../../Regions/Retails/Japan/T-30305G/01/README.md) - :white_check_mark:
+- [Dejig Tin Toy (Japan)](../../../Regions/Retails/Japan/T-30302G/01/README.md) - :white_check_mark:
+- [Dead Or Alive (Japan)](../../../Regions/Retails/Japan/T-3603G/01/README.md) - :white_check_mark:
+- [Deadalus (Japan)](../../../Regions/Retails/Japan/SG-9008/01/README.md) - :white_check_mark:
+- [Death Crimson (Japan)](../../../Regions/Retails/Japan/T-23202G/01/README.md) - :white_check_mark:
+- [Death Throttle: Kakuzetsu Toshi kara no Dasshutsu (Japan)](../../../Regions/Retails/Japan/T-26403G/01/README.md) - :white_check_mark:
+- [DeathMask (Japan)](../../../Regions/Retails/Japan/T-22701G/01/README.md) - :white_check_mark:
 - DecAthlete (Japan) (1M) - TODO
 - DecAthlete (Japan) (2M) - TODO
 - DecAthlete (Japan) (Rev A) (10M) - TODO
 - DecAthlete (Japan) (Rev B) (20M) - TODO
 - DecAthlete (USA) - TODO
 - DecAthlete for SegaNet (Japan) - TODO
-- [Deep Fear (Europe)](../../../Regions/Retails/Europe/MK-81804/01/README.md)
+- [Deep Fear (Europe)](../../../Regions/Retails/Europe/MK-81804/01/README.md) - :warning:
 - Deep Fear (Japan) (Disc 1) - TODO
 - Deep Fear (Japan) (Disc 2) - TODO
 - Deep Fear (USA) (Disc 1) (Unl) - TODO
@@ -68,57 +68,57 @@
 - Defcon 5 (Europe) - TODO
 - Defcon 5 (France) - TODO
 - Defcon 5 (Japan) - TODO
-- [Defcon 5 (USA)](../../../Regions/Retails/USA/T-1301G/01/README.md)
-- [Deka Yonku: Tough the Truck (Japan)](../../../Regions/Retails/Japan/T-4313G/01/README.md)
-- [Delisoba Deluxe (Japan)](../../../Regions/Retails/Japan/6106803/01/README.md)
+- [Defcon 5 (USA)](../../../Regions/Retails/USA/T-1301G/01/README.md) - :white_check_mark:
+- [Deka Yonku: Tough the Truck (Japan)](../../../Regions/Retails/Japan/T-4313G/01/README.md) - :white_check_mark:
+- [Delisoba Deluxe (Japan)](../../../Regions/Retails/Japan/6106803/01/README.md) - :white_check_mark:
 - Dennou Senki - Virtual On - Cyber Troopers (Japan) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers (Korea) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers for SegaNet (Japan) - TODO
-- [Denpa Shounen-teki Game (Japan)](../../../Regions/Retails/Japan/T-14316G/01/README.md)
+- [Denpa Shounen-teki Game (Japan)](../../../Regions/Retails/Japan/T-14316G/01/README.md) - :white_check_mark:
 - Denpa Shounen-teki Game (Japan) (Rerelease) - TODO
-- [Densetsu no Ogre Battle (Japan)](../../../Regions/Retails/Japan/T-5305G/01/README.md)
-- [Densha de Go! EX (Japan)](../../../Regions/Retails/Japan/T-10317G/01/README.md)
-- [Derby Analyst (Japan)](../../../Regions/Retails/Japan/T-20505G/01/README.md)
-- [Derby Stallion (Japan)](../../../Regions/Retails/Japan/T-2113G/01/README.md)
-- [Deroon Dero Dero (Japan)](../../../Regions/Retails/Japan/T-3601G/01/README.md)
-- [Desire (Japan)](../../../Regions/Retails/Japan/T-15031G/01/README.md)
-- [Destruction Derby (Europe)](../../../Regions/Retails/Europe/T-11303H/01/README.md)
+- [Densetsu no Ogre Battle (Japan)](../../../Regions/Retails/Japan/T-5305G/01/README.md) - :white_check_mark:
+- [Densha de Go! EX (Japan)](../../../Regions/Retails/Japan/T-10317G/01/README.md) - :white_check_mark:
+- [Derby Analyst (Japan)](../../../Regions/Retails/Japan/T-20505G/01/README.md) - :white_check_mark:
+- [Derby Stallion (Japan)](../../../Regions/Retails/Japan/T-2113G/01/README.md) - :white_check_mark:
+- [Deroon Dero Dero (Japan)](../../../Regions/Retails/Japan/T-3601G/01/README.md) - :white_check_mark:
+- [Desire (Japan)](../../../Regions/Retails/Japan/T-15031G/01/README.md) - :question:
+- [Destruction Derby (Europe)](../../../Regions/Retails/Europe/T-11303H/01/README.md) - :white_check_mark:
 - Destruction Derby (Japan) - TODO
-- [Device Reign (Japan)](../../../Regions/Retails/Japan/T-27810G/01/README.md)
-- [Devil Summoner: Soul Hackers (Japan)](../../../Regions/Retails/Japan/T-14420G/01/README.md)
-- [Devil Summoner: Soul Hackers: Akuma Zensho Dainishū (Japan)](../../../Regions/Retails/Japan/T-14421G/01/README.md)
-- [Devil Summoner: Soul Hackers Extra Dungeon (Japan)](../../../Regions/Retails/Japan/6106804/01/README.md)
+- [Device Reign (Japan)](../../../Regions/Retails/Japan/T-27810G/01/README.md) - :white_check_mark:
+- [Devil Summoner: Soul Hackers (Japan)](../../../Regions/Retails/Japan/T-14420G/01/README.md) - :question:
+- [Devil Summoner: Soul Hackers: Akuma Zensho Dainishū (Japan)](../../../Regions/Retails/Japan/T-14421G/01/README.md) - :white_check_mark:
+- [Devil Summoner: Soul Hackers Extra Dungeon (Japan)](../../../Regions/Retails/Japan/6106804/01/README.md) - :white_check_mark:
 - Die Hard Arcade (Europe) - TODO
-- [Die Hard Arcade (USA)](../../../Regions/Retails/USA/MK-81057/01/README.md)
+- [Die Hard Arcade (USA)](../../../Regions/Retails/USA/MK-81057/01/README.md) - :white_check_mark:
 - Die Hard Trilogy (Europe) - TODO
 - Die Hard Trilogy (Japan) - TODO
-- [Die Hard Trilogy (USA)](../../../Regions/Retails/USA/T-16103H/01/README.md)
-- [Digital Ange: Dennou Tenshi SS (Japan)](../../../Regions/Retails/Japan/T-33003G/01/README.md)
-- [Digital Dance Mix Vol. 1 Namie Amuro (Japan)](../../../Regions/Retails/Japan/GS-9133/01/README.md)
-- [Digital Monster Ver. S: Digimon Tamers (Japan)](../../../Regions/Retails/Japan/T-13331G/01/README.md)
+- [Die Hard Trilogy (USA)](../../../Regions/Retails/USA/T-16103H/01/README.md) - :white_check_mark:
+- [Digital Ange: Dennou Tenshi SS (Japan)](../../../Regions/Retails/Japan/T-33003G/01/README.md) - :hammer_and_wrench:
+- [Digital Dance Mix Vol. 1 Namie Amuro (Japan)](../../../Regions/Retails/Japan/GS-9133/01/README.md) - :warning:
+- [Digital Monster Ver. S: Digimon Tamers (Japan)](../../../Regions/Retails/Japan/T-13331G/01/README.md) - :white_check_mark:
 - Digital Pinball (Europe) (4S) - TODO
 - Digital Pinball (Europe) (7S) - TODO
 - Digital Pinball - Last Gladiators (Japan) - TODO
 - Digital Pinball - Last Gladiators Ver.9.7 (Japan) - TODO
 - Digital Pinball - Necronomicon (Japan) - TODO
-- [Daina Airan (Japan)](../../../Regions/Retails/Japan/T-4503G/01/README.md)
-- [Daina Airan: Yokoku Hen (Japan)](../../../Regions/Retails/Japan/T-4505G/01/README.md)
-- [DiscStation Bessatsu i miss you. (Japan)](../../../Regions/Retails/Japan/6106732/01/README.md)
-- [Discworld (Japan)](../../../Regions/Retails/Japan/T-20502G/01/README.md)
-- [Discworld II - Missing Presumed...! (Europe)](../../../Regions/Retails/Europe/MK-81093/01/README.md)
-- [DoDonPachi (Japan)](../../../Regions/Retails/Japan/T-14419G/01/README.md)
-- [DonPachi (Japan)](../../../Regions/Retails/Japan/T-14405G/01/README.md)
+- [Daina Airan (Japan)](../../../Regions/Retails/Japan/T-4503G/01/README.md) - :hammer_and_wrench:
+- [Daina Airan: Yokoku Hen (Japan)](../../../Regions/Retails/Japan/T-4505G/01/README.md) - :hammer_and_wrench:
+- [DiscStation Bessatsu i miss you. (Japan)](../../../Regions/Retails/Japan/6106732/01/README.md) - :white_check_mark:
+- [Discworld (Japan)](../../../Regions/Retails/Japan/T-20502G/01/README.md) - :white_check_mark:
+- [Discworld II - Missing Presumed...! (Europe)](../../../Regions/Retails/Europe/MK-81093/01/README.md) - :warning:
+- [DoDonPachi (Japan)](../../../Regions/Retails/Japan/T-14419G/01/README.md) - :white_check_mark:
+- [DonPachi (Japan)](../../../Regions/Retails/Japan/T-14405G/01/README.md) - :warning:
 - Doom (Europe) (R) - TODO
 - Doom (Japan) - TODO
-- [Doom (USA)](../../../Regions/Retails/USA/T-25405H/01/README.md)
-- [Doraemon: Nobita to Fukkatsu no Hoshi (Japan)](../../../Regions/Retails/Japan/T-19801G/01/README.md)
-- [Double Switch (USA)](../../../Regions/Retails/USA/T-16207H/01/README.md)
-- [Doukoku Soshite... (Japan](../../../Regions/Retails/Japan/T-1315G/01/README.md)
-- [Doukyuusei - if (Japan)](../../../Regions/Retails/Japan/T-20102G/01/README.md)
-- [Doukyuusei 2 (Japan)](../../../Regions/Retails/Japan/T-20104G/01/README.md)
-- [Dragon Ball Z: Idainaru Dragon Ball Densetsu (Japan)](../../../Regions/Retails/Japan/T-13305G/01/README.md)
+- [Doom (USA)](../../../Regions/Retails/USA/T-25405H/01/README.md) - :white_check_mark:
+- [Doraemon: Nobita to Fukkatsu no Hoshi (Japan)](../../../Regions/Retails/Japan/T-19801G/01/README.md) - :white_check_mark:
+- [Double Switch (USA)](../../../Regions/Retails/USA/T-16207H/01/README.md) - :hammer_and_wrench: & :question:
+- [Doukoku Soshite... (Japan](../../../Regions/Retails/Japan/T-1315G/01/README.md) - :white_check_mark:
+- [Doukyuusei - if (Japan)](../../../Regions/Retails/Japan/T-20102G/01/README.md) - :white_check_mark:
+- [Doukyuusei 2 (Japan)](../../../Regions/Retails/Japan/T-20104G/01/README.md) - :question:
+- [Dragon Ball Z: Idainaru Dragon Ball Densetsu (Japan)](../../../Regions/Retails/Japan/T-13305G/01/README.md) - :white_check_mark:
 - Dragon Ball Z - La Grande Legende des Boules de Cristal (France, Spain) - TODO
-- [Dragon Ball Z: Shin Butouden (Japan)](../../../Regions/Retails/Japan/T-13302G/01/README.md)
+- [Dragon Ball Z: Shin Butouden (Japan)](../../../Regions/Retails/Japan/T-13302G/01/README.md) - :white_check_mark:
 - Dragon Force (Europe) - TODO
 - Dragon Force (Japan) (1M, 2M, 3M) - TODO
 - Dragon Force (Japan) (4M) - TODO
@@ -126,19 +126,19 @@
 - Dragon Force (USA) - TODO (Recorded)
 - Dragon Force II - Kami Sarishi Daichi ni (Japan) (Rev A) - TODO
 - Dragon Force II - Kami Sarishi Daichi ni (Japan) - TODO (Recorded)
-- [Dragon Master Silk (Japan)](../../../Regions/Retails/Japan/T-19503G/01/README.md)
-- [Dragon's Dream (Japan)](../../../Regions/Retails/Japan/GS-7114/01/README.md)
+- [Dragon Master Silk (Japan)](../../../Regions/Retails/Japan/T-19503G/01/README.md) - :white_check_mark:
+- [Dragon's Dream (Japan)](../../../Regions/Retails/Japan/GS-7114/01/README.md) - :warnings:
 - Dragonheart: Fire & Steel (Europe) - TODO
-- [Dragonheart: Fire & Steel (USA)](../../../Regions/Retails/USA/T-8117H/01/README.md)
-- [Dream Generation: Koi ka? Shigoto ka!?... (Japan)](../../../Regions/Retails/Japan/T-2511G/01/README.md)
-- [Dream Square Hinagata Akiko (Japan)](../../../Regions/Retails/Japan/T-3002G/01/README.md)
-- [Druid: Yami-He no Tsuiseki Sha (Japan)](../../../Regions/Retails/Japan/T-7670G/01/README.md)
+- [Dragonheart: Fire & Steel (USA)](../../../Regions/Retails/USA/T-8117H/01/README.md) - :white_check_mark:
+- [Dream Generation: Koi ka? Shigoto ka!?... (Japan)](../../../Regions/Retails/Japan/T-2511G/01/README.md) - :white_check_mark:
+- [Dream Square Hinagata Akiko (Japan)](../../../Regions/Retails/Japan/T-3002G/01/README.md) - :white_check_mark:
+- [Druid: Yami-He no Tsuiseki Sha (Japan)](../../../Regions/Retails/Japan/T-7670G/01/README.md) - :white_check_mark:
 - Duke Nukem 3D (Europe) - TODO
-- [Duke Nukem 3D (USA)](../../../Regions/Retails/USA/MK-81071/01/README.md)
+- [Duke Nukem 3D (USA)](../../../Regions/Retails/USA/MK-81071/01/README.md) - :white_check_mark:
 - Dungeon Master Nexus (Japan) - TODO
-- [Dungeon Master Nexus (Japan)](../../../Regions/Retails/Japan/T-9111G/01/README.md)
-- [DX Jinsei Game (Japan)](../../../Regions/Retails/Japan/T-10302G/01/README.md)
-- [DX Jinsei Game II (Japan)](../../../Regions/Retails/Japan/T-10310G/01/README.md)
+- [Dungeon Master Nexus (Japan)](../../../Regions/Retails/Japan/T-9111G/01/README.md) - :white_check_mark:
+- [DX Jinsei Game (Japan)](../../../Regions/Retails/Japan/T-10302G/01/README.md) - :white_check_mark:
+- [DX Jinsei Game II (Japan)](../../../Regions/Retails/Japan/T-10310G/01/README.md) - :white_check_mark:
 - Dynamite Deka (Japan) - TODO
 
 Navegação:

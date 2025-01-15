@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - The Incredible Hulk: The Pantheon Saga (USA) = Fixed ?](https://img.youtube.com/vi/gMwX7GdTWHw/0.jpg)](https://www.youtube.com/watch?v=gMwX7GdTWHw)
+[![](https://img.youtube.com/vi/gMwX7GdTWHw/0.jpg)](https://www.youtube.com/watch?v=gMwX7GdTWHw)

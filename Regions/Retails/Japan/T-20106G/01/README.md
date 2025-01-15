@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1) (Game Disc) (1M):
+Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (1M):
 
 - <b>Game Name:</b> SENTIMENTAL GRAFFITI
 - <b>Product Number:</b> T-20106G
@@ -23,13 +23,13 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Disc) (1M): Playable :white_check_mark:
-- (Disc 1) (Game Disc) (2M): Untested :question:
-- (Disc 1) (Game Disc) (4M): Untested :question:
-- (Disc 1) (Game Disc) (5M): Untested :question:
-- (Disc 2) (Second Window) (1M, 2M): Untested :question:
-- (Disc 2) (Second Window) (4M): Untested :question:
-- (Disc 2) (Second Window) (5M): Untested :question:
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (1M): Playable :white_check_mark:
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (2M): Untested :question:
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (4M): Untested :question:
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (5M): Untested :question:
+- Sentimental Graffiti (Japan) (Disc 2) (Second Window) (1M, 2M): Untested :question:
+- Sentimental Graffiti (Japan) (Disc 2) (Second Window) (4M): Untested :question:
+- Sentimental Graffiti (Japan) (Disc 2) (Second Window) (5M): Untested :question:
 
 ### Extra Info
 
@@ -47,6 +47,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1) (Game Disc) (1M):
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (1M):
 
 [![](https://img.youtube.com/vi/PhcHUB26OyA/0.jpg)](https://www.youtube.com/watch?v=PhcHUB26OyA)

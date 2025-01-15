@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail) (1M): Playable :white_check_mark:
-- (Retail) (2M): Playable :white_check_mark:
-- (Retail) (Rev A) (11M): Playable :white_check_mark:
+- Momotarou Douchuuki (Japan) (1M): Playable :white_check_mark:
+- Momotarou Douchuuki (Japan) (2M): Untested :question:
+- Momotarou Douchuuki (Japan) (Rev A) (11M): Untested :question:
 
 ### Extra Info
 
@@ -36,6 +36,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Retail) (1M):
+Momotarou Douchuuki (Japan) (1M):
 
 [![](https://img.youtube.com/vi/zyXs4PrvRVk/0.jpg)](https://www.youtube.com/watch?v=zyXs4PrvRVk)

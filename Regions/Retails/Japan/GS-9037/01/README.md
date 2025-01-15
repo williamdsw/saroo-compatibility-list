@@ -21,12 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (6M): Playable :white_check_mark:
-- (Disc 1) (7M, 9M, 10M): Untested :question:
-- (Disc 1) (8M, 13M): Untested :question:
-- (Disc 2) (6M): Untested :question:
-- (Disc 2) (7M): Untested :question:
-- (Disc 2) (8M, 9M): Untested :question:
+- Sakura Taisen (Japan) (Disc 1) (6M): Playable :white_check_mark:
+- Sakura Taisen (Japan) (Disc 1) (7M, 9M, 10M): Untested :question:
+- Sakura Taisen (Japan) (Disc 1) (8M, 13M): Untested :question:
+- Sakura Taisen (Japan) (Disc 2) (6M): Untested :question:
+- Sakura Taisen (Japan) (Disc 2) (7M): Untested :question:
+- Sakura Taisen (Japan) (Disc 2) (8M, 9M): Untested :question:
 
 ### Extra Info
 
@@ -43,6 +43,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1) (6M):
+Sakura Taisen (Japan) (Disc 1) (6M):
 
 [![](https://img.youtube.com/vi/kbWjIn6UH4U/0.jpg)](https://www.youtube.com/watch?v=kbWjIn6UH4U)

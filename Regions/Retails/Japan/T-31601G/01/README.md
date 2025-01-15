@@ -38,4 +38,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Zero Divide: The Final Conflict (Japan) = Fixed?](https://img.youtube.com/vi/3CKU4rAsNac/0.jpg)](https://www.youtube.com/watch?v=3CKU4rAsNac)
+[![](https://img.youtube.com/vi/3CKU4rAsNac/0.jpg)](https://www.youtube.com/watch?v=3CKU4rAsNac)

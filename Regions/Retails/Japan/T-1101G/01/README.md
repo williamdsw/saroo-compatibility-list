@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (3M): Playable :white_check_mark:
-- (6M): Untested :question:
-- (Rev A) (11M): Untested :question:
+- Layer Section (Japan) (3M): Playable :white_check_mark:
+- Layer Section (Japan) (6M): Untested :question:
+- Layer Section (Japan) (Rev A) (11M): Untested :question:
 
 ### Extra Info
 
@@ -36,6 +36,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(3M):
+Layer Section (Japan) (3M):
 
-[![[Sample] SAROO 1.32 (240118) - Layer Section (Japan)](https://img.youtube.com/vi/spVIry2yQu4/0.jpg)](https://www.youtube.com/watch?v=spVIry2yQu4)
+[![](https://img.youtube.com/vi/spVIry2yQu4/0.jpg)](https://www.youtube.com/watch?v=spVIry2yQu4)

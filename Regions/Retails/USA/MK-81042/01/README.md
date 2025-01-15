@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316*) - Cyber Troopers Virtual-On (USA) = Issues](https://img.youtube.com/vi/jYrNo_cWfxQ/0.jpg)](https://www.youtube.com/watch?v=jYrNo_cWfxQ)
+[![](https://img.youtube.com/vi/jYrNo_cWfxQ/0.jpg)](https://www.youtube.com/watch?v=jYrNo_cWfxQ)

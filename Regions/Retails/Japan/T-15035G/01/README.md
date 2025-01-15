@@ -21,12 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Kyoko Disc):Playable :white_check_mark:
-- (Disc 2) (Snake Disc) (2M): Untested :question:
-- (Disc 3) (Disc 3) (Lost One Disc) (1M): Untested :question:
-- (Disc 3) (Disc 3) (Lost One Disc) (2M): Untested :question:
-- (Disc 4) (Extra Disc) (1M): Untested :question:
-- (Disc 4) (Extra Disc) (2M): Untested :question:
+- Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc): Playable :white_check_mark:
+- Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (2M): Untested :question:
+- Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (1M): Untested :question:
+- Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (2M): Untested :question:
+- Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (1M): Untested :question:
+- Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (2M): Untested :question:
 
 ### Extra Info
 
@@ -34,15 +34,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully Test Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc) (1M)
-- Fully Test Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (2M)
-- Fully Test Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (1M)
-- Fully Test Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (2M)
-- Test Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (1M)
-- Test Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (2M)
+- Fully test Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc) (1M)
+- Fully test Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (2M)
+- Fully test Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (1M)
+- Fully test Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (2M)
+- Fully test Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (1M)
+- Fully test Eve - The Lost One (Japan) (Disc 4) (Extra Disc) (2M)
 
 ### Evidence
 
-(Disc 1) (Kyoko Disc):
+Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc):
 
-[![[Sample] SAROO 1.32 (240118) - Eve The Lost One (Japan) (Disc 1)](https://img.youtube.com/vi/63UpcjTuZCI/0.jpg)](https://www.youtube.com/watch?v=63UpcjTuZCI)
+[![](https://img.youtube.com/vi/63UpcjTuZCI/0.jpg)](https://www.youtube.com/watch?v=63UpcjTuZCI)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Rise 2: Resurrection (USA)](https://img.youtube.com/vi/Vdi3WfmSmUU/0.jpg)](https://www.youtube.com/watch?v=Vdi3WfmSmUU)
+[![](https://img.youtube.com/vi/Vdi3WfmSmUU/0.jpg)](https://www.youtube.com/watch?v=Vdi3WfmSmUU)

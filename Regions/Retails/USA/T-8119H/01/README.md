@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Iron Man and X-O Manowar in Heavy Metal (USA) = Issues](https://img.youtube.com/vi/UYddqwXNSHg/0.jpg)](https://www.youtube.com/watch?v=UYddqwXNSHg)
+[![](https://img.youtube.com/vi/UYddqwXNSHg/0.jpg)](https://www.youtube.com/watch?v=UYddqwXNSHg)

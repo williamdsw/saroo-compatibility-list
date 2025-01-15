@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Okudera Yasuhiko no Sekai o Mezase! (Japan) = Issues](https://img.youtube.com/vi/DDUNuwzx-k4/0.jpg)](https://www.youtube.com/watch?v=DDUNuwzx-k4)
+[![](https://img.youtube.com/vi/DDUNuwzx-k4/0.jpg)](https://www.youtube.com/watch?v=DDUNuwzx-k4)

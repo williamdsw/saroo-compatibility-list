@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2): Untested :question:
+- Kuusou Kagaku Sekai Gulliver Boy (Japan) (Disc 1): Playable :white_check_mark:
+- Kuusou Kagaku Sekai Gulliver Boy (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -31,10 +31,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Fully test Kuusou Kagaku Sekai Gulliver Boy (Japan) (Disc 1)
-- Test Kuusou Kagaku Sekai Gulliver Boy (Japan) (Disc 2)
+- Fully test Kuusou Kagaku Sekai Gulliver Boy (Japan) (Disc 2)
 
 ### Evidence
 
-(Disc 1):
+Kuusou Kagaku Sekai Gulliver Boy (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - Kuusou Kagaku Sekai Gulliver Boy (J)](https://img.youtube.com/vi/FuSfwsIngyc/0.jpg)](https://www.youtube.com/watch?v=FuSfwsIngyc)
+[![](https://img.youtube.com/vi/FuSfwsIngyc/0.jpg)](https://www.youtube.com/watch?v=FuSfwsIngyc)

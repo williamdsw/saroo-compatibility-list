@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- Lupin the 3rd Chronicles (Japan) (Disc 1): Playable :white_check_mark:
+- Lupin the 3rd Chronicles (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -31,10 +31,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Fully Test Lupin the 3rd Chronicles (Japan) (Disc 1)
-- Test Lupin the 3rd Chronicles (Japan) (Disc 2)
+- Fully Test Lupin the 3rd Chronicles (Japan) (Disc 2)
 
 ### Evidence
 
 (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - Lupin the 3rd: Chronicles (Japan)](https://img.youtube.com/vi/pQACQWBfEcc/0.jpg)](https://www.youtube.com/watch?v=pQACQWBfEcc)
+[![](https://img.youtube.com/vi/pQACQWBfEcc/0.jpg)](https://www.youtube.com/watch?v=pQACQWBfEcc)

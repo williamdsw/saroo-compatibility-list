@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Baldy Land (Japan)](https://img.youtube.com/vi/D8VTo8wq8PI/0.jpg)](https://www.youtube.com/watch?v=D8VTo8wq8PI)
+[![](https://img.youtube.com/vi/D8VTo8wq8PI/0.jpg)](https://www.youtube.com/watch?v=D8VTo8wq8PI)

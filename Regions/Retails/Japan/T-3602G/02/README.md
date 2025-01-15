@@ -31,4 +31,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231103) - J.League Go Go Goal! (Japan) = Fixed?](https://img.youtube.com/vi/gXqanPZoGLw/0.jpg)](https://www.youtube.com/watch?v=gXqanPZoGLw)
+[![](https://img.youtube.com/vi/gXqanPZoGLw/0.jpg)](https://www.youtube.com/watch?v=gXqanPZoGLw)

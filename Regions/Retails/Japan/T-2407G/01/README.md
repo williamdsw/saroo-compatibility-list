@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jissen Pachinko Hisshouhou! Twin (Japan)](https://img.youtube.com/vi/MuGABnWG7eE/0.jpg)](https://www.youtube.com/watch?v=MuGABnWG7eE)
+[![](https://img.youtube.com/vi/MuGABnWG7eE/0.jpg)](https://www.youtube.com/watch?v=MuGABnWG7eE)

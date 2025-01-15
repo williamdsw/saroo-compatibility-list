@@ -29,4 +29,4 @@ It needs a full gameplay tests. Tests with another characters.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Batsugun (Japan) = Playable](https://img.youtube.com/vi/N2WCQMnKZaY/0.jpg)](https://www.youtube.com/watch?v=N2WCQMnKZaY)
+[![](https://img.youtube.com/vi/N2WCQMnKZaY/0.jpg)](https://www.youtube.com/watch?v=N2WCQMnKZaY)

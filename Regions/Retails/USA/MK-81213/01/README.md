@@ -29,4 +29,4 @@ It's needs tests for Time Attack and 2 Player Battle modes.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Daytona USA: Championship Circuit Edition (USA) = Playable](https://img.youtube.com/vi/KcfRKETQyxI/0.jpg)](https://www.youtube.com/watch?v=KcfRKETQyxI)
+[![](https://img.youtube.com/vi/KcfRKETQyxI/0.jpg)](https://www.youtube.com/watch?v=KcfRKETQyxI)

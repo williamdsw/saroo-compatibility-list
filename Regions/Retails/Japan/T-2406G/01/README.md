@@ -33,4 +33,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jissen Pachislot Hisshouhou! 3 (Japan) = Issues](https://img.youtube.com/vi/7C-F6hQ0PXg/0.jpg)](https://www.youtube.com/watch?v=7C-F6hQ0PXg)
+[![](https://img.youtube.com/vi/7C-F6hQ0PXg/0.jpg)](https://www.youtube.com/watch?v=7C-F6hQ0PXg)

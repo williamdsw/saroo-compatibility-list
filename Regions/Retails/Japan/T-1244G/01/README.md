@@ -31,4 +31,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Street Fighter Zero 2 - Dash (J)](https://img.youtube.com/vi/ovzTI6lQ3U8/0.jpg)](https://www.youtube.com/watch?v=ovzTI6lQ3U8)
+[![](https://img.youtube.com/vi/ovzTI6lQ3U8/0.jpg)](https://www.youtube.com/watch?v=ovzTI6lQ3U8)

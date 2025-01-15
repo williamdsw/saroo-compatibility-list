@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jissen Pachislot Hisshouhou! 4 (Japan)](https://img.youtube.com/vi/DRHE8XE-dSY/0.jpg)](https://www.youtube.com/watch?v=DRHE8XE-dSY)
+[![](https://img.youtube.com/vi/DRHE8XE-dSY/0.jpg)](https://www.youtube.com/watch?v=DRHE8XE-dSY)

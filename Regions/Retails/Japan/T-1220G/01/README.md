@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc A) :white_check_mark:
-- (Rev A): Untested :question:
+- Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan): Playable :white_check_mark:
+- Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan) (Rev A): Untested :question:
 
 ### Extra Info
 
@@ -34,4 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan) = Playable](https://img.youtube.com/vi/YgbM9KPl2OE/0.jpg)](https://www.youtube.com/watch?v=YgbM9KPl2OE)
+Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan):
+
+[![](https://img.youtube.com/vi/YgbM9KPl2OE/0.jpg)](https://www.youtube.com/watch?v=YgbM9KPl2OE)

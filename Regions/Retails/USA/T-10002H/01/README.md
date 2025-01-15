@@ -29,4 +29,4 @@ It needs a full gameplay tests.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Robo Pit (USA)](https://img.youtube.com/vi/1T1cVO2QNqM/0.jpg)](https://www.youtube.com/watch?v=1T1cVO2QNqM)
+[![](https://img.youtube.com/vi/1T1cVO2QNqM/0.jpg)](https://www.youtube.com/watch?v=1T1cVO2QNqM)

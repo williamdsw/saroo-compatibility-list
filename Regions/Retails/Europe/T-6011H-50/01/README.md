@@ -29,6 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-TODO
-
 [![](https://img.youtube.com/vi/gUappXHWFpQ/0.jpg)](https://www.youtube.com/watch?v=gUappXHWFpQ)

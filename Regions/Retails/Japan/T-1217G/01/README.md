@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Fixed with configuration :hammer_and_wrench:
-- (2M): Untested :question:
+- Cyberbots - Fullmetal Madness (Japan) (1M): Fixed with configuration :hammer_and_wrench:
+- Cyberbots - Fullmetal Madness (Japan) (2M): Untested :question:
 
 ### Problems without configuration
 
@@ -41,5 +41,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Test Cyberbots - Fullmetal Madness (Japan) (2M)
 
 ### Evidence
+
+Cyberbots - Fullmetal Madness (Japan) (1M):
 
 [![](https://img.youtube.com/vi/CRDTKb3nweI/0.jpg)](https://www.youtube.com/watch?v=CRDTKb3nweI)

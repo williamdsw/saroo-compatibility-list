@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Quantum Gate I: Akumu no Joshou (J)](https://img.youtube.com/vi/dSe9MrEXg_A/0.jpg)](https://www.youtube.com/watch?v=dSe9MrEXg_A)
+[![](https://img.youtube.com/vi/dSe9MrEXg_A/0.jpg)](https://www.youtube.com/watch?v=dSe9MrEXg_A)

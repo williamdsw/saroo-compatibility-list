@@ -21,12 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc A) (Kyouchou-hen) (1M): Playable :white_check_mark:
-- (Disc A) (Kyouchou-hen) (2M): Untested :question:
-- (Disc B) (Houkai-hen) (1M): Untested :question:
-- (Disc B) (Houkai-hen) (2M): Untested :question:
+- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M): Playable :white_check_mark:
+- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (2M): Untested :question:
+- Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (1M): Untested :question:
+- Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (2M): Untested :question:
 
-### TODOs
+### TODO
 
 - Fully test Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M)
 - Fully test Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (2M)
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc A) (Kyouchou-hen) (1M):
+Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M):
 
 [![](https://img.youtube.com/vi/D1XRuy63TEA/0.jpg)](https://www.youtube.com/watch?v=D1XRuy63TEA)

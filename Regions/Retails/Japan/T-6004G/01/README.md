@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - America Oudan Ultra Quiz (Japan) = Playable](https://img.youtube.com/vi/usoAeQkt5SI/0.jpg)](https://www.youtube.com/watch?v=usoAeQkt5SI)
+[![](https://img.youtube.com/vi/usoAeQkt5SI/0.jpg)](https://www.youtube.com/watch?v=usoAeQkt5SI)

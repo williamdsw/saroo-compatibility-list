@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- (Rev A): Untested :question:
-- (Rev B): Untested :question:
+- DX Jinsei Game (Japan): Playable :white_check_mark:
+- DX Jinsei Game (Japan) (Rev A): Untested :question:
+- DX Jinsei Game (Japan) (Rev B): Untested :question:
 
 ### Extra Info
 
@@ -35,5 +35,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Test Game of Life, The - DX Jinsei Game (Japan) (Rev B)
 
 ### Evidence
+
+DX Jinsei Game (Japan):
 
 [![](https://img.youtube.com/vi/8qXY6lMWRk4/0.jpg)](https://www.youtube.com/watch?v=8qXY6lMWRk4)

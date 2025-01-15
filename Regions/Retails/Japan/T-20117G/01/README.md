@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2): Untested :question:
+- With You - Mitsumeteitai (Japan) (Disc 1): Playable :white_check_mark:
+- With You - Mitsumeteitai (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -30,11 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully Test With You - Mitsumeteitai (Japan) (Disc 1)
-- Test With You - Mitsumeteitai (Japan) (Disc 2)
+- Fully test With You - Mitsumeteitai (Japan) (Disc 1)
+- Fully test With You - Mitsumeteitai (Japan) (Disc 2)
 
 ### Evidence
 
-- (Disc 1):
+- With You - Mitsumeteitai (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/D32ycPNR4gE/0.jpg)](https://www.youtube.com/watch?v=D32ycPNR4gE)

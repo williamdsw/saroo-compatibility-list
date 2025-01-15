@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Honkaku Shougi Shinan Wakamatsu Shougi Juku (Japan)](https://img.youtube.com/vi/Ykm6WVgYoXU/0.jpg)](https://www.youtube.com/watch?v=Ykm6WVgYoXU)
+[![](https://img.youtube.com/vi/Ykm6WVgYoXU/0.jpg)](https://www.youtube.com/watch?v=Ykm6WVgYoXU)

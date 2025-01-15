@@ -29,4 +29,4 @@ It needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Independence Day (USA)](https://img.youtube.com/vi/u6pkkoPq688/0.jpg)](https://www.youtube.com/watch?v=u6pkkoPq688)
+[![](https://img.youtube.com/vi/u6pkkoPq688/0.jpg)](https://www.youtube.com/watch?v=u6pkkoPq688)

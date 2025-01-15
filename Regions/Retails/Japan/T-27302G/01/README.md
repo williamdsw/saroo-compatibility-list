@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail): Fixed with configuration :hammer_and_wrench:
+- Fixed with configuration :hammer_and_wrench:
 
 ### Problems without configuration
 
@@ -36,7 +36,5 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - It does need a full gameplay test.
 
 ### Evidence
-
-(Retail):
 
 [![](https://img.youtube.com/vi/lYe2l688h-U/0.jpg)](https://www.youtube.com/watch?v=lYe2l688h-U)

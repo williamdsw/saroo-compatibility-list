@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
-- Disc 3 (Audio CD): Untested :question:
+- Refrain Love: Anata ni Aitai (Japan) (Disc 1): Playable :white_check_mark:
+- Refrain Love: Anata ni Aitai (Japan) (Disc 2): Untested :question:
+- Refrain Love: Anata ni Aitai (Japan) (Disc 3) (Audio CD): Untested :question:
 
 ### Extra Info
 
@@ -31,10 +31,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully test Disc 1
-- Fully test Disc 2
-- Fully test Disc 3 (Audio CD)
+- Fully test Refrain Love: Anata ni Aitai (Japan) (Disc 1)
+- Fully test Refrain Love: Anata ni Aitai (Japan) (Disc 2)
+- Fully test Refrain Love: Anata ni Aitai (Japan) (Disc 3) (Audio CD)
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Refrain Love: Anata ni Aitai (Japan)](https://img.youtube.com/vi/wdX992hse3s/0.jpg)](https://www.youtube.com/watch?v=wdX992hse3s)
+Refrain Love: Anata ni Aitai (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/wdX992hse3s/0.jpg)](https://www.youtube.com/watch?v=wdX992hse3s)

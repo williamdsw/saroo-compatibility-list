@@ -33,4 +33,4 @@ It needs tests with others caracters, and others modes (tournement, etc) and oth
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Ultimate Mortal Kombat 3 (USA) = Freezes](https://img.youtube.com/vi/X4usmrl2keg/0.jpg)](https://www.youtube.com/watch?v=X4usmrl2keg)
+[![](https://img.youtube.com/vi/X4usmrl2keg/0.jpg)](https://www.youtube.com/watch?v=X4usmrl2keg)

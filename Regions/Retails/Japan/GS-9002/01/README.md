@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1A): Playable :white_check_mark:
-- (2B): Untested :question:
-- (3A): Untested :question:
+- Victory Goal (Japan) (1A): Playable :white_check_mark:
+- Victory Goal (Japan) (2B): Untested :question:
+- Victory Goal (Japan) (3A): Untested :question:
 
 ### Extra Info
 
@@ -36,6 +36,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1A):
+Victory Goal (Japan) (1A):
 
-[![[Sample] SAROO 1.32 (240515) - Victory Goal (Japan)](https://img.youtube.com/vi/QR5n1xpjVuc/0.jpg)](https://www.youtube.com/watch?v=QR5n1xpjVuc)
+[![](https://img.youtube.com/vi/QR5n1xpjVuc/0.jpg)](https://www.youtube.com/watch?v=QR5n1xpjVuc)

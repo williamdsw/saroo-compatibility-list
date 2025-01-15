@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Airs Adventure (Japan) = Playable](https://img.youtube.com/vi/0ivMp_8T33Y/0.jpg)](https://www.youtube.com/watch?v=0ivMp_8T33Y)
+[![](https://img.youtube.com/vi/0ivMp_8T33Y/0.jpg)](https://www.youtube.com/watch?v=0ivMp_8T33Y)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - EMIT Vol. 3: Watashi ni Sayonara o (Japan)](https://img.youtube.com/vi/CsHtEJZ11i4/0.jpg)](https://www.youtube.com/watch?v=CsHtEJZ11i4)
+[![](https://img.youtube.com/vi/CsHtEJZ11i4/0.jpg)](https://www.youtube.com/watch?v=CsHtEJZ11i4)

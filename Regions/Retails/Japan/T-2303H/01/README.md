@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - The Hyper Golf: Devil's Course (Japan)](https://img.youtube.com/vi/b-NNfZ5VTUs/0.jpg)](https://www.youtube.com/watch?v=b-NNfZ5VTUs)
+[![](https://img.youtube.com/vi/b-NNfZ5VTUs/0.jpg)](https://www.youtube.com/watch?v=b-NNfZ5VTUs)

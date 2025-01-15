@@ -21,15 +21,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Fixed with configuration :hammer_and_wrench:
-- (Disc 2): Untested :question:
-- (Disc 3) (2M): Untested :question:
-- (Disc 4): Untested :question:
-- (Disc 5): Untested :question:
-- (Disc 6) (4M): Untested :question:
-- (Disc 6) (5M): Untested :question:
-- (Disc 7): Untested :question:
-- (Disc 8): Untested :question:
+- PhantasM (Japan) (Disc 1): Fixed with configuration :hammer_and_wrench:
+- PhantasM (Japan) (Disc 2): Untested :question:
+- PhantasM (Japan) (Disc 3) (2M): Untested :question:
+- PhantasM (Japan) (Disc 4): Untested :question:
+- PhantasM (Japan) (Disc 5): Untested :question:
+- PhantasM (Japan) (Disc 6) (4M): Untested :question:
+- PhantasM (Japan) (Disc 6) (5M): Untested :question:
+- PhantasM (Japan) (Disc 7): Untested :question:
+- PhantasM (Japan) (Disc 8): Untested :question:
 
 ### Problems without configuration
 
@@ -57,6 +57,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1):
+PhantasM (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/xFDxnVMOhT8/0.jpg)](https://www.youtube.com/watch?v=xFDxnVMOhT8)

@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Soviet Strike (USA) = Cutscene Freeze & In Game Playable](https://img.youtube.com/vi/PVZdIP1oB7Q/0.jpg)](https://www.youtube.com/watch?v=PVZdIP1oB7Q)
+[![](https://img.youtube.com/vi/PVZdIP1oB7Q/0.jpg)](https://www.youtube.com/watch?v=PVZdIP1oB7Q)

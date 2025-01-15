@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
-- (Rev A): Playable :white_check_mark:
+- Kiss Yori... (Japan): Untested :question:
+- Kiss Yori... (Japan) (Rev A): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Rev A):
+Kiss Yori... (Japan) (Rev A):
 
-[![[Sample] SAROO 1.32 (240316) - Kiss Yori... (J)](https://img.youtube.com/vi/chuCZJETbOw/0.jpg)](https://www.youtube.com/watch?v=chuCZJETbOw)
+[![](https://img.youtube.com/vi/chuCZJETbOw/0.jpg)](https://www.youtube.com/watch?v=chuCZJETbOw)

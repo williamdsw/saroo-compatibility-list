@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Honkaku Hanafuda (Japan)](https://img.youtube.com/vi/q5Jo5mfe-hk/0.jpg)](https://www.youtube.com/watch?v=q5Jo5mfe-hk)
+[![](https://img.youtube.com/vi/q5Jo5mfe-hk/0.jpg)](https://www.youtube.com/watch?v=q5Jo5mfe-hk)

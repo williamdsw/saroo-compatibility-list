@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Alucard:
 
-[![[Hack Complete] SAROO 1.32 (231125) - Dracula X: Nocturne in the Moonlight - Ultimate 1.0 - ALUCARD](https://img.youtube.com/vi/EKlGK86Xzrw/0.jpg)](https://www.youtube.com/watch?v=EKlGK86Xzrw)
+[![](https://img.youtube.com/vi/EKlGK86Xzrw/0.jpg)](https://www.youtube.com/watch?v=EKlGK86Xzrw)

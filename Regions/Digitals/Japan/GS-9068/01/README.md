@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 5 Wolf Hawkfield (J)](https://img.youtube.com/vi/G15iL7fIdxM/0.jpg)](https://www.youtube.com/watch?v=G15iL7fIdxM)
+[![](https://img.youtube.com/vi/G15iL7fIdxM/0.jpg)](https://www.youtube.com/watch?v=G15iL7fIdxM)

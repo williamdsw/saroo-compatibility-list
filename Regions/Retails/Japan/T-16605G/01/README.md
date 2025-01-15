@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc 1) :white_check_mark:
-- Untested (Disc 2) :question:
+- Elf o Karu Monotachi (Japan) (Disc 1): Playable :white_check_mark:
+- Elf o Karu Monotachi (Japan) (Disc 2) (Omake Disc): Untested :question:
 
 ### Extra Info
 
@@ -30,11 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Full Test Disc 1
-- Test Disc 2 (Omake Disc)
+- Full test Elf o Karu Monotachi (Japan) (Disc 1)
+- Full test Elf o Karu Monotachi (Japan) (Disc 2) (Omake Disc)
 
 ### Evidence
 
-Disc 1:
+Elf o Karu Monotachi (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240118) - Elf o Karu Monotachi (Japan)](https://img.youtube.com/vi/lQDO4FhAUxM/0.jpg)](https://www.youtube.com/watch?v=lQDO4FhAUxM)
+[![](https://img.youtube.com/vi/lQDO4FhAUxM/0.jpg)](https://www.youtube.com/watch?v=lQDO4FhAUxM)

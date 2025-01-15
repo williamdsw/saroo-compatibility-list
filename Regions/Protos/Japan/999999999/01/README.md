@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Heart of Darkness (Japan) (Proto) = Issues](https://img.youtube.com/vi/Pf0PGkGJmOA/0.jpg)](https://www.youtube.com/watch?v=Pf0PGkGJmOA)
+[![ (Proto) = Issues](https://img.youtube.com/vi/Pf0PGkGJmOA/0.jpg)](https://www.youtube.com/watch?v=Pf0PGkGJmOA)

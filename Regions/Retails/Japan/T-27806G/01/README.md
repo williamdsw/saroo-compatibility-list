@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- (1M): Untested :question:
+- Yuukyuu no Kobako Official Collection (Japan): Playable :white_check_mark:
+- Yuukyuu no Kobako Official Collection (Japan) (1M): Untested :question:
 
 ### Extra Info
 
@@ -30,8 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Yuukyuu no Kobako Official Collection (Japan) (1M).
+- Test Yuukyuu no Kobako Official Collection (Japan) (1M)
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Yuukyuu no Kobako Official Collection (Japan) = Playable](https://img.youtube.com/vi/UYddqwXNSHg/0.jpg)](https://www.youtube.com/watch?v=UYddqwXNSHg)
+Yuukyuu no Kobako Official Collection (Japan):
+
+[![](https://img.youtube.com/vi/UYddqwXNSHg/0.jpg)](https://www.youtube.com/watch?v=UYddqwXNSHg)

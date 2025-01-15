@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Assault Suit Leynos 2 (Japan) = Playable](https://img.youtube.com/vi/JU0HDtKag7I/0.jpg)](https://www.youtube.com/watch?v=JU0HDtKag7I)
+[![](https://img.youtube.com/vi/JU0HDtKag7I/0.jpg)](https://www.youtube.com/watch?v=JU0HDtKag7I)

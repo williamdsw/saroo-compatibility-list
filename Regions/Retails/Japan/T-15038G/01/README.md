@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail) (Disc 1): Playable :white_check_mark:
-- (Retail) (Disc 2): Untested :question:
-- (Retail) (Disc 3): Untested :question:
+- MeltyLancer - Re-inforce (Japan) (Disc 1): Playable :white_check_mark:
+- MeltyLancer - Re-inforce (Japan) (Disc 2): Untested :question:
+- MeltyLancer - Re-inforce (Japan) (Disc 3): Untested :question:
 
 ### Extra Info
 
@@ -37,6 +37,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Retail) (Disc 1):
+MeltyLancer - Re-inforce (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/YBnZDh-Wpc4/0.jpg)](https://www.youtube.com/watch?v=YBnZDh-Wpc4)

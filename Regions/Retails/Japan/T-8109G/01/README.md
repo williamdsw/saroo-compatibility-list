@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Yellow Brick Road (Japan) = Playable](https://img.youtube.com/vi/-IE1xacACcw/0.jpg)](https://www.youtube.com/watch?v=-IE1xacACcw)
+[![](https://img.youtube.com/vi/-IE1xacACcw/0.jpg)](https://www.youtube.com/watch?v=-IE1xacACcw)

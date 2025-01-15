@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Firestorm: Thunderhawk 2 (Europe) = Fixed ?](https://img.youtube.com/vi/6HuVdGgebq4/0.jpg)](https://www.youtube.com/watch?v=6HuVdGgebq4)
+[![](https://img.youtube.com/vi/6HuVdGgebq4/0.jpg)](https://www.youtube.com/watch?v=6HuVdGgebq4)

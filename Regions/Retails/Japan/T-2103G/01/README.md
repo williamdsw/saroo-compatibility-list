@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- Jikuu Tantei DD: Maboroshi no Lorelei (Japan) (Disc A): Playable :white_check_mark:
+- Jikuu Tantei DD: Maboroshi no Lorelei (Japan) (Disc B): Untested :question:
 
 ### Extra Info
 
@@ -30,11 +30,11 @@ It's needs a full gameplay test on both discs.
 
 ### TODO
 
-- Full Test Disc A
-- Test Disc B
+- Full test Jikuu Tantei DD: Maboroshi no Lorelei (Japan) (Disc A)
+- Full test Jikuu Tantei DD: Maboroshi no Lorelei (Japan) (Disc B)
 
 ### Evidence
 
-Disc 1:
+Jikuu Tantei DD: Maboroshi no Lorelei (Japan) (Disc A):
 
-[![[Sample] SAROO 1.32 (240118) - Jikuu Tantei DD: Maboroshi no Lorelei (Japan)](https://img.youtube.com/vi/loFY7Oq-d_c/0.jpg)](https://www.youtube.com/watch?v=loFY7Oq-d_c)
+[![](https://img.youtube.com/vi/loFY7Oq-d_c/0.jpg)](https://www.youtube.com/watch?v=loFY7Oq-d_c)

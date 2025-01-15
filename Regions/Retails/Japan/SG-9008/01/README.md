@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M) - Playable :white_check_mark:
-- (2A) - Untested :question:
-- (3A) - Untested :question:
+- Deadalus (Japan) (1M) - Playable :white_check_mark:
+- Deadalus (Japan) (2A) - Untested :question:
+- Deadalus (Japan) (3A) - Untested :question:
 
 ### Extra Info
 
@@ -36,6 +36,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Deadalus (Japan) (1M):
 
 [![](https://img.youtube.com/vi/YjVng-Wraug/0.jpg)](https://www.youtube.com/watch?v=YjVng-Wraug)

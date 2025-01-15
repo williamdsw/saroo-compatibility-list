@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Bubble Symphony (Japan)](https://img.youtube.com/vi/WbQcLLK_qbo/0.jpg)](https://www.youtube.com/watch?v=WbQcLLK_qbo)
+[![](https://img.youtube.com/vi/WbQcLLK_qbo/0.jpg)](https://www.youtube.com/watch?v=WbQcLLK_qbo)

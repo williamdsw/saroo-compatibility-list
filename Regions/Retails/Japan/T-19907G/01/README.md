@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (J)](https://img.youtube.com/vi/AWlA2-diT6E/0.jpg)](https://www.youtube.com/watch?v=AWlA2-diT6E)
+[![](https://img.youtube.com/vi/AWlA2-diT6E/0.jpg)](https://www.youtube.com/watch?v=AWlA2-diT6E)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Heisei Tensai Bakabon Susume! Bakabons (Japan)](https://img.youtube.com/vi/lBS4mW-Eu3M/0.jpg)](https://www.youtube.com/watch?v=lBS4mW-Eu3M)
+[![](https://img.youtube.com/vi/lBS4mW-Eu3M/0.jpg)](https://www.youtube.com/watch?v=lBS4mW-Eu3M)

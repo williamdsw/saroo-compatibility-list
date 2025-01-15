@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - Bakuretsu Hunter (Japan) (Disc 1)](https://img.youtube.com/vi/wQwzSlUxGJE/0.jpg)](https://www.youtube.com/watch?v=wQwzSlUxGJE)
+[![](https://img.youtube.com/vi/wQwzSlUxGJE/0.jpg)](https://www.youtube.com/watch?v=wQwzSlUxGJE)

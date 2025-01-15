@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Yoshiyuki Sadamoto Illustrations (Japan) = Issues](https://img.youtube.com/vi/PfJOxByuG0g/0.jpg)](https://www.youtube.com/watch?v=PfJOxByuG0g)
+[![](https://img.youtube.com/vi/PfJOxByuG0g/0.jpg)](https://www.youtube.com/watch?v=PfJOxByuG0g)

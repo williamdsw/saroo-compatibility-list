@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Game): Playable :white_check_mark:
+- Playable :white_check_mark:
 
 ### Extra Info
 
@@ -31,6 +31,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-Game:
-
-[![[Complete] SAROO 1.32 (231125) - Real Bout Fatal Fury (Japan)](https://img.youtube.com/vi/K4kKJ0AjmLw/0.jpg)](https://www.youtube.com/watch?v=K4kKJ0AjmLw)
+[![](https://img.youtube.com/vi/K4kKJ0AjmLw/0.jpg)](https://www.youtube.com/watch?v=K4kKJ0AjmLw)

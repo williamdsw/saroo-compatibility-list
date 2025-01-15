@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Rev A): Untested :question:
-- (Rev B): Playable :white_check_mark:
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Rev A): Untested :question:
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Rev B): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -30,6 +30,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Rev B):
+Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Rev B):
 
-[![[Sample] SAROO 1.32 (240316) - Kanzen Chuukei Pro Yakyuu Greatest Nine (J)](https://img.youtube.com/vi/pjAbSwRvgVY/0.jpg)](https://www.youtube.com/watch?v=pjAbSwRvgVY)
+[![](https://img.youtube.com/vi/pjAbSwRvgVY/0.jpg)](https://www.youtube.com/watch?v=pjAbSwRvgVY)

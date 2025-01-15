@@ -39,4 +39,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231111) - Street Fighter Zero 3 (Japan) = Fixed ?](https://img.youtube.com/vi/tC9bezk42ww/0.jpg)](https://www.youtube.com/watch?v=tC9bezk42ww)
+[![](https://img.youtube.com/vi/tC9bezk42ww/0.jpg)](https://www.youtube.com/watch?v=tC9bezk42ww)

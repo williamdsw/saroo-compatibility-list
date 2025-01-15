@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2): Untested :question:
-- (Disc 3): Untested :question:
+- Kakyuusei (Japan) (Disc 1) (2M): Playable :white_check_mark:
+- Kakyuusei (Japan) (Disc 2) (2M): Untested :question:
+- Kakyuusei (Japan) (Disc 3) (2M): Untested :question:
 
 ### Extra Info
 
@@ -31,12 +31,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully Test Kakyuusei (Japan) (Disc 1) (2M)
-- Fully Test Kakyuusei (Japan) (Disc 2) (2M)
-- Test Kakyuusei (Japan) (Disc 3) (2M)
+- Full test Kakyuusei (Japan) (Disc 1) (2M)
+- Full test Kakyuusei (Japan) (Disc 2) (2M)
+- Full test Kakyuusei (Japan) (Disc 3) (2M)
 
 ### Evidence
 
-(Disc 1):
+Kakyuusei (Japan) (Disc 1) (2M):
 
-[![[Sample] SAROO 1.32 (240316) - Kakyuusei (J)](https://img.youtube.com/vi/m4ZoMw89y7c/0.jpg)](https://www.youtube.com/watch?v=m4ZoMw89y7c)
+[![](https://img.youtube.com/vi/m4ZoMw89y7c/0.jpg)](https://www.youtube.com/watch?v=m4ZoMw89y7c)

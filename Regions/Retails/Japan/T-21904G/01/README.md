@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc 1) (Ichigo Disc) :white_check_mark:
-- Playable (Disc 2) (Momo Disc) :white_check_mark:
+- Ousama Game (Japan) (Disc 1) (Ichigo Disc): Playable :white_check_mark:
+- Ousama Game (Japan) (Disc 2) (Momo Disc): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -30,10 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-Disc 1 (Ichigo Disc):
+Ousama Game (Japan) (Disc 1) (Ichigo Disc):
 
-[![[Sample] SAROO 1.32 (240118) - Ousama Game (Disc 1) (Japan) = Playable](https://img.youtube.com/vi/sKW2axdylXg/0.jpg)](https://www.youtube.com/watch?v=sKW2axdylXg)
+[![](https://img.youtube.com/vi/sKW2axdylXg/0.jpg)](https://www.youtube.com/watch?v=sKW2axdylXg)
 
-Disc 2 (Momo Disc):
+Ousama Game (Japan) (Disc 2) (Momo Disc):
 
-[![[Sample] SAROO 1.32 (240118) - Ousama Game (Disc 2) (Japan) = Playable](https://img.youtube.com/vi/Tnn9AX2bc7s/0.jpg)](https://www.youtube.com/watch?v=Tnn9AX2bc7s)
+[![](https://img.youtube.com/vi/Tnn9AX2bc7s/0.jpg)](https://www.youtube.com/watch?v=Tnn9AX2bc7s)

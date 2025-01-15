@@ -29,6 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-Disc 1:
-
-[![[Sample] SAROO 1.32 (240118) - Exhumed (Powerslave) (Europe)](https://img.youtube.com/vi/W7I-2187lKE/0.jpg)](https://www.youtube.com/watch?v=W7I-2187lKE)
+[![](https://img.youtube.com/vi/W7I-2187lKE/0.jpg)](https://www.youtube.com/watch?v=W7I-2187lKE)

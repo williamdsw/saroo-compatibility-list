@@ -21,11 +21,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (1M): Issues :warning:
-- (Disc 1) (2M): Untested :question:
-- (Disc 2) (1M): Untested :question:
-- (Disc 2) (2M): Untested :question:
-- (Disc 3) (1M, 2M): Untested :question:
+- Nanatsu no Hikan (Japan) (Disc 1) (1M): Issues :warning:
+- Nanatsu no Hikan (Japan) (Disc 1) (2M): Untested :question:
+- Nanatsu no Hikan (Japan) (Disc 2) (1M): Untested :question:
+- Nanatsu no Hikan (Japan) (Disc 2) (2M): Untested :question:
+- Nanatsu no Hikan (Japan) (Disc 3) (1M, 2M): Untested :question:
 
 ### Problems without configuration
 
@@ -37,14 +37,14 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Nanatsu no Hikan (Japan) (Disc 1) (1M)
-- Test Nanatsu no Hikan (Japan) (Disc 1) (2M)
-- Test Nanatsu no Hikan (Japan) (Disc 2) (1M)
-- Test Nanatsu no Hikan (Japan) (Disc 2) (2M)
-- Test Nanatsu no Hikan (Japan) (Disc 3) (1M, 2M)
+- Full test Nanatsu no Hikan (Japan) (Disc 1) (1M)
+- Full test Nanatsu no Hikan (Japan) (Disc 1) (2M)
+- Full test Nanatsu no Hikan (Japan) (Disc 2) (1M)
+- Full test Nanatsu no Hikan (Japan) (Disc 2) (2M)
+- Full test Nanatsu no Hikan (Japan) (Disc 3) (1M, 2M)
 
 ### Evidence
 
-(Disc 1) (1M):
+Nanatsu no Hikan (Japan) (Disc 1) (1M):
 
 [![](https://img.youtube.com/vi/lGkc5fOD5ls/0.jpg)](https://www.youtube.com/watch?v=lGkc5fOD5ls)

@@ -13,8 +13,6 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Retail):
-
 - <b>Game Name:</b> DARIUS GAIDEN
 - <b>Product Number:</b> T-8123H
 - <b>Version:</b> V1.000
@@ -23,14 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail): Playable :white_check_mark:
+- Playable :white_check_mark:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
 ### Evidence
-
-(Retail):
 
 [![](https://img.youtube.com/vi/OZHtP1DFNSc/0.jpg)](https://www.youtube.com/watch?v=OZHtP1DFNSc)

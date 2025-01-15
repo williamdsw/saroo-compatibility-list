@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kunoichi Torimonochou (J)](https://img.youtube.com/vi/efb3LJkgHbU/0.jpg)](https://www.youtube.com/watch?v=efb3LJkgHbU)
+[![](https://img.youtube.com/vi/efb3LJkgHbU/0.jpg)](https://www.youtube.com/watch?v=efb3LJkgHbU)

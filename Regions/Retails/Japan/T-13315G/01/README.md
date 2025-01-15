@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kidou Senshi Z Gundam: Zenpen Zeta no Kodou (J) = Fixed ?](https://img.youtube.com/vi/CQKfCqDX3vk/0.jpg)](https://www.youtube.com/watch?v=CQKfCqDX3vk)
+[![](https://img.youtube.com/vi/CQKfCqDX3vk/0.jpg)](https://www.youtube.com/watch?v=CQKfCqDX3vk)

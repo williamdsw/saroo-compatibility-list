@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - FIFA Soccer 96 (USA)](https://img.youtube.com/vi/KbsezhD2sEU/0.jpg)](https://www.youtube.com/watch?v=KbsezhD2sEU)
+[![](https://img.youtube.com/vi/KbsezhD2sEU/0.jpg)](https://www.youtube.com/watch?v=KbsezhD2sEU)

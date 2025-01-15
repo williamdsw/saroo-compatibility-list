@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231111) - Virtua Cop 2 (USA)](https://img.youtube.com/vi/ls8vrXjWLuA/0.jpg)](https://www.youtube.com/watch?v=ls8vrXjWLuA)
+[![](https://img.youtube.com/vi/ls8vrXjWLuA/0.jpg)](https://www.youtube.com/watch?v=ls8vrXjWLuA)

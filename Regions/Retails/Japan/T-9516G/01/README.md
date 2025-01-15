@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Eisei Meijin II (Japan) = Playable](https://img.youtube.com/vi/Rr5g7G95OWQ/0.jpg)](https://www.youtube.com/watch?v=Rr5g7G95OWQ)
+[![](https://img.youtube.com/vi/Rr5g7G95OWQ/0.jpg)](https://www.youtube.com/watch?v=Rr5g7G95OWQ)

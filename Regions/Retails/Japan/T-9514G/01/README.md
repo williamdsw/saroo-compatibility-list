@@ -29,4 +29,4 @@ It does need tests on another difficulties and with another characters.
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - Sexy Parodius (Japan)](https://img.youtube.com/vi/obhZeSNKE-o/0.jpg)](https://www.youtube.com/watch?v=obhZeSNKE-o)
+[![](https://img.youtube.com/vi/obhZeSNKE-o/0.jpg)](https://www.youtube.com/watch?v=obhZeSNKE-o)

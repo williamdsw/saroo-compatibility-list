@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Lode Runner: The Legend Returns (Japan)](https://img.youtube.com/vi/gHfbQIUna5c/0.jpg)](https://www.youtube.com/watch?v=gHfbQIUna5c)
+[![](https://img.youtube.com/vi/gHfbQIUna5c/0.jpg)](https://www.youtube.com/watch?v=gHfbQIUna5c)

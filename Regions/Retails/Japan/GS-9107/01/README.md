@@ -31,4 +31,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Fighter's History Dynamite (Japan)](https://img.youtube.com/vi/KQ4exGsGnJI/0.jpg)](https://www.youtube.com/watch?v=KQ4exGsGnJI)
+[![](https://img.youtube.com/vi/KQ4exGsGnJI/0.jpg)](https://www.youtube.com/watch?v=KQ4exGsGnJI)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![SAROO 1.32 (240316) - Lunar Silver Star Story Complete (Japan) = VCD Card is required](https://img.youtube.com/vi/VJblSU1l9Ao/0.jpg)](https://www.youtube.com/watch?v=VJblSU1l9Ao)
+[![](https://img.youtube.com/vi/VJblSU1l9Ao/0.jpg)](https://www.youtube.com/watch?v=VJblSU1l9Ao)

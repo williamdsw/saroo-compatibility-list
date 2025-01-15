@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M) - Untested :question:
-- (3M) - Perfect :100:
+- Rockman X4 (Japan) (1M) - Untested :question:
+- Rockman X4 (Japan) (3M) - Perfect :100:
 
 ### Extra Info
 
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-3M:
+Rockman X4 (Japan) (3M):
 
-[![[Complete] SAROO 1.32 (231108) - Rockman X4 (Japan) - X](https://img.youtube.com/vi/YRtfkrKWTDI/0.jpg)](https://www.youtube.com/watch?v=YRtfkrKWTDI)
+[![ - X](https://img.youtube.com/vi/YRtfkrKWTDI/0.jpg)](https://www.youtube.com/watch?v=YRtfkrKWTDI)

@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Amagi Shien (Japan) = Won't boot](https://img.youtube.com/vi/pLK1lR0Xj10/0.jpg)](https://www.youtube.com/watch?v=pLK1lR0Xj10)
+[![](https://img.youtube.com/vi/pLK1lR0Xj10/0.jpg)](https://www.youtube.com/watch?v=pLK1lR0Xj10)

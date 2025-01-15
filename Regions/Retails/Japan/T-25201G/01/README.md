@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Ai Iijima: Good Island Cafe (Japan) = Playable](https://img.youtube.com/vi/zg6hmmUHDOQ/0.jpg)](https://www.youtube.com/watch?v=zg6hmmUHDOQ)
+[![](https://img.youtube.com/vi/zg6hmmUHDOQ/0.jpg)](https://www.youtube.com/watch?v=zg6hmmUHDOQ)

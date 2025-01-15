@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Fixed with configuration :hammer_and_wrench:
-- (Disc 2): Untested :question:
+- Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 1): Fixed with configuration :hammer_and_wrench:
+- Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 2): Untested :question:
 
 ### Problems without configuration
 
@@ -38,9 +38,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully Test Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 1)
-- Test Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 2)
+- Full test Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 1)
+- Full test Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 2)
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kidou Senkan Nadesico: The Blank of 3 Years (J) = Fixed?](https://img.youtube.com/vi/iSPOsJHhZek/0.jpg)](https://www.youtube.com/watch?v=iSPOsJHhZek)
+Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/iSPOsJHhZek/0.jpg)](https://www.youtube.com/watch?v=iSPOsJHhZek)

@@ -1,4 +1,4 @@
-# Fatal Fury 3 - Road to the Final Victory (Japan)
+# Garou Densetsu 3 - Road to the Final Victory (Japan)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 
@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231111) - Fatal Fury 3 - Road to the Final Victory (Japan)](https://img.youtube.com/vi/KQ4exGsGnJI/0.jpg)](https://www.youtube.com/watch?v=KQ4exGsGnJI)
+[![](https://img.youtube.com/vi/KQ4exGsGnJI/0.jpg)](https://www.youtube.com/watch?v=KQ4exGsGnJI)

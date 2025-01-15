@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316*) - Virtua Navi V.2.00 = This is not MMP-1000NV](https://img.youtube.com/vi/e9kxS8_vT1U/0.jpg)](https://www.youtube.com/watch?v=e9kxS8_vT1U)
+[![](https://img.youtube.com/vi/e9kxS8_vT1U/0.jpg)](https://www.youtube.com/watch?v=e9kxS8_vT1U)

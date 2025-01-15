@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Issues :warning:
-- (Rev B) (12M): Untested :question:
+- Horror Tour (Japan): Issues :warning:
+- Horror Tour (Japan) (Rev B) (12M): Untested :question:
 
 ### Problems
 
@@ -31,4 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Horror Tour (Japan) = Issues](https://img.youtube.com/vi/vyddAsRrMrU/0.jpg)](https://www.youtube.com/watch?v=vyddAsRrMrU)
+Horror Tour (Japan):
+
+[![](https://img.youtube.com/vi/vyddAsRrMrU/0.jpg)](https://www.youtube.com/watch?v=vyddAsRrMrU)

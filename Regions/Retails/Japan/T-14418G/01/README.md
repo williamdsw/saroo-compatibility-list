@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail) (1M): Playable :white_check_mark:
-- (Retail) (Rev A) (11M): Untested :question:
-- (Retail) (Rev A) (13M): Untested :question:
+- Princess Crown (Japan) (1M): Playable :white_check_mark:
+- Princess Crown (Japan) (Rev A) (11M): Untested :question:
+- Princess Crown (Japan) (Rev A) (13M): Untested :question:
 
 ### Extra Info
 
@@ -36,6 +36,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Retail) (1M):
+Princess Crown (Japan) (1M):
 
 [![](https://img.youtube.com/vi/LWeDALGx5YI/0.jpg)](https://www.youtube.com/watch?v=LWeDALGx5YI)

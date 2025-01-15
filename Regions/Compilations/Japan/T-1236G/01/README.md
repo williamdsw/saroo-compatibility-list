@@ -29,4 +29,4 @@ It needs gameplay tests with others characters and difficulties.
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231108) - Capcom Generations 5: Street Fighter Collection 2 (Japan)](https://img.youtube.com/vi/zURb4HVkROw/0.jpg)](https://www.youtube.com/watch?v=zURb4HVkROw)
+[![](https://img.youtube.com/vi/zURb4HVkROw/0.jpg)](https://www.youtube.com/watch?v=zURb4HVkROw)

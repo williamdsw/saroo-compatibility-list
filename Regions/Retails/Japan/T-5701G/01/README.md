@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Idol Janshi Suchie-Pai Special (Japan)](https://img.youtube.com/vi/5J0YxiPJbro/0.jpg)](https://www.youtube.com/watch?v=5J0YxiPJbro)
+[![](https://img.youtube.com/vi/5J0YxiPJbro/0.jpg)](https://www.youtube.com/watch?v=5J0YxiPJbro)

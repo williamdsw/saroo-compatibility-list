@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Aquazone Option Disc Series (Japan) = Unplayable](https://img.youtube.com/vi/Y9iUsAnE9xY/0.jpg)](https://www.youtube.com/watch?v=Y9iUsAnE9xY)
+[![](https://img.youtube.com/vi/Y9iUsAnE9xY/0.jpg)](https://www.youtube.com/watch?v=Y9iUsAnE9xY)

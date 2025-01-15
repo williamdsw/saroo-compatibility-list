@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jikkyou Powerful Pro Yakyuu S (Japan)](https://img.youtube.com/vi/RSDxwXI3mj0/0.jpg)](https://www.youtube.com/watch?v=RSDxwXI3mj0)
+[![](https://img.youtube.com/vi/RSDxwXI3mj0/0.jpg)](https://www.youtube.com/watch?v=RSDxwXI3mj0)

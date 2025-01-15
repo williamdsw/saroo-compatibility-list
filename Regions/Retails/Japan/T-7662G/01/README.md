@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Angelique Duet (Japan) = Playable](https://img.youtube.com/vi/Q0pdmeq/0.jpg)](https://www.youtube.com/watch?v=Q0pdmeq)
+[![](https://img.youtube.com/vi/Q0pdmeq/0.jpg)](https://www.youtube.com/watch?v=Q0pdmeq)

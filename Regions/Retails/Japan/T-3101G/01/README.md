@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Fixed with configuration :hammer_and_wrench:
-- (2M): Fixed with configuration :hammer_and_wrench:
-- (3M): Fixed with configuration :hammer_and_wrench:
+- The King of Fighters '95 (Japan) (1M): Fixed with configuration :hammer_and_wrench:
+- The King of Fighters '95 (Japan) (2M): Fixed with configuration :hammer_and_wrench:
+- The King of Fighters '95 (Japan) (3M): Fixed with configuration :hammer_and_wrench:
 
 ### Problems without configuration
 
@@ -35,22 +35,22 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Extra Info
 
-- (1M): `Single Play` mode fully tested
-- (2M): `Team Play` mode fully tested
-- (3M): `Single Versus` mode fully tested
+- The King of Fighters '95 (Japan) (1M): `Single Play` mode fully tested
+- The King of Fighters '95 (Japan) (2M): `Team Play` mode fully tested
+- The King of Fighters '95 (Japan) (3M): `Single Versus` mode fully tested
 - It does need test for modes `Team Versus` and `Single All`
 - It does need tests with other characters
 
 ### Evidence
 
-(1M):
+The King of Fighters '95 (Japan) (1M):
 
-[![[Complete] SAROO 1.32 (240316) - The King of Fighters '95 (J) (1M)](https://img.youtube.com/vi/qw4-0eAUuAU/0.jpg)](https://www.youtube.com/watch?v=qw4-0eAUuAU)
+[![ (1M)](https://img.youtube.com/vi/qw4-0eAUuAU/0.jpg)](https://www.youtube.com/watch?v=qw4-0eAUuAU)
 
-(2M):
+The King of Fighters '95 (Japan) (2M):
 
-[![[Complete] SAROO 1.32 (240316) - The King of Fighters '95 (J) (2M)](https://img.youtube.com/vi/yW5msfv-iIE/0.jpg)](https://www.youtube.com/watch?v=yW5msfv-iIE)
+[![ (2M)](https://img.youtube.com/vi/yW5msfv-iIE/0.jpg)](https://www.youtube.com/watch?v=yW5msfv-iIE)
 
-(3M):
+The King of Fighters '95 (Japan) (3M):
 
-[![[Complete] SAROO 1.32 (240316) - The King of Fighters '95 (J) (3M)](https://img.youtube.com/vi/mHGZiVAWALE/0.jpg)](https://www.youtube.com/watch?v=mHGZiVAWALE)
+[![ (3M)](https://img.youtube.com/vi/mHGZiVAWALE/0.jpg)](https://www.youtube.com/watch?v=mHGZiVAWALE)

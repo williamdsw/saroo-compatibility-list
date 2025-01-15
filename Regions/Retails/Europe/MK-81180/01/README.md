@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - UEFA Euro 96 England (Europe) = Playable](https://img.youtube.com/vi/7eV3IcJsjb4/0.jpg)](https://www.youtube.com/watch?v=7eV3IcJsjb4)
+[![](https://img.youtube.com/vi/7eV3IcJsjb4/0.jpg)](https://www.youtube.com/watch?v=7eV3IcJsjb4)

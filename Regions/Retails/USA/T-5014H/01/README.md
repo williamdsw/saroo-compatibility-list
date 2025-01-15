@@ -29,4 +29,4 @@ It's needs a full gameplay test on all difficulties.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Crusader: No Remorse (USA) = Playable](https://img.youtube.com/vi/ODvDGaCH8ec/0.jpg)](https://www.youtube.com/watch?v=ODvDGaCH8ec)
+[![](https://img.youtube.com/vi/ODvDGaCH8ec/0.jpg)](https://www.youtube.com/watch?v=ODvDGaCH8ec)

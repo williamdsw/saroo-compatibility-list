@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Yuukyuu Gensoukyoku Ensemble 2 (Japan) = Playable](https://img.youtube.com/vi/Oo04uFc4rhg/0.jpg)](https://www.youtube.com/watch?v=Oo04uFc4rhg)
+[![](https://img.youtube.com/vi/Oo04uFc4rhg/0.jpg)](https://www.youtube.com/watch?v=Oo04uFc4rhg)

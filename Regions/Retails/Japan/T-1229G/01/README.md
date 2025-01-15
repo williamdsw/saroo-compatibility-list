@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240515) - Vampire Savior: The Lord of Vampire (Japan)](https://img.youtube.com/vi/yV3gqJcytVY/0.jpg)](https://www.youtube.com/watch?v=yV3gqJcytVY)
+[![](https://img.youtube.com/vi/yV3gqJcytVY/0.jpg)](https://www.youtube.com/watch?v=yV3gqJcytVY)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Grid Runner (U) = Playable](https://img.youtube.com/vi/q5JlQoC5NuA/0.jpg)](https://www.youtube.com/watch?v=q5JlQoC5NuA)
+[![](https://img.youtube.com/vi/q5JlQoC5NuA/0.jpg)](https://www.youtube.com/watch?v=q5JlQoC5NuA)

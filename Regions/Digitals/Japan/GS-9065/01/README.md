@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 3 Akira Yuki (J)](https://img.youtube.com/vi/ezq5Iz2-plk/0.jpg)](https://www.youtube.com/watch?v=ezq5Iz2-plk)
+[![](https://img.youtube.com/vi/ezq5Iz2-plk/0.jpg)](https://www.youtube.com/watch?v=ezq5Iz2-plk)

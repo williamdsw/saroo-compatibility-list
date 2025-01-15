@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1S): Playable :white_check_mark:
-- (2S): Untested :question:
+- NHL All-Star Hockey (USA) (1S): Playable :white_check_mark:
+- NHL All-Star Hockey (USA) (2S): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1S):
+NHL All-Star Hockey (USA) (1S):
 
 [![](https://img.youtube.com/vi/xoQxWCEn46U/0.jpg)](https://www.youtube.com/watch?v=xoQxWCEn46U)

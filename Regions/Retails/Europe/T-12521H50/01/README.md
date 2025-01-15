@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - The Lost Vikings 2: Norse by Norsewest (Europe)](https://img.youtube.com/vi/dQV2kOJCrYc/0.jpg)](https://www.youtube.com/watch?v=dQV2kOJCrYc)
+[![](https://img.youtube.com/vi/dQV2kOJCrYc/0.jpg)](https://www.youtube.com/watch?v=dQV2kOJCrYc)

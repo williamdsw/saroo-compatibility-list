@@ -32,8 +32,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 The Legend of Heroes I:
 
-[![[Sample] SAROO 1.32 (240316) - The Legend of Heroes I & II Eiyuu Densetsu (Japan) - TLH I](https://img.youtube.com/vi/-HvLguE3Fig/0.jpg)](https://www.youtube.com/watch?v=-HvLguE3Fig)
+[![ - TLH I](https://img.youtube.com/vi/-HvLguE3Fig/0.jpg)](https://www.youtube.com/watch?v=-HvLguE3Fig)
 
 The Legend of Heroes II:
 
-[![[Sample] SAROO 1.32 (240316) - The Legend of Heroes I & II Eiyuu Densetsu (Japan) - TLH II](https://img.youtube.com/vi/PO5tFLtm-qA/0.jpg)](https://www.youtube.com/watch?v=PO5tFLtm-qA)
+[![ - TLH II](https://img.youtube.com/vi/PO5tFLtm-qA/0.jpg)](https://www.youtube.com/watch?v=PO5tFLtm-qA)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Bishoujo Variety Game: Rapyulus Panic (Japan)](https://img.youtube.com/vi/PvGVN-e3Xgo/0.jpg)](https://www.youtube.com/watch?v=PvGVN-e3Xgo)
+[![](https://img.youtube.com/vi/PvGVN-e3Xgo/0.jpg)](https://www.youtube.com/watch?v=PvGVN-e3Xgo)

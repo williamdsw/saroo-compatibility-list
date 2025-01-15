@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hop Step Idol (Japan) = Issues](https://img.youtube.com/vi/iU1h2TUz9zM/0.jpg)](https://www.youtube.com/watch?v=iU1h2TUz9zM)
+[![](https://img.youtube.com/vi/iU1h2TUz9zM/0.jpg)](https://www.youtube.com/watch?v=iU1h2TUz9zM)

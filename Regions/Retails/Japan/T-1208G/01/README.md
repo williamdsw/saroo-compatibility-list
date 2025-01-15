@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)](https://img.youtube.com/vi/6XtcAtO8Y80/0.jpg)](https://www.youtube.com/watch?v=6XtcAtO8Y80)
+[![](https://img.youtube.com/vi/6XtcAtO8Y80/0.jpg)](https://www.youtube.com/watch?v=6XtcAtO8Y80)

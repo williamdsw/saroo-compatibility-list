@@ -30,4 +30,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Andretti Racing (USA) = Playable](https://img.youtube.com/vi/v5_4ANWEels/0.jpg)](https://www.youtube.com/watch?v=v5_4ANWEels)
+[![](https://img.youtube.com/vi/v5_4ANWEels/0.jpg)](https://www.youtube.com/watch?v=v5_4ANWEels)

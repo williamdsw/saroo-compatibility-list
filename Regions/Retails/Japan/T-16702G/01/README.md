@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Idol Mahjong Final Romance 2 (Japan)](https://img.youtube.com/vi/8RDQecNCiLU/0.jpg)](https://www.youtube.com/watch?v=8RDQecNCiLU)
+[![](https://img.youtube.com/vi/8RDQecNCiLU/0.jpg)](https://www.youtube.com/watch?v=8RDQecNCiLU)

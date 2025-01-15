@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Game): Playable :white_check_mark:
+- Playable :white_check_mark:
 
 ### Extra Info
 
@@ -30,6 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-Game:
-
-[![[Complete] SAROO 1.32 (240316) - Rabbit (Japan)](https://img.youtube.com/vi/9Kc0AYuvz0A/0.jpg)](https://www.youtube.com/watch?v=9Kc0AYuvz0A)
+[![](https://img.youtube.com/vi/9Kc0AYuvz0A/0.jpg)](https://www.youtube.com/watch?v=9Kc0AYuvz0A)

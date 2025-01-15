@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Samurai Shodown IV: Amakusa's Revenge (Japan)](https://img.youtube.com/vi/NFV3uBg1gK8/0.jpg)](https://www.youtube.com/watch?v=NFV3uBg1gK8)
+[![](https://img.youtube.com/vi/NFV3uBg1gK8/0.jpg)](https://www.youtube.com/watch?v=NFV3uBg1gK8)

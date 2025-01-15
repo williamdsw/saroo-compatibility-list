@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Gex (USA) = Playable](https://img.youtube.com/vi/N0vi2UxJusE/0.jpg)](https://www.youtube.com/watch?v=N0vi2UxJusE)
+[![](https://img.youtube.com/vi/N0vi2UxJusE/0.jpg)](https://www.youtube.com/watch?v=N0vi2UxJusE)

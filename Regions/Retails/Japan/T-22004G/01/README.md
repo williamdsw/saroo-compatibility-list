@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Playable :white_check_mark:
-- (2M): Untested :question:
+- Wizard's Harmony 2 (Japan) (1M): Playable :white_check_mark:
+- Wizard's Harmony 2 (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Wizard's Harmony 2 (Japan) (1M):
 
 [![](https://img.youtube.com/vi/L2Z-rImzNFA/0.jpg)](https://www.youtube.com/watch?v=L2Z-rImzNFA)

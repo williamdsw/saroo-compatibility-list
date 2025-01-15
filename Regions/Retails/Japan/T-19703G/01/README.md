@@ -21,20 +21,20 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 1) (Rev A): Untested :question:
-- (Disc 2) (Can Bani Himekuri Calendar): Untested :question:
-- (Disc 2) (Can Bani Himekuri Calendar) (Hibaihin): Untested :question:
+- Can Can Bunny Premiere 2 (Japan) (Disc 1): Playable :white_check_mark:
+- Can Can Bunny Premiere 2 (Japan) (Disc 1) (Rev A): Untested :question:
+- Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar): Untested :question:
+- Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar) (Hibaihin): Untested :question:
 
-### TODOs
+### TODO
 
-- Fully Test Can Can Bunny Premiere 2 (Japan) (Disc 1) (Rev A)
 - Fully Test Can Can Bunny Premiere 2 (Japan) (Disc 1)
-- Fully Test Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar) (Hibaihin)
+- Fully Test Can Can Bunny Premiere 2 (Japan) (Disc 1) (Rev A)
 - Fully Test Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar)
+- Fully Test Can Can Bunny Premiere 2 (Japan) (Disc 2) (Can Bani Himekuri Calendar) (Hibaihin)
 
 ### Evidence
 
-(Disc 1):
+Can Can Bunny Premiere 2 (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/5_iRYwLHPDo/0.jpg)](https://www.youtube.com/watch?v=5_iRYwLHPDo)

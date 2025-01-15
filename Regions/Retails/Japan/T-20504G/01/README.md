@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Free Talk Studio: Mari no Kimamana Oshaberi (Japan)](https://img.youtube.com/vi/C7f8v_MwbUE/0.jpg)](https://www.youtube.com/watch?v=C7f8v_MwbUE)
+[![](https://img.youtube.com/vi/C7f8v_MwbUE/0.jpg)](https://www.youtube.com/watch?v=C7f8v_MwbUE)

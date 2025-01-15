@@ -29,4 +29,4 @@ It needs a full gameplay tests for all modes.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Ultraman Zukan (Japan) = Playable](https://img.youtube.com/vi/mZtHNL4VArA/0.jpg)](https://www.youtube.com/watch?v=mZtHNL4VArA)
+[![](https://img.youtube.com/vi/mZtHNL4VArA/0.jpg)](https://www.youtube.com/watch?v=mZtHNL4VArA)

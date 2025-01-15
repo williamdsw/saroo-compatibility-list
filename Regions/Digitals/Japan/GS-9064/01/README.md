@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 2 Jacky Bryant (J) = Fixed?](https://img.youtube.com/vi/fMtL1HAUmT4/0.jpg)](https://www.youtube.com/watch?v=fMtL1HAUmT4)
+[![](https://img.youtube.com/vi/fMtL1HAUmT4/0.jpg)](https://www.youtube.com/watch?v=fMtL1HAUmT4)

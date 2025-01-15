@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc A) :white_check_mark:
-- Untested (Disc B) :question:
-- Untested (Disc C) :question:
+- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc A): Playable :white_check_mark:
+- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc B): Untested :question:
+- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc C): Untested :question:
 
 ### Extra Info
 
@@ -33,8 +33,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Fully test Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc A)
 - Fully test Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc B)
-- Test Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc C)
+- Fully test Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc C)
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) = Playable](https://img.youtube.com/vi/YgbM9KPl2OE/0.jpg)](https://www.youtube.com/watch?v=YgbM9KPl2OE)
+Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc A):
+
+[![](https://img.youtube.com/vi/YgbM9KPl2OE/0.jpg)](https://www.youtube.com/watch?v=YgbM9KPl2OE)

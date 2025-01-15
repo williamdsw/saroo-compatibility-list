@@ -29,4 +29,4 @@ It needs a full gameplay tests.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Rockman X3 (Japan) = Playable](https://img.youtube.com/vi/7Bg14rgQxsw/0.jpg)](https://www.youtube.com/watch?v=7Bg14rgQxsw)
+[![](https://img.youtube.com/vi/7Bg14rgQxsw/0.jpg)](https://www.youtube.com/watch?v=7Bg14rgQxsw)

@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M) - Playable :white_check_mark:
-- (2M) - Untested :question:
+- Doukoku Soshite... (Japan) (1M) - Playable :white_check_mark:
+- Doukoku Soshite... (Japan) (2M) - Untested :question:
 
 ### Extra Info
 
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Doukoku Soshite... (Japan) (1M):
 
 [![](https://img.youtube.com/vi/St6OzvDTp_E/0.jpg)](https://www.youtube.com/watch?v=St6OzvDTp_E)

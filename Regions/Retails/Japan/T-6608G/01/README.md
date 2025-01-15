@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (3M): Playable :white_check_mark:
-- (4M): Untested :question:
+- Waku Waku Puyo Puyo Dungeon (Japan) (3M): Playable :white_check_mark:
+- Waku Waku Puyo Puyo Dungeon (Japan) (4M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(3M):
+Waku Waku Puyo Puyo Dungeon (Japan) (3M):
 
 [![](https://img.youtube.com/vi/5KgFRcAweo4/0.jpg)](https://www.youtube.com/watch?v=5KgFRcAweo4)

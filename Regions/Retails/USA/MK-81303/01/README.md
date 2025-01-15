@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Blazing Heroes (USA)](https://img.youtube.com/vi/bLM8xOm5c28/0.jpg)](https://www.youtube.com/watch?v=bLM8xOm5c28)
+[![](https://img.youtube.com/vi/bLM8xOm5c28/0.jpg)](https://www.youtube.com/watch?v=bLM8xOm5c28)

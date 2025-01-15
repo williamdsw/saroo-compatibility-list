@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - X-Men: Children of the Atom (USA) = Playable](https://img.youtube.com/vi/lC9ttQwb6Tc/0.jpg)](https://www.youtube.com/watch?v=lC9ttQwb6Tc)
+[![](https://img.youtube.com/vi/lC9ttQwb6Tc/0.jpg)](https://www.youtube.com/watch?v=lC9ttQwb6Tc)

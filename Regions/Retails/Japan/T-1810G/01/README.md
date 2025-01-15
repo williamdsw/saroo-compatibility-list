@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Blast Wind (Japan)](https://img.youtube.com/vi/ko9ZkYMdOVk/0.jpg)](https://www.youtube.com/watch?v=ko9ZkYMdOVk)
+[![](https://img.youtube.com/vi/ko9ZkYMdOVk/0.jpg)](https://www.youtube.com/watch?v=ko9ZkYMdOVk)

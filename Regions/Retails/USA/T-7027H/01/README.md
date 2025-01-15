@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Black Dawn (USA)](https://img.youtube.com/vi/klkaxQomvBM/0.jpg)](https://www.youtube.com/watch?v=klkaxQomvBM)
+[![](https://img.youtube.com/vi/klkaxQomvBM/0.jpg)](https://www.youtube.com/watch?v=klkaxQomvBM)

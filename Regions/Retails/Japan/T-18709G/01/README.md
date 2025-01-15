@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Honkaku Pro Mahjong Tetsuman Special (Japan)](https://img.youtube.com/vi/c16ThMZNuS4/0.jpg)](https://www.youtube.com/watch?v=c16ThMZNuS4)
+[![](https://img.youtube.com/vi/c16ThMZNuS4/0.jpg)](https://www.youtube.com/watch?v=c16ThMZNuS4)

@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail): Playable :white_check_mark:
-- (Retail) (Rev B): Untested :question:
+- Pro Yakyuu Team mo Tsukurou! (Japan): Playable :white_check_mark:
+- Pro Yakyuu Team mo Tsukurou! (Japan) (Rev B): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Retail):
+Pro Yakyuu Team mo Tsukurou! (Japan):
 
 [![](https://img.youtube.com/vi/shJE2A3RoNE/0.jpg)](https://www.youtube.com/watch?v=shJE2A3RoNE)

@@ -13,8 +13,6 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Retail):
-
 - <b>Game Name:</b> DARIUS GAIDEN
 - <b>Product Number:</b> T-8123H
 - <b>Version:</b> V1.000

@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- Roommate W: Futari (Japan) (Disc 1): Playable :white_check_mark:
+- Roommate W: Futari (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -30,11 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Full test Disc 1.
-- Test Disc 2.
+- Full test Roommate W: Futari (Japan) (Disc 1).
+- Full test Roommate W: Futari (Japan) (Disc 2).
 
 ### Evidence
 
-Disc 1:
+Roommate W: Futari (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - Roommate W: Futari (Japan) (Disc 1)](https://img.youtube.com/vi/5miiTk9mmOc/0.jpg)](https://www.youtube.com/watch?v=5miiTk9mmOc)
+[![](https://img.youtube.com/vi/5miiTk9mmOc/0.jpg)](https://www.youtube.com/watch?v=5miiTk9mmOc)

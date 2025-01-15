@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hyper Securities S (Japan)](https://img.youtube.com/vi/iD3STbr6lrM/0.jpg)](https://www.youtube.com/watch?v=iD3STbr6lrM)
+[![](https://img.youtube.com/vi/iD3STbr6lrM/0.jpg)](https://www.youtube.com/watch?v=iD3STbr6lrM)

@@ -31,4 +31,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Dragon Ball Z: Shin Butouden (J)](https://img.youtube.com/vi/GbKEeFwHJ7s/0.jpg)](https://www.youtube.com/watch?v=GbKEeFwHJ7s)
+[![](https://img.youtube.com/vi/GbKEeFwHJ7s/0.jpg)](https://www.youtube.com/watch?v=GbKEeFwHJ7s)

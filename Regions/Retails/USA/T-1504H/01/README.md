@@ -31,4 +31,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Galaxy Fight (U)](https://img.youtube.com/vi/yTqd0dzvK8c/0.jpg)](https://www.youtube.com/watch?v=yTqd0dzvK8c)
+[![](https://img.youtube.com/vi/yTqd0dzvK8c/0.jpg)](https://www.youtube.com/watch?v=yTqd0dzvK8c)

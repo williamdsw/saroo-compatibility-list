@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Theme Park (USA)](https://img.youtube.com/vi/cEskOfLu7nE/0.jpg)](https://www.youtube.com/watch?v=cEskOfLu7nE)
+[![](https://img.youtube.com/vi/cEskOfLu7nE/0.jpg)](https://www.youtube.com/watch?v=cEskOfLu7nE)

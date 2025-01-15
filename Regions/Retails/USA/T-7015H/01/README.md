@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hyper 3-D Pinball (USA)](https://img.youtube.com/vi/KzpQKDzWi1s/0.jpg)](https://www.youtube.com/watch?v=KzpQKDzWi1s)
+[![](https://img.youtube.com/vi/KzpQKDzWi1s/0.jpg)](https://www.youtube.com/watch?v=KzpQKDzWi1s)

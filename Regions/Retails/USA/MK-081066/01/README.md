@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Quake (USA) = Playable](https://img.youtube.com/vi/Erz_AG1IB48/0.jpg)](https://www.youtube.com/watch?v=Erz_AG1IB48)
+[![](https://img.youtube.com/vi/Erz_AG1IB48/0.jpg)](https://www.youtube.com/watch?v=Erz_AG1IB48)

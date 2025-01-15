@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Honpen): Fixed with configuration :hammer_and_wrench:
-- (Disc 2) (Shokai Gentei Yobikake-kun): Playable :white_check_mark:
+- Virtuacall S (Japan) (Disc 1) (Game Honpen): Fixed with configuration :hammer_and_wrench:
+- Virtuacall S (Japan) (Disc 2) (Shokai Gentei Yobikake-kun): Playable :white_check_mark:
 
 ### Problems without configuration
 
@@ -38,10 +38,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1) (Game Honpen):
+Virtuacall S (Japan) (Disc 1) (Game Honpen):
 
-[![[Sample] SAROO 1.32 (240316*) - Virtuacall S (J) (Disc 1) (Game Honpen) = Fixed?](https://img.youtube.com/vi/avRSQaxIkd0/0.jpg)](https://www.youtube.com/watch?v=avRSQaxIkd0)
+[![](https://img.youtube.com/vi/avRSQaxIkd0/0.jpg)](https://www.youtube.com/watch?v=avRSQaxIkd0)
 
-(Disc 2) (Shokai Gentei Yobikake-kun):
+Virtuacall S (Japan) (Disc 2) (Shokai Gentei Yobikake-kun):
 
-[![[Sample] SAROO 1.32 (240316*) - Virtuacall S (J) (Disc 2) (Shokai Gentei Yobikake-Kun)](https://img.youtube.com/vi/Lj4-qMiCzlM/0.jpg)](https://www.youtube.com/watch?v=Lj4-qMiCzlM)
+[![](https://img.youtube.com/vi/Lj4-qMiCzlM/0.jpg)](https://www.youtube.com/watch?v=Lj4-qMiCzlM)

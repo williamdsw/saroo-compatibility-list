@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (5S): Untested :question:
-- (6S): Issues :warning:
+- Fighting Vipers (USA) (5S): Untested :question:
+- Fighting Vipers (USA) (6S): Issues :warning:
 
 ### Problems
 
@@ -40,6 +40,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(6S):
+Fighting Vipers (USA) (6S):
 
-[![[Complete] SAROO 1.32 (231125) - Fighting Vipers (U) = Boot Issue](https://img.youtube.com/vi/dDIFiXCn5p8/0.jpg)](https://www.youtube.com/watch?v=dDIFiXCn5p8)
+[![](https://img.youtube.com/vi/dDIFiXCn5p8/0.jpg)](https://www.youtube.com/watch?v=dDIFiXCn5p8)

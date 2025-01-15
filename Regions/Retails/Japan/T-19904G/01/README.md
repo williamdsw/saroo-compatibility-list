@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
-- Disc 3: Untested :question:
+- Harukaze Sentai V-Force (Disc 1): Playable :white_check_mark:
+- Harukaze Sentai V-Force (Disc 2): Untested :question:
+- Harukaze Sentai V-Force (Disc 3): Untested :question:
 
 ### Extra Info
 
@@ -31,6 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-Disc 1:
+Harukaze Sentai V-Force (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - Harukaze Sentai V-Force (Japan) (Disc 1)](https://img.youtube.com/vi/WiviiYDTovQ/0.jpg)](https://www.youtube.com/watch?v=WiviiYDTovQ)
+[![](https://img.youtube.com/vi/WiviiYDTovQ/0.jpg)](https://www.youtube.com/watch?v=WiviiYDTovQ)

@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Bakuretsu Hunter R (Japan) = Fixed ?](https://img.youtube.com/vi/z3V3kQbm9c0/0.jpg)](https://www.youtube.com/watch?v=z3V3kQbm9c0)
+[![](https://img.youtube.com/vi/z3V3kQbm9c0/0.jpg)](https://www.youtube.com/watch?v=z3V3kQbm9c0)

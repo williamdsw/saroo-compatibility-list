@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Bust-A-Move 3 (U) = Playable](https://img.youtube.com/vi/noLfhZyNlk4/0.jpg)](https://www.youtube.com/watch?v=noLfhZyNlk4)
+[![](https://img.youtube.com/vi/noLfhZyNlk4/0.jpg)](https://www.youtube.com/watch?v=noLfhZyNlk4)

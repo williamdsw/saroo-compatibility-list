@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (2M): Untested :question:
-- (3M): Playable :white_check_mark:
+- Kuro no Danshou - The Literary Fragment (Japan) (2M): Untested :question:
+- Kuro no Danshou - The Literary Fragment (Japan) (3M): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(3M):
+Kuro no Danshou - The Literary Fragment (Japan) (3M):
 
-[![[Sample] SAROO 1.32 (240316) - Kuro no Danshou: The Literary Fragment (J)](https://img.youtube.com/vi/fnywDECN7kI/0.jpg)](https://www.youtube.com/watch?v=fnywDECN7kI)
+[![](https://img.youtube.com/vi/fnywDECN7kI/0.jpg)](https://www.youtube.com/watch?v=fnywDECN7kI)

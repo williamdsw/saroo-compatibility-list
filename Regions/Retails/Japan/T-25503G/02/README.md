@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Initial D (Japan) = Fixed?](https://img.youtube.com/vi/ArkBo2oRFrg/0.jpg)](https://www.youtube.com/watch?v=ArkBo2oRFrg)
+[![](https://img.youtube.com/vi/ArkBo2oRFrg/0.jpg)](https://www.youtube.com/watch?v=ArkBo2oRFrg)

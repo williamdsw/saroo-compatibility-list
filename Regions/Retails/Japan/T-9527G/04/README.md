@@ -34,8 +34,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Richter:
 
-[![[Hack Complete] SAROO 1.32 (240107) - Dracula X: Nocturne in the Moonlight - Ultimate 1.0 - RICHTER](https://img.youtube.com/vi/KlvXQ147-zI/0.jpg)](https://www.youtube.com/watch?v=KlvXQ147-zI)
+[![](https://img.youtube.com/vi/KlvXQ147-zI/0.jpg)](https://www.youtube.com/watch?v=KlvXQ147-zI)
 
 Maria:
 
-[![[Hack Complete] SAROO 1.32 (240107) - Dracula X: Nocturne in the Moonlight - Ultimate 1.0 - MARIA](https://img.youtube.com/vi/WHD1RcCTIP8/0.jpg)](https://www.youtube.com/watch?v=WHD1RcCTIP8)
+[![](https://img.youtube.com/vi/WHD1RcCTIP8/0.jpg)](https://www.youtube.com/watch?v=WHD1RcCTIP8)

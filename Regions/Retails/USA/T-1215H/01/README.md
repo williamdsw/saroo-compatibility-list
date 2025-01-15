@@ -29,4 +29,4 @@ Tested full gameplay on easy mode with Ryu. It's needs tests with other characte
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - Super Puzzle Fighter II Turbo (USA)](https://img.youtube.com/vi/CICNpszdxvc/0.jpg)](https://www.youtube.com/watch?v=CICNpszdxvc)
+[![](https://img.youtube.com/vi/CICNpszdxvc/0.jpg)](https://www.youtube.com/watch?v=CICNpszdxvc)

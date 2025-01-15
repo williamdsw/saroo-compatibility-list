@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Joukan): Playable :white_check_mark:
-- (Disc 2) (Gekan): Untested :question:
+- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 1) (Joukan): Playable :white_check_mark:
+- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 2) (Gekan): Untested :question:
 
 ### Extra Info
 
@@ -31,10 +31,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Fully test Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 1) (Joukan)
-- Test Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 2) (Gekan)
+- Fully test Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 2) (Gekan)
 
 ### Evidence
 
-(Disc 1) (Joukan):
+Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 1) (Joukan):
 
-[![[Sample] SAROO 1.32 (240316) - Koden Koureijutsu Hyaku Monogatari: Hontoni Atta Kowai Hanashi (J)](https://img.youtube.com/vi/_ycpkOiqvw4/0.jpg)](https://www.youtube.com/watch?v=_ycpkOiqvw4)
+[![](https://img.youtube.com/vi/_ycpkOiqvw4/0.jpg)](https://www.youtube.com/watch?v=_ycpkOiqvw4)

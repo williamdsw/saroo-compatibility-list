@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Rev A) (10M): Playable :white_check_mark:
-- (Rev B) (20M): Untested :question:
+- Culdcept (Japan) (Rev B) (10M): Playable :white_check_mark:
+- Culdcept (Japan) (Rev B) (20M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Rev A) (10M):
+Culdcept (Japan) (Rev B) (10M):
 
 [![](https://img.youtube.com/vi/jHhVdyVRrHQ/0.jpg)](https://www.youtube.com/watch?v=jHhVdyVRrHQ)

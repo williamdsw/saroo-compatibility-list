@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- Houkago Renai Club: Koi no Etude (Japan) (Disc 1): Playable :white_check_mark:
+- Houkago Renai Club: Koi no Etude (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -30,4 +30,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Houkago Renai Club: Koi no Etude (Japan)](https://img.youtube.com/vi/bIu0j0HMe-I/0.jpg)](https://www.youtube.com/watch?v=bIu0j0HMe-I)
+Houkago Renai Club: Koi no Etude (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/bIu0j0HMe-I/0.jpg)](https://www.youtube.com/watch?v=bIu0j0HMe-I)

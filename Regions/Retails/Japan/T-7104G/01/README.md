@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316*) - Virtual Kyoutei 2 (Japan)](https://img.youtube.com/vi/rXu4fg1zX8E/0.jpg)](https://www.youtube.com/watch?v=rXu4fg1zX8E)
+[![](https://img.youtube.com/vi/rXu4fg1zX8E/0.jpg)](https://www.youtube.com/watch?v=rXu4fg1zX8E)

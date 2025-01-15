@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Big Thanks Super Keirin: Dream With Keirin 50 Years (Japan)](https://img.youtube.com/vi/PK8zt2ZpzmA/0.jpg)](https://www.youtube.com/watch?v=PK8zt2ZpzmA)
+[![](https://img.youtube.com/vi/PK8zt2ZpzmA/0.jpg)](https://www.youtube.com/watch?v=PK8zt2ZpzmA)

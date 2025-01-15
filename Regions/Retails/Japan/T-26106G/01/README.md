@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Pu-Li-Ru-La/Arcade Gears (Japan)](https://img.youtube.com/vi/6neshFCoxbg/0.jpg)](https://www.youtube.com/watch?v=6neshFCoxbg)
+[![](https://img.youtube.com/vi/6neshFCoxbg/0.jpg)](https://www.youtube.com/watch?v=6neshFCoxbg)

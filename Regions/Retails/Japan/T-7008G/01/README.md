@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Gekirindan (J)](https://img.youtube.com/vi/PQ11DoxJRrE/0.jpg)](https://www.youtube.com/watch?v=PQ11DoxJRrE)
+[![](https://img.youtube.com/vi/PQ11DoxJRrE/0.jpg)](https://www.youtube.com/watch?v=PQ11DoxJRrE)

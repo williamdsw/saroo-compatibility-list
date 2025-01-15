@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jikkyou Oshaberi Parodius: Forever With Me (Japan)](https://img.youtube.com/vi/YWe-zTNChJc/0.jpg)](https://www.youtube.com/watch?v=YWe-zTNChJc)
+[![](https://img.youtube.com/vi/YWe-zTNChJc/0.jpg)](https://www.youtube.com/watch?v=YWe-zTNChJc)

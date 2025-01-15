@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Blast Chamber (USA)](https://img.youtube.com/vi/wF9tRkmdDKs/0.jpg)](https://www.youtube.com/watch?v=wF9tRkmdDKs)
+[![](https://img.youtube.com/vi/wF9tRkmdDKs/0.jpg)](https://www.youtube.com/watch?v=wF9tRkmdDKs)

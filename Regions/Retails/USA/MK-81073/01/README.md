@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Issues :warning:
-- (RE): Untested :question:
+- Fighters Megamix (USA): Issues :warning:
+- Fighters Megamix (USA) (RE): Untested :question:
 
 ### Problems
 
@@ -40,4 +40,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Fighters Megamix (U) = Boot Issue](https://img.youtube.com/vi/zxMmJhFnSQQ/0.jpg)](https://www.youtube.com/watch?v=zxMmJhFnSQQ)
+Fighters Megamix (USA):
+
+[![](https://img.youtube.com/vi/zxMmJhFnSQQ/0.jpg)](https://www.youtube.com/watch?v=zxMmJhFnSQQ)

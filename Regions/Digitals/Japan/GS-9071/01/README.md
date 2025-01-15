@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 8 Lion Rafale (J)](https://img.youtube.com/vi/Hu_CDuWbt74/0.jpg)](https://www.youtube.com/watch?v=Hu_CDuWbt74)
+[![](https://img.youtube.com/vi/Hu_CDuWbt74/0.jpg)](https://www.youtube.com/watch?v=Hu_CDuWbt74)

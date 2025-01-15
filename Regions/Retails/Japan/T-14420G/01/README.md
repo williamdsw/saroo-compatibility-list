@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 01) - Playable :white_check_mark:
-- (Disc 02) - Untested :question:
+- Devil Summoner - Soul Hackers (Japan) (Disc 01) - Playable :white_check_mark:
+- Devil Summoner - Soul Hackers (Japan) (Disc 02) - Untested :question:
 
 ### Extra Info
 
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 01):
+Devil Summoner - Soul Hackers (Japan) (Disc 01):
 
 [![](https://img.youtube.com/vi/KEY_LPVcWzw/0.jpg)](https://www.youtube.com/watch?v=KEY_LPVcWzw)

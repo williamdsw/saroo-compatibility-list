@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- (Rev A): Untested :question:
+- Ninpen Manmaru (Japan): Playable :white_check_mark:
+- Ninpen Manmaru (Japan) (Rev A): Untested :question:
 
 ### Extra Info
 

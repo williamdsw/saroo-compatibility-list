@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Heim Waltz (Japan) (Rev A)](https://img.youtube.com/vi/1jKoq028f_8/0.jpg)](https://www.youtube.com/watch?v=1jKoq028f_8)
+[![ (Rev A)](https://img.youtube.com/vi/1jKoq028f_8/0.jpg)](https://www.youtube.com/watch?v=1jKoq028f_8)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Soukyugurentai Otokuyou (J) = Playable](https://img.youtube.com/vi/hZnlHwGcyso/0.jpg)](https://www.youtube.com/watch?v=hZnlHwGcyso)
+[![](https://img.youtube.com/vi/hZnlHwGcyso/0.jpg)](https://www.youtube.com/watch?v=hZnlHwGcyso)

@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kaitei Daisensou (J) = Issues](https://img.youtube.com/vi/bX7AtytwlIM/0.jpg)](https://www.youtube.com/watch?v=bX7AtytwlIM)
+[![](https://img.youtube.com/vi/bX7AtytwlIM/0.jpg)](https://www.youtube.com/watch?v=bX7AtytwlIM)

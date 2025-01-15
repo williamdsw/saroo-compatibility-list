@@ -29,4 +29,4 @@ It needs a full gameplay tests. Tests with another characters.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Elevator Action Returns (Japan) = Playable](https://img.youtube.com/vi/ZmXALul__TY/0.jpg)](https://www.youtube.com/watch?v=ZmXALul__TY)
+[![](https://img.youtube.com/vi/ZmXALul__TY/0.jpg)](https://www.youtube.com/watch?v=ZmXALul__TY)

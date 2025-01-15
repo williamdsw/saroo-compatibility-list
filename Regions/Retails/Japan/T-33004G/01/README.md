@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hatsukoi Monogatari (Japan)](https://img.youtube.com/vi/glzM42zx6l4/0.jpg)](https://www.youtube.com/watch?v=glzM42zx6l4)
+[![](https://img.youtube.com/vi/glzM42zx6l4/0.jpg)](https://www.youtube.com/watch?v=glzM42zx6l4)

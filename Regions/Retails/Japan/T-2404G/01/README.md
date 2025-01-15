@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jissen! Pachi-Slot Hisshouhou! Iron Hook (Japan)](https://img.youtube.com/vi/s1NL6beif5E/0.jpg)](https://www.youtube.com/watch?v=s1NL6beif5E)
+[![](https://img.youtube.com/vi/s1NL6beif5E/0.jpg)](https://www.youtube.com/watch?v=s1NL6beif5E)

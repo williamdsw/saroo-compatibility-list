@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- Idol Janshi Suchie-Pai II (Japan) (Disc 1): Playable :white_check_mark:
+- Idol Janshi Suchie-Pai II (Japan) (Disc 2) (Omake Disc): Untested :question:
 
 ### Extra Info
 
@@ -30,11 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Full Test Disc 1
-- Test Disc 2 (Omake Disc)
+- Full Test Janshi Suchie-Pai II (Japan) (Disc 1)
+- Full Test Janshi Suchie-Pai II (Japan) (Disc 2) (Omake Disc)
 
 ### Evidence
 
-Disc 1:
+Janshi Suchie-Pai II (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240118) - Idol Janshi Suchie-Pai II (Japan)](https://img.youtube.com/vi/OSUoUtJKojk/0.jpg)](https://www.youtube.com/watch?v=OSUoUtJKojk)
+[![](https://img.youtube.com/vi/OSUoUtJKojk/0.jpg)](https://www.youtube.com/watch?v=OSUoUtJKojk)

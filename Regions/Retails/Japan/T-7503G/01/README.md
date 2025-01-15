@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Legend of K-1 Grand Prix '96 (Japan)](https://img.youtube.com/vi/G4LbZTd280E/0.jpg)](https://www.youtube.com/watch?v=G4LbZTd280E)
+[![](https://img.youtube.com/vi/G4LbZTd280E/0.jpg)](https://www.youtube.com/watch?v=G4LbZTd280E)

@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231108) - Die Hard Trilogy (USA) = Playable](https://img.youtube.com/vi/nATfzbHmRIE/0.jpg)](https://www.youtube.com/watch?v=nATfzbHmRIE)
+[![](https://img.youtube.com/vi/nATfzbHmRIE/0.jpg)](https://www.youtube.com/watch?v=nATfzbHmRIE)

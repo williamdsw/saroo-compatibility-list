@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Fixed with configuration :hammer_and_wrench:
-- (R): Untested :question:
+- Bug! (USA): Fixed with configuration :hammer_and_wrench:
+- Bug! (USA) (R): Untested :question:
 
 ### Problems without configuration
 
@@ -41,5 +41,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Test Bug! (USA) (R)
 
 ### Evidence
+
+Bug! (USA):
 
 [![](https://img.youtube.com/vi/P4SlEjedq0Q/0.jpg)](https://www.youtube.com/watch?v=P4SlEjedq0Q)

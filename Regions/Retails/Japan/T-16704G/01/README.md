@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Playable :white_check_mark:
-- (Rev A) (10M): Untested :question:
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (1M): Playable :white_check_mark:
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (1M):
 
-[![[Sample] SAROO 1.32 (240316) - Big Ichigeki! Pachi-Slot Daikouryaku: Universal Museum (Japan)](https://img.youtube.com/vi/eek8oHYsBPc/0.jpg)](https://www.youtube.com/watch?v=eek8oHYsBPc)
+[![](https://img.youtube.com/vi/eek8oHYsBPc/0.jpg)](https://www.youtube.com/watch?v=eek8oHYsBPc)

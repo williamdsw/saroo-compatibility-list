@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Disc): Playable :white_check_mark:
-- (Disc 2) (Special Disc): Playable :white_check_mark:
+- Friends: Seishun no Kagayaki (Japan) (Disc 1) (Game Disc): Playable :white_check_mark:
+- Friends: Seishun no Kagayaki (Japan) (Disc 2) (Special Disc): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -30,10 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1) (Game Disc):
+Friends: Seishun no Kagayaki (Japan) (Disc 1) (Game Disc):
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Friends: Seishun no Kagayaki (Japan) [Disc 1]](https://img.youtube.com/vi/Q5CbhlulCNg/0.jpg)](https://www.youtube.com/watch?v=Q5CbhlulCNg)
+[![](https://img.youtube.com/vi/Q5CbhlulCNg/0.jpg)](https://www.youtube.com/watch?v=Q5CbhlulCNg)
 
-(Disc 2) (Special Disc):
+Friends: Seishun no Kagayaki (Japan) (Disc 2) (Special Disc):
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Friends: Seishun no Kagayaki (Japan) [Disc 2]](https://img.youtube.com/vi/bIMpM7XOb9M/0.jpg)](https://www.youtube.com/watch?v=bIMpM7XOb9M)
+[![](https://img.youtube.com/vi/bIMpM7XOb9M/0.jpg)](https://www.youtube.com/watch?v=bIMpM7XOb9M)

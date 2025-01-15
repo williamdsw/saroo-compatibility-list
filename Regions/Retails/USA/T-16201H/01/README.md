@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (R): Playable :white_check_mark:
-- (Disc 2): Untested :question:
+- Corpse Killer - Graveyard Edition (USA) (Disc 1) (R): Playable :white_check_mark:
+- Corpse Killer - Graveyard Edition (USA) (Disc 2): Untested :question:
 
 ### TODO
 
@@ -31,6 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1) (R):
+Corpse Killer - Graveyard Edition (USA) (Disc 1) (R):
 
 [![](https://img.youtube.com/vi/OnrBDV2zBwA/0.jpg)](https://www.youtube.com/watch?v=OnrBDV2zBwA)

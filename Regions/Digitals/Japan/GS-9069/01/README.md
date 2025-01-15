@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 6 Lau Chan (J)](https://img.youtube.com/vi/1ElVMqn7VCg/0.jpg)](https://www.youtube.com/watch?v=1ElVMqn7VCg)
+[![](https://img.youtube.com/vi/1ElVMqn7VCg/0.jpg)](https://www.youtube.com/watch?v=1ElVMqn7VCg)

@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- J.League Jikkyou Honoo no Striker (Japan): Playable :white_check_mark:
+- J.League Jikkyou Honoo no Striker (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -34,4 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - J.League Jikkyou Honoo no Striker (Japan)](https://img.youtube.com/vi/ylBqB-MXJqg/0.jpg)](https://www.youtube.com/watch?v=ylBqB-MXJqg)
+J.League Jikkyou Honoo no Striker (Japan):
+
+[![](https://img.youtube.com/vi/ylBqB-MXJqg/0.jpg)](https://www.youtube.com/watch?v=ylBqB-MXJqg)

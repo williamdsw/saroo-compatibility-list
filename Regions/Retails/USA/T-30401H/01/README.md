@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Three Dirty Dwarves (U) = Playable](https://img.youtube.com/vi/VTAlm2elKhY/0.jpg)](https://www.youtube.com/watch?v=VTAlm2elKhY)
+[![](https://img.youtube.com/vi/VTAlm2elKhY/0.jpg)](https://www.youtube.com/watch?v=VTAlm2elKhY)

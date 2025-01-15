@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Sega International Victory Goal (Europe)](https://img.youtube.com/vi/sZD1sqI0s50/0.jpg)](https://www.youtube.com/watch?v=sZD1sqI0s50)
+[![](https://img.youtube.com/vi/sZD1sqI0s50/0.jpg)](https://www.youtube.com/watch?v=sZD1sqI0s50)

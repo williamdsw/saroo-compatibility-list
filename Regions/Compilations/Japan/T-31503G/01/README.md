@@ -43,8 +43,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 (Disc 1) (Game Disc):
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Falcom Classics (Japan) [Disc 1]](https://img.youtube.com/vi/CCA4ObilR6M/0.jpg)](https://www.youtube.com/watch?v=CCA4ObilR6M)
+[![](https://img.youtube.com/vi/CCA4ObilR6M/0.jpg)](https://www.youtube.com/watch?v=CCA4ObilR6M)
 
 (Disc 2) (Special CD):
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Falcom Classics (Japan) [Disc 2]](https://img.youtube.com/vi/GmG1pAM4GCQ/0.jpg)](https://www.youtube.com/watch?v=GmG1pAM4GCQ)
+[![](https://img.youtube.com/vi/GmG1pAM4GCQ/0.jpg)](https://www.youtube.com/watch?v=GmG1pAM4GCQ)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - High Velocity: Mountain Racing Challenge (USA)](https://img.youtube.com/vi/gQuc51OW65Q/0.jpg)](https://www.youtube.com/watch?v=gQuc51OW65Q)
+[![](https://img.youtube.com/vi/gQuc51OW65Q/0.jpg)](https://www.youtube.com/watch?v=gQuc51OW65Q)

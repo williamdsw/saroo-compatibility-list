@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Ayrton Senna Personal Talk: Message for the future (Japan) = Playable](https://img.youtube.com/vi/YopbpxnM8ug/0.jpg)](https://www.youtube.com/watch?v=YopbpxnM8ug)
+[![](https://img.youtube.com/vi/YopbpxnM8ug/0.jpg)](https://www.youtube.com/watch?v=YopbpxnM8ug)

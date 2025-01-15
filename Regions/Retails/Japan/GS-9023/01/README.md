@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (3M) Untested :question:
-- (4M) Playable :white_check_mark:
+- X Japan - Virtual Shock 001 (Japan) (3M): Untested :question:
+- X Japan - Virtual Shock 001 (Japan) (4M): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - X Japan - Virtual Shock 001 (Japan) = Playable](https://img.youtube.com/vi/hk0yGuqSPlI/0.jpg)](https://www.youtube.com/watch?v=hk0yGuqSPlI)
+[![](https://img.youtube.com/vi/hk0yGuqSPlI/0.jpg)](https://www.youtube.com/watch?v=hk0yGuqSPlI)

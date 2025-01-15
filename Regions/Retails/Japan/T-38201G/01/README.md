@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Zanma Chouougi Valhollian (Japan) = Playable](https://img.youtube.com/vi/vwhDYipKgDs/0.jpg)](https://www.youtube.com/watch?v=vwhDYipKgDs)
+[![](https://img.youtube.com/vi/vwhDYipKgDs/0.jpg)](https://www.youtube.com/watch?v=vwhDYipKgDs)

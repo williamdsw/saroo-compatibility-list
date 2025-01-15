@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Collection (Europe)](https://img.youtube.com/vi/EwrnV5zYQDE/0.jpg)](https://www.youtube.com/watch?v=EwrnV5zYQDE)
+[![](https://img.youtube.com/vi/EwrnV5zYQDE/0.jpg)](https://www.youtube.com/watch?v=EwrnV5zYQDE)

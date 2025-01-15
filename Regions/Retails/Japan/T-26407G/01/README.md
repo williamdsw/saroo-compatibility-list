@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Rev A) (10M): Playable :white_check_mark:
-- (Rev A) (11): Untested :question:
+- Fully Cowled Mini Yonku Super Factory (Rev A) (10M): Playable :white_check_mark:
+- Fully Cowled Mini Yonku Super Factory (Rev A) (11): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Rev A) (10M):
+Fully Cowled Mini Yonku Super Factory (Rev A) (10M):
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Full Cowl Mini Yonku Super Factory (Japan)](https://img.youtube.com/vi/eopWzaZ0WaM/0.jpg)](https://www.youtube.com/watch?v=eopWzaZ0WaM)
+[![](https://img.youtube.com/vi/eopWzaZ0WaM/0.jpg)](https://www.youtube.com/watch?v=eopWzaZ0WaM)

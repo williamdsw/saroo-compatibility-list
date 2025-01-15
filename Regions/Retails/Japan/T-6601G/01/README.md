@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail) (1M): Playable :white_check_mark:
-- (Retail) (3M): Untested :question:
+- Puyo Puyo Tsuu (Japan) (1M): Playable :white_check_mark:
+- Puyo Puyo Tsuu (Japan) (3M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Retail) (1M):
+Puyo Puyo Tsuu (Japan) (1M):
 
 [![](https://img.youtube.com/vi/AywvwUWwsUI/0.jpg)](https://www.youtube.com/watch?v=AywvwUWwsUI)

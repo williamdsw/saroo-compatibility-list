@@ -29,4 +29,4 @@ Tested the first level. It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Doom (USA) = Playable](https://img.youtube.com/vi/ell_ywa93Ik/0.jpg)](https://www.youtube.com/watch?v=ell_ywa93Ik)
+[![](https://img.youtube.com/vi/ell_ywa93Ik/0.jpg)](https://www.youtube.com/watch?v=ell_ywa93Ik)

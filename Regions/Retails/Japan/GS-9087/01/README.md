@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Advanced World War: Sennen Teikoku no Koubou (Japan) = Playable](https://img.youtube.com/vi/n8bvQP8HbLg/0.jpg)](https://www.youtube.com/watch?v=n8bvQP8HbLg)
+[![](https://img.youtube.com/vi/n8bvQP8HbLg/0.jpg)](https://www.youtube.com/watch?v=n8bvQP8HbLg)

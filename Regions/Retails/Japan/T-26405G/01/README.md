@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Aquasphere) (4M): Playable :white_check_mark:
-- (Disc 2) (Landsphere) (3M): Untested :question:
+- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere) (4M): Playable :white_check_mark:
+- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere) (3M): Untested :question:
 
 ### Extra Info
 
@@ -31,10 +31,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Fully Test LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere) (4M)
-- Test LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere) (3M)
+- Fully Test LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere) (3M)
 
 ### Evidence
 
-(Disc 1) (Aquasphere) (4M):
+LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere) (4M):
 
-[![[Sample] SAROO 1.32 (240316) - Lifescape Seimei 40-okunen Harukana Tabi (Japan)](https://img.youtube.com/vi/KgsHa74CfmQ/0.jpg)](https://www.youtube.com/watch?v=KgsHa74CfmQ)
+[![](https://img.youtube.com/vi/KgsHa74CfmQ/0.jpg)](https://www.youtube.com/watch?v=KgsHa74CfmQ)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hudson Soft New Soft Line Up for Sega Saturn (Japan)](https://img.youtube.com/vi/K86W_MHgKEE/0.jpg)](https://www.youtube.com/watch?v=K86W_MHgKEE)
+[![](https://img.youtube.com/vi/K86W_MHgKEE/0.jpg)](https://www.youtube.com/watch?v=K86W_MHgKEE)

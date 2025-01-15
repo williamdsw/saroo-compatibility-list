@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc I):
+D (USA) (Disc I):
 
 - <b>Game Name:</b> D
 - <b>Product Number:</b> T-8106H
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc I) - Playable :white_check_mark:
-- (Disc II) - Untested :question:
+- D (USA) (Disc I) - Playable :white_check_mark:
+- D (USA) (Disc II) - Untested :question:
 
 ### Extra Info
 
@@ -37,6 +37,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc I):
+D (USA) (Disc I):
 
 [![](https://img.youtube.com/vi/n3Uhj8azNiI/0.jpg)](https://www.youtube.com/watch?v=n3Uhj8azNiI)

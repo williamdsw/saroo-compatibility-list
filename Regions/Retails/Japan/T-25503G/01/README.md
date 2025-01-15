@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231103) - Initial D (Japan) = Menus Only + No BGM + Freezes](https://img.youtube.com/vi/VCx9LTIXMPQ/0.jpg)](https://www.youtube.com/watch?v=VCx9LTIXMPQ)
+[![](https://img.youtube.com/vi/VCx9LTIXMPQ/0.jpg)](https://www.youtube.com/watch?v=VCx9LTIXMPQ)

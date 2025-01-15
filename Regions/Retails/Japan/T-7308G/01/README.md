@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Angel Graffiti S: Anata e no Profile (Japan) = Playable](https://img.youtube.com/vi/atLDMc0Lgp8/0.jpg)](https://www.youtube.com/watch?v=atLDMc0Lgp8)
+[![](https://img.youtube.com/vi/atLDMc0Lgp8/0.jpg)](https://www.youtube.com/watch?v=atLDMc0Lgp8)

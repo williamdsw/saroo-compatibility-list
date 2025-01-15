@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Robotica: Cybernation Revolt (USA) = Issues](https://img.youtube.com/vi/UW3M737vVqc/0.jpg)](https://www.youtube.com/watch?v=UW3M737vVqc)
+[![](https://img.youtube.com/vi/UW3M737vVqc/0.jpg)](https://www.youtube.com/watch?v=UW3M737vVqc)

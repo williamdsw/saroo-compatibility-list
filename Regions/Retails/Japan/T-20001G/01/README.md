@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX (Japan)](https://img.youtube.com/vi/AGw74phtpBU/0.jpg)](https://www.youtube.com/watch?v=AGw74phtpBU)
+[![](https://img.youtube.com/vi/AGw74phtpBU/0.jpg)](https://www.youtube.com/watch?v=AGw74phtpBU)

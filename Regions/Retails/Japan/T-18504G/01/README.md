@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Father Christmas (Japan)](https://img.youtube.com/vi/AzzQ_VElgzs/0.jpg)](https://www.youtube.com/watch?v=AzzQ_VElgzs)
+[![](https://img.youtube.com/vi/AzzQ_VElgzs/0.jpg)](https://www.youtube.com/watch?v=AzzQ_VElgzs)

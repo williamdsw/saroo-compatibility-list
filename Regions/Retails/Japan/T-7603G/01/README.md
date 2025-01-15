@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - EMIT Vol. 2: Inochigake no Tabi (Japan) = Issues](https://img.youtube.com/vi/Iq4OtA2xVow/0.jpg)](https://www.youtube.com/watch?v=Iq4OtA2xVow)
+[![](https://img.youtube.com/vi/Iq4OtA2xVow/0.jpg)](https://www.youtube.com/watch?v=Iq4OtA2xVow)

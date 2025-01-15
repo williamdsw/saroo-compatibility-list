@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - The King of Fighters '95 (E) = ROM Cartridge is required](https://img.youtube.com/vi/0_yfxhKhcx0/0.jpg)](https://www.youtube.com/watch?v=0_yfxhKhcx0)
+[![](https://img.youtube.com/vi/0_yfxhKhcx0/0.jpg)](https://www.youtube.com/watch?v=0_yfxhKhcx0)

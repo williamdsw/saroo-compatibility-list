@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jun Classic C.C. & Rope Club (Japan)](https://img.youtube.com/vi/420X15lc-W4/0.jpg)](https://www.youtube.com/watch?v=420X15lc-W4)
+[![](https://img.youtube.com/vi/420X15lc-W4/0.jpg)](https://www.youtube.com/watch?v=420X15lc-W4)

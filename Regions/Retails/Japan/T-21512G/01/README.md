@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Disc 1:
 
-[![[Sample] SAROO 1.32 (231125) - Ayakashi Ninden Kunoichiban Plus (Japan) = Playable](https://img.youtube.com/vi/qa1SBJzXC-k/0.jpg)](https://www.youtube.com/watch?v=qa1SBJzXC-k)
+[![](https://img.youtube.com/vi/qa1SBJzXC-k/0.jpg)](https://www.youtube.com/watch?v=qa1SBJzXC-k)

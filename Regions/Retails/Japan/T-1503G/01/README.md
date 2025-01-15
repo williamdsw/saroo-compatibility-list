@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- No Boot :finnadie:
-- Rev A: Untested :question:
+- Hissatsu Pachinko Collection (Japan): No Boot :finnadie:
+- Hissatsu Pachinko Collection (Japan) (Rev A): Untested :question:
 
 ### Problems
 
@@ -30,4 +30,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hissatsu Pachinko Collection (Japan) = Won't boot](https://img.youtube.com/vi/ZtcxHes5EIo/0.jpg)](https://www.youtube.com/watch?v=ZtcxHes5EIo)
+Hissatsu Pachinko Collection (Japan):
+
+[![](https://img.youtube.com/vi/ZtcxHes5EIo/0.jpg)](https://www.youtube.com/watch?v=ZtcxHes5EIo)

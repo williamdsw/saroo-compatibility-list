@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Christmas NiGHTS into Dreams (USA) = Playable](https://img.youtube.com/vi/CnsdzXUd1R4/0.jpg)](https://www.youtube.com/watch?v=CnsdzXUd1R4)
+[![](https://img.youtube.com/vi/CnsdzXUd1R4/0.jpg)](https://www.youtube.com/watch?v=CnsdzXUd1R4)

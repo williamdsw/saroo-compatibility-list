@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (GDI Disc): Playable :white_check_mark:
-- (Disc 2) (NOD Disc): Untested :question:
+- Command & Conquer (USA) (Disc 1) (GDI Disc): Playable :white_check_mark:
+- Command & Conquer (USA) (Disc 2) (NOD Disc): Untested :question:
 
 ### Extra Info
 
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1) (GDI Disc):
+Command & Conquer (USA) (Disc 1) (GDI Disc):
 
 [![](https://img.youtube.com/vi/NGPEsc2oIic/0.jpg)](https://www.youtube.com/watch?v=NGPEsc2oIic)

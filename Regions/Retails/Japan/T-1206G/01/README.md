@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Untested :question:
-- (2M): Untested :question:
-- (Rev A) (10M): Playable :white_check_mark:
+- Street Fighter Zero (Japan) (1M): Untested :question:
+- Street Fighter Zero (Japan) (2M): Untested :question:
+- Street Fighter Zero (Japan) (Rev A) (10M): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -38,6 +38,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Rev A) (10M):
+Street Fighter Zero (Japan) (Rev A) (10M):
 
-[![[Complete] SAROO 1.32 (231125) - Street Fighter Zero (J)](https://img.youtube.com/vi/-Lj6OzJ24Ic/0.jpg)](https://www.youtube.com/watch?v=-Lj6OzJ24Ic)
+[![](https://img.youtube.com/vi/-Lj6OzJ24Ic/0.jpg)](https://www.youtube.com/watch?v=-Lj6OzJ24Ic)

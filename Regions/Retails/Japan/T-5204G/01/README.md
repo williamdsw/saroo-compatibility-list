@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Eiyuu Shigan: Gal ACT Heroism (Japan)](https://img.youtube.com/vi/o_B2zI3_PWU/0.jpg)](https://www.youtube.com/watch?v=o_B2zI3_PWU)
+[![](https://img.youtube.com/vi/o_B2zI3_PWU/0.jpg)](https://www.youtube.com/watch?v=o_B2zI3_PWU)

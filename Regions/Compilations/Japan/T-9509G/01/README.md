@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Gradius Deluxe Pack (J) = Issues](https://img.youtube.com/vi/-Z1KiN_29gk/0.jpg)](https://www.youtube.com/watch?v=-Z1KiN_29gk)
+[![](https://img.youtube.com/vi/-Z1KiN_29gk/0.jpg)](https://www.youtube.com/watch?v=-Z1KiN_29gk)

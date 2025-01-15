@@ -36,4 +36,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 (1M):
 
-[![[Sample] SAROO 1.32 (240118) - Sega Saturn-you Word Processor Set (EGWORD) (Japan) = Playable](https://img.youtube.com/vi/p8m_F8HXXjc/0.jpg)](https://www.youtube.com/watch?v=p8m_F8HXXjc)
+[![](https://img.youtube.com/vi/p8m_F8HXXjc/0.jpg)](https://www.youtube.com/watch?v=p8m_F8HXXjc)

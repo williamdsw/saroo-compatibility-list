@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Alone in the Dark: One-Eyed Jack's Revenge (USA) = Playable](https://img.youtube.com/vi/PzEeAcYo_84/0.jpg)](https://www.youtube.com/watch?v=PzEeAcYo_84)
+[![](https://img.youtube.com/vi/PzEeAcYo_84/0.jpg)](https://www.youtube.com/watch?v=PzEeAcYo_84)

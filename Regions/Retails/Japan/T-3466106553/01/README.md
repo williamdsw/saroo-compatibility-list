@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jantei Battle Cos-Player Original Genga-shuu (Japan)](https://img.youtube.com/vi/csz2sDHdazY/0.jpg)](https://www.youtube.com/watch?v=csz2sDHdazY)
+[![](https://img.youtube.com/vi/csz2sDHdazY/0.jpg)](https://www.youtube.com/watch?v=csz2sDHdazY)

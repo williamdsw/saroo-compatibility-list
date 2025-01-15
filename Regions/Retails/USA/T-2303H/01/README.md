@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Valora Valley Golf (USA)](https://img.youtube.com/vi/CzRrop58z6Q/0.jpg)](https://www.youtube.com/watch?v=CzRrop58z6Q)
+[![](https://img.youtube.com/vi/CzRrop58z6Q/0.jpg)](https://www.youtube.com/watch?v=CzRrop58z6Q)

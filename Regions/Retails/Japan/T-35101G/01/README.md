@@ -21,14 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail): Playable :white_check_mark:
+- Playable :white_check_mark:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
 ### Evidence
-
-(Retail):
 
 [![](https://img.youtube.com/vi/aHOC1-S12jc/0.jpg)](https://www.youtube.com/watch?v=aHOC1-S12jc)

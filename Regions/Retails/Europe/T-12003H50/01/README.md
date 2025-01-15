@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jonah Lomu Rugby (Europe)](https://img.youtube.com/vi/ruZZO4VdS9Q/0.jpg)](https://www.youtube.com/watch?v=ruZZO4VdS9Q)
+[![](https://img.youtube.com/vi/ruZZO4VdS9Q/0.jpg)](https://www.youtube.com/watch?v=ruZZO4VdS9Q)

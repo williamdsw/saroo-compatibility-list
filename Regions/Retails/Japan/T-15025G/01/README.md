@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Ryuuteki Gosennen: Dragons of China (Japan)](https://img.youtube.com/vi/WiviiYDTovQ/0.jpg)](https://www.youtube.com/watch?v=WiviiYDTovQ)
+[![](https://img.youtube.com/vi/WiviiYDTovQ/0.jpg)](https://www.youtube.com/watch?v=WiviiYDTovQ)

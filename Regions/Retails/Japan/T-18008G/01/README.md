@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jungle Park: Saturn Jima (Japan)](https://img.youtube.com/vi/CE8xeULcIug/0.jpg)](https://www.youtube.com/watch?v=CE8xeULcIug)
+[![](https://img.youtube.com/vi/CE8xeULcIug/0.jpg)](https://www.youtube.com/watch?v=CE8xeULcIug)

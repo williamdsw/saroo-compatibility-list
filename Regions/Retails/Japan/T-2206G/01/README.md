@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316*) - Virtual Mahjong (Japan)](https://img.youtube.com/vi/-FFZgGx9zEc/0.jpg)](https://www.youtube.com/watch?v=-FFZgGx9zEc)
+[![](https://img.youtube.com/vi/-FFZgGx9zEc/0.jpg)](https://www.youtube.com/watch?v=-FFZgGx9zEc)

@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Astra Superstars (Japan) = Playable](https://img.youtube.com/vi/JJvBVyvsWy0/0.jpg)](https://www.youtube.com/watch?v=JJvBVyvsWy0)
+[![](https://img.youtube.com/vi/JJvBVyvsWy0/0.jpg)](https://www.youtube.com/watch?v=JJvBVyvsWy0)

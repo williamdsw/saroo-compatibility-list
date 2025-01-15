@@ -44,4 +44,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 (1M):
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 1 Sarah Bryant (J) = Fixed?](https://img.youtube.com/vi/DA34s8--jDI/0.jpg)](https://www.youtube.com/watch?v=DA34s8--jDI)
+[![](https://img.youtube.com/vi/DA34s8--jDI/0.jpg)](https://www.youtube.com/watch?v=DA34s8--jDI)

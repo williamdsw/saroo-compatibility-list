@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hideo Nomo World Series Baseball (Japan)](https://img.youtube.com/vi/MZF_OP-ZFHQ/0.jpg)](https://www.youtube.com/watch?v=MZF_OP-ZFHQ)
+[![](https://img.youtube.com/vi/MZF_OP-ZFHQ/0.jpg)](https://www.youtube.com/watch?v=MZF_OP-ZFHQ)

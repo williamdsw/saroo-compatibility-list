@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- (2M): Untested :question:
+- Yuukyuu Gensoukyoku 2nd Album (Japan): Playable :white_check_mark:
+- Yuukyuu Gensoukyoku 2nd Album (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -34,4 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Yuukyuu Gensoukyoku 2nd Album (Japan) = Playable](https://img.youtube.com/vi/2gQTPdYyEN4/0.jpg)](https://www.youtube.com/watch?v=2gQTPdYyEN4)
+Yuukyuu Gensoukyoku 2nd Album (Japan):
+
+[![](https://img.youtube.com/vi/2gQTPdYyEN4/0.jpg)](https://www.youtube.com/watch?v=2gQTPdYyEN4)

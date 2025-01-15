@@ -36,4 +36,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 (2M):
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 4 Pai Chan (J)](https://img.youtube.com/vi/ASzXy2Isdx0/0.jpg)](https://www.youtube.com/watch?v=ASzXy2Isdx0)
+[![](https://img.youtube.com/vi/ASzXy2Isdx0/0.jpg)](https://www.youtube.com/watch?v=ASzXy2Isdx0)

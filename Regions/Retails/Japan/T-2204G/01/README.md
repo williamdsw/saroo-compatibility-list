@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2) (Omake Disk): Playable :white_check_mark:
+- Mahjong Kyou Jidai: Cebu Island '96 (Japan) (Disc 1): Playable :white_check_mark:
+- Mahjong Kyou Jidai: Cebu Island '96 (Japan) (Disc 2) (Omake Disk): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -30,10 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1):
+Mahjong Kyou Jidai: Cebu Island '96 (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/qtb_eNJ8lYk/0.jpg)](https://www.youtube.com/watch?v=qtb_eNJ8lYk)
 
-(Disc 2) (Omake Disk):
+Mahjong Kyou Jidai: Cebu Island '96 (Japan) (Disc 2) (Omake Disk):
 
 [![](https://img.youtube.com/vi/RqV03t1GGcc/0.jpg)](https://www.youtube.com/watch?v=RqV03t1GGcc)

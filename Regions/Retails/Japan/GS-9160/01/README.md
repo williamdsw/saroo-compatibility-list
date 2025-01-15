@@ -32,7 +32,7 @@ Sakura Taisen Jouki Radio Show (Japan) (Disc 2) (Kayou-ban):
 ### Status
 
 - Sakura Taisen Jouki Radio Show (Japan) (Disc 1) (Yuugi-ban): Playable :white_check_mark:
-- Sakura Taisen Jouki Radio Show (Japan) (Disc 2) (Kayou-ban): Untested :question:
+- Sakura Taisen Jouki Radio Show (Japan) (Disc 2) (Kayou-ban): Playable :white_check_mark:
 
 ### Extra Info
 

@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail) (1M): Playable :white_check_mark:
-- (Retail) (2M): Playable :white_check_mark:
+- Mahou Gakuen Lunar! (Japan) (1M): Playable :white_check_mark:
+- Mahou Gakuen Lunar! (Japan) (2M): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Retail) (1M):
+Mahou Gakuen Lunar! (Japan) (1M):
 
 [![](https://img.youtube.com/vi/sT0d2l2K2mM/0.jpg)](https://www.youtube.com/watch?v=sT0d2l2K2mM)

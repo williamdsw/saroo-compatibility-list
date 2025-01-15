@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kakinoki Shougi (J)](https://img.youtube.com/vi/BVeruDTU5IM/0.jpg)](https://www.youtube.com/watch?v=BVeruDTU5IM)
+[![](https://img.youtube.com/vi/BVeruDTU5IM/0.jpg)](https://www.youtube.com/watch?v=BVeruDTU5IM)

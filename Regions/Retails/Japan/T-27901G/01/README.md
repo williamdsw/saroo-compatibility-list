@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- (Rev A): Untested :question:
+- Lunar - Silver Star Story (Japan): Playable :white_check_mark:
+- Lunar - Silver Star Story (Japan) (Rev A): Untested :question:
 
 ### Extra Info
 
@@ -34,4 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Lunar Silver Star Story (Japan)](https://img.youtube.com/vi/ZVvscK5ylLM/0.jpg)](https://www.youtube.com/watch?v=ZVvscK5ylLM)
+- Lunar - Silver Star Story (Japan):
+
+[![](https://img.youtube.com/vi/ZVvscK5ylLM/0.jpg)](https://www.youtube.com/watch?v=ZVvscK5ylLM)

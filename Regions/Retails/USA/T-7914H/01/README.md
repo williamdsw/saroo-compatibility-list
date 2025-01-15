@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Machine Head (USA) = Playable](https://img.youtube.com/vi/NFp0JAK64jg/0.jpg)](https://www.youtube.com/watch?v=NFp0JAK64jg)
+[![](https://img.youtube.com/vi/NFp0JAK64jg/0.jpg)](https://www.youtube.com/watch?v=NFp0JAK64jg)

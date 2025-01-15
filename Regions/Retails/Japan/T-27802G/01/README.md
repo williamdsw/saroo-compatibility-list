@@ -21,7 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Eternal Melody (Japan): Playable :white_check_mark:
+- Eternal Melody (Japan) (Rev A): Untested :question:
 
 ### Extra Info
 
@@ -33,4 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Eternal Melody (Japan)](https://img.youtube.com/vi/DZ6MjaSZPRA/0.jpg)](https://www.youtube.com/watch?v=DZ6MjaSZPRA)
+Eternal Melody (Japan):
+
+[![](https://img.youtube.com/vi/DZ6MjaSZPRA/0.jpg)](https://www.youtube.com/watch?v=DZ6MjaSZPRA)

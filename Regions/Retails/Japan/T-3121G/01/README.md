@@ -29,4 +29,4 @@ It needs tests with others caracters, and others modes (vs, etc).
 
 ### Evidence
 
-[![The King of Fighters '97 (Japan)](https://img.youtube.com/vi/jpQxw7VGcC4/0.jpg)](https://www.youtube.com/watch?v=jpQxw7VGcC4)
+[![](https://img.youtube.com/vi/jpQxw7VGcC4/0.jpg)](https://www.youtube.com/watch?v=jpQxw7VGcC4)

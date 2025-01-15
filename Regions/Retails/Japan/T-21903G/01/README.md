@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Album Club: Mune Kyun Saint Paulia Jogakuin (Japan) = Playable](https://img.youtube.com/vi/v5PKON9_itw/0.jpg)](https://www.youtube.com/watch?v=v5PKON9_itw)
+[![](https://img.youtube.com/vi/v5PKON9_itw/0.jpg)](https://www.youtube.com/watch?v=v5PKON9_itw)

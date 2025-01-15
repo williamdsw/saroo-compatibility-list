@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Angelique Special 2 (Japan) = Playable](https://img.youtube.com/vi/fWoGHgYZ-1A/0.jpg)](https://www.youtube.com/watch?v=fWoGHgYZ-1A)
+[![](https://img.youtube.com/vi/fWoGHgYZ-1A/0.jpg)](https://www.youtube.com/watch?v=fWoGHgYZ-1A)

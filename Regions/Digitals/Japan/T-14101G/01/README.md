@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Kamen Rider: Sakusen File 1 (J) = Playable](https://img.youtube.com/vi/23Qpt_Me2ig/0.jpg)](https://www.youtube.com/watch?v=23Qpt_Me2ig)
+[![](https://img.youtube.com/vi/23Qpt_Me2ig/0.jpg)](https://www.youtube.com/watch?v=23Qpt_Me2ig)

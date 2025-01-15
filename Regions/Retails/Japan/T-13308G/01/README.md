@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Ultraman: Hikari no Kyojin Densetsu (Japan) = Unplayable](https://img.youtube.com/vi/F_Bb8c6Kxu4/0.jpg)](https://www.youtube.com/watch?v=F_Bb8c6Kxu4)
+[![](https://img.youtube.com/vi/F_Bb8c6Kxu4/0.jpg)](https://www.youtube.com/watch?v=F_Bb8c6Kxu4)

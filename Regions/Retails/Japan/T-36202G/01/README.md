@@ -29,4 +29,4 @@ It needs a full gameplay tests.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Universal Nuts (Japan) = Playable](https://img.youtube.com/vi/pHXMNLi_b7Y/0.jpg)](https://www.youtube.com/watch?v=pHXMNLi_b7Y)
+[![](https://img.youtube.com/vi/pHXMNLi_b7Y/0.jpg)](https://www.youtube.com/watch?v=pHXMNLi_b7Y)

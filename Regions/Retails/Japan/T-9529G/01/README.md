@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (2M): Playable :white_check_mark:
-- (Disc 2) (2M): Untested :question:
+- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 1) (2M): Playable :white_check_mark:
+- Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 2) (2M): Untested :question:
 
 ### Extra Info
 
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1) (2M):
+Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 1) (2M):
 
 [![](https://img.youtube.com/vi/37HoCOEMgqY/0.jpg)](https://www.youtube.com/watch?v=37HoCOEMgqY)

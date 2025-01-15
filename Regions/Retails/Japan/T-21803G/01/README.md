@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kurubushi Kyoudai Gekijou Daiikkan Mahjong Hen (J)](https://img.youtube.com/vi/TcOf_5BczhM/0.jpg)](https://www.youtube.com/watch?v=TcOf_5BczhM)
+[![](https://img.youtube.com/vi/TcOf_5BczhM/0.jpg)](https://www.youtube.com/watch?v=TcOf_5BczhM)

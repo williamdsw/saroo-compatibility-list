@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240518 Firmware Test) - Virtua Fighter Kids (USA)](https://img.youtube.com/vi/Z3if4Bss-vI/0.jpg)](https://www.youtube.com/watch?v=Z3if4Bss-vI)
+[![](https://img.youtube.com/vi/Z3if4Bss-vI/0.jpg)](https://www.youtube.com/watch?v=Z3if4Bss-vI)

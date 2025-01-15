@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Habitat II (Japan) = Modem is required](https://img.youtube.com/vi/QwYY6QbIzrw/0.jpg)](https://www.youtube.com/watch?v=QwYY6QbIzrw)
+[![ = Modem is required](https://img.youtube.com/vi/QwYY6QbIzrw/0.jpg)](https://www.youtube.com/watch?v=QwYY6QbIzrw)

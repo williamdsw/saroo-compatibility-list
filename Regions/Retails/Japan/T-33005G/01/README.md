@@ -41,4 +41,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Disc 1 (Shougakusei Jidai):
 
-[![[Sample] SAROO 1.32 (231125) - Zoku Hatsukoi Monogatari: Shuugakuryokou (Japan) = Playable](https://img.youtube.com/vi/jdDUWtpVHSA/0.jpg)](https://www.youtube.com/watch?v=jdDUWtpVHSA)
+[![](https://img.youtube.com/vi/jdDUWtpVHSA/0.jpg)](https://www.youtube.com/watch?v=jdDUWtpVHSA)

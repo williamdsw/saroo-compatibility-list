@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Fixed with configuration :hammer_and_wrench:
-- (Disc 2): Untested :question:
+- Shinseiki Evangelion: Koutetsu no Girlfriend (Japan) (Disc 1): Fixed with configuration :hammer_and_wrench:
+- Shinseiki Evangelion: Koutetsu no Girlfriend (Japan) (Disc 2): Untested :question:
 
 ### Problems without configuration
 
@@ -40,6 +40,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1):
+Shinseiki Evangelion: Koutetsu no Girlfriend (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/xLka8LG2mEo/0.jpg)](https://www.youtube.com/watch?v=xLka8LG2mEo)

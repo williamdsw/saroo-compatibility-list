@@ -21,20 +21,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
-
-### Extra Info
-
-- (Retail) (2M): Playable :white_check_mark:
-- (Retail) (Rev A) (10M): Untested :question:
+- Mahjong Taikai II Special (Japan) (2M): Playable :white_check_mark:
+- Mahjong Taikai II Special (Japan) (Rev A) (10M): Untested :question:
 
 ### TODO
 
-- Test Mahjong Taikai II Special (Japan) (2M)
 - Test Mahjong Taikai II Special (Japan) (Rev A) (10M)
 
 ### Evidence
 
-(Retail) (2M):
+Mahjong Taikai II Special (Japan) (2M):
 
 [![](https://img.youtube.com/vi/e61a7fyVw0Q/0.jpg)](https://www.youtube.com/watch?v=e61a7fyVw0Q)

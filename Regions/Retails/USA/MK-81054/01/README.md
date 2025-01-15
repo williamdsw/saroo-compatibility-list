@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316) - Battle Arena Toshinden URA (USA)](https://img.youtube.com/vi/wG_uJ9ltENI/0.jpg)](https://www.youtube.com/watch?v=wG_uJ9ltENI)
+[![](https://img.youtube.com/vi/wG_uJ9ltENI/0.jpg)](https://www.youtube.com/watch?v=wG_uJ9ltENI)

@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail): Issues :warning:
+- Issues :warning:
 
 ### Problems
 
@@ -29,7 +29,5 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Graphic glitches on 3MB mode off.
 
 ### Evidence
-
-(Retail):
 
 [![](https://img.youtube.com/vi/6amFw2VzGCk/0.jpg)](https://www.youtube.com/watch?v=6amFw2VzGCk)

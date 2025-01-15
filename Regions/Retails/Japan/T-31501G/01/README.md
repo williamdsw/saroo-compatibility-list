@@ -21,15 +21,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Rev A): Playable :white_check_mark:
+- Vatlva (Japan) (Rev A): Playable :white_check_mark:
 
 ### Extra Info
 
-- (Rev A): Fully tested with `Jin & Go`
+- Vatlva (Japan) (Rev A): Fully tested with `Jin & Go`
 - It does need a full gameplay test with other characters and modes
 
 ### Evidence
 
-(Rev A):
+Vatlva (Japan) (Rev A):
 
 [![](https://img.youtube.com/vi/CJceGPba2Og/0.jpg)](https://www.youtube.com/watch?v=CJceGPba2Og)

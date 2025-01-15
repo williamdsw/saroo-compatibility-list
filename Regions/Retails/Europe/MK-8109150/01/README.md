@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Disc 1:
 
-[![[Sample] SAROO 1.32 (231125) - Atlantis: The Lost Tales (Europe) = Playable](https://img.youtube.com/vi/2HUS93HTFDk/0.jpg)](https://www.youtube.com/watch?v=2HUS93HTFDk)
+[![](https://img.youtube.com/vi/2HUS93HTFDk/0.jpg)](https://www.youtube.com/watch?v=2HUS93HTFDk)

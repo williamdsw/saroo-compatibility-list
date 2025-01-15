@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Rev A) (10M, 12M): Issues :warning:
-- (Rev A) (11M): Untested :question:
+- Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M): Issues :warning:
+- Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (11M): Untested :question:
 
 ### Problems
 
@@ -39,6 +39,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Rev A) (10M, 12M):
+Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M):
 
 [![](https://img.youtube.com/vi/GrLqtFjVU7k/0.jpg)](https://www.youtube.com/watch?v=GrLqtFjVU7k)

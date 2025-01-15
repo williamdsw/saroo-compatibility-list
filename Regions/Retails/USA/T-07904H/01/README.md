@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Olympic Soccer (USA) = Playable](https://img.youtube.com/vi/Ng_stTecmtk/0.jpg)](https://www.youtube.com/watch?v=Ng_stTecmtk)
+[![](https://img.youtube.com/vi/Ng_stTecmtk/0.jpg)](https://www.youtube.com/watch?v=Ng_stTecmtk)

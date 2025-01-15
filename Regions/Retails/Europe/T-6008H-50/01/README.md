@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Keio Flying Squadron 2 (E)](https://img.youtube.com/vi/m6o-YhEuxGg/0.jpg)](https://www.youtube.com/watch?v=m6o-YhEuxGg)
+[![](https://img.youtube.com/vi/m6o-YhEuxGg/0.jpg)](https://www.youtube.com/watch?v=m6o-YhEuxGg)

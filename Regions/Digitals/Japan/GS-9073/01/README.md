@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series The Final Dural (Japan)](https://img.youtube.com/vi/xmb4t9Ra21A/0.jpg)](https://www.youtube.com/watch?v=xmb4t9Ra21A)
+[![](https://img.youtube.com/vi/xmb4t9Ra21A/0.jpg)](https://www.youtube.com/watch?v=xmb4t9Ra21A)

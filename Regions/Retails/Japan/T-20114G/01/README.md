@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1) (Game Disc):
+Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc):
 
 - <b>Game Name:</b> WELCOME TO PIA CARROT 2
 - <b>Product Number:</b> T-20114G
@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> JW
 
-(Disc 2) (Special Disc):
+Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc):
 
 - <b>Game Name:</b> WELCOME TO PIA CARROT 2
 - <b>Product Number:</b> T-20114G
@@ -31,11 +31,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Disc) (2M) Fixed with configuration :hammer_and_wrench:
-- (Disc 1) (Game Disc) (3M) Untested :question:
-- (Disc 1) (Game Disc) (4M) Untested :question:
-- (Disc 2) (Special Disc) (1M): Playable :white_check_mark:
-- (Disc 2) (Special Disc) (2M): Untested :question:
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M) Fixed with configuration :hammer_and_wrench:
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (3M) Untested :question:
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (4M) Untested :question:
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (1M): Playable :white_check_mark:
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (2M): Untested :question:
 
 ### Problems without configuration
 
@@ -57,10 +57,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1) (Game Disc) (2M):
+Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M):
 
 [![](https://img.youtube.com/vi/fYEm7gOIvNc/0.jpg)](https://www.youtube.com/watch?v=fYEm7gOIvNc)
 
-(Disc 2) (Special Disc) (1M):
+Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (1M):
 
 [![](https://img.youtube.com/vi/EWZdaqcutXM/0.jpg)](https://www.youtube.com/watch?v=EWZdaqcutXM)

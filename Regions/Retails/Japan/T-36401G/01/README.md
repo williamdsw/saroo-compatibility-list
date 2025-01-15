@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1):
+Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1):
 
 - <b>Game Name:</b> KUROSU TANTEI MONOGATARI
 - <b>Product Number:</b> T-36401G
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2): Untested :question:
+- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1): Playable :white_check_mark:
+- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -37,6 +37,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1):
+Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/aU4MyQlA2ag/0.jpg)](https://www.youtube.com/watch?v=aU4MyQlA2ag)

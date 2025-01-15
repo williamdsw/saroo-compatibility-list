@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Fantastep (Japan)](https://img.youtube.com/vi/xZxeNybleKI/0.jpg)](https://www.youtube.com/watch?v=xZxeNybleKI)
+[![](https://img.youtube.com/vi/xZxeNybleKI/0.jpg)](https://www.youtube.com/watch?v=xZxeNybleKI)

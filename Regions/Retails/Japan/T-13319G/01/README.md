@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race!](https://img.youtube.com/vi/a94sSCmlPN0/0.jpg)](https://www.youtube.com/watch?v=a94sSCmlPN0)
+[![](https://img.youtube.com/vi/a94sSCmlPN0/0.jpg)](https://www.youtube.com/watch?v=a94sSCmlPN0)

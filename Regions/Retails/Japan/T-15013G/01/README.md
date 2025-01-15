@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - 3D Lemmings (Japan)](https://img.youtube.com/vi/Lu8cXlByvhg/0.jpg)](https://www.youtube.com/watch?v=Lu8cXlByvhg)
+[![](https://img.youtube.com/vi/Lu8cXlByvhg/0.jpg)](https://www.youtube.com/watch?v=Lu8cXlByvhg)

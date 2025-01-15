@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231111) - Isto é Zico: Zico no Kangaeru Soccer (Japan) = Crashes](https://img.youtube.com/vi/UYddqwXNSHg/0.jpg)](https://www.youtube.com/watch?v=UYddqwXNSHg)
+[![](https://img.youtube.com/vi/UYddqwXNSHg/0.jpg)](https://www.youtube.com/watch?v=UYddqwXNSHg)

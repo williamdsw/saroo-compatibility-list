@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Elf o Karu Monotachi: Hanafuda Hen (Japan)](https://img.youtube.com/vi/Gz09Z4_EwAg/0.jpg)](https://www.youtube.com/watch?v=Gz09Z4_EwAg)
+[![](https://img.youtube.com/vi/Gz09Z4_EwAg/0.jpg)](https://www.youtube.com/watch?v=Gz09Z4_EwAg)

@@ -21,10 +21,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
-- Disc 3: Untested :question:
-- Disc 4: Untested :question:
+- Riven - A Sequência de Myst (Brazil) (Disc 1): Playable :white_check_mark:
+- Riven - A Sequência de Myst (Brazil) (Disc 2): Untested :question:
+- Riven - A Sequência de Myst (Brazil) (Disc 3): Untested :question:
+- Riven - A Sequência de Myst (Brazil) (Disc 4): Untested :question:
 
 ### Extra Info
 
@@ -32,13 +32,13 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Full test Disc 1
-- Full test Disc 2
-- Full test Disc 3
-- Test Disc 4
+- Full test Riven - A Sequência de Myst (Brazil) (Disc 1)
+- Full test Riven - A Sequência de Myst (Brazil) (Disc 2)
+- Full test Riven - A Sequência de Myst (Brazil) (Disc 3)
+- Full test Riven - A Sequência de Myst (Brazil) (Disc 4)
 
 ### Evidence
 
-Disc 1:
+Riven - A Sequência de Myst (Brazil) (Disc 1):
 
 [![](https://img.youtube.com/vi/N2iEU72T_9M/0.jpg)](https://www.youtube.com/watch?v=N2iEU72T_9M)

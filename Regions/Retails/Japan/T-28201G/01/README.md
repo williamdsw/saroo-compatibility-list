@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kaitou Saint Tail (J) = Fixed?](https://img.youtube.com/vi/ScU_6YyNzKU/0.jpg)](https://www.youtube.com/watch?v=ScU_6YyNzKU)
+[![](https://img.youtube.com/vi/ScU_6YyNzKU/0.jpg)](https://www.youtube.com/watch?v=ScU_6YyNzKU)

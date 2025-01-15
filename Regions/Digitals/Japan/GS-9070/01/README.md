@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 7 Shun Di (J)](https://img.youtube.com/vi/-u0caAfOQ-k/0.jpg)](https://www.youtube.com/watch?v=-u0caAfOQ-k)
+[![](https://img.youtube.com/vi/-u0caAfOQ-k/0.jpg)](https://www.youtube.com/watch?v=-u0caAfOQ-k)

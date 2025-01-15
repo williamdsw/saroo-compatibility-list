@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Batman Forever: The Arcade Game (USA) = Fixed ?](https://img.youtube.com/vi/er04oyAxO3M/0.jpg)](https://www.youtube.com/watch?v=er04oyAxO3M)
+[![](https://img.youtube.com/vi/er04oyAxO3M/0.jpg)](https://www.youtube.com/watch?v=er04oyAxO3M)

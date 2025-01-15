@@ -2,47 +2,47 @@
 
 ## S
 
-#### 260 Jogos (155 Testados - 13 a serem testados- 92 TODO)
+#### 257 Jogos (152 Testados - a serem testados - 92 TODO)
 
-- [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md)
-- [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md)
-- [Sakura Taisen (Japan)](../../../Regions/Retails/Japan/GS-9037/01/README.md)
-- [Hanagumi Taisen Columns (Japan)](../../../Regions/Retails/Japan/GS-9138/01/README.md)
-- [Sakura Taisen Hanagumi Tsuushin (Japan)](../../../Regions/Retails/Japan/GS-9134/01/README.md)
-- [Sakura Taisen Jouki Radio Show (Japan)](../../../Regions/Retails/Japan/GS-9160/01/README.md)
+- [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
+- [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
+- [Sakura Taisen (Japan)](../../../Regions/Retails/Japan/GS-9037/01/README.md) - :question:
+- [Hanagumi Taisen Columns (Japan)](../../../Regions/Retails/Japan/GS-9138/01/README.md) - :white_check_mark:
+- [Sakura Taisen Hanagumi Tsuushin (Japan)](../../../Regions/Retails/Japan/GS-9134/01/README.md) - :white_check_mark:
+- [Sakura Taisen Jouki Radio Show (Japan)](../../../Regions/Retails/Japan/GS-9160/01/README.md) - :white_check_mark:
 - [Sakura Taisen Teigeki Graph (Japan)](../../../Regions/Retails/Japan/T-32602G/01/README.md) - TODO
-- [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../../Regions/Retails/Japan/GS-9169/01/README.md)
+- [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../../Regions/Retails/Japan/GS-9169/01/README.md) - :warning: & :question:
 - [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../../Regions/Retails/Japan/SKR-00468/01/README.md) - TODO
-- [Sakura Tsuushin (Japan)](../../../Regions/Retails/Japan/T-38401G/01/README.md)
-- [Samurai Spirits - Amakusa Kourin (Japan)](../../../Regions/Retails/Japan/T-3116G/01/README.md)
-- [Samurai Spirits - Zankurou Musouken (Japan)](../../../Regions/Retails/Japan/T-3104G/01/README.md)
-- [Sangokushi Eiketsuden (Japan)](../../../Regions/Retails/Japan/T-7613G/01/README.md)
-- [Sangokushi Koumeiden (Japan)](../../../Regions/Retails/Japan/T-7629G/01/README.md)
-- [Sangokushi Returns (Japan)](../../../Regions/Retails/Japan/T-7617G/01/README.md)
-- [Sangokushi IV (Japan)](../../../Regions/Retails/Japan/T-7601G/01/README.md)
+- [Sakura Tsuushin (Japan)](../../../Regions/Retails/Japan/T-38401G/01/README.md) - :white_check_mark:
+- [Samurai Spirits - Amakusa Kourin (Japan)](../../../Regions/Retails/Japan/T-3116G/01/README.md) - :white_check_mark:
+- [Samurai Spirits - Zankurou Musouken (Japan)](../../../Regions/Retails/Japan/T-3104G/01/README.md) - :white_check_mark:
+- [Sangokushi Eiketsuden (Japan)](../../../Regions/Retails/Japan/T-7613G/01/README.md) - :white_check_mark:
+- [Sangokushi Koumeiden (Japan)](../../../Regions/Retails/Japan/T-7629G/01/README.md) - :white_check_mark:
+- [Sangokushi Returns (Japan)](../../../Regions/Retails/Japan/T-7617G/01/README.md) - :white_check_mark:
+- [Sangokushi IV (Japan)](../../../Regions/Retails/Japan/T-7601G/01/README.md) - :white_check_mark:
 - Sangokushi IV with Power-Up Kit (Japan) - TODO
 - Sangokushi V (Japan) - TODO
 - Sangokushi V (Japan) (Rev A) - TODO
 - [Sānguózhì IV (Taiwan)](../../../Regions/Retails/Taiwan/T-7601H-40/01/README.md) - TODO
-- [Sānguózhì V (Taiwan)](../../../Regions/Retails/Taiwan/T-7606H-16/01/README.md)
+- [Sānguózhì V (Taiwan)](../../../Regions/Retails/Taiwan/T-7606H-16/01/README.md) - :white_check_mark:
 - [Sānguózhì Yīngjiéchuán (Taiwan)](../../../Regions/Retails/Taiwan/T-7603H-16/01/README.md) - TODO
-- [Sankyo Fever Jikki Simulation S (Japan)](../../../Regions/Retails/Japan/T-32102G/01/README.md)
-- [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-32103G/01/README.md)
-- [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../../Regions/Retails/Japan/T-32105G/01/README.md)
+- [Sankyo Fever Jikki Simulation S (Japan)](../../../Regions/Retails/Japan/T-32102G/01/README.md) - :white_check_mark:
+- [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-32103G/01/README.md) - :white_check_mark:
+- [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../../Regions/Retails/Japan/T-32105G/01/README.md) - :white_check_mark:
 - Saturn Bomberman (Europe) - TODO
 - Saturn Bomberman (Japan) (SegaNet) - TODO
 - Saturn Bomberman (Japan) - TODO
-- [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/01/README.md)
-- [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/01/README.md)
+- [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/01/README.md) - :white_check_mark:
+- [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/01/README.md) - :white_check_mark:
 - Saturn Music School (Japan) - TODO
 - Saturn Music School 2 (Japan) (Rev A) - TODO
-- [Savaki (Japan) (2M)](../../../Regions/Retails/Japan/T-5208G/01/README.md)
+- [Savaki (Japan)](../../../Regions/Retails/Japan/T-5208G/01/README.md) - :white_check_mark:
 - Scorcher (Europe) - TODO
-- [Scorcher (USA)](../../../Regions/Retails/USA/MK-81214/01/README.md)
-- [Scud: The Disposable Assassin (USA)](../../../Regions/Retails/USA/T-30403H/01/README.md)
-- [Sea Bass Fishing (Europe)](../../../Regions/Retails/Europe/T-6009H-50/01/README.md)
+- [Scorcher (USA)](../../../Regions/Retails/USA/MK-81214/01/README.md) - :warning:
+- [Scud: The Disposable Assassin (USA)](../../../Regions/Retails/USA/T-30403H/01/README.md) - :white_check_mark:
+- [Sea Bass Fishing (Europe)](../../../Regions/Retails/Europe/T-6009H-50/01/README.md) - :white_check_mark:
 - SeaBass Fishing (Japan) - TODO
-- [SeaBass Fishing 2 (Japan)](../../../Regions/Retails/Japan/T-6011G/01/README.md)
+- [SeaBass Fishing 2 (Japan)](../../../Regions/Retails/Japan/T-6011G/01/README.md) - :white_check_mark:
 - [Sega Ages After Burner II (Japan)](../../../Regions/Retails/Japan/GS-9109/01/README.md) - TODO
 - [Sega Ages Fantasy Zone (Japan)](../../../Regions/Retails/Japan/GS-9136/01/README.md) - TODO
 - [Sega Ages Galaxy Force II (Japan)](../../../Regions/Retails/Japan/GS-9197/01/README.md) - TODO
@@ -54,54 +54,54 @@
 - Sega Rally Championship (Europe) (Made in USA) - TODO
 - Sega Rally Championship (Japan) - TODO
 - Sega Rally Championship (South Korea) - TODO
-- [Sega Rally Championship (USA)](../../../Regions/Retails/USA/MK-81207/01/README.md)
-- [Sega Rally Championship Plus (Japan)](../../../Regions/Retails/Japan/GS-9116/01/README.md)
+- [Sega Rally Championship (USA)](../../../Regions/Retails/USA/MK-81207/01/README.md) - :white_check_mark:
+- [Sega Rally Championship Plus (Japan)](../../../Regions/Retails/Japan/GS-9116/01/README.md) - :white_check_mark:
 - Sega Rally Championship Plus Netlink Edition (USA) - TODO
-- [Sega Saturn de Hakken!! Tamagotchi Park (Japan)](../../../Regions/Retails/Japan/T-13325G/01/README.md)
+- [Sega Saturn de Hakken!! Tamagotchi Park (Japan)](../../../Regions/Retails/Japan/T-13325G/01/README.md) - :white_check_mark:
 - Sega Touring Car Championship (Europe) - TODO
 - Sega Touring Car Championship (Japan) - TODO
-- [Sega Worldwide Soccer '97 (USA)](../../../Regions/Retails/USA/MK-81112/01/README.md)
-- [Sega Worldwide Soccer 98 (Japan)](../../../Regions/Retails/Japan/GS-9187/01/README.md)
-- [Sega Worldwide Soccer 98: Club Edition (Europe)](../../../Regions/Retails/Europe/MK-81123/01/README.md)
+- [Sega Worldwide Soccer '97 (USA)](../../../Regions/Retails/USA/MK-81112/01/README.md) - :white_check_mark:
+- [Sega Worldwide Soccer 98 (Japan)](../../../Regions/Retails/Japan/GS-9187/01/README.md) - :white_check_mark:
+- [Sega Worldwide Soccer 98: Club Edition (Europe)](../../../Regions/Retails/Europe/MK-81123/01/README.md) - :white_check_mark:
 - Sega Worldwide Soccer 97 (Europe) (Alt) - TODO
 - Sega Worldwide Soccer 97 (Europe) - TODO
-- [Segata Sanshirou - Shinken Yuugi (Japan)](../../../Regions/Retails/Japan/GS-9204/01/README.md)
-- [Seifuku Densetsu Pretty Fighter X (Japan)](../../../Regions/Retails/Japan/T-15001G/01/README.md)
-- [Seikai Risshiden: Yoi Kuni Yoi Seiji (Japan)](../../../Regions/Retails/Japan/T-18005G/01/README.md)
-- [Seireki 1999 ~Pharaoh no Fukkatsu~ (Japan)](../../../Regions/Retails/Japan/T-18001G/01/README.md)
-- [Sekai no Shasou kara I Swiss-hen: Alps Tozantetsudou no Tabi (Japan)](../../../Regions/Retails/Japan/T-32201G/01/README.md)
-- [Sengoku Blade - Sengoku Ace Episode II (Japan)](../../../Regions/Retails/Japan/T-14410G/01/README.md)
-- [Senken Kigyouden (Japan)](../../../Regions/Retails/Japan/T-37401G/01/README.md)
-- [Senkutsu Katsuryuu Taisen Chaos Seed (Japan)](../../../Regions/Retails/Japan/T-30902G/01/README.md)
-- [Senryaku Shougi (Japan)](../../../Regions/Retails/Japan/T-10604G/01/README.md)
-- [Sentimental Graffiti (Japan)](../../../Regions/Retails/Japan/T-20106G/01/README.md)
-- [Sentimental Graffiti: First Window (Japan)](../../../Regions/Retails/Japan/T-20111G/01/README.md)
-- [Sento Monogatari Sono I (Japan)](../../../Regions/Retails/Japan/T-6801G/01/README.md)
-- [Sexy Parodius (Japan)](../../../Regions/Retails/Japan/T-9514G/01/README.md)
-- [Shadows of the Tusk (Japan)](../../../Regions/Retails/Japan/T-14319G/01/README.md)
-- [Shanghai: Banri no Choujou (Japan)](../../../Regions/Retails/Japan/T-1505G/01/README.md)
-- [Shanghai: Great Moments (Japan)](../../../Regions/Retails/Japan/T-1512G/01/README.md)
-- [Shanghai: Triple-Threat (USA)](../../../Regions/Retails/USA/T-13001/01/README.md)
-- [She'sn (Japan)](../../../Regions/Retails/Japan/T-19717G/01/README.md)
+- [Segata Sanshirou - Shinken Yuugi (Japan)](../../../Regions/Retails/Japan/GS-9204/01/README.md) - :white_check_mark:
+- [Seifuku Densetsu Pretty Fighter X (Japan)](../../../Regions/Retails/Japan/T-15001G/01/README.md) - :warning:
+- [Seikai Risshiden: Yoi Kuni Yoi Seiji (Japan)](../../../Regions/Retails/Japan/T-18005G/01/README.md) - :white_check_mark:
+- [Seireki 1999 ~Pharaoh no Fukkatsu~ (Japan)](../../../Regions/Retails/Japan/T-18001G/01/README.md) - :white_check_mark:
+- [Sekai no Shasou kara I Swiss-hen: Alps Tozantetsudou no Tabi (Japan)](../../../Regions/Retails/Japan/T-32201G/01/README.md) - :white_check_mark:
+- [Sengoku Blade - Sengoku Ace Episode II (Japan)](../../../Regions/Retails/Japan/T-14410G/01/README.md) - :white_check_mark:
+- [Senken Kigyouden (Japan)](../../../Regions/Retails/Japan/T-37401G/01/README.md) - :white_check_mark:
+- [Senkutsu Katsuryuu Taisen Chaos Seed (Japan)](../../../Regions/Retails/Japan/T-30902G/01/README.md) - :white_check_mark: & :warning:
+- [Senryaku Shougi (Japan)](../../../Regions/Retails/Japan/T-10604G/01/README.md) - :white_check_mark:
+- [Sentimental Graffiti (Japan)](../../../Regions/Retails/Japan/T-20106G/01/README.md) - :question:
+- [Sentimental Graffiti: First Window (Japan)](../../../Regions/Retails/Japan/T-20111G/01/README.md) - :white_check_mark:
+- [Sento Monogatari Sono I (Japan)](../../../Regions/Retails/Japan/T-6801G/01/README.md) - :white_check_mark:
+- [Sexy Parodius (Japan)](../../../Regions/Retails/Japan/T-9514G/01/README.md) - :white_check_mark:
+- [Shadows of the Tusk (Japan)](../../../Regions/Retails/Japan/T-14319G/01/README.md) - :white_check_mark:
+- [Shanghai: Banri no Choujou (Japan)](../../../Regions/Retails/Japan/T-1505G/01/README.md) - :white_check_mark:
+- [Shanghai: Great Moments (Japan)](../../../Regions/Retails/Japan/T-1512G/01/README.md) - :white_check_mark:
+- [Shanghai: Triple-Threat (USA)](../../../Regions/Retails/USA/T-13001/01/README.md) - :white_check_mark:
+- [She'sn (Japan)](../../../Regions/Retails/Japan/T-19717G/01/README.md) - :white_check_mark:
 - Shellshock (Europe) - TODO
 - Shellshock (France) - TODO
 - Shellshock (Germany) - TODO
-- [Shellshock (USA)](../../../Regions/Retails/USA/T-7901H/01/README.md)
+- [Shellshock (USA)](../../../Regions/Retails/USA/T-7901H/01/README.md) - :warning:
 - Shellshock - Jus' Keepin' da Peace (Japan) - TODO
-- [Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen (Japan)](../../../Regions/Retails/Japan/T-1242G/01/README.md)
+- [Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen (Japan)](../../../Regions/Retails/Japan/T-1242G/01/README.md) - :white_check_mark:
 - [Shichuu Suimei Pitagraph (Japan)](../../../Regions/Retails/Japan/T-19501G/01/README.md) - TODO
-- [Shienryuu (Japan)](../../../Regions/Retails/Japan/T-29102G/01/README.md)
-- [Shin Kaitei Gunkan: Koutetsu no Kodoku (Japan)](../../../Regions/Retails/Japan/T-2105G/01/README.md)
-- [Shin Megami Tensei: Devil Summoner (Japan)](../../../Regions/Retails/Japan/T-14403G/01/README.md)
-- [Shin Megami Tensei Devil Summoner: Akuma Zensho (Japan)](../../../Regions/Retails/Japan/T-14406G/01/README.md)
-- [Shinseiki Evangelion (Japan)](../../../Regions/Retails/Japan/GS-9051/01/README.md)
-- [Shinseiki Evangelion: 2nd Impression (Japan)](../../../Regions/Retails/Japan/GS-9129/01/README.md)
-- [Shinseiki Evangelion: Digital Card Library (Japan)](../../../Regions/Retails/Japan/GS-9159/01/README.md)
-- [Shinseiki Evangelion: Eva to Yukai na Nakamatachi (Japan)](../../../Regions/Retails/Japan/T-35103G/01/README.md)
-- [Shinseiki Evangelion: Koutetsu no Girlfriend (Japan)](../../../Regions/Retails/Japan/GS-9194/01/README.md)
+- [Shienryuu (Japan)](../../../Regions/Retails/Japan/T-29102G/01/README.md) - :white_check_mark:
+- [Shin Kaitei Gunkan: Koutetsu no Kodoku (Japan)](../../../Regions/Retails/Japan/T-2105G/01/README.md) - :white_check_mark:
+- [Shin Megami Tensei: Devil Summoner (Japan)](../../../Regions/Retails/Japan/T-14403G/01/README.md) - :warning:
+- [Shin Megami Tensei Devil Summoner: Akuma Zensho (Japan)](../../../Regions/Retails/Japan/T-14406G/01/README.md) - :white_check_mark:
+- [Shinseiki Evangelion (Japan)](../../../Regions/Retails/Japan/GS-9051/01/README.md) - :white_check_mark:
+- [Shinseiki Evangelion: 2nd Impression (Japan)](../../../Regions/Retails/Japan/GS-9129/01/README.md) - :white_check_mark:
+- [Shinseiki Evangelion: Digital Card Library (Japan)](../../../Regions/Retails/Japan/GS-9159/01/README.md) - :white_check_mark:
+- [Shinseiki Evangelion: Eva to Yukai na Nakamatachi (Japan)](../../../Regions/Retails/Japan/T-35103G/01/README.md) - :white_check_mark:
+- [Shinseiki Evangelion: Koutetsu no Girlfriend (Japan)](../../../Regions/Retails/Japan/GS-9194/01/README.md) - :hammer_and_wrench: & :question:
 - Shin Shinobiden (Japan) - TODO
-- [Shin Theme Park (Japan)](../../../Regions/Retails/Japan/T-10618G/01/README.md)
-- [Shingata Kururin Pa! (Japan)](../../../Regions/Retails/Japan/T-24202G/01/README.md)
+- [Shin Theme Park (Japan)](../../../Regions/Retails/Japan/T-10618G/01/README.md) - :white_check_mark:
+- [Shingata Kururin Pa! (Japan)](../../../Regions/Retails/Japan/T-24202G/01/README.md) - :white_check_mark:
 - Shining Force III (Europe) (R) - TODO
 - Shining Force III (USA) - TODO
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A) - TODO
@@ -113,157 +113,154 @@
 - Shining Wisdom (Europe) - TODO
 - Shining Wisdom (Japan) (Rev A) - TODO
 - Shining Wisdom (Japan) - TODO
-- [Shining Wisdom (USA)](../../../Regions/Retails/USA/T-12702H/01/README.md)
+- [Shining Wisdom (USA)](../../../Regions/Retails/USA/T-12702H/01/README.md) - :white_check_mark:
 - Shining the Holy Ark (Europe) - TODO
 - Shining the Holy Ark (Japan) (1M) - TODO
 - Shining the Holy Ark (Japan) (3M) - TODO
-- [Shining the Holy Ark (USA)](../../../Regions/Retails/USA/MK-81306/01/README.md)
-- [Shinobi Legions (USA)](../../../Regions/Retails/USA/T-2301H/01/README.md)
-- [Shinobi X (Europe)](../../../Regions/Retails/Europe/MK-81082/01/README.md)
-- [Shinouken (Japan)](../../../Regions/Retails/Japan/T-3113G/01/README.md)
-- [Shinpi no Sekai El-Hazard (Japan)](../../../Regions/Retails/Japan/T-22202G/01/README.md)
-- [Shinrei Jusatsushi Taroumaru (Japan)](../../../Regions/Retails/Japan/T-4804G/01/README.md)
-- [Shinsetsu Samurai Spirits Bushidou Retsuden (Japan)](../../../Regions/Retails/Japan/T-3112G/01/README.md)
+- [Shining the Holy Ark (USA)](../../../Regions/Retails/USA/MK-81306/01/README.md) - :white_check_mark:
+- [Shinobi Legions (USA)](../../../Regions/Retails/USA/T-2301H/01/README.md) - :white_check_mark:
+- [Shinobi X (Europe)](../../../Regions/Retails/Europe/MK-81082/01/README.md) - :white_check_mark:
+- [Shinouken (Japan)](../../../Regions/Retails/Japan/T-3113G/01/README.md) - :warning:
+- [Shinpi no Sekai El-Hazard (Japan)](../../../Regions/Retails/Japan/T-22202G/01/README.md) - :white_check_mark:
+- [Shinrei Jusatsushi Taroumaru (Japan)](../../../Regions/Retails/Japan/T-4804G/01/README.md) - :white_check_mark:
+- [Shinsetsu Samurai Spirits Bushidou Retsuden (Japan)](../../../Regions/Retails/Japan/T-3112G/01/README.md) - :white_check_mark:
 - [Shinsetsu Yumemi Yakata: Tobira no Oku ni Dareka ga... (Japan)](../../../Regions/Retails/Japan/GS-9005/01/README.md) - TODO
 - [Shippuu Mahou Daisakusen (Japan)](../../../Regions/Retails/Japan/T-18506G/01/README.md) - TODO
-- [Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan)](../../../Regions/Retails/Japan/T-14322G/01/README.md)
+- [Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Japan)](../../../Regions/Retails/Japan/T-14322G/01/README.md) - :warning:
 - Shockwave Assault (Europe) - TODO
-- [Shockwave Assault (USA)](../../../Regions/Retails/USA/T-5005H/01/README.md)
-- [Shougi Matsuri (Japan)](../../../Regions/Retails/Japan/T-16502G/01/README.md)
-- [Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan)](../../../Regions/Retails/Japan/GS-9182/01/README.md)
-- [Shouryuu Sangoku Engi (Japan)](../../../Regions/Retails/Japan/T-15009G/01/README.md)
-- [Shunsai: Keiba Data Stable (Japan)](../../../Regions/Retails/Japan/T-18703G/01/README.md)
-- [Shusse Mahjong Daisettai (Japan)](../../../Regions/Retails/Japan/T-24902G/01/README.md)
-- [Shutokou Battle '97: Tsuchiya Keiichi & Bandou Masaaki (Japan)](../../../Regions/Retails/Japan/T-15019G/README.md)
-- [Shutsudou! Miniskirt Police (Japan)](../../../Regions/Retails/Japan/T-30812G/01/README.md)
-- [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../../Regions/Retails/Japan/T-2003G/01/README.md)
+- [Shockwave Assault (USA)](../../../Regions/Retails/USA/T-5005H/01/README.md) - :white_check_mark:
+- [Shougi Matsuri (Japan)](../../../Regions/Retails/Japan/T-16502G/01/README.md) - :white_check_mark:
+- [Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan)](../../../Regions/Retails/Japan/GS-9182/01/README.md) - :question:
+- [Shouryuu Sangoku Engi (Japan)](../../../Regions/Retails/Japan/T-15009G/01/README.md) - :white_check_mark:
+- [Shunsai: Keiba Data Stable (Japan)](../../../Regions/Retails/Japan/T-18703G/01/README.md) - :white_check_mark:
+- [Shusse Mahjong Daisettai (Japan)](../../../Regions/Retails/Japan/T-24902G/01/README.md) - :white_check_mark:
+- [Shutokou Battle '97: Tsuchiya Keiichi & Bandou Masaaki (Japan)](../../../Regions/Retails/Japan/T-15019G/README.md) - :white_check_mark:
+- [Shutsudou! Miniskirt Police (Japan)](../../../Regions/Retails/Japan/T-30812G/01/README.md) - :white_check_mark:
 - Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
-- [Side Pocket 3 (Japan)](../../../Regions/Retails/Japan/T-1314G/01/README.md)
+- [Side Pocket 3 (Japan)](../../../Regions/Retails/Japan/T-1314G/01/README.md) - :white_check_mark:
 - Silhouette Mirage (Japan) (Rev A) - TODO
 - Silhouette Mirage (Japan) - TODO
 - SimCity 2000 (Europe) - TODO
 - SimCity 2000 (Japan) (Rev A) - TODO
-- [SimCity 2000 (USA)](../../../Regions/Retails/USA/T-12601H/01/README.md)
-- [Simulation RPG Tsukuru (Japan)](../../../Regions/Retails/Japan/T-2106G/01/README.md)
-- [Simulation Zoo (Japan)](../../../Regions/Retails/Japan/T-18611G/01/README.md)
+- [SimCity 2000 (USA)](../../../Regions/Retails/USA/T-12601H/01/README.md) - :white_check_mark:
+- [Simulation RPG Tsukuru (Japan)](../../../Regions/Retails/Japan/T-2106G/01/README.md) - :white_check_mark:
+- [Simulation Zoo (Japan)](../../../Regions/Retails/Japan/T-18611G/01/README.md) - :white_check_mark:
 - Skeleton Warriors (Europe) - TODO
-- [Skeleton Warriors (USA)](../../../Regions/Retails/USA/T-13204H/01/README.md)
-- [Skull Fang: Kuuga Gaiden (Japan)](../../../Regions/Retails/Japan/T-1311G/01/README.md)
+- [Skeleton Warriors (USA)](../../../Regions/Retails/USA/T-13204H/01/README.md) - :white_check_mark:
+- [Skull Fang: Kuuga Gaiden (Japan)](../../../Regions/Retails/Japan/T-1311G/01/README.md) - :white_check_mark:
 - Sky Target (Europe) - TODO
 - Sky Target (Japan) - TODO
-- [Sky Target (USA)](../../../Regions/Retails/USA/MK-81051/01/README.md)
+- [Sky Target (USA)](../../../Regions/Retails/USA/MK-81051/01/README.md) - :white_check_mark:
 - Slam 'n Jam '96 Featuring Magic & Kareem (Japan) - TODO
 - Slam 'n Jam '96 Featuring Magic & Kareem (Europe) - TODO
-- [Slam 'n Jam '96 Featuring Magic & Kareem (USA)](../../../Regions/Retails/USA/T-159028H/01/README.md)
-- [Slayers Royal (Japan)](../../../Regions/Retails/Japan/T-27903G/01/README.md)
-- [Slayers Royal 2 (Japan)](../../../Regions/Retails/Japan/T-27907G/01/README.md)
-- [Snatcher (Japan)](../../../Regions/Retails/Japan/T-9508G/01/README.md)
-- [Söldnerschild (Japan)](../../../Regions/Retails/Japan/GS-9155/01/README.md)
-- [Sokkou Seitokai (Japan)](../../../Regions/Retails/Japan/T-20611G/01/README.md)
-- [Sol Divide (Japan)](../../../Regions/Retails/Japan/T-14423G/01/README.md)
-- [Solar Eclipse (USA)](../../../Regions/Retails/USA/T-15911H/01/README.md)
-- [Solo Crisis (Japan)](../../../Regions/Retails/Japan/T-23501G/01/README.md)
+- [Slam 'n Jam '96 Featuring Magic & Kareem (USA)](../../../Regions/Retails/USA/T-159028H/01/README.md) - :white_check_mark:
+- [Slayers Royal (Japan)](../../../Regions/Retails/Japan/T-27903G/01/README.md) - :white_check_mark:
+- [Slayers Royal 2 (Japan)](../../../Regions/Retails/Japan/T-27907G/01/README.md) - :white_check_mark:
+- [Snatcher (Japan)](../../../Regions/Retails/Japan/T-9508G/01/README.md) - :white_check_mark:
+- [Söldnerschild (Japan)](../../../Regions/Retails/Japan/GS-9155/01/README.md) - :white_check_mark:
+- [Sokkou Seitokai (Japan)](../../../Regions/Retails/Japan/T-20611G/01/README.md) - :warning:
+- [Sol Divide (Japan)](../../../Regions/Retails/Japan/T-14423G/01/README.md) - :white_check_mark:
+- [Solar Eclipse (USA)](../../../Regions/Retails/USA/T-15911H/01/README.md) - :white_check_mark:
+- [Solo Crisis (Japan)](../../../Regions/Retails/Japan/T-23501G/01/README.md) - :white_check_mark:
 - Sonic 3D - Flickies' Island (Europe) - TODO
 - Sonic 3D - Flickies' Island (Japan) - TODO
-- [Sonic 3D Blast (USA)](../../../Regions/Retails/USA/MK-81062/01/README.md)
+- [Sonic 3D Blast (USA)](../../../Regions/Retails/USA/MK-81062/01/README.md) - :warning:
 - Sonic R (Europe) - TODO
 - Sonic R (Japan) (1M) - TODO
 - Sonic R (Japan) (2M) - TODO
-- [Sonic R (USA)](../../../Regions/Retails/USA/MK-81800/01/README.md)
-- [Sonic Wings Special (Japan)](../../../Regions/Retails/Japan/T-26402G/01/README.md)
-- [Sorvice (Japan)](../../../Regions/Retails/Japan/T-16609G/01/README.md)
-- [Sotsugyou S (Japan)](../../../Regions/Retails/Japan/T-20103G/01/README.md)
-- [Sotsugyou Album (Japan)](../../../Regions/Retails/Japan/T-10504G/01/README.md)
-- [Sotsugyou Crossworld (Japan)](../../../Regions/Retails/Japan/T-10503G/01/README.md)
-- [Sotsugyou II Neo Generation (Japan)](../../../Regions/Retails/Japan/T-5301G/01/README.md)
-- [Sotsugyou III Wedding Bell (Japan)](../../../Regions/Retails/Japan/T-10505G/01/README.md)
-- [Soukuu no Tsubasa: Gotha World (Japan)](../../../Regions/Retails/Japan/T-2205G/01/README.md)
+- [Sonic R (USA)](../../../Regions/Retails/USA/MK-81800/01/README.md) - :white_check_mark:
+- [Sonic Wings Special (Japan)](../../../Regions/Retails/Japan/T-26402G/01/README.md) - :warning:
+- [Sorvice (Japan)](../../../Regions/Retails/Japan/T-16609G/01/README.md) - :white_check_mark:
+- [Sotsugyou S (Japan)](../../../Regions/Retails/Japan/T-20103G/01/README.md) - :white_check_mark:
+- [Sotsugyou Album (Japan)](../../../Regions/Retails/Japan/T-10504G/01/README.md) - :white_check_mark:
+- [Sotsugyou Crossworld (Japan)](../../../Regions/Retails/Japan/T-10503G/01/README.md) - :white_check_mark:
+- [Sotsugyou II Neo Generation (Japan)](../../../Regions/Retails/Japan/T-5301G/01/README.md) - :white_check_mark:
+- [Sotsugyou III Wedding Bell (Japan)](../../../Regions/Retails/Japan/T-10505G/01/README.md) - :white_check_mark:
+- [Soukuu no Tsubasa: Gotha World (Japan)](../../../Regions/Retails/Japan/T-2205G/01/README.md) - :question:
 - Soukyuu Gurentai (Japan) (Rev A) - TODO
 - Soukyuu Gurentai (Japan) - TODO
-- [Soukyugurentai Otokuyou (Japan)](../../../Regions/Retails/Japan/T-10626G/01/README.md)
+- [Soukyugurentai Otokuyou (Japan)](../../../Regions/Retails/Japan/T-10626G/01/README.md) - :white_check_mark:
 - Sound Novel Machi (Japan) (Disc 1) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (2M) - TODO
-- [Sound Novel Tsukuru 2 (Japan)](../../../Regions/Retails/Japan/T-2108G/01/README.md)
-- [Sound Qube (Japan)](../../../Regions/Retails/Japan/T-4318G/01/README.md)
+- [Sound Novel Tsukuru 2 (Japan)](../../../Regions/Retails/Japan/T-2108G/01/README.md) - :white_check_mark:
+- [Sound Qube (Japan)](../../../Regions/Retails/Japan/T-4318G/01/README.md) - :white_check_mark:
 - Soviet Strike (Europe) - TODO
 - Soviet Strike (France) - TODO
 - Soviet Strike (Germany) - TODO
 - Soviet Strike (Japan) - TODO
-- [Soviet Strike (USA)](../../../Regions/Retails/USA/T-5013H/01/README.md)
+- [Soviet Strike (USA)](../../../Regions/Retails/USA/T-5013H/01/README.md) - :warning:
 - Space Hulk - Vengeance of the Blood Angels (Europe) - TODO
-- [Space Hulk: Vengeance of the Blood Angels (USA)](../../../Regions/Retails/USA/T-5007H/01/README.md)
-- [Space Invaders (Japan)](../../../Regions/Retails/Japan/T-1107G/01/README.md)
+- [Space Hulk: Vengeance of the Blood Angels (USA)](../../../Regions/Retails/USA/T-5007H/01/README.md) - :warning:
+- [Space Invaders (Japan)](../../../Regions/Retails/Japan/T-1107G/01/README.md) - :white_check_mark:
 - Space Jam (Europe) - TODO
 - Space Jam (Japan) - TODO
-- [Space Jam (USA)](../../../Regions/Retails/USA/T-8125H/01/README.md)
+- [Space Jam (USA)](../../../Regions/Retails/USA/T-8125H/01/README.md) - :white_check_mark:
 - Spot Goes to Hollywood (Europe) - TODO
 - Spot Goes to Hollywood (Japan) - TODO
-- [Spot Goes to Hollywood (USA)](../../../Regions/Retails/USA/T-7001H/01/README.md)
-- [Stakes Winner: GI Kanzen Seiha Heno Michi (Japan)](../../../Regions/Retails/Japan/T-3107G/01/README.md)
-- [Stakes Winner 2: Saikyouba Densetsu (Japan)](../../../Regions/Retails/Japan/T-3115G/01/README.md)
-- [Standby Say You! (Japan)](../../../Regions/Retails/Japan/T-4309G/01/README.md)
-- [The Star Bowling (Japan)](../../../Regions/Retails/Japan/T-21804G/01/README.md)
-- [The Star Bowling Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-21805G/01/README.md)
-- [Star Fighter (USA)](../../../Regions/Retails/USA/T-8135H/01/README.md)
+- [Spot Goes to Hollywood (USA)](../../../Regions/Retails/USA/T-7001H/01/README.md) - :white_check_mark:
+- [Stakes Winner: GI Kanzen Seiha Heno Michi (Japan)](../../../Regions/Retails/Japan/T-3107G/01/README.md) - :white_check_mark:
+- [Stakes Winner 2: Saikyouba Densetsu (Japan)](../../../Regions/Retails/Japan/T-3115G/01/README.md) - :white_check_mark:
+- [Standby Say You! (Japan)](../../../Regions/Retails/Japan/T-4309G/01/README.md) - :white_check_mark:
+- [Star Fighter (USA)](../../../Regions/Retails/USA/T-8135H/01/README.md) - :white_check_mark:
 - StarFighter 3000 (Europe) - TODO
 - StarFighter 3000 (Japan) - TODO
-- [Steam-Heart's (Japan)](../../../Regions/Retails/Japan/T-32502G/01/README.md)
-- [SteamGear Mash (Japan)](../../../Regions/Retails/Japan/T-10301G/01/README.md)
+- [Steam-Heart's (Japan)](../../../Regions/Retails/Japan/T-32502G/01/README.md) - :white_check_mark:
+- [SteamGear Mash (Japan)](../../../Regions/Retails/Japan/T-10301G/01/README.md) - :white_check_mark:
 - Steep Slope Sliders (Europe) - TODO
 - Steep Slope Sliders (Japan) - TODO
-- [Steep Slope Sliders (USA)](../../../Regions/Retails/USA/MK-81128/01/README.md)
-- [Stellar Assault SS (Japan)](../../../Regions/Retails/Japan/T-4403G/01/README.md)
-- [Strahl: Himerareshi Nanatsu no Hikari (Japan)](../../../Regions/Retails/Japan/T-20501G/01/README.md)
+- [Steep Slope Sliders (USA)](../../../Regions/Retails/USA/MK-81128/01/README.md) - :white_check_mark:
+- [Stellar Assault SS (Japan)](../../../Regions/Retails/Japan/T-4403G/01/README.md) - :white_check_mark:
+- [Strahl: Himerareshi Nanatsu no Hikari (Japan)](../../../Regions/Retails/Japan/T-20501G/01/README.md) - :white_check_mark:
 - Street Fighter - Real Battle on Film (Japan) (2M) - TODO
 - Street Fighter - Real Battle on Film (Japan) (3M) - TODO
 - Street Fighter - Real Battle on Film (Japan) (4M) - TODO
 - Street Fighter - The Movie (Europe) (2S) - TODO
 - Street Fighter - The Movie (Europe) (4S) - TODO
-- [Street Fighter - The Movie (USA)](../../../Regions/Retails/USA/T-8105H/01/README.md)
-- [Street Fighter Alpha: Warrior's Dreams (Europe)](../../../Regions/Retails/Europe/T-7008H-50/01/README.md)
-- [Street Fighter Alpha: Warrior's Dreams (USA)](../../../Regions/Retails/USA/T-1206H/01/README.md)
+- [Street Fighter - The Movie (USA)](../../../Regions/Retails/USA/T-8105H/01/README.md) - :white_check_mark:
+- [Street Fighter Alpha: Warrior's Dreams (Europe)](../../../Regions/Retails/Europe/T-7008H-50/01/README.md) - :white_check_mark:
+- [Street Fighter Alpha: Warrior's Dreams (USA)](../../../Regions/Retails/USA/T-1206H/01/README.md) - :warning:
 - Street Fighter Alpha 2 (Europe) - TODO
-- [Street Fighter Alpha 2 (USA)](../../../Regions/Retails/USA/T-1213H/01/README.md)
-- [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/01/README.md)
+- [Street Fighter Alpha 2 (USA)](../../../Regions/Retails/USA/T-1213H/01/README.md) - :warning:
+- [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/01/README.md) - :white_check_mark:
 - Street Fighter Collection (Japan) (Disc 1) - TODO
 - Street Fighter Collection (Japan) (Disc 2) - TODO
-- [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/01/README.md)
+- [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/01/README.md) - :white_check_mark:
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
-- [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/01/README.md)
+- [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/01/README.md) - :white_check_mark:
 - Street Fighter Zero 2 (Japan) - TODO
-- [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/01/README.md)
-- [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/01/README.md)
-- [Street Racer (Europe)](../../../Regions/Retails/Europe/T-17702H/01/README.md)
+- [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/01/README.md) - :white_check_mark:
+- [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/01/README.md) - :hammer_and_wrench:
+- [Street Racer (Europe)](../../../Regions/Retails/Europe/T-17702H/01/README.md) - :white_check_mark:
 - Street Racer Extra (Japan) - TODO
 - Striker 96 (Europe) - TODO
 - Striker 96 (Japan) - TODO
-- [Striker '96 (USA)](../../../Regions/Retails/USA/T-8133H/01/README.md)
-- [Strikers 1945 (Japan)](../../../Regions/Retails/Japan/T-14407G/01/README.md)
-- [Strikers 1945 II (Japan)](../../../Regions/Retails/Japan/T-20402G/01/README.md)
-- [Suchie-Pai Adventure Doki Doki Nightmare (Japan)](../../../Regions/Retails/Japan/T-5713G/01/README.md)
-- [Sugobencha: Dragon Master Silk Gaiden (Japan)](../../../Regions/Retails/Japan/T-19505G/01/README.md)
-- [Suiko Enbu (Japan)](../../../Regions/Retails/Japan/T-1302G/01/README.md)
-- [Suiko Enbu: Fuunsaiki (Japan)](../../../Regions/Retails/Japan/T-1305G/01/README.md)
-- [Suikoden Tendou 108 Sei (Japan)](../../../Regions/Retails/Japan/T-7656G/01/README.md)
-- [Suikoden: Tenmei no Chikai (Japan)](../../../Regions/Retails/Japan/T-7624G/01/README.md)
-- [Super Adventure Rockman (Japan)](../../../Regions/Retails/Japan/T-1225G/01/README.md)
-- [Super Casino Special (Japan)](../../../Regions/Retails/Japan/T-7306G/01/README.md)
-- [Super Puzzle Fighter II Turbo (Europe)](../../../Regions/Retails/Europe/T-7030H-50/01/README.md)
-- [Super Puzzle Fighter II Turbo (USA)](../../../Regions/Retails/USA/T-1215H/01/README.md)
+- [Striker '96 (USA)](../../../Regions/Retails/USA/T-8133H/01/README.md) - :white_check_mark:
+- [Strikers 1945 (Japan)](../../../Regions/Retails/Japan/T-14407G/01/README.md) - :white_check_mark:
+- [Strikers 1945 II (Japan)](../../../Regions/Retails/Japan/T-20402G/01/README.md) - :white_check_mark:
+- [Suchie-Pai Adventure Doki Doki Nightmare (Japan)](../../../Regions/Retails/Japan/T-5713G/01/README.md) - :question:
+- [Sugobencha: Dragon Master Silk Gaiden (Japan)](../../../Regions/Retails/Japan/T-19505G/01/README.md) - :white_check_mark:
+- [Suiko Enbu (Japan)](../../../Regions/Retails/Japan/T-1302G/01/README.md) - :white_check_mark:
+- [Suiko Enbu: Fuunsaiki (Japan)](../../../Regions/Retails/Japan/T-1305G/01/README.md) - :white_check_mark:
+- [Suikoden Tendou 108 Sei (Japan)](../../../Regions/Retails/Japan/T-7656G/01/README.md) - :white_check_mark:
+- [Suikoden: Tenmei no Chikai (Japan)](../../../Regions/Retails/Japan/T-7624G/01/README.md) - :white_check_mark:
+- [Super Adventure Rockman (Japan)](../../../Regions/Retails/Japan/T-1225G/01/README.md) - :question:
+- [Super Casino Special (Japan)](../../../Regions/Retails/Japan/T-7306G/01/README.md) - :white_check_mark:
+- [Super Puzzle Fighter II Turbo (Europe)](../../../Regions/Retails/Europe/T-7030H-50/01/README.md) - :white_check_mark:
+- [Super Puzzle Fighter II Turbo (USA)](../../../Regions/Retails/USA/T-1215H/01/README.md) - :white_check_mark:
 - Super Puzzle Fighter II X (Japan) - TODO
-- [Super Real Mahjong PV (Japan)](../../../Regions/Retails/Japan/T-16501G/01/README.md)
-- [Super Real Mahjong P7 (Japan)](../../../Regions/Retails/Japan/T-16509G/01/README.md)
+- [Super Real Mahjong PV (Japan)](../../../Regions/Retails/Japan/T-16501G/01/README.md) - :white_check_mark:
+- [Super Real Mahjong P7 (Japan)](../../../Regions/Retails/Japan/T-16509G/01/README.md) - :warning:
 - Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO
 - Super Real Mahjong P VI (Japan) (P's Club Special Edition) - TODO
-- [Super Real Mahjong P VI (Japan)](../../../Regions/Retails/Japan/T-16507G/01/README.md)
+- [Super Real Mahjong P VI (Japan)](../../../Regions/Retails/Japan/T-16507G/01/README.md) - :white_check_mark:
 - Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M) - TODO
 - Super Robot Taisen F (Japan) (Rev B) (21M) - TODO
-- [Super Robot Taisen F Kanketsuhen (Japan)](../../../Regions/Retails/Japan/T-20612G/01/README.md)
-- [Super Tempo (Japan)](../../../Regions/Retails/Japan/T-26413G/01/README.md)
-- [Swagman (Europe)](../../../Regions/Retails/Europe/T-11502H-5/01/README.md)
-- [Sword & Sorcery (Japan)](../../../Regions/Retails/Japan/T-5202G/01/README.md)
+- [Super Robot Taisen F Kanketsuhen (Japan)](../../../Regions/Retails/Japan/T-20612G/01/README.md) - :white_check_mark:
+- [Super Tempo (Japan)](../../../Regions/Retails/Japan/T-26413G/01/README.md) - :warning:
+- [Swagman (Europe)](../../../Regions/Retails/Europe/T-11502H-5/01/README.md) - :white_check_mark:
+- [Sword & Sorcery (Japan)](../../../Regions/Retails/Japan/T-5202G/01/README.md) - :white_check_mark:
 
 Navegação:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) **S** [T](./T.md) [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

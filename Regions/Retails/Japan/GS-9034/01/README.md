@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- 2M: Playable :white_check_mark:
-- Rev A: Untested :question:
-- Rev B: Untested :question:
+- J.League Pro Soccer Club o Tsukurou! (Japan) (2M): Playable :white_check_mark:
+- J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A): Untested :question:
+- J.League Pro Soccer Club o Tsukurou! (Japan) (Rev B): Untested :question:
 
 ### Extra Info
 
@@ -36,6 +36,6 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-2M:
+J.League Pro Soccer Club o Tsukurou! (Japan) (2M):
 
-[![[Sample] SAROO 1.32 (240118) - J.League Pro Soccer Club o Tsukurou! (Japan)](https://img.youtube.com/vi/IxoQGohTcuo/0.jpg)](https://www.youtube.com/watch?v=IxoQGohTcuo)
+[![](https://img.youtube.com/vi/IxoQGohTcuo/0.jpg)](https://www.youtube.com/watch?v=IxoQGohTcuo)

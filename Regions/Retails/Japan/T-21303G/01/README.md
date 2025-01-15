@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2): Untested :question:
+- My Dream: On Air ga Matenakute (Japan) (Disc 1): Playable :white_check_mark:
+- My Dream: On Air ga Matenakute (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -35,4 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/hPYbWH_FW6g/0.jpg)](https://www.youtube.com/watch?v=hPYbWH_FW6g) -->
+My Dream: On Air ga Matenakute (Japan) (Disc 1):
+
+[![](https://img.youtube.com/vi/hPYbWH_FW6g/0.jpg)](https://www.youtube.com/watch?v=hPYbWH_FW6g)

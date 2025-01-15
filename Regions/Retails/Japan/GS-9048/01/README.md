@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M, 3M): Playable :white_check_mark:
-- (2M): Untested :question:
+- J.League Victory Goal '96 (Japan) (1M, 3M): Playable :white_check_mark:
+- J.League Victory Goal '96 (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M, 3M):
+J.League Victory Goal '96 (Japan) (1M, 3M):
 
-[![[Sample] SAROO 1.32 (240118) - Victory Goal '96 (Japan)](https://img.youtube.com/vi/ZzELp0BH8w0/0.jpg)](https://www.youtube.com/watch?v=ZzELp0BH8w0)
+[![](https://img.youtube.com/vi/ZzELp0BH8w0/0.jpg)](https://www.youtube.com/watch?v=ZzELp0BH8w0)

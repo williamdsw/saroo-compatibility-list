@@ -21,10 +21,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Made in Japan) (1M): Playable :white_check_mark:
-- (Made in Japan) (4M): Untested :question:
-- (Made in U.S.A.) (1S): Untested :question:
-- (Made in U.S.A.) (4S): Untested :question:
+- Riglordsaga (Japan) (Made in Japan) (1M): Playable :white_check_mark:
+- Riglordsaga (Japan) (Made in Japan) (4M): Untested :question:
+- Riglordsaga (Japan) (Made in U.S.A.) (1S): Untested :question:
+- Riglordsaga (Japan) (Made in U.S.A.) (4S): Untested :question:
 
 ### Extra Info
 
@@ -32,12 +32,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Riglordsaga (Japan) (Made in J) (4M)
+- Test Riglordsaga (Japan) (Made in Japan) (4M)
 - Test Riglordsaga (Japan) (Made in U.S.A.) (1S)
 - Test Riglordsaga (Japan) (Made in U.S.A.) (4S)
 
 ### Evidence
 
-(Made in Japan) (1M):
+Riglordsaga (Japan) (Made in Japan) (1M):
 
-[![[Sample] SAROO 1.32 (240316) - Riglordsaga (Japan)](https://img.youtube.com/vi/dQV2kOJCrYc/0.jpg)](https://www.youtube.com/watch?v=dQV2kOJCrYc)
+[![](https://img.youtube.com/vi/dci_tHnTsQ8/0.jpg)](https://www.youtube.com/watch?v=dci_tHnTsQ8)

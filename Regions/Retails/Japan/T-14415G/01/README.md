@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- Ronde (Japan) (Disc 1): Playable :white_check_mark:
+- Ronde (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -30,11 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Full test Disc 1.
-- Test Disc 2.
+- Full test Ronde (Japan) (Disc 1).
+- Full test Ronde (Japan) (Disc 2).
 
 ### Evidence
 
-Disc 1:
+Ronde (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - Ronde (Japan) (Disc 1)](https://img.youtube.com/vi/dQV2kOJCrYc/0.jpg)](https://www.youtube.com/watch?v=dQV2kOJCrYc)
+[![](https://img.youtube.com/vi/dQV2kOJCrYc/0.jpg)](https://www.youtube.com/watch?v=dQV2kOJCrYc)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Bubble Bobble also featuring Rainbow Islands (USA)](https://img.youtube.com/vi/IuDiQ-N72cs/0.jpg)](https://www.youtube.com/watch?v=IuDiQ-N72cs)
+[![](https://img.youtube.com/vi/IuDiQ-N72cs/0.jpg)](https://www.youtube.com/watch?v=IuDiQ-N72cs)

@@ -29,4 +29,4 @@ It needs a full gameplay tests.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Radiant Silvergun (Japan) = Playable](https://img.youtube.com/vi/22tQ8rKnYPA/0.jpg)](https://www.youtube.com/watch?v=22tQ8rKnYPA)
+[![](https://img.youtube.com/vi/22tQ8rKnYPA/0.jpg)](https://www.youtube.com/watch?v=22tQ8rKnYPA)

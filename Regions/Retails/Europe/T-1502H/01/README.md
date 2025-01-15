@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Hebereke's Popoitto (Europe) = Issues](https://img.youtube.com/vi/LgglF-rf15w/0.jpg)](https://www.youtube.com/watch?v=LgglF-rf15w)
+[![](https://img.youtube.com/vi/LgglF-rf15w/0.jpg)](https://www.youtube.com/watch?v=LgglF-rf15w)

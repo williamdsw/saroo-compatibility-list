@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (2S): Playable :white_check_mark:
-- (3S): Untested :question:
+- Black Fire (USA) (2S): Playable :white_check_mark:
+- Black Fire (USA) (3S): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(2S):
+Black Fire (USA) (2S):
 
-[![[Sample] SAROO 1.32 (240316) - Black Fire (USA)](https://img.youtube.com/vi/dwre3WcMEBw/0.jpg)](https://www.youtube.com/watch?v=dwre3WcMEBw)
+[![](https://img.youtube.com/vi/dwre3WcMEBw/0.jpg)](https://www.youtube.com/watch?v=dwre3WcMEBw)

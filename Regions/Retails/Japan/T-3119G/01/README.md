@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- (Rev A): Untested :question:
+- Real Bout Garou Densetsu Special (Japan): Playable :white_check_mark:
+- Real Bout Garou Densetsu Special (Japan) (Rev A): Untested :question:
 
 ### Extra Info
 
@@ -34,4 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231111) - Real Bout Fatal Fury Special (Japan)](https://img.youtube.com/vi/whyp0wn3J0g/0.jpg)](https://www.youtube.com/watch?v=whyp0wn3J0g)
+Real Bout Garou Densetsu Special (Japan):
+
+[![](https://img.youtube.com/vi/whyp0wn3J0g/0.jpg)](https://www.youtube.com/watch?v=whyp0wn3J0g)

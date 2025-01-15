@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Baroque (Japan)](https://img.youtube.com/vi/AAW2ZivOnZw/0.jpg)](https://www.youtube.com/watch?v=AAW2ZivOnZw)
+[![](https://img.youtube.com/vi/AAW2ZivOnZw/0.jpg)](https://www.youtube.com/watch?v=AAW2ZivOnZw)

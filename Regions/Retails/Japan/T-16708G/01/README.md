@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Asuka 120% Limited Burning Fest. Limited (Japan) = Playable](https://img.youtube.com/vi/WObkgZn-iJ4/0.jpg)](https://www.youtube.com/watch?v=WObkgZn-iJ4)
+[![](https://img.youtube.com/vi/WObkgZn-iJ4/0.jpg)](https://www.youtube.com/watch?v=WObkgZn-iJ4)

@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kidou Senshi Gundam: Giren no Yabou (J) = Fixed ?](https://img.youtube.com/vi/9192GFfsF0M/0.jpg)](https://www.youtube.com/watch?v=9192GFfsF0M)
+[![](https://img.youtube.com/vi/9192GFfsF0M/0.jpg)](https://www.youtube.com/watch?v=9192GFfsF0M)

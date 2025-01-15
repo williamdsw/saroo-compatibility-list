@@ -21,10 +21,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (2M, 3M): Untested :question:
-- (5M): Untested :question:
-- (Rev A) (10M): Untested :question:
-- (Rev A) (11M): Playable :white_check_mark:
+- Super Robot Taisen F - Kanketsu-hen (Japan) (2M, 3M): Untested :question:
+- Super Robot Taisen F - Kanketsu-hen (Japan) (5M): Untested :question:
+- Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (10M): Untested :question:
+- Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -39,6 +39,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Rev A) (11M):
+Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M):
 
-[![[Sample] SAROO 1.32 (231111) - Super Robot Taisen F Kanketsuhen (Japan) = Playable](https://img.youtube.com/vi/hk0yGuqSPlI/0.jpg)](https://www.youtube.com/watch?v=hk0yGuqSPlI)
+[![](https://img.youtube.com/vi/hk0yGuqSPlI/0.jpg)](https://www.youtube.com/watch?v=hk0yGuqSPlI)

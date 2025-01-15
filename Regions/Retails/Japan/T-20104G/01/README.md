@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc A) - Playable :white_check_mark:
-- (Disc B) - Untested :question:
+- Doukyuusei 2 (Japan) (Disc A) - Playable :white_check_mark:
+- Doukyuusei 2 (Japan) (Disc B) - Untested :question:
 
 ### Extra Info
 
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc A):
+Doukyuusei 2 (Japan) (Disc A):
 
 [![](https://img.youtube.com/vi/NuxQv2f_xzo/0.jpg)](https://www.youtube.com/watch?v=NuxQv2f_xzo)

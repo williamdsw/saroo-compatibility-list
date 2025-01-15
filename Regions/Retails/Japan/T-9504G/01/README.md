@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Playable :white_check_mark:
-- (2M): Untested :question:
-- (Special-ban) (2M): Untested :question:
+- Tokimeki Memorial - Forever with You (Japan) (1M): Playable :white_check_mark:
+- Tokimeki Memorial - Forever with You (Japan) (2M): Untested :question:
+- Tokimeki Memorial - Forever with You (Japan) (Special-ban) (2M): Untested :question:
 
 ### Extra Info
 
@@ -37,6 +37,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Tokimeki Memorial - Forever with You (Japan) (1M):
 
 [![](https://img.youtube.com/vi/JoYccxCE9wA/0.jpg)](https://www.youtube.com/watch?v=JoYccxCE9wA)

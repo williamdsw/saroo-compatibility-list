@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kekkon: Marriage (J) = Fixed?](https://img.youtube.com/vi/k3l_6IHQJH8/0.jpg)](https://www.youtube.com/watch?v=k3l_6IHQJH8)
+[![](https://img.youtube.com/vi/k3l_6IHQJH8/0.jpg)](https://www.youtube.com/watch?v=k3l_6IHQJH8)

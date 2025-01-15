@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- 1M: Playable :white_check_mark:
-- Rev A (10M): Untested :question:
+- Return to Zork (Japan) (1M): Playable :white_check_mark:
+- Return to Zork (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-1M:
+Return to Zork (Japan) (1M):
 
-[![[Sample] SAROO 1.32 (240316) - Return to Zork (Japan)](https://img.youtube.com/vi/ERmkh7AXuek/0.jpg)](https://www.youtube.com/watch?v=ERmkh7AXuek)
+[![](https://img.youtube.com/vi/ERmkh7AXuek/0.jpg)](https://www.youtube.com/watch?v=ERmkh7AXuek)

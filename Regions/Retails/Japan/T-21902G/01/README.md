@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc A: Playable :white_check_mark:
-- Disc B: Untested :question:
-- Disc C: Untested :question:
+- Haunted Casino (Japan) (Disc A): Playable :white_check_mark:
+- Haunted Casino (Japan) (Disc B): Untested :question:
+- Haunted Casino (Japan) (Disc C): Untested :question:
 
 ### Extra Info
 
@@ -31,6 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-Disc A:
+Haunted Casino (Japan) (Disc A):
 
-[![[Sample] SAROO 1.32 (240316) - Haunted Casino (Japan)](https://img.youtube.com/vi/SLVeLYBh4Bg/0.jpg)](https://www.youtube.com/watch?v=SLVeLYBh4Bg)
+[![](https://img.youtube.com/vi/SLVeLYBh4Bg/0.jpg)](https://www.youtube.com/watch?v=SLVeLYBh4Bg)

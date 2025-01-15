@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Die Hard Arcade (USA) = Playable](https://img.youtube.com/vi/SP_p9AXK61o/0.jpg)](https://www.youtube.com/watch?v=SP_p9AXK61o)
+[![](https://img.youtube.com/vi/SP_p9AXK61o/0.jpg)](https://www.youtube.com/watch?v=SP_p9AXK61o)

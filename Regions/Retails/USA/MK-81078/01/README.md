@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240118) - Last Bronx (USA) = Issues](https://img.youtube.com/vi/Vcme25deksI/0.jpg)](https://www.youtube.com/watch?v=Vcme25deksI)
+[![](https://img.youtube.com/vi/Vcme25deksI/0.jpg)](https://www.youtube.com/watch?v=Vcme25deksI)

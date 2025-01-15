@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Frankenstein: Through the Eyes of the Monster (Europe)](https://img.youtube.com/vi/0aX6gNUf9To/0.jpg)](https://www.youtube.com/watch?v=0aX6gNUf9To)
+[![](https://img.youtube.com/vi/0aX6gNUf9To/0.jpg)](https://www.youtube.com/watch?v=0aX6gNUf9To)

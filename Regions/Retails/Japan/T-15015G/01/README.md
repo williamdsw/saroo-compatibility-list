@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240627 - v0.6 - exFat) - Fist (Japan)](https://img.youtube.com/vi/_18Q7urqvB0/0.jpg)](https://www.youtube.com/watch?v=_18Q7urqvB0)
+[![](https://img.youtube.com/vi/_18Q7urqvB0/0.jpg)](https://www.youtube.com/watch?v=_18Q7urqvB0)

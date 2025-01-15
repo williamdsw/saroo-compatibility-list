@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - All-Star Baseball 1997 Featuring Frank Thomas (USA) = Playable](https://img.youtube.com/vi/q2HjgzXRsao/0.jpg)](https://www.youtube.com/watch?v=q2HjgzXRsao)
+[![](https://img.youtube.com/vi/q2HjgzXRsao/0.jpg)](https://www.youtube.com/watch?v=q2HjgzXRsao)

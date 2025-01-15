@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Quarterback Attack with Mike Ditka (USA) = Playable](https://img.youtube.com/vi/9rh7z2aPXKA/0.jpg)](https://www.youtube.com/watch?v=9rh7z2aPXKA)
+[![](https://img.youtube.com/vi/9rh7z2aPXKA/0.jpg)](https://www.youtube.com/watch?v=9rh7z2aPXKA)

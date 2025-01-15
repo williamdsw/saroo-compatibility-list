@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- Rev A: Untested :question:
+- Ojousama o Nerae!! (Japan): Playable :white_check_mark:
+- Ojousama o Nerae!! (Japan) (Rev A): Untested :question:
 
 ### Extra Info
 
@@ -30,8 +30,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Rev A
+- Test Ojousama o Nerae!! (Japan) (Rev A)
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Ojousama o Nerae!! (Japan) = Playable](https://img.youtube.com/vi/fyWFEYV-UMQ/0.jpg)](https://www.youtube.com/watch?v=fyWFEYV-UMQ)
+Ojousama o Nerae!! (Japan):
+
+[![](https://img.youtube.com/vi/fyWFEYV-UMQ/0.jpg)](https://www.youtube.com/watch?v=fyWFEYV-UMQ)

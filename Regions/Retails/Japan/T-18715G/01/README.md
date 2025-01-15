@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316) - Kyuukyoku Tiger II Plus (J)](https://img.youtube.com/vi/U6P6FsR-xMA/0.jpg)](https://www.youtube.com/watch?v=U6P6FsR-xMA)
+[![](https://img.youtube.com/vi/U6P6FsR-xMA/0.jpg)](https://www.youtube.com/watch?v=U6P6FsR-xMA)

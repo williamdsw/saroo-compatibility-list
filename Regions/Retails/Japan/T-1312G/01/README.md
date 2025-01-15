@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Issues :warning:
-- (Disc 2): Playable :white_check_mark:
+- Keiou Yuugekitai: Okiraku Tamatebako (Japan) (Disc 1): Issues :warning:
+- Keiou Yuugekitai: Okiraku Tamatebako (Japan) (Disc 2): Playable :white_check_mark:
 
 ### Problems
 
@@ -39,6 +39,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1):
+Keiou Yuugekitai: Okiraku Tamatebako (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316*) - Voice Idol Maniacs: Pool Bar Story (Japan) = Issues?](https://img.youtube.com/vi/CoaZ1aVOXY8/0.jpg)](https://www.youtube.com/watch?v=CoaZ1aVOXY8)
+[![](https://img.youtube.com/vi/CoaZ1aVOXY8/0.jpg)](https://www.youtube.com/watch?v=CoaZ1aVOXY8)

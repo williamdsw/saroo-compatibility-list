@@ -51,7 +51,7 @@ Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc):
 
 ### Evidence
 
-Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M):
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M):
 
 [![](https://img.youtube.com/vi/Pg10zVC3svI/0.jpg)](https://www.youtube.com/watch?v=Pg10zVC3svI)
 

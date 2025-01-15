@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
+- Eberouge (Japan) (Disc 1): Playable :white_check_mark:
+- Eberouge (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -30,11 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Full Test Disc 1
-- Test Disc 2
+- Full test Eberouge (Japan) Disc 1
+- Full test Eberouge Eberouge (Japan) (Disc 2)
 
 ### Evidence
 
-Disc 1:
+Eberouge (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240118) - Eberouge (Disc 1) (Japan) = Playable](https://img.youtube.com/vi/lQDO4FhAUxM/0.jpg)](https://www.youtube.com/watch?v=lQDO4FhAUxM)
+[![](https://img.youtube.com/vi/lQDO4FhAUxM/0.jpg)](https://www.youtube.com/watch?v=lQDO4FhAUxM)

@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc A): Playable :white_check_mark:
-- (Disc B) (3A, 3C): Untested :question:
+- WanChai Connection (Japan) (Disc A): Playable :white_check_mark:
+- WanChai Connection (Japan) (Disc B) (3A, 3C): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc A):
+WanChai Connection (Japan) (Disc A):
 
 [![](https://img.youtube.com/vi/4k9-_o1Yws8/0.jpg)](https://www.youtube.com/watch?v=4k9-_o1Yws8)

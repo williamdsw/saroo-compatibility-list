@@ -25,4 +25,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - Panzer Dragoon II Zwei (USA)](https://img.youtube.com/vi/u7Gru2ZIu5c/0.jpg)](https://www.youtube.com/watch?v=u7Gru2ZIu5c)
+[![](https://img.youtube.com/vi/u7Gru2ZIu5c/0.jpg)](https://www.youtube.com/watch?v=u7Gru2ZIu5c)

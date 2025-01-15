@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240515) - Vandal Hearts: Ushinawareta Kodai Bunmei (Japan)](https://img.youtube.com/vi/_CYYkEu79jo/0.jpg)](https://www.youtube.com/watch?v=_CYYkEu79jo)
+[![](https://img.youtube.com/vi/_CYYkEu79jo/0.jpg)](https://www.youtube.com/watch?v=_CYYkEu79jo)

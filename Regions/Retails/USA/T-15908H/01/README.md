@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Off-World Interceptor Extreme (USA) = Playable](https://img.youtube.com/vi/2hsfJy2SLns/0.jpg)](https://www.youtube.com/watch?v=2hsfJy2SLns)
+[![](https://img.youtube.com/vi/2hsfJy2SLns/0.jpg)](https://www.youtube.com/watch?v=2hsfJy2SLns)

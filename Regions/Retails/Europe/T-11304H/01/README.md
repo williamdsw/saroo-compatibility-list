@@ -34,4 +34,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - 3D Lemmings (Europe) = Issues](https://img.youtube.com/vi/1D3dBn-tjbw/0.jpg)](https://www.youtube.com/watch?v=1D3dBn-tjbw)
+[![](https://img.youtube.com/vi/1D3dBn-tjbw/0.jpg)](https://www.youtube.com/watch?v=1D3dBn-tjbw)

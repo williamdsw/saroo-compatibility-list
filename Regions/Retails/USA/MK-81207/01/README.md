@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Sega Rally Championship (U) = Playable](https://img.youtube.com/vi/UTHJR2n7s-o/0.jpg)](https://www.youtube.com/watch?v=UTHJR2n7s-o)
+[![](https://img.youtube.com/vi/UTHJR2n7s-o/0.jpg)](https://www.youtube.com/watch?v=UTHJR2n7s-o)

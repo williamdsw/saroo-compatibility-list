@@ -33,4 +33,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Parodius (Europe) = Glitch & Playable](https://img.youtube.com/vi/R6Fh-W1U0OA/0.jpg)](https://www.youtube.com/watch?v=R6Fh-W1U0OA)
+[![](https://img.youtube.com/vi/R6Fh-W1U0OA/0.jpg)](https://www.youtube.com/watch?v=R6Fh-W1U0OA)

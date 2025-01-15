@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](https://img.youtube.com/vi/FsttgB6KkVA/0.jpg)](https://www.youtube.com/watch?v=FsttgB6KkVA)
+[![](https://img.youtube.com/vi/FsttgB6KkVA/0.jpg)](https://www.youtube.com/watch?v=FsttgB6KkVA)

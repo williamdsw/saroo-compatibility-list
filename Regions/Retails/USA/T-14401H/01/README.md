@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (P4H): Playable :white_check_mark:
-- (P5H): Untested :question:
+- Virtual Hydlide (USA) (P4H): Playable :white_check_mark:
+- Virtual Hydlide (USA) (P5H): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(P4H):
+Virtual Hydlide (USA) (P4H):
 
-[![[Sample] SAROO 1.32 (240316*) - Virtual Hydlide (USA)](https://img.youtube.com/vi/GhFOzO0xadU/0.jpg)](https://www.youtube.com/watch?v=GhFOzO0xadU)
+[![](https://img.youtube.com/vi/GhFOzO0xadU/0.jpg)](https://www.youtube.com/watch?v=GhFOzO0xadU)

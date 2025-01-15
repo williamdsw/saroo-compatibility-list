@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Shienryu (J) = Playable](https://img.youtube.com/vi/Z6wYRKAXsyc/0.jpg)](https://www.youtube.com/watch?v=Z6wYRKAXsyc)
+[![](https://img.youtube.com/vi/Z6wYRKAXsyc/0.jpg)](https://www.youtube.com/watch?v=Z6wYRKAXsyc)

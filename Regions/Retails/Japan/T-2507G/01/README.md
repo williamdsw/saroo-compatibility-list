@@ -21,12 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-(1M):
+Langrisser - Dramatic Edition (Japan) (1M):
 
 - Langrisser - Issues :warning:
 - Langrisser II - Playable :white_check_mark:
 
-(2M):
+Langrisser - Dramatic Edition (Japan) (2M):
 
 - Langrisser - Untested :question:
 - Langrisser II - Untested :question:
@@ -45,12 +45,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Langrisser - Dramatic Edition (Japan) (1M):
 
 Langrisser:
 
-[![[Sample] SAROO 1.32 (240118) - Langrisser: Dramatic Edition - Langrisser (Japan) = Issues](https://img.youtube.com/vi/8kBO_7p4d5Y/0.jpg)](https://www.youtube.com/watch?v=8kBO_7p4d5Y)
+[![](https://img.youtube.com/vi/8kBO_7p4d5Y/0.jpg)](https://www.youtube.com/watch?v=8kBO_7p4d5Y)
 
 Langrisser II:
 
-[![[Sample] SAROO 1.32 (240118) - Langrisser: Dramatic Edition - Langrisser II (Japan)](https://img.youtube.com/vi/giIDypjlHzU/0.jpg)](https://www.youtube.com/watch?v=giIDypjlHzU)
+[![](https://img.youtube.com/vi/giIDypjlHzU/0.jpg)](https://www.youtube.com/watch?v=giIDypjlHzU)

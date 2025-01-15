@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Playable :white_check_mark:
-- (2M): Untested :question:
+- World Advanced Daisenryaku - Sakusen File (Japan) (1M): Playable :white_check_mark:
+- World Advanced Daisenryaku - Sakusen File (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+World Advanced Daisenryaku - Sakusen File (Japan) (1M):
 
 [![](https://img.youtube.com/vi/SQhTL8oUE88/0.jpg)](https://www.youtube.com/watch?v=SQhTL8oUE88)

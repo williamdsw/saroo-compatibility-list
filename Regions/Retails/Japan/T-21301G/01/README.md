@@ -39,4 +39,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Disc 1:
 
-[![[Sample] SAROO 1.32 (231125) - 3x3 Eyes: Kyuusei Koushu S (Japan) = Playable](https://img.youtube.com/vi/bUDKmsHQFfc/0.jpg)](https://www.youtube.com/watch?v=bUDKmsHQFfc)
+[![](https://img.youtube.com/vi/bUDKmsHQFfc/0.jpg)](https://www.youtube.com/watch?v=bUDKmsHQFfc)

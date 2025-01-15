@@ -21,12 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Fixed with configuration :hammer_and_wrench:
-- (Disc 2): Untested :question:
+- Double Switch (USA) (Disc 1): Fixed with configuration :hammer_and_wrench:
+- Double Switch (USA) (Disc 2): Untested :question:
 
 ### Problems without configuration
 
-(Disc 1):
+Double Switch (USA) (Disc 1):
 
 - Random freezes on intro cutscene replay
 
@@ -40,11 +40,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully Test Double Switch (USA) (Disc 1)
-- Fully Test Double Switch (USA) (Disc 2)
+- Fully test Double Switch (USA) (Disc 1)
+- Fully test Double Switch (USA) (Disc 2)
 
 ### Evidence
 
-(Disc 1):
+Double Switch (USA) (Disc 1):
 
 [![](https://img.youtube.com/vi/JhJ2ZaWBLi4/0.jpg)](https://www.youtube.com/watch?v=JhJ2ZaWBLi4)

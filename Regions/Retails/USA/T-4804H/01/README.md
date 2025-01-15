@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (3S): Fixed with configuration :hammer_and_wrench:
-- (4S): Untested :question:
+- Last Gladiators - Digital Pinball (USA) (3S): Fixed with configuration :hammer_and_wrench:
+- Last Gladiators - Digital Pinball (USA) (4S): Untested :question:
 
 ### Problems without configuration
 
@@ -42,6 +42,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(3S):
+Last Gladiators - Digital Pinball (USA) (3S):
 
-[![[Sample] SAROO 1.32 (240118) - Digital Pinball: Last Gladiators (USA) - Fixed?](https://img.youtube.com/vi/80jjlTDehb8/0.jpg)](https://www.youtube.com/watch?v=80jjlTDehb8)
+[![](https://img.youtube.com/vi/80jjlTDehb8/0.jpg)](https://www.youtube.com/watch?v=80jjlTDehb8)

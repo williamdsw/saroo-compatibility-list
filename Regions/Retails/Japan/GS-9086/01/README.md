@@ -21,21 +21,21 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (2M): Playable :white_check_mark:
-- (3M): Untested :question:
-- (Rev A) (10M): Untested :question:
+- Greatest Nine '96 (2M): Playable :white_check_mark:
+- Greatest Nine '96 (3M): Untested :question:
+- Greatest Nine '96 (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-### TODOs
+### TODO
 
 - Test Greatest Nine '96 (Japan) (3M) - TODO
 - Test Greatest Nine '96 (Japan) (Rev A) (10M) - TODO
 
 ### Evidence
 
-(2M):
+Greatest Nine '96 (2M):
 
 [![](https://img.youtube.com/vi/955Ok6vJGF0/0.jpg)](https://www.youtube.com/watch?v=955Ok6vJGF0)

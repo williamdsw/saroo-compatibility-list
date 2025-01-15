@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Playable :white_check_mark:
-- (2M): Untested :question:
+- Fire Prowrestling S - 6Men Scramble (Japan) (1M): Playable :white_check_mark:
+- Fire Prowrestling S - 6Men Scramble (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Fire Prowrestling S - 6Men Scramble (Japan) (1M):
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Fire Pro Wrestling S: 6Men Scramble (Japan)](https://img.youtube.com/vi/-pLRwEYOFSQ/0.jpg)](https://www.youtube.com/watch?v=-pLRwEYOFSQ)
+[![](https://img.youtube.com/vi/-pLRwEYOFSQ/0.jpg)](https://www.youtube.com/watch?v=-pLRwEYOFSQ)

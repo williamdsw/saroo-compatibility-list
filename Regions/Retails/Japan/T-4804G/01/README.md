@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Shinrei Jusatsushi Taroumaru (J)](https://img.youtube.com/vi/RzHp3JTSVI4/0.jpg)](https://www.youtube.com/watch?v=RzHp3JTSVI4)
+[![](https://img.youtube.com/vi/RzHp3JTSVI4/0.jpg)](https://www.youtube.com/watch?v=RzHp3JTSVI4)

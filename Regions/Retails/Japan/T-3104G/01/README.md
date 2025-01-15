@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231111) - Samurai Shodown III: Blades of Blood (Japan)](https://img.youtube.com/vi/pADsVv96nFE/0.jpg)](https://www.youtube.com/watch?v=pADsVv96nFE)
+[![](https://img.youtube.com/vi/pADsVv96nFE/0.jpg)](https://www.youtube.com/watch?v=pADsVv96nFE)

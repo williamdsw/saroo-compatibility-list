@@ -21,14 +21,14 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
-- (Rev A) (10M): Untested :question:
+- Grandia - Digital Museum (Japan): Playable :white_check_mark:
+- Grandia - Digital Museum (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
-### TODOs
+### TODO
 
 - Test Grandia - Digital Museum (Japan) (Rev A) (10M)
 

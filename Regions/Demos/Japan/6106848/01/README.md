@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240515) - Baroque Report CD Data File (Japan) = Issues](https://img.youtube.com/vi/A5nyFL-obME/0.jpg)](https://www.youtube.com/watch?v=A5nyFL-obME)
+[![](https://img.youtube.com/vi/A5nyFL-obME/0.jpg)](https://www.youtube.com/watch?v=A5nyFL-obME)

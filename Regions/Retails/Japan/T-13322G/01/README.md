@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - R?MJ: The Mystery Hospital (Japan)](https://img.youtube.com/vi/E9TPG656CWs/0.jpg)](https://www.youtube.com/watch?v=E9TPG656CWs)
+[![](https://img.youtube.com/vi/E9TPG656CWs/0.jpg)](https://www.youtube.com/watch?v=E9TPG656CWs)

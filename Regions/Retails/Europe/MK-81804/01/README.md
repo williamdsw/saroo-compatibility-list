@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Issues :warning:
-- Disc 2: Untested :question:
+- Deep Fear (Europe) (Disc 1): Issues :warning:
+- Deep Fear (Europe) (Disc 2): Untested :question:
 
 ### Problems
 
@@ -34,11 +34,11 @@ It's needs a full gameplay test.
 
 ### TODO
 
-- Full Test Disc 1
-- Test Disc 2
+- Full test Deep Fear (Europe) (Disc 1)
+- Full test Deep Fear (Europe) (Disc 2)
 
 ### Evidence
 
-Disc 1:
+Deep Fear (Europe) (Disc 1):
 
-[![[Sample] SAROO 1.32 (231005) - Deep Fear (Europe)](https://img.youtube.com/vi/20zEf3zaV5s/0.jpg)](https://www.youtube.com/watch?v=20zEf3zaV5s)
+[![](https://img.youtube.com/vi/20zEf3zaV5s/0.jpg)](https://www.youtube.com/watch?v=20zEf3zaV5s)

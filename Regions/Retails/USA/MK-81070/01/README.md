@@ -29,4 +29,4 @@ Normal Game (Story Mode) completely tested. It's needs test for other modes.
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - Saturn Bomberman (USA)](https://img.youtube.com/vi/cBzaoX7G9nQ/0.jpg)](https://www.youtube.com/watch?v=cBzaoX7G9nQ)
+[![](https://img.youtube.com/vi/cBzaoX7G9nQ/0.jpg)](https://www.youtube.com/watch?v=cBzaoX7G9nQ)

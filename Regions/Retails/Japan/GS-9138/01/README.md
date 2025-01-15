@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(1M):
+Sakura Taisen: Hanagumi Taisen Columns (Japan) (1M):
 
 - <b>Game Name:</b> HANAGUMI TAISEN COLUMNS
 - <b>Product Number:</b> GS-9138
@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Playable :white_check_mark:
-- (2M): Untested :question:
+- Sakura Taisen: Hanagumi Taisen Columns (Japan) (1M): Playable :white_check_mark:
+- Sakura Taisen: Hanagumi Taisen Columns (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -36,6 +36,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Sakura Taisen: Hanagumi Taisen Columns (Japan) (1M):
 
 [![](https://img.youtube.com/vi/2vpR634O0C8/0.jpg)](https://www.youtube.com/watch?v=2vpR634O0C8)

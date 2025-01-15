@@ -32,4 +32,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Hack Sample] - SAROO 1.32 (231005) - Castlevania SOTN - Hack by YZB = Glitch & Playable](https://img.youtube.com/vi/WpgeUG8JmMo/0.jpg)](https://www.youtube.com/watch?v=WpgeUG8JmMo)
+[![](https://img.youtube.com/vi/WpgeUG8JmMo/0.jpg)](https://www.youtube.com/watch?v=WpgeUG8JmMo)

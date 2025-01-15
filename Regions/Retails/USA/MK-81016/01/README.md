@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2): Untested :question:
+- Mr. Bones (USA) (Disc 1): Playable :white_check_mark:
+- Mr. Bones (USA) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -31,8 +31,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### TODO
 
 - Fully test Mr. Bones (USA) (Disc 1)
-- Test Mr. Bones (USA) (Disc 2)
+- Fully test Mr. Bones (USA) (Disc 2)
 
 ### Evidence
+
+Mr. Bones (USA) (Disc 1):
 
 [![](https://img.youtube.com/vi/F8FgqWW7_Gk/0.jpg)](https://www.youtube.com/watch?v=F8FgqWW7_Gk)

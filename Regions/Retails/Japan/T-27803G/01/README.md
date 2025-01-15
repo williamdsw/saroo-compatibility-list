@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (Disc 1) :white_check_mark:
-- Untested (Disc 2) :question:
+- Ojousama Tokkyuu (Japan) (Disc 1): Playable :white_check_mark:
+- Ojousama Tokkyuu (Japan) (Disc 2): Untested :question:
 
 ### Extra Info
 
@@ -30,11 +30,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Full Test Disc 1
-- Test Disc 2
+- Full Test Ojousama Tokkyuu (Japan) (Disc 1)
+- Full Test Ojousama Tokkyuu (Japan) (Disc 2)
 
 ### Evidence
 
-Disc 1:
+Ojousama Tokkyuu (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240118) - Ojousama Tokkyuu (Disc 1) (Japan) = Playable](https://img.youtube.com/vi/xZnQg1E4GQI/0.jpg)](https://www.youtube.com/watch?v=xZnQg1E4GQI)
+[![](https://img.youtube.com/vi/xZnQg1E4GQI/0.jpg)](https://www.youtube.com/watch?v=xZnQg1E4GQI)

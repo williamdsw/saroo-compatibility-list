@@ -21,16 +21,16 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) - Playable :white_check_mark:
-- (Disc 2) - Untested :question:
+- Find Love 2 - Rhapsody (Japan) (Disc 1) - Playable :white_check_mark:
+- Find Love 2 - Rhapsody (Japan) (Disc 2) - Untested :question:
 
 ### TODO
 
 - Fully test Find Love 2 - Rhapsody (Japan) (Disc 1)
-- Test Find Love 2 - Rhapsody (Japan) (Disc 2)
+- Fully test Find Love 2 - Rhapsody (Japan) (Disc 2)
 
 ### Evidence
 
-(Disc 1):
+Find Love 2 - Rhapsody (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Find Love 2: Rhapsody (Japan) [Disc 1]](https://img.youtube.com/vi/hBY_TkBZgoI/0.jpg)](https://www.youtube.com/watch?v=hBY_TkBZgoI)
+[![](https://img.youtube.com/vi/hBY_TkBZgoI/0.jpg)](https://www.youtube.com/watch?v=hBY_TkBZgoI)

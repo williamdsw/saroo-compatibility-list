@@ -39,4 +39,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231108) - Groove on Fight: Gōketsuji Ichizoku 3 (Japan) = Fixed ?](https://img.youtube.com/vi/K3ajIqWbAVw/0.jpg)](https://www.youtube.com/watch?v=K3ajIqWbAVw)
+[![](https://img.youtube.com/vi/K3ajIqWbAVw/0.jpg)](https://www.youtube.com/watch?v=K3ajIqWbAVw)

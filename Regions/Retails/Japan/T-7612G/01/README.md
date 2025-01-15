@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (2M): Playable :white_check_mark:
-- (Rev A) (10M): Untested :question:
+- Winning Post 2 (Japan) (2M): Playable :white_check_mark:
+- Winning Post 2 (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
@@ -34,6 +34,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(2M):
+Winning Post 2 (Japan) (2M):
 
 [![](https://img.youtube.com/vi/cjb6dToSJYc/0.jpg)](https://www.youtube.com/watch?v=cjb6dToSJYc)

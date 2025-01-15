@@ -30,4 +30,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231111) - Striker '96 (USA) = Playable](https://img.youtube.com/vi/Nrn8De0KLGo/0.jpg)](https://www.youtube.com/watch?v=Nrn8De0KLGo)
+[![](https://img.youtube.com/vi/Nrn8De0KLGo/0.jpg)](https://www.youtube.com/watch?v=Nrn8De0KLGo)

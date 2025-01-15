@@ -33,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - Final Fight Revenge (Japan)](https://img.youtube.com/vi/13zsammNhjM/0.jpg)](https://www.youtube.com/watch?v=13zsammNhjM)
+[![](https://img.youtube.com/vi/13zsammNhjM/0.jpg)](https://www.youtube.com/watch?v=13zsammNhjM)

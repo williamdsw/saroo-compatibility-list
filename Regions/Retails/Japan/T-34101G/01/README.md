@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Retail):Fixed with configuration :hammer_and_wrench:
+- Tactics Formula (Japan): Fixed with configuration :hammer_and_wrench:
 
 ### Problems without configuration
 
@@ -37,6 +37,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Retail):
+Tactics Formula (Japan):
 
 [![](https://img.youtube.com/vi/7Y_eV3Gvcm0/0.jpg)](https://www.youtube.com/watch?v=7Y_eV3Gvcm0)

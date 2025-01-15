@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kumitate Battle Kuttu Ketto (J)](https://img.youtube.com/vi/EhmLcG5HnRo/0.jpg)](https://www.youtube.com/watch?v=EhmLcG5HnRo)
+[![](https://img.youtube.com/vi/EhmLcG5HnRo/0.jpg)](https://www.youtube.com/watch?v=EhmLcG5HnRo)

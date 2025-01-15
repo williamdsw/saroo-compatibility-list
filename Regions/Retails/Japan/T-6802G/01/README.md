@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Puzzle & Action: 2do Arukoto ha Sand-R (Japan) = Playable](https://img.youtube.com/vi/kBL3UhyN6Fo/0.jpg)](https://www.youtube.com/watch?v=kBL3UhyN6Fo)
+[![](https://img.youtube.com/vi/kBL3UhyN6Fo/0.jpg)](https://www.youtube.com/watch?v=kBL3UhyN6Fo)

@@ -21,10 +21,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Kojiroh Disc): Playable :white_check_mark:
-- (Disc 2) (Marina Disc): Untested :question:
-- (Disc 3) (Terror Disc): Untested :question:
-- (Disc 4) (Making Disc): Untested :question:
+- Burst Error (Japan) (Disc 1) (Kojiroh Disc): Playable :white_check_mark:
+- Burst Error (Japan) (Disc 2) (Marina Disc): Untested :question:
+- Burst Error (Japan) (Disc 3) (Terror Disc): Untested :question:
+- Burst Error (Japan) (Disc 4) (Making Disc): Untested :question:
 
 ### Extra Info
 
@@ -32,13 +32,13 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully Test Eve - Burst Error (Japan) (Disc 1) (Kojiroh Disc)
-- Fully Test Eve - Burst Error (Japan) (Disc 2) (Marina Disc)
-- Fully Test Eve - Burst Error (Japan) (Disc 3) (Terror Disc)
-- Test Eve - Burst Error (Japan) (Disc 4) (Making Disc)
+- Fully test Eve - Burst Error (Japan) (Disc 1) (Kojiroh Disc)
+- Fully test Eve - Burst Error (Japan) (Disc 2) (Marina Disc)
+- Fully test Eve - Burst Error (Japan) (Disc 3) (Terror Disc)
+- Fully test Eve - Burst Error (Japan) (Disc 4) (Making Disc)
 
 ### Evidence
 
-(Disc 1) (Kojiroh Disc):
+Burst Error (Japan) (Disc 1) (Kojiroh Disc):
 
-[![[Sample] SAROO 1.32 (240118) - Eve Burst Error (Japan) (Disc 1)](https://img.youtube.com/vi/POjMNeLW3i8/0.jpg)](https://www.youtube.com/watch?v=POjMNeLW3i8)
+[![](https://img.youtube.com/vi/POjMNeLW3i8/0.jpg)](https://www.youtube.com/watch?v=POjMNeLW3i8)

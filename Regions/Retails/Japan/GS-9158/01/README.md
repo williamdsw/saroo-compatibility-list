@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Rev A:
 
-[![[Sample] SAROO 1.32 (231125) - Zen Nihon Pro Wres Featuring Virtua (Japan) = Playable](https://img.youtube.com/vi/BztaLskZ7Ow/0.jpg)](https://www.youtube.com/watch?v=BztaLskZ7Ow)
+[![](https://img.youtube.com/vi/BztaLskZ7Ow/0.jpg)](https://www.youtube.com/watch?v=BztaLskZ7Ow)

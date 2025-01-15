@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Duke Nukem 3D (USA) = Playable](https://img.youtube.com/vi/mxY5-EnT8E4/0.jpg)](https://www.youtube.com/watch?v=mxY5-EnT8E4)
+[![](https://img.youtube.com/vi/mxY5-EnT8E4/0.jpg)](https://www.youtube.com/watch?v=mxY5-EnT8E4)

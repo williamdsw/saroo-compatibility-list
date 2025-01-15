@@ -29,4 +29,4 @@ It does need tests on another difficulties.
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - Sol Divide (Japan)](https://img.youtube.com/vi/FlFC2cw0Uiw/0.jpg)](https://www.youtube.com/watch?v=FlFC2cw0Uiw)
+[![](https://img.youtube.com/vi/FlFC2cw0Uiw/0.jpg)](https://www.youtube.com/watch?v=FlFC2cw0Uiw)

@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2): Untested :question:
-- (Disc 3): Untested :question:
+- Virus (Japan) (Disc 1): Playable :white_check_mark:
+- Virus (Japan) (Disc 2): Untested :question:
+- Virus (Japan) (Disc 3): Untested :question:
 
 ### Extra Info
 
@@ -33,10 +33,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Fully test Virus (Japan) (Disc 1)
 - Fully test Virus (Japan) (Disc 2)
-- Test Virus (Japan) (Disc 3)
+- Fully test Virus (Japan) (Disc 3)
 
 ### Evidence
 
-(Disc 1):
+Virus (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316*) - Virus (Japan) (Disc 1)](https://img.youtube.com/vi/AU8N5nBY2aI/0.jpg)](https://www.youtube.com/watch?v=AU8N5nBY2aI)
+[![](https://img.youtube.com/vi/AU8N5nBY2aI/0.jpg)](https://www.youtube.com/watch?v=AU8N5nBY2aI)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Irem Arcade Classics (Japan)](https://img.youtube.com/vi/M1StTSXtqjc/0.jpg)](https://www.youtube.com/watch?v=M1StTSXtqjc)
+[![](https://img.youtube.com/vi/M1StTSXtqjc/0.jpg)](https://www.youtube.com/watch?v=M1StTSXtqjc)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Aquazone Desktop Life (Japan) = Playable](https://img.youtube.com/vi/uqwEktHFtCI/0.jpg)](https://www.youtube.com/watch?v=uqwEktHFtCI)
+[![](https://img.youtube.com/vi/uqwEktHFtCI/0.jpg)](https://www.youtube.com/watch?v=uqwEktHFtCI)

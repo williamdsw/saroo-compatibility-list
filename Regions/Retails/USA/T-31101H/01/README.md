@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Highway 2000 (USA)](https://img.youtube.com/vi/JDSgRC-NE9A/0.jpg)](https://www.youtube.com/watch?v=JDSgRC-NE9A)
+[![](https://img.youtube.com/vi/JDSgRC-NE9A/0.jpg)](https://www.youtube.com/watch?v=JDSgRC-NE9A)

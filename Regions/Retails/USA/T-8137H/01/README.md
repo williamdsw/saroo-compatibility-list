@@ -39,4 +39,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240515) - Battle Monsters (USA) = Fixed ?](https://img.youtube.com/vi/YXsIwt-ZTSw/0.jpg)](https://www.youtube.com/watch?v=YXsIwt-ZTSw)
+[![](https://img.youtube.com/vi/YXsIwt-ZTSw/0.jpg)](https://www.youtube.com/watch?v=YXsIwt-ZTSw)

@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Jissen Mahjong (Japan)](https://img.youtube.com/vi/t8StApE9Wik/0.jpg)](https://www.youtube.com/watch?v=t8StApE9Wik)
+[![](https://img.youtube.com/vi/t8StApE9Wik/0.jpg)](https://www.youtube.com/watch?v=t8StApE9Wik)

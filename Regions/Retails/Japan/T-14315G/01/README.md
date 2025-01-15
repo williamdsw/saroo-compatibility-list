@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kindaichi Shounen no Jikenbo: Hoshimitou Kanashimi no Hukushuuki (J)](https://img.youtube.com/vi/2OKAc-J6UHA/0.jpg)](https://www.youtube.com/watch?v=2OKAc-J6UHA)
+[![](https://img.youtube.com/vi/2OKAc-J6UHA/0.jpg)](https://www.youtube.com/watch?v=2OKAc-J6UHA)

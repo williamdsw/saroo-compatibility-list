@@ -21,14 +21,14 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1 (2M, 3M): Playable :white_check_mark:
-- Disc 1 (4M): Untested :question:
-- Disc 2 (1M): Untested :question:
-- Disc 2 (2M): Untested :question:
-- Disc 3 (1M): Untested :question:
-- Disc 3 (2M): Untested :question:
-- Disc 4 (2M): Untested :question:
-- Disc 4 (3M): Untested :question:
+- Real Sound: Kaze no Regret (Japan) (Disc 1) (2M, 3M): Playable :white_check_mark:
+- Real Sound: Kaze no Regret (Japan) (Disc 1) (4M): Untested :question:
+- Real Sound: Kaze no Regret (Japan) (Disc 2) (1M): Untested :question:
+- Real Sound: Kaze no Regret (Japan) (Disc 2) (2M): Untested :question:
+- Real Sound: Kaze no Regret (Japan) (Disc 3) (1M): Untested :question:
+- Real Sound: Kaze no Regret (Japan) (Disc 3) (2M): Untested :question:
+- Real Sound: Kaze no Regret (Japan) (Disc 4) (2M): Untested :question:
+- Real Sound: Kaze no Regret (Japan) (Disc 4) (3M): Untested :question:
 
 ### Extra Info
 
@@ -36,17 +36,17 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Fully test Disc 1 (2M, 3M)
-- Fully test Disc 1 (4M)
-- Fully test Disc 2 (1M)
-- Fully test Disc 2 (2M)
-- Fully test Disc 3 (1M)
-- Fully test Disc 3 (2M)
-- Test Disc 4 (2M)
-- Test Disc 4 (3M)
+- Fully test Real Sound: Kaze no Regret (Japan) (Disc 1) (2M, 3M)
+- Fully test Real Sound: Kaze no Regret (Japan) (Disc 1) (4M)
+- Fully test Real Sound: Kaze no Regret (Japan) (Disc 2) (1M)
+- Fully test Real Sound: Kaze no Regret (Japan) (Disc 2) (2M)
+- Fully test Real Sound: Kaze no Regret (Japan) (Disc 3) (1M)
+- Fully test Real Sound: Kaze no Regret (Japan) (Disc 3) (2M)
+- Fully test Real Sound: Kaze no Regret (Japan) (Disc 4) (2M)
+- Fully test Real Sound: Kaze no Regret (Japan) (Disc 4) (3M)
 
 ### Evidence
 
-Disc 1 (2M, 3M):
+Real Sound: Kaze no Regret (Japan) (Disc 1) (2M, 3M):
 
-[![[Sample] SAROO 1.32 (240316) - Real Sound: Kaze no Regret (Japan) (Disc 1)](https://img.youtube.com/vi/23MQiDFP0mU/0.jpg)](https://www.youtube.com/watch?v=23MQiDFP0mU)
+[![](https://img.youtube.com/vi/23MQiDFP0mU/0.jpg)](https://www.youtube.com/watch?v=23MQiDFP0mU)

@@ -39,4 +39,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Disc 1:
 
-[![[Sample] SAROO 1.32 (240118) - Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) (Japan)](https://img.youtube.com/vi/xVkt7Tp9Sig/0.jpg)](https://www.youtube.com/watch?v=xVkt7Tp9Sig)
+[![](https://img.youtube.com/vi/xVkt7Tp9Sig/0.jpg)](https://www.youtube.com/watch?v=xVkt7Tp9Sig)

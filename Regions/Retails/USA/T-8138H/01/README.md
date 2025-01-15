@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240627 - v0.6 - exFat) - Frank Thomas Big Hurt Baseball (USA)](https://img.youtube.com/vi/TPoe3aQqrLw/0.jpg)](https://www.youtube.com/watch?v=TPoe3aQqrLw)
+[![](https://img.youtube.com/vi/TPoe3aQqrLw/0.jpg)](https://www.youtube.com/watch?v=TPoe3aQqrLw)

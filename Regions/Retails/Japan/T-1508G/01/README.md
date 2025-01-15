@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - O-chan no Oekaki Logic (Japan) = Playable](https://img.youtube.com/vi/KtQoKemK_dU/0.jpg)](https://www.youtube.com/watch?v=KtQoKemK_dU)
+[![](https://img.youtube.com/vi/KtQoKemK_dU/0.jpg)](https://www.youtube.com/watch?v=KtQoKemK_dU)

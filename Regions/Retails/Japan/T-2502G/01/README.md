@@ -21,10 +21,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Playable :white_check_mark:
-- (3M): Untested :question:
-- (Rev A) (5M): Untested :question:
-- (Rev A) (7M): Untested :question:
+- Langrisser III (Japan) (1M): Playable :white_check_mark:
+- Langrisser III (Japan) (3M): Untested :question:
+- Langrisser III (Japan) (Rev A) (5M): Untested :question:
+- Langrisser III (Japan) (Rev A) (7M): Untested :question:
 
 ### Extra Info
 
@@ -38,6 +38,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M):
+Langrisser III (Japan) (1M):
 
-[![[Sample] SAROO 1.32 (240118) - Langrisser III (Japan)](https://img.youtube.com/vi/QSR1-XTx8y0/0.jpg)](https://www.youtube.com/watch?v=QSR1-XTx8y0)
+[![](https://img.youtube.com/vi/QSR1-XTx8y0/0.jpg)](https://www.youtube.com/watch?v=QSR1-XTx8y0)

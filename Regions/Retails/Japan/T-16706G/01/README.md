@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1):
+Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 1):
 
 - <b>Game Name:</b> VOICE FANTASIA S
 - <b>Product Number:</b> T-16706G
@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
 
-(Disc 2):
+Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 2):
 
 - <b>Game Name:</b> VOICE FANTASIA S
 - <b>Product Number:</b> T-16706G
@@ -31,8 +31,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1): Playable :white_check_mark:
-- (Disc 2): Playable :white_check_mark:
+- Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 1): Playable :white_check_mark:
+- Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 2): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -41,10 +41,10 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(Disc 1):
+Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316*) - Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 1)](https://img.youtube.com/vi/9h55vPB_5d8/0.jpg)](https://www.youtube.com/watch?v=9h55vPB_5d8)
+[![](https://img.youtube.com/vi/9h55vPB_5d8/0.jpg)](https://www.youtube.com/watch?v=9h55vPB_5d8)
 
-(Disc 2):
+Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 2):
 
-[![[Complete] SAROO 1.32 (240316*) - Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 2)](https://img.youtube.com/vi/0hbNVFIVB5M/0.jpg)](https://www.youtube.com/watch?v=0hbNVFIVB5M)
+[![](https://img.youtube.com/vi/0hbNVFIVB5M/0.jpg)](https://www.youtube.com/watch?v=0hbNVFIVB5M)

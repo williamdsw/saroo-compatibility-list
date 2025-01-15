@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M, 4M): Playable :white_check_mark:
-- (2M): Untested :question:
-- (Rev A) (10M): Untested :question:
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (1M, 4M): Playable :white_check_mark:
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (2M): Untested :question:
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info
 
@@ -36,6 +36,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(1M, 4M):
+World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (1M, 4M):
 
 [![](https://img.youtube.com/vi/vxSz8AJvcEM/0.jpg)](https://www.youtube.com/watch?v=vxSz8AJvcEM)

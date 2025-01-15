@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Lupin the 3rd: The Master File (Japan)](https://img.youtube.com/vi/cu7IaRSJ53A/0.jpg)](https://www.youtube.com/watch?v=cu7IaRSJ53A)
+[![](https://img.youtube.com/vi/cu7IaRSJ53A/0.jpg)](https://www.youtube.com/watch?v=cu7IaRSJ53A)

@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (1M): Untested :question:
-- (4M, 5M): Issues :warning:
+- The King of Fighters '96 (Japan) (1M): Untested :question:
+- The King of Fighters '96 (Japan) (1M) (4M, 5M): Issues :warning:
 
 ### Problems
 
@@ -35,6 +35,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(4M, 5M):
+The King of Fighters '96 (Japan) (1M) (4M, 5M):
 
-[![[Complete] SAROO 1.32 (231005) - The King Of Fighters '96 (Japan) = Glitches & Freezes](https://img.youtube.com/vi/uXkwCQ9OlQU/0.jpg)](https://www.youtube.com/watch?v=uXkwCQ9OlQU)
+[![](https://img.youtube.com/vi/uXkwCQ9OlQU/0.jpg)](https://www.youtube.com/watch?v=uXkwCQ9OlQU)

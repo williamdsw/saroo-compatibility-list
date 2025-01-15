@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Étude Prologue: Yureugoku Kokoro no Katachi (Japan)](https://img.youtube.com/vi/OvcdDZctM2I/0.jpg)](https://www.youtube.com/watch?v=OvcdDZctM2I)
+[![](https://img.youtube.com/vi/OvcdDZctM2I/0.jpg)](https://www.youtube.com/watch?v=OvcdDZctM2I)

@@ -29,4 +29,4 @@ It needs a full gameplay tests. Tests with another characters.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231005) - Hyper Duel (Japan) = Playable](https://img.youtube.com/vi/v2p1R35IFTM/0.jpg)](https://www.youtube.com/watch?v=v2p1R35IFTM)
+[![](https://img.youtube.com/vi/v2p1R35IFTM/0.jpg)](https://www.youtube.com/watch?v=v2p1R35IFTM)

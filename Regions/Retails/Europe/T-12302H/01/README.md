@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Actua Golf (Europe) = Playable](https://img.youtube.com/vi/koC-jVZ5M3U/0.jpg)](https://www.youtube.com/watch?v=koC-jVZ5M3U)
+[![](https://img.youtube.com/vi/koC-jVZ5M3U/0.jpg)](https://www.youtube.com/watch?v=koC-jVZ5M3U)

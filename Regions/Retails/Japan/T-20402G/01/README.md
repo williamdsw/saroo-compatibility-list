@@ -31,4 +31,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231125) - Strikers 1945 II (J)](https://img.youtube.com/vi/oC6GS3qJwuc/0.jpg)](https://www.youtube.com/watch?v=oC6GS3qJwuc)
+[![](https://img.youtube.com/vi/oC6GS3qJwuc/0.jpg)](https://www.youtube.com/watch?v=oC6GS3qJwuc)

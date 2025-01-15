@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Koutetsu Reiiki: Steeldom (J)](https://img.youtube.com/vi/hXdEGuyJF3Q/0.jpg)](https://www.youtube.com/watch?v=hXdEGuyJF3Q)
+[![](https://img.youtube.com/vi/hXdEGuyJF3Q/0.jpg)](https://www.youtube.com/watch?v=hXdEGuyJF3Q)

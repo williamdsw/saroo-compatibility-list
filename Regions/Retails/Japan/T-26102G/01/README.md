@@ -39,4 +39,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316) - K-1 Fighting Illusion Shou (J) = Fixed?](https://img.youtube.com/vi/bG48ieFZsWo/0.jpg)](https://www.youtube.com/watch?v=bG48ieFZsWo)
+[![](https://img.youtube.com/vi/bG48ieFZsWo/0.jpg)](https://www.youtube.com/watch?v=bG48ieFZsWo)

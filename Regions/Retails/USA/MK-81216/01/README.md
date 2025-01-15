@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Sega Touring Car Championship (U) = Playable](https://img.youtube.com/vi/vZbZulMA5UQ/0.jpg)](https://www.youtube.com/watch?v=vZbZulMA5UQ)
+[![](https://img.youtube.com/vi/vZbZulMA5UQ/0.jpg)](https://www.youtube.com/watch?v=vZbZulMA5UQ)

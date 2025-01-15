@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Ishin no Arashi (Japan)](https://img.youtube.com/vi/khcjzITP3DU/0.jpg)](https://www.youtube.com/watch?v=khcjzITP3DU)
+[![](https://img.youtube.com/vi/khcjzITP3DU/0.jpg)](https://www.youtube.com/watch?v=khcjzITP3DU)

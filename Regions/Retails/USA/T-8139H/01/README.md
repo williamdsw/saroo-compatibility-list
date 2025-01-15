@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Impact Racing (USA)](https://img.youtube.com/vi/u8XZBy5eU5I/0.jpg)](https://www.youtube.com/watch?v=u8XZBy5eU5I)
+[![](https://img.youtube.com/vi/u8XZBy5eU5I/0.jpg)](https://www.youtube.com/watch?v=u8XZBy5eU5I)

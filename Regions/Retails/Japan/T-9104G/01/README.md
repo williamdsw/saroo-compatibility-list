@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - OoEdo Renaissance (Japan) = Playable](https://img.youtube.com/vi/K8tnm2Ph_rs/0.jpg)](https://www.youtube.com/watch?v=K8tnm2Ph_rs)
+[![](https://img.youtube.com/vi/K8tnm2Ph_rs/0.jpg)](https://www.youtube.com/watch?v=K8tnm2Ph_rs)

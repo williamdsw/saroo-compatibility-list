@@ -33,4 +33,4 @@ It's fully playable on single player mode (1P).
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (231005) - DonPachi (Japan)](https://img.youtube.com/vi/XKBpFywzsWk/0.jpg)](https://www.youtube.com/watch?v=XKBpFywzsWk)
+[![](https://img.youtube.com/vi/XKBpFywzsWk/0.jpg)](https://www.youtube.com/watch?v=XKBpFywzsWk)

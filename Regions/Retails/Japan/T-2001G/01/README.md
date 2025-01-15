@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Issues :warning:
-- Disc 2: Untested :question:
+- Houma Hunter Lime Perfect Collection (Japan) (Disc 1): Issues :warning:
+- Houma Hunter Lime Perfect Collection (Japan) (Disc 2): Untested :question:
 
 ### Problems
 
@@ -31,6 +31,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-Disc 1:
+Houma Hunter Lime Perfect Collection (Japan) (Disc 1):
 
-[![[Sample] SAROO 1.32 (240316) - Houma Hunter Lime Perfect Collection (Japan) = Issues](https://img.youtube.com/vi/cIt7GmRIrZw/0.jpg)](https://www.youtube.com/watch?v=cIt7GmRIrZw)
+[![](https://img.youtube.com/vi/cIt7GmRIrZw/0.jpg)](https://www.youtube.com/watch?v=cIt7GmRIrZw)

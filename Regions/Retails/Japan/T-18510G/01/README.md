@@ -13,7 +13,7 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-(Disc 1):
+Daisuki (Japan) (Disc 1):
 
 - <b>Game Name:</b> DAISUKI
 - <b>Product Number:</b> T-18510G
@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> JMGE
 
-(Disc 2) (Special):
+Daisuki (Japan) (Disc 2) (Special):
 
 - <b>Game Name:</b> DAISUKI
 - <b>Product Number:</b> T-18510G
@@ -33,8 +33,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 TODO
 
-- (Disc 1): Untested :question:
-- (Disc 2) (Special): Playable :white_check_mark:
+- Daisuki (Japan) (Disc 1): Untested :question:
+- Daisuki (Japan) (Disc 2) (Special): Playable :white_check_mark:
 
 ### Extra Info
 
@@ -42,10 +42,10 @@ TODO
 
 ### Evidence
 
-(Disc 1):
+Daisuki (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/Mqnt-AzQNSo/0.jpg)](https://www.youtube.com/watch?v=Mqnt-AzQNSo)
 
-(Disc 2) (Special):
+Daisuki (Japan) (Disc 2) (Special):
 
 [![](https://img.youtube.com/vi/mC1tr9wR3ok/0.jpg)](https://www.youtube.com/watch?v=mC1tr9wR3ok)

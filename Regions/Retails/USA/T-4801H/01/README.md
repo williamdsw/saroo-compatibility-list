@@ -21,12 +21,12 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (12S): Issues :warning:
-- (15S): Untested :question:
+- Virtua Racing (USA) (12S): Issues :warning:
+- Virtua Racing (USA) (15S): Untested :question:
 
 ### Problems
 
-(12S):
+Virtua Racing (USA) (12S):
 
 - It doesn't play music at some checkpoints.
 - The music does bug when replay mode (note the drums)
@@ -41,6 +41,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-(12S):
+Virtua Racing (USA) (12S):
 
-[![[Sample] SAROO 1.32 (240316*) - Virtua Racing (USA) = Issues](https://img.youtube.com/vi/-dpLxJRGehs/0.jpg)](https://www.youtube.com/watch?v=-dpLxJRGehs)
+[![](https://img.youtube.com/vi/-dpLxJRGehs/0.jpg)](https://www.youtube.com/watch?v=-dpLxJRGehs)

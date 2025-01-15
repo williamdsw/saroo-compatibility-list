@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - Kekkon "Zenya" (J)](https://img.youtube.com/vi/ItQz0Ylj7vM/0.jpg)](https://www.youtube.com/watch?v=ItQz0Ylj7vM)
+[![](https://img.youtube.com/vi/ItQz0Ylj7vM/0.jpg)](https://www.youtube.com/watch?v=ItQz0Ylj7vM)

@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Ochige Designer Tsukutte pon! (Japan) = Playable](https://img.youtube.com/vi/FePQIRzbM6M/0.jpg)](https://www.youtube.com/watch?v=FePQIRzbM6M)
+[![](https://img.youtube.com/vi/FePQIRzbM6M/0.jpg)](https://www.youtube.com/watch?v=FePQIRzbM6M)

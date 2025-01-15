@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (231125) - Galactic Attack (U) = Playable](https://img.youtube.com/vi/tx2eI-BkA04/0.jpg)](https://www.youtube.com/watch?v=tx2eI-BkA04)
+[![](https://img.youtube.com/vi/tx2eI-BkA04/0.jpg)](https://www.youtube.com/watch?v=tx2eI-BkA04)

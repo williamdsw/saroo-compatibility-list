@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Complete] SAROO 1.32 (240316*) - Virtua Fighter CG Portrait Series Vol. 9 Kage Maru (J)](https://img.youtube.com/vi/x3TxEzERMUY/0.jpg)](https://www.youtube.com/watch?v=x3TxEzERMUY)
+[![](https://img.youtube.com/vi/x3TxEzERMUY/0.jpg)](https://www.youtube.com/watch?v=x3TxEzERMUY)

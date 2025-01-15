@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240316) - The Lost World: Jurassic Park (USA)](https://img.youtube.com/vi/eTN3PPnpxxs/0.jpg)](https://www.youtube.com/watch?v=eTN3PPnpxxs)
+[![](https://img.youtube.com/vi/eTN3PPnpxxs/0.jpg)](https://www.youtube.com/watch?v=eTN3PPnpxxs)

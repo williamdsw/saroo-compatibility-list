@@ -13,6 +13,8 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
+Astal (USA) (1S):
+
 - <b>Game Name:</b> ASTAL
 - <b>Product Number:</b> MK-81019
 - <b>Version:</b> V1.003
@@ -21,9 +23,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- 1S: Playable :white_check_mark:
-- 2S: Untested :question:
-- 3S: Untested :question:
+- Astal (USA) (1S): Playable :white_check_mark:
+- Astal (USA) (2S): Untested :question:
+- Astal (USA) (3S): Untested :question:
 
 ### Extra Info
 
@@ -38,4 +40,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 1S:
 
-[![[Sample] SAROO 1.32 (231125) - Astal (USA) (1S) = Playable](https://img.youtube.com/vi/Yfhz5RX9gwc/0.jpg)](https://www.youtube.com/watch?v=Yfhz5RX9gwc)
+[![](https://img.youtube.com/vi/Yfhz5RX9gwc/0.jpg)](https://www.youtube.com/watch?v=Yfhz5RX9gwc)

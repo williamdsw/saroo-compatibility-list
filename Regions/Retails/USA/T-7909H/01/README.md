@@ -29,4 +29,4 @@ It's needs a full gameplay test.
 
 ### Evidence
 
-[![[Sample] SAROO 1.32 (240118) - Johnny Bazookatone (USA)](https://img.youtube.com/vi/gMrOFbmHfPo/0.jpg)](https://www.youtube.com/watch?v=gMrOFbmHfPo)
+[![](https://img.youtube.com/vi/gMrOFbmHfPo/0.jpg)](https://www.youtube.com/watch?v=gMrOFbmHfPo)
