@@ -2,7 +2,7 @@
 
 ## G
 
-#### 72 Jogos (60 Testados)
+#### 72 Jogos (62 Testados)
 
 - [G Vector (Japan)](../../../Regions/Retails/Japan/T-30603G/01/README.md) - :white_check_mark:
 - [GT24 (Japan)](../../../Regions/Retails/Japan/T-5714G/01/README.md) - :white_check_mark:
@@ -12,9 +12,9 @@
 - [Gal Jan (Japan)](../../../Regions/Retails/Japan/T-29101G/01/README.md) - :white_check_mark:
 - [Galactic Attack (Europe)](../../../Regions/Retails/Europe/T-8116H-50/01/README.md) - :white_check_mark:
 - [Galactic Attack (USA)](../../../Regions/Retails/USA/T-8116H/01/README.md) - :white_check_mark:
-- Galaxy Fight (Europe) - TODO
+- [Galaxy Fight (Europe)](../../../Regions/Retails/Europe/T-1504H-50/01/README.md) - :white_check_mark:
 - [Galaxy Fight (USA)](../../../Regions/Retails/USA/T-1504H/01/README.md) - :white_check_mark:
-- Galaxy Fight - Universal Warriors (Japan) - TODO
+- [Galaxy Fight: Universal Warriorss (Japan)](../../../Regions/Retails/Japan/T-1510G/01/README.md) - :white_check_mark:
 - [Gale Racer (Japan)](../../../Regions/Retails/Japan/GS-9003/01/README.md) - :white_check_mark:
 - [Gals Panic SS (Japan)](../../../Regions/Retails/Japan/T-29002G/01/README.md) - :white_check_mark:
 - [Game Nihonshi: Kakumeiji Oda Nobunaga (Japan)](../../../Regions/Retails/Japan/T-7633G/01/README.md) - :white_check_mark:

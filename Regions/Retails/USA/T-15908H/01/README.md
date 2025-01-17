@@ -1,4 +1,4 @@
-# Off-World Interceptor Extreme (USA)
+# Off-World Interceptor Extreme (Japan)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 
@@ -14,9 +14,9 @@
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
 - <b>Game Name:</b> OFF-WORLD INTERCEPTOR EXTREME
-- <b>Product Number:</b> T-15908H
+- <b>Product Number:</b> T-15901G
 - <b>Version:</b> V1.000
-- <b>Area Code:</b> U
+- <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
 
 ### Status
@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/2hsfJy2SLns/0.jpg)](https://www.youtube.com/watch?v=2hsfJy2SLns)
+[![](https://img.youtube.com/vi/pQ1N_SlbTlA/0.jpg)](https://www.youtube.com/watch?v=pQ1N_SlbTlA)

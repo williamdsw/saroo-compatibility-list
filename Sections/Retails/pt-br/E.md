@@ -2,7 +2,7 @@
 
 ## E
 
-#### 41 Jogos (18 Testados)
+#### 23 Jogos (20 Testados)
 
 - Earthworm Jim 2 (Europe) - TODO
 - Earthworm Jim 2 (Japan) (2M) - TODO
@@ -19,26 +19,8 @@
 - [Emit Vol. 1 - Toki no Maigo (Japan)](../../../Regions/Retails/Japan/T-7602G/01/README.md) - :white_check_mark:
 - [Emit Vol. 2 - Inochigake no Tabi (Japan)](../../../Regions/Retails/Japan/T-7603G/01/README.md) - :warning:
 - [Emit Vol. 3 - Watashi ni Sayonara o (Japan)](../../../Regions/Retails/Japan/T-7604G/01/README.md) - :white_check_mark:
-- Enemy Zero (Europe) (Disc 0) (Opening Disc) - TODO
-- Enemy Zero (Europe) (Disc 1) (Game Disc) - TODO
-- Enemy Zero (Europe) (Disc 2) (Game Disc) - TODO
-- Enemy Zero (Europe) (Disc 3) (Game Disc) - TODO
-- Enemy Zero (Japan) (Disc 0) (Opening Disc) (1M) - TODO
-- Enemy Zero (Japan) (Disc 0) (Opening Disc) (2M) - TODO
-- Enemy Zero (Japan) (Disc 0) (Opening Disc) (Satakore) - TODO
-- Enemy Zero (Japan) (Disc 0) (Opening Disc) - TODO
-- Enemy Zero (Japan) (Disc 1) (Game Disc) (1M) - TODO
-- Enemy Zero (Japan) (Disc 1) (Game Disc) (2M) - TODO
-- Enemy Zero (Japan) (Disc 1) (Game Disc) (Satakore) - TODO
-- Enemy Zero (Japan) (Disc 1) (Game Disc) - TODO
-- Enemy Zero (Japan) (Disc 2) (Game Disc) (1M) - TODO
-- Enemy Zero (Japan) (Disc 2) (Game Disc) (2M) - TODO
-- Enemy Zero (Japan) (Disc 2) (Game Disc) (Satakore) - TODO
-- Enemy Zero (Japan) (Disc 2) (Game Disc) - TODO
-- Enemy Zero (Japan) (Disc 3) (Game Disc) (1M, 4M) - TODO
-- Enemy Zero (Japan) (Disc 3) (Game Disc) (3M) - TODO
-- Enemy Zero (Japan) (Disc 3) (Game Disc) (Satakore) - TODO
-- Enemy Zero (Japan) (Disc 3) (Game Disc) - TODO
+- [Enemy Zero (Europe)](../../../Regions/Retails/Europe/MK-81076/01/README.md) - :question:
+- [Enemy Zero (Japan)](../../../Regions/Retails/Japan/T-30001G/01/README.md) - :question:
 - [Enemy Zero (USA)](../../../Regions/Retails/USA/MK-81076/01/README.md) - :question:
 - [Eternal Melody (Japan)](../../../Regions/Retails/Japan/T-27802G/01/README.md) - :white_check_mark:
 - [Étude Prologue: Yureugoku Kokoro no Katachi (Japan)](../../../Regions/Retails/Japan/T-37901G/01/README.md) - :white_check_mark:

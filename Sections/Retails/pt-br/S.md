@@ -2,7 +2,7 @@
 
 ## S
 
-#### 257 Jogos (152 Testados - a serem testados - 92 TODO)
+#### 257 Jogos (153 Testados - 13 a serem testados - 91 TODO)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
@@ -49,7 +49,7 @@
 - [Sega Ages OutRun (Japan)](../../../Regions/Retails/Japan/GS-9110/01/README.md) - TODO
 - [Sega Ages Power Drift (Japan)](../../../Regions/Retails/Japan/GS-9181/01/README.md) - TODO
 - [Sega Ages Space Harrier (Japan)](../../../Regions/Retails/Japan/GS-9108/01/README.md) - TODO
-- Sega International Victory Goal (Japan) (5M) - TODO
+- [Sega International Victory Goal (Japan)](../../../Regions/Retails/Japan/GS-9044/01/README.md) - :white_check_mark:
 - Sega Rally Championship (Europe) (Made in EU) - TODO
 - Sega Rally Championship (Europe) (Made in USA) - TODO
 - Sega Rally Championship (Japan) - TODO

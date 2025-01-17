@@ -2,7 +2,7 @@
 
 ## H
 
-#### 48 Games (39 Tested)
+#### 48 Games (40 Tested)
 
 - Hang On GP '95 (Japan) (1M) - TODO
 - Hang On GP '95 (Japan) (2M) - TODO
@@ -31,7 +31,7 @@
 - [Hideo Nomo World Series Baseball (Japan)](../../../Regions/Retails/Japan/GS-9061/01/README.md) - :white_check_mark:
 - [High Velocity - Mountain Racing Challenge (USA)](../../../Regions/Retails/USA/T-14402H/01/README.md) - :white_check_mark:
 - [Highschool Terra Story (Japan)](../../../Regions/Retails/Japan/T-19715G/01/README.md) - :white_check_mark:
-- Highway 2000 (Europe) - TODO
+- [Highway 2000 (Europe)](../../../Regions/Retails/Europe/T-6012H-50/01/README.md) - :white_check_mark:
 - [Highway 2000 (USA)](../../../Regions/Retails/USA/T-31101H/01/README.md) - :white_check_mark:
 - [Himitsu Sentai Metamor V (Japan)](../../../Regions/Retails/Japan/T-29005G/01/README.md) - :white_check_mark:
 - [Hissatsu Pachinko Collection (Japan)](../../../Regions/Retails/Japan/T-1503G/01/README.md) - :finnadie: (TODO - Update?)

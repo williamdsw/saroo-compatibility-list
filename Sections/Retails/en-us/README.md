@@ -7,16 +7,16 @@
 ### Regions
 
 - `Brazil` - BRA, BR (1 Game)
-- `Europe` - EUR, EU (65 Games)
+- `Europe` - EUR, EU (68 Games)
 - `France` - FRA, FR (0 Games)
-- `Germany` - GER, GE (1 Game)
+- `Germany` - GER, GE (2 Game)
 - `Italy` - ITA, IT (0 Game)
-- `Japan` - JAP, JP (851 Games)
-- `South Korea` - STK, SK (0 Games)
+- `Japan` - JAP, JP (760 Games)
+- `South Korea` - STK, SK (1 Game)
 - `Spain` - SPA, SP (0 Games)
-- `Taiwan` - TAI, TW (4 Game)
-- `USA` - United States of America, US (231 Games)
-- Total: 1.153 games registered
+- `Taiwan` - TAI, TW (4 Games)
+- `USA` - United States of America, US (219 Games)
+- Total: 1.055 games registered
 
 ### Games
 

@@ -2,7 +2,7 @@
 
 ## M
 
-#### 115 Games (81 Tested)
+#### 115 Games (82 Tested)
 
 - [Maboroshi no Black Bass (Japan)](../../../Regions/Retails/Japan/T-25303G/01/README.md) - :white_check_mark:
 - [Machine Head (USA)](../../../Regions/Retails/USA/T-7914H/01/README.md) - :white_check_mark:
@@ -45,7 +45,7 @@
 - [Mahou Tsukai ni Naru Houhou (Japan)](../../../Regions/Retails/Japan/T-32510G/01/README.md) - :white_check_mark:
 - [Mainichi Kawaru Quiz Bangumi Quiz 365 (Japan)](../../../Regions/Retails/Japan/T-21201G/01/README.md) - :white_check_mark:
 - [Making of Nightruth II: Voice Selection (Japan)](../../../Regions/Retails/Japan/T-20205G/01/README.md) - :warning:
-- Manx TT SuperBike (Europe) - TODO
+- [Manx TT SuperBike (Europe)](../../../Regions/Retails/Europe/MK-81210/01/README.md) - :white_check_mark:
 - Manx TT SuperBike (Japan) - TODO
 - [Manx TT SuperBike (USA)](../../../Regions/Retails/USA/MK-81210/01/README.md) - :white_check_mark:
 - [Maria: Kimitachi ga Umareta Wake (Japan)](../../../Regions/Retails/Japan/T-36302G/01/README.md) - :question:

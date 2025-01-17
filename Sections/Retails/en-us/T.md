@@ -2,7 +2,7 @@
 
 ## T
 
-#### 136 Games (43 Tested - 39 to be registered)
+#### 136 Games (45 Tested - 39 to be registered)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - Tactical Fighter (Japan) - TODO (Recorded)
@@ -58,10 +58,10 @@
 - The Horde (Germany) - TODO
 - The Horde (Japan) - TODO
 - [The Horde (USA)](../../../Regions/Retails/USA/T-15909H50/01/README.md) - :hammer_and_wrench:
-- The House of the Dead (Europe) - TODO
+- [The House of the Dead (Europe)](../../../Regions/Retails/Europe/MK-81802/01/README.md) - :white_check_marks:
 - The House of the Dead (Japan) (Rev A) - TODO
 - The House of the Dead (Japan) - TODO
-- The House of the Dead (USA) - TODO (Recorded)
+- [The House of the Dead (USA)](../../../Regions/Retails/USA/81802/01/REsADME.md) - :white_check_marks:
 - [The Hyper Golf - Devil's Course (Japan)](../../../Regions/Retails/Japan/T-2303H/01/README.md) - :white_check_mark:
 - The Incredible Hulk - The Pantheon Saga (Europe) - TODO
 - [The Incredible Hulk - The Pantheon Saga (USA)](../../../Regions/Retails/USA/T-7905H/01/README.md) - :hammer_and_wrench:

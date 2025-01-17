@@ -2,7 +2,7 @@
 
 ## W
 
-#### 71 Games (44 Tested)
+#### 71 Games (45 Tested)
 
 - WWF In Your House (Europe) - TODO
 - WWF In Your House (Japan) - TODO
@@ -70,7 +70,7 @@
 - World Series Baseball II (Japan) - TODO
 - [World Series Baseball II (USA)](../../../Regions/Retails/USA/MK-81113/01/README.md) - :white_check_mark:
 - [Worldwide Soccer '98 (USA)](../../../Regions/Retails/USA/MK-81123/01/README.md) - :white_check_mark:
-- Worldwide Soccer - Sega International Victory Goal Edition (South Korea) - TODO
+- [Worldwide Soccer: Sega International Victory Goal Edition (South Korea)](../../../Regions/Retails/SouthKorea/MK-81105/01/README.md) - :white_check_mark:
 - [Worldwide Soccer: Sega International Victory Goal Edition (USA)](../../../Regions/Retails/USA/MK-81105/01/README.md) - :white_check_mark:
 - Worms (Europe) - TODO
 - Worms (Japan) - TODO

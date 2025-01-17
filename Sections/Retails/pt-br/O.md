@@ -2,19 +2,19 @@
 
 ## O
 
-#### 16 Jogos (11 Testados)
+#### 16 Jogos
 
 - [Ochigee Designer Tsukutte Pon! (Japan)](../../../Regions/Retails/Japan/T-9108G/01/README.md) - :white_check_mark:
-- Off-World Interceptor Extreme (Europe) - TODO
-- Off-World Interceptor Extreme (Japan) - TODO
+- [Off-World Interceptor Extreme (Europe)](../../../Regions/Retails/Europe/T-15908H40/01/README.md) - :white_check_mark:
+- [Off-World Interceptor Extreme (Japan)](../../../Regions/Retails/Japan/T-15901G/01/README.md) - :white_check_mark:
 - [Off-World Interceptor Extreme (USA)](../../../Regions/Retails/USA/T-15908H/01/README.md) - :white_check_mark:
 - [Oh-chan no Oekaki Logic (Japan)](../../../Regions/Retails/Japan/T-1508G/01/README.md) - :white_check_mark:
 - [Ojousama Tokkyuu (Japan)](../../../Regions/Retails/Japan/T-27803G/01/README.md) - :question:
 - [Ojousama o Nerae!! (Japan)](../../../Regions/Retails/Japan/T-38101G/01/README.md) - :white_check_mark:
 - [Okudera Yasuhiko no Sekai o Mezase! Soccer Kids - Nyuumon-hen (Japan)](../../../Regions/Retails/Japan/T-26001G/01/README.md) - :white_check_mark:
-- Olympic Soccer (Europe) - TODO
-- Olympic Soccer (Germany) - TODO
-- Olympic Soccer (Japan) - TODO
+- [Olympic Soccer (Europe)](../../../Regions/Retails/Europe/T-07904H50/01/README.md) - :white_check_mark:
+- [Olympic Soccer (Germany)](../../../Regions/Retails/Germany/T-07904H18/01/README.md) - :white_check_mark:
+- [Olympic Soccer (Japan)](../../../Regions/Retails/Japan/T-7304G/01/README.md) - :white_check_mark:
 - [Olympic Soccer (USA)](../../../Regions/Retails/USA/T-07904H/01/README.md) - :white_check_mark:
 - [Omakase! Savers (Japan)](../../../Regions/Retails/Japan/GS-9030/01/README.md) - :white_check_mark:
 - [OoEdo Renaissance (Japan)](../../../Regions/Retails/Japan/T-9104G/01/README.md) - :white_check_mark:
