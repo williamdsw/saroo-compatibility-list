@@ -15,7 +15,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - <b>Game Name:</b> GALS PANIC SS
 - <b>Product Number:</b> T-29002G
-- <b>Version:</b> 1.005
+- <b>Version:</b> V1.005
 - <b>Area Code:</b> J
 - <b>Peripheral Code:</b> J
 

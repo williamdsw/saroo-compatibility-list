@@ -5,7 +5,7 @@
 ### General Info
 
 - <b>Vendor/Store:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_Dl2XgzD)
-- <b>Version:</b> 1.32F
+- <b>Version:</b> V1.32F
 - <b>Model:</b> Green Card
 
 #### Purchase Links (AliExpress)

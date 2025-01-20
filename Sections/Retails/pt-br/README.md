@@ -7,16 +7,16 @@
 ### Regiões
 
 - `Brazil` - Brasil, BRA, BR (1 Jogo)
-- `Europe` - Europa, EUR, EU (68 Jogos)
+- `Europe` - Europa, EUR, EU (70 Jogos)
 - `France` - França, FRA, FR (0 Jogos)
 - `Germany` - Alemanha, GER, GE (2 Jogo)
 - `Italy` - Itália, ITA, IT (0 Jogos)
-- `Japan` - Japão, JAP, JP (760 Jogos)
+- `Japan` - Japão, JAP, JP (795 Jogos)
 - `South Korea` - Coréia do Sul, STK, SK (1 Jogo)
 - `Spain` - Espanha, SPA, SP (0 Jogos)
 - `Taiwan` - TAI, TW (4 Jogo)
-- `USA` - Estados Unidos da América, US (219 Jogos)
-- Total: 1.055 jogos registrados
+- `USA` - Estados Unidos da América, US (222 Jogos)
+- Total: 1.095 jogos registrados
 
 ### Jogos
 

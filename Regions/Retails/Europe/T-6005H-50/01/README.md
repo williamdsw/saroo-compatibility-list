@@ -17,7 +17,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - <b>Game Name:</b> THE KING OF BOXING/VICTORY BOXING
 - <b>Product Number:</b> T-6005H-50
-- <b>Version:</b> 1.02E
+- <b>Version:</b> V1.02E
 - <b>Area Code:</b> E
 - <b>Peripheral Code:</b> J
 
