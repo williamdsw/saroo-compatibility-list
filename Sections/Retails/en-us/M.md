@@ -2,7 +2,7 @@
 
 ## M
 
-#### 115 Games (82 Tested)
+#### 115 Games (83 Tested)
 
 - [Maboroshi no Black Bass (Japan)](../../../Regions/Retails/Japan/T-25303G/01/README.md) - :white_check_mark:
 - [Machine Head (USA)](../../../Regions/Retails/USA/T-7914H/01/README.md) - :white_check_mark:
@@ -21,7 +21,7 @@
 - [Magical Drop (Japan)](../../../Regions/Retails/Japan/T-1304G/01/README.md) - :white_check_mark:
 - [Magical Drop 2 (Japan)](../../../Regions/Retails/Japan/GS-9104/01/README.md) - :white_check_mark:
 - [Magical Drop III Toretate Zoukangou! (Japan)](../../../Regions/Retails/Japan/T-1313G/01/README.md) - :hammer_and_wrench:
-- Magical Hoppers (Japan) - TODO
+- [Magical Hoppers (Japan)](../../../Regions/Retails/Japan/T-13316G/01/README.md) - :white_check_mark:
 - Mahjong Doukyuusei Special (Japan) (Disc 1) (Shokai Genteiban) - TODO
 - Mahjong Doukyuusei Special (Japan) (Disc 2) (Portrait CD) (Shokai Genteiban) - TODO
 - [Mahjong Doukyuusei Special (Japan)](../../../Regions/Retails/Japan/T-25301G/01/README.md) - :white_check_mark:

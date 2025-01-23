@@ -2,7 +2,7 @@
 
 ## D
 
-#### 136 Games (78 Tested)
+#### 136 Games (80 Tested)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -22,12 +22,12 @@
 - [Daisenryaku - Strong Style (Japan)](../../../Regions/Retails/Japan/T-21202G/01/README.md) - :white_check_mark:
 - [Daisuki (Japan)](../../../Regions/Retails/Japan/T-18510G/01/README.md) - :question:
 - [Daitoride (Japan)](../../../Regions/Retails/Japan/T-29201G/01/README.md) - :white_check_mark:
-- Darius Gaiden (Europe) - TODO
+- [Darius Gaiden (Europe)](../../../Regions/Retails/Europe/T-8123H-50/01/README.md) - :white_check_mark:
 - Darius Gaiden (Japan) (2M) - TODO
 - Darius Gaiden (Japan) (3M) - TODO
 - [Darius Gaiden (USA)](../../../Regions/Retails/USA/T-8123H/01/README.md) - :white_check_mark:
 - [Darius II (Europe)](../../../Regions/Retails/Europe/MK-81085/01/README.md) - :white_check_mark:
-- Darius II (Japan) (2M) - TODO
+- [Darius II (Japan)](../../../Regions/Retails/Japan/T-1104G/01/README.md) - :white_check_mark:
 - [Dark Hunter (Ge) Youma no Mori (Japan)](../../../Regions/Retails/Japan/T-7632G/01/README.md) - :white_check_mark:
 - [Dark Hunter (Jou) Ijigen Gakuen (Japan)](../../../Regions/Retails/Japan/T-7631G/01/README.md) - :white_check_mark:
 - [Dark Legend (USA)](../../../Regions/Retails/USA/T-1305H/02/README.md) - TODO

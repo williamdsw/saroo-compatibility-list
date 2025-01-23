@@ -2,7 +2,7 @@
 
 ## S
 
-#### 257 Jogos (153 Testados - 13 a serem testados - 91 TODO)
+#### 257 Jogos (154 Testados - 13 a serem testados - 91 TODO)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
@@ -162,8 +162,8 @@
 - [Sol Divide (Japan)](../../../Regions/Retails/Japan/T-14423G/01/README.md) - :white_check_mark:
 - [Solar Eclipse (USA)](../../../Regions/Retails/USA/T-15911H/01/README.md) - :white_check_mark:
 - [Solo Crisis (Japan)](../../../Regions/Retails/Japan/T-23501G/01/README.md) - :white_check_mark:
-- Sonic 3D - Flickies' Island (Europe) - TODO
-- Sonic 3D - Flickies' Island (Japan) - TODO
+- [Sonic 3D: Flickies' Island (Europe)](../../../Regions/Retails/Europe/MK-8106250/01/README.md) - :white_check_mark:
+- Sonic 3D: Flickies' Island (Japan) - TODO
 - [Sonic 3D Blast (USA)](../../../Regions/Retails/USA/MK-81062/01/README.md) - :warning:
 - Sonic R (Europe) - TODO
 - Sonic R (Japan) (1M) - TODO

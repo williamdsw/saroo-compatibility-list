@@ -2,7 +2,7 @@
 
 ## A
 
-#### 72 Games (47 Tested)
+#### 73 Games (49 Tested)
 
 - [AI Igo (Japan)](../../../Regions/Retails/Japan/T-17601G/01/README.md) - :white_check_mark:
 - [AI Shougi (Japan)](../../../Regions/Retails/Japan/T18602G/01/README.md) - :white_check_mark:
@@ -19,6 +19,7 @@
 - [Airs Adventure (Japan)](../../../Regions/Retails/Japan/T-20301G/01/README.md) - :white_check_mark:
 <!-- - [Akumajou Dracula X - Gekka no Yasoukyoku (Japan)](../../../Regions/Retails/Japan/T-9527G/README.md) -->
 - Akumajou Dracula X - Gekka no Yasoukyoku (Japan) - TODO
+- [Akupyon Game Whizz (Japan)](../../../Regions/Retails/Japan/T-36102G/01/README.md) - :white_check_mark:
 - Albert Odyssey - Legend of Eldean (USA) (RE) - TODO
 - Albert Odyssey - Legend of Eldean (USA) - TODO
 - Albert Odyssey Gaiden - Legend of Eldean (Japan) (1M) - TODO
@@ -36,7 +37,7 @@
 - Alone in the Dark 2 (Japan) - TODO
 - [Amagi Shien (Japan)](../../../Regions/Retails/Japan/T-1513G/README.md) - :white_check_mark:
 - [America Oudan Ultra Quiz (Japan)](../../../Regions/Retails/Japan/T-6004G/01/README.md) - :white_check_mark:
-- Amok (Europe) - TODO
+- [Amok (Europe)](../../../Regions/Retails/Europe/MK-81064/01/README.md) - :white_check_mark:
 - Amok (Japan) - TODO
 - [Amok (USA)](../../../Regions/Retails/USA/MK-81064/01/README.md) - :white_check_mark:
 - [AnEarth Fantasy Stories - The First Volume (Japan)](../../../Regions/Retails/Japan/T-27801G/01/README.md) - :white_check_mark:

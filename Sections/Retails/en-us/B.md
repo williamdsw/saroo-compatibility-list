@@ -2,7 +2,7 @@
 
 ## B
 
-#### 83 Games (53 Tested)
+#### 83 Games (54 Tested)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../../Regions/Retails/Japan/T-19907G/01/README.md) - :question:
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../../Regions/Retails/Japan/T-19906G/01/README.md) - :question:
@@ -47,7 +47,7 @@
 - Black Fire (Europe) - TODO
 - Black Fire (Japan) - TODO
 - [Black Fire (USA)](../../../Regions/Retails/USA/MK-81003/01/README.md) - :white_check_mark:
-- Blam! Machinehead (Europe) - TODO
+- [Blam! Machinehead (Europe)](../../../Regions/Retails/Europe/T-11505H50/01/README.md) - :white_check_mark:
 - Blam! Machinehead (France) - TODO
 - Blam! Machinehead (Germany) - TODO
 - Blam! Machinehead (Japan) - TODO

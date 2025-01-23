@@ -2,7 +2,7 @@
 
 ## W
 
-#### 71 Jogos (45 Testados)
+#### 70 Jogos (45 Testados)
 
 - WWF In Your House (Europe) - TODO
 - WWF In Your House (Japan) - TODO
@@ -26,7 +26,6 @@
 - [Welcome House (Japan)](../../../Regions/Retails/Japan/T-15027G/01/README.md) - :white_check_mark:
 - [Wheel's (Japan)](../../../Regions/Retails/Japan/610609201/01/README.md) - :white_check_mark:
 - [Whizz (Europe)](../../../Regions/Retails/Europe/T-9515H-50/01/README.md) - :warning:
-- Whizz (Japan) - TODO
 - [Willy Wombat (Japan)](../../../Regions/Retails/Japan/T-14306G/01/README.md) - :white_check_mark:
 - Wing Arms (Europe) - TODO
 - [Wing Arms (USA)](../../../Regions/Retails/USA/MK-81024/01/README.md) - :white_check_mark:

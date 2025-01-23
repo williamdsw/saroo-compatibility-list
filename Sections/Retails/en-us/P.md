@@ -2,7 +2,7 @@
 
 ## P
 
-#### 75 Games (48 Tested)
+#### 74 Games (49 Tested)
 
 - [Pacific Theater of Operations II (USA)](../../../Regions/Retails/USA/T-7604H/01/README.md) - :white_check_mark:
 - [PD Ultraman Link (Japan)](../../../Regions/Retails/Japan/T-13304G/01/README.md) - :white_check_mark:
@@ -72,8 +72,7 @@
 - [Puyo Puyo Sun (Japan)](../../../Regions/Retails/Japan/T-6603G/01/README.md) - :white_check_mark:
 - Puyo Puyo Sun for SegaNet (Japan) - TODO
 - [Puyo Puyo Tsuu (Japan)](../../../Regions/Retails/Japan/T-6601G/01/README.md) - :white_check_mark:
-- Puzzle Bobble 2X (Japan) (2M1, 2MB1) - TODO
-- Puzzle Bobble 2X (Japan) (2M2) - TODO
+- [Puzzle Bobble 2X (Japan)](../../../Regions/Retails/Japan/T-1106G/01/README.md) - :white_check_mark:
 - Puzzle Bobble 3 (Japan) (1M) - TODO
 - Puzzle Bobble 3 (Japan) (2M) - TODO
 - Puzzle Bobble 3 for SegaNet (Japan) - TODO

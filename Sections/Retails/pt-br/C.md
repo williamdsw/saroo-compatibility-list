@@ -2,7 +2,7 @@
 
 ## C
 
-#### 87 Jogos (52 Testados)
+#### 87 Jogos (53 Testados)
 
 - [Can Can Bunny Extra (Japan)](../../../Regions/Retails/Japan/T-19706G/01/README.md) - :white_check_mark:
 - [Can Can Bunny Premiere (Japan)](../../../Regions/Retails/Japan/T-19701G/01/README.md) - :white_check_mark:
@@ -69,7 +69,7 @@
 - Crusader - No Remorse (France) - TODO
 - Crusader - No Remorse (Germany) - TODO
 - [Crusader: No Remorse (USA)](../../../Regions/Retails/USA/T-5014H/01/README.md) - :white_check_mark:
-- Crypt Killer (Europe) (R) - TODO
+- [Crypt Killer (Europe)](../../../Regions/Retails/Europe/T-9509H-50/01/README.md) - :white_check_mark:
 - [Crypt Killer (USA)](../../../Regions/Retails/USA/T-9509H/01/README.md) - :white_check_mark:
 - [Cube Battler: Anna Mirai-hen (Japan)](../../../Regions/Retails/Japan/T-21006G/01/README.md) - :white_check_mark:
 - [Cube Battler: Debugger Shou-hen (Japan)](../../../Regions/Retails/Japan/T-21004G/01/README.md) - :white_check_mark:
