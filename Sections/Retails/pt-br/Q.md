@@ -6,7 +6,7 @@
 
 #### 7 Jogos
 
-- [Quake (Europe)](../../../Regions/Retails/Europe/MK-081066/01/README.md) - :white_check_mark:
+- [Quake (Europe)](../../../Regions/Retails/Europe/MK-081066/01/pt-br.md) - :white_check_mark:
 - [Quake (USA)](../../../Regions/Retails/USA/MK-081066/01/README.md) - :white_check_mark:
 - [Quantum Gate I: Akumu no Joshou (Japan)](../../../Regions/Retails/Japan/T-18502G/01/README.md) - :white_check_mark:
 - [Quarterback Attack with Mike Ditka (USA)](../../../Regions/Retails/USA/T-16213H/01/README.md) - :white_check_mark:

@@ -1,3 +1,5 @@
+**English** | [Português](pt-br.md)
+
 # Quake (Europe)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
