@@ -1,3 +1,5 @@
+[English](../en-us/X.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## X

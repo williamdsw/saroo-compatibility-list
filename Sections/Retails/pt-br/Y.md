@@ -1,3 +1,5 @@
+[English](../en-us/Y.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## Y

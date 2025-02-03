@@ -1,3 +1,5 @@
+[English](../en-us/G.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## G

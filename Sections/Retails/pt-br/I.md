@@ -1,3 +1,5 @@
+[English](../en-us/I.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## I

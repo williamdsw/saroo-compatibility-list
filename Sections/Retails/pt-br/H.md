@@ -1,3 +1,5 @@
+[English](../en-us/H.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## H

@@ -1,3 +1,5 @@
+**English** | [Português](../pt-br/Q.md)
+
 # SAROO - Compatibility List
 
 ## Q

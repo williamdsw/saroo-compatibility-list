@@ -1,3 +1,5 @@
+[English](../en-us/C.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## C

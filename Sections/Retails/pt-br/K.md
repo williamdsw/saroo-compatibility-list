@@ -1,3 +1,5 @@
+[English](../en-us/K.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## K

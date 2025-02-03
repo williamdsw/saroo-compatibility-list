@@ -1,3 +1,5 @@
+[English](../en-us/Z.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## Z

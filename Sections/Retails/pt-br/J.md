@@ -1,3 +1,5 @@
+[English](../en-us/J.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## J

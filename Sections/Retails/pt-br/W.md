@@ -1,3 +1,5 @@
+[English](../en-us/W.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## W

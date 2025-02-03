@@ -1,3 +1,5 @@
+[English](../en-us/R.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## R

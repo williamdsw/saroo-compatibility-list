@@ -1,3 +1,5 @@
+[English](../en-us/F.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## F

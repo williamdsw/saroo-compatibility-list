@@ -1,3 +1,5 @@
+**English** | [Português](../pt-br/O.md)
+
 # SAROO - Compatibility List
 
 ## O

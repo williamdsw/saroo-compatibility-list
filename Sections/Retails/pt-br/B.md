@@ -1,3 +1,5 @@
+[English](../en-us/B.md) | **Português**
+
 # SAROO - Lista de Compatibilidade
 
 ## B
