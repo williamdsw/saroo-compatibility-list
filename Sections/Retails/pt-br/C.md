@@ -2,7 +2,7 @@
 
 ## C
 
-#### 87 Jogos (53 Testados)
+#### 80 Jogos (52 Testados)
 
 - [Can Can Bunny Extra (Japan)](../../../Regions/Retails/Japan/T-19706G/01/README.md) - :white_check_mark:
 - [Can Can Bunny Premiere (Japan)](../../../Regions/Retails/Japan/T-19701G/01/README.md) - :white_check_mark:
@@ -20,7 +20,7 @@
 - [Choro Q Park (Japan)](../../../Regions/Retails/Japan/T-10314G/01/README.md) - :white_check_mark:
 - [Cho Aniki: Kyukyoku ... Otoko no Gyakushu (Japan)](../../../Regions/Retails/Japan/T-2503G/01/README.md) - :white_check_mark:
 - [Choujikuu Yousai Macross: Ai Oboete Imasu ka (Japan)](../../../Regions/Retails/Japan/T-23403G/01/README.md) - :question:
-- Christmas NiGHTS into Dreams... (Europe) - TODO
+- [Christmas NiGHTS into Dreams (Europe)](../../../Regions/Retails/Europe/610-6483/01/README.md) - :white_check_mark:
 - Christmas NiGHTS into Dreams... (Japan) (Rev A) - TODO
 - [Christmas NiGHTS into Dreams (USA)](../../../Regions/Retails/USA/MK-81067/01/README.md) - :white_check_mark:
 - [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../../Regions/Retails/Japan/T-2003G/01/README.md) - :white_check_mark:
@@ -28,11 +28,10 @@
 - [ClockWerx (Japan)](../../../Regions/Retails/Japan/T-22302G/01/README.md) - :white_check_mark:
 - Clockwork Knight - Pepperouchau no Daibouken Gekan (Japan) (2M) - TODO
 - Clockwork Knight - Pepperouchau no Daibouken Joukan (Japan) - TODO
-- Clockwork Knight - Pepperouchau's Adventure (Europe) - TODO
-- [Clockwork Knight - Pepperouchau's Adventure (USA)](../../../Regions/Retails/USA/MK-81007/01/README.md) - TODO (Recorded)
-- Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (2S) - TODO
-- Clockwork Knight 2 - Pepperouchau's Adventure (Europe) (3S) - TODO
-- [Clockwork Knight 2 - Pepperouchau's Adventure (USA, Brazil)](../../../Regions/Retails/USA/MK-81036/01/README.md) - TODO (Recorded)
+- [Clockwork Knight: Pepperouchau's Adventure (Europe)](../../../Regions/Retails/Europe/MK-81007/01/README.md) - :white_check_mark:
+- [Clockwork Knight: Pepperouchau's Adventure (USA)](../../../Regions/Retails/USA/MK-81007/01/README.md) - TODO (Recorded)
+- [Clockwork Knight 2: Pepperouchau's Adventure (Europe)](../../../Regions/Retails/Europe/MK-81021/01/README.md) - :white_check_mark:
+- [Clockwork Knight 2: Pepperouchau's Adventure (USA, Brazil)](../../../Regions/Retails/USA/MK-81036/01/README.md) - TODO (Recorded)
 - [Code R (Japan)](../../../Regions/Retails/Japan/T-23502G/01/README.md) - :hammer_and_wrench:
 - [College Slam (USA)](../../../Regions/Retails/USA/T-8111H/01/README.md) - :white_check_mark:
 - Command & Conquer (Europe) (Disc 1) (GDI) - TODO
@@ -59,7 +58,7 @@
 - [Crimewave (USA)](../../../Regions/Retails/USA/T-8807H/01/README.md) - :white_check_mark:
 - [Criticom (USA)](../../../Regions/Retails/USA/T-2302H/01/README.md) - :white_check_mark:
 - Criticom - The Critical Combat (Japan) - TODO
-- Croc - Legend of the Gobbos (Europe) - TODO
+- [Croc - Legend of the Gobbos (Europe)](../../../Regions/Retails/Europe/T-5029H-50/01/README.md) - :white_check_mark:
 - [Croc - Legend of the Gobbos (USA)](../../../Regions/Retails/USA/T-5029H-50/01/README.md) - :hammer_and_wrench:
 - Croc! Pau-Pau Island (Japan) - TODO
 - [Cross Romance - Koi to Mahjong to Hanafuda to (Japan)](../../../Regions/Retails/Japan/T-7103G/01/README.md) - :hammer_and_wrench:

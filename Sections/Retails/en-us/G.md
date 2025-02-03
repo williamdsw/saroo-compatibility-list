@@ -2,7 +2,7 @@
 
 ## G
 
-#### 72 Games (62 Tested)
+#### 72 Games (65 Tested)
 
 - [G Vector (Japan)](../../../Regions/Retails/Japan/T-30603G/01/README.md) - :white_check_mark:
 - [GT24 (Japan)](../../../Regions/Retails/Japan/T-5714G/01/README.md) - :white_check_mark:
@@ -31,10 +31,10 @@
 - [Gekka Mugentan Torico (Japan)](../../../Regions/Retails/Japan/GS-9056/01/README.md) - :white_check_mark:
 - [Gekka no Kishi: Ouryuusen (Japan)](../../../Regions/Retails/Japan/T-20606G/01/README.md) - :white_check_mark:
 - [Gensou Suikoden (Japan)](../../../Regions/Retails/Japan/T-9525G/01/README.md) - :white_check_mark:
-- Gex (Europe) - TODO
+- [Gex (Europe)](../../../Regions/Retails/Europe/T-15904H50/01/README.md) - :white_check_mark:
 - Gex (Japan) - TODO
 - [Gex (USA)](../../../Regions/Retails/USA/T-15904H/01/README.md) - :white_check_mark:
-- Ghen War (Europe) - TODO
+- [Ghen War (Europe)](../../../Regions/Retails/Europe/T-7010H-50/01/README.md) - :white_check_mark:
 - Ghen War (Japan) - TODO
 - [Ghen War (USA)](../../../Regions/Retails/USA/MK-81001/01/README.md) - :white_check_mark:
 - [Ginga Eiyuu Densetsu (Japan)](../../../Regions/Retails/Japan/T-22301G/01/README.md) - :white_check_mark:
@@ -60,7 +60,7 @@
 - [Grandia (Japan)](../../../Regions/Retails/Japan/T-4507G/01/README.md) - :question:
 - [Grandia Digital Museum (Japan)](../../../Regions/Retails/Japan/T-4512G/01/README.md) - :white_check_mark:
 - [Greatest Nine '96 (Japan)](../../../Regions/Retails/Japan/GS-9086/01/README.md) - :white_check_mark:
-- Grid Run (Europe) - TODO
+- [Grid Run (Europe)](../../../Regions/Retails/Europe/T-7016H-50/01/README.md) - :white_check_mark:
 - Grid Runner (Japan) - TODO
 - [Grid Runner (USA)](../../../Regions/Retails/USA/T-7025H/01/README.md) - :white_check_mark:
 - [Guardian Force (Japan)](../../../Regions/Retails/Japan/T-9905G/01/README.md) - :white_check_mark:

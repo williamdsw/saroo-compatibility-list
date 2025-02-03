@@ -2,7 +2,7 @@
 
 ## I
 
-#### 25 Games (18 Tested)
+#### 25 Games (19 Tested)
 
 - [Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)](../../../Regions/Retails/Japan/T-1208G/01/README.md) - :white_check_mark:
 - [Idol Janshi Suchie-Pai II (Japan)](../../../Regions/Retails/Japan/T-5705G/01/README.md) - :white_check_mark:
@@ -20,7 +20,7 @@
 - In the Hunt (Europe) - TODO
 - [In The Hunt (USA)](../../../Regions/Retails/USA/T-10001G/01/README.md) - :warning:
 - [Independence Day (USA)](../../../Regions/Retails/USA/T-16104H/01/README.md) - :white_check_mark:
-- Independence Day - The Game (Europe) - TODO
+- [Independence Day: The Game (Europe)](../../../Regions/Retails/Europe/T-16104H/01/README.md) - :white_check_mark:
 - [International Victory Goal (Europe)](../../../Regions/Retails/Europe/MK-81105/01/README.md) - :white_check_mark:
 - [Ippatsu Gyakuten - Gambling King e no Michi (Japan)](../../../Regions/Retails/Japan/T-29602G/01/README.md) - :white_check_mark:
 - Iron Man & X-O Manowar in Heavy Metal (Europe) - TODO

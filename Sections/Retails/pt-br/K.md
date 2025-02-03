@@ -2,7 +2,7 @@
 
 ## K
 
-#### 45 Jogos (42 Testados)
+#### 44 Jogos (43 Testados)
 
 - [K-1 Fighting Illusion Shou (Japan)](../../../Regions/Retails/Japan/T-26102G/01/README.md) - :hammer_and_wrench:
 - [Kaitei Daisensou (Japan)](../../../Regions/Retails/Japan/T-15006G/01/README.md) - :warning:
@@ -28,8 +28,7 @@
 - [Kidou Senshi Z Gundam: Zenpen Zeta no Kodou (Japan)](../../../Regions/Retails/Japan/T-13315G/01/README.md) - :hammer_and_wrench:
 - [Kindaichi Shounen no Jikenbo: Hoshimitou Kanashimi no Hukushuuki (Japan)](../../../Regions/Retails/Japan/T-14315G/01/README.md) - :white_check_mark:
 - [Kiss Yori... (Japan)](../../../Regions/Retails/Japan/T-19724G/01/README.md) - :white_check_mark:
-- Kisuishou Densetsu Astal (Japan) (1M, 4M) - TODO
-- Kisuishou Densetsu Astal (Japan) (3A) - TODO
+- [Kisuishou Densetsu Astal (Japan)](../../../Regions/Retails/Japan/GS-9019/01/README.md) - :white_check_mark:
 - Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race! (Japan) (Satakore) - TODO
 - [Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race! (Japan)](../../../Regions/Retails/Japan/T-13319G/01/README.md) - :white_check_mark:
 - [Koden Koureijutsu Hyaku Monogatari: Hontoni Atta Kowai Hanashi (Japan)](../../../Regions/Retails/Japan/T-14312G/01/README.md) - :white_check_mark:

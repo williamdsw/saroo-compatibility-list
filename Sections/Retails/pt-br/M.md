@@ -2,7 +2,7 @@
 
 ## M
 
-#### 115 Jogos (83 Testados)
+#### 115 Jogos (84 Testados)
 
 - [Maboroshi no Black Bass (Japan)](../../../Regions/Retails/Japan/T-25303G/01/README.md) - :white_check_mark:
 - [Machine Head (USA)](../../../Regions/Retails/USA/T-7914H/01/README.md) - :white_check_mark:
@@ -62,7 +62,7 @@
 - [Master of Monsters (Japan)](../../../Regions/Retails/Japan/T-6301G/01/README.md) - :white_check_mark:
 - [Masters: Harukanaru Augusta 3 (Japan)](../../../Regions/Retails/Japan/T-11401G/01/README.md) - :white_check_mark:
 - [Matsukata Hiroki no World Fishing (Japan)](../../../Regions/Retails/Japan/T-24801G/01/README.md) - :white_check_mark:
-- Maximum Force (Europe) - TODO
+- [Maximum Force (Europe)](../../../Regions/Retails/Europe/T-25417H/01/README.md) - :white_check_mark:
 - [Maximum Force (USA)](../../../Regions/Retails/USA/T-9707H/01/README.md) - :white_check_mark:
 - MechWarrior 2 (Japan) - TODO
 - MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (Europe) - TODO

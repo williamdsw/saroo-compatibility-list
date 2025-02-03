@@ -2,7 +2,7 @@
 
 ## D
 
-#### 136 Jogos (80 Testados)
+#### 136 Jogos (81 Testados)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -90,7 +90,7 @@
 - [Devil Summoner: Soul Hackers Extra Dungeon (Japan)](../../../Regions/Retails/Japan/6106804/01/README.md) - :white_check_mark:
 - Die Hard Arcade (Europe) - TODO
 - [Die Hard Arcade (USA)](../../../Regions/Retails/USA/MK-81057/01/README.md) - :white_check_mark:
-- Die Hard Trilogy (Europe) - TODO
+- [Die Hard Trilogy (Europe)](../../../Regions/Retails/Europe/T-16103H/01/README.md) - :white_check_mark:
 - Die Hard Trilogy (Japan) - TODO
 - [Die Hard Trilogy (USA)](../../../Regions/Retails/USA/T-16103H/01/README.md) - :white_check_mark:
 - [Digital Ange: Dennou Tenshi SS (Japan)](../../../Regions/Retails/Japan/T-33003G/01/README.md) - :hammer_and_wrench:

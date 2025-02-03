@@ -2,7 +2,7 @@
 
 ## P
 
-#### 74 Games (49 Tested)
+#### 74 Games (50 Tested)
 
 - [Pacific Theater of Operations II (USA)](../../../Regions/Retails/USA/T-7604H/01/README.md) - :white_check_mark:
 - [PD Ultraman Link (Japan)](../../../Regions/Retails/Japan/T-13304G/01/README.md) - :white_check_mark:
@@ -11,7 +11,7 @@
 - [PGA Tour 97 (USA)](../../../Regions/Retails/USA/T-5011H/01/README.md) - :white_check_mark:
 - [Pachi-Slot Kanzen Kouryaku Uni-Colle'97 (Japan)](../../../Regions/Retails/Japan/T-36501G/01/README.md) - :white_check_mark:
 - [Pachinko Hall Shinsou Daikaiten (Japan)](../../../Regions/Retails/Japan/T-37501G/01/README.md) - :warning:
-- Pandemonium! (Europe) - TODO
+- [Pandemonium! (Europe)](../../../Regions/Retails/Europe/MK-8109050/01/README.md) - :white_check_mark:
 - [Pandemonium! (USA)](../../../Regions/Retails/USA/T-15914H/01/README.md) - :white_check_mark:
 - [Paneltia Story: Karen no Daibouken (Japan)](../../../Regions/Retails/Japan/T-21510G/01/README.md) - :white_check_mark:
 - [Panic Chan (Japan)](../../../Regions/Retails/Japan/T-15010G/01/README.md) - :white_check_mark:

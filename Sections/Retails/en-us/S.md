@@ -2,7 +2,7 @@
 
 ## S
 
-#### 257 Games (154 Tested - 13 to be tested - 91 TODO)
+#### 257 Games (156 Tested - 13 to be tested - 88 TODO)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
@@ -185,7 +185,7 @@
 - Sound Novel Machi (Japan) (Disc 2) (2M) - TODO
 - [Sound Novel Tsukuru 2 (Japan)](../../../Regions/Retails/Japan/T-2108G/01/README.md) - :white_check_mark:
 - [Sound Qube (Japan)](../../../Regions/Retails/Japan/T-4318G/01/README.md) - :white_check_mark:
-- Soviet Strike (Europe) - TODO
+- [Soviet Strike (Europe)](../../../Regions/Retails/Europe/T-5013H/01/README.md) - :white_check_mark:
 - Soviet Strike (France) - TODO
 - Soviet Strike (Germany) - TODO
 - Soviet Strike (Japan) - TODO
@@ -233,7 +233,7 @@
 - [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/01/README.md) - :white_check_mark:
 - [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/01/README.md) - :hammer_and_wrench:
 - [Street Racer (Europe)](../../../Regions/Retails/Europe/T-17702H/01/README.md) - :white_check_mark:
-- Street Racer Extra (Japan) - TODO
+- [Street Racer Extra (Japan)](../../../Regions/Retails/Japan/T-17702G/01/README.md) - :white_check_mark:
 - Striker 96 (Europe) - TODO
 - Striker 96 (Japan) - TODO
 - [Striker '96 (USA)](../../../Regions/Retails/USA/T-8133H/01/README.md) - :white_check_mark:

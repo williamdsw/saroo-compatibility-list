@@ -2,7 +2,7 @@
 
 ## H
 
-#### 48 Jogos (40 Testados)
+#### 48 Jogos (42 Testados)
 
 - Hang On GP '95 (Japan) (1M) - TODO
 - Hang On GP '95 (Japan) (2M) - TODO
@@ -22,10 +22,10 @@
 - [Heiwa Pachinko Soushingeki (Japan)](../../../Regions/Retails/Japan/T-18702G/01/README.md) - :white_check_mark:
 - [Henry Explorers (Japan)](../../../Regions/Retails/Japan/T-9518G/01/README.md) - :white_check_mark:
 - [Herc's Adventures (USA)](../../../Regions/Retails/USA/T-23001H/01/README.md) - :white_check_mark:
-- Hexen (Europe) - TODO
+- [Hexen (Europe)](../../../Regions/Retails/Europe/T-25405H50/01/README.md) - :white_check_mark:
 - [Hexen (USA)](../../../Regions/Retails/USA/T-25406H/01/README.md) - :white_check_mark:
 - Hexen - Beyond Heretic (Japan) - TODO
-- Hi-Octane (Europe) - TODO
+- [Hi-Octane (Europe)](../../../Regions/Retails/Europe/T-5002H/01/README.md) - :white_check_mark:
 - Hi-Octane (Japan) - TODO
 - [Hi-Octane - The Track Fights Back! (USA)](../../../Regions/Retails/USA/T-5002H/01/README.md) - :white_check_mark:
 - [Hideo Nomo World Series Baseball (Japan)](../../../Regions/Retails/Japan/GS-9061/01/README.md) - :white_check_mark:
