@@ -4,7 +4,7 @@
 
 ## S
 
-#### 257 Jogos (156 Testados - 13 a serem testados - 88 TODO)
+#### 257 Jogos (156 Testados - 13 to be tested - 88 TODO)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
@@ -31,7 +31,7 @@
 - [Sankyo Fever Jikki Simulation S (Japan)](../../../Regions/Retails/Japan/T-32102G/01/README.md) - :white_check_mark:
 - [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-32103G/01/README.md) - :white_check_mark:
 - [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../../Regions/Retails/Japan/T-32105G/01/README.md) - :white_check_mark:
-- Saturn Bomberman (Europe) - TODO
+- Saturn Bomberman (Europe) - TODO (Recorded)
 - Saturn Bomberman (Japan) (SegaNet) - TODO
 - Saturn Bomberman (Japan) - TODO
 - [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/01/README.md) - :white_check_mark:
@@ -54,14 +54,15 @@
 - [Sega International Victory Goal (Japan)](../../../Regions/Retails/Japan/GS-9044/01/README.md) - :white_check_mark:
 - Sega Rally Championship (Europe) (Made in EU) - TODO
 - Sega Rally Championship (Europe) (Made in USA) - TODO
-- Sega Rally Championship (Japan) - TODO
+- [Sega Rally Championship (Japan)](../../../Regions/Retails/Japan/GS-9047/01/README.md) - :white_check_mark:
 - Sega Rally Championship (South Korea) - TODO
 - [Sega Rally Championship (USA)](../../../Regions/Retails/USA/MK-81207/01/README.md) - :white_check_mark:
 - [Sega Rally Championship Plus (Japan)](../../../Regions/Retails/Japan/GS-9116/01/README.md) - :white_check_mark:
 - Sega Rally Championship Plus Netlink Edition (USA) - TODO
 - [Sega Saturn de Hakken!! Tamagotchi Park (Japan)](../../../Regions/Retails/Japan/T-13325G/01/README.md) - :white_check_mark:
 - Sega Touring Car Championship (Europe) - TODO
-- Sega Touring Car Championship (Japan) - TODO
+- [Sega Touring Car Championship (Japan)](../../../Regions/Retails/Japan/GS-9164/01/README.md) - :white_check_mark:
+- [Sega Touring Car Championship (USA)](../../../Regions/Retails/USA/MK-81216/01/README.md) - :white_check_mark:
 - [Sega Worldwide Soccer '97 (USA)](../../../Regions/Retails/USA/MK-81112/01/README.md) - :white_check_mark:
 - [Sega Worldwide Soccer 98 (Japan)](../../../Regions/Retails/Japan/GS-9187/01/README.md) - :white_check_mark:
 - [Sega Worldwide Soccer 98: Club Edition (Europe)](../../../Regions/Retails/Europe/MK-81123/01/README.md) - :white_check_mark:
@@ -165,11 +166,10 @@
 - [Solar Eclipse (USA)](../../../Regions/Retails/USA/T-15911H/01/README.md) - :white_check_mark:
 - [Solo Crisis (Japan)](../../../Regions/Retails/Japan/T-23501G/01/README.md) - :white_check_mark:
 - [Sonic 3D: Flickies' Island (Europe)](../../../Regions/Retails/Europe/MK-8106250/01/README.md) - :white_check_mark:
-- Sonic 3D: Flickies' Island (Japan) - TODO
+- [Sonic 3D: Flickies' Island (Japan)](../../../Regions/Retails/Japan/GS-9143/01/README.md) - :white_check_mark:
 - [Sonic 3D Blast (USA)](../../../Regions/Retails/USA/MK-81062/01/README.md) - :warning:
 - Sonic R (Europe) - TODO
-- Sonic R (Japan) (1M) - TODO
-- Sonic R (Japan) (2M) - TODO
+- [Sonic R (Japan)](../../../Regions/Retails/Japan/GS-9170/01/README.md) - :white_check_mark:
 - [Sonic R (USA)](../../../Regions/Retails/USA/MK-81800/01/README.md) - :white_check_mark:
 - [Sonic Wings Special (Japan)](../../../Regions/Retails/Japan/T-26402G/01/README.md) - :warning:
 - [Sorvice (Japan)](../../../Regions/Retails/Japan/T-16609G/01/README.md) - :white_check_mark:
@@ -251,12 +251,12 @@
 - [Super Casino Special (Japan)](../../../Regions/Retails/Japan/T-7306G/01/README.md) - :white_check_mark:
 - [Super Puzzle Fighter II Turbo (Europe)](../../../Regions/Retails/Europe/T-7030H-50/01/README.md) - :white_check_mark:
 - [Super Puzzle Fighter II Turbo (USA)](../../../Regions/Retails/USA/T-1215H/01/README.md) - :white_check_mark:
-- Super Puzzle Fighter II X (Japan) - TODO
+- [Super Puzzle Fighter II X (Japan)](../../../Regions/Retails/Japan/T-1213G/01/README.md) - :white_check_mark:
 - [Super Real Mahjong PV (Japan)](../../../Regions/Retails/Japan/T-16501G/01/README.md) - :white_check_mark:
 - [Super Real Mahjong P7 (Japan)](../../../Regions/Retails/Japan/T-16509G/01/README.md) - :warning:
 - Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO
-- Super Real Mahjong P VI (Japan) (P's Club Special Edition) - TODO
-- [Super Real Mahjong P VI (Japan)](../../../Regions/Retails/Japan/T-16507G/01/README.md) - :white_check_mark:
+- [Super Real Mahjong PVI (Japan)](../../../Regions/Retails/Japan/T-16507G/01/README.md) - :white_check_mark:
+- [Super Real Mahjong PVI - P's Club Special Edition (Japan)](../../../Regions/Retails/Japan/T-16508G/01/README.md) - :white_check_mark:
 - Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M) - TODO
 - Super Robot Taisen F (Japan) (Rev B) (21M) - TODO
 - [Super Robot Taisen F Kanketsuhen (Japan)](../../../Regions/Retails/Japan/T-20612G/01/README.md) - :white_check_mark:

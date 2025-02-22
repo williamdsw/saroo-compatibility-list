@@ -44,7 +44,7 @@
 - Sonic Jam (Japan) - TODO
 - [Sonic Jam (USA)](../../Regions/Compilations/USA/MK-81079/01/README.md)
 - [Super Real Mahjong Graffiti (Japan)](../../Regions/Compilations/Japan/T-16504G/01/README.md)
-- Super Real Mahjong Graffiti (Japan) (P's Club Special Edition) (2M) - TODO
+- [Super Real Mahjong Graffiti - P's Club Special Edition (Japan)](../../Regions/Compilations/Japan/T-16506G/01/README.md)
 - [Taito Chase H.Q. + S.C.I. (Japan)](../../Regions/Compilations/Japan/T-1105G/01/README.md)
 - [Thunder Force Gold Pack 1 (Japan)](../../Regions/Compilations/Japan/T-1807G/01/README.md)
 - [Thunder Force Gold Pack 2 (Japan)](../../Regions/Compilations/Japan/T-1808G/01/README.md)

@@ -4,7 +4,7 @@
 
 ## T
 
-#### 131 Games (83 Tested - 48 TODO)
+#### 131 Games (84 Tested - 2 To be tested - 45 TODO)
 
 - TNN Motor Sports HardCore 4X4 (USA) - TODO
 - [Tactical Fighter (Japan)](../../../Regions/Retails/Japan/T-21402G/01/README.md) - :white_check_mark:
@@ -41,7 +41,7 @@
 - [Terra Phantastica (Japan)](../../../Regions/Retails/Japan/GS-9054/01/README.md) - :white_check_mark:
 - Terry Pratchett's Discworld (Europe) - TODO
 - Tetris Plus (Europe) - TODO
-- Tetris Plus (Japan) - TODO
+- [Tetris Plus (Japan)](../../../Regions/Retails/Japan/T-5708G/01/README.md) - :white_check_mark:
 - [Tetris Plus (USA)](../../../Regions/Retails/USA/T-5704H/01/README.md) - :white_check_mark:
 - Tetris S (Japan) (Rev A) - TODO
 - [Tetris S (Japan)](../../../Regions/Retails/Japan/T-20802G/01/README.md) - :white_check_mark:

@@ -4,7 +4,7 @@
 
 ## M
 
-#### 115 Games (84 Tested)
+#### 111 Games (84 Tested - 27 TODO)
 
 - [Maboroshi no Black Bass (Japan)](../../../Regions/Retails/Japan/T-25303G/01/README.md) - :white_check_mark:
 - [Machine Head (USA)](../../../Regions/Retails/USA/T-7914H/01/README.md) - :white_check_mark:
@@ -24,12 +24,8 @@
 - [Magical Drop 2 (Japan)](../../../Regions/Retails/Japan/GS-9104/01/README.md) - :white_check_mark:
 - [Magical Drop III Toretate Zoukangou! (Japan)](../../../Regions/Retails/Japan/T-1313G/01/README.md) - :hammer_and_wrench:
 - [Magical Hoppers (Japan)](../../../Regions/Retails/Japan/T-13316G/01/README.md) - :white_check_mark:
-- Mahjong Doukyuusei Special (Japan) (Disc 1) (Shokai Genteiban) - TODO
-- Mahjong Doukyuusei Special (Japan) (Disc 2) (Portrait CD) (Shokai Genteiban) - TODO
-- [Mahjong Doukyuusei Special (Japan)](../../../Regions/Retails/Japan/T-25301G/01/README.md) - :white_check_mark:
-- Mahjong Gakuensai (Japan) (Disc 1) (Shokai Genteiban) - TODO
-- Mahjong Gakuensai (Japan) (Disc 2) (Seiyuu Interview Hi CD) (Shokai Genteiban) - TODO
-- [Mahjong Gakuensai (Japan)](../../../Regions/Retails/Japan/T-25304G/01/README.md) - :white_check_mark:
+- [Mahjong Doukyuusei Special (Japan)](../../../Regions/Retails/Japan/MAJAN_DOUKYUSEI/README.md) - :white_check_mark:
+- [Mahjong Gakuensai (Japan)](../../../Regions/Retails/Japan/MAJAN_GAKUENSAI/README.md) - :white_check_mark:
 - [Mahjong Gakuensai DX: Zenjitsu ni Matsuwaru Funsenki (Japan)](../../../Regions/Retails/Japan/T-25306G/01/README.md) - :white_check_mark:
 - [Mahjong Ganryuujima (Japan)](../../../Regions/Retails/Japan/T-2101G/01/README.md) - :white_check_mark:
 - [Mahjong Gokuu Tenjiku (Japan)](../../../Regions/Retails/Japan/T-10601G/01/README.md) - :white_check_mark:

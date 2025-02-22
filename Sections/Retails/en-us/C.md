@@ -4,7 +4,7 @@
 
 ## C
 
-#### 80 Games (52 Tested)
+#### 80 Games (51 Tested - 29 TODO)
 
 - [Can Can Bunny Extra (Japan)](../../../Regions/Retails/Japan/T-19706G/01/README.md) - :white_check_mark:
 - [Can Can Bunny Premiere (Japan)](../../../Regions/Retails/Japan/T-19701G/01/README.md) - :white_check_mark:
@@ -23,7 +23,7 @@
 - [Cho Aniki: Kyukyoku ... Otoko no Gyakushu (Japan)](../../../Regions/Retails/Japan/T-2503G/01/README.md) - :white_check_mark:
 - [Choujikuu Yousai Macross: Ai Oboete Imasu ka (Japan)](../../../Regions/Retails/Japan/T-23403G/01/README.md) - :question:
 - [Christmas NiGHTS into Dreams (Europe)](../../../Regions/Retails/Europe/610-6483/01/README.md) - :white_check_mark:
-- Christmas NiGHTS into Dreams... (Japan) (Rev A) - TODO
+- [Christmas NiGHTS into Dreams (Japan)](../../../Regions/Retails/Japan/610-6431/01/README.md) - :white_check_mark:
 - [Christmas NiGHTS into Dreams (USA)](../../../Regions/Retails/USA/MK-81067/01/README.md) - :white_check_mark:
 - [Civilization: Shin Sekai Shichi Dai Bunmei (Japan)](../../../Regions/Retails/Japan/T-2003G/01/README.md) - :white_check_mark:
 - [Cleopatra Fortune (Japan)](../../../Regions/Retails/Japan/T-1108G/01/README.md) - :white_check_mark:

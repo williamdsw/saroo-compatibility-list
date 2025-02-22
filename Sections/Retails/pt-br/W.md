@@ -4,7 +4,7 @@
 
 ## W
 
-#### 70 Jogos (45 Testados)
+#### 70 Jogos (46 Testados - 24 TODO)
 
 - WWF In Your House (Europe) - TODO
 - WWF In Your House (Japan) - TODO
@@ -46,7 +46,7 @@
 - WipEout (Japan) (2M) - TODO
 - [WipEout (USA)](../../../Regions/Retails/USA/T-18601H/01/README.md) - :white_check_mark:
 - [WipEout 2097 (Europe)](../../../Regions/Retails/Europe/T-11308H-50/01/README.md) - :white_check_mark:
-- Wipeout XL (Japan) - TODO
+- [WipEout XL (Japan)](../../../Regions/Retails/Japan/T-18619G/01/README.md) - :white_check_mark:
 - [With You: Mitsumete Itai (Japan)](../../../Regions/Retails/Japan/T-20117G/01/README.md) - :white_check_mark:
 - [Wizard's Harmony (Japan)](../../../Regions/Retails/Japan/T-22001G/01/README.md) - :white_check_mark:
 - [Wizard's Harmony 2 (Japan)](../../../Regions/Retails/Japan/T-22004G/01/README.md) - :white_check_mark:

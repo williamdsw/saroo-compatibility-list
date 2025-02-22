@@ -4,7 +4,7 @@
 
 ## N
 
-#### 69 Games (42 Tested)
+#### 69 Games (43 Tested - 26 TODO)
 
 - NASCAR 98 (Europe) - TODO
 - NASCAR 98 (France) - TODO
@@ -49,8 +49,8 @@
 - [Nanatsu no Hikan (Japan)](../../../Regions/Retails/Japan/T-7616G/01/README.md) - :question:
 - [Nekketsu Oyako (Japan)](../../../Regions/Retails/Japan/T-1802G/01/README.md) - :white_check_mark:
 - [Next King - Koi no Sennen Oukoku (Japan)](../../../Regions/Retails/Japan/T-13328G/01/README.md) - :white_check_mark:
-- NiGHTS into Dreams... (Europe) - TODO
-- NiGHTS into Dreams... (Japan) - TODO
+- NiGHTS into Dreams... (Europe) - TODO (Recorded)
+- [NiGHTS into Dreams... (Japan)](../../../Regions/Retails/Japan/GS-9046/01/README.md) - :white_check_mark:
 - NiGHTS into Dreams... (Korea) - TODO
 - [NiGHTS into Dreams... (USA, Brazil)](../../../Regions/Retails/USA/MK-81020/01/README.md) - :white_check_mark:
 - [Night Striker S (Japan)](../../../Regions/Retails/Japan/T-19901G/01/README.md) - :white_check_mark:
