@@ -4,7 +4,7 @@
 
 ## F
 
-#### 58 Jogos (37 Testados)
+#### 58 Jogos (37 Testados - 21 TODO)
 
 - [F-1 Live Information (Japan)](../../../Regions/Retails/Japan/GS-9035/01/README.md) - :white_check_mark:
 - F1 Challenge (Europe) - TODO

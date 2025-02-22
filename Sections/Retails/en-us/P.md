@@ -4,7 +4,7 @@
 
 ## P
 
-#### 74 Games (50 Tested)
+#### 74 Games (50 Tested - 24 TODO)
 
 - [Pacific Theater of Operations II (USA)](../../../Regions/Retails/USA/T-7604H/01/README.md) - :white_check_mark:
 - [PD Ultraman Link (Japan)](../../../Regions/Retails/Japan/T-13304G/01/README.md) - :white_check_mark:

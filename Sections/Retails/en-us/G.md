@@ -4,7 +4,7 @@
 
 ## G
 
-#### 72 Games (65 Tested)
+#### 72 Games (65 Tested - 7 TODO)
 
 - [G Vector (Japan)](../../../Regions/Retails/Japan/T-30603G/01/README.md) - :white_check_mark:
 - [GT24 (Japan)](../../../Regions/Retails/Japan/T-5714G/01/README.md) - :white_check_mark:

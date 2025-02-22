@@ -4,7 +4,7 @@
 
 ## L
 
-#### 33 Jogos (26 Testados)
+#### 33 Jogos (26 Testados - 7 TODO)
 
 - La Mansion de las Almas Ocultas (Spain) - TODO
 - [Langrisser - Dramatic Edition (Japan)](../../../Regions/Retails/Japan/T-2507G/01/README.md) - :warning:

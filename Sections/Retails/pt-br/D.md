@@ -4,7 +4,7 @@
 
 ## D
 
-#### 136 Jogos (81 Testados)
+#### 136 Jogos (81 Testados - 55 TODO)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO

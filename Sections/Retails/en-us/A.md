@@ -4,7 +4,7 @@
 
 ## A
 
-#### 73 Games (49 Tested)
+#### 73 Games (49 Tested - 24 TODO)
 
 - [AI Igo (Japan)](../../../Regions/Retails/Japan/T-17601G/01/README.md) - :white_check_mark:
 - [AI Shougi (Japan)](../../../Regions/Retails/Japan/T18602G/01/README.md) - :white_check_mark:

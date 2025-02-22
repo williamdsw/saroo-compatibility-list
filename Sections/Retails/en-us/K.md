@@ -4,7 +4,7 @@
 
 ## K
 
-#### 44 Games (43 Tested)
+#### 44 Games (43 Tested - 1 TODO)
 
 - [K-1 Fighting Illusion Shou (Japan)](../../../Regions/Retails/Japan/T-26102G/01/README.md) - :hammer_and_wrench:
 - [Kaitei Daisensou (Japan)](../../../Regions/Retails/Japan/T-15006G/01/README.md) - :warning:

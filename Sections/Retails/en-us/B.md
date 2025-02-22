@@ -4,7 +4,7 @@
 
 ## B
 
-#### 83 Games (54 Tested)
+#### 83 Games (54 Tested - 29 TODO)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../../Regions/Retails/Japan/T-19907G/01/README.md) - :question:
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../../Regions/Retails/Japan/T-19906G/01/README.md) - :question:

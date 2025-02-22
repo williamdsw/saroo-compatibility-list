@@ -4,7 +4,7 @@
 
 ## V
 
-#### 74 Jogos (29 Testados)
+#### 71 Jogos (29 Testados - 42 TODO)
 
 - [VR Golf '97 (USA)](../../../Regions/Retails/USA/T-12518H/01/README.md) - :white_check_mark:
 - [VR Soccer (USA)](../../../Regions/Retails/USA/T-12517H/01/README.md) - :white_check_mark:

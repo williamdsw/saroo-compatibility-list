@@ -4,7 +4,7 @@
 
 ## H
 
-#### 48 Games (42 Tested)
+#### 48 Games (42 Tested - 6 TODO)
 
 - Hang On GP '95 (Japan) (1M) - TODO
 - Hang On GP '95 (Japan) (2M) - TODO

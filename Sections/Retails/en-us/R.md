@@ -4,7 +4,7 @@
 
 ## R
 
-#### 64 Games (35 Tested)
+#### 64 Games (34 Tested - 1 To be tested - 29 TODO)
 
 - [Rabbit (Japan)](../../../Regions/Retails/Japan/T-10610G/01/README.md) - :white_check_mark:
 - [Race Drivin' (Japan)](../../../Regions/Retails/Japan/T-4802G/01/README.md) - :white_check_mark:

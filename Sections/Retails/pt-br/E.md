@@ -4,7 +4,7 @@
 
 ## E
 
-#### 23 Jogos (20 Testados)
+#### 23 Jogos (20 Testados - 3 TODO)
 
 - Earthworm Jim 2 (Europe) - TODO
 - Earthworm Jim 2 (Japan) (2M) - TODO

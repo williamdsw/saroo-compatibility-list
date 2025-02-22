@@ -4,7 +4,7 @@
 
 ## J
 
-#### 30 Jogos (26 Testados)
+#### 30 Jogos (26 Testados - 4 TODO)
 
 - [J. B. Harold - Blue Chicago Blues (Japan)](../../../Regions/Retails/Japan/T-5302G/01/README.md) - :question:
 - [J.League Go Go Goal! (Japan)](../../../Regions/Retails/Japan/T-3602G/README.md) - :white_check_mark:
