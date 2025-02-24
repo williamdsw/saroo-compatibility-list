@@ -4,7 +4,7 @@
 
 ## V
 
-#### 71 Games (29 Tested - 42 TODO)
+#### 68 Games (31 Tested - 37 TODO)
 
 - [VR Golf '97 (USA)](../../../Regions/Retails/USA/T-12518H/01/README.md) - :white_check_mark:
 - [VR Soccer (USA)](../../../Regions/Retails/USA/T-12517H/01/README.md) - :white_check_mark:
@@ -20,13 +20,10 @@
 - [Victory Goal (Japan)](../../../Regions/Retails/Japan/GS-9002/01/README.md) - :white_check_mark:
 - [Victory Goal Worldwide Edition (Japan)](../../../Regions/Retails/Japan/GS-9112/01/README.md) - :white_check_mark:
 - [Virtua Cop (Europe)](../../../Regions/Retails/Europe/MK-81015/01/README.md) - :white_check_mark:
-- Virtua Cop (Japan) (1M, 5M) - TODO
-- Virtua Cop (Japan) (2M) - TODO
+- [Virtua Cop (Japan)](../../../Regions/Retails/Japan/GS-9060/01/README.md) - :white_check_mark:
 - [Virtua Cop (USA)](../../../Regions/Retails/USA/MK-81015/01/README.md) - :white_check_mark:
 - [Virtua Cop 2 (Europe)](../../../Regions/Retails/Europe/MK-81043/01/README.md) - :white_check_mark:
-- Virtua Cop 2 (Japan) (2M) - TODO
-- Virtua Cop 2 (Japan) (3M) - TODO
-- Virtua Cop 2 (Japan) (Rev B) (23M) - TODO
+- [Virtua Cop 2 (Japan)](../../../Regions/Retails/Japan/GS-9097/01/README.md) - :white_check_mark:
 - [Virtua Cop 2 (USA)](../../../Regions/Retails/USA/MK-81043/01/README.md) - :white_check_mark:
 - Virtua Fighter (Europe) (Made in EU) - TODO
 - Virtua Fighter (Europe) (Made in USA) - TODO

@@ -4,7 +4,7 @@
 
 ## K
 
-#### 44 Jogos (43 Testados - 1 TODO)
+#### 44 Jogos
 
 - [K-1 Fighting Illusion Shou (Japan)](../../../Regions/Retails/Japan/T-26102G/01/README.md) - :hammer_and_wrench:
 - [Kaitei Daisensou (Japan)](../../../Regions/Retails/Japan/T-15006G/01/README.md) - :warning:
@@ -31,8 +31,8 @@
 - [Kindaichi Shounen no Jikenbo: Hoshimitou Kanashimi no Hukushuuki (Japan)](../../../Regions/Retails/Japan/T-14315G/01/README.md) - :white_check_mark:
 - [Kiss Yori... (Japan)](../../../Regions/Retails/Japan/T-19724G/01/README.md) - :white_check_mark:
 - [Kisuishou Densetsu Astal (Japan)](../../../Regions/Retails/Japan/GS-9019/01/README.md) - :white_check_mark:
-- Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race! (Japan) (Satakore) - TODO
 - [Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race! (Japan)](../../../Regions/Retails/Japan/T-13319G/01/README.md) - :white_check_mark:
+- [Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa L. Dai Race! (Japan) (Satakore)](../../../Regions/Retails/Japan/T-13332G/01/README.md) - :white_check_mark:
 - [Koden Koureijutsu Hyaku Monogatari: Hontoni Atta Kowai Hanashi (Japan)](../../../Regions/Retails/Japan/T-14312G/01/README.md) - :white_check_mark:
 - [Koi no Summer Fantasy: in Miyazaki Seagaia (Japan)](../../../Regions/Retails/Japan/T-23407G/01/README.md) - :white_check_mark:
 - [Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan)](../../../Regions/Retails/Japan/T-28004G/01/README.md) - :question:

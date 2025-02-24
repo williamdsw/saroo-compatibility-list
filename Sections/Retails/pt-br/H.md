@@ -4,9 +4,9 @@
 
 ## H
 
-#### 48 Jogos (42 Testados - 6 TODO)
+#### 48 Jogos (43 Testados - 5 TODO)
 
-- Hang On GP '95 (Japan) (1M) - TODO
+- Hang On GP '95 (Japan) (1M) - TODO (Recorded)
 - Hang On GP '95 (Japan) (2M) - TODO
 - Hang On GP '96 (Europe) - TODO
 - [Hang-On GP (USA)](../../../Regions/Retails/USA/MK-81202/01/README.md) - :white_check_mark:
@@ -49,7 +49,7 @@
 - [Houkago Ren'ai Club - Koi no Etude (Japan)](../../../Regions/Retails/Japan/T-19714G/01/README.md) - :question:
 - [Houma Hunter Lime Perfect Collection (Japan)](../../../Regions/Retails/Japan/T-2001G/01/README.md) - :warning: & :question:
 - [Hyper 3-D Pinball (USA)](../../../Regions/Retails/USA/T-7015H/01/README.md) - :white_check_mark:
-- Hyper 3D Pinball (Japan) - TODO
+- [Hyper 3-D Pinball (Japan)](../../../Regions/Retails/Japan/T-7007G/01/README.md) - :white_check_mark:
 - [Hyper 3D Taisen Battle Gebockers (Japan)](../../../Regions/Retails/Japan/T-5303G/01/README.md) - :white_check_mark:
 - [Hyper Duel (Japan)](../../../Regions/Retails/Japan/T-1809G/01/README.md) - :white_check_mark:
 - [Hyper Reverthion (Japan)](../../../Regions/Retails/Japan/T-1803G/01/README.md) - :white_check_mark:

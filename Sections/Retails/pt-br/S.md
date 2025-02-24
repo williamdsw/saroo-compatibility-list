@@ -4,7 +4,7 @@
 
 ## S
 
-#### 257 Jogos (156 Testados - 13 to be tested - 88 TODO)
+#### 257 Jogos (157 Testados - 13 to be tested - 80 TODO)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
@@ -139,7 +139,7 @@
 - [Shusse Mahjong Daisettai (Japan)](../../../Regions/Retails/Japan/T-24902G/01/README.md) - :white_check_mark:
 - [Shutokou Battle '97: Tsuchiya Keiichi & Bandou Masaaki (Japan)](../../../Regions/Retails/Japan/T-15019G/README.md) - :white_check_mark:
 - [Shutsudou! Miniskirt Police (Japan)](../../../Regions/Retails/Japan/T-30812G/01/README.md) - :white_check_mark:
-- Side Pocket 2 - Densetsu no Hustler (Japan) - TODO
+- [Side Pocket 2 - Densetsu no Hustler (Japan)](../../../Regions/Retails/Japan/T-1301G/01/README.md) - :white_check_mark:
 - [Side Pocket 3 (Japan)](../../../Regions/Retails/Japan/T-1314G/01/README.md) - :white_check_mark:
 - Silhouette Mirage (Japan) (Rev A) - TODO
 - Silhouette Mirage (Japan) - TODO

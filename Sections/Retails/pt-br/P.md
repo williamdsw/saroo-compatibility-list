@@ -24,7 +24,7 @@
 - Panzer Dragoon (Japan) (5A) - TODO
 - [Panzer Dragoon (USA)](../../../Regions/Retails/USA/MK-81009/01/README.md) - :white_check_mark:
 - Panzer Dragoon II Zwei (Europe) - TODO
-- Panzer Dragoon II Zwei (Japan) - TODO
+- [Panzer Dragoon II Zwei (Japan)](../../../Regions/Retails/Japan/GS-9049/01/README.md) - :white_check_mark:
 - [Panzer Dragoon II Zwei (USA)](../../../Regions/Retails/USA/MK-81022/01/README.md) - :100:
 - Panzer Dragoon Saga (Europe) (Disc 1) - TODO
 - Panzer Dragoon Saga (Europe) (Disc 2) - TODO

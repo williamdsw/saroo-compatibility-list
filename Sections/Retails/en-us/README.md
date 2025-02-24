@@ -11,12 +11,12 @@
 - `France` - FRA, FR (0 Games)
 - `Germany` - GER, GE (2 Games)
 - `Italy` - ITA, IT (0 Game)
-- `Japan` - JAP, JP (812 Games)
+- `Japan` - JAP, JP (819 Games)
 - `South Korea` - STK, SK (1 Game)
 - `Spain` - SPA, SP (0 Games)
 - `Taiwan` - TAI, TW (4 Games)
 - `USA` - United States of America, US (222 Games)
-- Total: 1.134 games registered
+- Total: 1.141 games registered
 
 ### Games
 

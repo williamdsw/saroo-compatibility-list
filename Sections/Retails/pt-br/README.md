@@ -11,12 +11,12 @@
 - `France` - França, FRA, FR (0 Jogos)
 - `Germany` - Alemanha, GER, GE (2 Jogos)
 - `Italy` - Itália, ITA, IT (0 Jogos)
-- `Japan` - Japão, JAP, JP (812 Jogos)
+- `Japan` - Japão, JAP, JP (819 Jogos)
 - `South Korea` - Coréia do Sul, STK, SK (1 Jogo)
 - `Spain` - Espanha, SPA, SP (0 Jogos)
 - `Taiwan` - TAI, TW (4 Jogo)
 - `USA` - Estados Unidos da América, US (222 Jogos)
-- Total: 1.134 jogos registrados
+- Total: 1.141 jogos registrados
 
 ### Jogos
 
