@@ -68,7 +68,7 @@
 - [Bottom of the 9th (USA)](../../../Regions/Retails/USA/T-9505H/01/README.md) - :white_check_mark:
 - [Bouken Katsugeki Mono Mono (Japan)](../../../Regions/Retails/Japan/T-21508G/01/README.md) - :white_check_mark:
 - [Brain Battle Q (Japan)](../../../Regions/Retails/Japan/T-25701G/01/README.md) - :white_check_mark:
-- BrainDead 13 (Japan) - TODO
+- [BrainDead 13 (Japan)](../../../Regions/Retails/Japan/T-7305G/01/README.md) - :white_check_mark:
 - [BrainDead 13 (USA)](../../../Regions/Retails/USA/T-12103H/01/README.md) - :warning:
 - Break Point (Europe) (En,Fr) - TODO
 - Break Point (Japan) - TODO

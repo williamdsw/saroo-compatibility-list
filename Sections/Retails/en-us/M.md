@@ -44,7 +44,7 @@
 - [Mainichi Kawaru Quiz Bangumi Quiz 365 (Japan)](../../../Regions/Retails/Japan/T-21201G/01/README.md) - :white_check_mark:
 - [Making of Nightruth II: Voice Selection (Japan)](../../../Regions/Retails/Japan/T-20205G/01/README.md) - :warning:
 - [Manx TT SuperBike (Europe)](../../../Regions/Retails/Europe/MK-81210/01/README.md) - :white_check_mark:
-- Manx TT SuperBike (Japan) - TODO
+- [Manx TT SuperBike (Japan)](../../../Regions/Retails/Japan/GS-9102/01/README.md) - :white_check_mark:
 - [Manx TT SuperBike (USA)](../../../Regions/Retails/USA/MK-81210/01/README.md) - :white_check_mark:
 - [Maria: Kimitachi ga Umareta Wake (Japan)](../../../Regions/Retails/Japan/T-36302G/01/README.md) - :question:
 - [Marica: Shinjitsu no Sekai (Japan)](../../../Regions/Retails/Japan/T-6008G/01/README.md) - :white_check_mark:
@@ -62,7 +62,7 @@
 - [Matsukata Hiroki no World Fishing (Japan)](../../../Regions/Retails/Japan/T-24801G/01/README.md) - :white_check_mark:
 - [Maximum Force (Europe)](../../../Regions/Retails/Europe/T-25417H/01/README.md) - :white_check_mark:
 - [Maximum Force (USA)](../../../Regions/Retails/USA/T-9707H/01/README.md) - :white_check_mark:
-- MechWarrior 2 (Japan) - TODO
+- [MechWarrior 2 (Japan)](../../../Regions/Retails/Japan/T-23406G/01/README.md) - :white_check_mark:
 - MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (Europe) - TODO
 - [MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA)](../../../Regions/Retails/USA/T-13004H/01/README.md) - :white_check_mark:
 - [Media ROMancer Daisuke Asakura (Japan)](../../../Regions/Retails/Japan/T-25001G/01/README.md) - :white_check_mark:

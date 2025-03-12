@@ -6,10 +6,10 @@
 
 #### 131 Games (84 Tested - 2 To be tested - 45 TODO)
 
-- TNN Motor Sports HardCore 4X4 (USA) - TODO
+- [TNN Motor Sports HardCore 4X4 (USA)](../../../Regions/Retails/USA/T-13703H/01/README.md) - :white_check_mark:
 - [Tactical Fighter (Japan)](../../../Regions/Retails/Japan/T-21402G/01/README.md) - :white_check_mark:
 - [Tactics Formula (Japan)](../../../Regions/Retails/Japan/T-34101G/01/README.md) - :hammer_and_wrench:
-- Tactics Ogre - Let Us Cling Together (Japan) - TODO
+- [Tactics Ogre: Let Us Cling Together (Japan)](../../../Regions/Retails/Japan/T-5306G/01/README.md) - :white_check_mark:
 - [Tadaima Wakusei Kaitakuchuu! (Japan)](../../../Regions/Retails/Japan/T-16602G/01/README.md) - :white_check_mark:
 - [Taiheiyou no Arashi 2: 3D Heiki Data-shuu (Japan)](../../../Regions/Retails/Japan/T-15024G/01/README.md) - :white_check_mark:
 - [Taiheiyou no Arashi 2: Shippuu no Moudou (Japan)](../../../Regions/Retails/Japan/T-15018G/01/README.md) - :white_check_mark:
@@ -64,7 +64,7 @@
 - [The Hyper Golf - Devil's Course (Japan)](../../../Regions/Retails/Japan/T-2303H/01/README.md) - :white_check_mark:
 - The Incredible Hulk - The Pantheon Saga (Europe) - TODO
 - [The Incredible Hulk - The Pantheon Saga (USA)](../../../Regions/Retails/USA/T-7905H/01/README.md) - :hammer_and_wrench:
-- The King of Boxing (Japan) - TODO
+- [The King of Boxing (Japan)](../../../Regions/Retails/Japan/T-6001G/01/README.md) - :white_check_mark:
 - [The King of Fighters '95 (Europe)](../../../Regions/Retails/Europe/MK-81088/01/README.md) - :x: (TODO - Update)
 - [The King of Fighters '95 (Japan)](../../../Regions/Retails/Japan/T-3101G/01/README.md) - :hammer_and_wrench:
 - [The King of Fighters '96 (Japan)](../../../Regions/Retails/Japan/T-3108G/01/README.md) - :warning:
@@ -120,8 +120,8 @@
 - Torico (Europe) (Disc 2) - TODO
 - [Touge King the Spirits (Japan)](../../../Regions/Retails/Japan/T-14401G/01/README.md) - :white_check_mark:
 - [Touge King the Spirits 2 (Japan)](../../../Regions/Retails/Japan/T-14412G/01/README.md) - :white_check_mark:
-- Tour Party - Sotsugyou Ryokou ni Ikou (Japan) (Rev A) - TODO
-- Tournament Leader (Japan) - TODO
+- [Tour Party - Sotsugyou Ryokou ni Ikou (Japan)](../../../Regions/Retails/Japan/T-10312G/01/README.md) - :white_check_mark:
+- [Tournament Leader (Japan)](../../../Regions/Retails/Japan/T-6007G/01/README.md) - :white_check_mark:
 - [Touryuu Densetsu Elan Doree (Japan)](../../../Regions/Retails/Japan/T-38202G/01/README.md) - :white_check_mark:
 - Toushinden S (Japan) - TODO
 - Toushinden URA (Japan) - TODO
@@ -133,7 +133,7 @@
 - [Tryrush Deppy (Japan)](../../../Regions/Retails/Japan/T-21302G/01/README.md) - :white_check_mark:
 - [Tsuukai!! Slot Shooting (Japan)](../../../Regions/Retails/Japan/T-21504G/01/README.md) - :white_check_mark:
 - Tunnel B1 (Europe) - TODO
-- Tunnel B1 (USA) - TODO
+- [Tunnel B1 (USA)](../../../Regions/Retails/USA/T-8144H/01/README.md) - :white_check_mark:
 - [TurfWind '96: Take Yutaka Kyousouba Ikusei Game (Japan)](../../../Regions/Retails/Japan/T-5707G/01/README.md) - :white_check_mark:
 - [Tutankhamen no Nazo: A.N.K.H (Japan)](../../../Regions/Retails/Japan/T-35601G/01/README.md) - :white_check_mark:
 - [Twinkle Star Sprites (Japan)](../../../Regions/Retails/Japan/T-37301G/01/README.md) - :white_check_mark:

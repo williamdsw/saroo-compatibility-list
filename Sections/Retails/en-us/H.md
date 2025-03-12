@@ -14,7 +14,7 @@
 - [Hansha de Spark! (Japan)](../../../Regions/Retails/Japan/T-20902G/01/README.md) - :white_check_mark:
 - [Hardcore 4x4 (Europe)](../../../Regions/Retails/Europe/T-12303H/01/README.md) - :white_check_mark:
 - [Harukaze Sentai V-Force (Japan)](../../../Regions/Retails/Japan/T-19904G/01/README.md) - :question:
-- [HatTrick Hero S (Japan)](../../../Regions/Retails/Japan/T-1102G/01/README.md) - :white_check_mark:
+- [HatTrick Hero S (Japan)](../../../Regions/Retails/Japan/T-1103G/01/README.md) - :white_check_mark:
 - [Hatsukoi Monogatari (Japan)](../../../Regions/Retails/Japan/T-33004G/01/README.md) - :white_check_mark:
 - [Haunted Casino (Japan)](../../../Regions/Retails/Japan/T-21902G/01/README.md) - :white_check_mark:
 - [Heartbeat Scramble (Japan)](../../../Regions/Retails/Japan/T-15014G/01/README.md) - :hammer_and_wrench:

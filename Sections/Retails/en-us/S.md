@@ -152,7 +152,7 @@
 - [Skeleton Warriors (USA)](../../../Regions/Retails/USA/T-13204H/01/README.md) - :white_check_mark:
 - [Skull Fang: Kuuga Gaiden (Japan)](../../../Regions/Retails/Japan/T-1311G/01/README.md) - :white_check_mark:
 - Sky Target (Europe) - TODO
-- Sky Target (Japan) - TODO
+- [Sky Target (Japan)](../../../Regions/Retails/Japan/GS-9103/01/README.md) - :white_check_mark:
 - [Sky Target (USA)](../../../Regions/Retails/USA/MK-81051/01/README.md) - :white_check_mark:
 - Slam 'n Jam '96 Featuring Magic & Kareem (Japan) - TODO
 - Slam 'n Jam '96 Featuring Magic & Kareem (Europe) - TODO
@@ -210,7 +210,7 @@
 - [Steam-Heart's (Japan)](../../../Regions/Retails/Japan/T-32502G/01/README.md) - :white_check_mark:
 - [SteamGear Mash (Japan)](../../../Regions/Retails/Japan/T-10301G/01/README.md) - :white_check_mark:
 - Steep Slope Sliders (Europe) - TODO
-- Steep Slope Sliders (Japan) - TODO
+- [Steep Slope Sliders (Japan)](../../../Regions/Retails/Japan/T-9112G/01/README.md) - :white_check_mark:
 - [Steep Slope Sliders (USA)](../../../Regions/Retails/USA/MK-81128/01/README.md) - :white_check_mark:
 - [Stellar Assault SS (Japan)](../../../Regions/Retails/Japan/T-4403G/01/README.md) - :white_check_mark:
 - [Strahl: Himerareshi Nanatsu no Hikari (Japan)](../../../Regions/Retails/Japan/T-20501G/01/README.md) - :white_check_mark:
@@ -231,7 +231,7 @@
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
 - [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/01/README.md) - :white_check_mark:
-- Street Fighter Zero 2 (Japan) - TODO
+- [Street Fighter Zero 2 (Japan)](../../../Regions/Retails/Japan/T-1212G/01/README.md) - :white_check_mark:
 - [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/01/README.md) - :white_check_mark:
 - [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/01/README.md) - :hammer_and_wrench:
 - [Street Racer (Europe)](../../../Regions/Retails/Europe/T-17702H/01/README.md) - :white_check_mark:

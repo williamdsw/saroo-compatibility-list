@@ -52,7 +52,7 @@
 - Road Rash (Japan) - TODO
 - [Road Rash (USA)](../../../Regions/Retails/USA/T-5008H/01/README.md) - :white_check_mark:
 - Robo Pit (Europe) - TODO
-- Robo Pit (Japan) - TODO
+- [Robo Pit (Japan)](../../../Regions/Retails/Japan/T-16603G/01/README.md) - :white_check_mark:
 - [Robo Pit (USA)](../../../Regions/Retails/USA/T-10002H/01/README.md) - :white_check_mark:
 - [Robotica: Cybernation Revolt (USA)](../../../Regions/Retails/USA/T-8104H/01/README.md) - :warning:
 - Robotica - Cybernation Revolt (Europe) - TODO
