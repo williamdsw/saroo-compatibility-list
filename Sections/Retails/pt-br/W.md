@@ -4,7 +4,7 @@
 
 ## W
 
-#### 70 Jogos (46 Testados - 24 TODO)
+#### 70 Jogos (47 Testados - 23 TODO)
 
 - WWF In Your House (Europe) - TODO
 - WWF In Your House (Japan) - TODO
@@ -31,7 +31,7 @@
 - [Willy Wombat (Japan)](../../../Regions/Retails/Japan/T-14306G/01/README.md) - :white_check_mark:
 - Wing Arms (Europe) - TODO
 - [Wing Arms (USA)](../../../Regions/Retails/USA/MK-81024/01/README.md) - :white_check_mark:
-- Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev A) - TODO
+- [Wing Arms: Kareinaru Gekitsuiou (Japan)](../../../Regions/Retails/Japan/GS-9038/01/README.md) - :white_check_mark:
 - [Winning Post (USA)](../../../Regions/Retails/USA/T-7602H/01/README.md) - :white_check_mark:
 - [Winning Post 2 (Japan)](../../../Regions/Retails/Japan/T-7612G/01/README.md) - :white_check_mark:
 - Winning Post 2 - Final '97 (Japan) - TODO

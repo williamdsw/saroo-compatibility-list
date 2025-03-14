@@ -4,7 +4,7 @@
 
 ## W
 
-#### 70 Games (46 Tested - 24 TODO)
+#### 70 Games (47 Tested - 23 TODO)
 
 - WWF In Your House (Europe) - TODO
 - WWF In Your House (Japan) - TODO

@@ -4,7 +4,7 @@
 
 ## J
 
-#### 30 Games (26 Tested - 4 TODO)
+#### 30 Games (28 Tested - 2 TODO)
 
 - [J. B. Harold - Blue Chicago Blues (Japan)](../../../Regions/Retails/Japan/T-5302G/01/README.md) - :question:
 - [J.League Go Go Goal! (Japan)](../../../Regions/Retails/Japan/T-3602G/README.md) - :white_check_mark:

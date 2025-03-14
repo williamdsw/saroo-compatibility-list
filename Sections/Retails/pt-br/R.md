@@ -4,7 +4,7 @@
 
 ## R
 
-#### 64 Jogos (34 Testados - 1 a ser testado - 29 TODO)
+#### 64 Jogos (37 Testados - 27 TODO)
 
 - [Rabbit (Japan)](../../../Regions/Retails/Japan/T-10610G/01/README.md) - :white_check_mark:
 - [Race Drivin' (Japan)](../../../Regions/Retails/Japan/T-4802G/01/README.md) - :white_check_mark:
@@ -49,13 +49,13 @@
 - Road & Track Presents - The Need for Speed (Europe) - TODO
 - [Road & Track Presents - The Need for Speed (USA)](../../../Regions/Retails/USA/T-5009H/01/README.md) - :white_check_mark:
 - Road Rash (Europe) - TODO
-- Road Rash (Japan) - TODO
+- [Road Rash (Japan)](../../../Regions/Retails/Japan/T-10609G/01/README.md) - :warning:
 - [Road Rash (USA)](../../../Regions/Retails/USA/T-5008H/01/README.md) - :white_check_mark:
-- Robo Pit (Europe) - TODO
-- Robo Pit (Japan) - TODO
+- [Robo Pit (Europe)](../../../Regions/Retails/Europe/T-10002H50/01/README.md) - :warning:
+- [Robo Pit (Japan)](../../../Regions/Retails/Japan/T-16603G/01/README.md) - :white_check_mark:
 - [Robo Pit (USA)](../../../Regions/Retails/USA/T-10002H/01/README.md) - :white_check_mark:
 - [Robotica: Cybernation Revolt (USA)](../../../Regions/Retails/USA/T-8104H/01/README.md) - :warning:
-- Robotica - Cybernation Revolt (Europe) - TODO
+- Robotica - Cybernation Revolt (Europe) - TODO (Recorded)
 - Rockman 8 - Metal Heroes (Japan) - TODO (Recorded)
 - [Rockman X3 (Japan)](../../../Regions/Retails/Japan/T-1210G/01/README.md) - :white_check_mark:
 - [Rockman X4 (Japan)](../../../Regions/Retails/Japan/T-1221G/01/README.md) - :100:

@@ -4,7 +4,7 @@
 
 ## D
 
-#### 136 Jogos (81 Testados - 55 TODO)
+#### 135 Jogos (84 Testados - 51 TODO)
 
 - D (Europe) (Disc I) - TODO
 - D (Europe) (Disc II) - TODO
@@ -25,8 +25,7 @@
 - [Daisuki (Japan)](../../../Regions/Retails/Japan/T-18510G/01/README.md) - :question:
 - [Daitoride (Japan)](../../../Regions/Retails/Japan/T-29201G/01/README.md) - :white_check_mark:
 - [Darius Gaiden (Europe)](../../../Regions/Retails/Europe/T-8123H-50/01/README.md) - :white_check_mark:
-- Darius Gaiden (Japan) (2M) - TODO
-- Darius Gaiden (Japan) (3M) - TODO
+- [Darius Gaiden (Japan)](../../../Regions/Retails/Japan/T-1102G/01/README.md) - :white_check_mark:
 - [Darius Gaiden (USA)](../../../Regions/Retails/USA/T-8123H/01/README.md) - :white_check_mark:
 - [Darius II (Europe)](../../../Regions/Retails/Europe/MK-81085/01/README.md) - :white_check_mark:
 - [Darius II (Japan)](../../../Regions/Retails/Japan/T-1104G/01/README.md) - :white_check_mark:
@@ -60,8 +59,8 @@
 - DecAthlete (Japan) (2M) - TODO
 - DecAthlete (Japan) (Rev A) (10M) - TODO
 - DecAthlete (Japan) (Rev B) (20M) - TODO
-- DecAthlete (USA) - TODO
-- DecAthlete for SegaNet (Japan) - TODO
+- [DecAthlete (USA)](../../../Regions/Retails/USA/MK-81115/01/README.md) - :warning:
+- DecAthlete for SegaNet (USA) - TODO
 - [Deep Fear (Europe)](../../../Regions/Retails/Europe/MK-81804/01/README.md) - :warning:
 - Deep Fear (Japan) (Disc 1) - TODO
 - Deep Fear (Japan) (Disc 2) - TODO
@@ -73,7 +72,7 @@
 - [Defcon 5 (USA)](../../../Regions/Retails/USA/T-1301G/01/README.md) - :white_check_mark:
 - [Deka Yonku: Tough the Truck (Japan)](../../../Regions/Retails/Japan/T-4313G/01/README.md) - :white_check_mark:
 - [Delisoba Deluxe (Japan)](../../../Regions/Retails/Japan/6106803/01/README.md) - :white_check_mark:
-- Dennou Senki - Virtual On - Cyber Troopers (Japan) - TODO
+- [Dennou Senki: Virtual On: Cyber Troopers (Japan)](../../../Regions/Retails/Japan/GS-9099/01/README.md) - :warning:
 - Dennou Senki - Virtual On - Cyber Troopers (Korea) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers for SegaNet (Japan) - TODO
 - [Denpa Shounen-teki Game (Japan)](../../../Regions/Retails/Japan/T-14316G/01/README.md) - :white_check_mark:
@@ -85,7 +84,7 @@
 - [Deroon Dero Dero (Japan)](../../../Regions/Retails/Japan/T-3601G/01/README.md) - :white_check_mark:
 - [Desire (Japan)](../../../Regions/Retails/Japan/T-15031G/01/README.md) - :question:
 - [Destruction Derby (Europe)](../../../Regions/Retails/Europe/T-11303H/01/README.md) - :white_check_mark:
-- Destruction Derby (Japan) - TODO
+- [Destruction Derby (Japan)](../../../Regions/Retails/Japan/T-18604G/01/README.md) - :white_check_mark:
 - [Device Reign (Japan)](../../../Regions/Retails/Japan/T-27810G/01/README.md) - :white_check_mark:
 - [Devil Summoner: Soul Hackers (Japan)](../../../Regions/Retails/Japan/T-14420G/01/README.md) - :question:
 - [Devil Summoner: Soul Hackers: Akuma Zensho Dainishū (Japan)](../../../Regions/Retails/Japan/T-14421G/01/README.md) - :white_check_mark:

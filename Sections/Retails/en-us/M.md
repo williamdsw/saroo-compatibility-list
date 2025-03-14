@@ -4,7 +4,7 @@
 
 ## M
 
-#### 111 Games (84 Tested - 27 TODO)
+#### 111 Games (87 Tested - 24 TODO)
 
 - [Maboroshi no Black Bass (Japan)](../../../Regions/Retails/Japan/T-25303G/01/README.md) - :white_check_mark:
 - [Machine Head (USA)](../../../Regions/Retails/USA/T-7914H/01/README.md) - :white_check_mark:
@@ -78,7 +78,7 @@
 - [Metal Slug - Super Vehicle-001 (Japan)](../../../Regions/Retails/Japan/T-3111G/01/README.md) - :warning: (TODO - Update)
 - [Mezase Idol Star!! Natsuiro Memories: Mahjong Hen (Japan)](../../../Regions/Retails/Japan/T-31001G/01/README.md) - :white_check_mark:
 - [Mighty Hits (Europe)](../../../Regions/Retails/Europe/MK-81087/01/README.md) - :white_check_mark:
-- Mighty Hits (Japan) - TODO
+- [Mighty Hits (Japan)](../../../Regions/Retails/Japan/T-16604G/01/README.md) - :warning:
 - [Minakata Hakudou Toujou (Japan)](../../../Regions/Retails/Japan/T-14414G/01/README.md) - :question:
 - [Minami no Shima ni Buta ga Ita: Lucas no Daibouken (Japan)](../../../Regions/Retails/Japan/T-27101G/01/README.md) - :white_check_mark:
 - [Minnesota Fats: Pool Legend (USA)](../../../Regions/Retails/USA/T-1302H/01/README.md) - :white_check_mark:

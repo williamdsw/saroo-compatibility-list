@@ -4,7 +4,7 @@
 
 ## B
 
-#### 83 Jogos (54 Testados - 29 TODO)
+#### 83 Jogos (56 Testados - 27 TODO)
 
 - [BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou (Japan)](../../../Regions/Retails/Japan/T-19907G/01/README.md) - :question:
 - [BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei (Japan)](../../../Regions/Retails/Japan/T-19906G/01/README.md) - :question:
@@ -53,7 +53,7 @@
 - Blam! Machinehead (France) - TODO
 - Blam! Machinehead (Germany) - TODO
 - Blam! Machinehead (Japan) - TODO
-- Blast Chamber (Europe) - TODO
+- [Blast Chamber (Europe)](../../../Regions/Retails/Europe/T-13003H50/01/README.md) - :warning:
 - [Blast Chamber (USA)](../../../Regions/Retails/USA/T-13003H/01/README.md) - :white_check_mark:
 - [Blast Wind (Japan)](../../../Regions/Retails/Japan/T-1810G/01/README.md) - :white_check_mark:
 - Blazing Dragons (Europe) - TODO
@@ -68,7 +68,7 @@
 - [Bottom of the 9th (USA)](../../../Regions/Retails/USA/T-9505H/01/README.md) - :white_check_mark:
 - [Bouken Katsugeki Mono Mono (Japan)](../../../Regions/Retails/Japan/T-21508G/01/README.md) - :white_check_mark:
 - [Brain Battle Q (Japan)](../../../Regions/Retails/Japan/T-25701G/01/README.md) - :white_check_mark:
-- BrainDead 13 (Japan) - TODO
+- [BrainDead 13 (Japan)](../../../Regions/Retails/Japan/T-7305G/01/README.md) - :white_check_mark:
 - [BrainDead 13 (USA)](../../../Regions/Retails/USA/T-12103H/01/README.md) - :warning:
 - Break Point (Europe) (En,Fr) - TODO
 - Break Point (Japan) - TODO

@@ -4,11 +4,11 @@
 
 ## E
 
-#### 23 Jogos (20 Testados - 3 TODO)
+#### 23 Jogos (21 Testados - 2 TODO)
 
 - Earthworm Jim 2 (Europe) - TODO
 - Earthworm Jim 2 (Japan) (2M) - TODO
-- Earthworm Jim 2 (USA) - TODO
+- [Earthworm Jim 2 (USA)](../../../Regions/Retails/USA/T-13203H/01/README.md) - :warning:
 - [Eberouge (Japan)](../../../Regions/Retails/Japan/T-10309G/01/README.md) - :question:
 - [Eberouge Special - Koi to Mahou no Gakuen Seikatsu (Japan)](../../../Regions/Retails/Japan/T-10315G/01/README.md) - :white_check_mark:
 - [Eisei Meijin (Japan)](../../../Regions/Retails/Japan/T-9506G/01/README.md) - :white_check_mark:

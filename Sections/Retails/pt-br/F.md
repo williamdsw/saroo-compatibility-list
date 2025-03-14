@@ -4,11 +4,11 @@
 
 ## F
 
-#### 58 Jogos (37 Testados - 21 TODO)
+#### 58 Jogos (39 Testados - 19 TODO)
 
 - [F-1 Live Information (Japan)](../../../Regions/Retails/Japan/GS-9035/01/README.md) - :white_check_mark:
 - F1 Challenge (Europe) - TODO
-- F1 Challenge (USA) - TODO
+- [F1 Challenge (USA)](../../../Regions/Retails/USA/MK-81206/01/README.md) - :white_check_mark:
 - [FEDA Remake! The Emblem of Justice (Japan)](../../../Regions/Retails/Japan/GS-9107/01/README.md) - :white_check_mark:
 - FIFA - Die WM-Qualifikation 98 (Germany) - TODO
 - FIFA - En Route pour la Coupe du Monde 98 (France) - TODO
@@ -22,7 +22,7 @@
 - FIFA Soccer 96 (Europe) - TODO
 - FIFA Soccer 96 (Japan) - TODO
 - [FIFA Soccer 96 (USA)](../../../Regions/Retails/USA/T-5003H/01/README.md) - :white_check_mark:
-- FIFA Soccer 97 (USA) - TODO
+- [FIFA Soccer 97 (USA)](../../../Regions/Retails/USA/T-5017H/01/README.md) - :white_check_mark:
 - [Fantastep (Japan)](../../../Regions/Retails/Japan/GS-9107/01/README.md) - :white_check_mark:
 - [Farland Saga (Japan)](../../../Regions/Retails/Japan/T-32507G/01/README.md) - :white_check_mark:
 - [Farland Saga: Toki no Michishirube (Japan)](../../../Regions/Retails/Japan/T-32511G/01/README.md) - :white_check_mark:

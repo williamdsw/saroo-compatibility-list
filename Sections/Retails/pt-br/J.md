@@ -4,7 +4,7 @@
 
 ## J
 
-#### 30 Jogos (26 Testados - 4 TODO)
+#### 30 Jogos (28 Testados - 2 TODO)
 
 - [J. B. Harold - Blue Chicago Blues (Japan)](../../../Regions/Retails/Japan/T-5302G/01/README.md) - :question:
 - [J.League Go Go Goal! (Japan)](../../../Regions/Retails/Japan/T-3602G/README.md) - :white_check_mark:
@@ -27,8 +27,8 @@
 - [Jissen! Pachi-Slot Hisshou-hou! 3 (Japan)](../../../Regions/Retails/Japan/T-2401G/01/README.md) - :white_check_mark:
 - [Jissen! Pachi-Slot Hisshou-hou! 4 (Japan)](../../../Regions/Retails/Japan/T-2406G/01/README.md) - :warning:
 - [Jissen! Pachi-Slot Hisshou-hou! Iron Hook - The Great Marine Adventures (Japan)](../../../Regions/Retails/Japan/T-2404G/01/README.md) - :white_check_mark:
-- Johnny Bazooka (Japan) - TODO
-- Johnny Bazookatone (Europe) - TODO
+- [Johnny Bazooka (Japan)](../../../Regions/Retails/Japan/T-7302G/01/README.md) - :white_check_mark:
+- [Johnny Bazookatone (Europe)](../../../Regions/Retails/Europe/T-7909H50/01/README.md) - :white_check_mark:
 - [Johnny Bazookatone (USA)](../../../Regions/Retails/USA/T-7909H/01/README.md) - :white_check_mark:
 - [Jonah Lomu Rugby (Europe)](../../../Regions/Retails/Europe/T-12003H50/01/README.md) - :white_check_mark:
 - Jonah Lomu Rugby (France) - TODO

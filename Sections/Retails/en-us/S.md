@@ -4,7 +4,7 @@
 
 ## S
 
-#### 257 Games (157 Tested - 13 to be tested - 80 TODO)
+#### 254 Games (170 Tested - 84 TODO)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
@@ -90,7 +90,7 @@
 - Shellshock (France) - TODO
 - Shellshock (Germany) - TODO
 - [Shellshock (USA)](../../../Regions/Retails/USA/T-7901H/01/README.md) - :warning:
-- Shellshock - Jus' Keepin' da Peace (Japan) - TODO
+- [Shellshock - Jus' Keepin' da Peace (Japan)](../../../Regions/Retails/Japan/T-10607G/01/README.md) - :warning:
 - [Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen (Japan)](../../../Regions/Retails/Japan/T-1242G/01/README.md) - :white_check_mark:
 - [Shichuu Suimei Pitagraph (Japan)](../../../Regions/Retails/Japan/T-19501G/01/README.md) - TODO
 - [Shienryuu (Japan)](../../../Regions/Retails/Japan/T-29102G/01/README.md) - :white_check_mark:
@@ -179,8 +179,7 @@
 - [Sotsugyou II Neo Generation (Japan)](../../../Regions/Retails/Japan/T-5301G/01/README.md) - :white_check_mark:
 - [Sotsugyou III Wedding Bell (Japan)](../../../Regions/Retails/Japan/T-10505G/01/README.md) - :white_check_mark:
 - [Soukuu no Tsubasa: Gotha World (Japan)](../../../Regions/Retails/Japan/T-2205G/01/README.md) - :question:
-- Soukyuu Gurentai (Japan) (Rev A) - TODO
-- Soukyuu Gurentai (Japan) - TODO
+- [Soukyuu Gurentai (Japan)](../../../Regions/Retails/Japan/T-10616G/01/README.md) - :warning:
 - [Soukyugurentai Otokuyou (Japan)](../../../Regions/Retails/Japan/T-10626G/01/README.md) - :white_check_mark:
 - Sound Novel Machi (Japan) (Disc 1) (1M) - TODO
 - Sound Novel Machi (Japan) (Disc 2) (1M) - TODO
@@ -214,9 +213,7 @@
 - [Steep Slope Sliders (USA)](../../../Regions/Retails/USA/MK-81128/01/README.md) - :white_check_mark:
 - [Stellar Assault SS (Japan)](../../../Regions/Retails/Japan/T-4403G/01/README.md) - :white_check_mark:
 - [Strahl: Himerareshi Nanatsu no Hikari (Japan)](../../../Regions/Retails/Japan/T-20501G/01/README.md) - :white_check_mark:
-- Street Fighter - Real Battle on Film (Japan) (2M) - TODO
-- Street Fighter - Real Battle on Film (Japan) (3M) - TODO
-- Street Fighter - Real Battle on Film (Japan) (4M) - TODO
+- [Street Fighter: Real Battle on Film (Japan)](../../../Regions/Retails/Japan/T-1201G/01/README.md) - :warning:
 - Street Fighter - The Movie (Europe) (2S) - TODO
 - Street Fighter - The Movie (Europe) (4S) - TODO
 - [Street Fighter - The Movie (USA)](../../../Regions/Retails/USA/T-8105H/01/README.md) - :white_check_mark:

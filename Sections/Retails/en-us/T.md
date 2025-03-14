@@ -4,7 +4,7 @@
 
 ## T
 
-#### 131 Games (84 Tested - 2 To be tested - 45 TODO)
+#### 131 Games (90 Tested - 41 TODO)
 
 - [TNN Motor Sports HardCore 4X4 (USA)](../../../Regions/Retails/USA/T-13703H/01/README.md) - :white_check_mark:
 - [Tactical Fighter (Japan)](../../../Regions/Retails/Japan/T-21402G/01/README.md) - :white_check_mark:

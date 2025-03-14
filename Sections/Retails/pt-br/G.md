@@ -4,7 +4,7 @@
 
 ## G
 
-#### 72 Jogos (65 Testados - 7 TODO)
+#### 72 Jogos (66 Testados - 6 TODO)
 
 - [G Vector (Japan)](../../../Regions/Retails/Japan/T-30603G/01/README.md) - :white_check_mark:
 - [GT24 (Japan)](../../../Regions/Retails/Japan/T-5714G/01/README.md) - :white_check_mark:
@@ -66,7 +66,7 @@
 - Grid Runner (Japan) - TODO
 - [Grid Runner (USA)](../../../Regions/Retails/USA/T-7025H/01/README.md) - :white_check_mark:
 - [Guardian Force (Japan)](../../../Regions/Retails/Japan/T-9905G/01/README.md) - :white_check_mark:
-- Guardian Heroes (Europe) - TODO
+- [Guardian Heroes (Europe)](../../../Regions/Retails/Europe/MK-81035/01/README.md) - :white_check_mark:
 - Guardian Heroes (Japan) (3M) - TODO
 - [Guardian Heroes (USA)](../../../Regions/Retails/USA/MK-81035/01/README.md) - :white_check_mark:
 - [Gun Frontier Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26109G/01/README.md) - :warning:

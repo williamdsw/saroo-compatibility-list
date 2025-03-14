@@ -9,7 +9,7 @@ games=("Game1" "Game2")
 #     cp -r $folder "${game}"
 # done
 
-for ((i = 1; i <= 42; i++))
+for ((i = 1; i <= 12; i++))
 do
     cp -r $folder "Game0${i}"
 done

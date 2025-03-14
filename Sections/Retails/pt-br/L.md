@@ -4,14 +4,14 @@
 
 ## L
 
-#### 33 Jogos (26 Testados - 7 TODO)
+#### 32 Jogos (28 Testados - 4 TODO)
 
 - La Mansion de las Almas Ocultas (Spain) - TODO
 - [Langrisser - Dramatic Edition (Japan)](../../../Regions/Retails/Japan/T-2507G/01/README.md) - :warning:
 - [Langrisser III (Japan)](../../../Regions/Retails/Japan/T-2502G/01/README.md) - :white_check_mark:
 - [Langrisser IV (Japan)](../../../Regions/Retails/Japan/T-2505G/01/README.md) - :white_check_mark:
 - [Langrisser V - The End of Legend (Japan)](../../../Regions/Retails/Japan/T-2509G/01/README.md) - :white_check_mark:
-- Last Bronx (Europe) - TODO
+- [Last Bronx (Europe)](../../../Regions/Retails/Europe/MK-81078/01/README.md) - :warning:
 - Last Bronx (Japan) (Disc 1) (Arcade Disc) - TODO
 - Last Bronx (Japan) (Disc 2) (Special Disc) - TODO
 - [Last Bronx (USA)](../../../Regions/Retails/USA/MK-81078/01/README.md) - :warning:
@@ -25,8 +25,7 @@
 - [LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai (Japan)](../../../Regions/Retails/Japan/T-26411G/01/README.md) - :white_check_mark:
 - [Linda³ Kanzenban (Japan)](../../../Regions/Retails/Japan/T-2112G/01/README.md) - :white_check_mark:
 - [Linkle Liver Story (Japan)](../../../Regions/Retails/Japan/GS-9055/01/README.md) - :white_check_mark:
-- Loaded (Europe) (En,Fr,De) (Alt) - TODO
-- Loaded (Europe) (En,Fr,De) - TODO
+- [Loaded (Europe)](../../../Regions/Retails/Europe/T-12301H/01/README.md) - :warning:
 - [Loaded (USA)](../../../Regions/Retails/USA/T-12519H/01/README.md) - :white_check_mark:
 - [Lode Runner - The Legend Returns (Japan)](../../../Regions/Retails/Japan/T-25101G/01/README.md) - :white_check_mark:
 - [Lode Runner Extra (Japan)](../../../Regions/Retails/Japan/T-25103G/01/README.md) - :white_check_mark:
