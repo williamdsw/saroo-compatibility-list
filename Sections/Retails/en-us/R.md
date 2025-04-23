@@ -4,7 +4,7 @@
 
 ## R
 
-#### 64 Games (37 Tested - 27 TODO)
+#### 64 Games (38 Tested - 26 TODO)
 
 - [Rabbit (Japan)](../../../Regions/Retails/Japan/T-10610G/01/README.md) - :white_check_mark:
 - [Race Drivin' (Japan)](../../../Regions/Retails/Japan/T-4802G/01/README.md) - :white_check_mark:
@@ -15,7 +15,7 @@
 - Rampo (Japan) (Disc 2) - TODO
 - Rayman (Europe) (1S) - TODO
 - Rayman (Europe) (6S) - TODO
-- Rayman (Japan) - TODO
+- [Rayman (Japan)](../../../Regions/Retails/Japan/T-17701G/01/README.md) - :white_check_mark:
 - [Rayman (USA)](../../../Regions/Retails/USA/T-17701G/01/README.md) - :white_check_mark:
 - [Real Bout Garou Densetsu (Japan)](../../../Regions/Retails/Japan/T-3105G/01/README.md) - :white_check_mark:
 - [Real Bout Garou Densetsu Special (Japan)](../../../Regions/Retails/Japan/T-3119G/01/README.md) - :white_check_mark:

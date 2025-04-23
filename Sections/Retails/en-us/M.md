@@ -4,7 +4,7 @@
 
 ## M
 
-#### 111 Games (87 Tested - 24 TODO)
+#### 111 Games (88 Tested - 23 TODO)
 
 - [Maboroshi no Black Bass (Japan)](../../../Regions/Retails/Japan/T-25303G/01/README.md) - :white_check_mark:
 - [Machine Head (USA)](../../../Regions/Retails/USA/T-7914H/01/README.md) - :white_check_mark:
@@ -56,7 +56,7 @@
 - [Marvel Super Heroes vs. Street Fighter (Japan)](../../../Regions/Retails/Japan/T-1238G/01/README.md) - :white_check_mark:
 - Mass Destruction (Europe) - TODO
 - [Mass Destruction (USA)](../../../Regions/Retails/USA/T-18007H/01/README.md) - :white_check_mark:
-- Mass Destruction - OtoUn ni mo Dekiru Soft (Japan) - TODO
+- [Mass Destruction - OtoUn ni mo Dekiru Soft (Japan)](../../../Regions/Retails/Japan/T-18007G/01/README.md) - :white_check_mark:
 - [Master of Monsters (Japan)](../../../Regions/Retails/Japan/T-6301G/01/README.md) - :white_check_mark:
 - [Masters: Harukanaru Augusta 3 (Japan)](../../../Regions/Retails/Japan/T-11401G/01/README.md) - :white_check_mark:
 - [Matsukata Hiroki no World Fishing (Japan)](../../../Regions/Retails/Japan/T-24801G/01/README.md) - :white_check_mark:

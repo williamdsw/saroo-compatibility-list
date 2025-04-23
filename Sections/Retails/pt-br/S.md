@@ -4,7 +4,7 @@
 
 ## S
 
-#### 254 Jogos (170 Testados - 84 TODO)
+#### 254 Jogos (172 Testados - 82 TODO)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
@@ -33,7 +33,7 @@
 - [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../../Regions/Retails/Japan/T-32105G/01/README.md) - :white_check_mark:
 - Saturn Bomberman (Europe) - TODO (Recorded)
 - Saturn Bomberman (Japan) (SegaNet) - TODO
-- Saturn Bomberman (Japan) - TODO
+- [Saturn Bomberman (Japan)](../../../Regions/Retails/Japan/T-14302G/01/README.md) - :white_check_mark:
 - [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/01/README.md) - :white_check_mark:
 - [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/01/README.md) - :white_check_mark:
 - Saturn Music School (Japan) - TODO
@@ -102,7 +102,7 @@
 - [Shinseiki Evangelion: Digital Card Library (Japan)](../../../Regions/Retails/Japan/GS-9159/01/README.md) - :white_check_mark:
 - [Shinseiki Evangelion: Eva to Yukai na Nakamatachi (Japan)](../../../Regions/Retails/Japan/T-35103G/01/README.md) - :white_check_mark:
 - [Shinseiki Evangelion: Koutetsu no Girlfriend (Japan)](../../../Regions/Retails/Japan/GS-9194/01/README.md) - :hammer_and_wrench: & :question:
-- Shin Shinobiden (Japan) - TODO
+- [Shin Shinobiden (Japan)](../../../Regions/Retails/Japan/GS-9010/01/README.md) - :white_check_mark:
 - [Shin Theme Park (Japan)](../../../Regions/Retails/Japan/T-10618G/01/README.md) - :white_check_mark:
 - [Shingata Kururin Pa! (Japan)](../../../Regions/Retails/Japan/T-24202G/01/README.md) - :white_check_mark:
 - Shining Force III (Europe) (R) - TODO

@@ -4,7 +4,7 @@
 
 ## P
 
-#### 74 Games (51 Tested - 23 TODO)
+#### 71 Games (52 Tested - 19 TODO)
 
 - [Pacific Theater of Operations II (USA)](../../../Regions/Retails/USA/T-7604H/01/README.md) - :white_check_mark:
 - [PD Ultraman Link (Japan)](../../../Regions/Retails/Japan/T-13304G/01/README.md) - :white_check_mark:
@@ -18,10 +18,7 @@
 - [Paneltia Story: Karen no Daibouken (Japan)](../../../Regions/Retails/Japan/T-21510G/01/README.md) - :white_check_mark:
 - [Panic Chan (Japan)](../../../Regions/Retails/Japan/T-15010G/01/README.md) - :white_check_mark:
 - [Panzer Dragoon (Europe)](../../../Regions/Retails/Europe/MK-81009/01/README.md) - :white_check_mark:
-- Panzer Dragoon (Japan) (2M) - TODO
-- Panzer Dragoon (Japan) (3A, 3B) - TODO
-- Panzer Dragoon (Japan) (4B) - TODO
-- Panzer Dragoon (Japan) (5A) - TODO
+- [Panzer Dragoon (Japan)](../../../Regions/Retails/Japan/GS-9015/01/README.md) - :white_check_mark:
 - [Panzer Dragoon (USA)](../../../Regions/Retails/USA/MK-81009/01/README.md) - :white_check_mark:
 - Panzer Dragoon II Zwei (Europe) - TODO
 - [Panzer Dragoon II Zwei (Japan)](../../../Regions/Retails/Japan/GS-9049/01/README.md) - :white_check_mark:

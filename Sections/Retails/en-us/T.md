@@ -4,7 +4,7 @@
 
 ## T
 
-#### 131 Games (90 Tested - 41 TODO)
+#### 130 Games (93 Tested - 37 TODO)
 
 - [TNN Motor Sports HardCore 4X4 (USA)](../../../Regions/Retails/USA/T-13703H/01/README.md) - :white_check_mark:
 - [Tactical Fighter (Japan)](../../../Regions/Retails/Japan/T-21402G/01/README.md) - :white_check_mark:
@@ -58,8 +58,7 @@
 - The Horde (Japan) - TODO
 - [The Horde (USA)](../../../Regions/Retails/USA/T-15909H50/01/README.md) - :hammer_and_wrench:
 - [The House of the Dead (Europe)](../../../Regions/Retails/Europe/MK-81802/01/README.md) - :white_check_mark:
-- The House of the Dead (Japan) (Rev A) - TODO
-- The House of the Dead (Japan) - TODO
+- [The House of the Dead (Japan)](../../../Regions/Retails/Japan/GS-9173/01/REsADME.md) - :white_check_mark:
 - [The House of the Dead (USA)](../../../Regions/Retails/USA/81802/01/REsADME.md) - :white_check_mark:
 - [The Hyper Golf - Devil's Course (Japan)](../../../Regions/Retails/Japan/T-2303H/01/README.md) - :white_check_mark:
 - The Incredible Hulk - The Pantheon Saga (Europe) - TODO
@@ -73,7 +72,7 @@
 - [The Legend of Oasis (USA)](../../../Regions/Retails/USA/MK-81302/01/README.md) - :white_check_mark:
 - [The Lost Vikings 2 - Norse by Norsewest (Europe)](../../../Regions/Retails/Europe/T-12521H50/01/README.md) - :white_check_mark:
 - The Lost World - Jurassic Park (Europe) - TODO
-- The Lost World - Jurassic Park (Japan) - TODO
+- [The Lost World - Jurassic Park (Japan)](../../../Regions/Retails/Japan/GS-9162/01/README.md) - :white_check_mark:
 - [The Lost World - Jurassic Park (USA)](../../../Regions/Retails/USA/MK-81065/01/README.md) - :white_check_mark:
 - [The Making of Nightruth (Japan)](../../../Regions/Retails/Japan/T-20203G/01/README.md) - :warning:
 - [The Mansion of Hidden Souls (USA)](../../../Regions/Retails/USA/MK-81012/01/README.md) - :white_check_mark:
@@ -89,7 +88,7 @@
 - [Theme Park (USA)](../../../Regions/Retails/USA/T-5001H/01/README.md) - :white_check_mark:
 - Thor - Seireioukiden (Japan) - TODO
 - Three Dirty Dwarves (Europe) - TODO
-- Three Dirty Dwarves (Japan) (2M) - TODO
+- [Three Dirty Dwarves (Japan)](../../../Regions/Retails/Japan/GS-9137/01/README.md) - :white_check_mark:
 - [Three Dirty Dwarves (USA)](../../../Regions/Retails/USA/T-30401H/01/README.md) - :white_check_mark:
 - [Thunder Force V (Japan)](../../../Regions/Retails/Japan/T-1811G/01/README.md) - :white_check_mark:
 - Thunderhawk II (Japan) - TODO

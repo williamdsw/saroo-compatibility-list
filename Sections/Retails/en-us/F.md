@@ -4,7 +4,7 @@
 
 ## F
 
-#### 58 Games (39 Tested - 19 TODO)
+#### 56 Games (40 Tested - 16 TODO)
 
 - [F-1 Live Information (Japan)](../../../Regions/Retails/Japan/GS-9035/01/README.md) - :white_check_mark:
 - F1 Challenge (Europe) - TODO
@@ -30,9 +30,7 @@
 - [Father Christmas (Japan)](../../../Regions/Retails/Japan/T-18504G/01/README.md) - :white_check_mark:
 - [Fighter's History Dynamite (Japan)](../../../Regions/Retails/Japan/GS-9107/01/README.md) - :white_check_mark:
 - [Fighters Megamix (Europe)](../../../Regions/Retails/Europe/MK-81073/01/README.md) - :white_check_mark:
-- Fighters Megamix (Japan) (1M) - TODO
-- Fighters Megamix (Japan) (2M) - TODO
-- Fighters Megamix (Japan) - TODO
+- [Fighters Megamix (Japan)](../../../Regions/Retails/Japan/GS-9126/01/README.md) - :white_check_mark:
 - [Fighters Megamix (USA)](../../../Regions/Retails/USA/MK-81073/01/README.md) - :warning:
 - [Fighting Vipers (Europe)](../../../Regions/Retails/Europe/MK-81041/01/README.md) - :white_check_mark:
 - Fighting Vipers (Japan) (Rev A) - TODO

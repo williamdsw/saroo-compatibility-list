@@ -4,13 +4,13 @@
 
 ## W
 
-#### 70 Jogos (47 Testados - 23 TODO)
+#### 70 Jogos (49 Testados - 21 TODO)
 
 - WWF In Your House (Europe) - TODO
-- WWF In Your House (Japan) - TODO
+- [WWF In Your House (Japan)](../../../Regions/Retails/Japan/T-8120G/01/README.md) - :white_check_mark:
 - [WWF In Your House (USA)](../../../Regions/Retails/USA/T-8126H/01/README.md) - :white_check_mark:
 - WWF WrestleMania - The Arcade Game (Europe) - TODO
-- WWF WrestleMania - The Arcade Game (Japan) - TODO
+- [WWF WrestleMania - The Arcade Game (Japan)](../../../Regions/Retails/Japan/T-8112G/01/README.md) - :white_check_mark:
 - [WWF WrestleMania - The Arcade Game (USA)](../../../Regions/Retails/USA/T-8112H/01/README.md) - :warning:
 - [Wachenröder (Japan)](../../../Regions/Retails/Japan/GS-9183/01/README.md) - :white_check_mark:
 - [Waialae no Kiseki: Extra 36 Holes (Japan)](../../../Regions/Retails/Japan/T-11402G/01/README.md) - :white_check_mark:
