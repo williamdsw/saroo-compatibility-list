@@ -21,7 +21,13 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Sega Ages Space Harrier (Japan): Issues :warning:
+- Sega Ages Space Harrier (Japan) (Rev A) (11M): Untested :question:
+- Sega Ages Space Harrier (Japan) (Rev A) (13M): Untested :question:
+
+### Problems
+
+- Performance issues such when you shoot a laser - [01:00](https://www.youtube.com/watch?v=15x4vdWvsx4&t=60s)
 
 ### Extra Info
 
@@ -29,10 +35,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### TODO
 
-- Test Sega Ages Space Harrier (Japan)
 - Test Sega Ages Space Harrier (Japan) (Rev A) (11M) - TODO
 - Test Sega Ages Space Harrier (Japan) (Rev A) (13M) - TODO
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+Sega Ages Space Harrier (Japan):
+
+[![](https://img.youtube.com/vi/15x4vdWvsx4/0.jpg)](https://www.youtube.com/watch?v=15x4vdWvsx4)

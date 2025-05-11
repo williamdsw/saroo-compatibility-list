@@ -21,7 +21,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Issues :warning:
+
+### Problems
+
+- Glitched Columns 97 Logo - [05:51](https://www.youtube.com/watch?v=_QystyEigvE&t=351s)
 
 ### Extra Info
 
@@ -29,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/_QystyEigvE/0.jpg)](https://www.youtube.com/watch?v=_QystyEigvE)

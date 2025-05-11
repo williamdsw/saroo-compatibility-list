@@ -21,7 +21,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Issues :warning:
+
+### Problems
+
+- Phantasy Star II won't load (black screen) - [11:40](https://www.youtube.com/watch?v=lap-my_nwxo&t=700s)
 
 ### Extra Info
 
@@ -29,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/lap-my_nwxo/0.jpg)](https://www.youtube.com/watch?v=lap-my_nwxo)

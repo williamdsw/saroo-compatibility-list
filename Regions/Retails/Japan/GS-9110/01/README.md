@@ -21,7 +21,11 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Issues :warning:
+
+### Problems
+
+- Game stuck at SEGA logo or stuck at a black screen - [00:37](https://www.youtube.com/watch?v=1fqxicnToIc&t=37s)
 
 ### Extra Info
 
@@ -29,4 +33,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/1fqxicnToIc/0.jpg)](https://www.youtube.com/watch?v=1fqxicnToIc)

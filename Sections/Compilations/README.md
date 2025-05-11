@@ -4,7 +4,7 @@
 
 ## Compilations
 
-### 48 Games - 36 Tested
+### 48 Games - 37 Tested - 11 TODO
 
 - Bubble Bobble also featuring Rainbow Islands (Europe) - TODO
 - [Bubble Bobble also featuring Rainbow Islands (USA)](../../Regions/Compilations/USA/T-8131H/01/README.md)
@@ -30,13 +30,13 @@
 - Pad Nifty 1.1 & Habitat II (Japan) - TODO
 - [Parodius (Europe)](../../Regions/Compilations/Europe/T-9501H-50/01/README.md)
 - [Salamander Deluxe Pack Plus (Japan)](../../Regions/Compilations/Japan/T-9520G/01/README.md)
-- [Sega Ages Columns Arcade Collection (Japan)](../../Regions/Compilations/Japan/GS-9161/01/README.md) - TODO
-- [Sega Ages I Love Mickey Mouse: Fushigi no Oshiro Daibouken/I Love Donald Duck: Gurujia Ou no Hihou (Japan)](../../Regions/Compilations/Japan/GS-9179/01/README.md) - TODO
-- [Sega Ages Memorial Selection Vol. 1 (Japan)](../../Regions/Compilations/Japan/GS-9135/01/README.md) - TODO
-- [Sega Ages Memorial Selection Vol. 2 (Japan)](../../Regions/Compilations/Japan/GS-9163/01/README.md) - TODO
-- [Sega Ages Phantasy Star Collection (Japan)](../../Regions/Compilations/Japan/GS-9186/01/README.md) - TODO
-- [Sega Ages Rouka ni Ichidant-R (Japan)](../../Regions/Compilations/Japan/GS-9043/01/README.md) - TODO
-- [Sega Ages Shukudai ga Tanto R (Japan)](../../Regions/Compilations/Japan/GS-9042/01/README.md) - TODO
+- [Sega Ages: Columns Arcade Collection (Japan)](../../Regions/Compilations/Japan/GS-9161/01/README.md)
+- [Sega Ages: I Love Mickey Mouse: Fushigi no Oshiro Daibouken/I Love Donald Duck: Gurujia Ou no Hihou (Japan)](../../Regions/Compilations/Japan/GS-9179/01/README.md)
+- [Sega Ages: Memorial Selection Vol. 1 (Japan)](../../Regions/Compilations/Japan/GS-9135/01/README.md)
+- [Sega Ages: Memorial Selection Vol. 2 (Japan)](../../Regions/Compilations/Japan/GS-9163/01/README.md)
+- [Sega Ages: Phantasy Star Collection (Japan)](../../Regions/Compilations/Japan/GS-9186/01/README.md)
+- [Sega Ages: Rouka ni Ichidant-R (Japan)](../../Regions/Compilations/Japan/GS-9043/01/README.md)
+- [Sega Ages: Shukudai ga Tanto R (Japan)](../../Regions/Compilations/Japan/GS-9042/01/README.md)
 - Sega Ages: Volume 1 (Europe) - TODO
 - [Sega Ages: Volume 1 (USA)](../../Regions/Compilations/USA/T-12707H/01/README.md)
 - Sonic Jam (Europe) - TODO

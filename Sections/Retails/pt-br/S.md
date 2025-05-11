@@ -4,7 +4,7 @@
 
 ## S
 
-#### 254 Jogos (172 Testados - 82 TODO)
+#### 254 Games (178 Testados - 76 TODO)
 
 - [SD Gundam G Century S (Japan)](../../../Regions/Retails/Japan/T-13324G/01/README.md) - :white_check_mark:
 - [Sakamoto Ryuuma: Ishin Kaikoku (Japan)](../../../Regions/Retails/Japan/T-19709G/01/README.md) - :white_check_mark:
@@ -45,12 +45,12 @@
 - [Sea Bass Fishing (Europe)](../../../Regions/Retails/Europe/T-6009H-50/01/README.md) - :white_check_mark:
 - SeaBass Fishing (Japan) - TODO
 - [SeaBass Fishing 2 (Japan)](../../../Regions/Retails/Japan/T-6011G/01/README.md) - :white_check_mark:
-- [Sega Ages After Burner II (Japan)](../../../Regions/Retails/Japan/GS-9109/01/README.md) - TODO
-- [Sega Ages Fantasy Zone (Japan)](../../../Regions/Retails/Japan/GS-9136/01/README.md) - TODO
-- [Sega Ages Galaxy Force II (Japan)](../../../Regions/Retails/Japan/GS-9197/01/README.md) - TODO
-- [Sega Ages OutRun (Japan)](../../../Regions/Retails/Japan/GS-9110/01/README.md) - TODO
-- [Sega Ages Power Drift (Japan)](../../../Regions/Retails/Japan/GS-9181/01/README.md) - TODO
-- [Sega Ages Space Harrier (Japan)](../../../Regions/Retails/Japan/GS-9108/01/README.md) - TODO
+- [Sega Ages: After Burner II (Japan)](../../../Regions/Retails/Japan/GS-9109/01/README.md)
+- [Sega Ages: Fantasy Zone (Japan)](../../../Regions/Retails/Japan/GS-9136/01/README.md)
+- [Sega Ages: Galaxy Force II (Japan)](../../../Regions/Retails/Japan/GS-9197/01/README.md)
+- [Sega Ages: OutRun (Japan)](../../../Regions/Retails/Japan/GS-9110/01/README.md)
+- [Sega Ages: Power Drift (Japan)](../../../Regions/Retails/Japan/GS-9181/01/README.md)
+- [Sega Ages: Space Harrier (Japan)](../../../Regions/Retails/Japan/GS-9108/01/README.md)
 - [Sega International Victory Goal (Japan)](../../../Regions/Retails/Japan/GS-9044/01/README.md) - :white_check_mark:
 - Sega Rally Championship (Europe) (Made in EU) - TODO
 - Sega Rally Championship (Europe) (Made in USA) - TODO

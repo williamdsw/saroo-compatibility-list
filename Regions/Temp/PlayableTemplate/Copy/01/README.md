@@ -1,4 +1,4 @@
-# Sega Ages: Memorial Selection Vol. 1 (Japan)
+# Game (Region)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 
@@ -13,11 +13,11 @@
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> MEMORIALSELECTION VOL1
-- <b>Product Number:</b> GS-9135
-- <b>Version:</b> V1.002
-- <b>Area Code:</b> JT
-- <b>Peripheral Code:</b> J
+- <b>Game Name:</b> NAME
+- <b>Product Number:</b> PRODUCT_NUMBER
+- <b>Version:</b> VERSION
+- <b>Area Code:</b> AREA_CODE
+- <b>Peripheral Code:</b> PERIPHERAL_CODE
 
 ### Status
 
@@ -29,4 +29,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-[![](https://img.youtube.com/vi/bzsWwb9EPsM/0.jpg)](https://www.youtube.com/watch?v=bzsWwb9EPsM)
+[![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM)
