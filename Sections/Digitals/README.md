@@ -7,22 +7,22 @@
 ### 30 Items - 13 Tested
 
 - [Kamen Rider - Sakusen File 1 (Japan)](../../Regions/Digitals/Japan/T-14101G/01/README.md)
-- Private Idol Disc - Data-hen - Race Queen F (Japan) - TODO
-- Private Idol Disc - Data-hen - Race Queen G (Japan) - TODO
-- Private Idol Disc - Tokubetsu-hen - Can Gal '97 (Japan) - TODO
-- Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M) - TODO
-- Private Idol Disc - Tokubetsu-hen - Kogal Daihyakka 100 (Japan) - TODO
-- Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan) - TODO
-- Private Idol Disc Vol. 2 - Miki Uchiyama (Japan) - TODO
-- Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M) - TODO
-- Private Idol Disc Vol. 4 - Mirei Kuroda (Japan) - TODO
-- Private Idol Disc Vol. 5 - Nanako Fujisaki (Japan) - TODO
-- Private Idol Disc Vol. 6 - Satomi Yoshida (Japan) - TODO
-- Private Idol Disc Vol. 7 - Kaori Asou (Japan) - TODO
-- Private Idol Disc Vol. 8 - Emiko Furukawa (Japan) - TODO
-- Private Idol Disc Vol. 9 - Keiko Nagamatsu (Japan) - TODO
-- Private Idol Disc Vol. 10 - Mai Masaki (Japan) - TODO
-- Private Idol Disc Vol. 11 - Mayumi Hirose (Japan) (2M) - TODO
+- [Private Idol Disc - Data-hen - Race Queen F (Japan)](../../Regions/Digitals/Japan/T-30805G/01/README.md) - TODO
+- [Private Idol Disc - Data-hen - Race Queen G (Japan)](../../Regions/Digitals/Japan/T-30806G/01/README.md) - TODO
+- [Private Idol Disc - Tokubetsu-hen - Can Gal '97 (Japan)](../../Regions/Digitals/Japan/T-30808G/01/README.md) - TODO
+- [Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M)](../../Regions/Digitals/Japan/T-30804G/01/README.md) - TODO
+- [Private Idol Disc - Tokubetsu-hen - Kogal Daihyakka 100 (Japan)](../../Regions/Digitals/Japan/T-30807G/01/README.md) - TODO
+- [Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan)](../../Regions/Digitals/Japan/T-30801G/01/README.md) - TODO
+- [Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)](../../Regions/Digitals/Japan/T-30802G/01/README.md) - TODO
+- [Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M)](../../Regions/Digitals/Japan/T-30803G/01/README.md) - TODO
+- [Private Idol Disc Vol. 4 - Mirei Kuroda (Japan)](../../Regions/Digitals/Japan/T-30809G/01/README.md) - TODO
+- [Private Idol Disc Vol. 5 - Nanako Fujisaki (Japan)](../../Regions/Digitals/Japan/T-30811G/01/README.md) - TODO
+- [Private Idol Disc Vol. 6 - Satomi Yoshida (Japan)](../../Regions/Digitals/Japan/T-30813G/01/README.md) - TODO
+- [Private Idol Disc Vol. 7 - Kaori Asou (Japan)](../../Regions/Digitals/Japan/T-30814G/01/README.md) - TODO
+- [Private Idol Disc Vol. 8 - Emiko Furukawa (Japan)](../../Regions/Digitals/Japan/T-30815G/01/README.md) - TODO
+- [Private Idol Disc Vol. 9 - Keiko Nagamatsu (Japan)](../../Regions/Digitals/Japan/T-30816G/01/README.md) - TODO
+- [Private Idol Disc Vol. 10 - Mai Masaki (Japan)](../../Regions/Digitals/Japan/T-30817G/01/README.md) - TODO
+- [Private Idol Disc Vol. 11 - Mayumi Hirose (Japan) (2M)](../../Regions/Digitals/Japan/T-30818G/01/README.md) - TODO
 - [Virtua Fighter CG Portrait Collection (Europe)](../../Regions/Digitals/Europe/610-6083/01/README.md)
 - Virtua Fighter CG Portrait Collection (Japan) - TODO
 - [Virtua Fighter CG Portrait Series - The Final - Dural (Japan)](../../Regions/Digitals/Japan/GS-9073/01/README.md)
