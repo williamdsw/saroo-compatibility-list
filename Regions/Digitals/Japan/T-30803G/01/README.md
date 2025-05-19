@@ -21,7 +21,15 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Untested :question:
+- Fixed with configuration :hammer_and_wrench:
+
+### Problems without configuration
+
+- Random images glitches can happen on all Private Idol Discs.
+
+### Solution
+
+- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Digitals/T-38601G/README.md).
 
 ### Extra Info
 
@@ -29,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Evidence
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/WV2ReGA-Bbc/0.jpg)](https://www.youtube.com/watch?v=WV2ReGA-Bbc)
