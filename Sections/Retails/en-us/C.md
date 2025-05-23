@@ -31,9 +31,9 @@
 - Clockwork Knight - Pepperouchau no Daibouken Gekan (Japan) (2M) - TODO
 - Clockwork Knight - Pepperouchau no Daibouken Joukan (Japan) - TODO
 - [Clockwork Knight: Pepperouchau's Adventure (Europe)](../../../Regions/Retails/Europe/MK-81007/01/README.md) - :white_check_mark:
-- [Clockwork Knight: Pepperouchau's Adventure (USA)](../../../Regions/Retails/USA/MK-81007/01/README.md) - TODO (Recorded)
+- [Clockwork Knight: Pepperouchau's Adventure (USA)](../../../Regions/Retails/USA/MK-81007/01/README.md) - TODO
 - [Clockwork Knight 2: Pepperouchau's Adventure (Europe)](../../../Regions/Retails/Europe/MK-81021/01/README.md) - :white_check_mark:
-- [Clockwork Knight 2: Pepperouchau's Adventure (USA, Brazil)](../../../Regions/Retails/USA/MK-81036/01/README.md) - TODO (Recorded)
+- [Clockwork Knight 2: Pepperouchau's Adventure (USA, Brazil)](../../../Regions/Retails/USA/MK-81036/01/README.md) - :white_check_mark:
 - [Code R (Japan)](../../../Regions/Retails/Japan/T-23502G/01/README.md) - :hammer_and_wrench:
 - [College Slam (USA)](../../../Regions/Retails/USA/T-8111H/01/README.md) - :white_check_mark:
 - Command & Conquer (Europe) (Disc 1) (GDI) - TODO
@@ -80,9 +80,7 @@
 - Cyber Speedway (Europe) (RE) - TODO
 - [Cyber Speedway (USA)](../../../Regions/Retails/USA/MK-81204/01/README.md) - :white_check_mark:
 - Cyber Troopers Virtual-On (Europe) - TODO
-- [Cyber Troopers Virtual-On (USA)](../../../Regions/Retails/USA/MK-81042/01/README.md) - :warning:
-- Cyber Troopers Virtual-On Net Link Edition (USA) - TODO
-- [Cyberbots: FullMetal Madness (Japan)](../../../Regions/Retails/Japan/T-1217G/01/README.md) - :hammer_and_wrench:
+- [Cyberbots: FullMetal Madness (Japan)](../../../Regions/Retails/Japan/MK-81072/01/README.md) - :hammer_and_wrench:
 - Cyberia (Europe) - TODO
 - Cyberia (Japan) - TODO
 - [Cyberia (USA)](../../../Regions/Retails/USA/T-12508H/01/README.md) - :warning:

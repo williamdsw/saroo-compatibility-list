@@ -37,4 +37,4 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 1):
 
-[![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM)
+[![](https://img.youtube.com/vi/q6X3Gzh7b/0.jpg)](https://www.youtube.com/watch?v=q6X3Gzh7b)

@@ -77,7 +77,7 @@
 - [Bubble Symphony (Japan)](../../../Regions/Retails/Japan/T-19905G/01/README.md) - :white_check_mark:
 - Bug Too! (Europe) - TODO
 - [Bug Too! (USA)](../../../Regions/Retails/USA/MK-81040/01/README.md) - :white_check_mark:
-- Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (Japan) - TODO
+- [Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (Japan)](../../../Regions/Retails/Japan/GS-9128/01/README.md) - :white_check_mark:
 - [Bug! (Europe)](../../../Regions/Retails/Europe/MK-81004/01/README.md) - :hammer_and_wrench:
 - [Bug! (USA)](../../../Regions/Retails/USA/GM-81004/01/README.md) - :hammer_and_wrench:
 - [Bug! Jump Shite, Funzukechatte, Petchanko (Japan)](../../../Regions/Retails/Japan/GS-9063/01/README.md) - :hammer_and_wrench:

@@ -26,15 +26,14 @@
 - Virtua Fighter (Europe) (Made in EU) - TODO
 - Virtua Fighter (Europe) (Made in USA) - TODO
 - Virtua Fighter (Japan) - TODO
-- Virtua Fighter (USA) - TODO (Recorded ?)
+- [Virtua Fighter (USA)](../../../Regions/Retails/USA/MK-81005/01/README.md) - :hammer_and_wrench:
 - Virtua Fighter 2 (Europe) (Made in EU) - TODO
 - Virtua Fighter 2 (Europe) (Made in USA) - TODO
 - Virtua Fighter 2 (Europe) (Rev A) (Made in EU) - TODO
 - Virtua Fighter 2 (Europe) (Rev A) (Made in USA) - TODO
 - [Virtua Fighter 2 (Japan)](../../../Regions/Retails/Japan/GS-9079/01/README.md) - :white_check_mark:
 - Virtua Fighter 2 (South Korea) - TODO
-- Virtua Fighter 2 (USA) (RE) - TODO
-- Virtua Fighter 2 (USA) - TODO (Recorded ?)
+- [Virtua Fighter 2 (USA)](../../../Regions/Retails/USA/MK-81014/01/README.md) - :white_check_mark:
 - Virtua Fighter Kids (Europe) - TODO
 - [Virtua Fighter Kids (Japan)](../../../Regions/Retails/Japan/GS-9098/01/README.md) - :white_check_mark:
 - Virtua Fighter Kids (South Korea) - TODO
@@ -57,6 +56,8 @@
 - [Virtual Kyoutei (Japan)](../../../Regions/Retails/Japan/T-7101G/01/README.md) - :white_check_mark:
 - [Virtual Kyoutei 2 (Japan)](../../../Regions/Retails/Japan/T-7104G/01/README.md) - :white_check_mark:
 - [Virtual Mahjong (Japan)](../../../Regions/Retails/Japan/T-2206G/01/README.md) - :white_check_mark:
+- [Virtual On: Cyber Troopers (USA)](../../../Regions/Retails/USA/MK-81042/01/README.md) - :warning:
+- [Virtual On: Cyber Troopers Net Link Edition (USA)](../../../Regions/Retails/USA/MK-81042/01/README.md) - :warning:
 - Virtual Open Tennis (Europe) - TODO
 - [Virtual Open Tennis (Japan)](../../../Regions/Retails/Japan/T-15007G/01/README.md) - :white_check_mark:
 - [Virtual Open Tennis (USA)](../../../Regions/Retails/USA/T-8129H/01/README.md) - :white_check_mark:

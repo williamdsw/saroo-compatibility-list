@@ -56,7 +56,7 @@
 - [Robo Pit (USA)](../../../Regions/Retails/USA/T-10002H/01/README.md) - :white_check_mark:
 - [Robotica: Cybernation Revolt (USA)](../../../Regions/Retails/USA/T-8104H/01/README.md) - :warning:
 - Robotica - Cybernation Revolt (Europe) - TODO (Recorded)
-- Rockman 8 - Metal Heroes (Japan) - TODO (Recorded)
+- [Rockman 8: Metal Heroes (Japan) (Japan)](../../../Regions/Retails/Japan/T-1214G/01/README.md) - :white_check_mark:
 - [Rockman X3 (Japan)](../../../Regions/Retails/Japan/T-1210G/01/README.md) - :white_check_mark:
 - [Rockman X4 (Japan)](../../../Regions/Retails/Japan/T-1221G/01/README.md) - :100:
 - [Romance of the Three Kingdoms IV - Wall of Fire (USA)](../../../Regions/Retails/USA/T-7601H/01/README.md) - :white_check_mark:

@@ -46,7 +46,7 @@
 - [Playboy Karaoke Collection Volume 2 (Japan)](../../../Regions/Retails/Japan/T-2304G/01/README.md) - :100:
 - [Pocket Fighter (Japan)](../../../Regions/Retails/Japan/T-1230G/01/README.md) - :100:
 - [Policenauts (Japan)](../../../Regions/Retails/Japan/T-9510G/01/README.md) - :question:
-- Popoitto Hebereke (Japan) - TODO
+- [Popoitto Hebereke (Japan)](../../../Regions/Retails/Japan/T-1504G/01/README.md) - :white_check_mark:
 - Powerslave (USA) - TODO
 - [PriCla Daisakusen (Japan)](../../../Regions/Retails/Japan/T-14409G/01/README.md) - :white_check_mark:
 - [Primal Rage (Europe)](../../../Regions/Retails/Europe/T-4802H-50/01/README.md) - :white_check_mark:
@@ -72,7 +72,7 @@
 - Puyo Puyo Sun for SegaNet (Japan) - TODO
 - [Puyo Puyo Tsuu (Japan)](../../../Regions/Retails/Japan/T-6601G/01/README.md) - :white_check_mark:
 - [Puzzle Bobble 2X (Japan)](../../../Regions/Retails/Japan/T-1106G/01/README.md) - :white_check_mark:
-- Puzzle Bobble 3 (Japan) (1M) - TODO
+- Puzzle Bobble 3 (Japan) (1M) - TODO (Recorded)
 - Puzzle Bobble 3 (Japan) (2M) - TODO
 - Puzzle Bobble 3 for SegaNet (Japan) - TODO
 - [Puzzle & Action: 2do Arukoto ha Sand-R (Japan)](../../../Regions/Retails/Japan/T-6802G/01/README.md) - :white_check_mark:

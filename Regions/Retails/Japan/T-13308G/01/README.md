@@ -6,6 +6,7 @@
 
 - <b>Firmwares Tested:</b>
   1. MCU: 231111, SS: 231111, FPGA: 05 [Vortex]
+  2. [MCU: 240316, SS: 240316, FPGA: 05 - v0.4](../02/README.md)
 
 ### [SD Card Info (XRayDisk - 128 GB)](../../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
 

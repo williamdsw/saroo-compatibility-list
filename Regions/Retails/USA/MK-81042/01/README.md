@@ -1,4 +1,4 @@
-# Cyber Troopers Virtual-On (USA)
+# Virtual On: Cyber Troopers (USA)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 

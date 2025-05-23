@@ -23,10 +23,6 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Playable :white_check_mark:
 
-### Extra Info
-
-- TODO
-
 ### Evidence
 
 [![](https://img.youtube.com/vi/6kcHplHJT3g/0.jpg)](https://www.youtube.com/watch?v=6kcHplHJT3g)

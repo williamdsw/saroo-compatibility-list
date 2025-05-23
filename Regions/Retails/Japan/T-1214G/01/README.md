@@ -1,4 +1,4 @@
-# Rockman 8: Metal Heroes (Region)
+# Rockman 8: Metal Heroes (Japan)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 

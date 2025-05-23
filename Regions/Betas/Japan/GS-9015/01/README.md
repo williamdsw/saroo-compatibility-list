@@ -1,4 +1,4 @@
-# Clockwork Knight Puzzle - Pengin War (Japan) (Proto) (1995-10-21
+# Clockwork Knight Puzzle - Pengin War (Japan) (Proto) (1995-10-21)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 

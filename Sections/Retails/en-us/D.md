@@ -42,9 +42,9 @@
 - [Daytona USA (Europe)](../../../Regions/Retails/Europe/MK_8120050/01/README.md) - :hammer_and_wrench:
 - [Daytona USA (Japan)](../../../Regions/Retails/Japan/GS-9013/01/README.md) - :hammer_and_wrench:
 - [Daytona USA (USA)](../../../Regions/Retails/USA/MK-81200/01/README.md) - :hammer_and_wrench:
-- Daytona USA - Championship Circuit Edition (Europe) (Rev A) - TODO
+- [Daytona USA: Championship Circuit Edition (Europe) (Rev A)](../../../Regions/Retails/Europe/MK81213-50/01/README.md) - :warning:
 - [Daytona USA: Championship Circuit Edition (USA)](../../../Regions/Retails/USA/MK-81213/01/README.md) - :white_check_mark:
-- Daytona USA - Circuit Edition (Japan) - TODO
+- Daytona USA - Circuit Edition (Japan) - TODOs
 - Daytona USA C.C.E. Net Link Edition (USA) - TODO
 - [Dejig Aqua World (Japan)](../../../Regions/Retails/Japan/T-30303G/01/README.md) - :white_check_mark:
 - [Dejig Lassen: Art Collection (Japan)](../../../Regions/Retails/Japan/T-30304G/01/README.md) - :white_check_mark:
@@ -76,7 +76,7 @@
 - Dennou Senki - Virtual On - Cyber Troopers (Korea) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers for SegaNet (Japan) - TODO
 - [Denpa Shounen-teki Game (Japan)](../../../Regions/Retails/Japan/T-14316G/01/README.md) - :white_check_mark:
-- Denpa Shounen-teki Game (Japan) (Rerelease) - TODO
+- [Denpa Shounen-teki Game (Japan) (Rerelease)](../../../Regions/Retails/Japan/T-14318G/01/README.md) - :white_check_mark:
 - [Densetsu no Ogre Battle (Japan)](../../../Regions/Retails/Japan/T-5305G/01/README.md) - :white_check_mark:
 - [Densha de Go! EX (Japan)](../../../Regions/Retails/Japan/T-10317G/01/README.md) - :white_check_mark:
 - [Derby Analyst (Japan)](../../../Regions/Retails/Japan/T-20505G/01/README.md) - :white_check_mark:
@@ -124,9 +124,8 @@
 - Dragon Force (Japan) (1M, 2M, 3M) - TODO
 - Dragon Force (Japan) (4M) - TODO
 - Dragon Force (Japan) (Rev A) (10M) - TODO
-- Dragon Force (USA) - TODO (Recorded)
-- Dragon Force II - Kami Sarishi Daichi ni (Japan) (Rev A) - TODO
-- Dragon Force II - Kami Sarishi Daichi ni (Japan) - TODO (Recorded)
+- [Dragon Force (USA)](../../../Regions/Retails/USA/T-12703H/01/README.md) - :warning:
+- [Dragon Force II: Kami Sarishi Daichi ni (Japan)](../../../Regions/Retails/Japan/GS-9184/01/README.md) - :white_check_mark:
 - [Dragon Master Silk (Japan)](../../../Regions/Retails/Japan/T-19503G/01/README.md) - :white_check_mark:
 - [Dragon's Dream (Japan)](../../../Regions/Retails/Japan/GS-7114/01/README.md) - :warnings:
 - Dragonheart: Fire & Steel (Europe) - TODO
@@ -136,7 +135,6 @@
 - [Druid: Yami-He no Tsuiseki Sha (Japan)](../../../Regions/Retails/Japan/T-7670G/01/README.md) - :white_check_mark:
 - Duke Nukem 3D (Europe) - TODO
 - [Duke Nukem 3D (USA)](../../../Regions/Retails/USA/MK-81071/01/README.md) - :white_check_mark:
-- Dungeon Master Nexus (Japan) - TODO
 - [Dungeon Master Nexus (Japan)](../../../Regions/Retails/Japan/T-9111G/01/README.md) - :white_check_mark:
 - [DX Jinsei Game (Japan)](../../../Regions/Retails/Japan/T-10302G/01/README.md) - :white_check_mark:
 - [DX Jinsei Game II (Japan)](../../../Regions/Retails/Japan/T-10310G/01/README.md) - :white_check_mark:

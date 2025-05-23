@@ -74,7 +74,7 @@
 - [Worldwide Soccer: Sega International Victory Goal Edition (South Korea)](../../../Regions/Retails/SouthKorea/MK-81105/01/README.md) - :white_check_mark:
 - [Worldwide Soccer: Sega International Victory Goal Edition (USA)](../../../Regions/Retails/USA/MK-81105/01/README.md) - :white_check_mark:
 - Worms (Europe) - TODO
-- Worms (Japan) - TODO
+- [Worms (Japan)](../../../Regions/Retails/Japan/T-22404G/01/README.md) - :white_check_mark:
 - [Worms (USA)](../../../Regions/Retails/USA/T-16403H/01/README.md) - :white_check_mark:
 
 Navigation:

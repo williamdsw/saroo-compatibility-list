@@ -43,7 +43,6 @@
 - Tetris Plus (Europe) - TODO
 - [Tetris Plus (Japan)](../../../Regions/Retails/Japan/T-5708G/01/README.md) - :white_check_mark:
 - [Tetris Plus (USA)](../../../Regions/Retails/USA/T-5704H/01/README.md) - :white_check_mark:
-- Tetris S (Japan) (Rev A) - TODO
 - [Tetris S (Japan)](../../../Regions/Retails/Japan/T-20802G/01/README.md) - :white_check_mark:
 - [Texthoth Ludo: Arcanum Senki (Japan)](../../../Regions/Retails/Japan/T-23102G/01/README.md) - :white_check_mark:
 - [The Conveni: Ano Machi o Dokusen Seyo (Japan)](../../../Regions/Retails/Japan/T-4310G/01/README.md) - :white_check_mark:

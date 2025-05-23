@@ -31,7 +31,7 @@
 - [Sankyo Fever Jikki Simulation S (Japan)](../../../Regions/Retails/Japan/T-32102G/01/README.md) - :white_check_mark:
 - [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-32103G/01/README.md) - :white_check_mark:
 - [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../../Regions/Retails/Japan/T-32105G/01/README.md) - :white_check_mark:
-- Saturn Bomberman (Europe) - TODO (Recorded)
+- [Saturn Bomberman (Europe)](../../../Regions/Retails/Europe/MK81070-50/01/README.md) - :white_check_mark:
 - Saturn Bomberman (Japan) (SegaNet) - TODO
 - [Saturn Bomberman (Japan)](../../../Regions/Retails/Japan/T-14302G/01/README.md) - :white_check_mark:
 - [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/01/README.md) - :white_check_mark:
@@ -106,13 +106,13 @@
 - [Shin Theme Park (Japan)](../../../Regions/Retails/Japan/T-10618G/01/README.md) - :white_check_mark:
 - [Shingata Kururin Pa! (Japan)](../../../Regions/Retails/Japan/T-24202G/01/README.md) - :white_check_mark:
 - Shining Force III (Europe) (R) - TODO
-- Shining Force III (USA) - TODO
+- [Shining Force III (USA)](../../../Regions/Retails/USA/MK-81383/01/README.md) - :white_check_mark:
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A) - TODO
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) - TODO
 - Shining Force III - Scenario 2 - Nerawareta Miko (Japan) (Rev A) - TODO
 - Shining Force III - Scenario 2 - Nerawareta Miko (Japan) - TODO
 - Shining Force III - Scenario 3 - Hyouheki no Jashinguu (Japan) - TODO
-- Shining Force III Premium Disc (Japan) - TODO
+- [Shining Force III - Premium Disc (Japan)](../../../Regions/Retails/Japan/6106979/01/README.md) - :white_check_mark:
 - Shining Wisdom (Europe) - TODO
 - Shining Wisdom (Japan) (Rev A) - TODO
 - Shining Wisdom (Japan) - TODO
@@ -222,8 +222,7 @@
 - Street Fighter Alpha 2 (Europe) - TODO
 - [Street Fighter Alpha 2 (USA)](../../../Regions/Retails/USA/T-1213H/01/README.md) - :warning:
 - [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/01/README.md) - :white_check_mark:
-- Street Fighter Collection (Japan) (Disc 1) - TODO
-- Street Fighter Collection (Japan) (Disc 2) - TODO
+- [Street Fighter Collection (Japan)](../../../Regions/Retails/Japan/T-1223G/01/README.md) - :white_check_mark:
 - [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/01/README.md) - :white_check_mark:
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
@@ -254,8 +253,7 @@
 - Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO
 - [Super Real Mahjong PVI (Japan)](../../../Regions/Retails/Japan/T-16507G/01/README.md) - :white_check_mark:
 - [Super Real Mahjong PVI - P's Club Special Edition (Japan)](../../../Regions/Retails/Japan/T-16508G/01/README.md) - :white_check_mark:
-- Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M) - TODO
-- Super Robot Taisen F (Japan) (Rev B) (21M) - TODO
+- [Super Robot Taisen F (Japan)](../../../Regions/Retails/Japan/T-20610G/01/README.md) - :white_check_mark:
 - [Super Robot Taisen F Kanketsuhen (Japan)](../../../Regions/Retails/Japan/T-20612G/01/README.md) - :white_check_mark:
 - [Super Tempo (Japan)](../../../Regions/Retails/Japan/T-26413G/01/README.md) - :warning:
 - [Swagman (Europe)](../../../Regions/Retails/Europe/T-11502H-5/01/README.md) - :white_check_mark:

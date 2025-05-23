@@ -25,7 +25,7 @@
 - [International Victory Goal (Europe)](../../../Regions/Retails/Europe/MK-81105/01/README.md) - :white_check_mark:
 - [Ippatsu Gyakuten - Gambling King e no Michi (Japan)](../../../Regions/Retails/Japan/T-29602G/01/README.md) - :white_check_mark:
 - Iron Man & X-O Manowar in Heavy Metal (Europe) - TODO (Recorded)
-- Iron Man & X-O Manowar in Heavy Metal (Japan) - TODO
+- [Iron Man & X-O Manowar in Heavy Metal (Japan)](../../../Regions/Retails/Japan/T-8115G/01/README.md) - :white_check_mark:
 - [Iron Man & X-O Manowar in Heavy Metal (USA)](../../../Regions/Retails/USA/T-8119H/01/README.md) - :warning:
 - [Iron Storm (USA)](../../../Regions/Retails/USA/T-12701H/01/README.md) - :white_check_mark:
 - [Ishin no Arashi (Japan)](../../../Regions/Retails/Japan/T-7645G/01/README.md) - :white_check_mark:
