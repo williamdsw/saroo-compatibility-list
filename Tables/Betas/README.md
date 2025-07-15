@@ -1,14 +1,36 @@
 **English** | [Português](pt-br.md)
 
-# SAROO: Compatibility List
+# SAROO: Compatibility List - Betas
 
-## Betas
+## Regions
+
+| Icon     | Name        |
+|----------|-------------|
+| :br:     | Brazil      |
+| :eu:     | Europe      |
+| :fr:     | France      |
+| :de:     | Germany     |
+| :it:     | Italy       |
+| :jp:     | Japan       |
+| :kr:     | South Korea |
+| :es:     | Spain       |
+| :taiwan: | Taiwan      |
+| :us:     | USA         |
+
+## Status
+
+| Icon                | Name         | Misc                                                         |
+|---------------------|--------------|--------------------------------------------------------------|
+| :white_check_mark:  | Playable     | Most playable without issues                                 |
+| :warning:           | Issues       | Problems such as black screens, images, sounds, freezing     |
+| :hammer_and_wrench: | Configurable | Playable with proper configuration                           |
+| :question:          | Untested     | Game wasn't tested aka `TODO`                                |
+| :finnadie:          | Won't Boot   | Game won't boot / pass the SEGA logo                         |
+| :100:               | "Perfect"    | Game was finished at least once without issues               |
+| :checkered_flag:    | Finished     | Game was finished but problems can happen                    |
+| :cd:                | Multidisc    | Game with multiple discs where some can work and some cannot |
 
 ### 14 Items (11 Tested - 3 TODO)
-
-:white_check_mark: Playable | :warning: Issues | :warning: Issues | :cd: Multidisc  
-
-:eu: Europe | :us: USA | :jp: Japan
 
 |Game|Region|Misc|Status|
 |----|------|----|------|

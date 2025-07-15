@@ -24,12 +24,12 @@ Other links related to SAROO:
 
 ### Games
 
-- [Betas](Sections/Betas/README.md)
-- [Compilations](Sections/Compilations/README.md)
+- Betas - [List](Sections/Betas/README.md) | [Simplified List](Tables/Betas/README.md)
+- Compilations - [List](Sections/Compilations/README.md) | [Simplified List](Tables/Compilations/README.md)
 - [Demos](Sections/Demos/en-us/README.md)
 - [Digital Museums / Galleries](Sections/Digitals/README.md)
 - [Miscellaneous Software](Sections/Softwares/README.md)
 - [Homebrews](Sections/Homebrews/README.md)
 - [Retails](Sections/Retails/en-us/README.md)
 - [Protos](Sections/Protos/README.md)
-- [Romhacks](Sections/Romhacks/README.md)
+- Romhacks - [List](Sections/Romhacks/README.md) | [Simplified List](Tables/Romhacks/README.md)
