@@ -6,7 +6,7 @@
 
 | Icon     | Name        |
 |----------|-------------|
-| :brazil:     | Brazil      |
+| :brazil: | Brazil      |
 | :eu:     | Europe      |
 | :fr:     | France      |
 | :de:     | Germany     |

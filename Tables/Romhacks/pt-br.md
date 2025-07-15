@@ -6,7 +6,7 @@
 
 | Icon     | Nome          |
 |----------|---------------|
-| :brazil:     | Brasil        |
+| :brazil: | Brasil        |
 | :eu:     | Europa        |
 | :fr:     | França        |
 | :de:     | Alemanha      |
@@ -34,12 +34,12 @@
 
 |Jogo|Mudanças|Misc|Status|
 |----|--------|----|------|
-| *Akumajou Dracula X: Gekka no Yasoukyoku* | 4MB Support | [Details](../../Regions/Romhacks/T-9527G/4MB_YZB/01/README.md) | :warning: |
-| *Blast Wind* | English Translation | [Details](../../Regions/Romhacks/T-1810G/01/README.md) | :white_check_mark: |
-| *Dracula X Nocturne in the Moonlight: Extended* | Improvements | [Details](../../Regions/Romhacks/T-9527G/DRACULAX_EXTENDED/README.md) | :white_check_mark: |
-| *Logic Puzzle Rainbow Town* | English Patch | [Details](../../Regions/Romhacks/T-4303G/01/README.md) | :white_check_mark: |
-| *Radiant Silvergun EXTREME* | English Translation, Improvements | [Details](../../Regions/Romhacks/T-32902G/01/README.md) | :white_check_mark: |
-| *Saturn Bomberman Fight!!* | English Patch | [Details](../../Regions/Romhacks/T-14321G/01/README.md) | :white_check_mark: |
-| *Sega Worldwide Soccer '23'* | National teams based on 2022 World Cup | [Details](../../Regions/Romhacks/MK-81123/01/README.md) | :white_check_mark: |
-| *Silhouette Mirage* | English Patch | [Details](../../Regions/Romhacks/T-32901G/01/README.md) | :warning: |
-| *Tactics Ogre: Lets Us Cling Together* | English Patch | [Details](../../Regions/Romhacks/T-5306G/01/README.md) | :warning: |
+| *Akumajou Dracula X: Gekka no Yasoukyoku* | Suporte à 4MB RAM | [Detalhes](../../Regions/Romhacks/T-9527G/4MB_YZB/01/README.md) | :warning: |
+| *Blast Wind* | Tradução em Inglês | [Detalhes](../../Regions/Romhacks/T-1810G/01/README.md) | :white_check_mark: |
+| *Dracula X Nocturne in the Moonlight: Extended* | Aprimoramentos | [Detalhes](../../Regions/Romhacks/T-9527G/DRACULAX_EXTENDED/README.md) | :white_check_mark: |
+| *Logic Puzzle Rainbow Town* | Patch em Inglês | [Detalhes](../../Regions/Romhacks/T-4303G/01/README.md) | :white_check_mark: |
+| *Radiant Silvergun EXTREME* | Tradução em Inglês, Aprimoramentos | [Detalhes](../../Regions/Romhacks/T-32902G/01/README.md) | :white_check_mark: |
+| *Saturn Bomberman Fight!!* | Patch em Inglês | [Detalhes](../../Regions/Romhacks/T-14321G/01/README.md) | :white_check_mark: |
+| *Sega Worldwide Soccer '23'* | Seleções baseadas na Copa do Mundo de 2022 | [Detalhes](../../Regions/Romhacks/MK-81123/01/README.md) | :white_check_mark: |
+| *Silhouette Mirage* | Patch em Inglês | [Detalhes](../../Regions/Romhacks/T-32901G/01/README.md) | :warning: |
+| *Tactics Ogre: Lets Us Cling Together* | Patch em Inglês | [Detalhes](../../Regions/Romhacks/T-5306G/01/README.md) | :warning: |
