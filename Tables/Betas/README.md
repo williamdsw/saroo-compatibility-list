@@ -11,7 +11,7 @@
 :eu: Europe | :us: USA | :jp: Japan
 
 |Game|Region|Misc|Status|
-|----|------|------|-----|
+|----|------|----|------|
 | *Alien Trilogy* | :eu: | [Details](../../Regions/Betas/Europe/T-99901G/01/README.md) | :white_check_mark: |
 | *Area 51* | :us: | [Details](../../Regions/Betas/USA/T-9705H/01/README.md) | :white_check_mark: |
 | *Battle Arena Toshinden URA - Ultimate Revenge Attack* | :eu: | [Details](../../Regions/Betas/Europe/MK-81054/01/README.md) | :white_check_mark: |
