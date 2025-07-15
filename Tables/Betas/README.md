@@ -1,16 +1,16 @@
-**English**
+**English** | [Português](pt-br.md)
 
 # SAROO: Compatibility List
 
 ## Betas
 
-### 15 Items (12 Tested - 3 TODO)
+### 14 Items (11 Tested - 3 TODO)
+
+:white_check_mark: Playable | :warning: Issues | :warning: Issues | :cd: Multidisc  
 
 :eu: Europe | :us: USA | :jp: Japan
-:white_check_mark: Playable | :warning: Issues | :question: Untested (TODO) | :cd: Multidisc
 
-
-|Name|Region|Misc|Status|
+|Game|Region|Misc|Status|
 |----|------|------|-----|
 | *Alien Trilogy* | :eu: | [Details](../../Regions/Betas/Europe/T-99901G/01/README.md) | :white_check_mark: |
 | *Area 51* | :us: | [Details](../../Regions/Betas/USA/T-9705H/01/README.md) | :white_check_mark: |
