@@ -24,13 +24,13 @@ Outros links relacionados ao SAROO:
 
 ### Jogos
 
-- Betas - [Lista](Sections/Betas/pt-br.md) | [Lista Simplificada](Tables/Betas/pt-br.md)
+- Betas - [Lista](Sections/Betas/pt-br.md) | [Tabela](Tables/Betas/pt-br.md)
 - [Comerciais](Sections/Retails/pt-br/README.md)
-- Compilações - [List](Sections/Compilations/pt-br.md) | [Lista Simplificada](Tables/Compilations/pt-br.md)
+- Compilações - [List](Sections/Compilations/pt-br.md) | [Tabela](Tables/Compilations/pt-br.md)
 - [Demos](Sections/Demos/pt-br/README.md)
 - [Homebrews](Sections/Homebrews/pt-br.md)
-- [Museus / Galerias Digitais](Sections/Digitals/pt-br.md)
+- Museus / Galerias Digitais - [Lista](Sections/Digitals/README.md) | [Tabela](Tables/Digitals/README.md)
 - [Retails](Sections/Retails/pt-br/README.md)
 - [Protos](Sections/Protos/pt-br.md)
-- Romhacks - [List](Sections/Romhacks/pt-br.md) | [Simplified List](Tables/Romhacks/pt-br.md)
+- Romhacks - [List](Sections/Romhacks/pt-br.md) | [Tabela](Tables/Romhacks/pt-br.md)
 - [Softwares Diversos](Sections/Softwares/pt-br.md)
