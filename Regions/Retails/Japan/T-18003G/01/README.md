@@ -1,31 +1,12 @@
 # 3D Baseball: The Majors (Japan)
 
-### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+| #   | Console                                             | Cartridge                                                                             | Micro SD                                                                        | Firmware                                 |
+| --- | --------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1   | [VA13](../../../../../Info/Consoles/VA13/README.md) | [Blue Elite](../../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md) | [Lexar - 64 GB - exFat](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md) | MCU: 241224, SS: 241224, FPGA: 05 - v0.7 |
 
-### [Saroo Cartridge Info](../../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
-
-- <b>Firmwares Tested:</b>
-  1. MCU: 241224, SS: 241224, FPGA: 05 - v0.7
-
-### [SD Card Info (Lexar - 64 GB - exFat)](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md)
-
-### Game Info
-
-Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
-
-- <b>Game Name:</b> 3D BASEBALL THE MAJORS
-- <b>Product Number:</b> T-18003G
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> J
-- <b>Peripheral Code:</b> JAT
-
-### Status
-
-- Playable :white_check_mark:
-
-### Extra Info
-
-- It does need a full gameplay test.
+| #   | Game Name              | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
+| --- | ---------------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
+| 1   | 3D BASEBALL THE MAJORS | T-18003G       | V1.000  | J         | JAT             | :white_check_mark: | 15 minutes  |
 
 ### Evidence
 

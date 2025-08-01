@@ -1,42 +1,23 @@
 # 3x3 Eyes: Kyuusei Koushu S (Japan)
 
-### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+| #   | Console                                             | Cartridge                                                                           | Micro SD                                                                                | Firmware                                 |
+| --- | --------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1   | [VA13](../../../../../Info/Consoles/VA13/README.md) | [Green Card](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md) | [XRayDisk - 128 GB - fat32](../../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md) | MCU: 231125, SS: 231125, FPGA: 05 - v0.2 |
 
-### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
+| #                                                            | Game Name    | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
+| ------------------------------------------------------------ | ------------ | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
+| 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 1)                  | KYUSEIKOUSYU | T-21301G       | V1.000  | J         | J               | :white_check_mark: | 8 minutes   |
+| 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 2)                  | ?            | ?              | ?       | ?         | ?               | :question:         | N/A         |
+| 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 3) (Special CD-ROM) | ?            | ?              | ?       | ?         | ?               | :question:         | N/A         |
 
-- <b>Firmwares Tested:</b>
-  1. MCU: 231125, SS: 231125, FPGA: 05 - v0.2
-
-### [SD Card Info (XRayDisk - 128 GB)](../../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
-
-### Game Info
-
-Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
-
-- <b>Game Name:</b> KYUSEIKOUSYU
-- <b>Product Number:</b> T-21301G
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
-
-### Status
-
-- Disc 1: Playable :white_check_mark:
-- Disc 2: Untested :question:
-- Disc 3 (Special CD-ROM): Untested :question:
-
-### Extra Info
-
-- It does need a full gameplay test.
-
-### TODO
-
-- Fully test Disc 1
-- Fully test Disc 2
-- Test Disc 3 (Special CD-ROM)
+| #   | Game                                                         | TODO   |
+| --- | ------------------------------------------------------------ | ------ |
+| 1   | 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 1)                  | Finish |
+| 2   | 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 2)                  | Finish |
+| 3   | 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 3) (Special CD-ROM) | Test   |
 
 ### Evidence
 
-Disc 1:
+3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 1):
 
 [![](https://img.youtube.com/vi/bUDKmsHQFfc/0.jpg)](https://www.youtube.com/watch?v=bUDKmsHQFfc)

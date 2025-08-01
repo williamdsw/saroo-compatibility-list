@@ -1,4 +1,4 @@
-# Guardian Heroes (Europe)
+# Blast Chamber (Europe)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 

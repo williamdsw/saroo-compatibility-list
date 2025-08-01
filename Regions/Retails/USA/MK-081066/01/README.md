@@ -1,31 +1,12 @@
 # Quake (USA)
 
-### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+| #   | Console                                             | Cartridge                                                                           | Micro SD                                                                                | Firmware                                 |
+| --- | --------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1   | [VA13](../../../../../Info/Consoles/VA13/README.md) | [Green Card](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md) | [EVO Samsung - 64 GB - fat32](../../../../../Info/SdCards/Samsung/64GB/fat32/README.md) | MCU: 231125, SS: 231125, FPGA: 05 - v0.2 |
 
-### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
-
-- <b>Firmwares Tested:</b>
-  1. MCU: 231125, SS: 231125, FPGA: 05 - v0.2
-
-### [SD Card Info (EVO Samsung - 64 GB)](../../../../../Info/SdCards/Samsung/64GB/fat32/README.md)
-
-### Game Info
-
-Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
-
-- <b>Game Name:</b> QUAKE
-- <b>Product Number:</b> MK-081066
-- <b>Version:</b> V1.019
-- <b>Area Code:</b> U
-- <b>Peripheral Code:</b> EATJ
-
-### Status
-
-- Playable :white_check_mark:
-
-### Extra Info
-
-It's needs a full gameplay test.
+| #   | Game Name | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
+| --- | --------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
+| 1   | QUAKE     | MK-081066      | V1.019  | U         | EATJ            | :white_check_mark: | 31 minutes  |
 
 ### Evidence
 

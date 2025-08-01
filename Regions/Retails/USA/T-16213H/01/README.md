@@ -1,31 +1,12 @@
 # Quarterback Attack with Mike Ditka (USA)
 
-### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+| #   | Console                                             | Cartridge                                                                           | Micro SD                                                                            | Firmware                                 |
+| --- | --------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1   | [VA13](../../../../../Info/Consoles/VA13/README.md) | [Green Card](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md) | [Lenovo - 128 GB - fat32](../../../../../Info/SdCards/Lenovo/128GB/fat32/README.md) | MCU: 240316, SS: 240316, FPGA: 05 - v0.4 |
 
-### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
-
-- <b>Firmwares Tested:</b>
-  1. MCU: 240118, SS: 240118, FPGA: 05 - v0.3
-
-### [SD Card Info (Lenovo - 128 GB)](../../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
-
-### Game Info
-
-Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
-
-- <b>Game Name:</b> Quarterback Attack SATURN
-- <b>Product Number:</b> T-16213H
-- <b>Version:</b> V1.000
-- <b>Area Code:</b> U
-- <b>Peripheral Code:</b> J
-
-### Status
-
-- Playable :white_check_mark:
-
-### Extra Info
-
-It's needs a full gameplay test.
+| #   | Game Name                 | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
+| --- | ------------------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
+| 1   | Quarterback Attack SATURN | T-16213H       | V1.000  | U         | J               | :white_check_mark: | 10 minutes  |
 
 ### Evidence
 

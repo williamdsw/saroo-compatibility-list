@@ -1,65 +1,32 @@
-# Enemy Zero (Japan)
+# Off-World Interceptor Extreme (Japan)
 
 ### [Console Info](../../../../../Info/Consoles/VA13/README.md)
 
-### [Saroo Cartridge Info](../../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
+### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 
 - <b>Firmwares Tested:</b>
-  1. MCU: 241224, SS: 241224, FPGA: 05 - v0.7
+  1. MCU: 240118, SS: 240118, FPGA: 05 - v0.3
 
-### [SD Card Info (Lexar - 64 GB - exFat)](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md)
+### [SD Card Info (Lenovo - 128 GB)](../../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
 
 ### Game Info
 
 Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
 
-- <b>Game Name:</b> ENEMY ZERO
-- <b>Product Number:</b> T-30001G
+- <b>Game Name:</b> OFF-WORLD INTERCEPTOR EXTREME
+- <b>Product Number:</b> T-15901G
 - <b>Version:</b> V1.000
-- <b>Device Information:</b> CD-1/4
 - <b>Area Code:</b> J
-- <b>Peripheral Code:</b> JE
+- <b>Peripheral Code:</b> J
 
 ### Status
 
-- Enemy Zero (Japan) (Disc 0) (Opening Disc) (1M): Playable :white_check_mark:s
-- Enemy Zero (Japan) (Disc 0) (Opening Disc) (2M): Untested :question:
-- Enemy Zero (Japan) (Disc 0) (Opening Disc) (Satakore): Untested :question:
-- Enemy Zero (Japan) (Disc 0) (Opening Disc): Untested :question:
-- Enemy Zero (Japan) (Disc 1) (Game Disc) (1M): Untested :question:
-- Enemy Zero (Japan) (Disc 1) (Game Disc) (2M): Untested :question:
-- Enemy Zero (Japan) (Disc 1) (Game Disc) (Satakore): Untested :question:
-- Enemy Zero (Japan) (Disc 1) (Game Disc): Untested :question:
-- Enemy Zero (Japan) (Disc 2) (Game Disc) (1M): Untested :question:
-- Enemy Zero (Japan) (Disc 2) (Game Disc) (2M): Untested :question:
-- Enemy Zero (Japan) (Disc 2) (Game Disc) (Satakore): Untested :question:
-- Enemy Zero (Japan) (Disc 2) (Game Disc): Untested :question:
-- Enemy Zero (Japan) (Disc 3) (Game Disc) (1M, 4M): Untested :question:
-- Enemy Zero (Japan) (Disc 3) (Game Disc) (3M): Untested :question:
-- Enemy Zero (Japan) (Disc 3) (Game Disc) (Satakore): Untested :question:
-- Enemy Zero (Japan) (Disc 3) (Game Disc): Untested :question:
+- Playable :white_check_mark:
 
-### TODO
+### Extra Info
 
-- Full test Enemy Zero (Japan) (Disc 0) (Opening Disc) (1M)
-- Full test Enemy Zero (Japan) (Disc 0) (Opening Disc) (2M)
-- Full test Enemy Zero (Japan) (Disc 0) (Opening Disc) (Satakore)
-- Full test Enemy Zero (Japan) (Disc 0) (Opening Disc)
-- Full test Enemy Zero (Japan) (Disc 1) (Game Disc) (1M)
-- Full test Enemy Zero (Japan) (Disc 1) (Game Disc) (2M)
-- Full test Enemy Zero (Japan) (Disc 1) (Game Disc) (Satakore)
-- Full test Enemy Zero (Japan) (Disc 1) (Game Disc)
-- Full test Enemy Zero (Japan) (Disc 2) (Game Disc) (1M)
-- Full test Enemy Zero (Japan) (Disc 2) (Game Disc) (2M)
-- Full test Enemy Zero (Japan) (Disc 2) (Game Disc) (Satakore)
-- Full test Enemy Zero (Japan) (Disc 2) (Game Disc)
-- Full test Enemy Zero (Japan) (Disc 3) (Game Disc) (1M, 4M)
-- Full test Enemy Zero (Japan) (Disc 3) (Game Disc) (3M)
-- Full test Enemy Zero (Japan) (Disc 3) (Game Disc) (Satakore)
-- Full test Enemy Zero (Japan) (Disc 3) (Game Disc)
+- It does need a full gameplay test.
 
 ### Evidence
 
-Enemy Zero (Japan) (Disc 0) (Opening Disc) (1M):
-
-[![](https://img.youtube.com/vi/Z9JynJ5URL0/0.jpg)](https://www.youtube.com/watch?v=Z9JynJ5URL0)
+[![](https://img.youtube.com/vi/pQ1N_SlbTlA/0.jpg)](https://www.youtube.com/watch?v=pQ1N_SlbTlA)

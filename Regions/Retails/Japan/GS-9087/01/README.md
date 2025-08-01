@@ -21,12 +21,19 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable :white_check_mark:
+- Advanced World War: Sennen Teikoku no Koubou: Last of the Millennium (Japan) (2M): Playable :white_check_mark:
+- Advanced World War: Sennen Teikoku no Koubou: Last of the Millennium (Japan) (Rev B) (22M): Untested :question:
 
 ### Extra Info
 
 - It does need a full gameplay test.
 
+### TODO
+
+- Test Advanced World War: Sennen Teikoku no Koubou: Last of the Millennium (Japan) (Rev B) (22M)
+
 ### Evidence
+
+Advanced World War: Sennen Teikoku no Koubou: Last of the Millennium (Japan) (2M):
 
 [![](https://img.youtube.com/vi/n8bvQP8HbLg/0.jpg)](https://www.youtube.com/watch?v=n8bvQP8HbLg)

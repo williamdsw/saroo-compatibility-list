@@ -21,9 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-TODO
-
-<!-- - Playable :white_check_mark: -->
+- D-Xhird (Japan) (1M): Issues :warning:
+- D-Xhird (Japan) (2M): Untested :question:
 
 ### Extra Info
 
@@ -31,11 +30,10 @@ TODO
 
 ### TODO
 
-- Test D-Xhird (Japan) (1M)
 - Test D-Xhird (Japan) (2M)
 
 ### Evidence
 
-TODO
+D-Xhird (Japan) (1M):
 
-<!-- [![](https://img.youtube.com/vi/aRB4hv8FcpM/0.jpg)](https://www.youtube.com/watch?v=aRB4hv8FcpM) -->
+[![](https://img.youtube.com/vi/poNO1jKNWws/0.jpg)](https://www.youtube.com/watch?v=poNO1jKNWws)

@@ -1,31 +1,12 @@
 # 3D Lemmings (Japan)
 
-### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+| #   | Console                                             | Cartridge                                                                           | Micro SD                                                                            | Firmware                                 |
+| --- | --------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1   | [VA13](../../../../../Info/Consoles/VA13/README.md) | [Green Card](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md) | [Lenovo - 128 GB - fat32](../../../../../Info/SdCards/Lenovo/128GB/fat32/README.md) | MCU: 240316, SS: 240316, FPGA: 05 - v0.4 |
 
-### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
-
-- <b>Firmwares Tested:</b>
-  1. MCU: 240316, SS: 240316, FPGA: 05 - v0.4
-
-### [SD Card Info (Lenovo - 128 GB)](../../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
-
-### Game Info
-
-Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
-
-- <b>Game Name:</b> LEMMINGS 3D
-- <b>Product Number:</b> T-15013G
-- <b>Version:</b> V3.100
-- <b>Area Code:</b> J
-- <b>Peripheral Code:</b> JM
-
-### Status
-
-- Playable :white_check_mark:
-
-### Extra Info
-
-- It does need a full gameplay test.
+| #   | Game Name   | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
+| --- | ----------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
+| 1   | LEMMINGS 3D | T-15013G       | V3.100  | J         | JM              | :white_check_mark: | 10 minutes  |
 
 ### Evidence
 
