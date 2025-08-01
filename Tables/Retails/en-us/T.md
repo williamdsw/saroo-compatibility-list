@@ -1,0 +1,140 @@
+**English** | [Português](../pt-br/T.md)
+
+# SAROO - Compatibility List
+
+## T
+
+#### 130 Games (93 Tested - 37 TODO)
+
+- [TNN Motor Sports HardCore 4X4 (USA)](../../../Regions/Retails/USA/T-13703H/01/README.md) - :white_check_mark:
+- [Tactical Fighter (Japan)](../../../Regions/Retails/Japan/T-21402G/01/README.md) - :white_check_mark:
+- [Tactics Formula (Japan)](../../../Regions/Retails/Japan/T-34101G/01/README.md) - :hammer_and_wrench:
+- [Tactics Ogre: Let Us Cling Together (Japan)](../../../Regions/Retails/Japan/T-5306G/01/README.md) - :white_check_mark:
+- [Tadaima Wakusei Kaitakuchuu! (Japan)](../../../Regions/Retails/Japan/T-16602G/01/README.md) - :white_check_mark:
+- [Taiheiyou no Arashi 2: 3D Heiki Data-shuu (Japan)](../../../Regions/Retails/Japan/T-15024G/01/README.md) - :white_check_mark:
+- [Taiheiyou no Arashi 2: Shippuu no Moudou (Japan)](../../../Regions/Retails/Japan/T-15018G/01/README.md) - :white_check_mark:
+- [Taikou Risshiden II (Japan)](../../../Regions/Retails/Japan/T-7618G/01/README.md) - :white_check_mark:
+- [Taikyoku Shougi: Kiwame II (Japan)](../../../Regions/Retails/Japan/T-29001G/01/README.md) - :white_check_mark:
+- [Taklamakan: Tonkou Denki (Japan)](../../../Regions/Retails/Japan/T-25102G/01/README.md) - :white_check_mark:
+- [Tama: Adventurous Ball in Giddy Labyrinth (Japan)](../../../Regions/Retails/Japan/T-4801G/01/README.md) - :white_check_mark:
+- [Tanjou - Debut S (Japan)](../../../Regions/Retails/Japan/T-20101G/01/README.md) - :white_check_mark:
+- [Tantei Jinguuji Saburou: Mikan no Report (Japan)](../../../Regions/Retails/Japan/T-1307G/01/README.md) - :white_check_mark:
+- [Tantei Jinguuji Saburou: Yume no Owari ni (Japan)](../../../Regions/Retails/Japan/T-1316G/01/README.md) - :white_check_mark:
+- [Techno Motor (Japan)](../../../Regions/Retails/Japan/T-37601G/01/README.md) - :white_check_mark:
+- Teitoku no Ketsudan II (Japan) - TODO
+- [Teitoku no Ketsudan III (Japan)](../../../Regions/Retails/Japan/T-7640G/01/README.md) - :white_check_mark:
+- Teitoku no Ketsudan III with Power-Up Kit (Japan) - TODO
+- Tekkyuu - True Pinball (Japan) - TODO
+- Tempest 2000 (Europe) - TODO
+- [Tempest 2000 (USA)](../../../Regions/Retails/USA/T-12516H/01/README.md) - :white_check_mark:
+- [Ten Pin Alley (USA)](../../../Regions/Retails/USA/T-13705H/01/README.md) - :white_check_mark:
+- [Tenant Wars (Japan)](../../../Regions/Retails/Japan/6106821/01/README.md) - :white_check_mark:
+- [Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi (Japan)](../../../Regions/Retails/Japan/T-21802G/01/README.md) - :question:
+- [Tenchi Muyou! Rensa Hitsuyou (Japan)](../../../Regions/Retails/Japan/T-22204G/01/README.md) - :white_check_mark:
+- [Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn (Japan)](../../../Regions/Retails/Japan/T-21801G00/01/README.md) - :white_check_mark:
+- [Tenchi Muyou! Toukou Muyou - Aniraji Collection (Japan)](../../../Regions/Retails/Japan/T-26103G/01/README.md) - :question:
+- [Tenchi o Kurau II - Sekiheki no Tatakai (Japan)](../../../Regions/Retails/Japan/T-1207G/01/README.md) - :white_check_mark:
+- [Tenka Seiha (Japan)](../../../Regions/Retails/Japan/T-15030G/01/README.md) - :white_check_mark:
+- [Tengai Makyou: Daiyon no Mokushiroku (Japan)](../../../Regions/Retails/Japan/T-14301G/01/README.md) - :white_check_mark:
+- [Tennis Arena (Japan)](../../../Regions/Retails/Japan/T-17703G/01/README.md) - :white_check_mark:
+- [Terra Cresta 3D (Japan)](../../../Regions/Retails/Japan/T-7102G/01/README.md) - TODO
+- [Terra Phantastica (Japan)](../../../Regions/Retails/Japan/GS-9054/01/README.md) - :white_check_mark:
+- Terry Pratchett's Discworld (Europe) - TODO
+- Tetris Plus (Europe) - TODO
+- [Tetris Plus (Japan)](../../../Regions/Retails/Japan/T-5708G/01/README.md) - :white_check_mark:
+- [Tetris Plus (USA)](../../../Regions/Retails/USA/T-5704H/01/README.md) - :white_check_mark:
+- [Tetris S (Japan)](../../../Regions/Retails/Japan/T-20802G/01/README.md) - :white_check_mark:
+- [Texthoth Ludo: Arcanum Senki (Japan)](../../../Regions/Retails/Japan/T-23102G/01/README.md) - :white_check_mark:
+- [The Conveni: Ano Machi o Dokusen Seyo (Japan)](../../../Regions/Retails/Japan/T-4310G/01/README.md) - :white_check_mark:
+- [The Conveni 2: Zenkoku Chain Tenkai da! (Japan)](../../../Regions/Retails/Japan/T-4317G/01/README.md) - :white_check_mark:
+- The Crow - City of Angels (Europe) - TODO
+- The Crow - City of Angels (Germany) - TODO
+- The Crow - City of Angels (Japan) - TODO
+- [The Crow - City of Angels (USA)](../../../Regions/Retails/USA/T-8124H/01/README.md) - :white_check_mark:
+- The Horde (Europe) - TODO
+- The Horde (France) - TODO
+- The Horde (Germany) - TODO
+- The Horde (Japan) - TODO
+- [The Horde (USA)](../../../Regions/Retails/USA/T-15909H50/01/README.md) - :hammer_and_wrench:
+- [The House of the Dead (Europe)](../../../Regions/Retails/Europe/MK-81802/01/README.md) - :white_check_mark:
+- [The House of the Dead (Japan)](../../../Regions/Retails/Japan/GS-9173/01/REsADME.md) - :white_check_mark:
+- [The House of the Dead (USA)](../../../Regions/Retails/USA/81802/01/REsADME.md) - :white_check_mark:
+- [The Hyper Golf - Devil's Course (Japan)](../../../Regions/Retails/Japan/T-2303H/01/README.md) - :white_check_mark:
+- The Incredible Hulk - The Pantheon Saga (Europe) - TODO
+- [The Incredible Hulk - The Pantheon Saga (USA)](../../../Regions/Retails/USA/T-7905H/01/README.md) - :hammer_and_wrench:
+- [The King of Boxing (Japan)](../../../Regions/Retails/Japan/T-6001G/01/README.md) - :white_check_mark:
+- [The King of Fighters '95 (Europe)](../../../Regions/Retails/Europe/MK-81088/01/README.md) - :x: (TODO - Update)
+- [The King of Fighters '95 (Japan)](../../../Regions/Retails/Japan/T-3101G/01/README.md) - :hammer_and_wrench:
+- [The King of Fighters '96 (Japan)](../../../Regions/Retails/Japan/T-3108G/01/README.md) - :warning:
+- [The King of Fighters '97 (Japan)](../../../Regions/Retails/Japan/T-3121G/01/README.md) - :white_check_mark:
+- [The Legend of Heroes I & II - Eiyuu Densetsu (Japan)](../../../Regions/Retails/Japan/T-37101G/01/README.md) - :white_check_mark:
+- [The Legend of Oasis (USA)](../../../Regions/Retails/USA/MK-81302/01/README.md) - :white_check_mark:
+- [The Lost Vikings 2 - Norse by Norsewest (Europe)](../../../Regions/Retails/Europe/T-12521H50/01/README.md) - :white_check_mark:
+- The Lost World - Jurassic Park (Europe) - TODO
+- [The Lost World - Jurassic Park (Japan)](../../../Regions/Retails/Japan/GS-9162/01/README.md) - :white_check_mark:
+- [The Lost World - Jurassic Park (USA)](../../../Regions/Retails/USA/MK-81065/01/README.md) - :white_check_mark:
+- [The Making of Nightruth (Japan)](../../../Regions/Retails/Japan/T-20203G/01/README.md) - :warning:
+- [The Mansion of Hidden Souls (USA)](../../../Regions/Retails/USA/MK-81012/01/README.md) - :white_check_mark:
+- The Mansion of Hidden Souls (Europe) (1S) - TODO
+- The Mansion of Hidden Souls (Europe) (4S) - TODO
+- [The Star Bowling (Japan)](../../../Regions/Retails/Japan/T-21804G/01/README.md) - :question:
+- [The Star Bowling Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-21805G/01/README.md) - :question:
+- The Story of Thor 2 (Europe) - TODO
+- [The Unsolved (Japan)](../../../Regions/Retails/Japan/T-7017G/01/README.md) - :question:
+- [The Yakyuuken Special: Konya wa 12-kaisen (Japan)](../../../Regions/Retails/Japan/T-21901G/01/README.md) - :white_check_mark:
+- Theme Park (Europe) - TODO
+- Theme Park (Japan) - TODO
+- [Theme Park (USA)](../../../Regions/Retails/USA/T-5001H/01/README.md) - :white_check_mark:
+- Thor - Seireioukiden (Japan) - TODO
+- Three Dirty Dwarves (Europe) - TODO
+- [Three Dirty Dwarves (Japan)](../../../Regions/Retails/Japan/GS-9137/01/README.md) - :white_check_mark:
+- [Three Dirty Dwarves (USA)](../../../Regions/Retails/USA/T-30401H/01/README.md) - :white_check_mark:
+- [Thunder Force V (Japan)](../../../Regions/Retails/Japan/T-1811G/01/README.md) - :white_check_mark:
+- Thunderhawk II (Japan) - TODO
+- Thunderstrike 2 (USA) (Rev A) - TODO
+- Thunderstrike 2 (USA) - TODO
+- [Tilk: Aoi Umi kara Kita Shoujo (Japan)](../../../Regions/Retails/Japan/T-32508G/01/README.md) - :white_check_mark:
+- [Tilt! (Europe)](../../../Regions/Retails/Europe/T-7015H-50/01/README.md) - TODO
+- [Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan)](../../../Regions/Retails/Japan/T-20607G/01/README.md) - :hammer_and_wrench:
+- [Time Commando (Japan)](../../../Regions/Retails/Japan/T-8129G/01/README.md) - :white_check_mark:
+- [Titan Wars (Europe)](../../../Regions/Retails/Europe/T-15911H50/01/README.md) - :hammer_and_wrench:
+- Titan Wars (Japan) - TODO
+- [Tokimeki Mahjong Graffiti: Toshishita no Tenshi-tachi (Japan)](../../../Regions/Retails/Japan/T-20202G/01/README.md) - :white_check_mark:
+- [Tokimeki Mahjong Paradise: Koi no Tenpai Beat (Japan)](../../../Regions/Retails/Japan/T-20201G/01/README.md) - :white_check_mark:
+- [Tokimeki Memorial - Forever with You (Japan)](../../../Regions/Retails/Japan/T-9504G/01/README.md) - :white_check_mark:
+- [Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan)](../../../Regions/Retails/Japan/T-9522G/01/README.md) - :white_check_mark:
+- [Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan)](../../../Regions/Retails/Japan/T-9529G/01/README.md) - :question:
+- [Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan)](../../../Regions/Retails/Japan/T-9532G/01/README.md) - :question:
+- [Tokimeki Memorial Selection - Fujisaki Shiori (Japan)](../../../Regions/Retails/Japan/T-9517G/01/README.md) - :white_check_mark:
+- [Tokimeki Memorial Taisen Puzzledama (Japan)](../../../Regions/Retails/Japan/T-9512G/01/README.md) - :white_check_mark:
+- [Tokimeki Memorial Taisen Tokkaedama (Japan)](../../../Regions/Retails/Japan/T-9524G/01/README.md) - :white_check_mark:
+- [Tokuso Kidoutai J-SWAT (Japan)](../../../Regions/Retails/Japan/T-20602G/01/README.md) - :hammer_and_wrench:
+- [Tokyo Shadow (Japan)](../../../Regions/Retails/Japan/T-1110G/01/README.md) - :question:
+- Tomb Raider (Europe) - TODO
+- [Tomb Raider (USA)](../../../Regions/Retails/USA/T-7910H/01/README.md) - :white_check_mark:
+- Tomb Raiders (Japan) - TODO
+- [Top Anglers: Super Fishing Big Fight 2 (Japan)](../../../Regions/Retails/Japan/T-18705G/01/README.md) - :white_check_mark:
+- Torico (Europe) (Disc 1) - TODO
+- Torico (Europe) (Disc 2) - TODO
+- [Touge King the Spirits (Japan)](../../../Regions/Retails/Japan/T-14401G/01/README.md) - :white_check_mark:
+- [Touge King the Spirits 2 (Japan)](../../../Regions/Retails/Japan/T-14412G/01/README.md) - :white_check_mark:
+- [Tour Party - Sotsugyou Ryokou ni Ikou (Japan)](../../../Regions/Retails/Japan/T-10312G/01/README.md) - :white_check_mark:
+- [Tournament Leader (Japan)](../../../Regions/Retails/Japan/T-6007G/01/README.md) - :white_check_mark:
+- [Touryuu Densetsu Elan Doree (Japan)](../../../Regions/Retails/Japan/T-38202G/01/README.md) - :white_check_mark:
+- Toushinden S (Japan) - TODO
+- Toushinden URA (Japan) - TODO
+- [The Tower (Japan)](../../../Regions/Retails/Japan/T-21601G/01/README.md) - :white_check_mark:
+- [Transport Tycoon (Japan)](../../../Regions/Retails/Japan/T-15028G/01/README.md) - :white_check_mark:
+- [Trash It (Europe)](../../../Regions/Retails/Europe/T-25411H-50/01/README.md) - :white_check_mark:
+- True Pinball (Europe) - TODO
+- [True Pinball (USA)](../../../Regions/Retails/USA/T-16406H/01/README.md) - :hammer_and_wrench:
+- [Tryrush Deppy (Japan)](../../../Regions/Retails/Japan/T-21302G/01/README.md) - :white_check_mark:
+- [Tsuukai!! Slot Shooting (Japan)](../../../Regions/Retails/Japan/T-21504G/01/README.md) - :white_check_mark:
+- Tunnel B1 (Europe) - TODO
+- [Tunnel B1 (USA)](../../../Regions/Retails/USA/T-8144H/01/README.md) - :white_check_mark:
+- [TurfWind '96: Take Yutaka Kyousouba Ikusei Game (Japan)](../../../Regions/Retails/Japan/T-5707G/01/README.md) - :white_check_mark:
+- [Tutankhamen no Nazo: A.N.K.H (Japan)](../../../Regions/Retails/Japan/T-35601G/01/README.md) - :white_check_mark:
+- [Twinkle Star Sprites (Japan)](../../../Regions/Retails/Japan/T-37301G/01/README.md) - :white_check_mark:
+
+Navigation:
+[# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) **T** [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)
