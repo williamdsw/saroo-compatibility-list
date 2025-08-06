@@ -34,6 +34,8 @@
 
 #### 80 Games (51 Tested - 29 TODO)
 
+<!-- TODO only games -->
+
 | Game                                                             | Region | Status              | Details                                                         |
 | ---------------------------------------------------------------- | ------ | ------------------- | --------------------------------------------------------------- |
 | Can Can Bunny Extra                                              | :jp:   | :white_check_mark:  | [Link](../../../Regions/Retails/Japan/T-19706G/01/README.md)    |

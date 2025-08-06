@@ -1,45 +1,26 @@
 # D (USA) (Beta) (1996-02-05)
 
-### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+| #   | Console                                                      | SAROO Cartridge                                                                                 |
+| --- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| 1   | [Tectoy - VA13](../../../../../Info/Consoles/VA13/README.md) | ["Elite" (AliExpress)](../../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md) |
 
-### [Saroo Cartridge Info](../../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
+| #   | Firmware                                 | Micro SD Card                                                                   |
+| --- | ---------------------------------------- | ------------------------------------------------------------------------------- |
+| 1   | MCU: 241224, SS: 241224, FPGA: 05 - v0.7 | [Lexar - 64 GB - exFat](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md) |
 
-- <b>Firmwares Tested:</b>
-  1. MCU: 241224, SS: 241224, FPGA: 05 - v0.7
+| Game Name                                         | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
+| ------------------------------------------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
+| CLOCKWORK KNIGHT Pepperouchau's Adventure 2 14:15 | MK-81021       | V1.002  | UT        | J               | :white_check_mark: | 32 minutes  |
 
-### [SD Card Info (Lexar - 64 GB - exFat)](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md)
+| Game Name                             | Product Number | Version | Device Information | Area Code | Peripheral Code | Status     | Time Played |
+| ------------------------------------- | -------------- | ------- | ------------------ | --------- | --------------- | ---------- | ----------- |
+| D (USA) (Disc I) (Beta) (1996-02-05)  | T-8106H        | V1.000  | CD-1/2             | U         | J               | :question: | N/A         |
+| D (USA) (Disc II) (Beta) (1996-02-05) | T-8106H        | V1.000  | CD-2/2             | U         | J               | :question: | N/A         |
 
-### Game Info
-
-Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
-
-D (USA) (Disc I) (Beta) (1996-02-05):
-
-- <b>Game Name:</b> D
-- <b>Product Number:</b> T-8106H
-- <b>Version:</b> V1.000
-- <b>Device Information:</b> CD-1/2
-- <b>Area Code:</b> U
-- <b>Peripheral Code:</b> J
-
-D (USA) (Disc II) (Beta) (1996-02-05):
-
-- <b>Game Name:</b> D
-- <b>Product Number:</b> T-8106H
-- <b>Version:</b> V1.000
-- <b>Device Information:</b> CD-2/2
-- <b>Area Code:</b> U
-- <b>Peripheral Code:</b> J
-
-### Status
-
-- D (USA) (Disc I) (Beta) (1996-02-05): Untested :question:
-- D (USA) (Disc II) (Beta) (1996-02-05): Untested :question:
-
-### TODO
-
-- Fully Test D (USA) (Disc I) (Beta) (1996-02-05)
-- Fully Test D (USA) (Disc II) (Beta) (1996-02-05)
+| #   | Game                                  | TODO   |
+| --- | ------------------------------------- | ------ |
+| 1   | D (USA) (Disc I) (Beta) (1996-02-05)  | Finish |
+| 2   | D (USA) (Disc II) (Beta) (1996-02-05) | Finish |
 
 ### Evidence
 

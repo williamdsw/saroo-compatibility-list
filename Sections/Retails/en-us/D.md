@@ -127,7 +127,7 @@
 - [Dragon Force (USA)](../../../Regions/Retails/USA/T-12703H/01/README.md) - :warning:
 - [Dragon Force II: Kami Sarishi Daichi ni (Japan)](../../../Regions/Retails/Japan/GS-9184/01/README.md) - :white_check_mark:
 - [Dragon Master Silk (Japan)](../../../Regions/Retails/Japan/T-19503G/01/README.md) - :white_check_mark:
-- [Dragon's Dream (Japan)](../../../Regions/Retails/Japan/GS-7114/01/README.md) - :warnings:
+- [Dragon's Dream (Japan)](../../../Regions/Retails/Japan/GS-7114/01/README.md) - :warning:
 - Dragonheart: Fire & Steel (Europe) - TODO
 - [Dragonheart: Fire & Steel (USA)](../../../Regions/Retails/USA/T-8117H/01/README.md) - :white_check_mark:
 - [Dream Generation: Koi ka? Shigoto ka!?... (Japan)](../../../Regions/Retails/Japan/T-2511G/01/README.md) - :white_check_mark:

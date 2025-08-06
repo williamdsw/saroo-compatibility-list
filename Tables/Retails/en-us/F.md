@@ -36,6 +36,8 @@
 
 #### 80 Games (51 Tested - 29 TODO)
 
+<!-- TODO only games -->
+
 | Game                                            | Region | Status              | Details                                                         |
 | ----------------------------------------------- | ------ | ------------------- | --------------------------------------------------------------- |
 | F-1 Live Information                            | :jp:   | :white_check_mark:  | [Link](../../../Regions/Retails/Japan/GS-9035/01/README.md)     |

@@ -30,21 +30,21 @@
 | :checkered_flag:    | Finished     | Game was finished but problems can happen                    |
 | :cd:                | Multidisc    | Game with multiple discs where some can work and some cannot |
 
-### 14 Items (11 Tested - 3 TODO)
+## Games
 
-| Game                                                   | Region | Misc                                                        | Status             |
-| ------------------------------------------------------ | ------ | ----------------------------------------------------------- | ------------------ |
-| _Alien Trilogy_                                        | :eu:   | [Details](../../Regions/Betas/Europe/T-99901G/01/README.md) | :white_check_mark: |
-| _Area 51_                                              | :us:   | [Details](../../Regions/Betas/USA/T-9705H/01/README.md)     | :white_check_mark: |
-| _Battle Arena Toshinden URA - Ultimate Revenge Attack_ | :eu:   | [Details](../../Regions/Betas/Europe/MK-81054/01/README.md) | :white_check_mark: |
-| _Burning Rangers_                                      | :jp:   | [Details](../../Regions/Betas/Japan/GS-XXXX/01/README.md)   | :warning:          |
-| _Chaos Control_                                        | :eu:   | [Details](../../Regions/Betas/Europe/T-15102H/01/README.md) | :white_check_mark: |
-| _Clockwork Knight 2 - Pepperouchau's Adventure_        | :us:   | [Details](../../Regions/Betas/USA/MK-81021/01/README.md)    | :white_check_mark: |
-| _D_                                                    | :us:   | [Details](../../Regions/Betas/USA/T-8106H/01/README.md)     | :cd: :question:    |
-| _Darius Gaiden_                                        | :us:   | [Details](../../Regions/Betas/USA/T-8123H/01/README.md)     | :white_check_mark: |
-| _In the Hunt_                                          | :us:   | [Details](../../Regions/Betas/USA/T-10001G/01/README.md)    | :white_check_mark: |
-| _Revolution X - Music Is the Weapon_                   | :us:   | [Details](../../Regions/Betas/USA/T-8107H/01/README.md)     | :white_check_mark: |
-| _Rise 2 - Resurrection_                                | :eu:   | [Details](../../Regions/Betas/Europe/T-810000/01/README.md) | :white_check_mark: |
-| _Shining Force III_                                    | :us:   | [Details](../../Regions/Betas/USA/MK-81383/01/README.md)    | :question:         |
-| _Shining Wisdom_                                       | :us:   | [Details](../../Regions/Betas/USA/T-12702H/01/README.md)    | :question:         |
-| _Street Fighter Alpha - Warriors' Dreams_              | :us:   | [Details](../../Regions/Betas/USA/T-1206H/01/README.md)     | :warning:          |
+| Name                                                 | Region | Status              | Details                                                  |
+| ---------------------------------------------------- | ------ | ------------------- | -------------------------------------------------------- |
+| Alien Trilogy                                        | :eu:   | :white_check_mark:  | [Link](../../Regions/Betas/Europe/T-99901G/01/README.md) |
+| Area 51                                              | :us:   | :white_check_mark:  | [Link](../../Regions/Betas/USA/T-9705H/01/README.md)     |
+| Battle Arena Toshinden URA - Ultimate Revenge Attack | :eu:   | :white_check_mark:  | [Link](../../Regions/Betas/Europe/MK-81054/01/README.md) |
+| Burning Rangers                                      | :jp:   | :warning:           | [Link](../../Regions/Betas/Japan/GS-XXXX/01/README.md)   |
+| Chaos Control                                        | :eu:   | :white_check_mark:  | [Link](../../Regions/Betas/Europe/T-15102H/01/README.md) |
+| Clockwork Knight 2 - Pepperouchau's Adventure        | :us:   | :white_check_mark:  | [Link](../../Regions/Betas/USA/MK-81021/01/README.md)    |
+| D                                                    | :us:   | :cd: (2 Discs) TODO | [Link](../../Regions/Betas/USA/T-8106H/01/README.md)     |
+| Darius Gaiden                                        | :us:   | :white_check_mark:  | [Link](../../Regions/Betas/USA/T-8123H/01/README.md)     |
+| In the Hunt                                          | :us:   | :white_check_mark:  | [Link](../../Regions/Betas/USA/T-10001G/01/README.md)    |
+| Revolution X - Music Is the Weapon                   | :us:   | :white_check_mark:  | [Link](../../Regions/Betas/USA/T-8107H/01/README.md)     |
+| Rise 2 - Resurrection                                | :eu:   | :white_check_mark:  | [Link](../../Regions/Betas/Europe/T-810000/01/README.md) |
+| Shining Force III                                    | :us:   | :question: TODO     | [Link](../../Regions/Betas/USA/MK-81383/01/README.md)    |
+| Shining Wisdom                                       | :us:   | :question: TODO     | [Link](../../Regions/Betas/USA/T-12702H/01/README.md)    |
+| Street Fighter Alpha - Warriors' Dreams              | :us:   | :warning:           | [Link](../../Regions/Betas/USA/T-1206H/01/README.md)     |
