@@ -6,7 +6,7 @@
 
 | #   | Game Name            | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | -------------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | NITAX_GOLD For JAPAN | T-4305G        | V1.002  | J         | J               | :white_check_mark: | 12 minutes  |
+| 1   | NITAX_GOLD For JAPAN | T-4305G        | V1.002  | J         | J               | :heavy_check_mark: | 12 minutes  |
 
 ### Evidence
 

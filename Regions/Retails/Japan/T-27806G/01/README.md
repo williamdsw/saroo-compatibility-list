@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Yuukyuu no Kobako Official Collection (Japan): Playable :white_check_mark:
+- Yuukyuu no Kobako Official Collection (Japan): Playable :heavy_check_mark:
 - Yuukyuu no Kobako Official Collection (Japan) (1M): Untested :question:
 
 ### Extra Info

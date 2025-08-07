@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Demo) (1M): Playable :white_check_mark:
+- (Demo) (1M): Playable :heavy_check_mark:
 - (Demo) (2M): Untested :question:
 - (Demo) (4M): Untested :question:
 

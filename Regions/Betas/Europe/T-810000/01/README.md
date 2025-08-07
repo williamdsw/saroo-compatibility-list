@@ -10,7 +10,7 @@
 
 | Game Name | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| RISE 2    | T-810000       | V1.000  | JTUBKAEL  | J               | :white_check_mark: | 20 minutes  |
+| RISE 2    | T-810000       | V1.000  | JTUBKAEL  | J               | :heavy_check_mark: | 20 minutes  |
 
 ### Evidence
 

@@ -23,7 +23,7 @@ Saturn Bomberman Fight!! (Japan):
 
 ### Status
 
-- Saturn Bomberman Fight!! (Japan): Playable :white_check_mark:
+- Saturn Bomberman Fight!! (Japan): Playable :heavy_check_mark:
 
 ### Evidence
 

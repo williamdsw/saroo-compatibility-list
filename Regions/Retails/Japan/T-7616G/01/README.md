@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Nanatsu no Hikan (Japan) (Disc 1) (1M): Issues :warning:
+- Nanatsu no Hikan (Japan) (Disc 1) (1M): Errors :x:
 - Nanatsu no Hikan (Japan) (Disc 1) (2M): Untested :question:
 - Nanatsu no Hikan (Japan) (Disc 2) (1M): Untested :question:
 - Nanatsu no Hikan (Japan) (Disc 2) (2M): Untested :question:

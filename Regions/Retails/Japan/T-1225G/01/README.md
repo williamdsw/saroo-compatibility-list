@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Super Adventure Rockman (Japan) (Disc 1): Playable :white_check_mark:
+- Super Adventure Rockman (Japan) (Disc 1): Playable :heavy_check_mark:
 - Super Adventure Rockman (Japan) (Disc 2) (1M): Untested :question:
 - Super Adventure Rockman (Japan) (Disc 2): Untested :question:
 - Super Adventure Rockman (Japan) (Disc 3) (1M): Untested :question:

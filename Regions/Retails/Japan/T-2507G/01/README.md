@@ -23,8 +23,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 Langrisser - Dramatic Edition (Japan) (1M):
 
-- Langrisser - Issues :warning:
-- Langrisser II - Playable :white_check_mark:
+- Langrisser - Errors :x:
+- Langrisser II - Playable :heavy_check_mark:
 
 Langrisser - Dramatic Edition (Japan) (2M):
 

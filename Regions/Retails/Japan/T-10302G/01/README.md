@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- DX Jinsei Game (Japan): Playable :white_check_mark:
+- DX Jinsei Game (Japan): Playable :heavy_check_mark:
 - DX Jinsei Game (Japan) (Rev A): Untested :question:
 - DX Jinsei Game (Japan) (Rev B): Untested :question:
 

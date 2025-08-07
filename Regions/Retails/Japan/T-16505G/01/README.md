@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Kanazawa Shougi (Japan) (1M): Untested :question:
-- Kanazawa Shougi (Japan) (2M): Playable :white_check_mark:
+- Kanazawa Shougi (Japan) (2M): Playable :heavy_check_mark:
 
 ### Extra Info
 

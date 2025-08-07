@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Refrain Love: Anata ni Aitai (Japan) (Disc 1): Playable :white_check_mark:
+- Refrain Love: Anata ni Aitai (Japan) (Disc 1): Playable :heavy_check_mark:
 - Refrain Love: Anata ni Aitai (Japan) (Disc 2): Untested :question:
 - Refrain Love: Anata ni Aitai (Japan) (Disc 3) (Audio CD): Untested :question:
 

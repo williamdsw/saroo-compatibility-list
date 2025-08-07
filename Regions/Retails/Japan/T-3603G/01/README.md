@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Dead Or Alive (1M): Untested :question:
-- Dead Or Alive (2M): Playable :white_check_mark:
+- Dead Or Alive (2M): Playable :heavy_check_mark:
 - Dead Or Alive (Rev A) (10M): Untested :question:
 
 ### Extra Info

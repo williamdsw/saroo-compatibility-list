@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Princess Quest (Japan): Playable :white_check_mark:
+- Princess Quest (Japan): Playable :heavy_check_mark:
 - Princess Quest (Japan) (Rev A) (11M): Untested :question:
 
 ### Extra Info

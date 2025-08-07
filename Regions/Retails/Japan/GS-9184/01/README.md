@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Dragon Force II - Kami Sarishi Daichi ni (Japan): Playable :white_check_mark:
+- Dragon Force II - Kami Sarishi Daichi ni (Japan): Playable :heavy_check_mark:
 - Dragon Force II - Kami Sarishi Daichi ni (Japan) (Rev A): Untested :question:
 
 ### Extra Info

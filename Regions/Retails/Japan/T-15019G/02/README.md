@@ -24,7 +24,7 @@ Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan):
 
 ### Status
 
-- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan): Playable :white_check_mark:
+- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan): Playable :heavy_check_mark:
 
 ### Extra Info
 

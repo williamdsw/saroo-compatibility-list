@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (1M, 4M): Playable :white_check_mark:
+- World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (1M, 4M): Playable :heavy_check_mark:
 - World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (2M): Untested :question:
 - World Advanced Daisenryaku - Koutetsu no Senpuu (Japan) (Rev A) (10M): Untested :question:
 

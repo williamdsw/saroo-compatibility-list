@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (1M): Playable :white_check_mark:
+- Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (1M): Playable :heavy_check_mark:
 - Big Ichigeki! Pachi-Slot Daikouryaku - Universal Museum (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info

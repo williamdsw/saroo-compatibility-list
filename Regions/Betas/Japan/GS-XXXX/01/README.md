@@ -8,9 +8,9 @@
 | --- | ---------------------------------------- | ------------------------------------------------------------------------------- |
 | 1   | MCU: 241224, SS: 241224, FPGA: 05 - v0.7 | [Lexar - 64 GB - exFat](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md) |
 
-| Game Name       | Product Number | Version | Area Code | Peripheral Code | Status    | Time Played |
-| --------------- | -------------- | ------- | --------- | --------------- | --------- | ----------- |
-| BURNING RANGERS | GS-XXXX        | V0.010  | JTU       | J               | :warning: | 25 minutes  |
+| Game Name       | Product Number | Version | Area Code | Peripheral Code | Status | Time Played |
+| --------------- | -------------- | ------- | --------- | --------------- | ------ | ----------- |
+| BURNING RANGERS | GS-XXXX        | V0.010  | JTU       | J               | :x:    | 25 minutes  |
 
 | #   | Problems                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------ |

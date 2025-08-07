@@ -25,7 +25,7 @@ https://z-team.itch.io/maria-renards-revenge-sega-saturn
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

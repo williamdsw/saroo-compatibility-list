@@ -10,7 +10,7 @@
 
 | Game Name                                         | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | ------------------------------------------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| CLOCKWORK KNIGHT Pepperouchau's Adventure 2 14:15 | MK-81021       | V1.002  | UT        | J               | :white_check_mark: | 32 minutes  |
+| CLOCKWORK KNIGHT Pepperouchau's Adventure 2 14:15 | MK-81021       | V1.002  | UT        | J               | :heavy_check_mark: | 32 minutes  |
 
 ### Evidence
 

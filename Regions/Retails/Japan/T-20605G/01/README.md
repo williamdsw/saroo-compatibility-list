@@ -22,8 +22,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Issues :warning: (before 231111 firmware)
-- Playable :white_check_mark: (231111 firmware)
+- Errors :x: (before 231111 firmware)
+- Playable :heavy_check_mark: (231111 firmware)
 
 ### Extra Info
 

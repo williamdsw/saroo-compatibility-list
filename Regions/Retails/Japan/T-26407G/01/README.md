@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Fully Cowled Mini Yonku Super Factory (Rev A) (10M): Playable :white_check_mark:
+- Fully Cowled Mini Yonku Super Factory (Rev A) (10M): Playable :heavy_check_mark:
 - Fully Cowled Mini Yonku Super Factory (Rev A) (11): Untested :question:
 
 ### Extra Info

@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Kiss Yori... (Japan): Untested :question:
-- Kiss Yori... (Japan) (Rev A): Playable :white_check_mark:
+- Kiss Yori... (Japan) (Rev A): Playable :heavy_check_mark:
 
 ### Extra Info
 

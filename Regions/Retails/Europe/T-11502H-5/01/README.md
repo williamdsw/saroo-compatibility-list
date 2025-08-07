@@ -23,7 +23,7 @@ Swagman (Europe):
 
 ### Status
 
-- Swagman (Europe): Playable :white_check_mark:
+- Swagman (Europe): Playable :heavy_check_mark:
 
 ### Extra Info
 

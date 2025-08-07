@@ -168,7 +168,7 @@
 - Hang On GP '95 (Japan) (1M) - TODO (Recorded)
 - Hang On GP '95 (Japan) (2M) - TODO
 - Hang On GP '96 (Europe) - TODO
-- [Hebereke's Popoitto (Europe)](../../../Regions/Retails/Europe/T-1502H/01/README.md) - :warning: (TODO - Update)
+- [Hebereke's Popoitto (Europe)](../../../Regions/Retails/Europe/T-1502H/01/README.md) - :x: (TODO - Update)
 - Hexen - Beyond Heretic (Japan) - TODO
 - Hi-Octane (Japan) - TODO
 - [Hissatsu Pachinko Collection (Japan)](../../../Regions/Retails/Japan/T-1503G/01/README.md) - :finnadie: (TODO - Update?)
@@ -201,7 +201,7 @@
 - Magic Knight Rayearth (Japan) (Genteiban) (2M, 3M) - TODO
 - Mass Destruction (Europe) - TODO
 - MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (Europe) - TODO
-- [Metal Slug - Super Vehicle-001 (Japan)](../../../Regions/Retails/Japan/T-3111G/01/README.md) - :warning: (TODO - Update)
+- [Metal Slug - Super Vehicle-001 (Japan)](../../../Regions/Retails/Japan/T-3111G/01/README.md) - :x: (TODO - Update)
 - Moero!! Pro Yakyuu '95 - Double Header (Japan) - TODO
 - Mr. Bones (Europe) (Disc 1) - TODO
 - Mr. Bones (Europe) (Disc 2) - TODO
@@ -382,7 +382,7 @@
 - The Horde (Germany) - TODO
 - The Horde (Japan) - TODO
 - The Incredible Hulk - The Pantheon Saga (Europe) - TODO
-- [The King of Fighters '95 (Europe)](../../../Regions/Retails/Europe/MK-81088/01/README.md) - :x: (TODO - Update)
+- [The King of Fighters '95 (Europe)](../../../Regions/Retails/Europe/MK-81088/01/README.md) - :skull: (TODO - Update)
 - The Lost World - Jurassic Park (Europe) - TODO
 - The Mansion of Hidden Souls (Europe) (1S) - TODO
 - The Mansion of Hidden Souls (Europe) (4S) - TODO
@@ -446,5 +446,5 @@
 - World Series Baseball (Europe) - TODO
 - World Series Baseball II (Europe) - TODO
 - World Series Baseball II (Japan) - TODO
-- [Worldwide Soccer: Sega International Victory Goal Edition (USA)](../../../Regions/Retails/USA/MK-81105/01/README.md) - :white_check_mark:
+- [Worldwide Soccer: Sega International Victory Goal Edition (USA)](../../../Regions/Retails/USA/MK-81105/01/README.md) - :heavy_check_mark:
 - Worms (Europe) - TODO

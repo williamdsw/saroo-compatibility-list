@@ -23,7 +23,7 @@ Street Fighter Collection (USA) (Disc 1):
 
 ### Status
 
-- Street Fighter Collection (USA) (Disc 1): Playable :white_check_mark:
+- Street Fighter Collection (USA) (Disc 1): Playable :heavy_check_mark:
 - Street Fighter Collection (USA) (Disc 2): Untested :question:
 
 ### Extra Info

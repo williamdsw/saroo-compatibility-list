@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Pro Yakyuu Team mo Tsukurou! (Japan): Playable :white_check_mark:
+- Pro Yakyuu Team mo Tsukurou! (Japan): Playable :heavy_check_mark:
 - Pro Yakyuu Team mo Tsukurou! (Japan) (Rev B): Untested :question:
 
 ### Extra Info

@@ -34,7 +34,7 @@ Daisuki (Japan) (Disc 2) (Special):
 TODO
 
 - Daisuki (Japan) (Disc 1): Untested :question:
-- Daisuki (Japan) (Disc 2) (Special): Playable :white_check_mark:
+- Daisuki (Japan) (Disc 2) (Special): Playable :heavy_check_mark:
 
 ### Extra Info
 

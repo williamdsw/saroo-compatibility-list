@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Wangan Dead Heat + Real Arrange (Japan) (Disc 1): Playable :white_check_mark:
-- Wangan Dead Heat + Real Arrange (Japan) (Disc 2): Playable :white_check_mark:
+- Wangan Dead Heat + Real Arrange (Japan) (Disc 1): Playable :heavy_check_mark:
+- Wangan Dead Heat + Real Arrange (Japan) (Disc 2): Playable :heavy_check_mark:
 
 ### Extra Info
 

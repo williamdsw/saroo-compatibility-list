@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Tokimeki Memorial Taisen Puzzledama (Japan) (1M): Playable :white_check_mark:
+- Tokimeki Memorial Taisen Puzzledama (Japan) (1M): Playable :heavy_check_mark:
 - Tokimeki Memorial Taisen Puzzledama (Japan) (2M): Untested :question:
 
 ### Extra Info

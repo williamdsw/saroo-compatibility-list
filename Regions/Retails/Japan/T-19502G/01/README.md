@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Roommate - Inoue Ryouko (Japan): Playable :white_check_mark:
+- Roommate - Inoue Ryouko (Japan): Playable :heavy_check_mark:
 - Roommate - Inoue Ryouko (Japan) (Rev A): untested :question:
 
 ### Extra Info

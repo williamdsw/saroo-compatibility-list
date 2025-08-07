@@ -32,8 +32,8 @@ Thunder Storm & Road Blaster (Japan) (Disc 2):
 
 ### Status
 
-- Thunder Storm & Road Blaster (Japan) (Disc 1): Playable :white_check_mark:
-- Thunder Storm & Road Blaster (Japan) (Disc 2): Playable on 240515 :white_check_mark:
+- Thunder Storm & Road Blaster (Japan) (Disc 1): Playable :heavy_check_mark:
+- Thunder Storm & Road Blaster (Japan) (Disc 2): Playable on 240515 :heavy_check_mark:
 
 ### Evidence
 

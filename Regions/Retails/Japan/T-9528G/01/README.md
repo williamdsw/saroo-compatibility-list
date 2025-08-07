@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- J.League Jikkyou Honoo no Striker (Japan): Playable :white_check_mark:
+- J.League Jikkyou Honoo no Striker (Japan): Playable :heavy_check_mark:
 - J.League Jikkyou Honoo no Striker (Japan) (2M): Untested :question:
 
 ### Extra Info

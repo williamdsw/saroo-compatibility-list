@@ -23,7 +23,7 @@ D (USA) (Disc I):
 
 ### Status
 
-- D (USA) (Disc I) - Playable :white_check_mark:
+- D (USA) (Disc I) - Playable :heavy_check_mark:
 - D (USA) (Disc II) - Untested :question:
 
 ### Extra Info

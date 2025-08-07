@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere) (4M): Playable :white_check_mark:
+- LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere) (4M): Playable :heavy_check_mark:
 - LifeScape - Seimei 40 Okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere) (3M): Untested :question:
 
 ### Extra Info

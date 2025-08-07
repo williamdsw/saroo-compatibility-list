@@ -23,7 +23,7 @@ Extraído do [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/satu
 
 ### Status
 
-- Jogável :white_check_mark:
+- Jogável :heavy_check_mark:
 
 ### Informações Extras
 

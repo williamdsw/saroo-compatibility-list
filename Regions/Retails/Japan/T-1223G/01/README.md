@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Street Fighter Collection (Japan) (Disc 1): Issues :warning:
-- Street Fighter Collection (Japan) (Disc 2): Playable :white_check_mark:
+- Street Fighter Collection (Japan) (Disc 1): Errors :x:
+- Street Fighter Collection (Japan) (Disc 2): Playable :heavy_check_mark:
 
 ### Problems
 

@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- NOeL 3 - Not Digital (Japan) (Disc 1): Playable :white_check_mark:
+- NOeL 3 - Not Digital (Japan) (Disc 1): Playable :heavy_check_mark:
 - NOeL 3 - Not Digital (Japan) (Disc 2): Untested :question:
 - NOeL 3 - Not Digital (Japan) (Disc 3): Untested :question:
 

@@ -10,7 +10,7 @@
 
 | Game Name   | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | ----------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| IN THE HUNT | T-10001G       | V1.000  | U         | J               | :white_check_mark: | 22 minutes  |
+| IN THE HUNT | T-10001G       | V1.000  | U         | J               | :heavy_check_mark: | 22 minutes  |
 
 ### Evidence
 

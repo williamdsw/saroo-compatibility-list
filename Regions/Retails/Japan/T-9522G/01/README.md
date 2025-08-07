@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Tokimeki Memorial Drama Series Vol. 1: Nijiiro no Seishun (Japan): Playable :white_check_mark:
+- Tokimeki Memorial Drama Series Vol. 1: Nijiiro no Seishun (Japan): Playable :heavy_check_mark:
 
 ### Extra Info
 

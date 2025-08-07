@@ -6,7 +6,7 @@
 
 | #   | Game Name | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | --------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | QUOVADIS  | T-17401G       | V1.050  | J         | J               | :white_check_mark: | 27 minutes  |
+| 1   | QUOVADIS  | T-17401G       | V1.050  | J         | J               | :heavy_check_mark: | 27 minutes  |
 
 ### Evidence
 

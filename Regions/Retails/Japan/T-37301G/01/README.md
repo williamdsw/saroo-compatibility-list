@@ -31,8 +31,8 @@ Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc):
 
 ### Status
 
-- Twinkle Star Sprites (Japan) (Disc 1) (Game Disc): Playable :white_check_mark:
-- Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc): Playable :white_check_mark:
+- Twinkle Star Sprites (Japan) (Disc 1) (Game Disc): Playable :heavy_check_mark:
+- Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc): Playable :heavy_check_mark:
 
 ### Evidence
 

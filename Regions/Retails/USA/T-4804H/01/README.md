@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Last Gladiators - Digital Pinball (USA) (3S): Fixed with configuration :hammer_and_wrench:
+- Last Gladiators - Digital Pinball (USA) (3S): Configurable :hammer_and_wrench:
 - Last Gladiators - Digital Pinball (USA) (4S): Untested :question:
 
 ### Problems without configuration

@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - The King of Fighters '96 (Japan) (1M): Untested :question:
-- The King of Fighters '96 (Japan) (1M) (4M, 5M): Issues :warning:
+- The King of Fighters '96 (Japan) (1M) (4M, 5M): Errors :x:
 
 ### Problems
 

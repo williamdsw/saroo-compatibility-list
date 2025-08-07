@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Greatest Nine '96 (2M): Playable :white_check_mark:
+- Greatest Nine '96 (2M): Playable :heavy_check_mark:
 - Greatest Nine '96 (3M): Untested :question:
 - Greatest Nine '96 (Rev A) (10M): Untested :question:
 

@@ -25,7 +25,7 @@ https://segaxtreme.net/threads/official-cinepak-sample-code-currently-only-sbl.2
 
 ### Status
 
-- Issues :warning:
+- Errors :x:
 
 ### Problems
 

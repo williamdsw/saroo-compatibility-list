@@ -6,7 +6,7 @@
 
 | #                                                         | Game Name           | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --------------------------------------------------------- | ------------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan)         | QUIZ NANAIRO DREAMS | T-1220G        | V1.004  | J         | JM              | :white_check_mark: | 13 minutes  |
+| Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan)         | QUIZ NANAIRO DREAMS | T-1220G        | V1.004  | J         | JM              | :heavy_check_mark: | 13 minutes  |
 | Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan) (Rev A) | ?                   | ?              | ?       | ?         | ?               | :question:         | N/A         |
 
 | #   | Game                                                      | TODO |

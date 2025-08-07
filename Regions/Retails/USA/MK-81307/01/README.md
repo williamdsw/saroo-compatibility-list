@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Panzer Dragoon Saga (USA) (Disc 1): Playable :white_check_mark:
+- Panzer Dragoon Saga (USA) (Disc 1): Playable :heavy_check_mark:
 - Panzer Dragoon Saga (USA) (Disc 2): Untested :question:
 - Panzer Dragoon Saga (USA) (Disc 3): Untested :question:
 - Panzer Dragoon Saga (USA) (Disc 4): Untested :question:

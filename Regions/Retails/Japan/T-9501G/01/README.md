@@ -31,8 +31,8 @@ Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A):
 
 ### Status
 
-- Gokujou Parodius Da! Deluxe Pack (Japan): Fixed with configuration :hammer_and_wrench:
-- Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A): Fixed with configuration :hammer_and_wrench:
+- Gokujou Parodius Da! Deluxe Pack (Japan): Configurable :hammer_and_wrench:
+- Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A): Configurable :hammer_and_wrench:
 
 ### Problems without configuration
 

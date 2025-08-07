@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Pro Yakyuu Greatest Nine '98 (Japan) (Rev A): Playable :white_check_mark:
+- Pro Yakyuu Greatest Nine '98 (Japan) (Rev A): Playable :heavy_check_mark:
 - Pro Yakyuu Greatest Nine '98 (Japan) (Rev B): Untested :question:
 
 ### Extra Info

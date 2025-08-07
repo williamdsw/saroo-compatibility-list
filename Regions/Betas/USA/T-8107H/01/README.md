@@ -10,7 +10,7 @@
 
 | Game Name    | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | ------------ | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| REVOLUTION X | T-8107H        | V1.000  | U         | JM              | :white_check_mark: | 34 minutes  |
+| REVOLUTION X | T-8107H        | V1.000  | U         | JM              | :heavy_check_mark: | 34 minutes  |
 
 ### Evidence
 

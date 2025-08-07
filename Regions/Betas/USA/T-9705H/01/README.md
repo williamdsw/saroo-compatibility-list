@@ -10,7 +10,7 @@
 
 | Game Name | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| AREA 51   | T-9705H        | V1.000  | U         | JG              | :white_check_mark: | 22 minutes  |
+| AREA 51   | T-9705H        | V1.000  | U         | JG              | :heavy_check_mark: | 22 minutes  |
 
 ### Evidence
 

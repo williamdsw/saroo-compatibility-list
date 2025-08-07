@@ -22,8 +22,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (redump.ss.revival) :white_check_mark:
-- Issues (SSCUEBIN-Arquivista) :warning:
+- Playable (redump.ss.revival) :heavy_check_mark:
+- Errors (SSCUEBIN-Arquivista) :x:
 
 ### Problems
 

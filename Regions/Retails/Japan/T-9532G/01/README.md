@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 1): Playable :white_check_mark:
+- Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 1): Playable :heavy_check_mark:
 - Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

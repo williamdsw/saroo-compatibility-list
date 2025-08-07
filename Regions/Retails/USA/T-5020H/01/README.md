@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - No Boot (< 231111 firmware) :finnadie:
-- Playable (231111 firmware onwards) :white_check_mark:
+- Playable (231111 firmware onwards) :heavy_check_mark:
 
 ### Extra Info
 

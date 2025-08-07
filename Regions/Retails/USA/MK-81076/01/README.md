@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Enemy Zero (USA) (Disc 0): Playable :white_check_mark:
-- Enemy Zero (USA) (Disc 1): Playable :white_check_mark:
+- Enemy Zero (USA) (Disc 0): Playable :heavy_check_mark:
+- Enemy Zero (USA) (Disc 1): Playable :heavy_check_mark:
 - Enemy Zero (USA) (Disc 2): Untested :question:
 - Enemy Zero (USA) (Disc 3): Untested :question:
 

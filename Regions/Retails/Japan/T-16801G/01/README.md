@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Pro Mahjong Kiwame-S (Japan): Playable :white_check_mark:
+- Pro Mahjong Kiwame-S (Japan): Playable :heavy_check_mark:
 - Pro Mahjong Kiwame-S (Japan) (Rev A): Untested :question:
 
 ### Extra Info

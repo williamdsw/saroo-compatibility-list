@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M): Playable :white_check_mark:
+- Super Robot Taisen F (Japan) (Rev A) (10M, 11M, 12M, 13M): Playable :heavy_check_mark:
 - Super Robot Taisen F (Japan) (Rev B) (21M): Untested :question:
 
 ### Extra Info

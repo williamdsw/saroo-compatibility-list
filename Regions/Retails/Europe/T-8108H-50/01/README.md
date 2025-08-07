@@ -23,7 +23,7 @@ X-Men - Children of the Atom (Europe) (2S):
 
 ### Status
 
-- X-Men - Children of the Atom (Europe) (2S): Playable :white_check_mark:
+- X-Men - Children of the Atom (Europe) (2S): Playable :heavy_check_mark:
 - X-Men - Children of the Atom (Europe) (3S): Untested :question:
 
 ### Extra Info

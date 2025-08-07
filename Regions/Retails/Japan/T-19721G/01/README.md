@@ -6,7 +6,7 @@
 
 | #   | Game Name        | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | ---------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | 6INCH MY DARLING | T-19721G       | V1.001  | J         | J               | :white_check_mark: | 13 minutes  |
+| 1   | 6INCH MY DARLING | T-19721G       | V1.001  | J         | J               | :heavy_check_mark: | 13 minutes  |
 
 ### Evidence
 

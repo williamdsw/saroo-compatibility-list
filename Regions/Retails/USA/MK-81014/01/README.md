@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Virtua Fighter 2 (USA): Playable :white_check_mark:
+- Virtua Fighter 2 (USA): Playable :heavy_check_mark:
 - Virtua Fighter 2 (USA) (RE): Untested :question:
 
 ### TODO

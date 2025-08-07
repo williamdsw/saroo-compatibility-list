@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Darius Gaiden (Japan) (2M): Playable :white_check_mark:
+- Darius Gaiden (Japan) (2M): Playable :heavy_check_mark:
 - Darius Gaiden (Japan) (3M): Untested :question:
 
 ### TODO

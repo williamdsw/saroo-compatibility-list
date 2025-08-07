@@ -23,7 +23,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - X-Men vs. Street Fighter (Japan) (1M): Untested :question:
 - X-Men vs. Street Fighter (Japan) (2M): Untested :question:
-- X-Men vs. Street Fighter (Japan) (3M): Playable :white_check_mark:
+- X-Men vs. Street Fighter (Japan) (3M): Playable :heavy_check_mark:
 
 ### Extra Info
 

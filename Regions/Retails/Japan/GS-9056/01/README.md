@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M): Playable :white_check_mark:
+- Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (1M): Playable :heavy_check_mark:
 - Gekka Mugentan Torico (Japan) (Disc A) (Kyouchou-hen) (2M): Untested :question:
 - Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (1M): Untested :question:
 - Gekka Mugentan Torico (Japan) (Disc B) (Houkai-hen) (2M): Untested :question:

@@ -25,18 +25,18 @@ https://segaxtreme.net/resources/birdcage-of-horrors-dc-saturn-cine-re-pak.346/
 
 ### Status
 
-- Birdcage of Horrors - Chapter 1 - Contract (Disc 1): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 1 - Contract (Disc 2): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 2 - Birdcage (Disc 3): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 2 - Birdcage (Disc 4): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 3 - Completion (Disc 5): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 3 - Completion (Disc 6): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 4 - Encounter (Disc 7): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 4 - Encounter (Disc 8): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 5 - Atonement (Disc 9): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 5 - Atonement (Disc 10): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 6 - Tremor (Disc 11): Playable :white_check_mark:
-- Birdcage of Horrors - Chapter 6 - Tremor (Disc 12): Playable :white_check_mark:
+- Birdcage of Horrors - Chapter 1 - Contract (Disc 1): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 1 - Contract (Disc 2): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 2 - Birdcage (Disc 3): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 2 - Birdcage (Disc 4): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 3 - Completion (Disc 5): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 3 - Completion (Disc 6): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 4 - Encounter (Disc 7): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 4 - Encounter (Disc 8): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 5 - Atonement (Disc 9): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 5 - Atonement (Disc 10): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 6 - Tremor (Disc 11): Playable :heavy_check_mark:
+- Birdcage of Horrors - Chapter 6 - Tremor (Disc 12): Playable :heavy_check_mark:
 
 ### Evidence
 

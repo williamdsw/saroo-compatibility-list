@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Black Fire (USA) (2S): Playable :white_check_mark:
+- Black Fire (USA) (2S): Playable :heavy_check_mark:
 - Black Fire (USA) (3S): Untested :question:
 
 ### Extra Info

@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Soukyuu Gurentai (Japan): Issues :warning:
-- Soukyuu Gurentai (Japan) (Rev A): Issues :warning:
+- Soukyuu Gurentai (Japan): Errors :x:
+- Soukyuu Gurentai (Japan) (Rev A): Errors :x:
 
 ### Problems
 

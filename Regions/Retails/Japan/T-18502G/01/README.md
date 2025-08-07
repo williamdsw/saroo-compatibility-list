@@ -6,7 +6,7 @@
 
 | #   | Game Name   | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | ----------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | QUANTUMGATE | T-18502G       | V1.000  | J         | JM              | :white_check_mark: | 27 minutes  |
+| 1   | QUANTUMGATE | T-18502G       | V1.000  | J         | JM              | :heavy_check_mark: | 27 minutes  |
 
 ### Evidence
 

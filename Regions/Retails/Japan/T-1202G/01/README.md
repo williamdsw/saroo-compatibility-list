@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Vampire Hunter - Darkstalkers' Revenge (Japan) (1M): Playable :white_check_mark:
+- Vampire Hunter - Darkstalkers' Revenge (Japan) (1M): Playable :heavy_check_mark:
 - Vampire Hunter - Darkstalkers' Revenge (Japan) (2M, 4M): Untested :question:
 - Vampire Hunter - Darkstalkers' Revenge (Japan) (3M): Untested :question:
 

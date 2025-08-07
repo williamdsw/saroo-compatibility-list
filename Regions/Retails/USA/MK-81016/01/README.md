@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Mr. Bones (USA) (Disc 1): Playable :white_check_mark:
+- Mr. Bones (USA) (Disc 1): Playable :heavy_check_mark:
 - Mr. Bones (USA) (Disc 2): Untested :question:
 
 ### Extra Info

@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Yuukyuu Gensoukyoku (Japan): Playable :white_check_mark:
+- Yuukyuu Gensoukyoku (Japan): Playable :heavy_check_mark:
 - Yuukyuu Gensoukyoku (Japan) (Alt): Untested :question:
 
 ### Extra Info

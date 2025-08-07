@@ -23,7 +23,7 @@ Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (1M):
 
 ### Status
 
-- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (1M): Playable :white_check_mark:
+- Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (1M): Playable :heavy_check_mark:
 - Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (2M): Untested :question:
 - Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (4M): Untested :question:
 - Sentimental Graffiti (Japan) (Disc 1) (Game Disc) (5M): Untested :question:

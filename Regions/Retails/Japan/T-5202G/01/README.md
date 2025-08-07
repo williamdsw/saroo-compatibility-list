@@ -23,7 +23,7 @@ Sword & Sorcery (Japan) (2M):
 
 ### Status
 
-- Sword & Sorcery (Japan) (2M): Playable :white_check_mark:
+- Sword & Sorcery (Japan) (2M): Playable :heavy_check_mark:
 - Sword & Sorcery (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info

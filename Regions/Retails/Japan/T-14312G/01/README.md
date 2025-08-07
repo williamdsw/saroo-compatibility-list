@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 1) (Joukan): Playable :white_check_mark:
+- Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 1) (Joukan): Playable :heavy_check_mark:
 - Koden Koureijutsu - Hyaku Monogatari - Honto ni Atta Kowai Hanashi (Japan) (Disc 2) (Gekan): Untested :question:
 
 ### Extra Info

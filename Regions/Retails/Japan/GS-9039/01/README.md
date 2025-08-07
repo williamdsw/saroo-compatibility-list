@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Virtua Fighter Remix (Japan) (2M, 5M): Playable :white_check_mark:
+- Virtua Fighter Remix (Japan) (2M, 5M): Playable :heavy_check_mark:
 - Virtua Fighter Remix (Japan) (4M): Untested :question:
 - Virtua Fighter Remix (Japan) (6M): Untested :question:
 - Virtua Fighter Remix (Japan) (SegaNet): Untested :question:

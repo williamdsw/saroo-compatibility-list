@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Lupin the 3rd Chronicles (Japan) (Disc 1): Playable :white_check_mark:
+- Lupin the 3rd Chronicles (Japan) (Disc 1): Playable :heavy_check_mark:
 - Lupin the 3rd Chronicles (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

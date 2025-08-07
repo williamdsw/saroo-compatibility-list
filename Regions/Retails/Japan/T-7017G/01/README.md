@@ -23,7 +23,7 @@ The Unsolved (Japan) (Disc 1):
 
 ### Status
 
-- The Unsolved (Japan) (Disc 1): Playable :white_check_mark:
+- The Unsolved (Japan) (Disc 1): Playable :heavy_check_mark:
 - The Unsolved (Japan) (Disc 2): Untested :question:
 - The Unsolved (Japan) (Disc 3): Untested :question:
 

@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Haunted Casino (Japan) (Disc A): Playable :white_check_mark:
+- Haunted Casino (Japan) (Disc A): Playable :heavy_check_mark:
 - Haunted Casino (Japan) (Disc B): Untested :question:
 - Haunted Casino (Japan) (Disc C): Untested :question:
 

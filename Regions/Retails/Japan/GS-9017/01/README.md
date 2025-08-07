@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Rev A): Untested :question:
-- Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Rev B): Playable :white_check_mark:
+- Kanzen Chuukei Pro Yakyuu Greatest Nine (Japan) (Rev B): Playable :heavy_check_mark:
 
 ### Extra Info
 

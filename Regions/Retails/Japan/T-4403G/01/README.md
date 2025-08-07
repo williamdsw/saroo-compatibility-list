@@ -23,7 +23,7 @@ Stellar Assault SS (Japan):
 
 ### Status
 
-- Stellar Assault SS (Japan): Playable :white_check_mark:
+- Stellar Assault SS (Japan): Playable :heavy_check_mark:
 
 ### Extra Info
 

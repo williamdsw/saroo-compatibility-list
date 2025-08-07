@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Enemy Zero (Europe) (Disc 0): Playable :white_check_mark:
+- Enemy Zero (Europe) (Disc 0): Playable :heavy_check_mark:
 - Enemy Zero (Europe) (Disc 1): Untested :question:
 - Enemy Zero (Europe) (Disc 2): Untested :question:
 - Enemy Zero (Europe) (Disc 3): Untested :question:

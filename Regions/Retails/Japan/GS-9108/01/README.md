@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Sega Ages Space Harrier (Japan): Issues :warning:
+- Sega Ages Space Harrier (Japan): Errors :x:
 - Sega Ages Space Harrier (Japan) (Rev A) (11M): Untested :question:
 - Sega Ages Space Harrier (Japan) (Rev A) (13M): Untested :question:
 

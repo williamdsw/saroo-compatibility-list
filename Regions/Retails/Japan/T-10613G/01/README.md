@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Nissan Presents - Over Drivin' GT-R (Japan): Playable :white_check_mark:
+- Nissan Presents - Over Drivin' GT-R (Japan): Playable :heavy_check_mark:
 - Nissan Presents - Over Drivin' GT-R (Japan) (Rev A): Untested :question:
 
 ### Extra Info

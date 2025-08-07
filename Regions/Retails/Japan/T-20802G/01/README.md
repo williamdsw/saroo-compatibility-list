@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Tetris S (Japan): Playable :white_check_mark:
+- Tetris S (Japan): Playable :heavy_check_mark:
 - Tetris S (Japan) (Rev A): Untested :question:
 
 ### Extra Info

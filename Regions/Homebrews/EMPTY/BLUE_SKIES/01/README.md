@@ -25,7 +25,7 @@ https://segaxtreme.net/resources/blue-skies.110/
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

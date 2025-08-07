@@ -23,7 +23,7 @@ Panzer Dragoon (Europe) (En,Fr,De,Es,It):
 
 ### Status
 
-- Panzer Dragoon (Europe) (En,Fr,De,Es,It): Playable :white_check_mark:
+- Panzer Dragoon (Europe) (En,Fr,De,Es,It): Playable :heavy_check_mark:
 
 ### Extra Info
 

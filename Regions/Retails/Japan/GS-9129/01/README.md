@@ -24,7 +24,7 @@ Shinseiki Evangelion: 2nd Impression (Japan) (Made in U.S.A.):
 ### Status
 
 - Shinseiki Evangelion: 2nd Impression (Japan) (Made in Japan): Untested :question:
-- Shinseiki Evangelion: 2nd Impression (Japan) (Made in U.S.A.): Playable :white_check_mark:
+- Shinseiki Evangelion: 2nd Impression (Japan) (Made in U.S.A.): Playable :heavy_check_mark:
 
 ### Extra Info
 

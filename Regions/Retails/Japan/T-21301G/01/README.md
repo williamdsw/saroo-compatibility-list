@@ -6,7 +6,7 @@
 
 | #                                                            | Game Name    | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | ------------------------------------------------------------ | ------------ | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 1)                  | KYUSEIKOUSYU | T-21301G       | V1.000  | J         | J               | :white_check_mark: | 8 minutes   |
+| 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 1)                  | KYUSEIKOUSYU | T-21301G       | V1.000  | J         | J               | :heavy_check_mark: | 8 minutes   |
 | 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 2)                  | ?            | ?              | ?       | ?         | ?               | :question:         | N/A         |
 | 3x3 Eyes: Kyuusei Koushu S (Japan) (Disc 3) (Special CD-ROM) | ?            | ?              | ?       | ?         | ?               | :question:         | N/A         |
 

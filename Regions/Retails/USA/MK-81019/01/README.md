@@ -23,7 +23,7 @@ Astal (USA) (1S):
 
 ### Status
 
-- Astal (USA) (1S): Playable :white_check_mark:
+- Astal (USA) (1S): Playable :heavy_check_mark:
 - Astal (USA) (2S): Untested :question:
 - Astal (USA) (3S): Untested :question:
 

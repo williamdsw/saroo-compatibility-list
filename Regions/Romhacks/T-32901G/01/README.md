@@ -25,7 +25,7 @@ https://segaxtreme.net/resources/silhouette-mirage-english-patch.222/
 
 ### Status
 
-- Issues :warning:
+- Errors :x:
 
 ### Problems
 

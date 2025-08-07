@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1): Playable :white_check_mark:
+- Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 1): Playable :heavy_check_mark:
 - Maria - Kimi-tachi ga Umareta Wake (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

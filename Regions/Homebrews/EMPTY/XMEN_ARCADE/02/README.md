@@ -28,7 +28,7 @@ https://drive.google.com/file/d/13CNbI9kqb65enEVV6u9CCVaoOLdclMrT/view
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

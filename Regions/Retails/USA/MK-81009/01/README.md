@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Panzer Dragoon (USA) (1S): Untested :question:
-- Panzer Dragoon (USA) (5S): Playable :white_check_mark:
+- Panzer Dragoon (USA) (5S): Playable :heavy_check_mark:
 
 ### Extra Info
 

@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Enemy Zero (Japan) (Disc 0) (Opening Disc) (1M): Playable :white_check_mark:s
+- Enemy Zero (Japan) (Disc 0) (Opening Disc) (1M): Playable :heavy_check_mark:s
 - Enemy Zero (Japan) (Disc 0) (Opening Disc) (2M): Untested :question:
 - Enemy Zero (Japan) (Disc 0) (Opening Disc) (Satakore): Untested :question:
 - Enemy Zero (Japan) (Disc 0) (Opening Disc): Untested :question:

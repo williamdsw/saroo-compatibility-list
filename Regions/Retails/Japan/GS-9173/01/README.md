@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- The House of the Dead (Japan): Playable :white_check_mark:
+- The House of the Dead (Japan): Playable :heavy_check_mark:
 - The House of the Dead (Japan) (Rev A): Untested :question:
 
 ### TODO

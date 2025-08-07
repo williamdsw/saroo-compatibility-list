@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Double Switch (USA) (Disc 1): Fixed with configuration :hammer_and_wrench:
+- Double Switch (USA) (Disc 1): Configurable :hammer_and_wrench:
 - Double Switch (USA) (Disc 2): Untested :question:
 
 ### Problems without configuration

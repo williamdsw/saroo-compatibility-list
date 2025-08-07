@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Jikuu Tantei DD: Maboroshi no Lorelei (Japan) (Disc A): Playable :white_check_mark:
+- Jikuu Tantei DD: Maboroshi no Lorelei (Japan) (Disc A): Playable :heavy_check_mark:
 - Jikuu Tantei DD: Maboroshi no Lorelei (Japan) (Disc B): Untested :question:
 
 ### Extra Info

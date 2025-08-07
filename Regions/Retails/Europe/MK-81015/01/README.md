@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Virtua Cop (Europe): Playable :white_check_mark:
+- Virtua Cop (Europe): Playable :heavy_check_mark:
 - Virtua Cop (Europe) (2S): Untested :question:
 - Virtua Cop (Europe) (4S): Untested :question:
 - Virtua Cop (Europe) (7S): Untested :question:

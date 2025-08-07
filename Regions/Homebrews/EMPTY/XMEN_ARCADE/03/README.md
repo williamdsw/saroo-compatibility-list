@@ -28,7 +28,7 @@ https://mega.nz/file/O7ZCiCZL#hSewphXxWemOT_Ii9OBMS4F3Sl6CzIZn8dskbd_f3PI
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

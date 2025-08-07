@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Ojousama o Nerae!! (Japan): Playable :white_check_mark:
+- Ojousama o Nerae!! (Japan): Playable :heavy_check_mark:
 - Ojousama o Nerae!! (Japan) (Rev A): Untested :question:
 
 ### Extra Info

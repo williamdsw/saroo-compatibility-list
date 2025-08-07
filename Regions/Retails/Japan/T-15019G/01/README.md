@@ -24,7 +24,7 @@ Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan):
 
 ### Status
 
-- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan): Issues :warning:
+- Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Japan): Errors :x:
 
 ### Problems
 

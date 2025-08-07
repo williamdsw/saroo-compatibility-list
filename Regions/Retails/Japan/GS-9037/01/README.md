@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Sakura Taisen (Japan) (Disc 1) (6M): Playable :white_check_mark:
+- Sakura Taisen (Japan) (Disc 1) (6M): Playable :heavy_check_mark:
 - Sakura Taisen (Japan) (Disc 1) (7M, 9M, 10M): Untested :question:
 - Sakura Taisen (Japan) (Disc 1) (8M, 13M): Untested :question:
 - Sakura Taisen (Japan) (Disc 2) (6M): Untested :question:

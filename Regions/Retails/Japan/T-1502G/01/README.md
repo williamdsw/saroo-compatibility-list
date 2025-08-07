@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Game no Tatsujin (Japan) (4M): Playable :white_check_mark:
+- Game no Tatsujin (Japan) (4M): Playable :heavy_check_mark:
 - Game no Tatsujin (Japan) (Rev A): Untested :question:
 
 ### Extra Info

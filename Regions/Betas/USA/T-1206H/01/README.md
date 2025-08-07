@@ -8,9 +8,9 @@
 | --- | ---------------------------------------- | ------------------------------------------------------------------------------- |
 | 1   | MCU: 241224, SS: 241224, FPGA: 05 - v0.7 | [Lexar - 64 GB - exFat](../../../../../Info/SdCards/Lexar/64GB/exfat/README.md) |
 
-| Game Name                             | Product Number | Version | Area Code | Peripheral Code | Status    |
-| ------------------------------------- | -------------- | ------- | --------- | --------------- | --------- |
-| STREET FIGHTER ALPHA WARRIORS' DREAMS | T-1206H        | V1.000  | U         | JA              | :warning: |
+| Game Name                             | Product Number | Version | Area Code | Peripheral Code | Status |
+| ------------------------------------- | -------------- | ------- | --------- | --------------- | ------ |
+| STREET FIGHTER ALPHA WARRIORS' DREAMS | T-1206H        | V1.000  | U         | JA              | :x:    |
 
 | #   | Problems                                                                              |
 | --- | ------------------------------------------------------------------------------------- |

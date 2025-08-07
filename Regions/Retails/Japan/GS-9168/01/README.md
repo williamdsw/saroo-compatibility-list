@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (1M): Playable :white_check_mark:
+- J.League Pro Soccer Club o Tsukurou! 2 (Japan) (1M): Playable :heavy_check_mark:
 - J.League Pro Soccer Club o Tsukurou! 2 (Japan) (2M): Untested :question:
 - J.League Pro Soccer Club o Tsukurou! 2 (Japan) (3M): Untested :question:
 - J.League Pro Soccer Club o Tsukurou! 2 (Japan) (4M): Untested :question:

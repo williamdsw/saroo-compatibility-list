@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Harukaze Sentai V-Force (Disc 1): Playable :white_check_mark:
+- Harukaze Sentai V-Force (Disc 1): Playable :heavy_check_mark:
 - Harukaze Sentai V-Force (Disc 2): Untested :question:
 - Harukaze Sentai V-Force (Disc 3): Untested :question:
 

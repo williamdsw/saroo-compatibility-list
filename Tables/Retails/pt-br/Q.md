@@ -6,12 +6,12 @@
 
 #### 7 Jogos
 
-- [Quake (Europe)](../../../Regions/Retails/Europe/MK-081066/01/pt-br.md) - :white_check_mark:
-- [Quake (USA)](../../../Regions/Retails/USA/MK-081066/01/README.md) - :white_check_mark:
-- [Quantum Gate I: Akumu no Joshou (Japan)](../../../Regions/Retails/Japan/T-18502G/01/README.md) - :white_check_mark:
-- [Quarterback Attack with Mike Ditka (USA)](../../../Regions/Retails/USA/T-16213H/01/README.md) - :white_check_mark:
-- [Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan)](../../../Regions/Retails/Japan/T-1220G/01/README.md) - :white_check_mark:
-- [QuoVadis (Japan)](../../../Regions/Retails/Japan/T-17401G/01/README.md) - :white_check_mark:
+- [Quake (Europe)](../../../Regions/Retails/Europe/MK-081066/01/pt-br.md) - :heavy_check_mark:
+- [Quake (USA)](../../../Regions/Retails/USA/MK-081066/01/README.md) - :heavy_check_mark:
+- [Quantum Gate I: Akumu no Joshou (Japan)](../../../Regions/Retails/Japan/T-18502G/01/README.md) - :heavy_check_mark:
+- [Quarterback Attack with Mike Ditka (USA)](../../../Regions/Retails/USA/T-16213H/01/README.md) - :heavy_check_mark:
+- [Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan)](../../../Regions/Retails/Japan/T-1220G/01/README.md) - :heavy_check_mark:
+- [QuoVadis (Japan)](../../../Regions/Retails/Japan/T-17401G/01/README.md) - :heavy_check_mark:
 - [QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan)](../../../Regions/Retails/Japan/T-17402G/01/README.md) - :question:
 
 Navegação:

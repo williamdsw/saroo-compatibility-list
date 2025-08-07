@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- The Legend of Heroes I - Playable :white_check_mark:
-- The Legend of Heroes II - Playable :white_check_mark:
+- The Legend of Heroes I - Playable :heavy_check_mark:
+- The Legend of Heroes II - Playable :heavy_check_mark:
 
 ### Extra Info
 

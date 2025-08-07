@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Virtua Racing (USA) (12S): Issues :warning:
+- Virtua Racing (USA) (12S): Errors :x:
 - Virtua Racing (USA) (15S): Untested :question:
 
 ### Problems

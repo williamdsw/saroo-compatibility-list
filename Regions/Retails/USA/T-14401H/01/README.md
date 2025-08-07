@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Virtual Hydlide (USA) (P4H): Playable :white_check_mark:
+- Virtual Hydlide (USA) (P4H): Playable :heavy_check_mark:
 - Virtual Hydlide (USA) (P5H): Untested :question:
 
 ### Extra Info

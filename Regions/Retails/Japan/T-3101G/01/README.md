@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- The King of Fighters '95 (Japan) (1M): Fixed with configuration :hammer_and_wrench:
-- The King of Fighters '95 (Japan) (2M): Fixed with configuration :hammer_and_wrench:
-- The King of Fighters '95 (Japan) (3M): Fixed with configuration :hammer_and_wrench:
+- The King of Fighters '95 (Japan) (1M): Configurable :hammer_and_wrench:
+- The King of Fighters '95 (Japan) (2M): Configurable :hammer_and_wrench:
+- The King of Fighters '95 (Japan) (3M): Configurable :hammer_and_wrench:
 
 ### Problems without configuration
 

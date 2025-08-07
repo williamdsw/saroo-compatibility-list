@@ -23,7 +23,7 @@ Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 1):
 
 ### Status
 
-- Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 1): Playable :white_check_mark:
+- Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 1): Playable :heavy_check_mark:
 - Suchie-Pai Adventure Doki Doki Nightmare (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

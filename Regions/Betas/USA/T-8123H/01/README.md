@@ -10,7 +10,7 @@
 
 | Game Name     | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | ------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| DARIUS GAIDEN | T-8123H        | V1.000  | U         | J               | :white_check_mark: | 14 minutes  |
+| DARIUS GAIDEN | T-8123H        | V1.000  | U         | J               | :heavy_check_mark: | 14 minutes  |
 
 ### Evidence
 

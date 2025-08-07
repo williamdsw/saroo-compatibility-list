@@ -6,7 +6,7 @@
 
 | #                                                      | Game Name  | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | ------------------------------------------------------ | ---------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 1) | QUOVADIS 2 | T-17402G       | V1.003  | J         | J               | :white_check_mark: | 14 minutes  |
+| QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 1) | QUOVADIS 2 | T-17402G       | V1.003  | J         | J               | :heavy_check_mark: | 14 minutes  |
 | QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Japan) (Disc 2) | ?          | ?              | ?       | ?         | ?               | :question:         | N/A         |
 
 | #   | Game                                                   | TODO   |

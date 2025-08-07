@@ -23,7 +23,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 - Street Fighter Zero (Japan) (1M): Untested :question:
 - Street Fighter Zero (Japan) (2M): Untested :question:
-- Street Fighter Zero (Japan) (Rev A) (10M): Playable :white_check_mark:
+- Street Fighter Zero (Japan) (Rev A) (10M): Playable :heavy_check_mark:
 
 ### Extra Info
 

@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Keiou Yuugekitai: Okiraku Tamatebako (Japan) (Disc 1): Issues :warning:
-- Keiou Yuugekitai: Okiraku Tamatebako (Japan) (Disc 2): Playable :white_check_mark:
+- Keiou Yuugekitai: Okiraku Tamatebako (Japan) (Disc 1): Errors :x:
+- Keiou Yuugekitai: Okiraku Tamatebako (Japan) (Disc 2): Playable :heavy_check_mark:
 
 ### Problems
 

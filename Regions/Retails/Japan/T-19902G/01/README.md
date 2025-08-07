@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Metal Black (Japan) (1M): Playable :white_check_mark:
+- Metal Black (Japan) (1M): Playable :heavy_check_mark:
 - Metal Black (Japan) (3M): Untested :question:
 
 ### Extra Info

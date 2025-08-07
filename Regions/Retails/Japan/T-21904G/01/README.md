@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Ousama Game (Japan) (Disc 1) (Ichigo Disc): Playable :white_check_mark:
-- Ousama Game (Japan) (Disc 2) (Momo Disc): Playable :white_check_mark:
+- Ousama Game (Japan) (Disc 1) (Ichigo Disc): Playable :heavy_check_mark:
+- Ousama Game (Japan) (Disc 2) (Momo Disc): Playable :heavy_check_mark:
 
 ### Extra Info
 

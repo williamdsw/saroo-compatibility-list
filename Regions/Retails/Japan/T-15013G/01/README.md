@@ -6,7 +6,7 @@
 
 | #   | Game Name   | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | ----------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | LEMMINGS 3D | T-15013G       | V3.100  | J         | JM              | :white_check_mark: | 10 minutes  |
+| 1   | LEMMINGS 3D | T-15013G       | V3.100  | J         | JM              | :heavy_check_mark: | 10 minutes  |
 
 ### Evidence
 

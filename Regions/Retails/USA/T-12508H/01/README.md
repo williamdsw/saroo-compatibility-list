@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Random Issues :warning:
+- Random Errors :x:
 
 ### Problems
 

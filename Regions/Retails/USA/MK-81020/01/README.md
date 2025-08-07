@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- NiGHTS into Dreams... (USA, Brazil): Playable :white_check_mark:
+- NiGHTS into Dreams... (USA, Brazil): Playable :heavy_check_mark:
 - NiGHTS into Dreams... (USA) (with 3D Control Pad) (RE) : Untested :question:
 
 ### Extra Info

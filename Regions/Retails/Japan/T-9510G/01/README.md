@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Policenauts (Japan) (Disc 1): Playable :white_check_mark:
+- Policenauts (Japan) (Disc 1): Playable :heavy_check_mark:
 - Policenauts (Japan) (Disc 2): Untested :question:
 - Policenauts (Japan) (Disc 3): Untested :question:
 

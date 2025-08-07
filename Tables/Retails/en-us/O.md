@@ -8,21 +8,21 @@
 
 | Game                                     | Region | Status             | Details                                                          |
 | ---------------------------------------- | ------ | ------------------ | ---------------------------------------------------------------- |
-| Ochigee Designer Tsukutte Pon!           | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-9108G/01/README.md)      |
-| Off-World Interceptor Extreme            | :eu:   | :white_check_mark: | [Link](../../../Regions/Retails/Europe/T-15908H40/01/README.md)  |
-| Off-World Interceptor Extreme            | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-15901G/01/README.md)     |
-| Off-World Interceptor Extreme            | :us:   | :white_check_mark: | [Link](../../../Regions/Retails/USA/T-15908H/01/README.md)       |
-| Oh-chan no Oekaki Logic                  | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-1508G/01/README.md)      |
+| Ochigee Designer Tsukutte Pon!           | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-9108G/01/README.md)      |
+| Off-World Interceptor Extreme            | :eu:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Europe/T-15908H40/01/README.md)  |
+| Off-World Interceptor Extreme            | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-15901G/01/README.md)     |
+| Off-World Interceptor Extreme            | :us:   | :heavy_check_mark: | [Link](../../../Regions/Retails/USA/T-15908H/01/README.md)       |
+| Oh-chan no Oekaki Logic                  | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-1508G/01/README.md)      |
 | Ojousama Tokkyuu                         | :jp:   | :cd: (2 Discs)     | [Link](../../../Regions/Retails/Japan/T-27803G/01/README.md)     |
 | Ojousama o Nerae!!                       | :jp:   | :cd: (2 Versions)  | [Link](../../../Regions/Retails/Japan/T-38101G/01/README.md)     |
-| Okudera Yasuhiko no Sekai o Mezase!      | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-26001G/01/README.md)     |
-| Olympic Soccer                           | :eu:   | :white_check_mark: | [Link](../../../Regions/Retails/Europe/T-07904H50/01/README.md)  |
-| Olympic Soccer                           | :de:   | :white_check_mark: | [Link](../../../Regions/Retails/Germany/T-07904H18/01/README.md) |
-| Olympic Soccer                           | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-7304G/01/README.md)      |
-| Olympic Soccer                           | :us:   | :white_check_mark: | [Link](../../../Regions/Retails/USA/T-07904H/01/README.md)       |
-| Omakase! Savers                          | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/GS-9030/01/README.md)      |
-| OoEdo Renaissance                        | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-9104G/01/README.md)      |
-| Oracle no Houseki - Jewels of the Oracle | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-1511G/01/README.md)      |
+| Okudera Yasuhiko no Sekai o Mezase!      | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-26001G/01/README.md)     |
+| Olympic Soccer                           | :eu:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Europe/T-07904H50/01/README.md)  |
+| Olympic Soccer                           | :de:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Germany/T-07904H18/01/README.md) |
+| Olympic Soccer                           | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-7304G/01/README.md)      |
+| Olympic Soccer                           | :us:   | :heavy_check_mark: | [Link](../../../Regions/Retails/USA/T-07904H/01/README.md)       |
+| Omakase! Savers                          | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/GS-9030/01/README.md)      |
+| OoEdo Renaissance                        | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-9104G/01/README.md)      |
+| Oracle no Houseki - Jewels of the Oracle | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-1511G/01/README.md)      |
 | Ousama Game                              | :jp:   | :cd: (2 Discs)     | [Link](../../../Regions/Retails/Japan/T-21904G/01/README.md)     |
 
 Navigation:

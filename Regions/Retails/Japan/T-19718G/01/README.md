@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Virtuacall S (Japan) (Disc 1) (Game Honpen): Fixed with configuration :hammer_and_wrench:
-- Virtuacall S (Japan) (Disc 2) (Shokai Gentei Yobikake-kun): Playable :white_check_mark:
+- Virtuacall S (Japan) (Disc 1) (Game Honpen): Configurable :hammer_and_wrench:
+- Virtuacall S (Japan) (Disc 2) (Shokai Gentei Yobikake-kun): Playable :heavy_check_mark:
 
 ### Problems without configuration
 

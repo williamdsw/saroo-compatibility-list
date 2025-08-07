@@ -10,7 +10,7 @@
 
 | #   | Game Name   | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played          |
 | --- | ----------- | -------------- | ------- | --------- | --------------- | ------------------ | -------------------- |
-| 1   | GAME SAMPLE | T-99901G       | V1.000  | E         | J               | :white_check_mark: | 1 hour and 5 minutes |
+| 1   | GAME SAMPLE | T-99901G       | V1.000  | E         | J               | :heavy_check_mark: | 1 hour and 5 minutes |
 
 ### Evidence
 

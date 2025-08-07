@@ -23,7 +23,7 @@ Sakura Taisen Hanagumi Tsuushin (Japan) (1M):
 
 ### Status
 
-- Sakura Taisen Hanagumi Tsuushin (Japan) (1M): Playable :white_check_mark:
+- Sakura Taisen Hanagumi Tsuushin (Japan) (1M): Playable :heavy_check_mark:
 - Sakura Taisen Hanagumi Tsuushin (Japan) (2M): Untested :question:
 
 ### Extra Info

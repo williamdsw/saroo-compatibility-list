@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Sega Worldwide Soccer '98 - Club Edition (Europe): Playable :white_check_mark:
+- Sega Worldwide Soccer '98 - Club Edition (Europe): Playable :heavy_check_mark:
 - Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev A): Untested :question:
 - Sega Worldwide Soccer '98 - Club Edition (Europe) (Rev B): Untested :question:
 

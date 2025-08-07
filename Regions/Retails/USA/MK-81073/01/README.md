@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Fighters Megamix (USA): Issues :warning:
+- Fighters Megamix (USA): Errors :x:
 - Fighters Megamix (USA) (RE): Untested :question:
 
 ### Problems

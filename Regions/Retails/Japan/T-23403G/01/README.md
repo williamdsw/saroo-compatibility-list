@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 1): Playable :white_check_mark:
+- Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 1): Playable :heavy_check_mark:
 - Chou Jikuu YoUi Macross - Ai Oboete Imasu ka (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

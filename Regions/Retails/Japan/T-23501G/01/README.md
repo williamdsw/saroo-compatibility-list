@@ -23,7 +23,7 @@ Solo Crisis (Japan) (1M):
 
 ### Status
 
-- Solo Crisis (Japan) (1M): Playable :white_check_mark:
+- Solo Crisis (Japan) (1M): Playable :heavy_check_mark:
 - Solo Crisis (Japan) (2M): Untested :question:
 
 ### Extra Info

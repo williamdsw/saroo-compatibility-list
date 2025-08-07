@@ -30,10 +30,10 @@ Extra info here.
 ### Status
 
 - Perfect :100:
-- Playable :white_check_mark:
-- Fixed with configuration :hammer_and_wrench:
-- Issues :warning:
-- Unplayable :x:
+- Playable :heavy_check_mark:
+- Configurable :hammer_and_wrench:
+- Errors :x:
+- Unplayable :skull:
 - No Boot :finnadie:
 - Untested :question:
 

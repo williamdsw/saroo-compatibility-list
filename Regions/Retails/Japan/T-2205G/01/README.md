@@ -23,7 +23,7 @@ Soukuu no Tsubasa: Gotha World (Japan) (Disc 1):
 
 ### Status
 
-- Soukuu no Tsubasa: Gotha World (Japan) (Disc 1): Playable :white_check_mark:
+- Soukuu no Tsubasa: Gotha World (Japan) (Disc 1): Playable :heavy_check_mark:
 - Soukuu no Tsubasa: Gotha World (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

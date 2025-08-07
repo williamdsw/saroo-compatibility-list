@@ -23,7 +23,7 @@ Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1):
 
 ### Status
 
-- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1): Playable :white_check_mark:
+- Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 1): Playable :heavy_check_mark:
 - Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

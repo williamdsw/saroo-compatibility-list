@@ -23,7 +23,7 @@ Fighting Vipers (Japan) (Rev A):
 
 ### Status
 
-- Fighting Vipers (Japan) (Rev A): Playable :white_check_mark:
+- Fighting Vipers (Japan) (Rev A): Playable :heavy_check_mark:
 - Fighting Vipers (Japan) (Rev C): Untested :question:
 
 ### TODO

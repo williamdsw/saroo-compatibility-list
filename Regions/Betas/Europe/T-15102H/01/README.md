@@ -10,7 +10,7 @@
 
 | Game Name     | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | ------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| CHAOS CONTROL | T-15102H       | V1.100  | E         | JMG             | :white_check_mark: | 26 minutes  |
+| CHAOS CONTROL | T-15102H       | V1.100  | E         | JMG             | :heavy_check_mark: | 26 minutes  |
 
 ### Evidence
 

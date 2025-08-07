@@ -24,7 +24,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 - Super Robot Taisen F - Kanketsu-hen (Japan) (2M, 3M): Untested :question:
 - Super Robot Taisen F - Kanketsu-hen (Japan) (5M): Untested :question:
 - Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (10M): Untested :question:
-- Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M): Playable :white_check_mark:
+- Super Robot Taisen F - Kanketsu-hen (Japan) (Rev A) (11M): Playable :heavy_check_mark:
 
 ### Extra Info
 

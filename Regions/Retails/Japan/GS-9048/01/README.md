@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- J.League Victory Goal '96 (Japan) (1M, 3M): Playable :white_check_mark:
+- J.League Victory Goal '96 (Japan) (1M, 3M): Playable :heavy_check_mark:
 - J.League Victory Goal '96 (Japan) (2M): Untested :question:
 
 ### Extra Info

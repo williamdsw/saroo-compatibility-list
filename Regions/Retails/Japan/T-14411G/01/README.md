@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Playable (> 231111 firmware) :white_check_mark:
-- Fixed with configuration (< 231111 firmware) :hammer_and_wrench:
+- Playable (> 231111 firmware) :heavy_check_mark:
+- Configurable (< 231111 firmware) :hammer_and_wrench:
 
 ### Problems without configuration
 

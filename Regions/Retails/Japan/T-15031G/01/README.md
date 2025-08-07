@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Desire (Japan) (Disc 1) - Playable :white_check_mark:
+- Desire (Japan) (Disc 1) - Playable :heavy_check_mark:
 - Desire (Japan) (Disc 2) (1M) - Untested :question:
 - Desire (Japan) (Disc 2) (2M) - Untested :question:
 

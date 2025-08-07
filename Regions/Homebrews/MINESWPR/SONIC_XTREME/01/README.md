@@ -25,7 +25,7 @@ https://segaxtreme.net/resources/sonic-x-treme-homebrew-version.145/
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

@@ -25,8 +25,8 @@
 
 | Icon                | Name         | Misc                                                         |
 | ------------------- | ------------ | ------------------------------------------------------------ |
-| :white_check_mark:  | Playable     | Playable without issues                                      |
-| :warning:           | Issues       | Problems such as black screens, images, sounds, freezing     |
+| :heavy_check_mark:  | Playable     | Playable without issues                                      |
+| :x:                 | Errors       | Problems such as black screens, images, sounds, freezing     |
 | :hammer_and_wrench: | Configurable | Playable with proper configuration                           |
 | :question:          | Untested     | Game wasn't tested aka `TODO`                                |
 | :finnadie:          | Won't Boot   | Game won't boot / pass the SEGA logo                         |
@@ -42,33 +42,33 @@
 | Langrisser - Dramatic Edition                          | :jp:   | :cd: (2 Discs)     | [Link](../../../Regions/Retails/Japan/T-2507G/01/README.md)   |
 | Langrisser III                                         | :jp:   | :cd: (4 Versions)  | [Link](../../../Regions/Retails/Japan/T-2502G/01/README.md)   |
 | Langrisser IV                                          | :jp:   | :cd: (2 Versions)  | [Link](../../../Regions/Retails/Japan/T-2505G/01/README.md)   |
-| Langrisser V - The End of Legend                       | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-2509G/01/README.md)   |
-| Last Bronx                                             | :eu:   | :warning:          | [Link](../../../Regions/Retails/Europe/MK-81078/01/README.md) |
+| Langrisser V - The End of Legend                       | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-2509G/01/README.md)   |
+| Last Bronx                                             | :eu:   | :x:                | [Link](../../../Regions/Retails/Europe/MK-81078/01/README.md) |
 | Last Bronx (Disc 1) (Arcade Disc)                      | :jp:   | :question:         | TODO                                                          |
 | Last Bronx (Disc 2) (Special Disc)                     | :jp:   | :question:         | TODO                                                          |
-| Last Bronx                                             | :us:   | :warning:          | [Link](../../../Regions/Retails/USA/MK-81078/01/README.md)    |
+| Last Bronx                                             | :us:   | :x:                | [Link](../../../Regions/Retails/USA/MK-81078/01/README.md)    |
 | Last Gladiators                                        | :us:   | :cd: (2 Versions)  | [Link](../../../Regions/Retails/USA/T-4804H/01/README.md)     |
 | Layer Section                                          | :jp:   | :cd: (3 Versions)  | [Link](../../../Regions/Retails/Japan/T-1101G/01/README.md)   |
-| Layer Section II                                       | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-26409G/01/README.md)  |
+| Layer Section II                                       | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-26409G/01/README.md)  |
 | Le Manoir des Ames Perdues                             | :fr:   | :question:         | TODO                                                          |
-| Legend of K-1 - Grand Prix '96                         | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-7503G/01/README.md)   |
-| Legend of K-1 - The Best Collection                    | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-7501G/01/README.md)   |
+| Legend of K-1 - Grand Prix '96                         | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-7503G/01/README.md)   |
+| Legend of K-1 - The Best Collection                    | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-7501G/01/README.md)   |
 | LifeScape - Seimei 40 Okunen Haruka na Tabi            | :jp:   | :cd: (2 Versions)  | [Link](../../../Regions/Retails/Japan/T-26405G/01/README.md)  |
-| LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-26411G/01/README.md)  |
-| Linda³ Kanzenban                                       | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-2112G/01/README.md)   |
-| Linkle Liver Story                                     | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/GS-9055/01/README.md)   |
+| LifeScape 2 - Body Bionics - Kyoui no Shouuchuu Jintai | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-26411G/01/README.md)  |
+| Linda³ Kanzenban                                       | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-2112G/01/README.md)   |
+| Linkle Liver Story                                     | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/GS-9055/01/README.md)   |
 | Loaded                                                 | :eu:   | :cd: (2 Versions)  | [Link](../../../Regions/Retails/Europe/T-12301H/01/README.md) |
-| Loaded                                                 | :us:   | :white_check_mark: | [Link](../../../Regions/Retails/USA/T-12519H/01/README.md)    |
-| Lode Runner - The Legend Returns                       | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-25101G/01/README.md)  |
-| Lode Runner Extra                                      | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-25103G/01/README.md)  |
-| Logic Puzzle Rainbow Town                              | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-4303G/01/README.md)   |
-| LuLu - Un Conte Interactif de Romain Victor-Pujebet    | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/GS-9118/01/README.md)   |
+| Loaded                                                 | :us:   | :heavy_check_mark: | [Link](../../../Regions/Retails/USA/T-12519H/01/README.md)    |
+| Lode Runner - The Legend Returns                       | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-25101G/01/README.md)  |
+| Lode Runner Extra                                      | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-25103G/01/README.md)  |
+| Logic Puzzle Rainbow Town                              | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-4303G/01/README.md)   |
+| LuLu - Un Conte Interactif de Romain Victor-Pujebet    | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/GS-9118/01/README.md)   |
 | Lunacy                                                 | :us:   | :cd: (2 Versions)  | [Link](../../../Regions/Retails/USA/T-14403H/01/README.md)    |
 | Lunar - Silver Star Story                              | :jp:   | :cd: (2 Versions)  | [Link](../../../Regions/Retails/Japan/T-27901G/01/README.md)  |
-| Lunar - Silver Star Story Complete                     | :jp:   | :x:                | [Link](../../../Regions/Retails/Japan/T-27904G/01/README.md)  |
+| Lunar - Silver Star Story Complete                     | :jp:   | :skull:            | [Link](../../../Regions/Retails/Japan/T-27904G/01/README.md)  |
 | Lunar 2 - Eternal Blue                                 | :jp:   | :cd: (2 Discs)     | [Link](../../../Regions/Retails/Japan/T-27906G/01/README.md)  |
-| Lupin Sansei - Pyramid no Kenja                        | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-2004G/01/README.md)   |
-| Lupin the 3rd - The Master File                        | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-18801G/01/README.md)  |
+| Lupin Sansei - Pyramid no Kenja                        | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-2004G/01/README.md)   |
+| Lupin the 3rd - The Master File                        | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-18801G/01/README.md)  |
 | Lupin the 3rd Chronicles                               | :jp:   | :cd: (2 Discs)     | [Link](../../../Regions/Retails/Japan/T-18804G/01/README.md)  |
 
 Navigation:

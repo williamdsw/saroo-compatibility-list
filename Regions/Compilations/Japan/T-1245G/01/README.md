@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Tower of Doom): Playable :white_check_mark:
-- (Disc 2) (Shadow over Mystara): Playable :white_check_mark:
+- (Disc 1) (Tower of Doom): Playable :heavy_check_mark:
+- (Disc 2) (Shadow over Mystara): Playable :heavy_check_mark:
 
 ### Evidence
 

@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Mahjong Kaigan Monogatari: Mahjong Kyou Jidai Sexy Idol Hen (Japan) (2M): Playable :white_check_mark:
+- Mahjong Kaigan Monogatari: Mahjong Kyou Jidai Sexy Idol Hen (Japan) (2M): Playable :heavy_check_mark:
 
 ### Extra Info
 

@@ -31,8 +31,8 @@ Ultimate Mortal Kombat 3 (Europe) (Rev A):
 
 ### Status
 
-- Ultimate Mortal Kombat 3 (Europe): Issues :warning:
-- Ultimate Mortal Kombat 3 (Europe) (Rev A): Issues :warning:
+- Ultimate Mortal Kombat 3 (Europe): Errors :x:
+- Ultimate Mortal Kombat 3 (Europe) (Rev A): Errors :x:
 
 ### Problems
 

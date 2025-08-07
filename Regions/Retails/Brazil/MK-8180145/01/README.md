@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Riven - A Sequência de Myst (Brazil) (Disc 1): Playable :white_check_mark:
+- Riven - A Sequência de Myst (Brazil) (Disc 1): Playable :heavy_check_mark:
 - Riven - A Sequência de Myst (Brazil) (Disc 2): Untested :question:
 - Riven - A Sequência de Myst (Brazil) (Disc 3): Untested :question:
 - Riven - A Sequência de Myst (Brazil) (Disc 4): Untested :question:

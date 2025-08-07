@@ -23,7 +23,7 @@ Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1):
 
 ### Status
 
-- Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1): Playable :white_check_mark:
+- Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1): Playable :heavy_check_mark:
 - Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

@@ -6,7 +6,7 @@
 
 | #   | Game Name              | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | ---------------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | 3D BASEBALL THE MAJORS | T-18003G       | V1.000  | J         | JAT             | :white_check_mark: | 15 minutes  |
+| 1   | 3D BASEBALL THE MAJORS | T-18003G       | V1.000  | J         | JAT             | :heavy_check_mark: | 15 minutes  |
 
 ### Evidence
 

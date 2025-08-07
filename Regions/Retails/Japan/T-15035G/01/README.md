@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc): Playable :white_check_mark:
+- Eve - The Lost One (Japan) (Disc 1) (Kyoko Disc): Playable :heavy_check_mark:
 - Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (2M): Untested :question:
 - Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (1M): Untested :question:
 - Eve - The Lost One (Japan) (Disc 3) (Lost One Disc) (2M): Untested :question:

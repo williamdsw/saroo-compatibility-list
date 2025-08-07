@@ -31,9 +31,9 @@ Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc):
 
 ### Status
 
-- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M): Playable :white_check_mark:
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev A) (10M): Playable :heavy_check_mark:
 - Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 1) (Game Disc) (Rev B) (21M): Untested :question:
-- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc): Issues :warning:
+- Senkutsu Katsuryu Taisen - Chaos Seed (Japan) (Disc 2) (Omake Disc): Errors :x:
 
 ### Problems
 

@@ -6,7 +6,7 @@
 
 | #   | Game Name | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | --------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | FINALIST  | T-18511G       | V1.000  | J         | J               | :white_check_mark: | 18 minutes  |
+| 1   | FINALIST  | T-18511G       | V1.000  | J         | J               | :heavy_check_mark: | 18 minutes  |
 
 ### Evidence
 

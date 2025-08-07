@@ -25,7 +25,7 @@ https://www.romhacking.net/translations/6835
 
 ### Status
 
-- Issues :warning:
+- Errors :x:
 
 ### Problems
 

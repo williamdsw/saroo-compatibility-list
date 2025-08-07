@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Tanjou - Debut S (Japan) (1M): Playable :white_check_mark:
+- Tanjou - Debut S (Japan) (1M): Playable :heavy_check_mark:
 - Tanjou - Debut S (Japan) (5M): Untested :question:
 
 ### Extra Info

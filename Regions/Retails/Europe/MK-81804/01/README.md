@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Deep Fear (Europe) (Disc 1): Issues :warning:
+- Deep Fear (Europe) (Disc 1): Errors :x:
 - Deep Fear (Europe) (Disc 2): Untested :question:
 
 ### Problems

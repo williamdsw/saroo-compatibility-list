@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- NFL '97 (USA): Playable :white_check_mark:
+- NFL '97 (USA): Playable :heavy_check_mark:
 - NFL '97 (USA) (Rev A): Untested :question:
 
 ### Extra Info

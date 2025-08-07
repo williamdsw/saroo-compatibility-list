@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Idol Mahjong: Final Romance R (Kisekae Disc): Playable :white_check_mark:
-- Idol Mahjong: Final Romance R (Kisekae Disc Kanzenban): Playable :white_check_mark:
+- Idol Mahjong: Final Romance R (Kisekae Disc): Playable :heavy_check_mark:
+- Idol Mahjong: Final Romance R (Kisekae Disc Kanzenban): Playable :heavy_check_mark:
 
 ### Evidence
 

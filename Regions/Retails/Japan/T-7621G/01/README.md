@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Mahjong Taikai II Special (Japan) (2M): Playable :white_check_mark:
+- Mahjong Taikai II Special (Japan) (2M): Playable :heavy_check_mark:
 - Mahjong Taikai II Special (Japan) (Rev A) (10M): Untested :question:
 
 ### TODO

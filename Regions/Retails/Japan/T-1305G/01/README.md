@@ -23,7 +23,7 @@ Suiko Enbu: Fuunsaiki (Japan):
 
 ### Status
 
-- Suiko Enbu: Fuunsaiki (Japan): Playable :white_check_mark:
+- Suiko Enbu: Fuunsaiki (Japan): Playable :heavy_check_mark:
 
 ### Extra Info
 

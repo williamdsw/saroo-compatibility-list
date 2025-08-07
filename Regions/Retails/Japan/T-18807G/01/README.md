@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- DJ Wars (Japan) (Rev A) (10M) - Playable :white_check_mark:
+- DJ Wars (Japan) (Rev A) (10M) - Playable :heavy_check_mark:
 
 ### Extra Info
 

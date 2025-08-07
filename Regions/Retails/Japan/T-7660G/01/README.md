@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Winning Post 3 (Japan) (2M): Playable :white_check_mark:
+- Winning Post 3 (Japan) (2M): Playable :heavy_check_mark:
 - Winning Post 3 (Japan) (3M): Untested :question:
 
 ### Extra Info

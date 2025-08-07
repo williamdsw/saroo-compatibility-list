@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- D-Xhird (Japan) (1M): Issues :warning:
+- D-Xhird (Japan) (1M): Errors :x:
 - D-Xhird (Japan) (2M): Untested :question:
 
 ### Extra Info

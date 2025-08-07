@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 1): Fixed with configuration :hammer_and_wrench:
+- Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 1): Configurable :hammer_and_wrench:
 - Kidou Senkan Nadesico - The Blank of 3 Years (Japan) (Disc 2): Untested :question:
 
 ### Problems without configuration

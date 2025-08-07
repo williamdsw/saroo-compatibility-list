@@ -6,7 +6,7 @@
 
 | #   | Game Name   | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | ----------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | 3D BASEBALL | T-15906H       | V1.002  | U         | JAT             | :white_check_mark: | 10 minutes  |
+| 1   | 3D BASEBALL | T-15906H       | V1.002  | U         | JAT             | :heavy_check_mark: | 10 minutes  |
 
 ### Evidence
 

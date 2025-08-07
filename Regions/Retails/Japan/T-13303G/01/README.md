@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Mobile Suit Gundam (Japan): Playable :white_check_mark:
+- Mobile Suit Gundam (Japan): Playable :heavy_check_mark:
 - Mobile Suit Gundam (Japan) (Rev A): Untested :question:
 
 ### Extra Info

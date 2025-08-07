@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Vatlva (Japan) (Rev A): Playable :white_check_mark:
+- Vatlva (Japan) (Rev A): Playable :heavy_check_mark:
 
 ### Extra Info
 

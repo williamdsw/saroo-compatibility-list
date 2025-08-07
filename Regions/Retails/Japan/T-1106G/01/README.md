@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Puzzle Bobble 2X (Japan) (2M2): Playable :white_check_mark:
+- Puzzle Bobble 2X (Japan) (2M2): Playable :heavy_check_mark:
 - Puzzle Bobble 2X (Japan) (2M1, 2MB1): Untested :question:
 
 ### Extra Info

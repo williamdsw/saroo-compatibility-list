@@ -31,8 +31,8 @@ Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 2):
 
 ### Status
 
-- Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 1): Playable :white_check_mark:
-- Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 2): Playable :white_check_mark:
+- Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 1): Playable :heavy_check_mark:
+- Voice Fantasia S: Ushinawareta Voice Power (Japan) (Disc 2): Playable :heavy_check_mark:
 
 ### Extra Info
 

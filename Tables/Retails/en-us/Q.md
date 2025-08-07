@@ -23,8 +23,8 @@
 
 | Icon                | Name         | Misc                                                         |
 | ------------------- | ------------ | ------------------------------------------------------------ |
-| :white_check_mark:  | Playable     | Playable without issues                                      |
-| :warning:           | Issues       | Problems such as black screens, images, sounds, freezing     |
+| :heavy_check_mark:  | Playable     | Playable without issues                                      |
+| :x:                 | Errors       | Problems such as black screens, images, sounds, freezing     |
 | :hammer_and_wrench: | Configurable | Playable with proper configuration                           |
 | :question:          | Untested     | Game wasn't tested aka `TODO`                                |
 | :finnadie:          | Won't Boot   | Game won't boot / pass the SEGA logo                         |
@@ -36,12 +36,12 @@
 
 | Game                                      | Region | Status             | Details                                                        |
 | ----------------------------------------- | ------ | ------------------ | -------------------------------------------------------------- |
-| Quake                                     | :eu:   | :white_check_mark: | [Link](../../../Regions/Retails/Europe/MK-081066/01/README.md) |
-| Quake                                     | :us:   | :white_check_mark: | [Link](../../../Regions/Retails/USA/MK-081066/01/README.md)    |
-| Quantum Gate I: Akumu no Joshou           | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-18502G/01/README.md)   |
-| Quarterback Attack with Mike Ditka        | :us:   | :white_check_mark: | [Link](../../../Regions/Retails/USA/T-16213H/01/README.md)     |
+| Quake                                     | :eu:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Europe/MK-081066/01/README.md) |
+| Quake                                     | :us:   | :heavy_check_mark: | [Link](../../../Regions/Retails/USA/MK-081066/01/README.md)    |
+| Quantum Gate I: Akumu no Joshou           | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-18502G/01/README.md)   |
+| Quarterback Attack with Mike Ditka        | :us:   | :heavy_check_mark: | [Link](../../../Regions/Retails/USA/T-16213H/01/README.md)     |
 | Quiz Nanairo Dreams Nijiirochou no Kiseki | :jp:   | :cd: (2 Versions)  | [Link](../../../Regions/Retails/Japan/T-1220G/01/README.md)    |
-| QuoVadis                                  | :jp:   | :white_check_mark: | [Link](../../../Regions/Retails/Japan/T-17401G/01/README.md)   |
+| QuoVadis                                  | :jp:   | :heavy_check_mark: | [Link](../../../Regions/Retails/Japan/T-17401G/01/README.md)   |
 | QuoVadis 2: Wakusei Kyoushuu Ovan Rei     | :jp:   | :cd: (2 Discs)     | [Link](../../../Regions/Retails/Japan/T-17402G/01/README.md)   |
 
 Navigation:

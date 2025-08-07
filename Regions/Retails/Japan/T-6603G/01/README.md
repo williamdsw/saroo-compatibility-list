@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Puyo Puyo Sun (Japan) (1M, 3M): Playable :white_check_mark:
+- Puyo Puyo Sun (Japan) (1M, 3M): Playable :heavy_check_mark:
 - Puyo Puyo Sun (Japan) (2M): Untested :question:
 - Puyo Puyo Sun (Japan) (Rev A) (10M): Untested :question:
 

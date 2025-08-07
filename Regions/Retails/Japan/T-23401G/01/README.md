@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Return to Zork (Japan) (1M): Playable :white_check_mark:
+- Return to Zork (Japan) (1M): Playable :heavy_check_mark:
 - Return to Zork (Japan) (Rev A) (10M): Untested :question:
 
 ### Extra Info

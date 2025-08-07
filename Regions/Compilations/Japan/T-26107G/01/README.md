@@ -21,9 +21,9 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Roosters: Chariot o Sagashite: Playable :white_check_mark:
-- Chariot: Tenkuu e no Tabi: Playable :white_check_mark:
-- Donpuru: Playable :white_check_mark:
+- Roosters: Chariot o Sagashite: Playable :heavy_check_mark:
+- Chariot: Tenkuu e no Tabi: Playable :heavy_check_mark:
+- Donpuru: Playable :heavy_check_mark:
 
 ### Extra Info
 

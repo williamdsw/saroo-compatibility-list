@@ -23,7 +23,7 @@ Battle Arena Toshinden URA (Europe):
 
 ### Status
 
-- Battle Arena Toshinden URA (Europe): Playable :white_check_mark:
+- Battle Arena Toshinden URA (Europe): Playable :heavy_check_mark:
 
 ### Extra Info
 

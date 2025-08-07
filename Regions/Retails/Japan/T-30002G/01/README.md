@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Real Sound: Kaze no Regret (Japan) (Disc 1) (2M, 3M): Playable :white_check_mark:
+- Real Sound: Kaze no Regret (Japan) (Disc 1) (2M, 3M): Playable :heavy_check_mark:
 - Real Sound: Kaze no Regret (Japan) (Disc 1) (4M): Untested :question:
 - Real Sound: Kaze no Regret (Japan) (Disc 2) (1M): Untested :question:
 - Real Sound: Kaze no Regret (Japan) (Disc 2) (2M): Untested :question:

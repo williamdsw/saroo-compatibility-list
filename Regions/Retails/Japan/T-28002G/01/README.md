@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Kakyuusei (Japan) (Disc 1) (2M): Playable :white_check_mark:
+- Kakyuusei (Japan) (Disc 1) (2M): Playable :heavy_check_mark:
 - Kakyuusei (Japan) (Disc 2) (2M): Untested :question:
 - Kakyuusei (Japan) (Disc 3) (2M): Untested :question:
 

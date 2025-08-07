@@ -28,7 +28,7 @@ https://mega.nz/file/DrAAlSiS#sbLQ09u1Or9eJ1mIk58vY2jXwvnU0n37gpYEk5720Wk
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

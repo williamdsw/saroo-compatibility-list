@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Fighters Megamix (Japan): Playable :white_check_mark:
+- Fighters Megamix (Japan): Playable :heavy_check_mark:
 - Fighters Megamix (Japan) (1M): Untested :question:
 - Fighters Megamix (Japan) (2M): Untested :question:
 

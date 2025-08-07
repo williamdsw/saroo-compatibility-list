@@ -31,8 +31,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc A): Issues :warning:
-- (Disc B): Playable :white_check_mark:
+- (Disc A): Errors :x:
+- (Disc B): Playable :heavy_check_mark:
 
 ### Problems
 

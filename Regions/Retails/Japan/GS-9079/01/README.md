@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Virtua Fighter 2 (Japan) (Rev B) (32B, 37M): Playable :white_check_mark:
+- Virtua Fighter 2 (Japan) (Rev B) (32B, 37M): Playable :heavy_check_mark:
 - Virtua Fighter 2 (Japan) (Rev B) (35C): Untested :question:
 - Virtua Fighter 2 (Japan) (Rev B) (36B, 36C): Untested :question:
 - Virtua Fighter 2 (Japan) (Rev B) (39B): Untested :question:

@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Langrisser III (Japan) (1M): Playable :white_check_mark:
+- Langrisser III (Japan) (1M): Playable :heavy_check_mark:
 - Langrisser III (Japan) (3M): Untested :question:
 - Langrisser III (Japan) (Rev A) (5M): Untested :question:
 - Langrisser III (Japan) (Rev A) (7M): Untested :question:

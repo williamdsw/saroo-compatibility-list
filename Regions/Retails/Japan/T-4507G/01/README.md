@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Grandia (Japan) (Disc 1) (1M): Playable :white_check_mark:
+- Grandia (Japan) (Disc 1) (1M): Playable :heavy_check_mark:
 - Grandia (Japan) (Disc 1) (2M): Untested :question:
 - Grandia (Japan) (Disc 1) (4M): Untested :question:
 - Grandia (Japan) (Disc 2) (1M, 2M): Untested :question:

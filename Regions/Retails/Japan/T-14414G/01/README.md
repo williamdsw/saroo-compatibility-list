@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Minakata Hakudou Toujou (Japan) (Disc 1) (2M): Playable :white_check_mark:
+- Minakata Hakudou Toujou (Japan) (Disc 1) (2M): Playable :heavy_check_mark:
 - Minakata Hakudou Toujou (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

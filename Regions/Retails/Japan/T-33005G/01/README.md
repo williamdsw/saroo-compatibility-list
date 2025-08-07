@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1 (Shougakusei Jidai): Playable :white_check_mark:
+- Disc 1 (Shougakusei Jidai): Playable :heavy_check_mark:
 - Disc 2 (Chuugakusei Jidai): Untested :question:
 - Disc 3 (Koukousei Jidai): Untested :question:
 - Disc 4 (Daigakusei Jidai & Koukou kara Daigaku ni Agaru ma no Haruyasumi): Untested :question:

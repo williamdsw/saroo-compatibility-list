@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Lunar - Silver Star Story (Japan): Playable :white_check_mark:
+- Lunar - Silver Star Story (Japan): Playable :heavy_check_mark:
 - Lunar - Silver Star Story (Japan) (Rev A): Untested :question:
 
 ### Extra Info

@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Fixed with optional configuration :hammer_and_wrench:
+- Configurable :hammer_and_wrench:
 
 ### Random problems without configuration
 

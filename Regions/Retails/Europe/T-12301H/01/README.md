@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Loaded (Europe) (En,Fr,De): Issues :warning:
-- Loaded (Europe) (En,Fr,De) (Alt): Issues :warning:
+- Loaded (Europe) (En,Fr,De): Errors :x:
+- Loaded (Europe) (En,Fr,De) (Alt): Errors :x:
 
 ### Problems
 

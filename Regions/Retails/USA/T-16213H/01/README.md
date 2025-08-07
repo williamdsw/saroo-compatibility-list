@@ -6,7 +6,7 @@
 
 | #   | Game Name                 | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | ------------------------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | Quarterback Attack SATURN | T-16213H       | V1.000  | U         | J               | :white_check_mark: | 10 minutes  |
+| 1   | Quarterback Attack SATURN | T-16213H       | V1.000  | U         | J               | :heavy_check_mark: | 10 minutes  |
 
 ### Evidence
 

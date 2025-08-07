@@ -23,7 +23,7 @@ Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Rev A):
 
 ### Status
 
-- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Rev A): Issues :warning:
+- Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Rev A): Errors :x:
 - Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Shokai Tokutenban) (1M, 3M, 4M): Untested :question:
 - Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1) (Shokai Tokutenban): Untested :question:
 - Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 2) (Rev A) (10M, 11M): Untested :question:

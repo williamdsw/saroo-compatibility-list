@@ -21,8 +21,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Friends: Seishun no Kagayaki (Japan) (Disc 1) (Game Disc): Playable :white_check_mark:
-- Friends: Seishun no Kagayaki (Japan) (Disc 2) (Special Disc): Playable :white_check_mark:
+- Friends: Seishun no Kagayaki (Japan) (Disc 1) (Game Disc): Playable :heavy_check_mark:
+- Friends: Seishun no Kagayaki (Japan) (Disc 2) (Special Disc): Playable :heavy_check_mark:
 
 ### Extra Info
 

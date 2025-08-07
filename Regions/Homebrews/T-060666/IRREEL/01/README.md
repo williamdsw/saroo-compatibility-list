@@ -25,7 +25,7 @@ https://segaxtreme.net/resources/irreel-unreal-for-sega-saturn.140/
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

@@ -26,7 +26,7 @@ https://www.romhacking.net/translations/7327/
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

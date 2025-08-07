@@ -31,10 +31,10 @@ Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc):
 
 ### Status
 
-- Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M) Fixed with configuration :hammer_and_wrench:
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (2M) Configurable :hammer_and_wrench:
 - Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (3M) Untested :question:
 - Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (4M) Untested :question:
-- Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (1M): Playable :white_check_mark:
+- Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (1M): Playable :heavy_check_mark:
 - Pia Carrot e Youkoso!! 2 (Japan) (Disc 2) (Special Disc) (2M): Untested :question:
 
 ### Problems without configuration

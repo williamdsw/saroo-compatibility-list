@@ -33,8 +33,8 @@ Street Fighter Collection (Disc 2) (Europe):
 
 ### Status
 
-- Street Fighter Collection (Disc 1) (Europe): Playable :white_check_mark:
-- Street Fighter Collection (Disc 2) (Europe): Playable :white_check_mark:
+- Street Fighter Collection (Disc 1) (Europe): Playable :heavy_check_mark:
+- Street Fighter Collection (Disc 2) (Europe): Playable :heavy_check_mark:
 
 ### Extra Info
 

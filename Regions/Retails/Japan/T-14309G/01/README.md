@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Momotarou Douchuuki (Japan) (1M): Playable :white_check_mark:
+- Momotarou Douchuuki (Japan) (1M): Playable :heavy_check_mark:
 - Momotarou Douchuuki (Japan) (2M): Untested :question:
 - Momotarou Douchuuki (Japan) (Rev A) (11M): Untested :question:
 

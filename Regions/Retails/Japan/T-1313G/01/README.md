@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Magical Drop III Toretate Zoukangou! (Japan) (2M): Fixed with configuration :hammer_and_wrench:
+- Magical Drop III Toretate Zoukangou! (Japan) (2M): Configurable :hammer_and_wrench:
 
 ### Problems without configuration
 

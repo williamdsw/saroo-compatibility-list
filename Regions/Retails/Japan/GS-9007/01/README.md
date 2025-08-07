@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- WanChai Connection (Japan) (Disc A): Playable :white_check_mark:
+- WanChai Connection (Japan) (Disc A): Playable :heavy_check_mark:
 - WanChai Connection (Japan) (Disc B) (3A, 3C): Untested :question:
 
 ### Extra Info

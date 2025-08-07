@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Houma Hunter Lime Perfect Collection (Japan) (Disc 1): Issues :warning:
+- Houma Hunter Lime Perfect Collection (Japan) (Disc 1): Errors :x:
 - Houma Hunter Lime Perfect Collection (Japan) (Disc 2): Untested :question:
 
 ### Problems

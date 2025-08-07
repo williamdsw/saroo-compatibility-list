@@ -25,7 +25,7 @@ https://segaxtreme.net/resources/utenyaa.285/
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

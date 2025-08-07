@@ -25,7 +25,7 @@ http://daifukkat.su/hacks/rsg_ex/
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

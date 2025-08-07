@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Victory Goal (Japan) (1A): Playable :white_check_mark:
+- Victory Goal (Japan) (1A): Playable :heavy_check_mark:
 - Victory Goal (Japan) (2B): Untested :question:
 - Victory Goal (Japan) (3A): Untested :question:
 

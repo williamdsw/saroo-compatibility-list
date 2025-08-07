@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Riglordsaga (Japan) (Made in Japan) (1M): Playable :white_check_mark:
+- Riglordsaga (Japan) (Made in Japan) (1M): Playable :heavy_check_mark:
 - Riglordsaga (Japan) (Made in Japan) (4M): Untested :question:
 - Riglordsaga (Japan) (Made in U.S.A.) (1S): Untested :question:
 - Riglordsaga (Japan) (Made in U.S.A.) (4S): Untested :question:

@@ -22,7 +22,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 ### Status
 
 - Fighting Vipers (USA) (5S): Untested :question:
-- Fighting Vipers (USA) (6S): Issues :warning:
+- Fighting Vipers (USA) (6S): Errors :x:
 
 ### Problems
 

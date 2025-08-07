@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Roommate 3 - Ryouko Kaze no Kagayaku Asa ni (Japan): Playable :white_check_mark:
+- Roommate 3 - Ryouko Kaze no Kagayaku Asa ni (Japan): Playable :heavy_check_mark:
 - Roommate 3 - Ryouko Kaze no Kagayaku Asa ni (Japan) (Rev A): Untested :question:
 
 ### Extra Info

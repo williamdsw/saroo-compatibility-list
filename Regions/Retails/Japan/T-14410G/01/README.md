@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Senkogu Blade (Japan) (Disc 1): Playable :white_check_mark:
+- Senkogu Blade (Japan) (Disc 1): Playable :heavy_check_mark:
 - Senkogu Blade (Japan) (Disc 2): Untested :question:
 
 ### Extra Info

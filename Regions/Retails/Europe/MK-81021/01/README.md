@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Clockwork Knight 2: Pepperouchau's Adventure (Europe) (2S): Playable :white_check_mark:
+- Clockwork Knight 2: Pepperouchau's Adventure (Europe) (2S): Playable :heavy_check_mark:
 - Clockwork Knight 2: Pepperouchau's Adventure (Europe) (3S): Untested :question:
 
 ### Extra Info

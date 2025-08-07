@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Burst Error (Japan) (Disc 1) (Kojiroh Disc): Playable :white_check_mark:
+- Burst Error (Japan) (Disc 1) (Kojiroh Disc): Playable :heavy_check_mark:
 - Burst Error (Japan) (Disc 2) (Marina Disc): Untested :question:
 - Burst Error (Japan) (Disc 3) (Terror Disc): Untested :question:
 - Burst Error (Japan) (Disc 4) (Making Disc): Untested :question:

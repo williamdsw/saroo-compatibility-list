@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Horror Tour (Japan): Issues :warning:
+- Horror Tour (Japan): Errors :x:
 - Horror Tour (Japan) (Rev B) (12M): Untested :question:
 
 ### Problems

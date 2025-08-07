@@ -31,8 +31,8 @@ Nanatsu Kaze no Shima Monogatari (Japan) (Disc 2):
 
 ### Status
 
-- Nanatsu Kaze no Shima Monogatari (Japan) (Disc 1): Playable :white_check_mark:
-- Nanatsu Kaze no Shima Monogatari (Japan) (Disc 2): Playable :white_check_mark:
+- Nanatsu Kaze no Shima Monogatari (Japan) (Disc 1): Playable :heavy_check_mark:
+- Nanatsu Kaze no Shima Monogatari (Japan) (Disc 2): Playable :heavy_check_mark:
 
 ### Extra Info
 

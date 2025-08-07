@@ -6,15 +6,15 @@
 
 #### 10 Games
 
-- [UEFA Euro 96 - England (Europe)](../../../Regions/Retails/Europe/MK-81180/01/README.md) - :white_check_mark:
-- [Ultimate Mortal Kombat 3 (Europe)](../../../Regions/Retails/Europe/T-25403H/01/README.md) - :warning:
-- [Ultimate Mortal Kombat 3 (USA)](../../../Regions/Retails/USA/T-9701H/01/README.md) - :warning:
-- [Ultraman - Hikari no Kyojin Densetsu (Japan)](../../../Regions/Retails/Japan/T-13308G/01/README.md) - :white_check_mark:
-- [Ultraman Zukan (Japan)](../../../Regions/Retails/Japan/T-25501G/01/README.md) - :white_check_mark:
-- [Ultraman Zukan 2 (Japan)](../../../Regions/Retails/Japan/T-25502G/01/README.md) - :white_check_mark:
-- [Ultraman Zukan 3 (Japan)](../../../Regions/Retails/Japan/T-25505G/01/README.md) - :white_check_mark:
-- [Umanari 1 Furlong Gekijou (Umanari 1 Furlong Theater) (Japan)](../../../Regions/Retails/Japan/T-35001G/01/README.md) - :white_check_mark:
-- [Universal Nuts (Japan)](../../../Regions/Retails/Japan/T-36202G/01/README.md) - :white_check_mark:
+- [UEFA Euro 96 - England (Europe)](../../../Regions/Retails/Europe/MK-81180/01/README.md) - :heavy_check_mark:
+- [Ultimate Mortal Kombat 3 (Europe)](../../../Regions/Retails/Europe/T-25403H/01/README.md) - :x:
+- [Ultimate Mortal Kombat 3 (USA)](../../../Regions/Retails/USA/T-9701H/01/README.md) - :x:
+- [Ultraman - Hikari no Kyojin Densetsu (Japan)](../../../Regions/Retails/Japan/T-13308G/01/README.md) - :heavy_check_mark:
+- [Ultraman Zukan (Japan)](../../../Regions/Retails/Japan/T-25501G/01/README.md) - :heavy_check_mark:
+- [Ultraman Zukan 2 (Japan)](../../../Regions/Retails/Japan/T-25502G/01/README.md) - :heavy_check_mark:
+- [Ultraman Zukan 3 (Japan)](../../../Regions/Retails/Japan/T-25505G/01/README.md) - :heavy_check_mark:
+- [Umanari 1 Furlong Gekijou (Umanari 1 Furlong Theater) (Japan)](../../../Regions/Retails/Japan/T-35001G/01/README.md) - :heavy_check_mark:
+- [Universal Nuts (Japan)](../../../Regions/Retails/Japan/T-36202G/01/README.md) - :heavy_check_mark:
 - [Uno DX (Japan)](../../../Regions/Retails/Japan/T-26414G/01/README.md) - :hammer_and_wrench:
 
 Navigation:

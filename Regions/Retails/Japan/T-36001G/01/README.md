@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- PhantasM (Japan) (Disc 1): Fixed with configuration :hammer_and_wrench:
+- PhantasM (Japan) (Disc 1): Configurable :hammer_and_wrench:
 - PhantasM (Japan) (Disc 2): Untested :question:
 - PhantasM (Japan) (Disc 3) (2M): Untested :question:
 - PhantasM (Japan) (Disc 4): Untested :question:

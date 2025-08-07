@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Panzer Dragoon (Japan) (2M): Playable :white_check_mark:
+- Panzer Dragoon (Japan) (2M): Playable :heavy_check_mark:
 - Panzer Dragoon (Japan) (3A, 3B): Untested :question:
 - Panzer Dragoon (Japan) (4B): Untested :question:
 - Panzer Dragoon (Japan) (5A): Untested :question:

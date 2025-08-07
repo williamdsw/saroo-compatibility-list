@@ -23,7 +23,7 @@ In the Hunt (USA):
 
 ### Status
 
-- In the Hunt (USA): Issues :warning:
+- In the Hunt (USA): Errors :x:
 
 ### Problems
 

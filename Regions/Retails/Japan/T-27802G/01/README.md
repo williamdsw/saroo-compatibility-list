@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Eternal Melody (Japan): Playable :white_check_mark:
+- Eternal Melody (Japan): Playable :heavy_check_mark:
 - Eternal Melody (Japan) (Rev A): Untested :question:
 
 ### Extra Info

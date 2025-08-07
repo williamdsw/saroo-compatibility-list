@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Disc 1: Playable :white_check_mark:
+- Disc 1: Playable :heavy_check_mark:
 - Disc 2: Untested :question:
 
 ### Extra Info

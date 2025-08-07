@@ -25,7 +25,7 @@ https://segaxtreme.net/resources/pixel-poppy-pong.282/
 
 ### Status
 
-- Playable :white_check_mark:
+- Playable :heavy_check_mark:
 
 ### Evidence
 

@@ -6,7 +6,7 @@
 
 | #   | Game Name | Product Number | Version | Area Code | Peripheral Code | Status             | Time Played |
 | --- | --------- | -------------- | ------- | --------- | --------------- | ------------------ | ----------- |
-| 1   | QUAKE     | MK-081066      | V1.019  | U         | EATJ            | :white_check_mark: | 31 minutes  |
+| 1   | QUAKE     | MK-081066      | V1.019  | U         | EATJ            | :heavy_check_mark: | 31 minutes  |
 
 ### Evidence
 

@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Street Fighter - Real Battle on Film (Japan) (2M): Issues :warning:
+- Street Fighter - Real Battle on Film (Japan) (2M): Errors :x:
 - Street Fighter - Real Battle on Film (Japan) (3M): Untested :question:
 - Street Fighter - Real Battle on Film (Japan) (4M): Untested :question:
 

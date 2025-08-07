@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Princess Maker 2 (Japan) (1M): Playable :white_check_mark:
+- Princess Maker 2 (Japan) (1M): Playable :heavy_check_mark:
 - Princess Maker 2 (Japan) (4M): Untested :question:
 
 ### Extra Info

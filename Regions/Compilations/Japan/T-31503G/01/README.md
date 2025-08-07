@@ -31,8 +31,8 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- (Disc 1) (Game Disc): Playable :white_check_mark:
-- (Disc 2) (Special CD): Playable :white_check_mark:
+- (Disc 1) (Game Disc): Playable :heavy_check_mark:
+- (Disc 2) (Special CD): Playable :heavy_check_mark:
 
 ### TODO
 

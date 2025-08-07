@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Layer Section (Japan) (3M): Playable :white_check_mark:
+- Layer Section (Japan) (3M): Playable :heavy_check_mark:
 - Layer Section (Japan) (6M): Untested :question:
 - Layer Section (Japan) (Rev A) (11M): Untested :question:
 

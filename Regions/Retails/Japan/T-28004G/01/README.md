@@ -21,7 +21,7 @@ Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/sa
 
 ### Status
 
-- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc A): Playable :white_check_mark:
+- Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc A): Playable :heavy_check_mark:
 - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc B): Untested :question:
 - Kono Yo no Hate de Koi o Utau Shoujo Yu-No (Japan) (Disc C): Untested :question:
 
