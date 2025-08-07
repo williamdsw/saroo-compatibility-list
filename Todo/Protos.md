@@ -1,0 +1,3 @@
+- Burning Rangers (Japan) (Proto) - TODO
+- Jewels of the Oracle (USA) (Proto 1) - TODO
+- Jewels of the Oracle (USA) (Proto 2) - TODO

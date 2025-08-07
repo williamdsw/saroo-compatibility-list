@@ -1,0 +1,15 @@
+- EGWord Ver 2.00 (Japan) - TODO
+- Pad Nifty (Japan) - TODO
+- Photo CD Operating System (Europe) (2S) - TODO
+- Photo CD Operating System (Europe) - TODO
+- Saturn CG Selection Vol. 1 (Japan) (Rev A) - TODO
+- SegaSaturn Electronic Book Operator (Japan) - TODO
+- SegaSaturn FDD Operator (Japan) - TODO
+- SegaSaturn - Graphic & Sound Tools for Macintosh (Japan) - TODO
+- SegaSaturn Internet 2 (Japan) - TODO
+- SegaSaturn Internet Vol. 1 (Japan) - TODO
+- SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version) - TODO
+- SegaSaturn Photo CD Operator (Japan) (Rev A) - TODO
+- SegaSaturn Photo CD Operator (Japan) - TODO
+- SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) - TODO
+- Special Disc with SegaSaturn Internet 2 (Japan) - TODO

@@ -1,0 +1,3 @@
+- D (USA) (Beta) (1996-02-05) - TODO
+- Shining Force III (USA) (Beta) (1998-04-23) - TODO
+- Shining Wisdom (USA) (Beta) (1996-04-11) - TODO

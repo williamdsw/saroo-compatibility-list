@@ -1,0 +1,1 @@
+- Virtua Fighter CG Portrait Collection (Japan) - TODO

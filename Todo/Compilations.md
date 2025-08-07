@@ -1,0 +1,11 @@
+- Bubble Bobble also featuring Rainbow Islands (Europe) - TODO
+- Clockwork Knight - Pepperouchau no Fukubukuro (Japan) - TODO
+- Falcom Classics II (Japan) (Genteiban) - TODO
+- Falcom Classics II (Japan) - TODO
+- Pad Nifty 1.1 & Habitat II (Japan) - TODO
+- Sega Ages: Volume 1 (Europe) - TODO
+- Sonic Jam (Europe) - TODO
+- Sonic Jam (Japan) (Rev A) - TODO
+- Sonic Jam (Japan) - TODO
+- Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal) - TODO (Recorded)
+- Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) - TODO (Recorded)
