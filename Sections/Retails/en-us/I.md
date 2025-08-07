@@ -24,7 +24,7 @@
 - [Independence Day: The Game (Europe)](../../../Regions/Retails/Europe/T-16104H/01/README.md) - :heavy_check_mark:
 - [International Victory Goal (Europe)](../../../Regions/Retails/Europe/MK-81105/01/README.md) - :heavy_check_mark:
 - [Ippatsu Gyakuten - Gambling King e no Michi (Japan)](../../../Regions/Retails/Japan/T-29602G/01/README.md) - :heavy_check_mark:
-- Iron Man & X-O Manowar in Heavy Metal (Europe) - TODO (Recorded)
+- [Iron Man & X-O Manowar in Heavy Metal (Europe)](../../../Regions/Retails/Europe/T-8119H-50/README.md) - :hammer_and_wrench:
 - [Iron Man & X-O Manowar in Heavy Metal (Japan)](../../../Regions/Retails/Japan/T-8115G/01/README.md) - :heavy_check_mark:
 - [Iron Man & X-O Manowar in Heavy Metal (USA)](../../../Regions/Retails/USA/T-8119H/01/README.md) - :x:
 - [Iron Storm (USA)](../../../Regions/Retails/USA/T-12701H/01/README.md) - :heavy_check_mark:

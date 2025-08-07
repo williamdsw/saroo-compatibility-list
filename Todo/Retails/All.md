@@ -95,7 +95,6 @@
 - D (Germany) (Disc II) - TODO
 - D no Shokutaku (Japan) (Disc 1) - TODO
 - D no Shokutaku (Japan) (Disc 2) - TODO
-- [Dark Legend (USA)](../../../Regions/Retails/USA/T-1305H/02/README.md) - TODO
 - Dark Savior (Europe) - TODO
 - Dark Savior (Japan) - TODO
 - Darklight Conflict (Europe) - TODO
@@ -165,18 +164,15 @@
 
 ## H
 
-- Hang On GP '95 (Japan) (1M) - TODO (Recorded)
 - Hang On GP '95 (Japan) (2M) - TODO
 - Hang On GP '96 (Europe) - TODO
-- [Hebereke's Popoitto (Europe)](../../../Regions/Retails/Europe/T-1502H/01/README.md) - :x: (TODO - Update)
 - Hexen - Beyond Heretic (Japan) - TODO
 - Hi-Octane (Japan) - TODO
-- [Hissatsu Pachinko Collection (Japan)](../../../Regions/Retails/Japan/T-1503G/01/README.md) - :finnadie: (TODO - Update?)
+- Hissatsu Pachinko Collection (Japan) (Rev A)
 
 ## I
 
 - In the Hunt (Europe) - TODO
-- Iron Man & X-O Manowar in Heavy Metal (Europe) - TODO (Recorded)
 
 ## J
 
@@ -201,7 +197,6 @@
 - Magic Knight Rayearth (Japan) (Genteiban) (2M, 3M) - TODO
 - Mass Destruction (Europe) - TODO
 - MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (Europe) - TODO
-- [Metal Slug - Super Vehicle-001 (Japan)](../../../Regions/Retails/Japan/T-3111G/01/README.md) - :x: (TODO - Update)
 - Moero!! Pro Yakyuu '95 - Double Header (Japan) - TODO
 - Mr. Bones (Europe) (Disc 1) - TODO
 - Mr. Bones (Europe) (Disc 2) - TODO
@@ -261,7 +256,7 @@
 - Primal Rage (Japan) - TODO
 - Pro-Pinball: The Web (Europe) - TODO
 - Puyo Puyo Sun for SegaNet (Japan) - TODO
-- Puzzle Bobble 3 (Japan) (1M) - TODO (Recorded)
+- Puzzle Bobble 3 (Japan) (1M) - TODO
 - Puzzle Bobble 3 (Japan) (2M) - TODO
 - Puzzle Bobble 3 for SegaNet (Japan) - TODO
 
@@ -278,7 +273,6 @@
 - Revolution X - Music Is the Weapon (Europe) - TODO
 - Revolution X - Music Is the Weapon (Germany) (5S) - TODO
 - Revolution X - Music Is the Weapon (Japan) (10S) - TODO
-- [Riglordsaga 2 (Japan)](../../../Regions/Retails/Japan/GS-9084/01/README.md) - TODO
 - Rise 2 - Resurrection (Europe) - TODO
 - Rise 2 - Resurrection (Japan) - TODO
 - Riven - The Sequel to Myst (Europe) (Disc 1) - TODO
@@ -295,8 +289,6 @@
 
 ## S
 
-- [Sakura Taisen Teigeki Graph (Japan)](../../../Regions/Retails/Japan/T-32602G/01/README.md) - TODO
-- [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../../Regions/Retails/Japan/SKR-00468/01/README.md) - TODO
 - Sangokushi IV with Power-Up Kit (Japan) - TODO
 - Sangokushi V (Japan) - TODO
 - Sangokushi V (Japan) (Rev A) - TODO
@@ -317,7 +309,7 @@
 - Shellshock (Europe) - TODO
 - Shellshock (France) - TODO
 - Shellshock (Germany) - TODO
-- [Shichuu Suimei Pitagraph (Japan)](../../../Regions/Retails/Japan/T-19501G/01/README.md) - TODO
+- [Shichuu Suimei Pitagraph (Japan)](../../Regions/Retails/Japan/T-19501G/01/README.md) - TODO
 - Shining Force III (Europe) (R) - TODO
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A) - TODO
 - Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) - TODO

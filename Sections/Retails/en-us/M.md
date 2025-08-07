@@ -75,7 +75,7 @@
 - [Message Navi Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-4404G/01/README.md) - :heavy_check_mark:
 - [Metal Black (Japan)](../../../Regions/Retails/Japan/T-19902G/01/README.md) - :heavy_check_mark:
 - [Metal Fighter Miku (Japan)](../../../Regions/Retails/Japan/T-6002G/01/README.md) - :heavy_check_mark:
-- [Metal Slug - Super Vehicle-001 (Japan)](../../../Regions/Retails/Japan/T-3111G/01/README.md) - :x: (TODO - Update)
+- [Metal Slug - Super Vehicle-001 (Japan)](../../../Regions/Retails/Japan/T-3111G/README.md) - :minidisc: 2x
 - [Mezase Idol Star!! Natsuiro Memories: Mahjong Hen (Japan)](../../../Regions/Retails/Japan/T-31001G/01/README.md) - :heavy_check_mark:
 - [Mighty Hits (Europe)](../../../Regions/Retails/Europe/MK-81087/01/README.md) - :heavy_check_mark:
 - [Mighty Hits (Japan)](../../../Regions/Retails/Japan/T-16604G/01/README.md) - :x:

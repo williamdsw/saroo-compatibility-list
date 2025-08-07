@@ -12,9 +12,9 @@
 - [Hanagumi Taisen Columns (Japan)](../../../Regions/Retails/Japan/GS-9138/01/README.md) - :heavy_check_mark:
 - [Sakura Taisen Hanagumi Tsuushin (Japan)](../../../Regions/Retails/Japan/GS-9134/01/README.md) - :heavy_check_mark:
 - [Sakura Taisen Jouki Radio Show (Japan)](../../../Regions/Retails/Japan/GS-9160/01/README.md) - :heavy_check_mark:
-- [Sakura Taisen Teigeki Graph (Japan)](../../../Regions/Retails/Japan/T-32602G/01/README.md) - TODO
+- [Sakura Taisen Teigeki Graph (Japan)](../../../Regions/Retails/Japan/T-32602G/01/README.md) - :heavy_check_mark:
 - [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../../Regions/Retails/Japan/GS-9169/01/README.md) - :x: & :question:
-- [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../../Regions/Retails/Japan/SKR-00468/01/README.md) - TODO
+- [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../../Regions/Retails/Japan/SKR-00468/01/README.md) - :heavy_check_mark:
 - [Sakura Tsuushin (Japan)](../../../Regions/Retails/Japan/T-38401G/01/README.md) - :heavy_check_mark:
 - [Samurai Spirits - Amakusa Kourin (Japan)](../../../Regions/Retails/Japan/T-3116G/01/README.md) - :heavy_check_mark:
 - [Samurai Spirits - Zankurou Musouken (Japan)](../../../Regions/Retails/Japan/T-3104G/01/README.md) - :heavy_check_mark:
@@ -92,7 +92,7 @@
 - [Shellshock (USA)](../../../Regions/Retails/USA/T-7901H/01/README.md) - :x:
 - [Shellshock - Jus' Keepin' da Peace (Japan)](../../../Regions/Retails/Japan/T-10607G/01/README.md) - :x:
 - [Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen (Japan)](../../../Regions/Retails/Japan/T-1242G/01/README.md) - :heavy_check_mark:
-- [Shichuu Suimei Pitagraph (Japan)](../../../Regions/Retails/Japan/T-19501G/01/README.md) - TODO
+- [Shichuu Suimei Pitagraph (Japan)](../../Regions/Retails/Japan/T-19501G/01/README.md) - TODO
 - [Shienryuu (Japan)](../../../Regions/Retails/Japan/T-29102G/01/README.md) - :heavy_check_mark:
 - [Shin Kaitei Gunkan: Koutetsu no Kodoku (Japan)](../../../Regions/Retails/Japan/T-2105G/01/README.md) - :heavy_check_mark:
 - [Shin Megami Tensei: Devil Summoner (Japan)](../../../Regions/Retails/Japan/T-14403G/01/README.md) - :x:

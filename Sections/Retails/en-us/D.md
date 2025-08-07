@@ -31,7 +31,7 @@
 - [Darius II (Japan)](../../../Regions/Retails/Japan/T-1104G/01/README.md) - :heavy_check_mark:
 - [Dark Hunter (Ge) Youma no Mori (Japan)](../../../Regions/Retails/Japan/T-7632G/01/README.md) - :heavy_check_mark:
 - [Dark Hunter (Jou) Ijigen Gakuen (Japan)](../../../Regions/Retails/Japan/T-7631G/01/README.md) - :heavy_check_mark:
-- [Dark Legend (USA)](../../../Regions/Retails/USA/T-1305H/02/README.md) - TODO
+- [Dark Legend (USA)](../../../Regions/Retails/USA/T-1305H/README.md) - :100:
 - Dark Savior (Europe) - TODO
 - Dark Savior (Japan) - TODO
 - [Dark Savior (USA)](../../../Regions/Retails/USA/MK-81304/01/README.md) - :hammer_and_wrench:

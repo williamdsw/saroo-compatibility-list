@@ -31,7 +31,7 @@
 - Revolution X - Music Is the Weapon (Japan) (10S) - TODO
 - [Revolution X - Music is the Weapon featuring Aerosmith (USA)](../../../Regions/Retails/USA/T-8107H/01/README.md) - :heavy_check_mark:
 - [Riglordsaga (Japan)](../../../Regions/Retails/Japan/GS-9021/01/README.md) - :heavy_check_mark:
-- [Riglordsaga 2 (Japan)](../../../Regions/Retails/Japan/GS-9084/01/README.md) - TODO
+- [Riglordsaga 2 (Japan)](../../../Regions/Retails/Japan/GS-9084/README.md) - :minidisc: 2x
 - Rise 2 - Resurrection (Europe) - TODO
 - Rise 2 - Resurrection (Japan) - TODO
 - [Rise 2 - Resurrection (USA)](../../../Regions/Retails/USA/T-8114-H/01/README.md) - :heavy_check_mark:
