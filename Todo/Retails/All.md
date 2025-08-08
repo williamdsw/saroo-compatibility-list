@@ -374,7 +374,6 @@
 - The Horde (Germany) - TODO
 - The Horde (Japan) - TODO
 - The Incredible Hulk - The Pantheon Saga (Europe) - TODO
-- [The King of Fighters '95 (Europe)](../../../Regions/Retails/Europe/MK-81088/01/README.md) - :skull: (TODO - Update)
 - The Lost World - Jurassic Park (Europe) - TODO
 - The Mansion of Hidden Souls (Europe) (1S) - TODO
 - The Mansion of Hidden Souls (Europe) (4S) - TODO
@@ -438,5 +437,4 @@
 - World Series Baseball (Europe) - TODO
 - World Series Baseball II (Europe) - TODO
 - World Series Baseball II (Japan) - TODO
-- [Worldwide Soccer: Sega International Victory Goal Edition (USA)](../../../Regions/Retails/USA/MK-81105/01/README.md) - :heavy_check_mark:
 - Worms (Europe) - TODO

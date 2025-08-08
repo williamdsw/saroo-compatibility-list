@@ -108,7 +108,7 @@
 - [Discworld (Japan)](../../../Regions/Retails/Japan/T-20502G/01/README.md) - :heavy_check_mark:
 - [Discworld II - Missing Presumed...! (Europe)](../../../Regions/Retails/Europe/MK-81093/01/README.md) - :x:
 - [DoDonPachi (Japan)](../../../Regions/Retails/Japan/T-14419G/01/README.md) - :heavy_check_mark:
-- [DonPachi (Japan)](../../../Regions/Retails/Japan/T-14405G/01/README.md) - :x:
+- [DonPachi (Japan)](../../../Regions/Retails/Japan/T-14405G/README.md) - :100:
 - Doom (Europe) (R) - TODO
 - Doom (Japan) - TODO
 - [Doom (USA)](../../../Regions/Retails/USA/T-25405H/01/README.md) - :heavy_check_mark:

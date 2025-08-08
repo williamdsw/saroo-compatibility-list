@@ -21,7 +21,7 @@
 - Batman Forever: The Arcade Game (Europe) - TODO
 - Batman Forever: The Arcade Game (Japan) - TODO
 - [Batman Forever: The Arcade Game (USA)](../../../Regions/Retails/USA/T-8140H/01/README.md) - :hammer_and_wrench:
-- [Batsugun (Japan)](../../../Regions/Retails/Japan/T-1248G/01/README.md) - :heavy_check_mark:
+- [Batsugun (Japan)](../../../Regions/Retails/Japan/T-20605G/01/README.md) - :heavy_check_mark:
 - Battle Arena Toshinden Remix (Europe) - TODO
 - [Battle Arena Toshinden Remix (USA)](../../../Regions/Retails/USA/MK-81029/01/README.md) - :heavy_check_mark:
 - [Battle Arena Toshinden URA (Europe)](../../../Regions/Retails/Europe/MK-81054/01/README.md) - :heavy_check_mark:

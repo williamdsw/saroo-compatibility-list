@@ -34,7 +34,7 @@
 - Saturn Bomberman (Europe) - TODO (Recorded)
 - Saturn Bomberman (Japan) (SegaNet) - TODO
 - [Saturn Bomberman (Japan)](../../../Regions/Retails/Japan/T-14302G/01/README.md) - :heavy_check_mark:
-- [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/01/README.md) - :heavy_check_mark:
+- [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/README.md) - :100:
 - [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/01/README.md) - :heavy_check_mark:
 - Saturn Music School (Japan) - TODO
 - Saturn Music School 2 (Japan) (Rev A) - TODO
@@ -80,7 +80,7 @@
 - [Sentimental Graffiti (Japan)](../../../Regions/Retails/Japan/T-20106G/01/README.md) - :question:
 - [Sentimental Graffiti: First Window (Japan)](../../../Regions/Retails/Japan/T-20111G/01/README.md) - :heavy_check_mark:
 - [Sento Monogatari Sono I (Japan)](../../../Regions/Retails/Japan/T-6801G/01/README.md) - :heavy_check_mark:
-- [Sexy Parodius (Japan)](../../../Regions/Retails/Japan/T-9514G/01/README.md) - :heavy_check_mark:
+- [Sexy Parodius (Japan)](../../../Regions/Retails/Japan/T-9514G/README.md) - :100:
 - [Shadows of the Tusk (Japan)](../../../Regions/Retails/Japan/T-14319G/01/README.md) - :heavy_check_mark:
 - [Shanghai: Banri no Choujou (Japan)](../../../Regions/Retails/Japan/T-1505G/01/README.md) - :heavy_check_mark:
 - [Shanghai: Great Moments (Japan)](../../../Regions/Retails/Japan/T-1512G/01/README.md) - :heavy_check_mark:
@@ -162,7 +162,7 @@
 - [Snatcher (Japan)](../../../Regions/Retails/Japan/T-9508G/01/README.md) - :heavy_check_mark:
 - [Söldnerschild (Japan)](../../../Regions/Retails/Japan/GS-9155/01/README.md) - :heavy_check_mark:
 - [Sokkou Seitokai (Japan)](../../../Regions/Retails/Japan/T-20611G/01/README.md) - :x:
-- [Sol Divide (Japan)](../../../Regions/Retails/Japan/T-14423G/01/README.md) - :heavy_check_mark:
+- [Sol Divide (Japan)](../../../Regions/Retails/Japan/T-14423G/README.md) - :100:
 - [Solar Eclipse (USA)](../../../Regions/Retails/USA/T-15911H/01/README.md) - :heavy_check_mark:
 - [Solo Crisis (Japan)](../../../Regions/Retails/Japan/T-23501G/01/README.md) - :heavy_check_mark:
 - [Sonic 3D: Flickies' Island (Europe)](../../../Regions/Retails/Europe/MK-8106250/01/README.md) - :heavy_check_mark:
@@ -247,7 +247,7 @@
 - [Super Adventure Rockman (Japan)](../../../Regions/Retails/Japan/T-1225G/01/README.md) - :question:
 - [Super Casino Special (Japan)](../../../Regions/Retails/Japan/T-7306G/01/README.md) - :heavy_check_mark:
 - [Super Puzzle Fighter II Turbo (Europe)](../../../Regions/Retails/Europe/T-7030H-50/01/README.md) - :heavy_check_mark:
-- [Super Puzzle Fighter II Turbo (USA)](../../../Regions/Retails/USA/T-1215H/01/README.md) - :heavy_check_mark:
+- [Super Puzzle Fighter II Turbo (USA)](../../../Regions/Retails/USA/T-1215H/README.md) - :100:
 - [Super Puzzle Fighter II X (Japan)](../../../Regions/Retails/Japan/T-1213G/01/README.md) - :heavy_check_mark:
 - [Super Real Mahjong PV (Japan)](../../../Regions/Retails/Japan/T-16501G/01/README.md) - :heavy_check_mark:
 - [Super Real Mahjong P7 (Japan)](../../../Regions/Retails/Japan/T-16509G/01/README.md) - :x:

@@ -63,10 +63,10 @@
 - The Incredible Hulk - The Pantheon Saga (Europe) - TODO
 - [The Incredible Hulk - The Pantheon Saga (USA)](../../../Regions/Retails/USA/T-7905H/01/README.md) - :hammer_and_wrench:
 - [The King of Boxing (Japan)](../../../Regions/Retails/Japan/T-6001G/01/README.md) - :heavy_check_mark:
-- [The King of Fighters '95 (Europe)](../../../Regions/Retails/Europe/MK-81088/01/README.md) - :skull: (TODO - Update)
+- [The King of Fighters '95 (Europe)](../../../Regions/Retails/Europe/MK-81088/README.md) - :heavy_check_mark:
 - [The King of Fighters '95 (Japan)](../../../Regions/Retails/Japan/T-3101G/01/README.md) - :hammer_and_wrench:
 - [The King of Fighters '96 (Japan)](../../../Regions/Retails/Japan/T-3108G/01/README.md) - :x:
-- [The King of Fighters '97 (Japan)](../../../Regions/Retails/Japan/T-3121G/01/README.md) - :heavy_check_mark:
+- [The King of Fighters '97 (Japan)](../../../Regions/Retails/Japan/T-3121G/README.md) - :100:
 - [The Legend of Heroes I & II - Eiyuu Densetsu (Japan)](../../../Regions/Retails/Japan/T-37101G/01/README.md) - :heavy_check_mark:
 - [The Legend of Oasis (USA)](../../../Regions/Retails/USA/MK-81302/01/README.md) - :heavy_check_mark:
 - [The Lost Vikings 2 - Norse by Norsewest (Europe)](../../../Regions/Retails/Europe/T-12521H50/01/README.md) - :heavy_check_mark:
