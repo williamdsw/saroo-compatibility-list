@@ -20,9 +20,9 @@
 - [Virtua Cop (Europe)](../../../Regions/Retails/Europe/MK-81015/01/README.md) - :heavy_check_mark:
 - [Virtua Cop (Japan)](../../../Regions/Retails/Japan/GS-9060/01/README.md) - :heavy_check_mark:
 - [Virtua Cop (USA)](../../../Regions/Retails/USA/MK-81015/01/README.md) - :heavy_check_mark:
-- [Virtua Cop 2 (Europe)](../../../Regions/Retails/Europe/MK-81043/01/README.md) - :heavy_check_mark:
-- [Virtua Cop 2 (Japan)](../../../Regions/Retails/Japan/GS-9097/01/README.md) - :heavy_check_mark:
-- [Virtua Cop 2 (USA)](../../../Regions/Retails/USA/MK-81043/01/README.md) - :heavy_check_mark:
+- [Virtua Cop 2 (Europe)](../../../Regions/Retails/Europe/MK-81043/README.md) - :heavy_check_mark:
+- [Virtua Cop 2 (Japan)](../../../Regions/Retails/Japan/GS-9097/README.md) - :minidisc: 3x
+- [Virtua Cop 2 (USA)](../../../Regions/Retails/USA/MK-81043/README.md) - :100:
 - Virtua Fighter (Europe) (Made in EU) - TODO
 - Virtua Fighter (Europe) (Made in USA) - TODO
 - Virtua Fighter (Japan) - TODO

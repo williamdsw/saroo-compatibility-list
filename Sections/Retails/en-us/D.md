@@ -50,7 +50,7 @@
 - [Dejig Lassen: Art Collection (Japan)](../../../Regions/Retails/Japan/T-30304G/01/README.md) - :heavy_check_mark:
 - [Dejig McKnight: Art Collection (Japan)](../../../Regions/Retails/Japan/T-30305G/01/README.md) - :heavy_check_mark:
 - [Dejig Tin Toy (Japan)](../../../Regions/Retails/Japan/T-30302G/01/README.md) - :heavy_check_mark:
-- [Dead Or Alive (Japan)](../../../Regions/Retails/Japan/T-3603G/01/README.md) - :heavy_check_mark:
+- [Dead Or Alive (Japan)](../../../Regions/Retails/Japan/T-3603G/README.md) - :minidisc: 3x
 - [Deadalus (Japan)](../../../Regions/Retails/Japan/SG-9008/01/README.md) - :heavy_check_mark:
 - [Death Crimson (Japan)](../../../Regions/Retails/Japan/T-23202G/01/README.md) - :heavy_check_mark:
 - [Death Throttle: Kakuzetsu Toshi kara no Dasshutsu (Japan)](../../../Regions/Retails/Japan/T-26403G/01/README.md) - :heavy_check_mark:
@@ -107,7 +107,7 @@
 - [DiscStation Bessatsu i miss you. (Japan)](../../../Regions/Retails/Japan/6106732/01/README.md) - :heavy_check_mark:
 - [Discworld (Japan)](../../../Regions/Retails/Japan/T-20502G/01/README.md) - :heavy_check_mark:
 - [Discworld II - Missing Presumed...! (Europe)](../../../Regions/Retails/Europe/MK-81093/01/README.md) - :x:
-- [DoDonPachi (Japan)](../../../Regions/Retails/Japan/T-14419G/01/README.md) - :heavy_check_mark:
+- [DoDonPachi (Japan)](../../../Regions/Retails/Japan/T-14419G/README.md) - :100:
 - [DonPachi (Japan)](../../../Regions/Retails/Japan/T-14405G/README.md) - :100:
 - Doom (Europe) (R) - TODO
 - Doom (Japan) - TODO

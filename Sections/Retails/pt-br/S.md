@@ -16,8 +16,8 @@
 - [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../../Regions/Retails/Japan/GS-9169/01/README.md) - :x: & :question:
 - [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../../Regions/Retails/Japan/SKR-00468/01/README.md) - :heavy_check_mark:
 - [Sakura Tsuushin (Japan)](../../../Regions/Retails/Japan/T-38401G/01/README.md) - :heavy_check_mark:
-- [Samurai Spirits - Amakusa Kourin (Japan)](../../../Regions/Retails/Japan/T-3116G/01/README.md) - :heavy_check_mark:
-- [Samurai Spirits - Zankurou Musouken (Japan)](../../../Regions/Retails/Japan/T-3104G/01/README.md) - :heavy_check_mark:
+- [Samurai Spirits - Amakusa Kourin (Japan)](../../../Regions/Retails/Japan/T-3116G/README.md) - :100:
+- [Samurai Spirits - Zankurou Musouken (Japan)](../../../Regions/Retails/Japan/T-3104G/README.md) - :100:
 - [Sangokushi Eiketsuden (Japan)](../../../Regions/Retails/Japan/T-7613G/01/README.md) - :heavy_check_mark:
 - [Sangokushi Koumeiden (Japan)](../../../Regions/Retails/Japan/T-7629G/01/README.md) - :heavy_check_mark:
 - [Sangokushi Returns (Japan)](../../../Regions/Retails/Japan/T-7617G/01/README.md) - :heavy_check_mark:
@@ -224,7 +224,7 @@
 - [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/01/README.md) - :heavy_check_mark:
 - Street Fighter Collection (Japan) (Disc 1) - TODO
 - Street Fighter Collection (Japan) (Disc 2) - TODO
-- [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/01/README.md) - :heavy_check_mark:
+- [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/README.md) - :disc: 2x
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
 - [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/01/README.md) - :heavy_check_mark:

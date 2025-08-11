@@ -53,7 +53,7 @@
 - [Marvel Super Heroes (Europe)](../../../Regions/Retails/Europe/T-7032H-50/01/README.md) - :x:
 - [Marvel Super Heroes (Japan)](../../../Regions/Retails/Japan/T-1215G/01/README.md) - :x:
 - [Marvel Super Heroes (USA)](../../../Regions/Retails/USA/T-1214H/01/README.md) - :heavy_check_mark:
-- [Marvel Super Heroes vs. Street Fighter (Japan)](../../../Regions/Retails/Japan/T-1238G/01/README.md) - :heavy_check_mark:
+- [Marvel Super Heroes vs. Street Fighter (Japan)](../../../Regions/Retails/Japan/T-1238G/README.md) - :100:
 - Mass Destruction (Europe) - TODO
 - [Mass Destruction (USA)](../../../Regions/Retails/USA/T-18007H/01/README.md) - :heavy_check_mark:
 - [Mass Destruction - OtoUn ni mo Dekiru Soft (Japan)](../../../Regions/Retails/Japan/T-18007G/01/README.md) - :heavy_check_mark:
@@ -68,7 +68,7 @@
 - [Media ROMancer Daisuke Asakura (Japan)](../../../Regions/Retails/Japan/T-25001G/01/README.md) - :heavy_check_mark:
 - [Mega Man 8 (USA)](../../../Regions/Retails/USA/T-1216H/01/README.md) - :heavy_check_mark:
 - [Mega Man X3 (Europe)](../../../Regions/Retails/Europe/T-7029H-50/01/README.md) - :x:
-- [Mega Man X4 (USA)](../../../Regions/Retails/USA/T-1219H/01/README.md) - :100:
+- [Mega Man X4 (USA)](../../../Regions/Retails/USA/T-1219H/README.md) - :100:
 - [MeltyLancer: Ginga Shoujo Keisatsu 2086 (Japan)](../../../Regions/Retails/Japan/T-15016G/01/README.md) - :heavy_check_mark:
 - [MeltyLancer Re-inforce (Japan)](../../../Regions/Retails/Japan/T-15038G/01/README.md) - :question:
 - [Message Navi (Japan)](../../../Regions/Retails/Japan/T-4401G/01/README.md) - :heavy_check_mark:

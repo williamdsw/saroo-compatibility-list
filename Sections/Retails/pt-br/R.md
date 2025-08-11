@@ -17,8 +17,8 @@
 - Rayman (Europe) (6S) - TODO
 - [Rayman (Japan)](../../../Regions/Retails/Japan/T-17701G/01/README.md) - :heavy_check_mark:
 - [Rayman (USA)](../../../Regions/Retails/USA/T-17701G/01/README.md) - :heavy_check_mark:
-- [Real Bout Garou Densetsu (Japan)](../../../Regions/Retails/Japan/T-3105G/01/README.md) - :heavy_check_mark:
-- [Real Bout Garou Densetsu Special (Japan)](../../../Regions/Retails/Japan/T-3119G/01/README.md) - :heavy_check_mark:
+- [Real Bout Garou Densetsu (Japan)](../../../Regions/Retails/Japan/T-3105G/README.md) - :100:
+- [Real Bout Garou Densetsu Special (Japan)](../../../Regions/Retails/Japan/T-3119G/README.md) - :minidisc: 2x
 - Real Mahjong Adventure "Umi-He": Summer Waltz (Japan) (P's Club Genteiban) - TODO
 - [Real Mahjong Adventure "Umi-He": Summer Waltz (Japan)](../../../Regions/Retails/Japan/T-16511G/01/README.md) - :heavy_check_mark:
 - [Real Sound - Kaze no Regret (Japan)](../../../Regions/Retails/Japan/T-30002G/01/README.md) - :question:
@@ -58,7 +58,7 @@
 - Robotica - Cybernation Revolt (Europe) - TODO (Recorded)
 - Rockman 8 - Metal Heroes (Japan) - TODO (Recorded)
 - [Rockman X3 (Japan)](../../../Regions/Retails/Japan/T-1210G/01/README.md) - :heavy_check_mark:
-- [Rockman X4 (Japan)](../../../Regions/Retails/Japan/T-1221G/01/README.md) - :100:
+- [Rockman X4 (Japan)](../../../Regions/Retails/Japan/T-1221G/README.md) - :minidisc: 2x
 - [Romance of the Three Kingdoms IV - Wall of Fire (USA)](../../../Regions/Retails/USA/T-7601H/01/README.md) - :heavy_check_mark:
 - [Ronde (Japan)](../../../Regions/Retails/Japan/T-14415G/01/README.md) - :question:
 - [Roommate - Inoue Ryouko (Japan)](../../../Regions/Retails/Japan/T-19502G/01/README.md) - :heavy_check_mark:

@@ -416,7 +416,7 @@
 | DiscStation Bessatsu i miss you.                        | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/6106732/01/README.md)     |
 | Discworld                                               | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-20502G/01/README.md)    |
 | Discworld II - Missing Presumed...!                     | :eu:   | :x:                 | [Link](../../Regions/Retails/Europe/MK-81093/01/README.md)   |
-| DoDonPachi                                              | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-14419G/01/README.md)    |
+| DoDonPachi                                              | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-14419G/README.md)       |
 | DonPachi                                                | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-14405G/README.md)       |
 | Doom (R)                                                | :eu:   | :question:          | TODO                                                         |
 | Doom                                                    | :jp:   | :question:          | TODO                                                         |
@@ -560,7 +560,7 @@
 | Game no Tatsujin                                         | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-1502G/01/README.md)     |
 | Game no Tatsujin 2                                       | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-1509G/01/README.md)     |
 | Game no Tatsujin: The Shanghai                           | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-1506G/01/README.md)     |
-| Garou Densetsu 3 - Road to the Final Victory             | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-3102G/01/README.md)     |
+| Garou Densetsu 3 - Road to the Final Victory             | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-3102G/README.md)        |
 | Gegege no Kitarou: Gentou Kaikitan                       | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-13310G/01/README.md)    |
 | Gekiretsu Pachinkers                                     | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-29601G/01/README.md)    |
 | Gekirindan                                               | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-7008G/01/README.md)     |
@@ -867,7 +867,7 @@
 | Marvel Super Heroes                                                             | :eu:   | :x:                 | [Link](../../Regions/Retails/Europe/T-7032H-50/01/README.md)  |
 | Marvel Super Heroes                                                             | :jp:   | :x:                 | [Link](../../Regions/Retails/Japan/T-1215G/01/README.md)      |
 | Marvel Super Heroes                                                             | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/T-1214H/01/README.md)        |
-| Marvel Super Heroes vs. Street Fighter                                          | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-1238G/01/README.md)      |
+| Marvel Super Heroes vs. Street Fighter                                          | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-1238G/README.md)         |
 | Mass Destruction                                                                | :eu:   | :question:          | TODO                                                          |
 | Mass Destruction                                                                | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/T-18007H/01/README.md)       |
 | Mass Destruction - OtoUn ni mo Dekiru Soft                                      | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-18007G/01/README.md)     |
@@ -882,7 +882,7 @@
 | Media ROMancer Daisuke Asakura                                                  | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-25001G/01/README.md)     |
 | Mega Man 8                                                                      | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/T-1216H/01/README.md)        |
 | Mega Man X3                                                                     | :eu:   | :x:                 | [Link](../../Regions/Retails/Europe/T-7029H-50/01/README.md)  |
-| Mega Man X4                                                                     | :us:   | :100:               | [Link](../../Regions/Retails/USA/T-1219H/01/README.md)        |
+| Mega Man X4                                                                     | :us:   | :100:               | [Link](../../Regions/Retails/USA/T-1219H/README.md)           |
 | MeltyLancer: Ginga Shoujo Keisatsu 2086                                         | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-15016G/01/README.md)     |
 | MeltyLancer Re-inforce                                                          | :jp:   | :cd: 3x             | [Link](../../Regions/Retails/Japan/T-15038G/01/README.md)     |
 | Message Navi                                                                    | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-4401G/01/README.md)      |
@@ -1130,8 +1130,8 @@
 | Rayman (6S)                                                        | :eu:     | :question:         | TODO                                                         |
 | Rayman                                                             | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-17701G/01/README.md)    |
 | Rayman (USA)                                                       | :us:     | :heavy_check_mark: | [Link](../../Regions/Retails/USA/T-17701G/01/README.md)      |
-| Real Bout Garou Densetsu                                           | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-3105G/01/README.md)     |
-| Real Bout Garou Densetsu Special                                   | :jp:     | :minidisc: 2x      | [Link](../../Regions/Retails/Japan/T-3119G/01/README.md)     |
+| Real Bout Garou Densetsu                                           | :jp:     | :100:              | [Link](../../Regions/Retails/Japan/T-3105G/README.md)        |
+| Real Bout Garou Densetsu Special                                   | :jp:     | :minidisc: 2x      | [Link](../../Regions/Retails/Japan/T-3119G/README.md)        |
 | Real Mahjong Adventure "Umi-He": Summer Waltz (P's Club Genteiban) | :jp:     | :question:         | TODO                                                         |
 | Real Mahjong Adventure "Umi-He": Summer Waltz                      | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-16511G/01/README.md)    |
 | Real Sound - Kaze no Regret                                        | :jp:     | :cd: 4x            | [Link](../../Regions/Retails/Japan/T-30002G/01/README.md)    |
@@ -1171,7 +1171,7 @@
 | Robotica - Cybernation Revolt                                      | :eu:     | :question:         | TODO (Recorded)                                              |
 | Rockman 8: Metal Heroes                                            | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-1214G/01/README.md)     |
 | Rockman X3                                                         | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-1210G/01/README.md)     |
-| Rockman X4                                                         | :jp:     | :minidisc: 2x      | [Link](../../Regions/Retails/Japan/T-1221G/01/README.md)     |
+| Rockman X4                                                         | :jp:     | :minidisc: 2x      | [Link](../../Regions/Retails/Japan/T-1221G/README.md)        |
 | Romance of the Three Kingdoms IV: Wall of Fire                     | :us:     | :heavy_check_mark: | [Link](../../Regions/Retails/USA/T-7601H/01/README.md)       |
 | Ronde                                                              | :jp:     | :cd: 2x            | [Link](../../Regions/Retails/Japan/T-14415G/01/README.md)    |
 | Roommate - Inoue Ryouko                                            | :jp:     | :minidisc: 2x      | [Link](../../Regions/Retails/Japan/T-19502G/01/README.md)    |
@@ -1198,8 +1198,8 @@
 | Sakura Taisen 2: Kimi, Shinitamou Koto Nakare                | :jp:     | :cd: 3x             | [Link](../../Regions/Retails/Japan/GS-9169/01/README.md)     |
 | Sakura Taisen Teikokukagekidan Taiin Meibo                   | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/SKR-00468/01/README.md)   |
 | Sakura Tsuushin                                              | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-38401G/01/README.md)    |
-| Samurai Spirits - Amakusa Kourin                             | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-3116G/01/README.md)     |
-| Samurai Spirits - Zankurou Musouken                          | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-3104G/01/README.md)     |
+| Samurai Spirits - Amakusa Kourin                             | :jp:     | :100:               | [Link](../../Regions/Retails/Japan/T-3116G/README.md)        |
+| Samurai Spirits - Zankurou Musouken                          | :jp:     | :100:               | [Link](../../Regions/Retails/Japan/T-3104G/README.md)        |
 | Sangokushi Eiketsuden                                        | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-7613G/01/README.md)     |
 | Sangokushi Koumeiden                                         | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-7629G/01/README.md)     |
 | Sangokushi Returns                                           | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-7617G/01/README.md)     |
@@ -1404,7 +1404,7 @@
 | Street Fighter Alpha 2                                       | :us:     | :x:                 | [Link](../../Regions/Retails/USA/T-1213H/01/README.md)       |
 | Street Fighter Collection                                    | :eu:     | :cd: 2x             | [Link](../../Regions/Retails/Europe/T-7033H-50/01/README.md) |
 | Street Fighter Collection                                    | :jp:     | :cd: 2x             | [Link](../../Regions/Retails/Japan/T-1223G/01/README.md)     |
-| Street Fighter Collection                                    | :us:     | :cd: 2x             | [Link](../../Regions/Retails/USA/T-1222H/01/README.md)       |
+| Street Fighter Collection                                    | :us:     | :cd: 2x             | [Link](../../Regions/Retails/USA/T-1222H/README.md)          |
 | Street Fighter II Movie (Japan) (Disc 1)                     | :jp:     | :question:          | TODO                                                         |
 | Street Fighter II Movie (Japan) (Disc 2)                     | :jp:     | :question:          | TODO                                                         |
 | Street Fighter Zero                                          | :jp:     | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/T-1206G/01/README.md)     |
@@ -1607,9 +1607,9 @@
 | Virtua Cop                                  | :eu:   | :minidisc: 4x       | [Link](../../Regions/Retails/Europe/MK-81015/01/README.md)   |
 | Virtua Cop                                  | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/GS-9060/01/README.md)     |
 | Virtua Cop                                  | :us:   | :minidisc: 3x       | [Link](../../Regions/Retails/USA/MK-81015/01/README.md)      |
-| Virtua Cop 2                                | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81043/01/README.md)   |
-| Virtua Cop 2                                | :jp:   | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/GS-9097/01/README.md)     |
-| Virtua Cop 2                                | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/MK-81043/01/README.md)      |
+| Virtua Cop 2                                | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81043/README.md)      |
+| Virtua Cop 2                                | :jp:   | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/GS-9097/README.md)        |
+| Virtua Cop 2                                | :us:   | :100:               | [Link](../../Regions/Retails/USA/MK-81043/README.md)         |
 | Virtua Fighter (Made in EU)                 | :eu:   | :question:          | TODO                                                         |
 | Virtua Fighter (Made in USA)                | :eu:   | :question:          | TODO                                                         |
 | Virtua Fighter                              | :jp:   | :question:          | TODO                                                         |

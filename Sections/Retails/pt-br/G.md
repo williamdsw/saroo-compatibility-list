@@ -25,7 +25,7 @@
 - [Game no Tatsujin (Japan)](../../../Regions/Retails/Japan/T-1502G/01/README.md) - :heavy_check_mark:
 - [Game no Tatsujin 2 (Japan)](../../../Regions/Retails/Japan/T-1509G/01/README.md) - :heavy_check_mark:
 - [Game no Tatsujin: The Shanghai (Japan)](../../../Regions/Retails/Japan/T-1506G/01/README.md) - :heavy_check_mark:
-- [Garou Densetsu 3 - Road to the Final Victory (Japan)](../../../Regions/Retails/Japan/T-3102G/01/README.md) - :heavy_check_mark:
+- [Garou Densetsu 3 - Road to the Final Victory (Japan)](../../../Regions/Retails/Japan/T-3102G/README.md) - :100:
 - [Gegege no Kitarou: Gentou Kaikitan (Japan)](../../../Regions/Retails/Japan/T-13310G/01/README.md) - :heavy_check_mark:
 - [Gekiretsu Pachinkers (Japan)](../../../Regions/Retails/Japan/T-29601G/01/README.md) - :heavy_check_mark:
 - [Gekirindan (Japan)](../../../Regions/Retails/Japan/T-7008G/01/README.md) - :heavy_check_mark:

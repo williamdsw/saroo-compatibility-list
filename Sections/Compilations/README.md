@@ -12,7 +12,7 @@
 - [Capcom Generation: Dai-2-shuu Makai to Kishi (Japan)](../../Regions/Compilations/Japan/T-1233G/01/README.md)
 - [Capcom Generation: Dai-3-shuu Koko ni Rekishi Hajimaru (Japan)](../../Regions/Compilations/Japan/T-1234G/01/README.md)
 - [Capcom Generation: Dai-4-shuu Kokou no Eiyuu (Japan)](../../Regions/Compilations/Japan/T-1235G/01/README.md)
-- [Capcom Generation: Dai-5-shuu Kakutouka-tachi (Japan)](../../Regions/Compilations/Japan/T-1236G/01/README.md)
+- [Capcom Generation: Dai-5-shuu Kakutouka-tachi (Japan)](../../Regions/Compilations/Japan/T-1236G/README.md) - :100:
 - Clockwork Knight - Pepperouchau no Fukubukuro (Japan) - TODO
 - [Detana Twinbee Yahoo! Deluxe Pack (Japan)](../../Regions/Compilations/Japan/T-9505G/01/README.md)
 - [Dungeons & Dragons Collection (Japan)](../../Regions/Compilations/Japan/T-1245G/01/README.md)
