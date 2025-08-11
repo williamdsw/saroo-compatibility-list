@@ -21,9 +21,9 @@
 - [Emit Vol. 1 - Toki no Maigo (Japan)](../../../Regions/Retails/Japan/T-7602G/01/README.md) - :heavy_check_mark:
 - [Emit Vol. 2 - Inochigake no Tabi (Japan)](../../../Regions/Retails/Japan/T-7603G/01/README.md) - :x:
 - [Emit Vol. 3 - Watashi ni Sayonara o (Japan)](../../../Regions/Retails/Japan/T-7604G/01/README.md) - :heavy_check_mark:
-- [Enemy Zero (Europe)](../../../Regions/Retails/Europe/MK-81076/01/README.md) - :question:
-- [Enemy Zero (Japan)](../../../Regions/Retails/Japan/T-30001G/01/README.md) - :question:
-- [Enemy Zero (USA)](../../../Regions/Retails/USA/MK-81076/01/README.md) - :question:
+- [Enemy Zero (Europe)](../../../Regions/Retails/Europe/MK-81076/README.md) - :cd: 4x
+- [Enemy Zero (Japan)](../../../Regions/Retails/Japan/T-30001G/README.md) - :cd: 16x
+- [Enemy Zero (USA)](../../../Regions/Retails/USA/MK-81076/README.md) - :cd: 4x
 - [Eternal Melody (Japan)](../../../Regions/Retails/Japan/T-27802G/01/README.md) - :heavy_check_mark:
 - [Étude Prologue: Yureugoku Kokoro no Katachi (Japan)](../../../Regions/Retails/Japan/T-37901G/01/README.md) - :heavy_check_mark:
 - [Eve - Burst Error (Japan)](../../../Regions/Retails/Japan/T-15022G/01/README.md) - :question:

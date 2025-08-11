@@ -27,7 +27,7 @@
 - [Battle Arena Toshinden URA (Europe)](../../../Regions/Retails/Europe/MK-81054/01/README.md) - :heavy_check_mark:
 - [Battle Arena Toshinden URA (USA)](../../../Regions/Retails/USA/MK-81054/01/README.md) - :heavy_check_mark:
 - [Battle Athletess Daiundoukai (Japan)](../../../Regions/Retails/Japan/T-24601G/01/README.md) - :heavy_check_mark:
-- [Battle Garegga (Japan)](../../../Regions/Retails/Japan/T-10627G/01/README.md) - :heavy_check_mark:
+- [Battle Garegga (Japan)](../../../Regions/Retails/Japan/T-10627G/README.md) - :100:
 - Battle Monsters (Europe) - TODO
 - Battle Monsters (Japan) - TODO
 - [Battle Monsters (USA)](../../../Regions/Retails/USA/T-8137H/01/README.md) - :hammer_and_wrench:
@@ -55,7 +55,7 @@
 - Blam! Machinehead (Japan) - TODO
 - [Blast Chamber (Europe)](../../../Regions/Retails/Europe/T-13003H50/01/README.md) - :x:
 - [Blast Chamber (USA)](../../../Regions/Retails/USA/T-13003H/01/README.md) - :heavy_check_mark:
-- [Blast Wind (Japan)](../../../Regions/Retails/Japan/T-1810G/01/README.md) - :heavy_check_mark:
+- [Blast Wind (Japan)](../../../Regions/Retails/Japan/T-1810G/README.md) - :100:
 - Blazing Dragons (Europe) - TODO
 - Blazing Dragons (France) - TODO
 - Blazing Dragons (Germany) - TODO

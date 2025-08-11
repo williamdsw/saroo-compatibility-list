@@ -10,7 +10,7 @@
 - [Dezaemon 2 (Japan)](../../Regions/Softwares/Japan/T-16804G/01/README.md)
 - [EGWord (Japan)](../../Regions/Softwares/Japan/T-7626G/01/README.md)
 - EGWord Ver 2.00 (Japan) - TODO
-- [Eyeful Home (Japan)](../../Regions/Softwares/Japan/GS-9083/01/README.md)
+- [Eyeful Home (Japan)](../../Regions/Softwares/Japan/GS-9083/README.md)
 - [Game Basic for Sega Saturn (Japan)](../../Regions/Softwares/Japan/T-2111G/01/README.md)
 - [Habitat II (Japan)](../../Regions/Softwares/Japan/GS-7105/01/README.md)
 - [Heim Waltz (Japan)](../../Regions/Softwares/Japan/GS-9121/01/README.md)

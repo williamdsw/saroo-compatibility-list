@@ -13,7 +13,7 @@
 - Actua Golf (Japan) - TODO
 - Actua Soccer (Japan) - TODO
 - [Actua Soccer - Club Edition (Europe)](../../../Regions/Retails/Europe/T-12305H/01/README.md) - :heavy_check_mark:
-- [Advanced V.G. (Japan)](../../../Regions/Retails/Japan/T-32501G/01/README.md) - :heavy_check_mark:
+- [Advanced V.G. (Japan)](../../../Regions/Retails/Japan/T-32501G/README.md) - :100:
 - [Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (Japan) (2M)](../../../Regions/Retails/Japan/GS-9087/01/README.md) - :heavy_check_mark:
 - Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium (Japan) (Rev B) (22M) - TODO (GS-9190 ?)
 - [Ai Iijima Interactive Video Clip - Good Island Cafe (Japan)](../../../Regions/Retails/Japan/T-25201G/01/README.md) - :heavy_check_mark:
@@ -71,8 +71,8 @@
 - [Assault Rigs (Japan)](../../../Regions/Retails/Japan/T-18606G/01/README.md) - :heavy_check_mark:
 - [Assault Suit Leynos 2 (Japan) ](../../../Regions/Retails/Japan/T-2501G/01/README.md) - :heavy_check_mark:
 - [Astal (USA)](../../../Regions/Retails/USA/MK-81019/01/README.md) - :heavy_check_mark:
-- [Astra Superstars (Japan) ](../../../Regions/Retails/Japan/T-1521G/01/README.md) - :heavy_check_mark:
-- [Asuka 120% Limited - Burning Fest. Limited (Japan)](../../../Regions/Retails/Japan/T-16708G/01/README.md) - :heavy_check_mark:
+- [Astra Superstars (Japan) ](../../../Regions/Retails/Japan/T-1521G/README.md) - :100:
+- [Asuka 120% Limited - Burning Fest. Limited (Japan)](../../../Regions/Retails/Japan/T-16708G/README.md) - :100:
 - [Athlete Kings (Europe)](../../../Regions/Retails/Europe/MK-81115/01/README.md) - :x:
 - [Atlantis - The Lost Tales (Europe)](../../../Regions/Retails/Europe/MK-8109150/01/README.md) - :question:
 - Atlantis - The Lost Tales (France) (Disc 1) - TODO

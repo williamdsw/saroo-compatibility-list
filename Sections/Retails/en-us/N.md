@@ -54,8 +54,8 @@
 - NiGHTS into Dreams... (Korea) - TODO
 - [NiGHTS into Dreams... (USA, Brazil)](../../../Regions/Retails/USA/MK-81020/01/README.md) - :heavy_check_mark:
 - [Night Striker S (Japan)](../../../Regions/Retails/Japan/T-19901G/01/README.md) - :heavy_check_mark:
-- [Night Warriors: Darkstalkers' Revenge (Europe)](../../../Regions/Retails/Europe/T-7009H-50/01/README.md) - :heavy_check_mark:
-- [Night Warriors: Darkstalkers' Revenge (USA)](../../../Regions/Retails/USA/T-1208H/01/README.md) - :heavy_check_mark:
+- [Night Warriors: Darkstalkers' Revenge (Europe)](../../../Regions/Retails/Europe/T-7009H-50/README.md) - :100:
+- [Night Warriors: Darkstalkers' Revenge (USA)](../../../Regions/Retails/USA/T-1208H/README.md) - :100:
 - [NIGHTRUTH: Explanation of the paranormal - 01 "Yami no Tobira" (Japan)](../../../Regions/Retails/Japan/T-20204G/01/README.md) - :x:
 - [NIGHTRUTH: Explanation of the paranormal - "Futatsu Dake no Shinjitsu" (Japan)](../../../Regions/Retails/Japan/T-36201G/01/README.md) - :heavy_check_mark:
 - [NIGHTRUTH: Explanation of the paranormal - "Maria" (Japan)](../../../Regions/Retails/Japan/T-20206G/01/README.md) - :heavy_check_mark:

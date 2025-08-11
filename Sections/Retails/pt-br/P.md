@@ -66,7 +66,7 @@
 - [Pro Yakyuu Team mo Tsukurou! (Japan)](../../../Regions/Retails/Japan/GS-9165/01/README.md) - :heavy_check_mark:
 - [Pro-Pinball: The Web (USA)](../../../Regions/Retails/USA/T-12520H/01/README.md) - :heavy_check_mark:
 - Pro-Pinball: The Web (Europe) - TODO
-- [Pu-Li-Ru-La/Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26106G/01/README.md) - :heavy_check_mark:
+- [Pu-Li-Ru-La/Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26106G/README.md) - :100:
 - [Pup-Breeder (Japan)](../../../Regions/Retails/Japan/T-29301G/01/README.md) - :heavy_check_mark:
 - [Puyo Puyo Sun (Japan)](../../../Regions/Retails/Japan/T-6603G/01/README.md) - :heavy_check_mark:
 - Puyo Puyo Sun for SegaNet (Japan) - TODO

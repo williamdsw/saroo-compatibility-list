@@ -66,7 +66,7 @@
 - MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (Europe) - TODO
 - [MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA)](../../../Regions/Retails/USA/T-13004H/01/README.md) - :heavy_check_mark:
 - [Media ROMancer Daisuke Asakura (Japan)](../../../Regions/Retails/Japan/T-25001G/01/README.md) - :heavy_check_mark:
-- [Mega Man 8 (USA)](../../../Regions/Retails/USA/T-1216H/01/README.md) - :heavy_check_mark:
+- [Mega Man 8 (USA)](../../../Regions/Retails/USA/T-1216H/README.md) - :100:
 - [Mega Man X3 (Europe)](../../../Regions/Retails/Europe/T-7029H-50/01/README.md) - :x:
 - [Mega Man X4 (USA)](../../../Regions/Retails/USA/T-1219H/README.md) - :100:
 - [MeltyLancer: Ginga Shoujo Keisatsu 2086 (Japan)](../../../Regions/Retails/Japan/T-15016G/01/README.md) - :heavy_check_mark:

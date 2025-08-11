@@ -53,4 +53,4 @@
 - Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) - TODO (Recorded)
 - [Wizardry Llylgamyn Saga (Japan)](../../Regions/Compilations/Japan/T-38601G/01/README.md)
 - [Wizardry VI & VII Complete (Japan)](../../Regions/Compilations/Japan/T-1306G/01/README.md)
-- [Wonder 3 Arcade Gears (Japan)](../../Regions/Compilations/Japan/T-26107G/01/README.md)
+- [Wonder 3 Arcade Gears (Japan)](../../Regions/Compilations/Japan/T-26107G/README.md) - :100:

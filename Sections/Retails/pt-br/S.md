@@ -73,7 +73,7 @@
 - [Seikai Risshiden: Yoi Kuni Yoi Seiji (Japan)](../../../Regions/Retails/Japan/T-18005G/01/README.md) - :heavy_check_mark:
 - [Seireki 1999 ~Pharaoh no Fukkatsu~ (Japan)](../../../Regions/Retails/Japan/T-18001G/01/README.md) - :heavy_check_mark:
 - [Sekai no Shasou kara I Swiss-hen: Alps Tozantetsudou no Tabi (Japan)](../../../Regions/Retails/Japan/T-32201G/01/README.md) - :heavy_check_mark:
-- [Sengoku Blade - Sengoku Ace Episode II (Japan)](../../../Regions/Retails/Japan/T-14410G/01/README.md) - :heavy_check_mark:
+- [Sengoku Blade - Sengoku Ace Episode II (Japan)](../../../Regions/Retails/Japan/T-14410G/README.md) - :cd: 2x
 - [Senken Kigyouden (Japan)](../../../Regions/Retails/Japan/T-37401G/01/README.md) - :heavy_check_mark:
 - [Senkutsu Katsuryuu Taisen Chaos Seed (Japan)](../../../Regions/Retails/Japan/T-30902G/01/README.md) - :heavy_check_mark: & :x:
 - [Senryaku Shougi (Japan)](../../../Regions/Retails/Japan/T-10604G/01/README.md) - :heavy_check_mark:
@@ -125,7 +125,7 @@
 - [Shinobi X (Europe)](../../../Regions/Retails/Europe/MK-81082/01/README.md) - :heavy_check_mark:
 - [Shinouken (Japan)](../../../Regions/Retails/Japan/T-3113G/01/README.md) - :x:
 - [Shinpi no Sekai El-Hazard (Japan)](../../../Regions/Retails/Japan/T-22202G/01/README.md) - :heavy_check_mark:
-- [Shinrei Jusatsushi Taroumaru (Japan)](../../../Regions/Retails/Japan/T-4804G/01/README.md) - :heavy_check_mark:
+- [Shinrei Jusatsushi Taroumaru (Japan)](../../../Regions/Retails/Japan/T-4804G/README.md) - :100:
 - [Shinsetsu Samurai Spirits Bushidou Retsuden (Japan)](../../../Regions/Retails/Japan/T-3112G/01/README.md) - :heavy_check_mark:
 - [Shinsetsu Yumemi Yakata: Tobira no Oku ni Dareka ga... (Japan)](../../../Regions/Retails/Japan/GS-9005/01/README.md) - TODO
 - [Shippuu Mahou Daisakusen (Japan)](../../../Regions/Retails/Japan/T-18506G/01/README.md) - TODO
@@ -216,7 +216,7 @@
 - [Street Fighter: Real Battle on Film (Japan)](../../../Regions/Retails/Japan/T-1201G/01/README.md) - :x:
 - Street Fighter - The Movie (Europe) (2S) - TODO
 - Street Fighter - The Movie (Europe) (4S) - TODO
-- [Street Fighter - The Movie (USA)](../../../Regions/Retails/USA/T-8105H/01/README.md) - :heavy_check_mark:
+- [Street Fighter The Movie (USA)](../../../Regions/Retails/USA/T-8105H/README.md) - :100:
 - [Street Fighter Alpha: Warrior's Dreams (Europe)](../../../Regions/Retails/Europe/T-7008H-50/01/README.md) - :heavy_check_mark:
 - [Street Fighter Alpha: Warrior's Dreams (USA)](../../../Regions/Retails/USA/T-1206H/01/README.md) - :x:
 - Street Fighter Alpha 2 (Europe) - TODO
@@ -227,17 +227,17 @@
 - [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/README.md) - :disc: 2x
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
-- [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/01/README.md) - :heavy_check_mark:
-- [Street Fighter Zero 2 (Japan)](../../../Regions/Retails/Japan/T-1212G/01/README.md) - :heavy_check_mark:
-- [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/01/README.md) - :heavy_check_mark:
-- [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/01/README.md) - :hammer_and_wrench:
+- [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/README.md) - :minidisc: 3x
+- [Street Fighter Zero 2 (Japan)](../../../Regions/Retails/Japan/T-1212G/README.md) - :checkered_flag:
+- [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/README.md) - :checkered_flag:
+- [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/README.md) - :hammer_and_wrench:
 - [Street Racer (Europe)](../../../Regions/Retails/Europe/T-17702H/01/README.md) - :heavy_check_mark:
 - [Street Racer Extra (Japan)](../../../Regions/Retails/Japan/T-17702G/01/README.md) - :heavy_check_mark:
 - Striker 96 (Europe) - TODO
 - Striker 96 (Japan) - TODO
 - [Striker '96 (USA)](../../../Regions/Retails/USA/T-8133H/01/README.md) - :heavy_check_mark:
-- [Strikers 1945 (Japan)](../../../Regions/Retails/Japan/T-14407G/01/README.md) - :heavy_check_mark:
-- [Strikers 1945 II (Japan)](../../../Regions/Retails/Japan/T-20402G/01/README.md) - :heavy_check_mark:
+- [Strikers 1945 (Japan)](../../../Regions/Retails/Japan/T-14407G/README.md) - :100:
+- [Strikers 1945 II (Japan)](../../../Regions/Retails/Japan/T-20402G/README.md) - :100:
 - [Suchie-Pai Adventure Doki Doki Nightmare (Japan)](../../../Regions/Retails/Japan/T-5713G/01/README.md) - :question:
 - [Sugobencha: Dragon Master Silk Gaiden (Japan)](../../../Regions/Retails/Japan/T-19505G/01/README.md) - :heavy_check_mark:
 - [Suiko Enbu (Japan)](../../../Regions/Retails/Japan/T-1302G/01/README.md) - :heavy_check_mark:

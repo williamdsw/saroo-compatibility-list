@@ -14,9 +14,9 @@
 - [Gal Jan (Japan)](../../../Regions/Retails/Japan/T-29101G/01/README.md) - :heavy_check_mark:
 - [Galactic Attack (Europe)](../../../Regions/Retails/Europe/T-8116H-50/01/README.md) - :heavy_check_mark:
 - [Galactic Attack (USA)](../../../Regions/Retails/USA/T-8116H/01/README.md) - :heavy_check_mark:
-- [Galaxy Fight (Europe)](../../../Regions/Retails/Europe/T-1504H-50/01/README.md) - :heavy_check_mark:
-- [Galaxy Fight (USA)](../../../Regions/Retails/USA/T-1504H/01/README.md) - :heavy_check_mark:
-- [Galaxy Fight: Universal Warriorss (Japan)](../../../Regions/Retails/Japan/T-1510G/01/README.md) - :heavy_check_mark:
+- [Galaxy Fight (Europe)](../../../Regions/Retails/Europe/T-1504H-50/README.md) - :100:
+- [Galaxy Fight (USA)](../../../Regions/Retails/USA/T-1504H/README.md) - :100:
+- [Galaxy Fight: Universal Warriorss (Japan)](../../../Regions/Retails/Japan/T-1510G/README.md) - :100:
 - [Gale Racer (Japan)](../../../Regions/Retails/Japan/GS-9003/01/README.md) - :heavy_check_mark:
 - [Gals Panic SS (Japan)](../../../Regions/Retails/Japan/T-29002G/01/README.md) - :heavy_check_mark:
 - [Game Nihonshi: Kakumeiji Oda Nobunaga (Japan)](../../../Regions/Retails/Japan/T-7633G/01/README.md) - :heavy_check_mark:
@@ -28,7 +28,7 @@
 - [Garou Densetsu 3 - Road to the Final Victory (Japan)](../../../Regions/Retails/Japan/T-3102G/README.md) - :100:
 - [Gegege no Kitarou: Gentou Kaikitan (Japan)](../../../Regions/Retails/Japan/T-13310G/01/README.md) - :heavy_check_mark:
 - [Gekiretsu Pachinkers (Japan)](../../../Regions/Retails/Japan/T-29601G/01/README.md) - :heavy_check_mark:
-- [Gekirindan (Japan)](../../../Regions/Retails/Japan/T-7008G/01/README.md) - :heavy_check_mark:
+- [Gekirindan (Japan)](../../../Regions/Retails/Japan/T-7008G/README.md) - :100:
 - [Gekitotsu Koushien (Japan)](../../../Regions/Retails/Japan/T-6701G/01/README.md) - :heavy_check_mark:
 - [Gekka Mugentan Torico (Japan)](../../../Regions/Retails/Japan/GS-9056/01/README.md) - :heavy_check_mark:
 - [Gekka no Kishi: Ouryuusen (Japan)](../../../Regions/Retails/Japan/T-20606G/01/README.md) - :heavy_check_mark:

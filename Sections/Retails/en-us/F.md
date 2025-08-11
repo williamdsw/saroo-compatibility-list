@@ -9,7 +9,7 @@
 - [F-1 Live Information (Japan)](../../../Regions/Retails/Japan/GS-9035/01/README.md) - :heavy_check_mark:
 - F1 Challenge (Europe) - TODO
 - [F1 Challenge (USA)](../../../Regions/Retails/USA/MK-81206/01/README.md) - :heavy_check_mark:
-- [FEDA Remake! The Emblem of Justice (Japan)](../../../Regions/Retails/Japan/GS-9107/01/README.md) - :heavy_check_mark:
+- [FEDA Remake! The Emblem of Justice (Japan)](../../../Regions/Retails/Japan/T-21001G/01/README.md) - :heavy_check_mark:
 - FIFA - Die WM-Qualifikation 98 (Germany) - TODO
 - FIFA - En Route pour la Coupe du Monde 98 (France) - TODO
 - FIFA - Road to World Cup 98 (Europe) - TODO
@@ -23,12 +23,12 @@
 - FIFA Soccer 96 (Japan) - TODO
 - [FIFA Soccer 96 (USA)](../../../Regions/Retails/USA/T-5003H/01/README.md) - :heavy_check_mark:
 - [FIFA Soccer 97 (USA)](../../../Regions/Retails/USA/T-5017H/01/README.md) - :heavy_check_mark:
-- [Fantastep (Japan)](../../../Regions/Retails/Japan/GS-9107/01/README.md) - :heavy_check_mark:
+- [Fantastep (Japan)](../../../Regions/Retails/Japan/T-5710G/01/README.md) - :heavy_check_mark:
 - [Farland Saga (Japan)](../../../Regions/Retails/Japan/T-32507G/01/README.md) - :heavy_check_mark:
 - [Farland Saga: Toki no Michishirube (Japan)](../../../Regions/Retails/Japan/T-32511G/01/README.md) - :heavy_check_mark:
 - [Farland Story: Habou no Mai (Japan)](../../../Regions/Retails/Japan/T-32505G/01/README.md) - :heavy_check_mark:
 - [Father Christmas (Japan)](../../../Regions/Retails/Japan/T-18504G/01/README.md) - :heavy_check_mark:
-- [Fighter's History Dynamite (Japan)](../../../Regions/Retails/Japan/GS-9107/01/README.md) - :heavy_check_mark:
+- [Fighter's History Dynamite (Japan)](../../../Regions/Retails/Japan/GS-9107/README.md) - :100:
 - [Fighters Megamix (Europe)](../../../Regions/Retails/Europe/MK-81073/01/README.md) - :heavy_check_mark:
 - [Fighters Megamix (Japan)](../../../Regions/Retails/Japan/GS-9126/01/README.md) - :heavy_check_mark:
 - [Fighters Megamix (USA)](../../../Regions/Retails/USA/MK-81073/01/README.md) - :x:

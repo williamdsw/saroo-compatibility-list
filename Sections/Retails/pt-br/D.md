@@ -117,9 +117,9 @@
 - [Doukoku Soshite... (Japan](../../../Regions/Retails/Japan/T-1315G/01/README.md) - :heavy_check_mark:
 - [Doukyuusei - if (Japan)](../../../Regions/Retails/Japan/T-20102G/01/README.md) - :heavy_check_mark:
 - [Doukyuusei 2 (Japan)](../../../Regions/Retails/Japan/T-20104G/01/README.md) - :question:
-- [Dragon Ball Z: Idainaru Dragon Ball Densetsu (Japan)](../../../Regions/Retails/Japan/T-13305G/01/README.md) - :heavy_check_mark:
+- [Dragon Ball Z: Idainaru Dragon Ball Densetsu (Japan)](../../../Regions/Retails/Japan/T-13305G/README.md) - :heavy_check_mark:
 - Dragon Ball Z - La Grande Legende des Boules de Cristal (France, Spain) - TODO
-- [Dragon Ball Z: Shin Butouden (Japan)](../../../Regions/Retails/Japan/T-13302G/01/README.md) - :heavy_check_mark:
+- [Dragon Ball Z: Shin Butouden (Japan)](../../../Regions/Retails/Japan/T-13302G/README.md) - :100:
 - Dragon Force (Europe) - TODO
 - Dragon Force (Japan) (1M, 2M, 3M) - TODO
 - Dragon Force (Japan) (4M) - TODO
