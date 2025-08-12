@@ -48,7 +48,7 @@
 - [Taito Chase H.Q. + S.C.I. (Japan)](../../Regions/Compilations/Japan/T-1105G/01/README.md)
 - [Thunder Force Gold Pack 1 (Japan)](../../Regions/Compilations/Japan/T-1807G/01/README.md)
 - [Thunder Force Gold Pack 2 (Japan)](../../Regions/Compilations/Japan/T-1808G/01/README.md)
-- [Thunder Storm & Road Blaster (Japan)](../../Regions/Compilations/Japan/T-20701G/01/README.md)
+- [Thunder Storm & Road Blaster (Japan)](../../Regions/Compilations/Japan/T-20701G/README.md) - :cd: 2x
 - Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal) - TODO (Recorded)
 - Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) - TODO (Recorded)
 - [Wizardry Llylgamyn Saga (Japan)](../../Regions/Compilations/Japan/T-38601G/01/README.md)

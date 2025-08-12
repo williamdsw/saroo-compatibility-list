@@ -48,7 +48,7 @@
 - [Kurubushi Kyoudai Gekijou Daiikkan Mahjong Hen (Japan)](../../../Regions/Retails/Japan/T-21803G/01/README.md) - :heavy_check_mark:
 - [Kururin Pa! (Japan)](../../../Regions/Retails/Japan/T-24201G/01/README.md) - :heavy_check_mark:
 - [Kuusou Kagaku Sekai Gulliver Boy (Japan)](../../../Regions/Retails/Japan/T-14303G/01/README.md) - :question:
-- [Kyuukyoku Tiger II Plus (Japan)](../../../Regions/Retails/Japan/T-18715G/01/README.md) - :heavy_check_mark:
+- [Kyuukyoku Tiger II Plus (Japan)](../../../Regions/Retails/Japan/T-18715G/README.md) - :100:
 - [Kyuutenkai (Japan)](../../../Regions/Retails/Japan/T-1801G/01/README.md) - :heavy_check_mark:
 
 Navigation:

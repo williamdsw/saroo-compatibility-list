@@ -31,11 +31,11 @@
 - [Sankyo Fever Jikki Simulation S (Japan)](../../../Regions/Retails/Japan/T-32102G/01/README.md) - :heavy_check_mark:
 - [Sankyo Fever Jikki Simulation S Vol. 2 (Japan)](../../../Regions/Retails/Japan/T-32103G/01/README.md) - :heavy_check_mark:
 - [Sankyo Fever Jikki Simulation S Vol. 3 (Japan)](../../../Regions/Retails/Japan/T-32105G/01/README.md) - :heavy_check_mark:
-- Saturn Bomberman (Europe) - TODO (Recorded)
+- [Saturn Bomberman (Europe)](../../../Regions/Retails/Europe/MK81070-50/README.md) - :heavy_check_mark:
 - Saturn Bomberman (Japan) (SegaNet) - TODO
-- [Saturn Bomberman (Japan)](../../../Regions/Retails/Japan/T-14302G/01/README.md) - :heavy_check_mark:
+- [Saturn Bomberman (Japan)](../../../Regions/Retails/Japan/T-14302G/README.md) - :100:
 - [Saturn Bomberman (USA)](../../../Regions/Retails/USA/MK-81070/README.md) - :100:
-- [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/01/README.md) - :heavy_check_mark:
+- [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/README.md) - :100:
 - Saturn Music School (Japan) - TODO
 - Saturn Music School 2 (Japan) (Rev A) - TODO
 - [Savaki (Japan)](../../../Regions/Retails/Japan/T-5208G/01/README.md) - :heavy_check_mark:
@@ -169,8 +169,8 @@
 - [Sonic 3D: Flickies' Island (Japan)](../../../Regions/Retails/Japan/GS-9143/01/README.md) - :heavy_check_mark:
 - [Sonic 3D Blast (USA)](../../../Regions/Retails/USA/MK-81062/01/README.md) - :x:
 - Sonic R (Europe) - TODO
-- [Sonic R (Japan)](../../../Regions/Retails/Japan/GS-9170/01/README.md) - :heavy_check_mark:
-- [Sonic R (USA)](../../../Regions/Retails/USA/MK-81800/01/README.md) - :heavy_check_mark:
+- [Sonic R (Japan)](../../../Regions/Retails/Japan/GS-9170/README.md) - :heavy_check_mark:
+- [Sonic R (USA)](../../../Regions/Retails/USA/MK-81800/README.md) - :100:
 - [Sonic Wings Special (Japan)](../../../Regions/Retails/Japan/T-26402G/01/README.md) - :x:
 - [Sorvice (Japan)](../../../Regions/Retails/Japan/T-16609G/01/README.md) - :heavy_check_mark:
 - [Sotsugyou S (Japan)](../../../Regions/Retails/Japan/T-20103G/01/README.md) - :heavy_check_mark:

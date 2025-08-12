@@ -149,7 +149,7 @@
 | Baku Baku Animal - Sekai Shiiku Gakari Senshuken                 | :jp:   | :question:          | TODO                                                         |
 | Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Rev A)         | :jp:   | :question:          | TODO                                                         |
 | Baku Baku Animal - World Zookeeper Contest                       | :eu:   | :question:          | TODO                                                         |
-| Baku Baku Animal - World Zookeeper Contest                       | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/MK-81501/01/README.md)      |
+| Baku Baku Animal - World Zookeeper Contest                       | :us:   | :100:               | [Link](../../Regions/Retails/USA/MK-81501/README.md)         |
 | Bakuretsu Hunter                                                 | :jp:   | :cd: 2x             | [Link](../../Regions/Retails/Japan/T-22402G/01/README.md)    |
 | Bakuretsu Hunter R                                               | :jp:   | :hammer_and_wrench: | [Link](../../Regions/Retails/Japan/T-24903G/01/README.md)    |
 | Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX                   | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-20001G/01/README.md)    |
@@ -161,9 +161,9 @@
 | Batman Forever: The Arcade Game                                  | :us:   | :hammer_and_wrench: | [Link](../../Regions/Retails/USA/T-8140H/01/README.md)       |
 | Batsugun                                                         | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-20605G/01/README.md)    |
 | Battle Arena Toshinden Remix                                     | :eu:   | :question:          | TODO                                                         |
-| Battle Arena Toshinden Remix                                     | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/MK-81029/01/README.md)      |
-| Battle Arena Toshinden URA                                       | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81054/01/README.md)   |
-| Battle Arena Toshinden URA                                       | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/MK-81054/01/README.md)      |
+| Battle Arena Toshinden Remix                                     | :us:   | :100:               | [Link](../../Regions/Retails/USA/MK-81029/README.md)         |
+| Battle Arena Toshinden URA                                       | :eu:   | :100:               | [Link](../../Regions/Retails/Europe/MK-81054/README.md)      |
+| Battle Arena Toshinden URA                                       | :us:   | :100:               | [Link](../../Regions/Retails/USA/MK-81054/README.md)         |
 | Battle Athletess Daiundoukai                                     | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-24601G/01/README.md)    |
 | Battle Garegga                                                   | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-10627G/README.md)       |
 | Battle Monsters                                                  | :eu:   | :question:          | TODO                                                         |
@@ -776,7 +776,7 @@
 | Kurubushi Kyoudai Gekijou Daiikkan Mahjong Hen                                   | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-21803G/01/README.md)    |
 | Kururin Pa!                                                                      | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-24201G/01/README.md)    |
 | Kuusou Kagaku Sekai Gulliver Boy                                                 | :jp:   | :cd: 2x             | [Link](../../Regions/Retails/Japan/T-14303G/01/README.md)    |
-| Kyuukyoku Tiger II Plus                                                          | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-18715G/01/README.md)    |
+| Kyuukyoku Tiger II Plus                                                          | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-18715G/README.md)       |
 | Kyuutenkai                                                                       | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-1801G/01/README.md)     |
 
 ### L
@@ -1119,7 +1119,7 @@
 
 | Name                                                               | Region   | Status             | Details                                                      |
 | ------------------------------------------------------------------ | -------- | ------------------ | ------------------------------------------------------------ |
-| Rabbit                                                             | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-10610G/01/README.md)    |
+| Rabbit                                                             | :jp:     | :100:              | [Link](../../Regions/Retails/Japan/T-10610G/README.md)       |
 | Race Drivin'                                                       | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-4802G/01/README.md)     |
 | Radiant Silvergun                                                  | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-32902G/01/README.md)    |
 | Rampage - World Tour                                               | :eu:     | :question:         | TODO                                                         |
@@ -1212,11 +1212,11 @@
 | Sankyo Fever Jikki Simulation S                              | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-32102G/01/README.md)    |
 | Sankyo Fever Jikki Simulation S Vol. 2                       | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-32103G/01/README.md)    |
 | Sankyo Fever Jikki Simulation S Vol. 3                       | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-32105G/01/README.md)    |
-| Saturn Bomberman                                             | :eu:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK81070-50/01/README.md) |
+| Saturn Bomberman                                             | :eu:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK81070-50/README.md)    |
 | Saturn Bomberman (SegaNet)                                   | :jp:     | :question:          | TODO                                                         |
-| Saturn Bomberman                                             | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-14302G/01/README.md)    |
+| Saturn Bomberman                                             | :jp:     | :100:               | [Link](../../Regions/Retails/Japan/T-14302G/README.md)       |
 | Saturn Bomberman                                             | :us:     | :100:               | [Link](../../Regions/Retails/USA/MK-81070/README.md)         |
-| Saturn Bomberman Fight!!                                     | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-14321G/01/README.md)    |
+| Saturn Bomberman Fight!!                                     | :jp:     | :100:               | [Link](../../Regions/Retails/Japan/T-14321G/README.md)       |
 | Saturn Music School                                          | :jp:     | :question:          | TODO                                                         |
 | Saturn Music School 2 (Rev A)                                | :jp:     | :question:          | TODO                                                         |
 | Savaki                                                       | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-5208G/01/README.md)     |
@@ -1350,8 +1350,8 @@
 | Sonic 3D: Flickies' Island                                   | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/GS-9143/01/README.md)     |
 | Sonic 3D Blast                                               | :us:     | :x:                 | [Link](../../Regions/Retails/USA/MK-81062/01/README.md)      |
 | Sonic R                                                      | :eu:     | :question:          | TODO                                                         |
-| Sonic R                                                      | :jp:     | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/GS-9170/01/README.md)     |
-| Sonic R                                                      | :us:     | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/MK-81800/01/README.md)      |
+| Sonic R                                                      | :jp:     | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/GS-9170/README.md)        |
+| Sonic R                                                      | :us:     | :100:               | [Link](../../Regions/Retails/USA/MK-81800/README.md)         |
 | Sonic Wings Special                                          | :jp:     | :x:                 | [Link](../../Regions/Retails/Japan/T-26402G/01/README.md)    |
 | Sorvice                                                      | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-16609G/01/README.md)    |
 | Sotsugyou S                                                  | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-20103G/01/README.md)    |
@@ -1501,8 +1501,8 @@
 | The Incredible Hulk - The Pantheon Saga                      | :eu:   | :question:          | TODO                                                          |
 | The Incredible Hulk - The Pantheon Saga                      | :us:   | :hammer_and_wrench: | [Link](../../Regions/Retails/USA/T-7905H/01/README.md)        |
 | The King of Boxing                                           | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-6001G/01/README.md)      |
-| The King of Fighters '95                                     | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81088/README.md)       |
-| The King of Fighters '95                                     | :jp:   | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/T-3101G/01/README.md)      |
+| The King of Fighters '95                                     | :eu:   | :hammer_and_wrench: | [Link](../../Regions/Retails/Europe/MK-81088/README.md)       |
+| The King of Fighters '95                                     | :jp:   | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/T-3101G/README.md)         |
 | The King of Fighters '96                                     | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-3108G/01/README.md)      |
 | The King of Fighters '97                                     | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-3121G/README.md)         |
 | The Legend of Heroes I & II - Eiyuu Densetsu                 | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-37101G/01/README.md)     |
@@ -1576,18 +1576,18 @@
 
 ### U
 
-| Name                                                | Region | Status              | Details                                                    |
-| --------------------------------------------------- | ------ | ------------------- | ---------------------------------------------------------- |
-| UEFA Euro 96 - England                              | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81180/01/README.md) |
-| Ultimate Mortal Kombat 3                            | :eu:   | :cd: 2x             | [Link](../../Regions/Retails/Europe/T-25403H/01/README.md) |
-| Ultimate Mortal Kombat 3                            | :us:   | :x:                 | [Link](../../Regions/Retails/USA/T-9701H/01/README.md)     |
-| TODO - Update: Ultraman - Hikari no Kyojin Densetsu | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-13308G/01/README.md)  |
-| Ultraman Zukan                                      | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-25501G/01/README.md)  |
-| Ultraman Zukan 2                                    | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-25502G/01/README.md)  |
-| Ultraman Zukan 3                                    | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-25505G/01/README.md)  |
-| Umanari 1 Furlong Gekijou                           | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-35001G/01/README.md)  |
-| Universal Nuts                                      | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-36202G/01/README.md)  |
-| Uno DX                                              | :jp:   | :hammer_and_wrench: | [Link](../../Regions/Retails/Japan/T-26414G/01/README.md)  |
+| Name                                | Region | Status              | Details                                                    |
+| ----------------------------------- | ------ | ------------------- | ---------------------------------------------------------- |
+| UEFA Euro 96 - England              | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81180/01/README.md) |
+| Ultimate Mortal Kombat 3            | :eu:   | :cd: 2x             | [Link](../../Regions/Retails/Europe/T-25403H/01/README.md) |
+| Ultimate Mortal Kombat 3            | :us:   | :x:                 | [Link](../../Regions/Retails/USA/T-9701H/01/README.md)     |
+| Ultraman: Hikari no Kyojin Densetsu | :jp:   | :hammer_and_wrench: | [Link](../../Regions/Retails/Japan/T-13308G/README.md)     |
+| Ultraman Zukan                      | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-25501G/01/README.md)  |
+| Ultraman Zukan 2                    | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-25502G/01/README.md)  |
+| Ultraman Zukan 3                    | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-25505G/01/README.md)  |
+| Umanari 1 Furlong Gekijou           | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-35001G/01/README.md)  |
+| Universal Nuts                      | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-36202G/01/README.md)  |
+| Uno DX                              | :jp:   | :hammer_and_wrench: | [Link](../../Regions/Retails/Japan/T-26414G/01/README.md)  |
 
 ### V
 
@@ -1600,13 +1600,13 @@
 | Vampire Hunter: Darkstalkers' Revenge       | :jp:   | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/T-1202G/01/README.md)     |
 | Vampire Savior: The Lord of Vampire         | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-1229G/01/README.md)     |
 | Vandal Hearts - Ushinawareta Kodai Bunmei   | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-9526G/01/README.md)     |
-| Vatlva                                      | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-31501G/01/README.md)    |
+| Vatlva                                      | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-31501G/README.md)       |
 | Victory Boxing                              | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/T-6005H-50/01/README.md) |
 | Victory Goal                                | :jp:   | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/GS-9002/01/README.md)     |
 | Victory Goal Worldwide Edition              | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/GS-9112/01/README.md)     |
-| Virtua Cop                                  | :eu:   | :minidisc: 4x       | [Link](../../Regions/Retails/Europe/MK-81015/01/README.md)   |
-| Virtua Cop                                  | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/GS-9060/01/README.md)     |
-| Virtua Cop                                  | :us:   | :minidisc: 3x       | [Link](../../Regions/Retails/USA/MK-81015/01/README.md)      |
+| Virtua Cop                                  | :eu:   | :minidisc: 4x       | [Link](../../Regions/Retails/Europe/MK-81015/README.md)      |
+| Virtua Cop                                  | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/GS-9060/README.md)        |
+| Virtua Cop                                  | :us:   | :minidisc: 3x       | [Link](../../Regions/Retails/USA/MK-81015/README.md)         |
 | Virtua Cop 2                                | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81043/README.md)      |
 | Virtua Cop 2                                | :jp:   | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/GS-9097/README.md)        |
 | Virtua Cop 2                                | :us:   | :100:               | [Link](../../Regions/Retails/USA/MK-81043/README.md)         |

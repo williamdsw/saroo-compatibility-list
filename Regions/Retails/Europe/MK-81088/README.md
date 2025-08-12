@@ -9,9 +9,9 @@
 | 1    | VA13    | Green           | v0.4     | Lenovo (fat32) | :skull:            | 30 seconds  |
 | 2    | VA13    | Elite           | v0.7     | Lexar (exFat)  | :heavy_check_mark: | 43 minutes  |
 
-| Test | Problem                                      | Solution                         |
-| ---- | -------------------------------------------- | -------------------------------- |
-| 1    | ROM Cartridge is required (firmware <= v0.4) | Update to firmware v0.5 or newer |
+| Problem                                      | Solution                         |
+| -------------------------------------------- | -------------------------------- |
+| ROM Cartridge is required (firmware <= v0.4) | Update to firmware v0.5 or newer |
 
 | Test | Evidences                                                                                        |
 | ---- | ------------------------------------------------------------------------------------------------ |

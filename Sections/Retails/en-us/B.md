@@ -11,7 +11,7 @@
 - Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan) (Rev A) - TODO
 - Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Japan) - TODO
 - Baku Baku Animal - World Zookeeper Contest (Europe) - TODO
-- [Baku Baku Animal - World Zookeeper Contest (USA)](../../../Regions/Retails/USA/MK-81501/01/README.md) - :heavy_check_mark:
+- [Baku Baku Animal - World Zookeeper Contest (USA)](../../../Regions/Retails/USA/MK-81501/README.md) - :100:
 - [Bakuretsu Hunter (Japan)](../../../Regions/Retails/Japan/T-22402G/01/README.md) - :question:
 - [Bakuretsu Hunter R (Japan)](../../../Regions/Retails/Japan/T-24903G/01/README.md) - :hammer_and_wrench:
 - [Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)](../../../Regions/Retails/Japan/T-20001G/01/README.md) - :heavy_check_mark:
@@ -23,9 +23,9 @@
 - [Batman Forever: The Arcade Game (USA)](../../../Regions/Retails/USA/T-8140H/01/README.md) - :hammer_and_wrench:
 - [Batsugun (Japan)](../../../Regions/Retails/Japan/T-20605G/01/README.md) - :heavy_check_mark:
 - Battle Arena Toshinden Remix (Europe) - TODO
-- [Battle Arena Toshinden Remix (USA)](../../../Regions/Retails/USA/MK-81029/01/README.md) - :heavy_check_mark:
-- [Battle Arena Toshinden URA (Europe)](../../../Regions/Retails/Europe/MK-81054/01/README.md) - :heavy_check_mark:
-- [Battle Arena Toshinden URA (USA)](../../../Regions/Retails/USA/MK-81054/01/README.md) - :heavy_check_mark:
+- [Battle Arena Toshinden Remix (USA)](../../../Regions/Retails/USA/MK-81029/README.md) - :100:
+- [Battle Arena Toshinden URA (Europe)](../../../Regions/Retails/Europe/MK-81054/README.md) - :100:
+- [Battle Arena Toshinden URA (USA)](../../../Regions/Retails/USA/MK-81054/README.md) - :100:
 - [Battle Athletess Daiundoukai (Japan)](../../../Regions/Retails/Japan/T-24601G/01/README.md) - :heavy_check_mark:
 - [Battle Garegga (Japan)](../../../Regions/Retails/Japan/T-10627G/README.md) - :100:
 - Battle Monsters (Europe) - TODO

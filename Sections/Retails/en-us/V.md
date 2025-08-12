@@ -11,15 +11,15 @@
 - Valora Valley Golf (Europe) - TODO
 - [Valora Valley Golf (USA)](../../../Regions/Retails/USA/T-2303H/01/README.md) - :heavy_check_mark:
 - [Vampire Hunter: Darkstalkers' Revenge (Japan)](../../../Regions/Retails/Japan/T-1202G/01/README.md) - :heavy_check_mark:
-- [Vampire Savior: The Lord of Vampire (Japan)](../../../Regions/Retails/Japan/T-1229G/01/README.md) - :heavy_check_mark:
+- [Vampire Savior: The Lord of Vampire (Japan)](../../../Regions/Retails/Japan/T-1229G/README.md) - :100:
 - [Vandal Hearts - Ushinawareta Kodai Bunmei (Japan)](../../../Regions/Retails/Japan/T-9526G/01/README.md) - :heavy_check_mark:
-- [Vatlva (Japan)](../../../Regions/Retails/Japan/T-31501G/01/README.md) - :heavy_check_mark:
+- [Vatlva (Japan)](../../../Regions/Retails/Japan/T-31501G/README.md) - :100:
 - [Victory Boxing (Europe)](../../../Regions/Retails/Europe/T-6005H-50/01/README.md) - :heavy_check_mark:
 - [Victory Goal (Japan)](../../../Regions/Retails/Japan/GS-9002/01/README.md) - :heavy_check_mark:
 - [Victory Goal Worldwide Edition (Japan)](../../../Regions/Retails/Japan/GS-9112/01/README.md) - :heavy_check_mark:
-- [Virtua Cop (Europe)](../../../Regions/Retails/Europe/MK-81015/01/README.md) - :heavy_check_mark:
-- [Virtua Cop (Japan)](../../../Regions/Retails/Japan/GS-9060/01/README.md) - :heavy_check_mark:
-- [Virtua Cop (USA)](../../../Regions/Retails/USA/MK-81015/01/README.md) - :heavy_check_mark:
+- [Virtua Cop (Europe)](../../../Regions/Retails/Europe/MK-81015/README.md) - :minidisc: 4x
+- [Virtua Cop (Japan)](../../../Regions/Retails/Japan/GS-9060/README.md) - :minidisc: 2x
+- [Virtua Cop (USA)](../../../Regions/Retails/USA/MK-81015/README.md) - :minidisc: 3x
 - [Virtua Cop 2 (Europe)](../../../Regions/Retails/Europe/MK-81043/README.md) - :heavy_check_mark:
 - [Virtua Cop 2 (Japan)](../../../Regions/Retails/Japan/GS-9097/README.md) - :minidisc: 3x
 - [Virtua Cop 2 (USA)](../../../Regions/Retails/USA/MK-81043/README.md) - :100:

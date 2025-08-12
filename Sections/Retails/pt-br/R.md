@@ -6,7 +6,7 @@
 
 #### 64 Jogos (38 Testados - 26 TODO)
 
-- [Rabbit (Japan)](../../../Regions/Retails/Japan/T-10610G/01/README.md) - :heavy_check_mark:
+- [Rabbit (Japan)](../../../Regions/Retails/Japan/T-10610G/README.md) - :100:
 - [Race Drivin' (Japan)](../../../Regions/Retails/Japan/T-4802G/01/README.md) - :heavy_check_mark:
 - [Radiant Silvergun (Japan)](../../../Regions/Retails/Japan/T-32902G/01/README.md) - :heavy_check_mark:
 - Rampage - World Tour (Europe) - TODO

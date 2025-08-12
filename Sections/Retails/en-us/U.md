@@ -9,7 +9,7 @@
 - [UEFA Euro 96 - England (Europe)](../../../Regions/Retails/Europe/MK-81180/01/README.md) - :heavy_check_mark:
 - [Ultimate Mortal Kombat 3 (Europe)](../../../Regions/Retails/Europe/T-25403H/01/README.md) - :x:
 - [Ultimate Mortal Kombat 3 (USA)](../../../Regions/Retails/USA/T-9701H/01/README.md) - :x:
-- [Ultraman - Hikari no Kyojin Densetsu (Japan)](../../../Regions/Retails/Japan/T-13308G/01/README.md) - :heavy_check_mark:
+- [Ultraman: Hikari no Kyojin Densetsu (Japan)](../../../Regions/Retails/Japan/T-13308G/README.md) - :hammer_and_wrench:
 - [Ultraman Zukan (Japan)](../../../Regions/Retails/Japan/T-25501G/01/README.md) - :heavy_check_mark:
 - [Ultraman Zukan 2 (Japan)](../../../Regions/Retails/Japan/T-25502G/01/README.md) - :heavy_check_mark:
 - [Ultraman Zukan 3 (Japan)](../../../Regions/Retails/Japan/T-25505G/01/README.md) - :heavy_check_mark:
