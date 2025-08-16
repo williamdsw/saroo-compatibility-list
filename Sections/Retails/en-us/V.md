@@ -35,13 +35,13 @@
 - Virtua Fighter 2 (South Korea) - TODO
 - [Virtua Fighter 2 (USA)](../../../Regions/Retails/USA/MK-81014/01/README.md) - :heavy_check_mark:
 - Virtua Fighter Kids (Europe) - TODO
-- [Virtua Fighter Kids (Japan)](../../../Regions/Retails/Japan/GS-9098/01/README.md) - :heavy_check_mark:
+- [Virtua Fighter Kids (Japan)](../../../Regions/Retails/Japan/GS-9098/README.md) - :100:
 - Virtua Fighter Kids (South Korea) - TODO
-- [Virtua Fighter Kids (USA)](../../../Regions/Retails/USA/MK-81049/01/README.md) - :heavy_check_mark:
+- [Virtua Fighter Kids (USA)](../../../Regions/Retails/USA/MK-81049/README.md) - :100:
 - Virtua Fighter Remix (Europe) - TODO
-- [Virtua Fighter Remix (Japan)](../../../Regions/Retails/Japan/GS-9039/01/README.md) - :heavy_check_mark:
+- [Virtua Fighter Remix (Japan)](../../../Regions/Retails/Japan/GS-9039/README.md) - :minidisc: 4x
 - Virtua Fighter Remix (South Korea) - TODO
-- [Virtua Fighter Remix (USA)](../../../Regions/Retails/USA/MK-81023/01/README.md) - :heavy_check_mark:
+- [Virtua Fighter Remix (USA)](../../../Regions/Retails/USA/MK-81023/README.md) - :100:
 - [Virtua Photo Studio - Cameraman Simulation (Japan)](../../../Regions/Retails/Japan/T-8103G/01/README.md) - :heavy_check_mark:
 - Virtua Racing (Europe) - TODO
 - Virtua Racing (Japan) - TODO
@@ -63,7 +63,7 @@
 - [Virtual Open Tennis (USA)](../../../Regions/Retails/USA/T-8129H/01/README.md) - :heavy_check_mark:
 - [Virtual Volleyball (Japan)](../../../Regions/Retails/Japan/T-15005G/01/README.md) - :heavy_check_mark:
 - [Virus (Japan)](../../../Regions/Retails/Japan/T-14304G/01/README.md) - :question:
-- [Voice Fantasia S - Ushinawareta Voice Power (Japan)](../../../Regions/Retails/Japan/T-16706G/01/README.md) - :heavy_check_mark:
+- [Voice Fantasia S: Ushinawareta Voice Power (Japan)](../../../Regions/Retails/Japan/T-16706G/README.md) - :cd: 2x
 - [Voice Idol Maniacs - Pool Bar Story (Japan)](../../../Regions/Retails/Japan/T-1312G/01/README.md) - :x: & :heavy_check_mark:
 
 Navigation:

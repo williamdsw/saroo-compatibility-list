@@ -46,7 +46,7 @@
 - Firestorm - Thunderhawk 2 (Germany) - TODO
 - [Fishing Koushien (Japan)](../../../Regions/Retails/Japan/T-24901G/01/README.md) - :heavy_check_mark:
 - [Fishing Koushien II (Japan)](../../../Regions/Retails/Japan/T-24904G/01/README.md) - :heavy_check_mark:
-- [Fist (Japan)](../../../Regions/Retails/Japan/T-15015G/01/README.md) - :heavy_check_mark:
+- [Fist (Japan)](../../../Regions/Retails/Japan/T-15015G/README.md) - :100:
 - [Formula Grand Prix - Team Un'ei Simulation (Japan)](../../../Regions/Retails/Japan/T-7309G/01/README.md) - :heavy_check_mark:
 - [Formula Karts Special Edition (Europe)](../../../Regions/Retails/Europe/MK-81282/01/README.md) - :x:
 - Frank Thomas Big Hurt Baseball (Europe) - TODO

@@ -43,7 +43,7 @@
 | _Capcom Generation: Dai-5-shuu Kakutouka-tachi_                                                       | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-1236G/README.md)        | :100:               |
 | Clockwork Knight - Pepperouchau no Fukubukuro                                                         | :jp:   | TODO                                                                  | :question:          |
 | _Detana Twinbee Yahoo! Deluxe Pack_                                                                   | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-9505G/01/README.md)     | :heavy_check_mark:  |
-| _Dungeons & Dragons Collection_                                                                       | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-1245G/01/README.md)     | :cd:                |
+| _Dungeons & Dragons Collection_                                                                       | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-1245G/README.md)        | :cd: 2x             |
 | _Falcom Classics_                                                                                     | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-31503G/01/README.md)    | :cd:                |
 | Falcom Classics II (Genteiban)                                                                        | :jp:   | TODO                                                                  | :question:          |
 | Falcom Classics II                                                                                    | :jp:   | TODO                                                                  | :question:          |

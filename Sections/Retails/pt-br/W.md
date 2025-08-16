@@ -7,8 +7,8 @@
 #### 70 Jogos (49 Testados - 21 TODO)
 
 - WWF In Your House (Europe) - TODO
-- [WWF In Your House (Japan)](../../../Regions/Retails/Japan/T-8120G/01/README.md) - :heavy_check_mark:
-- [WWF In Your House (USA)](../../../Regions/Retails/USA/T-8126H/01/README.md) - :heavy_check_mark:
+- [WWF In Your House (Japan)](../../../Regions/Retails/Japan/T-8120G/README.md) - :100:
+- [WWF In Your House (USA)](../../../Regions/Retails/USA/T-8126H/README.md) - :100:
 - WWF WrestleMania - The Arcade Game (Europe) - TODO
 - [WWF WrestleMania - The Arcade Game (Japan)](../../../Regions/Retails/Japan/T-8112G/01/README.md) - :heavy_check_mark:
 - [WWF WrestleMania - The Arcade Game (USA)](../../../Regions/Retails/USA/T-8112H/01/README.md) - :x:
@@ -18,15 +18,15 @@
 - [Waku Waku Puyo Puyo Dungeon (Japan)](../../../Regions/Retails/Japan/T-6608G/01/README.md) - :heavy_check_mark:
 - [Waku Waku Monster (Japan)](../../../Regions/Retails/Japan/T-16608G/01/README.md) - :hammer_and_wrench:
 - [WanChai Connection (Japan)](../../../Regions/Retails/Japan/GS-9007/01/README.md) - :question:
-- [Wangan Dead Heat (Japan)](../../../Regions/Retails/Japan/T-9102G/01/README.md) - :heavy_check_mark:
-- [Wangan Dead Heat + Real Arrange (Japan)](../../../Regions/Retails/Japan/T-9103G/01/README.md) - :heavy_check_mark:
+- [Wangan Dead Heat (Japan)](../../../Regions/Retails/Japan/T-9102G/README.md) - :heavy_check_mark:
+- [Wangan Dead Heat + Real Arrange (Japan)](../../../Regions/Retails/Japan/T-9103G/README.md) - :cd: 2x
 - [Wangan Trial Love (Japan)](../../../Regions/Retails/Japan/T-9110G/01/README.md) - :heavy_check_mark:
 - WarCraft II - The Dark Saga (Europe) - TODO
 - WarCraft II - The Dark Saga (Japan) - TODO
 - [WarCraft II - The Dark Saga (USA)](../../../Regions/Retails/USA/T-5023H/01/README.md) - :heavy_check_mark:
 - [Wara² Wars: Gekitou! Daigundan Battle (Japan)](../../../Regions/Retails/Japan/T-21507G/01/README.md) - :heavy_check_mark:
 - [Welcome House (Japan)](../../../Regions/Retails/Japan/T-15027G/01/README.md) - :heavy_check_mark:
-- [Wheel's (Japan)](../../../Regions/Retails/Japan/610609201/01/README.md) - :heavy_check_mark:
+- [Wheel's (Japan)](../../../Regions/Retails/Japan/610609201/README.md) - :100:
 - [Whizz (Europe)](../../../Regions/Retails/Europe/T-9515H-50/01/README.md) - :x:
 - [Willy Wombat (Japan)](../../../Regions/Retails/Japan/T-14306G/01/README.md) - :heavy_check_mark:
 - Wing Arms (Europe) - TODO
@@ -51,7 +51,7 @@
 - [Wizard's Harmony (Japan)](../../../Regions/Retails/Japan/T-22001G/01/README.md) - :heavy_check_mark:
 - [Wizard's Harmony 2 (Japan)](../../../Regions/Retails/Japan/T-22004G/01/README.md) - :heavy_check_mark:
 - [Wizardry Nemesis (Japan)](../../../Regions/Retails/Japan/T-37001G/01/README.md) - :question:
-- [Wolf Fang SS Kuuga 2001](../../../Regions/Retails/Japan/T-26105G/01/README.md) - :heavy_check_mark:
+- [Wolf Fang SS Kuuga 2001](../../../Regions/Retails/Japan/T-26105G/README.md) - :100:
 - [World Advanced Daisenryaku: Koutetsu no Senpuu (Japan)](../../../Regions/Retails/Japan/GS9025/01/README.md) - :heavy_check_mark:
 - [World Advanced Daisenryaku: Sakusen File (Japan)](../../../Regions/Retails/Japan/GS-9082/01/README.md) - :heavy_check_mark:
 - [World Cup '98 France: Road to Win (Japan)](../../../Regions/Retails/Japan/GS-9196/01/README.md) - :heavy_check_mark:
@@ -62,7 +62,7 @@
 - World Cup Golf - Professional Edition (Germany) (Rev A) - TODO
 - [World Cup Golf: Professional Edition](../../../Regions/Retails/USA/T-7903H/01/README.md) - :heavy_check_mark:
 - [World Evolution Soccer (Japan)](../../../Regions/Retails/Japan/T-2002G/01/README.md) - :heavy_check_mark:
-- [World Heroes Perfect (Japan)](../../../Regions/Retails/Japan/T-3103G/01/README.md) - :heavy_check_mark:
+- [World Heroes Perfect (Japan)](../../../Regions/Retails/Japan/T-3103G/README.md) - :100:
 - [World League Soccer '98 (Europe)](../../../Regions/Retails/Europe/MK-81181/01/README.md) - :x:
 - World Series Baseball (Europe) - TODO
 - [World Series Baseball (USA)](../../../Regions/Retails/USA/MK-81109/01/README.md) - :heavy_check_mark:
