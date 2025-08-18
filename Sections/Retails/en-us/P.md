@@ -44,7 +44,7 @@
 - [Planet Joker (Japan)](../../../Regions/Retails/Japan/T-18711G/01/README.md) - :heavy_check_mark:
 - [Playboy Karaoke Collection Volume 1 (Japan)](../../../Regions/Retails/Japan/T-2305G/01/README.md) - :100:
 - [Playboy Karaoke Collection Volume 2 (Japan)](../../../Regions/Retails/Japan/T-2304G/01/README.md) - :100:
-- [Pocket Fighter (Japan)](../../../Regions/Retails/Japan/T-1230G/01/README.md) - :100:
+- [Pocket Fighter (Japan)](../../../Regions/Retails/Japan/T-1230G/README.md) - :100:
 - [Policenauts (Japan)](../../../Regions/Retails/Japan/T-9510G/01/README.md) - :question:
 - [Popoitto Hebereke (Japan)](../../../Regions/Retails/Japan/T-1504G/01/README.md) - :heavy_check_mark:
 - Powerslave (USA) - TODO

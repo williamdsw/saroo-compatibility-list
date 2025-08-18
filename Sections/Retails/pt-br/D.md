@@ -22,7 +22,7 @@
 - [Daikoukai Jidai Gaiden (Japan)](../../../Regions/Retails/Japan/T-7657G/01/README.md) - :hammer_and_wrench:
 - [Daikoukai Jidai II (Japan)](../../../Regions/Retails/Japan/T-7628G/01/README.md) - :heavy_check_mark:
 - [Daisenryaku - Strong Style (Japan)](../../../Regions/Retails/Japan/T-21202G/01/README.md) - :heavy_check_mark:
-- [Daisuki (Japan)](../../../Regions/Retails/Japan/T-18510G/01/README.md) - :question:
+- [Daisuki (Japan)](../../../Regions/Retails/Japan/T-18510G/README.md) - :cd: 2x
 - [Daitoride (Japan)](../../../Regions/Retails/Japan/T-29201G/01/README.md) - :heavy_check_mark:
 - [Darius Gaiden (Europe)](../../../Regions/Retails/Europe/T-8123H-50/01/README.md) - :heavy_check_mark:
 - [Darius Gaiden (Japan)](../../../Regions/Retails/Japan/T-1102G/01/README.md) - :heavy_check_mark:
@@ -71,14 +71,14 @@
 - Defcon 5 (Japan) - TODO
 - [Defcon 5 (USA)](../../../Regions/Retails/USA/T-1301G/01/README.md) - :heavy_check_mark:
 - [Deka Yonku: Tough the Truck (Japan)](../../../Regions/Retails/Japan/T-4313G/01/README.md) - :heavy_check_mark:
-- [Delisoba Deluxe (Japan)](../../../Regions/Retails/Japan/6106803/01/README.md) - :heavy_check_mark:
+- [Delisoba Deluxe (Japan)](../../../Regions/Retails/Japan/6106803/README.md) - :100:
 - [Dennou Senki: Virtual On: Cyber Troopers (Japan)](../../../Regions/Retails/Japan/GS-9099/01/README.md) - :x:
 - Dennou Senki - Virtual On - Cyber Troopers (Korea) - TODO
 - Dennou Senki - Virtual On - Cyber Troopers for SegaNet (Japan) - TODO
 - [Denpa Shounen-teki Game (Japan)](../../../Regions/Retails/Japan/T-14316G/01/README.md) - :heavy_check_mark:
 - Denpa Shounen-teki Game (Japan) (Rerelease) - TODO
 - [Densetsu no Ogre Battle (Japan)](../../../Regions/Retails/Japan/T-5305G/01/README.md) - :heavy_check_mark:
-- [Densha de Go! EX (Japan)](../../../Regions/Retails/Japan/T-10317G/01/README.md) - :heavy_check_mark:
+- [Densha de Go! EX (Japan)](../../../Regions/Retails/Japan/T-10317G/README.md) - :100:
 - [Derby Analyst (Japan)](../../../Regions/Retails/Japan/T-20505G/01/README.md) - :heavy_check_mark:
 - [Derby Stallion (Japan)](../../../Regions/Retails/Japan/T-2113G/01/README.md) - :heavy_check_mark:
 - [Deroon Dero Dero (Japan)](../../../Regions/Retails/Japan/T-3601G/01/README.md) - :heavy_check_mark:

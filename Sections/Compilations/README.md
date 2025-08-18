@@ -14,7 +14,7 @@
 - [Capcom Generation: Dai-4-shuu Kokou no Eiyuu (Japan)](../../Regions/Compilations/Japan/T-1235G/01/README.md)
 - [Capcom Generation: Dai-5-shuu Kakutouka-tachi (Japan)](../../Regions/Compilations/Japan/T-1236G/README.md) - :100:
 - Clockwork Knight - Pepperouchau no Fukubukuro (Japan) - TODO
-- [Detana Twinbee Yahoo! Deluxe Pack (Japan)](../../Regions/Compilations/Japan/T-9505G/01/README.md)
+- [Detana Twinbee Yahoo! Deluxe Pack (Japan)](../../Regions/Compilations/Japan/T-9505G/README.md) - :100:
 - [Dungeons & Dragons Collection (Japan)](../../Regions/Compilations/Japan/T-1245G/README.md) - :cd: 2x
 - [Falcom Classics (Japan)](../../Regions/Compilations/Japan/T-31503G/01/README.md)
 - Falcom Classics II (Japan) (Genteiban) - TODO

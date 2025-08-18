@@ -18,9 +18,9 @@
 - [Galaxy Fight (USA)](../../../Regions/Retails/USA/T-1504H/README.md) - :100:
 - [Galaxy Fight: Universal Warriorss (Japan)](../../../Regions/Retails/Japan/T-1510G/README.md) - :100:
 - [Gale Racer (Japan)](../../../Regions/Retails/Japan/GS-9003/01/README.md) - :heavy_check_mark:
-- [Gals Panic SS (Japan)](../../../Regions/Retails/Japan/T-29002G/01/README.md) - :heavy_check_mark:
+- [Gals Panic SS (Japan)](../../../Regions/Retails/Japan/T-29002G/README.md) - :100:
 - [Game Nihonshi: Kakumeiji Oda Nobunaga (Japan)](../../../Regions/Retails/Japan/T-7633G/01/README.md) - :heavy_check_mark:
-- [Game Tengoku (Japan)](../../../Regions/Retails/Japan/T-5712G/01/README.md) - :heavy_check_mark:
+- [Game Tengoku (Japan)](../../../Regions/Retails/Japan/T-5712G/README.md) - :100:
 - [Game de Seishun (Japan)](../../../Regions/Retails/Japan/T-19711G/01/README.md) - :heavy_check_mark:
 - [Game no Tatsujin (Japan)](../../../Regions/Retails/Japan/T-1502G/01/README.md) - :heavy_check_mark:
 - [Game no Tatsujin 2 (Japan)](../../../Regions/Retails/Japan/T-1509G/01/README.md) - :heavy_check_mark:
@@ -56,7 +56,7 @@
 - [Gotha - Ismailia SenEki (Japan)](../../../Regions/Retails/Japan/GS-9009/01/README.md) - :hammer_and_wrench:
 - [Gotha II: Tenkuu no Kishi (Japan)](../../../Regions/Retails/Japan/T-7608G/01/README.md) - :heavy_check_mark:
 - [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../../Regions/Retails/Japan/T-14411G/01/README.md) - :heavy_check_mark:
-- [Gran Chaser (Japan)](../../../Regions/Retails/Japan/GS-9022/01/README.md) - :heavy_check_mark:
+- [Gran Chaser (Japan)](../../../Regions/Retails/Japan/GS-9022/README.md) - :100:
 - [GranDread (Japan)](../../../Regions/Retails/Japan/T-20603G/01/README.md) - :x:
 - [Grand Slam (USA)](../../../Regions/Retails/USA/T-07004H/01/README.md) - :heavy_check_mark:
 - [Grandia (Japan)](../../../Regions/Retails/Japan/T-4507G/01/README.md) - :question:
@@ -65,7 +65,7 @@
 - [Grid Run (Europe)](../../../Regions/Retails/Europe/T-7016H-50/01/README.md) - :heavy_check_mark:
 - Grid Runner (Japan) - TODO
 - [Grid Runner (USA)](../../../Regions/Retails/USA/T-7025H/01/README.md) - :heavy_check_mark:
-- [Guardian Force (Japan)](../../../Regions/Retails/Japan/T-9905G/01/README.md) - :heavy_check_mark:
+- [Guardian Force (Japan)](../../../Regions/Retails/Japan/T-9905G/README.md) - :100:
 - [Guardian Heroes (Europe)](../../../Regions/Retails/Europe/MK-81035/01/README.md) - :heavy_check_mark:
 - Guardian Heroes (Japan) (3M) - TODO
 - [Guardian Heroes (USA)](../../../Regions/Retails/USA/MK-81035/01/README.md) - :heavy_check_mark:

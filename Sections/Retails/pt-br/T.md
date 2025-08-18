@@ -20,7 +20,7 @@
 - [Tanjou - Debut S (Japan)](../../../Regions/Retails/Japan/T-20101G/01/README.md) - :heavy_check_mark:
 - [Tantei Jinguuji Saburou: Mikan no Report (Japan)](../../../Regions/Retails/Japan/T-1307G/01/README.md) - :heavy_check_mark:
 - [Tantei Jinguuji Saburou: Yume no Owari ni (Japan)](../../../Regions/Retails/Japan/T-1316G/01/README.md) - :heavy_check_mark:
-- [Techno Motor (Japan)](../../../Regions/Retails/Japan/T-37601G/01/README.md) - :heavy_check_mark:
+- [Techno Motor (Japan)](../../../Regions/Retails/Japan/T-37601G/README.md) - :100:
 - Teitoku no Ketsudan II (Japan) - TODO
 - [Teitoku no Ketsudan III (Japan)](../../../Regions/Retails/Japan/T-7640G/01/README.md) - :heavy_check_mark:
 - Teitoku no Ketsudan III with Power-Up Kit (Japan) - TODO

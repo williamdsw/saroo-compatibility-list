@@ -14,11 +14,11 @@
 - [Casper (USA)](../../../Regions/Retails/USA/T-12512H/01/README.md) - :heavy_check_mark:
 - [Cat the Ripper: 13Ninme no Tanteishi (Japan)](../../../Regions/Retails/Japan/T-35701G/01/README.md) - :heavy_check_mark:
 - [Center Ring Boxing (USA)](../../../Regions/Retails/USA/T-6005H/01/README.md) - :heavy_check_mark:
-- [Chaos Control (Europe)](../../../Regions/Retails/Europe/T-15102H/01/README.md) - :heavy_check_mark:
+- [Chaos Control (Europe)](../../../Regions/Retails/Europe/T-15102H/README.md) - :100:
 - Chaos Control (Japan) - TODO
-- [Chaos Control Remix (Japan)](../../../Regions/Retails/Japan/T-7006G/01/README.md) - :heavy_check_mark:
+- [Chaos Control Remix (Japan)](../../../Regions/Retails/Japan/T-7006G/README.md) - :100:
 - [Chibi Maruko-chan no Taisen Puzzle-dama (Japan)](../../../Regions/Retails/Japan/T-9507G/01/README.md) - :heavy_check_mark:
-- [Chisato Moritaka: Watarasebashi/Lala Sunshine (Japan)](../../../Regions/Retails/Japan/GS-9172/01/README.md) - :question:
+- [Chisato Moritaka: Watarasebashi/Lala Sunshine (Japan)](../../../Regions/Retails/Japan/GS-9172/README.md) - :cd: 2x
 - [Choro Q Park (Japan)](../../../Regions/Retails/Japan/T-10314G/01/README.md) - :heavy_check_mark:
 - [Cho Aniki: Kyukyoku ... Otoko no Gyakushu (Japan)](../../../Regions/Retails/Japan/T-2503G/01/README.md) - :heavy_check_mark:
 - [Choujikuu Yousai Macross: Ai Oboete Imasu ka (Japan)](../../../Regions/Retails/Japan/T-23403G/01/README.md) - :question:

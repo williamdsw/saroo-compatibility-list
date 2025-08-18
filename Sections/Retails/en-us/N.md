@@ -47,7 +47,7 @@
 - [Noël 3 (Japan)](../../../Regions/Retails/Japan/T-22205G/01/README.md) - :question:
 - [Nanatsu Kaze no Shima Monogatari (Japan)](../../../Regions/Retails/Japan/T-35501G/01/README.md) - :heavy_check_mark:
 - [Nanatsu no Hikan (Japan)](../../../Regions/Retails/Japan/T-7616G/01/README.md) - :question:
-- [Nekketsu Oyako (Japan)](../../../Regions/Retails/Japan/T-1802G/01/README.md) - :heavy_check_mark:
+- [Nekketsu Oyako (Japan)](../../../Regions/Retails/Japan/T-1802G/README.md) - :100:
 - [Next King - Koi no Sennen Oukoku (Japan)](../../../Regions/Retails/Japan/T-13328G/01/README.md) - :heavy_check_mark:
 - [NiGHTS into Dreams... (Europe)](../../../Regions/Retails/Europe/MK-81020/01/README.md) - :x:
 - [NiGHTS into Dreams... (Japan)](../../../Regions/Retails/Japan/GS-9046/01/README.md) - :heavy_check_mark:

@@ -49,7 +49,7 @@
 - [Houma Hunter Lime Perfect Collection (Japan)](../../../Regions/Retails/Japan/T-2001G/01/README.md) - :x: & :question:
 - [Hyper 3-D Pinball (USA)](../../../Regions/Retails/USA/T-7015H/01/README.md) - :heavy_check_mark:
 - [Hyper 3-D Pinball (Japan)](../../../Regions/Retails/Japan/T-7007G/01/README.md) - :heavy_check_mark:
-- [Hyper 3D Taisen Battle Gebockers (Japan)](../../../Regions/Retails/Japan/T-5303G/01/README.md) - :heavy_check_mark:
+- [Hyper 3D Taisen Battle Gebockers (Japan)](../../../Regions/Retails/Japan/T-5303G/README.md) - :100:
 - [Hyper Duel (Japan)](../../../Regions/Retails/Japan/T-1809G/01/README.md) - :heavy_check_mark:
 - [Hyper Reverthion (Japan)](../../../Regions/Retails/Japan/T-1803G/01/README.md) - :heavy_check_mark:
 - [Hyper Securities S (Japan)](../../../Regions/Retails/Japan/T-9105G/01/README.md) - :heavy_check_mark:
