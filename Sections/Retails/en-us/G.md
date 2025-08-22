@@ -67,7 +67,7 @@
 - [Grid Runner (USA)](../../../Regions/Retails/USA/T-7025H/01/README.md) - :heavy_check_mark:
 - [Guardian Force (Japan)](../../../Regions/Retails/Japan/T-9905G/README.md) - :100:
 - [Guardian Heroes (Europe)](../../../Regions/Retails/Europe/MK-81035/01/README.md) - :heavy_check_mark:
-- [Guardian Heroes (Japan)](../../../Regions/Retails/Japan/GS-9031/01/README.md) - :heavy_check_mark:
+- [Guardian Heroes (Japan)](../../../Regions/Retails/Japan/GS-9031/README.md) - :100:
 - [Guardian Heroes (USA)](../../../Regions/Retails/USA/MK-81035/01/README.md) - :heavy_check_mark:
 - [Gun Frontier Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26109G/01/README.md) - :x:
 - [Gunblaze S (Japan)](../../../Regions/Retails/Japan/T-19710G/01/README.md) - :heavy_check_mark:

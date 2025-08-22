@@ -45,7 +45,7 @@
 - [Sea Bass Fishing (Europe)](../../../Regions/Retails/Europe/T-6009H-50/01/README.md) - :heavy_check_mark:
 - SeaBass Fishing (Japan) - TODO
 - [SeaBass Fishing 2 (Japan)](../../../Regions/Retails/Japan/T-6011G/01/README.md) - :heavy_check_mark:
-- [Sega Ages: After Burner II (Japan)](../../../Regions/Retails/Japan/GS-9109/01/README.md)
+- [Sega Ages: After Burner II (Japan)](../../../Regions/Retails/Japan/GS-9109/README.md) - :100:
 - [Sega Ages: Fantasy Zone (Japan)](../../../Regions/Retails/Japan/GS-9136/01/README.md)
 - [Sega Ages: Galaxy Force II (Japan)](../../../Regions/Retails/Japan/GS-9197/01/README.md)
 - [Sega Ages: OutRun (Japan)](../../../Regions/Retails/Japan/GS-9110/01/README.md)
@@ -165,7 +165,7 @@
 - [Sol Divide (Japan)](../../../Regions/Retails/Japan/T-14423G/README.md) - :100:
 - [Solar Eclipse (USA)](../../../Regions/Retails/USA/T-15911H/01/README.md) - :heavy_check_mark:
 - [Solo Crisis (Japan)](../../../Regions/Retails/Japan/T-23501G/01/README.md) - :heavy_check_mark:
-- [Sonic 3D: Flickies' Island (Europe)](../../../Regions/Retails/Europe/MK-8106250/01/README.md) - :heavy_check_mark:
+- [Sonic 3D: Flickies' Island (Europe)](../../../Regions/Retails/Europe/MK-8106250/README.md) - :100:
 - [Sonic 3D: Flickies' Island (Japan)](../../../Regions/Retails/Japan/GS-9143/01/README.md) - :heavy_check_mark:
 - [Sonic 3D Blast (USA)](../../../Regions/Retails/USA/MK-81062/01/README.md) - :x:
 - Sonic R (Europe) - TODO
@@ -222,7 +222,7 @@
 - Street Fighter Alpha 2 (Europe) - TODO
 - [Street Fighter Alpha 2 (USA)](../../../Regions/Retails/USA/T-1213H/01/README.md) - :x:
 - [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/README.md) - :cd: 2x
-- [Street Fighter Collection (Japan)](../../../Regions/Retails/Japan/T-1223G/01/README.md) - :cd: 2x
+- [Street Fighter Collection (Japan)](../../../Regions/Retails/Japan/T-1223G/README.md) - :cd: 2x
 - [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/README.md) - :cd: 2x
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
@@ -247,7 +247,7 @@
 - [Super Casino Special (Japan)](../../../Regions/Retails/Japan/T-7306G/01/README.md) - :heavy_check_mark:
 - [Super Puzzle Fighter II Turbo (Europe)](../../../Regions/Retails/Europe/T-7030H-50/01/README.md) - :heavy_check_mark:
 - [Super Puzzle Fighter II Turbo (USA)](../../../Regions/Retails/USA/T-1215H/README.md) - :100:
-- [Super Puzzle Fighter II X (Japan)](../../../Regions/Retails/Japan/T-1213G/01/README.md) - :heavy_check_mark:
+- [Super Puzzle Fighter II X (Japan)](../../../Regions/Retails/Japan/T-1213G/README.md) - :100:
 - [Super Real Mahjong PV (Japan)](../../../Regions/Retails/Japan/T-16501G/01/README.md) - :heavy_check_mark:
 - [Super Real Mahjong P7 (Japan)](../../../Regions/Retails/Japan/T-16509G/01/README.md) - :x:
 - Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO

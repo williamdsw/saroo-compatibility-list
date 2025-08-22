@@ -1,16 +1,16 @@
-# X-Men: Children of the Atom (Japan)
+# Super Puzzle Fighter II X (Japan)
 
-| Game Name | Product Number | Version | Area Code | Peripheral Code |
-| --------- | -------------- | ------- | --------- | --------------- |
-| X-MEN     | T-1203G        | V1.000  | JT        | J               |
+| Game Name               | Product Number | Version | Area Code | Peripheral Code |
+| ----------------------- | -------------- | ------- | --------- | --------------- |
+| SUPER PUZZLE FIGHTER 2X | T-1213G        | V1.001  | J         | J               |
 
 | Test | Console | SAROO Cartridge | Firmware | Micro SD Card | Status | Time Played           |
 | ---- | ------- | --------------- | -------- | ------------- | ------ | --------------------- |
-| 1    | VA13    | Elite           | v0.7     | Lexar (exFAT) | :100:  | 1 hour and 10 minutes |
+| 1    | VA13    | Elite           | v0.7     | Lexar (exFAT) | :100:  | 1 hours and 4 minutes |
 
 | Test | Evidence                                                                                         |
 | ---- | ------------------------------------------------------------------------------------------------ |
-| 1    | [![](https://img.youtube.com/vi/OyukRCK8FAk/0.jpg)](https://www.youtube.com/watch?v=OyukRCK8FAk) |
+| 1    | [![](https://img.youtube.com/vi/JtA4hYojWdE/0.jpg)](https://www.youtube.com/watch?v=JtA4hYojWdE) |
 
 Used hardware links:
 

@@ -14,7 +14,7 @@
 - [Idol Mahjong - Final Romance 2 (Japan)](../../../Regions/Retails/Japan/T-16702G/01/README.md) - :heavy_check_mark:
 - [Idol Mahjong - Final Romance 4 (Japan)](../../../Regions/Retails/Japan/T-3003G/01/README.md) - :heavy_check_mark:
 - [Idol Mahjong - Final Romance R (Japan)](../../../Regions/Retails/Japan/T-16703G/01/README.md) - :heavy_check_mark:
-- [Idol Mahjong - Final Romance R (Japan) (Bonus Discs)](../../../Regions/Retails/Japan/T-16705G/01/README.md) - :heavy_check_mark:
+- [Idol Mahjong - Final Romance R (Japan) (Bonus Discs)](../../../Regions/Retails/Japan/T-16705G/README.md) - :minidisc: 2x
 - [Impact Racing (Europe)](../../../Regions/Retails/Europe/T-6010H-50/01/README.md) - :heavy_check_mark:
 - [Impact Racing (Japan)](../../../Regions/Retails/Japan/T-7307G/01/README.md) - :x:
 - [Impact Racing (USA)](../../../Regions/Retails/USA/T-8139H/01/README.md) - :heavy_check_mark:

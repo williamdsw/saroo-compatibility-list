@@ -31,7 +31,7 @@
 - Virtua Fighter 2 (Europe) (Made in USA) - TODO
 - Virtua Fighter 2 (Europe) (Rev A) (Made in EU) - TODO
 - Virtua Fighter 2 (Europe) (Rev A) (Made in USA) - TODO
-- [Virtua Fighter 2 (Japan)](../../../Regions/Retails/Japan/GS-9079/01/README.md) - :heavy_check_mark:
+- [Virtua Fighter 2 (Japan)](../../../Regions/Retails/Japan/GS-9079/README.md) - :minidisc: 6x
 - Virtua Fighter 2 (South Korea) - TODO
 - Virtua Fighter 2 (USA) (RE) - TODO
 - Virtua Fighter 2 (USA) - TODO (Recorded ?)

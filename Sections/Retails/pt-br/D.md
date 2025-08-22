@@ -25,7 +25,7 @@
 - [Daisuki (Japan)](../../../Regions/Retails/Japan/T-18510G/README.md) - :cd: 2x
 - [Daitoride (Japan)](../../../Regions/Retails/Japan/T-29201G/01/README.md) - :heavy_check_mark:
 - [Darius Gaiden (Europe)](../../../Regions/Retails/Europe/T-8123H-50/01/README.md) - :heavy_check_mark:
-- [Darius Gaiden (Japan)](../../../Regions/Retails/Japan/T-1102G/01/README.md) - :heavy_check_mark:
+- [Darius Gaiden (Japan)](../../../Regions/Retails/Japan/T-1102G/README.md) - :minidisc: 2x
 - [Darius Gaiden (USA)](../../../Regions/Retails/USA/T-8123H/01/README.md) - :heavy_check_mark:
 - [Darius II (Europe)](../../../Regions/Retails/Europe/MK-81085/01/README.md) - :heavy_check_mark:
 - [Darius II (Japan)](../../../Regions/Retails/Japan/T-1104G/01/README.md) - :heavy_check_mark:

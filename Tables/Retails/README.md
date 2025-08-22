@@ -37,7 +37,7 @@
 
 | Icon                | Name         | Misc                                                                                    |
 | ------------------- | ------------ | --------------------------------------------------------------------------------------- |
-| :heavy_check_mark:  | Playable     | Playable without issues                                                                 |
+| :heavy_check_mark:  | Playable     | Playable without problems during recording                                              |
 | :x:                 | Errors       | Problems such as black screens, images, sounds, freezing                                |
 | :hammer_and_wrench: | Configurable | Playable with proper configuration                                                      |
 | :question:          | Untested     | Game wasn't tested aka `TODO`                                                           |
@@ -334,7 +334,7 @@
 | Daisuki                                                 | :jp:   | :cd: 2x             | [Link](../../Regions/Retails/Japan/T-18510G/README.md)       |
 | Daitoride                                               | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-29201G/01/README.md)    |
 | Darius Gaiden                                           | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/T-8123H-50/01/README.md) |
-| Darius Gaiden                                           | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-1102G/01/README.md)     |
+| Darius Gaiden                                           | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-1102G/README.md)        |
 | Darius Gaiden                                           | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/T-8123H/01/README.md)       |
 | Darius II                                               | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81085/01/README.md)   |
 | Darius II                                               | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-1104G/01/README.md)     |
@@ -505,7 +505,7 @@
 | Father Christmas                                | :jp:   | :heavy_check_mark:                   | [Link](../../Regions/Retails/Japan/T-18504G/01/README.md)    |
 | Fighter's History Dynamite                      | :jp:   | :100:                                | [Link](../../Regions/Retails/Japan/GS-9107/README.md)        |
 | Fighters Megamix                                | :eu:   | :heavy_check_mark:                   | [Link](../../Regions/Retails/Europe/MK-81073/01/README.md)   |
-| Fighters Megamix                                | :jp:   | :minidisc: 3x                        | [Link](../../Regions/Retails/Japan/GS-9126/01/README.md)     |
+| Fighters Megamix                                | :jp:   | :minidisc: 3x                        | [Link](../../Regions/Retails/Japan/GS-9126/README.md)        |
 | Fighters Megamix                                | :us:   | :minidisc: 2x                        | [Link](../../Regions/Retails/USA/MK-81073/01/README.md)      |
 | Fighting Vipers                                 | :eu:   | :100:                                | [Link](../../Regions/Retails/Europe/MK-81041/README.md)      |
 | Fighting Vipers                                 | :jp:   | :minidisc: 2x                        | [Link](../../Regions/Retails/Japan/GS-9101/01/README.md)     |
@@ -602,7 +602,7 @@
 | Grid Runner                                              | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/T-7025H/01/README.md)       |
 | Guardian Force                                           | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-9905G/01/README.md)     |
 | Guardian Heroes                                          | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-81035/01/README.md)   |
-| Guardian Heroes                                          | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/GS-9031/01/README.md)     |
+| Guardian Heroes                                          | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/GS-9031/README.md)        |
 | Guardian Heroes                                          | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/MK-81035/01/README.md)      |
 | Gun Frontier Arcade Gears                                | :jp:   | :x:                 | [Link](../../Regions/Retails/Japan/T-26109G/01/README.md)    |
 | Gunblaze S                                               | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-19710G/01/README.md)    |
@@ -678,7 +678,7 @@
 | Idol Mahjong - Final Romance 2               | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-16702G/01/README.md)    |
 | Idol Mahjong - Final Romance 4               | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-3003G/01/README.md)     |
 | Idol Mahjong - Final Romance R               | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-16703G/01/README.md)    |
-| Idol Mahjong - Final Romance R (Bonus Discs) | :jp:   | :cd: 2x             | [Link](../../Regions/Retails/Japan/T-16705G/01/README.md)    |
+| Idol Mahjong - Final Romance R (Bonus Discs) | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-16705G/README.md)       |
 | Impact Racing                                | :eu:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/T-6010H-50/01/README.md) |
 | Impact Racing                                | :jp:   | :x:                 | [Link](../../Regions/Retails/Japan/T-7307G/01/README.md)     |
 | Impact Racing                                | :us:   | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/T-8139H/01/README.md)       |
@@ -1071,7 +1071,7 @@
 | Playboy Karaoke Collection Volume 2          | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-2304G/01/README.md)     |
 | Pocket Fighter                               | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-1230G/README.md)        |
 | Policenauts                                  | :jp:   | :cd: 3x             | [Link](../../Regions/Retails/Japan/T-9510G/01/README.md)     |
-| Popoitto Hebereke                            | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-1504G/01/README.md)     |
+| Popoitto Hebereke                            | :jp:   | :100:               | [Link](../../Regions/Retails/Japan/T-1504G/README.md)        |
 | Powerslave                                   | :us:   | :question:          | TODO                                                         |
 | PriCla Daisakusen                            | :jp:   | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-14409G/01/README.md)    |
 | Primal Rage                                  | :eu:   | :100:               | [Link](../../Regions/Retails/Europe/T-4802H-50/README.md)    |
@@ -1096,7 +1096,7 @@
 | Puyo Puyo Sun                                | :jp:   | :minidisc: 3x       | [Link](../../Regions/Retails/Japan/T-6603G/01/README.md)     |
 | Puyo Puyo Sun for SegaNet                    | :jp:   | :question:          | TODO                                                         |
 | Puyo Puyo Tsuu                               | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-6601G/01/README.md)     |
-| Puzzle Bobble 2X                             | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-1106G/01/README.md)     |
+| Puzzle Bobble 2X                             | :jp:   | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-1106G/README.md)        |
 | Puzzle Bobble 3 (1M)                         | :jp:   | :question:          | TODO (Recorded)                                              |
 | Puzzle Bobble 3 (2M)                         | :jp:   | :question:          | TODO                                                         |
 | Puzzle Bobble 3 for SegaNet                  | :jp:   | :question:          | TODO                                                         |
@@ -1226,7 +1226,7 @@
 | Sea Bass Fishing                                             | :eu:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/T-6009H-50/01/README.md) |
 | SeaBass Fishing                                              | :jp:     | :question: TODO     | TODO                                                         |
 | SeaBass Fishing 2                                            | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-6011G/01/README.md)     |
-| Sega Ages: After Burner II                                   | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/GS-9109/01/README.md)     |
+| Sega Ages: After Burner II                                   | :jp:     | :100:               | [Link](../../Regions/Retails/Japan/GS-9109/README.md)        |
 | Sega Ages: Fantasy Zone                                      | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/GS-9136/01/README.md)     |
 | Sega Ages: Galaxy Force II                                   | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/GS-9197/01/README.md)     |
 | Sega Ages: OutRun                                            | :jp:     | :x:                 | [Link](../../Regions/Retails/Japan/GS-9110/01/README.md)     |
@@ -1346,7 +1346,7 @@
 | Sol Divide                                                   | :jp:     | :100:               | [Link](../../Regions/Retails/Japan/T-14423G/README.md)       |
 | Solar Eclipse                                                | :us:     | :heavy_check_mark:  | [Link](../../Regions/Retails/USA/T-15911H/01/README.md)      |
 | Solo Crisis                                                  | :jp:     | :minidisc: 2x       | [Link](../../Regions/Retails/Japan/T-23501G/01/README.md)    |
-| Sonic 3D: Flickies' Island                                   | :eu:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/MK-8106250/01/README.md) |
+| Sonic 3D: Flickies' Island                                   | :eu:     | :100:               | [Link](../../Regions/Retails/Europe/MK-8106250/README.md)    |
 | Sonic 3D: Flickies' Island                                   | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/GS-9143/01/README.md)     |
 | Sonic 3D Blast                                               | :us:     | :x:                 | [Link](../../Regions/Retails/USA/MK-81062/01/README.md)      |
 | Sonic R                                                      | :eu:     | :question:          | TODO                                                         |
@@ -1403,7 +1403,7 @@
 | Street Fighter Alpha 2                                       | :eu:     | :question:          | TODO                                                         |
 | Street Fighter Alpha 2                                       | :us:     | :x:                 | [Link](../../Regions/Retails/USA/T-1213H/01/README.md)       |
 | Street Fighter Collection                                    | :eu:     | :cd: 2x             | [Link](../../Regions/Retails/Europe/T-7033H-50/README.md)    |
-| Street Fighter Collection                                    | :jp:     | :cd: 2x             | [Link](../../Regions/Retails/Japan/T-1223G/01/README.md)     |
+| Street Fighter Collection                                    | :jp:     | :cd: 2x             | [Link](../../Regions/Retails/Japan/T-1223G/README.md)        |
 | Street Fighter Collection                                    | :us:     | :cd: 2x             | [Link](../../Regions/Retails/USA/T-1222H/README.md)          |
 | Street Fighter II Movie (Japan) (Disc 1)                     | :jp:     | :question:          | TODO                                                         |
 | Street Fighter II Movie (Japan) (Disc 2)                     | :jp:     | :question:          | TODO                                                         |
@@ -1428,7 +1428,7 @@
 | Super Casino Special                                         | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-7306G/01/README.md)     |
 | Super Puzzle Fighter II Turbo                                | :eu:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Europe/T-7030H-50/01/README.md) |
 | Super Puzzle Fighter II Turbo                                | :us:     | :100:               | [Link](../../Regions/Retails/USA/T-1215H/README.md)          |
-| Super Puzzle Fighter II X                                    | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-1213G/01/README.md)     |
+| Super Puzzle Fighter II X                                    | :jp:     | :100:               | [Link](../../Regions/Retails/Japan/T-1213G/README.md)        |
 | Super Real Mahjong PV                                        | :jp:     | :heavy_check_mark:  | [Link](../../Regions/Retails/Japan/T-16501G/01/README.md)    |
 | Super Real Mahjong P7                                        | :jp:     | :x:                 | [Link](../../Regions/Retails/Japan/T-16509G/01/README.md)    |
 | Super Real Mahjong P7 - P's Club Special Edition             | :jp:     | TODO                | TODO                                                         |
@@ -1618,7 +1618,7 @@
 | Virtua Fighter 2 (Made in USA)              | :eu:   | :question:          | TODO                                                         |
 | Virtua Fighter 2 (Rev A) (Made in EU)       | :eu:   | :question:          | TODO                                                         |
 | Virtua Fighter 2 (Rev A) (Made in USA)      | :eu:   | :question:          | TODO                                                         |
-| Virtua Fighter 2                            | :jp:   | :minidisc: 6x       | [Link](../../Regions/Retails/Japan/GS-9079/01/README.md)     |
+| Virtua Fighter 2                            | :jp:   | :minidisc: 6x       | [Link](../../Regions/Retails/Japan/GS-9079/README.md)        |
 | Virtua Fighter 2                            | :kr:   | :question:          | TODO                                                         |
 | Virtua Fighter 2                            | :us:   | :minidisc: 2x       | [Link](../../Regions/Retails/USA/MK-81014/01/README.md)      |
 | Virtua Fighter Kids                         | :eu:   | :question:          | TODO                                                         |
@@ -1734,7 +1734,7 @@
 | ---------------------------- | -------- | ------------------ | ------------------------------------------------------------ |
 | X Japan - Virtual Shock 001  | :jp:     | :minidisc: 2x      | [Link](../../Regions/Retails/Japan/GS-9023/01/README.md)     |
 | X-Men - Children of the Atom | :eu:     | :heavy_check_mark: | [Link](../../Regions/Retails/Europe/T-8108H-50/01/README.md) |
-| X-Men - Children of the Atom | :jp:     | :heavy_check_mark: | [Link](../../Regions/Retails/Japan/T-1203G/01/README.md)     |
+| X-Men - Children of the Atom | :jp:     | :100:              | [Link](../../Regions/Retails/Japan/T-1203G/README.md)        |
 | X-Men - Children of the Atom | :us:     | :heavy_check_mark: | [Link](../../Regions/Retails/USA/T-8108H/01/README.md)       |
 | X-Men vs. Street Fighter     | :jp:     | :minidisc: 3x      | [Link](../../Regions/Retails/Japan/T-1226G/README.md)        |
 | Xianjian Qixiazhuan          | :taiwan: | :heavy_check_mark: | [Link](../../Regions/Retails/Taiwan/T-37401H/01/README.md)   |
