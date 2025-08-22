@@ -32,7 +32,7 @@
 - [Fighters Megamix (Europe)](../../../Regions/Retails/Europe/MK-81073/01/README.md) - :heavy_check_mark:
 - [Fighters Megamix (Japan)](../../../Regions/Retails/Japan/GS-9126/01/README.md) - :heavy_check_mark:
 - [Fighters Megamix (USA)](../../../Regions/Retails/USA/MK-81073/01/README.md) - :x:
-- [Fighting Vipers (Europe)](../../../Regions/Retails/Europe/MK-81041/01/README.md) - :heavy_check_mark:
+- [Fighting Vipers (Europe)](../../../Regions/Retails/Europe/MK-81041/README.md) - :100:
 - [Fighting Vipers (Japan)](../../../Regions/Retails/Japan/GS-9101/01/README.md) - :x:
 - Fighting Vipers (Korea) - TODO
 - [Fighting Vipers (USA)](../../../Regions/Retails/USA/MK-81041/01/README.md) - :x:

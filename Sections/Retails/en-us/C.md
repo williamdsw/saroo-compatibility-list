@@ -48,7 +48,7 @@
 - [Congo the Movie: The Lost City of Zinj (USA)](../../../Regions/Retails/USA/MK-81010/01/README.md) - :heavy_check_mark:
 - [Contra - Legacy of War (USA)](../../../Regions/Retails/USA/T-9507H/01/README.md) - :hammer_and_wrench:
 - [Corpse Killer - Graveyard Edition (USA)](../../../Regions/Retails/USA/T-16201H/01/README.md) - :question:
-- [Cotton 2 (Japan)](../../../Regions/Retails/Japan/T-9904G/01/README.md) - :heavy_check_mark:
+- [Cotton 2 (Japan)](../../../Regions/Retails/Japan/T-9904G/README.md) - :100:
 - [Cotton Boomerang (Japan)](../../../Regions/Retails/Japan/T-9906G/01/README.md) - :heavy_check_mark:
 - Courier Crisis (Europe) - TODO
 - Courier Crisis (Japan) - TODO

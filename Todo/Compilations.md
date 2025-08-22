@@ -7,5 +7,3 @@
 - Sonic Jam (Europe) - TODO
 - Sonic Jam (Japan) (Rev A) - TODO
 - Sonic Jam (Japan) - TODO
-- Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal) - TODO (Recorded)
-- Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) - TODO (Recorded)

@@ -121,7 +121,7 @@
 - [Touge King the Spirits 2 (Japan)](../../../Regions/Retails/Japan/T-14412G/01/README.md) - :heavy_check_mark:
 - [Tour Party - Sotsugyou Ryokou ni Ikou (Japan)](../../../Regions/Retails/Japan/T-10312G/01/README.md) - :heavy_check_mark:
 - [Tournament Leader (Japan)](../../../Regions/Retails/Japan/T-6007G/01/README.md) - :heavy_check_mark:
-- [Touryuu Densetsu Elan Doree (Japan)](../../../Regions/Retails/Japan/T-38202G/01/README.md) - :heavy_check_mark:
+- [Touryuu Densetsu Elan Doree (Japan)](../../../Regions/Retails/Japan/T-38202G/README.md) - :100:
 - Toushinden S (Japan) - TODO
 - Toushinden URA (Japan) - TODO
 - [The Tower (Japan)](../../../Regions/Retails/Japan/T-21601G/01/README.md) - :heavy_check_mark:
@@ -135,7 +135,7 @@
 - [Tunnel B1 (USA)](../../../Regions/Retails/USA/T-8144H/01/README.md) - :heavy_check_mark:
 - [TurfWind '96: Take Yutaka Kyousouba Ikusei Game (Japan)](../../../Regions/Retails/Japan/T-5707G/01/README.md) - :heavy_check_mark:
 - [Tutankhamen no Nazo: A.N.K.H (Japan)](../../../Regions/Retails/Japan/T-35601G/01/README.md) - :heavy_check_mark:
-- [Twinkle Star Sprites (Japan)](../../../Regions/Retails/Japan/T-37301G/01/README.md) - :heavy_check_mark:
+- [Twinkle Star Sprites (Japan)](../../../Regions/Retails/Japan/T-37301G/README.md) - :cd: 2x
 
 Navegação:
 [# (0-9)](./09.md) [A](./A.md) [B](./B.md) [C](./C.md) [D](./D.md) [E](./E.md) [F](./F.md) [G](./G.md) [H](./H.md) [I](./I.md) [J](./J.md) [K](./K.md) [L](./L.md) [M](./M.md) [N](./N.md) [O](./O.md) [P](./P.md) [Q](./Q.md) [R](./R.md) [S](./S.md) **T** [U](./U.md) [V](./V.md) [W](./W.md) [X](./X.md) [Y](./Y.md) [Z](./Z.md)

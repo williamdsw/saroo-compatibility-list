@@ -102,7 +102,6 @@
 - Riven - The Sequel to Myst (Japan) (Disc 3)
 - Riven - The Sequel to Myst (Japan) (Disc 4)
 - Sakura Taisen Teigeki Graph (Japan)
-- Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)
 - Sangokushi IV with Power-Up Kit (Japan)
 - Sangokushi V (Japan)
 - Sangokushi V (Japan) (Rev A)

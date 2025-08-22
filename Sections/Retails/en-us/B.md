@@ -85,9 +85,9 @@
 - Burning Rangers (Europe) - TODO
 - Burning Rangers (Japan) - TODO
 - [Burning Rangers (USA)](../../../Regions/Retails/USA/MK-81803/01/README.md) - :hammer_and_wrench:
-- [Bust-A-Move 2: Arcade Edition (Europe)](../../../Regions/Retails/Europe/T-8132H-50/01/README.md) - :heavy_check_mark:
+- [Bust-A-Move 2: Arcade Edition (Europe)](../../../Regions/Retails/Europe/T-8132H-50/README.md) - :100:
 - [Bust-A-Move 2: Arcade Edition (USA)](../../../Regions/Retails/USA/T-8132H/01/README.md) - :heavy_check_mark:
-- [Bust-A-Move 3 (Europe)](../../../Regions/Retails/Europe/T-8155H-50/01/README.md) - :heavy_check_mark:
+- [Bust-A-Move 3 (Europe)](../../../Regions/Retails/Europe/T-8155H-50/README.md) - :100:
 - [Bust-A-Move 3 (USA)](../../../Regions/Retails/USA/T-31103H/01/README.md) - :heavy_check_mark:
 
 Navigation:

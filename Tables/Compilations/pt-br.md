@@ -77,8 +77,7 @@
 | _Thunder Force Gold Pack 1_                                                                           | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-1807G/01/README.md)     | :heavy_check_mark:  |
 | _Thunder Force Gold Pack 2_                                                                           | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-1808G/01/README.md)     | :heavy_check_mark:  |
 | _Thunder Storm & Road Blaster_                                                                        | :jp:   | [Detalhes](../../Regions/Compilations/T-20701G/README.md)             | :cd: 2x             |
-| Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal)                                                   | :jp:   | TODO (Recorded)                                                       | :question:          |
-| Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate)                                               | :jp:   | TODO (Recorded)                                                       | :question:          |
+| Time Gal & Ninja Hayate (Japan)                                                                       | :jp:   | [Detalhes](../../Regions/Compilations/T-20702G/README.md)             | :cd: 2x             |
 | _Wizardry Llylgamyn Saga_                                                                             | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-38601G/01/README.md)    | :hammer_and_wrench: |
 | _Wizardry VI & VII Complete_                                                                          | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-1306G/01/README.md)     | :heavy_check_mark:  |
 | _Wonder 3 Arcade Gears_                                                                               | :jp:   | [Detalhes](../../Regions/Compilations/Japan/T-26107G/01/README.md)    | :100:               |

@@ -49,7 +49,7 @@
 - Popoitto Hebereke (Japan) - TODO
 - Powerslave (USA) - TODO
 - [PriCla Daisakusen (Japan)](../../../Regions/Retails/Japan/T-14409G/01/README.md) - :heavy_check_mark:
-- [Primal Rage (Europe)](../../../Regions/Retails/Europe/T-4802H-50/01/README.md) - :heavy_check_mark:
+- [Primal Rage (Europe)](../../../Regions/Retails/Europe/T-4802H-50/README.md) - :100:
 - Primal Rage (Japan) - TODO
 - [Primal Rage (USA)](../../../Regions/Retails/USA/T-4802H/01/README.md) - :hammer_and_wrench:
 - [Princess Crown (Japan)](../../../Regions/Retails/Japan/T-14418G/01/README.md) - :heavy_check_mark:

@@ -34,7 +34,7 @@
 - [Mahjong Taikai II Special (Japan)](../../../Regions/Retails/Japan/T-7621G/01/README.md) - :heavy_check_mark:
 - [Mahjong Tenshi Angel Lips (Japan)](../../../Regions/Retails/Japan/T-27001G/01/README.md) - :heavy_check_mark:
 - [Mahjong Yon-Shimai: Wakakusa Monogatari (Japan)](../../../Regions/Retails/Japan/T-18704G/01/README.md) - :heavy_check_mark:
-- [Mahjong Kyou Jidai: Cebu Island '96 (Japan)](../../../Regions/Retails/Japan/T-2204G/01/README.md) - :heavy_check_mark:
+- [Mahjong Kyou Jidai: Cebu Island '96 (Japan)](../../../Regions/Retails/Japan/T-2204G/README.md) - :cd: 2x
 - [Mahjong Kyou Jidai: Cogal Houkago Hen (Japan)](../../../Regions/Retails/Japan/T-2203G/01/README.md) - :heavy_check_mark:
 - [Mahou Gakuen Lunar! (Japan)](../../../Regions/Retails/Japan/T-27902G/01/README.md) - :heavy_check_mark:
 - [Mahou Shoujo Pretty Samy: Heart no Kimochi (Japan)](../../../Regions/Retails/Japan/T-20112G/01/README.md) - :heavy_check_mark:
@@ -52,7 +52,7 @@
 - [Mario Mushano no Chou Shougi Juku (Japan)](../../../Regions/Retails/Japan/T-24905G/01/README.md) - :heavy_check_mark:
 - [Marvel Super Heroes (Europe)](../../../Regions/Retails/Europe/T-7032H-50/01/README.md) - :x:
 - [Marvel Super Heroes (Japan)](../../../Regions/Retails/Japan/T-1215G/01/README.md) - :x:
-- [Marvel Super Heroes (USA)](../../../Regions/Retails/USA/T-1214H/01/README.md) - :heavy_check_mark:
+- [Marvel Super Heroes (USA)](../../../Regions/Retails/USA/T-1214H/README.md) - :100:
 - [Marvel Super Heroes vs. Street Fighter (Japan)](../../../Regions/Retails/Japan/T-1238G/README.md) - :100:
 - Mass Destruction (Europe) - TODO
 - [Mass Destruction (USA)](../../../Regions/Retails/USA/T-18007H/01/README.md) - :heavy_check_mark:
@@ -91,7 +91,7 @@
 - [Momotarou Douchuuki (Japan)](../../../Regions/Retails/Japan/T-14309G/01/README.md) - :heavy_check_mark:
 - [Monster Slider (Japan)](../../../Regions/Retails/Japan/T-27302G/01/README.md) - :hammer_and_wrench:
 - [Moon Cradle (Japan)](../../../Regions/Retails/Japan/T-9109G/01/README.md) - :question:
-- [Mortal Kombat II (Europe)](../../../Regions/Retails/Europe/T-8103H-50/01/README.md) - :heavy_check_mark:
+- [Mortal Kombat II (Europe)](../../../Regions/Retails/Europe/T-8103H-50/README.md) - :100:
 - [Mortal Kombat II (USA)](../../../Regions/Retails/USA/T-8103H/01/README.md) - :100:
 - [Mortal Kombat II Kanzenban (Japan)](../../../Regions/Retails/Japan/T-8107G/01/README.md) - :x:
 - [Mortal Kombat Trilogy (Europe)](../../../Regions/Retails/Europe/T-25414H50/01/README.md) - :x:

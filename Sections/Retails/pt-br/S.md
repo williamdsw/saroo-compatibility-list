@@ -14,7 +14,7 @@
 - [Sakura Taisen Jouki Radio Show (Japan)](../../../Regions/Retails/Japan/GS-9160/01/README.md) - :heavy_check_mark:
 - [Sakura Taisen Teigeki Graph (Japan)](../../../Regions/Retails/Japan/T-32602G/01/README.md) - :heavy_check_mark:
 - [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](../../../Regions/Retails/Japan/GS-9169/01/README.md) - :x: & :question:
-- [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../../Regions/Retails/Japan/SKR-00468/01/README.md) - :heavy_check_mark:
+- [Sakura Taisen Teikokukagekidan Taiin Meibo (Japan)](../../../Regions/Retails/Japan/SKR-00468/README.md) - :100:
 - [Sakura Tsuushin (Japan)](../../../Regions/Retails/Japan/T-38401G/01/README.md) - :heavy_check_mark:
 - [Samurai Spirits - Amakusa Kourin (Japan)](../../../Regions/Retails/Japan/T-3116G/README.md) - :100:
 - [Samurai Spirits - Zankurou Musouken (Japan)](../../../Regions/Retails/Japan/T-3104G/README.md) - :100:
@@ -38,7 +38,7 @@
 - [Saturn Bomberman Fight!!](../../../Regions/Retails/Japan/T-14321G/README.md) - :100:
 - Saturn Music School (Japan) - TODO
 - Saturn Music School 2 (Japan) (Rev A) - TODO
-- [Savaki (Japan)](../../../Regions/Retails/Japan/T-5208G/01/README.md) - :heavy_check_mark:
+- [Savaki (Japan)](../../../Regions/Retails/Japan/T-5208G/README.md) - :100:
 - Scorcher (Europe) - TODO
 - [Scorcher (USA)](../../../Regions/Retails/USA/MK-81214/01/README.md) - :x:
 - [Scud: The Disposable Assassin (USA)](../../../Regions/Retails/USA/T-30403H/01/README.md) - :heavy_check_mark:
@@ -206,7 +206,7 @@
 - [Star Fighter (USA)](../../../Regions/Retails/USA/T-8135H/01/README.md) - :heavy_check_mark:
 - StarFighter 3000 (Europe) - TODO
 - StarFighter 3000 (Japan) - TODO
-- [Steam-Heart's (Japan)](../../../Regions/Retails/Japan/T-32502G/01/README.md) - :heavy_check_mark:
+- [Steam-Heart's (Japan)](../../../Regions/Retails/Japan/T-32502G/README.md) - :100:
 - [SteamGear Mash (Japan)](../../../Regions/Retails/Japan/T-10301G/01/README.md) - :heavy_check_mark:
 - Steep Slope Sliders (Europe) - TODO
 - [Steep Slope Sliders (Japan)](../../../Regions/Retails/Japan/T-9112G/01/README.md) - :heavy_check_mark:
@@ -217,22 +217,21 @@
 - Street Fighter - The Movie (Europe) (2S) - TODO
 - Street Fighter - The Movie (Europe) (4S) - TODO
 - [Street Fighter The Movie (USA)](../../../Regions/Retails/USA/T-8105H/README.md) - :100:
-- [Street Fighter Alpha: Warrior's Dreams (Europe)](../../../Regions/Retails/Europe/T-7008H-50/01/README.md) - :heavy_check_mark:
+- [Street Fighter Alpha: Warrior's Dreams (Europe)](../../../Regions/Retails/Europe/T-7008H-50/README.md) - :100:
 - [Street Fighter Alpha: Warrior's Dreams (USA)](../../../Regions/Retails/USA/T-1206H/01/README.md) - :x:
 - Street Fighter Alpha 2 (Europe) - TODO
 - [Street Fighter Alpha 2 (USA)](../../../Regions/Retails/USA/T-1213H/01/README.md) - :x:
-- [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/01/README.md) - :heavy_check_mark:
-- Street Fighter Collection (Japan) (Disc 1) - TODO
-- Street Fighter Collection (Japan) (Disc 2) - TODO
-- [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/README.md) - :disc: 2x
+- [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/README.md) - :cd: 2x
+- [Street Fighter Collection (Japan)](../../../Regions/Retails/Japan/T-1223G/01/README.md) - :cd: 2x
+- [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/README.md) - :cd: 2x
 - Street Fighter II Movie (Japan) (Disc 1) - TODO
 - Street Fighter II Movie (Japan) (Disc 2) - TODO
 - [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/README.md) - :minidisc: 3x
 - [Street Fighter Zero 2 (Japan)](../../../Regions/Retails/Japan/T-1212G/README.md) - :checkered_flag:
 - [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/README.md) - :checkered_flag:
 - [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/README.md) - :hammer_and_wrench:
-- [Street Racer (Europe)](../../../Regions/Retails/Europe/T-17702H/01/README.md) - :heavy_check_mark:
-- [Street Racer Extra (Japan)](../../../Regions/Retails/Japan/T-17702G/01/README.md) - :heavy_check_mark:
+- [Street Racer (Europe)](../../../Regions/Retails/Europe/T-17702H/README.md) - :100:
+- [Street Racer Extra (Japan)](../../../Regions/Retails/Japan/T-17702G/README.md) - :heavy_check_mark:
 - Striker 96 (Europe) - TODO
 - Striker 96 (Japan) - TODO
 - [Striker '96 (USA)](../../../Regions/Retails/USA/T-8133H/01/README.md) - :heavy_check_mark:
@@ -241,7 +240,7 @@
 - [Suchie-Pai Adventure Doki Doki Nightmare (Japan)](../../../Regions/Retails/Japan/T-5713G/01/README.md) - :question:
 - [Sugobencha: Dragon Master Silk Gaiden (Japan)](../../../Regions/Retails/Japan/T-19505G/01/README.md) - :heavy_check_mark:
 - [Suiko Enbu (Japan)](../../../Regions/Retails/Japan/T-1302G/01/README.md) - :heavy_check_mark:
-- [Suiko Enbu: Fuunsaiki (Japan)](../../../Regions/Retails/Japan/T-1305G/01/README.md) - :heavy_check_mark:
+- [Suiko Enbu: Fuunsaiki (Japan)](../../../Regions/Retails/Japan/T-1305G/README.md) - :100:
 - [Suikoden Tendou 108 Sei (Japan)](../../../Regions/Retails/Japan/T-7656G/01/README.md) - :heavy_check_mark:
 - [Suikoden: Tenmei no Chikai (Japan)](../../../Regions/Retails/Japan/T-7624G/01/README.md) - :heavy_check_mark:
 - [Super Adventure Rockman (Japan)](../../../Regions/Retails/Japan/T-1225G/01/README.md) - :question:
