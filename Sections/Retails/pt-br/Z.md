@@ -12,7 +12,7 @@
 - [Zap! Snowboarding Trix '98 (Japan)](../../../Regions/Retails/Japan/T-7504G/01/README.md) - :heavy_check_mark:
 - [Zen Nihon Pro Wres featuring Virtua (Japan)](../../../Regions/Retails/Japan/GS-9158/01/README.md) - :heavy_check_mark:
 - [Zenkoku Seifuku Bishoujo Grand Prix - Find Love (Japan)](../../../Regions/Retails/Japan/T-34602G/01/README.md) - :heavy_check_mark:
-- [Zero Divide - The Final Conflict (Japan)](../../../Regions/Retails/Japan/T-31601G/01/README.md) - :hammer_and_wrench:
+- [Zero Divide - The Final Conflict (Japan)](../../../Regions/Retails/Japan/T-31601G/README.md) - :hammer_and_wrench:
 - [Zero4 Champ DooZy-J Type-R (Japan)](../../../Regions/Retails/Japan/T-21401G/01/README.md) - :heavy_check_mark:
 - [Zoku Gussun Oyoyo (Japan)](../../../Regions/Retails/Japan/T-20604G/01/README.md) - :heavy_check_mark:
 - [Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan)](../../../Regions/Retails/Japan/T-33005G/01/README.md) - :question:

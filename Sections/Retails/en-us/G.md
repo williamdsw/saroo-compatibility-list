@@ -55,7 +55,7 @@
 - [Golden Axe: The Duel (USA)](../../../Regions/Retails/USA/MK-81045/01/README.md) - :hammer_and_wrench:
 - [Gotha - Ismailia SenEki (Japan)](../../../Regions/Retails/Japan/GS-9009/01/README.md) - :hammer_and_wrench:
 - [Gotha II: Tenkuu no Kishi (Japan)](../../../Regions/Retails/Japan/T-7608G/01/README.md) - :heavy_check_mark:
-- [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../../Regions/Retails/Japan/T-14411G/01/README.md) - :heavy_check_mark:
+- [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../../Regions/Retails/Japan/T-14411G/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Gran Chaser (Japan)](../../../Regions/Retails/Japan/GS-9022/README.md) - :100:
 - [GranDread (Japan)](../../../Regions/Retails/Japan/T-20603G/01/README.md) - :x:
 - [Grand Slam (USA)](../../../Regions/Retails/USA/T-07004H/01/README.md) - :heavy_check_mark:

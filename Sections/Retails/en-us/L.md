@@ -15,7 +15,7 @@
 - Last Bronx (Japan) (Disc 1) (Arcade Disc) - TODO
 - Last Bronx (Japan) (Disc 2) (Special Disc) - TODO
 - [Last Bronx (USA)](../../../Regions/Retails/USA/MK-81078/01/README.md) - :x:
-- [Last Gladiators (USA)](../../../Regions/Retails/USA/T-4804H/01/README.md) - :hammer_and_wrench:
+- [Last Gladiators (USA)](../../../Regions/Retails/USA/T-4804H/README.md) - :minidisc: 2x
 - [Layer Section (Japan)](../../../Regions/Retails/Japan/T-1101G/01/README.md) - :heavy_check_mark:
 - [Layer Section II (Japan)](../../../Regions/Retails/Japan/T-26409G/01/README.md) - :heavy_check_mark:
 - Le Manoir des Ames Perdues (France) - TODO

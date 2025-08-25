@@ -1,40 +1,24 @@
 # Bakuretsu Hunter R (Japan)
 
-### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+| Game Name         | Product Number | Version | Area Code | Peripheral Code |
+| ----------------- | -------------- | ------- | --------- | --------------- |
+| BAKURETU HUNTER R | T-24903G       | V1.005  | J         | J               |
 
-### [Saroo Cartridge Info](../../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
+| Test | Console | SAROO Cartridge | Firmware | Micro SD Card  | Status              | Time Played |
+| ---- | ------- | --------------- | -------- | -------------- | ------------------- | ----------- |
+| 1    | VA13    | Green           | v0.5     | Lenovo (exFAT) | :hammer_and_wrench: | 13 minutes  |
 
-- <b>Firmwares Tested:</b>
-  1. MCU: 240515, SS: 240515, FPGA: 05 - v0.5
+| Problem                 | Solution                     |
+| ----------------------- | ---------------------------- |
+| Audio voice over issues | Check the configuration file |
 
-### [SD Card Info (Lenovo - 128 GB)](../../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
+| Test | Evidences                                                                                        |
+| ---- | ------------------------------------------------------------------------------------------------ |
+| 1    | [![](https://img.youtube.com/vi/z3V3kQbm9c0/0.jpg)](https://www.youtube.com/watch?v=z3V3kQbm9c0) |
 
-### Game Info
+Used hardware links:
 
-Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
-
-- <b>Game Name:</b> BAKURETU HUNTER R
-- <b>Product Number:</b> T-24903G
-- <b>Version:</b> V1.005
-- <b>Area Code:</b> J
-- <b>Peripheral Code:</b> J
-
-### Status
-
-- Configurable :hammer_and_wrench:
-
-### Problems without configuration
-
-- Audio voice over issues.
-
-### Solution
-
-- [Check this page for the configuration](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-24903G/README.md).
-
-### Extra Info
-
-- It needs a full gameplay test.
-
-### Evidence
-
-[![](https://img.youtube.com/vi/z3V3kQbm9c0/0.jpg)](https://www.youtube.com/watch?v=z3V3kQbm9c0)
+- [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-24903G/README.md)
+- [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
+- [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
+- [Micro SD Card - Lenovo, 128 GB, exFAT](../../../../Info/SdCards/Lenovo/128GB/exfat/README.md)

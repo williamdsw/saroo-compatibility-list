@@ -9,9 +9,9 @@
 | 1    | VA13    | Green           | MCU: 231111, SS: 231111, FPGA: 05 [Vortex] | XRayDisk (fat32) | :hammer_and_wrench: | 21 minutes  |
 | 2    | VA13    | Green           | MCU: 240515, SS: 240515, FPGA: 05 - v0.5   | Lenovo (fat32)   | :heavy_check_mark:  | 17 minutes  |
 
-| Test | Problem                                    | Solution                                                                                                           |
-| ---- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| 1    | Sprites missing randomly; Random slowdowns | [Link](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-1246G/README.md) |
+| Test | Problem                                    | Solution                     |
+| ---- | ------------------------------------------ | ---------------------------- |
+| 1    | Sprites missing randomly; Random slowdowns | Check the configuration file |
 
 | Test | Evidence                                                                                         |
 | ---- | ------------------------------------------------------------------------------------------------ |
@@ -20,6 +20,7 @@
 
 Used hardware links:
 
+- [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-1246G/README.md)
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 - [Micro SD Card - XRayDisk, 128 GB, fat32](../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)

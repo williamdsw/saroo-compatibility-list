@@ -13,14 +13,14 @@
 - Baku Baku Animal - World Zookeeper Contest (Europe) - TODO
 - [Baku Baku Animal - World Zookeeper Contest (USA)](../../../Regions/Retails/USA/MK-81501/README.md) - :100:
 - [Bakuretsu Hunter (Japan)](../../../Regions/Retails/Japan/T-22402G/01/README.md) - :question:
-- [Bakuretsu Hunter R (Japan)](../../../Regions/Retails/Japan/T-24903G/01/README.md) - :hammer_and_wrench:
+- [Bakuretsu Hunter R (Japan)](../../../Regions/Retails/Japan/T-24903G/README.md) - :hammer_and_wrench:
 - [Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX (Japan)](../../../Regions/Retails/Japan/T-20001G/01/README.md) - :heavy_check_mark:
 - [Baldy Land (Japan)](../../../Regions/Retails/Japan/T-20608G/01/README.md) - :heavy_check_mark:
 - [Baroque (Japan)](../../../Regions/Retails/Japan/T-33901G/01/README.md) - :x:
 - [Bases Loaded '96: Double Header (USA)](../../../Regions/Retails/USA/T-5703H/01/README.md) - :heavy_check_mark:
 - Batman Forever: The Arcade Game (Europe) - TODO
 - Batman Forever: The Arcade Game (Japan) - TODO
-- [Batman Forever: The Arcade Game (USA)](../../../Regions/Retails/USA/T-8140H/01/README.md) - :hammer_and_wrench:
+- [Batman Forever: The Arcade Game (USA)](../../../Regions/Retails/USA/T-8140H/README.md) - :hammer_and_wrench:
 - [Batsugun (Japan)](../../../Regions/Retails/Japan/T-20605G/01/README.md) - :heavy_check_mark:
 - Battle Arena Toshinden Remix (Europe) - TODO
 - [Battle Arena Toshinden Remix (USA)](../../../Regions/Retails/USA/MK-81029/README.md) - :100:
@@ -30,7 +30,7 @@
 - [Battle Garegga (Japan)](../../../Regions/Retails/Japan/T-10627G/README.md) - :100:
 - Battle Monsters (Europe) - TODO
 - Battle Monsters (Japan) - TODO
-- [Battle Monsters (USA)](../../../Regions/Retails/USA/T-8137H/01/README.md) - :hammer_and_wrench:
+- [Battle Monsters (USA)](../../../Regions/Retails/USA/T-8137H/README.md) - :hammer_and_wrench: :checkered_flag:
 - Battle Stations (Europe) (En,Fr,De) - TODO
 - [Battle Stations (USA)](../../../Regions/Retails/USA/T-5021H/01/README.md) - :heavy_check_mark:
 - [BattleSport (USA)](../../../Regions/Retails/USA/T-8149H/01/README.md) - :heavy_check_mark:
@@ -79,12 +79,12 @@
 - [Bug Too! (USA)](../../../Regions/Retails/USA/MK-81040/01/README.md) - :heavy_check_mark:
 - Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko (Japan) - TODO
 - [Bug! (Europe)](../../../Regions/Retails/Europe/MK-81004/01/README.md) - :hammer_and_wrench:
-- [Bug! (USA)](../../../Regions/Retails/USA/GM-81004/01/README.md) - :hammer_and_wrench:
+- [Bug! (USA)](../../../Regions/Retails/USA/GM-81004/README.md) - :minidisc: 2x
 - [Bug! Jump Shite, Funzukechatte, Petchanko (Japan)](../../../Regions/Retails/Japan/GS-9063/01/README.md) - :hammer_and_wrench:
 - [Bulk Slash (Japan)](../../../Regions/Retails/Japan/T-14310G/01/README.md) - :heavy_check_mark:
 - Burning Rangers (Europe) - TODO
 - Burning Rangers (Japan) - TODO
-- [Burning Rangers (USA)](../../../Regions/Retails/USA/MK-81803/01/README.md) - :hammer_and_wrench:
+- [Burning Rangers (USA)](../../../Regions/Retails/USA/MK-81803/README.md) - :hammer_and_wrench:
 - [Bust-A-Move 2: Arcade Edition (Europe)](../../../Regions/Retails/Europe/T-8132H-50/README.md) - :100:
 - [Bust-A-Move 2: Arcade Edition (USA)](../../../Regions/Retails/USA/T-8132H/01/README.md) - :heavy_check_mark:
 - [Bust-A-Move 3 (Europe)](../../../Regions/Retails/Europe/T-8155H-50/README.md) - :100:

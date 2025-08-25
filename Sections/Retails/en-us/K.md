@@ -6,9 +6,9 @@
 
 #### 44 Games
 
-- [K-1 Fighting Illusion Shou (Japan)](../../../Regions/Retails/Japan/T-26102G/01/README.md) - :hammer_and_wrench:
+- [K-1 Fighting Illusion Shou (Japan)](../../../Regions/Retails/Japan/T-26102G/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Kaitei Daisensou (Japan)](../../../Regions/Retails/Japan/T-15006G/01/README.md) - :x:
-- [Kaitou Saint Tail (Japan)](../../../Regions/Retails/Japan/T-28201G/01/README.md) - :hammer_and_wrench:
+- [Kaitou Saint Tail (Japan)](../../../Regions/Retails/Japan/T-28201G/README.md) - :hammer_and_wrench:
 - [Kakinoki Shougi (Japan)](../../../Regions/Retails/Japan/T-2104G/01/README.md) - :heavy_check_mark:
 - [Kakyuusei (Japan)](../../../Regions/Retails/Japan/T-28002G/01/README.md) - :question:
 - [Kanazawa Shougi (Japan)](../../../Regions/Retails/Japan/T-16505G/01/README.md) - :heavy_check_mark:
@@ -16,18 +16,18 @@
 - [Keio Flying Squadron 2 (Europe)](../../../Regions/Retails/Europe/T-6008H-50/01/README.md) - :heavy_check_mark:
 - [Keiou Yuugekitai: Katsugeki-hen (Japan)](../../../Regions/Retails/Japan/T-6003G/01/README.md) - :heavy_check_mark:
 - [Keiou Yuugekitai: Okiraku Tamatebako (Japan)](../../../Regions/Retails/Japan/610-6321-0/01/README.md) - :heavy_check_mark:
-- [Kekkon: Marriage (Japan)](../../../Regions/Retails/Japan/T-10501G/01/README.md) - :hammer_and_wrench:
+- [Kekkon: Marriage (Japan)](../../../Regions/Retails/Japan/T-10501G/README.md) - :hammer_and_wrench:
 - [Kekkon "Zenya" (Japan)](../../../Regions/Retails/Japan/T-10502G/01/README.md) - :heavy_check_mark:
-- [Keriotosse! (Japan)](../../../Regions/Retails/Japan/T-30306G/01/README.md) - :hammer_and_wrench:
-- [Kidou Senkan Nadesico: The Blank of 3 Years (J)](../../../Regions/Retails/Japan/GS-9195/01/README.md) - :hammer_and_wrench:
+- [Keriotosse! (Japan)](../../../Regions/Retails/Japan/T-30306G/README.md) - :hammer_and_wrench:
+- [Kidou Senkan Nadesico: The Blank of 3 Years (Japan)](../../../Regions/Retails/Japan/GS-9195/README.md) - :cd: 2x
 - [Kidou Senkan Nadesico: Yappari Saigo ha 'Ai ga Katsu' ? (Japan)](../../../Regions/Retails/Japan/GS-9142/01/README.md) - :heavy_check_mark:
 - [Kidou Senshi Gundam Gaiden I: Senritsu no Blue (Japan)](../../../Regions/Retails/Japan/T-13306G/01/README.md) - :heavy_check_mark:
 - [Kidou Senshi Gundam Gaiden II: Ao wo Uketsugu Mono (Japan)](../../../Regions/Retails/Japan/T-13309G/01/README.md) - :heavy_check_mark:
 - [Kidou Senshi Gundam Gaiden III: Sabakareshi Mono (Japan)](../../../Regions/Retails/Japan/T-13312G/01/README.md) - :heavy_check_mark:
-- [Kidou Senshi Gundam: Giren no Yabou (Japan)](../../../Regions/Retails/Japan/T-13327G/01/README.md) - :hammer_and_wrench:
+- [Kidou Senshi Gundam: Giren no Yabou (Japan)](../../../Regions/Retails/Japan/T-13327G/README.md) - :hammer_and_wrench:
 - [Kidou Senshi Gundam: Giren no Yabou - Kouryaku Shireisho (Japan)](../../../Regions/Retails/Japan/T-13333G/01/README.md) - :heavy_check_mark:
 - [Kidou Senshi Z Gundam: Kouhen Sora o Kakeru (Japan)](../../../Regions/Retails/Japan/T-13320G/01/README.md) - :heavy_check_mark:
-- [Kidou Senshi Z Gundam: Zenpen Zeta no Kodou (Japan)](../../../Regions/Retails/Japan/T-13315G/01/README.md) - :hammer_and_wrench:
+- [Kidou Senshi Z Gundam: Zenpen Zeta no Kodou (Japan)](../../../Regions/Retails/Japan/T-13315G/README.md) - :hammer_and_wrench:
 - [Kindaichi Shounen no Jikenbo: Hoshimitou Kanashimi no Hukushuuki (Japan)](../../../Regions/Retails/Japan/T-14315G/01/README.md) - :heavy_check_mark:
 - [Kiss Yori... (Japan)](../../../Regions/Retails/Japan/T-19724G/01/README.md) - :heavy_check_mark:
 - [Kisuishou Densetsu Astal (Japan)](../../../Regions/Retails/Japan/GS-9019/01/README.md) - :heavy_check_mark:

@@ -229,7 +229,7 @@
 - [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/README.md) - :minidisc: 3x
 - [Street Fighter Zero 2 (Japan)](../../../Regions/Retails/Japan/T-1212G/README.md) - :checkered_flag:
 - [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/README.md) - :checkered_flag:
-- [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/README.md) - :hammer_and_wrench:
+- [Street Fighter Zero 3 (Japan)](../../../Regions/Retails/Japan/T-1246G/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Street Racer (Europe)](../../../Regions/Retails/Europe/T-17702H/README.md) - :100:
 - [Street Racer Extra (Japan)](../../../Regions/Retails/Japan/T-17702G/README.md) - :heavy_check_mark:
 - Striker 96 (Europe) - TODO

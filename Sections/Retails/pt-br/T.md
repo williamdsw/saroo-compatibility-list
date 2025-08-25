@@ -56,13 +56,13 @@
 - The Horde (France) - TODO
 - The Horde (Germany) - TODO
 - The Horde (Japan) - TODO
-- [The Horde (USA)](../../../Regions/Retails/USA/T-15909H50/01/README.md) - :hammer_and_wrench:
+- [The Horde (USA)](../../../Regions/Retails/USA/T-15909H50/README.md) - :hammer_and_wrench:
 - [The House of the Dead (Europe)](../../../Regions/Retails/Europe/MK-81802/01/README.md) - :heavy_check_mark:
 - [The House of the Dead (Japan)](../../../Regions/Retails/Japan/GS-9173/01/REsADME.md) - :heavy_check_mark:
 - [The House of the Dead (USA)](../../../Regions/Retails/USA/81802/01/REsADME.md) - :heavy_check_mark:
 - [The Hyper Golf - Devil's Course (Japan)](../../../Regions/Retails/Japan/T-2303H/01/README.md) - :heavy_check_mark:
 - The Incredible Hulk - The Pantheon Saga (Europe) - TODO
-- [The Incredible Hulk - The Pantheon Saga (USA)](../../../Regions/Retails/USA/T-7905H/01/README.md) - :hammer_and_wrench:
+- [The Incredible Hulk - The Pantheon Saga (USA)](../../../Regions/Retails/USA/T-7905H/README.md) - :hammer_and_wrench:
 - [The King of Boxing (Japan)](../../../Regions/Retails/Japan/T-6001G/01/README.md) - :heavy_check_mark:
 - [The King of Fighters '95 (Europe)](../../../Regions/Retails/Europe/MK-81088/README.md) - :hammer_and_wrench:
 - [The King of Fighters '95 (Japan)](../../../Regions/Retails/Japan/T-3101G/README.md) - :minidisc: 3x

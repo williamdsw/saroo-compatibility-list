@@ -16,8 +16,8 @@
 - [HatTrick Hero S (Japan)](../../../Regions/Retails/Japan/T-1102G/01/README.md) - :heavy_check_mark:
 - [Hatsukoi Monogatari (Japan)](../../../Regions/Retails/Japan/T-33004G/01/README.md) - :heavy_check_mark:
 - [Haunted Casino (Japan)](../../../Regions/Retails/Japan/T-21902G/01/README.md) - :heavy_check_mark:
-- [Heartbeat Scramble (Japan)](../../../Regions/Retails/Japan/T-15014G/01/README.md) - :hammer_and_wrench:
-- [Hebereke's Popoitto (Europe)](../../../Regions/Retails/Europe/T-1502H/01/README.md) -:hammer_and_wrench:
+- [Heartbeat Scramble (Japan)](../../../Regions/Retails/Japan/T-15014G/README.md) - :hammer_and_wrench:
+- [Hebereke's Popoitto (Europe)](../../../Regions/Retails/Europe/T-1502H/README.md) -:hammer_and_wrench:
 - [Heir of Zendor - The Legend and The Land (USA)](../../../Regions/Retails/USA/T-7605H/01/README.md) - :heavy_check_mark:
 - [Heisei Tensai Bakabon Susume! Bakabons (Japan)](../../../Regions/Retails/Japan/T-17001G/01/README.md) - :heavy_check_mark:
 - [Heiwa Pachinko Soushingeki (Japan)](../../../Regions/Retails/Japan/T-18702G/01/README.md) - :heavy_check_mark:
@@ -35,7 +35,7 @@
 - [Highway 2000 (Europe)](../../../Regions/Retails/Europe/T-6012H-50/01/README.md) - :heavy_check_mark:
 - [Highway 2000 (USA)](../../../Regions/Retails/USA/T-31101H/01/README.md) - :heavy_check_mark:
 - [Himitsu Sentai Metamor V (Japan)](../../../Regions/Retails/Japan/T-29005G/01/README.md) - :heavy_check_mark:
-- [Hissatsu Pachinko Collection (Japan)](../../../Regions/Retails/Japan/T-1503G/README.md) - :hammer_and_wrench:
+- [Hissatsu Pachinko Collection (Japan)](../../../Regions/Retails/Japan/T-1503G/README.md) - :minidisc: 2x
 - [Hissatsu! (Japan)](../../../Regions/Retails/Japan/T-23402G/01/README.md) - :heavy_check_mark:
 - [Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1 (Japan)](../../../Regions/Retails/Japan/T-21002G/01/README.md) - :heavy_check_mark:
 - [Hokuto no Ken (Japan)](../../../Regions/Retails/Japan/T-20601G/01/README.md) - :heavy_check_mark:
@@ -44,7 +44,7 @@
 - [Honkaku Pro Mahjong Tetsuman Special (Japan)](../../../Regions/Retails/Japan/T-18709G/01/README.md) - :heavy_check_mark:
 - [Honkaku Shougi Shinan - Wakamatsu Shougi Juku (Japan)](../../../Regions/Retails/Japan/T-4402G/01/README.md) - :heavy_check_mark:
 - [Hop Step Idol (Japan)](../../../Regions/Retails/Japan/T-20507G/01/README.md) - :x:
-- [Horror Tour (Japan)](../../../Regions/Retails/Japan/T-24301G/01/README.md) - :x:
+- [Horror Tour (Japan)](../../../Regions/Retails/Japan/T-24301G/README.md) - :minidisc: 2x
 - [Houkago Ren'ai Club - Koi no Etude (Japan)](../../../Regions/Retails/Japan/T-19714G/01/README.md) - :question:
 - [Houma Hunter Lime Perfect Collection (Japan)](../../../Regions/Retails/Japan/T-2001G/01/README.md) - :x: & :question:
 - [Hyper 3-D Pinball (USA)](../../../Regions/Retails/USA/T-7015H/01/README.md) - :heavy_check_mark:

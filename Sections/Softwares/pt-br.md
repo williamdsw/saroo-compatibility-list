@@ -12,7 +12,7 @@
 - EGWord Ver 2.00 (Japan) - TODO
 - [Eyeful Home (Japan)](../../Regions/Softwares/Japan/GS-9083/README.md)
 - [Game Basic for Sega Saturn (Japan)](../../Regions/Softwares/Japan/T-2111G/01/README.md)
-- [Habitat II (Japan)](../../Regions/Softwares/Japan/GS-7105/01/README.md)
+- [Habitat II (Japan)](../../Regions/Softwares/Japan/GS-7105/README.md) - :hammer_and_wrench:
 - [Heim Waltz (Japan)](../../Regions/Softwares/Japan/GS-9121/01/README.md)
 - [NetLink Custom Web Browser (USA)](../../Regions/Softwares/USA/T-319-01H/01/README.md)
 - Pad Nifty (Japan) - TODO
