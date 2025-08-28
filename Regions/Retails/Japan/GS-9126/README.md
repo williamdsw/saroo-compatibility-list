@@ -33,3 +33,4 @@ Used hardware links:
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 - [Micro SD Card - Lenovo, 128 GB, fat32](../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
 - [Micro SD Card - Lexar, 64 GB, exFAT](../../../../Info/SdCards/Lexar/64GB/exfat/README.md)
+- [Saturn Region Patcher (SRP)](https://segaxtreme.net/resources/saturn-region-patcher.81/download)

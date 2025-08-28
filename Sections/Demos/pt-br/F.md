@@ -7,12 +7,12 @@
 - Farland Story: Habou no Mai (Japan) (Demo) - TODO
 - Fighting Vipers (Japan) (Demo) - TODO
 - Fire Pro Gaiden: Blazing Tornado (Japan) (Demo) - TODO
-- [Flash Sega Saturn - Ochikazuki-hen (Japan)](../../../Regions/Demos/Japan/610616699/01/README.md)
-- [Flash Sega Saturn Vol. 1 (Japan)](../../../Regions/Demos/Japan/610616601/01/README.md)
+- [Flash Sega Saturn - Ochikazuki-hen (Japan)](../../../Regions/Demos/Japan/610616699/README.md)
+- [Flash Sega Saturn Vol. 1 (Japan)](../../../Regions/Demos/Japan/610616601/README.md)
 - [Flash Sega Saturn Vol. 2 (Japan)](../../../Regions/Demos/Japan/610616602/01/README.md)
 - [Flash Sega Saturn Vol. 3 (Japan)](../../../Regions/Demos/Japan/610616603/01/README.md)
 - [Flash Sega Saturn Vol. 4 (Japan)](../../../Regions/Demos/Japan/610616604/01/README.md)
-- [Flash Sega Saturn Vol. 5 (Japan)](../../../Regions/Demos/Japan/610616605/01/README.md)
+- [Flash Sega Saturn Vol. 5 (Japan)](../../../Regions/Demos/Japan/610616605/README.md)
 - [Flash Sega Saturn Vol. 6 (Japan)](../../../Regions/Demos/Japan/610616606/01/README.md)
 - [Flash Sega Saturn Vol. 7 (Japan)](../../../Regions/Demos/Japan/610616607/01/README.md)
 - [Flash Sega Saturn Vol. 8 (Japan)](../../../Regions/Demos/Japan/610616608/01/README.md)

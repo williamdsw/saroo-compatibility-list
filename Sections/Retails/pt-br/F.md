@@ -42,7 +42,7 @@
 - [Find Love 2 - The Prologue (Japan)](../../../Regions/Retails/Japan/T-34604G/01/README.md) - :heavy_check_mark:
 - [Fire Pro Gaiden: Blazing Tornado (Japan)](../../../Regions/Retails/Japan/T-4302G/01/README.md) - :heavy_check_mark:
 - [Fire Prowrestling S - 6Men Scramble (Japan)](../../../Regions/Retails/Japan/T-4308G/01/README.md) - :heavy_check_mark:
-- [Firestorm - Thunderhawk 2 (Europe)](../../../Regions/Retails/Europe/T-11501H00/01/README.md) - :hammer_and_wrench:
+- [Firestorm - Thunderhawk 2 (Europe)](../../../Regions/Retails/Europe/T-11501H00/README.md) - :hammer_and_wrench:
 - Firestorm - Thunderhawk 2 (Germany) - TODO
 - [Fishing Koushien (Japan)](../../../Regions/Retails/Japan/T-24901G/01/README.md) - :heavy_check_mark:
 - [Fishing Koushien II (Japan)](../../../Regions/Retails/Japan/T-24904G/01/README.md) - :heavy_check_mark:

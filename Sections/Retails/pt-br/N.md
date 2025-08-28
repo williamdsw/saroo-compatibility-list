@@ -11,7 +11,7 @@
 - NASCAR 98 (Germany) - TODO
 - [NASCAR 98 (USA)](../../../Regions/Retails/USA/T-5028H/01/README.md) - :heavy_check_mark:
 - NBA Action (Europe) - TODO
-- [NBA Action (USA)](../../../Regions/Retails/USA/MK-81103/01/README.md) - :hammer_and_wrench:
+- [NBA Action (USA)](../../../Regions/Retails/USA/MK-81103/README.md) - :hammer_and_wrench:
 - NBA Action 98 (Europe) - TODO
 - [NBA Action 98 (USA)](../../../Regions/Retails/USA/MK-81124/01/README.md) - :heavy_check_mark:
 - NBA Jam: Tournament Edition (Europe) - TODO
@@ -64,13 +64,13 @@
 - [Nihon Pro Mahjong Renmei Kounin Doujou Yaburi (Japan)](../../../Regions/Retails/Japan/T-18714G/01/README.md) - :heavy_check_mark:
 - [Nile Gawa no Yoake (Japan)](../../../Regions/Retails/Japan/T-9106G/01/README.md) - :heavy_check_mark:
 - [Ninja Jajamaru-kun: Onigiri Ninpouchou Gold (Japan)](../../../Regions/Retails/Japan/T-5709G/01/README.md) - :heavy_check_mark:
-- [Ninku: Tsuyokina Yatsura no Daigekitotsu! (Japan)](../../../Regions/Retails/Japan/GS-9036/01/README.md) - :hammer_and_wrench:
+- [Ninku: Tsuyokina Yatsura no Daigekitotsu! (Japan)](../../../Regions/Retails/Japan/GS-9036/README.md) - :hammer_and_wrench:
 - [Ninpen Manmaru (Japan)](../../../Regions/Retails/Japan/T-35502G/01/README.md) - :heavy_check_mark:
 - [Nissan Presents - Over Drivin' GT-R (Japan)](../../../Regions/Retails/Japan/T-10613G/01/README.md) - :heavy_check_mark:
 - [Nobunaga no Yabou Shouseiroku (Japan)](../../../Regions/Retails/Japan/T-7664G/01/README.md) - :heavy_check_mark:
 - [Nobunaga no Yabou Returns (Japan)](../../../Regions/Retails/Japan/T-7614G/01/README.md) - :x:
 - [Nobunaga no Yabou Sengoku Gunyuuden (Japan)](../../../Regions/Retails/Japan/T-7658G/01/README.md) - :heavy_check_mark:
-- [Nobunaga no Yabou Tenshouki (Japan)](../../../Regions/Retails/Japan/T-7605G/01/README.md) - :hammer_and_wrench:
+- [Nobunaga no Yabou Tenshouki (Japan)](../../../Regions/Retails/Japan/T-7605G/README.md) - :hammer_and_wrench:
 - [Nobunaga no Yabou Tenshouki with Power-Up Kit (Japan)](../../../Regions/Retails/Japan/T-7643G/01/README.md) - :heavy_check_mark:
 - [Nonomura Byouin no Hitobito (Japan)](../../../Regions/Retails/Japan/T-28001G/01/README.md) - :heavy_check_mark:
 - [Noon (Japan)](../../../Regions/Retails/Japan/T-5206G/01/README.md) - :heavy_check_mark:

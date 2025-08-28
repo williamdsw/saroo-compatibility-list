@@ -34,7 +34,7 @@
 - [Clockwork Knight: Pepperouchau's Adventure (USA)](../../../Regions/Retails/USA/MK-81007/01/README.md) - TODO (Recorded)
 - [Clockwork Knight 2: Pepperouchau's Adventure (Europe)](../../../Regions/Retails/Europe/MK-81021/01/README.md) - :heavy_check_mark:
 - [Clockwork Knight 2: Pepperouchau's Adventure (USA, Brazil)](../../../Regions/Retails/USA/MK-81036/01/README.md) - TODO (Recorded)
-- [Code R (Japan)](../../../Regions/Retails/Japan/T-23502G/01/README.md) - :hammer_and_wrench:
+- [Code R (Japan)](../../../Regions/Retails/Japan/T-23502G/README.md) - :hammer_and_wrench:
 - [College Slam (USA)](../../../Regions/Retails/USA/T-8111H/01/README.md) - :heavy_check_mark:
 - Command & Conquer (Europe) (Disc 1) (GDI) - TODO
 - Command & Conquer (Europe) (Disc 2) (NOD) - TODO
@@ -46,7 +46,7 @@
 - Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 1) (GDI) - TODO
 - Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Germany) (Disc 2) (NOD) - TODO
 - [Congo the Movie: The Lost City of Zinj (USA)](../../../Regions/Retails/USA/MK-81010/01/README.md) - :heavy_check_mark:
-- [Contra - Legacy of War (USA)](../../../Regions/Retails/USA/T-9507H/01/README.md) - :hammer_and_wrench:
+- [Contra - Legacy of War (USA)](../../../Regions/Retails/USA/T-9507H/README.md) - :hammer_and_wrench:
 - [Corpse Killer - Graveyard Edition (USA)](../../../Regions/Retails/USA/T-16201H/01/README.md) - :question:
 - [Cotton 2 (Japan)](../../../Regions/Retails/Japan/T-9904G/README.md) - :100:
 - [Cotton Boomerang (Japan)](../../../Regions/Retails/Japan/T-9906G/01/README.md) - :heavy_check_mark:
@@ -61,11 +61,11 @@
 - [Criticom (USA)](../../../Regions/Retails/USA/T-2302H/01/README.md) - :heavy_check_mark:
 - Criticom - The Critical Combat (Japan) - TODO
 - [Croc - Legend of the Gobbos (Europe)](../../../Regions/Retails/Europe/T-5029H-50/01/README.md) - :heavy_check_mark:
-- [Croc - Legend of the Gobbos (USA)](../../../Regions/Retails/USA/T-5029H-50/01/README.md) - :hammer_and_wrench:
+- [Croc - Legend of the Gobbos (USA)](../../../Regions/Retails/USA/T-5029H-50/README.md) - :hammer_and_wrench:
 - Croc! Pau-Pau Island (Japan) - TODO
-- [Cross Romance - Koi to Mahjong to Hanafuda to (Japan)](../../../Regions/Retails/Japan/T-7103G/01/README.md) - :hammer_and_wrench:
+- [Cross Romance - Koi to Mahjong to Hanafuda to (Japan)](../../../Regions/Retails/Japan/T-7103G/README.md) - :hammer_and_wrench:
 - [Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth (Japan)](../../../Regions/Retails/Japan/T-36401G/01/README.md) - :question:
-- [Crows: The Battle Action for SegaSaturn (Japan)](../../../Regions/Retails/Japan/T-16806G/01/README.md) - :hammer_and_wrench:
+- [Crows: The Battle Action for SegaSaturn (Japan)](../../../Regions/Retails/Japan/T-16806G/README.md) - :hammer_and_wrench:
 - Crusader - No Remorse (Europe) - TODO
 - Crusader - No Remorse (France) - TODO
 - Crusader - No Remorse (Germany) - TODO
@@ -82,7 +82,7 @@
 - Cyber Troopers Virtual-On (Europe) - TODO
 - [Cyber Troopers Virtual-On (USA)](../../../Regions/Retails/USA/MK-81042/01/README.md) - :x:
 - Cyber Troopers Virtual-On Net Link Edition (USA) - TODO
-- [Cyberbots: FullMetal Madness (Japan)](../../../Regions/Retails/Japan/T-1217G/01/README.md) - :hammer_and_wrench:
+- [Cyberbots: FullMetal Madness (Japan)](../../../Regions/Retails/Japan/T-1217G/01/README.md) - :minidisc: 2x
 - Cyberia (Europe) - TODO
 - Cyberia (Japan) - TODO
 - [Cyberia (USA)](../../../Regions/Retails/USA/T-12508H/01/README.md) - :x:

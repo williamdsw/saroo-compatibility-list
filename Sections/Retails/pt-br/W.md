@@ -16,7 +16,7 @@
 - [Waialae no Kiseki: Extra 36 Holes (Japan)](../../../Regions/Retails/Japan/T-11402G/01/README.md) - :heavy_check_mark:
 - [Waku Waku 7 (Japan)](../../../Regions/Retails/Japan/T-1515G/01/README.md) - :heavy_check_mark:
 - [Waku Waku Puyo Puyo Dungeon (Japan)](../../../Regions/Retails/Japan/T-6608G/01/README.md) - :heavy_check_mark:
-- [Waku Waku Monster (Japan)](../../../Regions/Retails/Japan/T-16608G/01/README.md) - :hammer_and_wrench:
+- [Waku Waku Monster (Japan)](../../../Regions/Retails/Japan/T-16608G/README.md) - :hammer_and_wrench:
 - [WanChai Connection (Japan)](../../../Regions/Retails/Japan/GS-9007/01/README.md) - :question:
 - [Wangan Dead Heat (Japan)](../../../Regions/Retails/Japan/T-9102G/README.md) - :heavy_check_mark:
 - [Wangan Dead Heat + Real Arrange (Japan)](../../../Regions/Retails/Japan/T-9103G/README.md) - :cd: 2x
@@ -41,7 +41,7 @@
 - [Winning Post EX (Japan)](../../../Regions/Retails/Japan/T-7606G/01/README.md) - :heavy_check_mark:
 - Winter Heat (Europe) - TODO
 - Winter Heat (Japan) - TODO
-- [Winter Heat (USA)](../../../Regions/Retails/USA/MK-81129/01/README.md) - :hammer_and_wrench:
+- [Winter Heat (USA)](../../../Regions/Retails/USA/MK-81129/README.md) - :hammer_and_wrench: :checkered_flag:
 - WipEout (Europe) - TODO
 - WipEout (Japan) (2M) - TODO
 - [WipEout (USA)](../../../Regions/Retails/USA/T-18601H/01/README.md) - :heavy_check_mark:

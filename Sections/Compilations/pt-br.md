@@ -28,7 +28,7 @@
 - [Midway Presents Arcade's Greatest Hits (USA)](../../Regions/Compilations/USA/T-9703H/01/README.md)
 - [Midway Presents Arcade's Greatest Hits: The Atari Collection 1 (USA)](../../Regions/Compilations/USA/T-9706H/01/README.md)
 - Pad Nifty 1.1 & Habitat II (Japan) - TODO
-- [Parodius (Europe)](../../Regions/Compilations/Europe/T-9501H-50/01/README.md)
+- [Parodius (Europe)](../../Regions/Compilations/Europe/T-9501H-50/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Salamander Deluxe Pack Plus (Japan)](../../Regions/Compilations/Japan/T-9520G/01/README.md)
 - [Sega Ages: Columns Arcade Collection (Japan)](../../Regions/Compilations/Japan/GS-9161/01/README.md)
 - [Sega Ages: I Love Mickey Mouse: Fushigi no Oshiro Daibouken/I Love Donald Duck: Gurujia Ou no Hihou (Japan)](../../Regions/Compilations/Japan/GS-9179/01/README.md)
@@ -50,6 +50,6 @@
 - [Thunder Force Gold Pack 2 (Japan)](../../Regions/Compilations/Japan/T-1808G/01/README.md)
 - [Thunder Storm & Road Blaster (Japan)](../../Regions/Compilations/Japan/T-20701G/README.md) - :cd: 2x
 - [Time Gal & Ninja Hayate (Japan)](../../Regions/Compilations/Japan/T-20702G/README.md) - :cd: 2x
-- [Wizardry Llylgamyn Saga (Japan)](../../Regions/Compilations/Japan/T-38601G/01/README.md)
+- [Wizardry Llylgamyn Saga (Japan)](../../Regions/Compilations/Japan/T-38601G/README.md) - :hammer_and_wrench:
 - [Wizardry VI & VII Complete (Japan)](../../Regions/Compilations/Japan/T-1306G/01/README.md)
 - [Wonder 3 Arcade Gears (Japan)](../../Regions/Compilations/Japan/T-26107G/README.md) - :100:

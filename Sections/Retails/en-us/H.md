@@ -43,7 +43,7 @@
 - [Honkaku Hanafuda (Japan)](../../../Regions/Retails/Japan/T-16611G/01/README.md) - :heavy_check_mark:
 - [Honkaku Pro Mahjong Tetsuman Special (Japan)](../../../Regions/Retails/Japan/T-18709G/01/README.md) - :heavy_check_mark:
 - [Honkaku Shougi Shinan - Wakamatsu Shougi Juku (Japan)](../../../Regions/Retails/Japan/T-4402G/01/README.md) - :heavy_check_mark:
-- [Hop Step Idol (Japan)](../../../Regions/Retails/Japan/T-20507G/01/README.md) - :x:
+- [Hop Step Idol (Japan)](../../../Regions/Retails/Japan/T-20507G/README.md) - :hammer_and_wrench:
 - [Horror Tour (Japan)](../../../Regions/Retails/Japan/T-24301G/README.md) - :minidisc: 2x
 - [Houkago Ren'ai Club - Koi no Etude (Japan)](../../../Regions/Retails/Japan/T-19714G/01/README.md) - :question:
 - [Houma Hunter Lime Perfect Collection (Japan)](../../../Regions/Retails/Japan/T-2001G/01/README.md) - :x: & :question:

@@ -26,14 +26,14 @@
 - Virtua Fighter (Europe) (Made in EU) - TODO
 - Virtua Fighter (Europe) (Made in USA) - TODO
 - Virtua Fighter (Japan) - TODO
-- [Virtua Fighter (USA)](../../../Regions/Retails/USA/MK-81005/01/README.md) - :hammer_and_wrench:
+- [Virtua Fighter (USA)](../../../Regions/Retails/USA/MK-81005/README.md) - :hammer_and_wrench: :checkered_flag:
 - Virtua Fighter 2 (Europe) (Made in EU) - TODO
 - Virtua Fighter 2 (Europe) (Made in USA) - TODO
 - Virtua Fighter 2 (Europe) (Rev A) (Made in EU) - TODO
 - Virtua Fighter 2 (Europe) (Rev A) (Made in USA) - TODO
 - [Virtua Fighter 2 (Japan)](../../../Regions/Retails/Japan/GS-9079/README.md) - :minidisc: 6x
 - Virtua Fighter 2 (South Korea) - TODO
-- [Virtua Fighter 2 (USA)](../../../Regions/Retails/USA/MK-81014/01/README.md) - :heavy_check_mark:
+- [Virtua Fighter 2 (USA)](../../../Regions/Retails/USA/MK-81014/README.md) - :minidisc: 2x
 - Virtua Fighter Kids (Europe) - TODO
 - [Virtua Fighter Kids (Japan)](../../../Regions/Retails/Japan/GS-9098/README.md) - :100:
 - Virtua Fighter Kids (South Korea) - TODO
@@ -46,7 +46,7 @@
 - Virtua Racing (Europe) - TODO
 - Virtua Racing (Japan) - TODO
 - [Virtua Racing (USA)](../../../Regions/Retails/USA/T-4801H/01/README.md) - :x:
-- [Virtuacall S (Japan)](../../../Regions/Retails/Japan/T-19718G/01/README.md) - :hammer_and_wrench: & :heavy_check_mark:
+- [Virtuacall S (Japan)](../../../Regions/Retails/Japan/T-19718G/README.md) - :cd: 2x
 - [Virtual Casino (Japan)](../../../Regions/Retails/Japan/T-27301G/01/README.md) - :heavy_check_mark:
 - [Virtual Casino (USA)](../../../Regions/Retails/USA/T-31102H/01/README.md) - :heavy_check_mark:
 - [Virtual Golf (Europe)](../../../Regions/Retails/Europe/T-11506H50/01/README.md) - :heavy_check_mark:

@@ -25,3 +25,4 @@ Used hardware links:
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 - [Micro SD Card - XRayDisk, 128 GB, fat32](../../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
 - [Micro SD Card - Lenovo, 128 GB, fat32](../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
+- [Saturn Region Patcher (SRP)](https://segaxtreme.net/resources/saturn-region-patcher.81/download)

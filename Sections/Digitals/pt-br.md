@@ -26,8 +26,8 @@
 - [Virtua Fighter CG Portrait Collection (Europe)](../../Regions/Digitals/Europe/610-6083/01/README.md)
 - Virtua Fighter CG Portrait Collection (Japan) - TODO
 - [Virtua Fighter CG Portrait Series The Final Dural (Japan)](../../Regions/Digitals/Japan/GS-9073/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 1 Sarah Bryant (Japan)](../../Regions/Digitals/Japan/GS-9062/01/README.md)
-- [Virtua Fighter CG Portrait Series Vol. 2 Jacky Bryant (Japan)](../../Regions/Digitals/Japan/GS-9064/01/README.md)
+- [Virtua Fighter CG Portrait Series Vol. 1 Sarah Bryant (Japan)](../../Regions/Digitals/Japan/GS-9062/README.md) - :minidisc: 2x
+- [Virtua Fighter CG Portrait Series Vol. 2 Jacky Bryant (Japan)](../../Regions/Digitals/Japan/GS-9064/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Virtua Fighter CG Portrait Series Vol. 3 Akira Yuki (Japan) (2M)](../../Regions/Digitals/Japan/GS-9065/01/README.md)
 - [Virtua Fighter CG Portrait Series Vol. 4 Pai Chan (Japan)](../../Regions/Digitals/Japan/GS-9066/01/README.md)\
 - [Virtua Fighter CG Portrait Series Vol. 5 Wolf Hawkfield (Japan)](../../Regions/Digitals/Japan/GS-9068/01/README.md)

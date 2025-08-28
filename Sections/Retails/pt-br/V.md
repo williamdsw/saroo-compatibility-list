@@ -47,7 +47,7 @@
 - Virtua Racing (Europe) - TODO
 - Virtua Racing (Japan) - TODO
 - [Virtua Racing (USA)](../../../Regions/Retails/USA/T-4801H/01/README.md) - :x:
-- [Virtuacall S (Japan)](../../../Regions/Retails/Japan/T-19718G/01/README.md) - :hammer_and_wrench: & :heavy_check_mark:
+- [Virtuacall S (Japan)](../../../Regions/Retails/Japan/T-19718G/README.md) - :cd: 2x
 - [Virtual Casino (Japan)](../../../Regions/Retails/Japan/T-27301G/01/README.md) - :heavy_check_mark:
 - [Virtual Casino (USA)](../../../Regions/Retails/USA/T-31102H/01/README.md) - :heavy_check_mark:
 - [Virtual Golf (Europe)](../../../Regions/Retails/Europe/T-11506H50/01/README.md) - :heavy_check_mark:

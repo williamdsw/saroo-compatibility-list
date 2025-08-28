@@ -277,7 +277,7 @@ Other links related to SAROO:
 | TODO - Clockwork Knight: Pepperouchau's Adventure                | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81007/01/README.md)      |
 | Clockwork Knight 2: Pepperouchau's Adventure                     | :eu:   | :minidisc: 2x       | [Link](Regions/Retails/Europe/MK-81021/01/README.md)   |
 | Clockwork Knight 2: Pepperouchau's Adventure                     | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81036/01/README.md)      |
-| Code R                                                           | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-23502G/01/README.md)    |
+| Code R                                                           | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-23502G/README.md)       |
 | College Slam                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-8111H/01/README.md)       |
 | Command & Conquer (Disc 1) (GDI)                                 | :eu:   | :question:          | TODO                                                   |
 | Command & Conquer (Disc 2) (NOD)                                 | :eu:   | :question:          | TODO                                                   |
@@ -289,7 +289,7 @@ Other links related to SAROO:
 | Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 1) (GDI) | :de:   | :question:          | TODO                                                   |
 | Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 2) (NOD) | :de:   | :question:          | TODO                                                   |
 | Congo the Movie: The Lost City of Zinj                           | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81010/01/README.md)      |
-| Contra - Legacy of War                                           | :us:   | :hammer_and_wrench: | [Link](Regions/Retails/USA/T-9507H/01/README.md)       |
+| Contra - Legacy of War                                           | :us:   | :hammer_and_wrench: | [Link](Regions/Retails/USA/T-9507H/README.md)          |
 | Corpse Killer - Graveyard Edition                                | :us:   | :cd: 2x             | [Link](Regions/Retails/USA/T-16201H/01/README.md)      |
 | Cotton 2                                                         | :jp:   | :100:               | [Link](Regions/Retails/Japan/T-9904G/README.md)        |
 | Cotton Boomerang                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-9906G/01/README.md)     |
@@ -304,11 +304,11 @@ Other links related to SAROO:
 | Criticom                                                         | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-2302H/01/README.md)       |
 | Criticom - The Critical Combat                                   | :jp:   | :question:          | TODO                                                   |
 | Croc - Legend of the Gobbos                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/T-5029H-50/01/README.md) |
-| Croc - Legend of the Gobbos                                      | :us:   | :hammer_and_wrench: | [Link](Regions/Retails/USA/T-5029H-50/01/README.md)    |
+| Croc - Legend of the Gobbos                                      | :us:   | :hammer_and_wrench: | [Link](Regions/Retails/USA/T-5029H-50/README.md)       |
 | Croc! Pau-Pau Island                                             | :jp:   | :question:          | TODO                                                   |
-| Cross Romance - Koi to Mahjong to Hanafuda to                    | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-7103G/01/README.md)     |
+| Cross Romance - Koi to Mahjong to Hanafuda to                    | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-7103G/README.md)        |
 | Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth         | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-36401G/01/README.md)    |
-| Crows: The Battle Action for SegaSaturn                          | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-16806G/01/README.md)    |
+| Crows: The Battle Action for SegaSaturn                          | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-16806G/README.md)       |
 | Crusader - No Remorse                                            | :eu:   | :question:          | TODO                                                   |
 | Crusader - No Remorse                                            | :fr:   | :question:          | TODO                                                   |
 | Crusader - No Remorse                                            | :de:   | :question:          | TODO                                                   |
@@ -323,7 +323,7 @@ Other links related to SAROO:
 | Cyber Speedway                                                   | :eu:   | :question:          | TODO                                                   |
 | Cyber Speedway                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81204/01/README.md)      |
 | Cyber Troopers Virtual-On                                        | :eu:   | :question:          | TODO                                                   |
-| Cyberbots: FullMetal Madness                                     | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-1217G/01/README.md)     |
+| Cyberbots: FullMetal Madness                                     | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-1217G/README.md)        |
 | Cyberia                                                          | :eu:   | :question:          | TODO                                                   |
 | Cyberia                                                          | :jp:   | :question:          | TODO                                                   |
 | Cyberia                                                          | :us:   | :x:                 | [Link](Regions/Retails/USA/T-12508H/01/README.md)      |
@@ -496,63 +496,63 @@ Other links related to SAROO:
 
 ### F
 
-| Name                                            | Region | Status                               | Details                                                |
-| ----------------------------------------------- | ------ | ------------------------------------ | ------------------------------------------------------ |
-| F-1 Live Information                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9035/01/README.md)     |
-| F1 Challenge                                    | :eu:   | :question:                           | TODO                                                   |
-| F1 Challenge                                    | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81206/01/README.md)      |
-| FEDA Remake! The Emblem of Justice              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21001G/01/README.md)    |
-| FIFA - Die WM-Qualifikation 98                  | :de:   | :question:                           | TODO                                                   |
-| FIFA - En Route pour la Coupe du Monde 98       | :fr:   | :question:                           | TODO                                                   |
-| FIFA - Road to World Cup 98                     | :eu:   | :question:                           | TODO                                                   |
-| FIFA - Road to World Cup 98                     | :it:   | :question:                           | TODO                                                   |
-| FIFA - Road to World Cup 98                     | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5025H/01/README.md)       |
-| FIFA - Rumbo al Mundial 98                      | :es:   | :question:                           | TODO                                                   |
-| FIFA 97                                         | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-5017H/01/README.md)    |
-| FIFA 97                                         | :fr:   | :question:                           | TODO                                                   |
-| FIFA 97                                         | :de:   | :question:                           | TODO                                                   |
-| FIFA Soccer 96                                  | :eu:   | :question:                           | TODO                                                   |
-| FIFA Soccer 96                                  | :jp:   | :question:                           | TODO                                                   |
-| FIFA Soccer 96                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5003H/01/README.md)       |
-| FIFA Soccer 97                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5017H/01/README.md)       |
-| Fantastep                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-5710G/01/README.md)     |
-| Farland Saga                                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-32507G/01/README.md)    |
-| Farland Saga: Toki no Michishirube              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-32511G/01/README.md)    |
-| Farland Story: Habou no Mai                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-32505G/01/README.md)    |
-| Father Christmas                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-18504G/01/README.md)    |
-| Fighter's History Dynamite                      | :jp:   | :100:                                | [Link](Regions/Retails/Japan/GS-9107/README.md)        |
-| Fighters Megamix                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/MK-81073/01/README.md)   |
-| Fighters Megamix                                | :jp:   | :minidisc: 3x                        | [Link](Regions/Retails/Japan/GS-9126/README.md)        |
-| Fighters Megamix                                | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81073/README.md)         |
-| Fighting Vipers                                 | :eu:   | :100:                                | [Link](Regions/Retails/Europe/MK-81041/README.md)      |
-| Fighting Vipers                                 | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/GS-9101/01/README.md)     |
-| Fighting Vipers                                 | :kr:   | :question:                           | TODO                                                   |
-| Fighting Vipers                                 | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81041/01/README.md)      |
-| Final Fight Revenge                             | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/Japan/T-1248G/README.md)        |
-| Find Love 2 - Rhapsody                          | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-34605G/01/README.md)    |
-| Find Love 2 - The Prologue                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-34604G/01/README.md)    |
-| Fire Pro Gaiden: Blazing Tornado                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-4302G/01/README.md)     |
-| Fire Prowrestling S - 6Men Scramble             | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-4308G/01/README.md)     |
-| Firestorm - Thunderhawk 2                       | :eu:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Europe/T-11501H00/01/README.md) |
-| Firestorm - Thunderhawk 2                       | :de:   | :question:                           | TODO                                                   |
-| Fishing Koushien                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-24901G/01/README.md)    |
-| Fishing Koushien II                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-24904G/01/README.md)    |
-| Fist                                            | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-15015G/README.md)       |
-| Formula Grand Prix - Team Un'ei Simulation      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7309G/01/README.md)     |
-| Formula Karts Special Edition                   | :eu:   | :x:                                  | [Link](Regions/Retails/Europe/MK-81282/01/README.md)   |
-| Frank Thomas Big Hurt Baseball                  | :eu:   | :question:                           | TODO                                                   |
-| Frank Thomas Big Hurt Baseball                  | :jp:   | :question:                           | TODO                                                   |
-| Frank Thomas Big Hurt Baseball                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8138H/01/README.md)       |
-| Frankenstein - Through the Eyes of the Monster  | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-12511H/01/README.md)   |
-| Free Talk Studio - Mari no Kimamana Oshaberi    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20504G/01/README.md)    |
-| Friends - Seishun no Kagayaki                   | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-20109G/01/README.md)    |
-| From TV Animation Slam Dunk - I Love Basketball | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-13301G/01/README.md)    |
-| Fully Cowled Mini Yonku Super Factory           | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-26407G/01/README.md)    |
-| Funky Fantasy                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20002G/01/README.md)    |
-| Funky Head Boxers                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20003G/01/README.md)    |
-| Funky Head Boxers Plus                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20004G/01/README.md)    |
-| Fushigi no Kuni no Angelique                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7634G/01/README.md)     |
-| Fuusui Sensei - Feng-Shui Master                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21701G/01/README.md)    |
+| Name                                            | Region | Status                               | Details                                              |
+| ----------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------------- |
+| F-1 Live Information                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9035/01/README.md)   |
+| F1 Challenge                                    | :eu:   | :question:                           | TODO                                                 |
+| F1 Challenge                                    | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81206/01/README.md)    |
+| FEDA Remake! The Emblem of Justice              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21001G/01/README.md)  |
+| FIFA - Die WM-Qualifikation 98                  | :de:   | :question:                           | TODO                                                 |
+| FIFA - En Route pour la Coupe du Monde 98       | :fr:   | :question:                           | TODO                                                 |
+| FIFA - Road to World Cup 98                     | :eu:   | :question:                           | TODO                                                 |
+| FIFA - Road to World Cup 98                     | :it:   | :question:                           | TODO                                                 |
+| FIFA - Road to World Cup 98                     | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5025H/01/README.md)     |
+| FIFA - Rumbo al Mundial 98                      | :es:   | :question:                           | TODO                                                 |
+| FIFA 97                                         | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-5017H/01/README.md)  |
+| FIFA 97                                         | :fr:   | :question:                           | TODO                                                 |
+| FIFA 97                                         | :de:   | :question:                           | TODO                                                 |
+| FIFA Soccer 96                                  | :eu:   | :question:                           | TODO                                                 |
+| FIFA Soccer 96                                  | :jp:   | :question:                           | TODO                                                 |
+| FIFA Soccer 96                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5003H/01/README.md)     |
+| FIFA Soccer 97                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5017H/01/README.md)     |
+| Fantastep                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-5710G/01/README.md)   |
+| Farland Saga                                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-32507G/01/README.md)  |
+| Farland Saga: Toki no Michishirube              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-32511G/01/README.md)  |
+| Farland Story: Habou no Mai                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-32505G/01/README.md)  |
+| Father Christmas                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-18504G/01/README.md)  |
+| Fighter's History Dynamite                      | :jp:   | :100:                                | [Link](Regions/Retails/Japan/GS-9107/README.md)      |
+| Fighters Megamix                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/MK-81073/01/README.md) |
+| Fighters Megamix                                | :jp:   | :minidisc: 3x                        | [Link](Regions/Retails/Japan/GS-9126/README.md)      |
+| Fighters Megamix                                | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81073/README.md)       |
+| Fighting Vipers                                 | :eu:   | :100:                                | [Link](Regions/Retails/Europe/MK-81041/README.md)    |
+| Fighting Vipers                                 | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/GS-9101/01/README.md)   |
+| Fighting Vipers                                 | :kr:   | :question:                           | TODO                                                 |
+| Fighting Vipers                                 | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81041/01/README.md)    |
+| Final Fight Revenge                             | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/Japan/T-1248G/README.md)      |
+| Find Love 2 - Rhapsody                          | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-34605G/01/README.md)  |
+| Find Love 2 - The Prologue                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-34604G/01/README.md)  |
+| Fire Pro Gaiden: Blazing Tornado                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-4302G/01/README.md)   |
+| Fire Prowrestling S - 6Men Scramble             | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-4308G/01/README.md)   |
+| Firestorm - Thunderhawk 2                       | :eu:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Europe/T-11501H00/README.md)  |
+| Firestorm - Thunderhawk 2                       | :de:   | :question:                           | TODO                                                 |
+| Fishing Koushien                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-24901G/01/README.md)  |
+| Fishing Koushien II                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-24904G/01/README.md)  |
+| Fist                                            | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-15015G/README.md)     |
+| Formula Grand Prix - Team Un'ei Simulation      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7309G/01/README.md)   |
+| Formula Karts Special Edition                   | :eu:   | :x:                                  | [Link](Regions/Retails/Europe/MK-81282/01/README.md) |
+| Frank Thomas Big Hurt Baseball                  | :eu:   | :question:                           | TODO                                                 |
+| Frank Thomas Big Hurt Baseball                  | :jp:   | :question:                           | TODO                                                 |
+| Frank Thomas Big Hurt Baseball                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8138H/01/README.md)     |
+| Frankenstein - Through the Eyes of the Monster  | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-12511H/01/README.md) |
+| Free Talk Studio - Mari no Kimamana Oshaberi    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20504G/01/README.md)  |
+| Friends - Seishun no Kagayaki                   | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-20109G/01/README.md)  |
+| From TV Animation Slam Dunk - I Love Basketball | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-13301G/01/README.md)  |
+| Fully Cowled Mini Yonku Super Factory           | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-26407G/01/README.md)  |
+| Funky Fantasy                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20002G/01/README.md)  |
+| Funky Head Boxers                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20003G/01/README.md)  |
+| Funky Head Boxers Plus                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20004G/01/README.md)  |
+| Fushigi no Kuni no Angelique                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7634G/01/README.md)   |
+| Fuusui Sensei - Feng-Shui Master                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21701G/01/README.md)  |
 
 ### G
 
@@ -601,10 +601,10 @@ Other links related to SAROO:
 | Go III Professional Taikyoku Igo                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-29003G/01/README.md)    |
 | Godzilla Rettoushinkan                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9050/01/README.md)     |
 | Goiken Muyou - Anarchy in the Nippon                     | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/T-28902G/01/README.md)    |
-| Gokujou Parodius Da! Deluxe Pack                         | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-9501G/01/README.md)     |
+| Gokujou Parodius Da! Deluxe Pack                         | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-9501G/README.md)        |
 | Golden Axe: The Duel                                     | :eu:   | :x:                                  | [Link](Regions/Retails/Europe/MK-81045/01/README.md)   |
 | Golden Axe - The Duel                                    | :jp:   | :question:                           | TODO                                                   |
-| Golden Axe: The Duel                                     | :us:   | :hammer_and_wrench:                  | [Link](Regions/Retails/USA/MK-81045/01/README.md)      |
+| Golden Axe: The Duel                                     | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/USA/MK-81045/README.md)         |
 | Gotha - Ismailia SenEki                                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/GS-9009/01/README.md)     |
 | Gotha II: Tenkuu no Kishi                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7608G/01/README.md)     |
 | Groove on Fight: Gōketsuji Ichizoku 3                    | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/Japan/T-14411G/README.md)       |
@@ -623,7 +623,7 @@ Other links related to SAROO:
 | Guardian Heroes                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81035/01/README.md)      |
 | Gun Frontier Arcade Gears                                | :jp:   | :x:                                  | [Link](Regions/Retails/Japan/T-26109G/01/README.md)    |
 | Gunblaze S                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-19710G/01/README.md)    |
-| Gunbird                                                  | :jp:   | :x:                                  | [Link](Regions/Retails/Japan/T-14402G/01/README.md)    |
+| Gunbird                                                  | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/Japan/T-14402G/README.md)       |
 | Gungriffon                                               | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/MK-81046/01/README.md)   |
 | Gungriffon                                               | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81046/01/README.md)      |
 | Gungriffon - The Eurasian Conflict                       | :jp:   | :question:                           | TODO                                                   |
@@ -672,7 +672,7 @@ Other links related to SAROO:
 | Honkaku Hanafuda                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-16611G/01/README.md)    |
 | Honkaku Pro Mahjong Tetsuman Special                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-18709G/01/README.md)    |
 | Honkaku Shougi Shinan - Wakamatsu Shougi Juku                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-4402G/01/README.md)     |
-| Hop Step Idol                                                     | :jp:   | :x:                 | [Link](Regions/Retails/Japan/T-20507G/01/README.md)    |
+| Hop Step Idol                                                     | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-20507G/README.md)       |
 | Horror Tour                                                       | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-24301G/README.md)       |
 | Houkago Ren'ai Club - Koi no Etude                                | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-19714G/01/README.md)    |
 | Houma Hunter Lime Perfect Collection                              | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-2001G/01/README.md)     |
@@ -958,7 +958,7 @@ Other links related to SAROO:
 | NASCAR 98                                                             | :de:          | :question:          | TODO                                                 |
 | NASCAR 98                                                             | :us:          | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-5028H/01/README.md)     |
 | NBA Action                                                            | :eu:          | :question:          | TODO                                                 |
-| NBA Action                                                            | :us:          | :hammer_and_wrench: | [Link](Regions/Retails/USA/MK-81103/01/README.md)    |
+| NBA Action                                                            | :us:          | :hammer_and_wrench: | [Link](Regions/Retails/USA/MK-81103/README.md)       |
 | NBA Action 98                                                         | :eu:          | :question:          | TODO                                                 |
 | NBA Action 98                                                         | :us:          | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81124/01/README.md)    |
 | NBA Jam: Tournament Edition                                           | :eu:          | :question:          | TODO                                                 |
@@ -1011,13 +1011,13 @@ Other links related to SAROO:
 | Nihon Pro Mahjong Renmei Kounin Doujou Yaburi                         | :jp:          | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-18714G/01/README.md)  |
 | Nile Gawa no Yoake                                                    | :jp:          | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-9106G/01/README.md)   |
 | Ninja Jajamaru-kun: Onigiri Ninpouchou Gold                           | :jp:          | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-5709G/01/README.md)   |
-| Ninku: Tsuyokina Yatsura no Daigekitotsu!                             | :jp:          | :hammer_and_wrench: | [Link](Regions/Retails/Japan/GS-9036/01/README.md)   |
+| Ninku: Tsuyokina Yatsura no Daigekitotsu!                             | :jp:          | :hammer_and_wrench: | [Link](Regions/Retails/Japan/GS-9036/README.md)      |
 | Ninpen Manmaru                                                        | :jp:          | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-35502G/01/README.md)  |
 | Nissan Presents - Over Drivin' GT-R                                   | :jp:          | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-10613G/01/README.md)  |
 | Nobunaga no Yabou Shouseiroku                                         | :jp:          | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7664G/01/README.md)   |
 | Nobunaga no Yabou Returns                                             | :jp:          | :x:                 | [Link](Regions/Retails/Japan/T-7614G/01/README.md)   |
 | Nobunaga no Yabou Sengoku Gunyuuden                                   | :jp:          | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7658G/01/README.md)   |
-| Nobunaga no Yabou Tenshouki                                           | :jp:          | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-7605G/01/README.md)   |
+| Nobunaga no Yabou Tenshouki                                           | :jp:          | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-7605G/README.md)      |
 | Nobunaga no Yabou Tenshouki with Power-Up Kit                         | :jp:          | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7643G/01/README.md)   |
 | Nonomura Byouin no Hitobito                                           | :jp:          | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-28001G/01/README.md)  |
 | Noon                                                                  | :jp:          | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-5206G/01/README.md)   |
@@ -1608,142 +1608,142 @@ Other links related to SAROO:
 
 ### V
 
-| Name                                        | Region | Status              | Details                                                |
-| ------------------------------------------- | ------ | ------------------- | ------------------------------------------------------ |
-| VR Golf '97                                 | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-12518H/01/README.md)      |
-| VR Soccer                                   | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-12517H/01/README.md)      |
-| Valora Valley Golf                          | :eu:   |                     | TODO                                                   |
-| Valora Valley Golf                          | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-2303H/01/README.md)       |
-| Vampire Hunter: Darkstalkers' Revenge       | :jp:   | :minidisc: 3x       | [Link](Regions/Retails/Japan/T-1202G/01/README.md)     |
-| Vampire Savior: The Lord of Vampire         | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-1229G/01/README.md)     |
-| Vandal Hearts - Ushinawareta Kodai Bunmei   | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-9526G/01/README.md)     |
-| Vatlva                                      | :jp:   | :100:               | [Link](Regions/Retails/Japan/T-31501G/README.md)       |
-| Victory Boxing                              | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/T-6005H-50/01/README.md) |
-| Victory Goal                                | :jp:   | :minidisc: 3x       | [Link](Regions/Retails/Japan/GS-9002/01/README.md)     |
-| Victory Goal Worldwide Edition              | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/GS-9112/01/README.md)     |
-| Virtua Cop                                  | :eu:   | :minidisc: 4x       | [Link](Regions/Retails/Europe/MK-81015/README.md)      |
-| Virtua Cop                                  | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/GS-9060/README.md)        |
-| Virtua Cop                                  | :us:   | :minidisc: 3x       | [Link](Regions/Retails/USA/MK-81015/README.md)         |
-| Virtua Cop 2                                | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/MK-81043/README.md)      |
-| Virtua Cop 2                                | :jp:   | :minidisc: 3x       | [Link](Regions/Retails/Japan/GS-9097/README.md)        |
-| Virtua Cop 2                                | :us:   | :100:               | [Link](Regions/Retails/USA/MK-81043/README.md)         |
-| Virtua Fighter (Made in EU)                 | :eu:   | :question:          | TODO                                                   |
-| Virtua Fighter (Made in USA)                | :eu:   | :question:          | TODO                                                   |
-| Virtua Fighter                              | :jp:   | :question:          | TODO                                                   |
-| Virtua Fighter                              | :us:   | :hammer_and_wrench: | [Link](Regions/Retails/USA/MK-81005/01/README.md)      |
-| Virtua Fighter 2 (Made in EU)               | :eu:   | :question:          | TODO                                                   |
-| Virtua Fighter 2 (Made in USA)              | :eu:   | :question:          | TODO                                                   |
-| Virtua Fighter 2 (Rev A) (Made in EU)       | :eu:   | :question:          | TODO                                                   |
-| Virtua Fighter 2 (Rev A) (Made in USA)      | :eu:   | :question:          | TODO                                                   |
-| Virtua Fighter 2                            | :jp:   | :minidisc: 6x       | [Link](Regions/Retails/Japan/GS-9079/README.md)        |
-| Virtua Fighter 2                            | :kr:   | :question:          | TODO                                                   |
-| Virtua Fighter 2                            | :us:   | :minidisc: 2x       | [Link](Regions/Retails/USA/MK-81014/01/README.md)      |
-| Virtua Fighter Kids                         | :eu:   | :question:          | TODO                                                   |
-| Virtua Fighter Kids                         | :jp:   | :100:               | [Link](Regions/Retails/Japan/GS-9098/README.md)        |
-| Virtua Fighter Kids                         | :kr:   | :question:          | TODO                                                   |
-| Virtua Fighter Kids                         | :us:   | :100:               | [Link](Regions/Retails/USA/MK-81049/README.md)         |
-| Virtua Fighter Remix                        | :eu:   | :question:          | TODO                                                   |
-| Virtua Fighter Remix                        | :jp:   | :minidisc: 4x       | [Link](Regions/Retails/Japan/GS-9039/README.md)        |
-| Virtua Fighter Remix                        | :kr:   | :question:          | TODO                                                   |
-| Virtua Fighter Remix                        | :us:   | :100:               | [Link](Regions/Retails/USA/MK-81023/README.md)         |
-| Virtua Photo Studio - Cameraman Simulation  | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-8103G/01/README.md)     |
-| Virtua Racing                               | :eu:   | :question:          | TODO                                                   |
-| Virtua Racing                               | :jp:   | :question:          | TODO                                                   |
-| Virtua Racing                               | :us:   | :minidisc: 2x       | [Link](Regions/Retails/USA/T-4801H/01/README.md)       |
-| Virtuacall S                                | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-19718G/01/README.md)    |
-| Virtual Casino                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-27301G/01/README.md)    |
-| Virtual Casino                              | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-31102H/01/README.md)      |
-| Virtual Golf                                | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/T-11506H50/01/README.md) |
-| Virtual Hydlide                             | :eu:   | :question:          | TODO                                                   |
-| Virtual Hydlide                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/GS-9012/01/README.md)     |
-| Virtual Hydlide                             | :us:   | :minidisc: 2x       | [Link](Regions/Retails/USA/T-14401H/01/README.md)      |
-| Virtual Kyoutei                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7101G/01/README.md)     |
-| Virtual Kyoutei 2                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7104G/01/README.md)     |
-| Virtual Mahjong                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-2206G/01/README.md)     |
-| Virtual On: Cyber Troopers                  | :us:   | :x:                 | [Link](Regions/Retails/USA/MK-81042/01/README.md)      |
-| Virtual On: Cyber Troopers Net Link Edition | :us:   | :x:                 | [Link](Regions/Retails/USA/MK-81042/01/README.md)      |
-| Virtual Open Tennis                         | :eu:   | TODO                | TODO                                                   |
-| Virtual Open Tennis                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-15007G/01/README.md)    |
-| Virtual Open Tennis                         | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-8129H/01/README.md)       |
-| Virtual Volleyball                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-15005G/01/README.md)    |
-| Virus                                       | :jp:   | :cd: 3x             | [Link](Regions/Retails/Japan/T-14304G/01/README.md)    |
-| Voice Fantasia S: Ushinawareta Voice Power  | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-16706G/README.md)       |
-| Voice Idol Maniacs - Pool Bar Story         | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-1312G/01/README.md)     |
+| Name                                        | Region | Status                               | Details                                                |
+| ------------------------------------------- | ------ | ------------------------------------ | ------------------------------------------------------ |
+| VR Golf '97                                 | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-12518H/01/README.md)      |
+| VR Soccer                                   | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-12517H/01/README.md)      |
+| Valora Valley Golf                          | :eu:   |                                      | TODO                                                   |
+| Valora Valley Golf                          | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-2303H/01/README.md)       |
+| Vampire Hunter: Darkstalkers' Revenge       | :jp:   | :minidisc: 3x                        | [Link](Regions/Retails/Japan/T-1202G/01/README.md)     |
+| Vampire Savior: The Lord of Vampire         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-1229G/01/README.md)     |
+| Vandal Hearts - Ushinawareta Kodai Bunmei   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-9526G/01/README.md)     |
+| Vatlva                                      | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-31501G/README.md)       |
+| Victory Boxing                              | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-6005H-50/01/README.md) |
+| Victory Goal                                | :jp:   | :minidisc: 3x                        | [Link](Regions/Retails/Japan/GS-9002/01/README.md)     |
+| Victory Goal Worldwide Edition              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9112/01/README.md)     |
+| Virtua Cop                                  | :eu:   | :minidisc: 4x                        | [Link](Regions/Retails/Europe/MK-81015/README.md)      |
+| Virtua Cop                                  | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/GS-9060/README.md)        |
+| Virtua Cop                                  | :us:   | :minidisc: 3x                        | [Link](Regions/Retails/USA/MK-81015/README.md)         |
+| Virtua Cop 2                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/MK-81043/README.md)      |
+| Virtua Cop 2                                | :jp:   | :minidisc: 3x                        | [Link](Regions/Retails/Japan/GS-9097/README.md)        |
+| Virtua Cop 2                                | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81043/README.md)         |
+| Virtua Fighter (Made in EU)                 | :eu:   | :question:                           | TODO                                                   |
+| Virtua Fighter (Made in USA)                | :eu:   | :question:                           | TODO                                                   |
+| Virtua Fighter                              | :jp:   | :question:                           | TODO                                                   |
+| Virtua Fighter                              | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/USA/MK-81005/README.md)         |
+| Virtua Fighter 2 (Made in EU)               | :eu:   | :question:                           | TODO                                                   |
+| Virtua Fighter 2 (Made in USA)              | :eu:   | :question:                           | TODO                                                   |
+| Virtua Fighter 2 (Rev A) (Made in EU)       | :eu:   | :question:                           | TODO                                                   |
+| Virtua Fighter 2 (Rev A) (Made in USA)      | :eu:   | :question:                           | TODO                                                   |
+| Virtua Fighter 2                            | :jp:   | :minidisc: 6x                        | [Link](Regions/Retails/Japan/GS-9079/README.md)        |
+| Virtua Fighter 2                            | :kr:   | :question:                           | TODO                                                   |
+| Virtua Fighter 2                            | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81014/README.md)         |
+| Virtua Fighter Kids                         | :eu:   | :question:                           | TODO                                                   |
+| Virtua Fighter Kids                         | :jp:   | :100:                                | [Link](Regions/Retails/Japan/GS-9098/README.md)        |
+| Virtua Fighter Kids                         | :kr:   | :question:                           | TODO                                                   |
+| Virtua Fighter Kids                         | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81049/README.md)         |
+| Virtua Fighter Remix                        | :eu:   | :question:                           | TODO                                                   |
+| Virtua Fighter Remix                        | :jp:   | :minidisc: 4x                        | [Link](Regions/Retails/Japan/GS-9039/README.md)        |
+| Virtua Fighter Remix                        | :kr:   | :question:                           | TODO                                                   |
+| Virtua Fighter Remix                        | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81023/README.md)         |
+| Virtua Photo Studio - Cameraman Simulation  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-8103G/01/README.md)     |
+| Virtua Racing                               | :eu:   | :question:                           | TODO                                                   |
+| Virtua Racing                               | :jp:   | :question:                           | TODO                                                   |
+| Virtua Racing                               | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/T-4801H/01/README.md)       |
+| Virtuacall S                                | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-19718G/README.md)       |
+| Virtual Casino                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-27301G/01/README.md)    |
+| Virtual Casino                              | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-31102H/01/README.md)      |
+| Virtual Golf                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-11506H50/01/README.md) |
+| Virtual Hydlide                             | :eu:   | :question:                           | TODO                                                   |
+| Virtual Hydlide                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9012/01/README.md)     |
+| Virtual Hydlide                             | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/T-14401H/01/README.md)      |
+| Virtual Kyoutei                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7101G/01/README.md)     |
+| Virtual Kyoutei 2                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7104G/01/README.md)     |
+| Virtual Mahjong                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-2206G/01/README.md)     |
+| Virtual On: Cyber Troopers                  | :us:   | :x:                                  | [Link](Regions/Retails/USA/MK-81042/01/README.md)      |
+| Virtual On: Cyber Troopers Net Link Edition | :us:   | :x:                                  | [Link](Regions/Retails/USA/MK-81042/01/README.md)      |
+| Virtual Open Tennis                         | :eu:   | TODO                                 | TODO                                                   |
+| Virtual Open Tennis                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-15007G/01/README.md)    |
+| Virtual Open Tennis                         | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8129H/01/README.md)       |
+| Virtual Volleyball                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-15005G/01/README.md)    |
+| Virus                                       | :jp:   | :cd: 3x                              | [Link](Regions/Retails/Japan/T-14304G/01/README.md)    |
+| Voice Fantasia S: Ushinawareta Voice Power  | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-16706G/README.md)       |
+| Voice Idol Maniacs - Pool Bar Story         | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-1312G/01/README.md)     |
 
 ### W
 
-| Name                                                      | Region | Status              | Details                                                  |
-| --------------------------------------------------------- | ------ | ------------------- | -------------------------------------------------------- |
-| WWF In Your House                                         | :eu:   | :question:          | TODO                                                     |
-| WWF In Your House                                         | :jp:   | :100:               | [Link](Regions/Retails/Japan/T-8120G/README.md)          |
-| WWF In Your House                                         | :us:   | :100:               | [Link](Regions/Retails/USA/T-8126H/README.md)            |
-| WWF WrestleMania - The Arcade Game                        | :eu:   | :question:          | TODO                                                     |
-| WWF WrestleMania - The Arcade Game                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-8112G/01/README.md)       |
-| WWF WrestleMania - The Arcade Game                        | :us:   | :x:                 | [Link](Regions/Retails/USA/T-8112H/01/README.md)         |
-| Wachenröder                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/GS-9183/01/README.md)       |
-| Waialae no Kiseki: Extra 36 Holes                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-11402G/01/README.md)      |
-| Waku Waku 7                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-1515G/01/README.md)       |
-| Waku Waku Puyo Puyo Dungeon                               | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-6608G/01/README.md)       |
-| Waku Waku Monster                                         | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-16608G/01/README.md)      |
-| WanChai Connection                                        | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/GS-9007/01/README.md)       |
-| Wangan Dead Heat                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-9102G/README.md)          |
-| Wangan Dead Heat + Real Arrange                           | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-9103G/README.md)          |
-| Wangan Trial Love                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-9110G/01/README.md)       |
-| WarCraft II - The Dark Saga                               | :eu:   | :question:          | TODO                                                     |
-| WarCraft II - The Dark Saga                               | :jp:   | :question:          | TODO                                                     |
-| WarCraft II - The Dark Saga                               | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-5023H/01/README.md)         |
-| Wara² Wars: Gekitou! Daigundan Battle                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-21507G/01/README.md)      |
-| Welcome House                                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-15027G/01/README.md)      |
-| Wheel's                                                   | :jp:   | :100:               | [Link](Regions/Retails/Japan/610609201/README.md)        |
-| Whizz                                                     | :eu:   | :x:                 | [Link](Regions/Retails/Europe/T-9515H-50/01/README.md)   |
-| Willy Wombat                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-14306G/01/README.md)      |
-| Wing Arms                                                 | :eu:   | :question:          | TODO                                                     |
-| Wing Arms                                                 | :us:   | :minidisc: 2x       | [Link](Regions/Retails/USA/MK-81024/01/README.md)        |
-| Wing Arms: Kareinaru Gekitsuiou                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/GS-9038/01/README.md)       |
-| Winning Post                                              | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-7602H/01/README.md)         |
-| Winning Post 2                                            | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-7612G/01/README.md)       |
-| Winning Post 2 - Final '97                                | :jp:   | :question:          | TODO                                                     |
-| Winning Post 2 - Program '96                              | :jp:   | :question:          | TODO                                                     |
-| Winning Post 3                                            | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-7660G/01/README.md)       |
-| Winning Post 3 - Program '98                              | :jp:   | :question:          | TODO                                                     |
-| Winning Post EX                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7606G/01/README.md)       |
-| Winter Heat                                               | :eu:   | :question:          | TODO                                                     |
-| Winter Heat                                               | :jp:   | :question:          | TODO                                                     |
-| Winter Heat                                               | :us:   | :hammer_and_wrench: | [Link](Regions/Retails/USA/MK-81129/01/README.md)        |
-| WipEout                                                   | :eu:   | :question:          | TODO                                                     |
-| WipEout                                                   | :jp:   | :question:          | TODO                                                     |
-| WipEout                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-18601H/01/README.md)        |
-| WipEout 2097                                              | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/T-11308H-50/01/README.md)  |
-| WipEout XL                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-18619G/01/README.md)      |
-| With You: Mitsumete Itai                                  | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-20117G/01/README.md)      |
-| Wizard's Harmony                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-22001G/01/README.md)      |
-| Wizard's Harmony 2                                        | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-22004G/01/README.md)      |
-| Wizardry Nemesis                                          | :jp:   | :cd: 2x             | [Link](Regions/Retails/Japan/T-37001G/01/README.md)      |
-| Wolf Fang SS Kuuga 2001                                   | :jp:   | :100:               | [Link](Regions/Retails/Japan/T-26105G/README.md)         |
-| World Advanced Daisenryaku: Koutetsu no Senpuu            | :jp:   | :minidisc: 3x       | [Link](Regions/Retails/Japan/GS9025/01/README.md)        |
-| World Advanced Daisenryaku: Sakusen File (1M)             | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/GS-9082/01/README.md)       |
-| World Cup '98 France: Road to Win                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/GS-9196/01/README.md)       |
-| World Cup Golf In Hyatt Dorado Beach                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7301G/01/README.md)       |
-| World Cup Golf - Professional Edition                     | :eu:   | :question:          | TODO                                                     |
-| World Cup Golf - Professional Edition                     | :eu:   | :question:          | TODO                                                     |
-| World Cup Golf - Professional Edition                     | :fr:   | :question:          | TODO                                                     |
-| World Cup Golf - Professional Edition                     | :de:   | :question:          | TODO                                                     |
-| World Cup Golf: Professional Edition                      | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-7903H/01/README.md)         |
-| World Evolution Soccer                                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-2002G/01/README.md)       |
-| World Heroes Perfect                                      | :jp:   | :100:               | [Link](Regions/Retails/Japan/T-3103G/README.md)          |
-| World League Soccer '98                                   | :eu:   | :x:                 | [Link](Regions/Retails/Europe/MK-81181/01/README.md)     |
-| World Series Baseball                                     | :eu:   | :question:          | TODO                                                     |
-| World Series Baseball                                     | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81109/01/README.md)        |
-| World Series Baseball 98                                  | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81127/01/README.md)        |
-| World Series Baseball II                                  | :eu:   | :question:          | TODO                                                     |
-| World Series Baseball II                                  | :jp:   | :question:          | TODO                                                     |
-| World Series Baseball II (1S)                             | :us:   | :minidisc: 2x       | [Link](Regions/Retails/USA/MK-81113/01/README.md)        |
-| Worldwide Soccer '98                                      | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81123/01/README.md)        |
-| Worldwide Soccer: Sega International Victory Goal Edition | :kr:   | :heavy_check_mark:  | [Link](Regions/Retails/SouthKorea/MK-81105/01/README.md) |
-| Worldwide Soccer: Sega International Victory Goal Edition | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81105/01/README.md)        |
-| Worms                                                     | :eu:   | :question:          | TODO                                                     |
-| Worms                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-22404G/01/README.md)      |
-| Worms                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-16403H/01/README.md)        |
+| Name                                                      | Region | Status                               | Details                                                  |
+| --------------------------------------------------------- | ------ | ------------------------------------ | -------------------------------------------------------- |
+| WWF In Your House                                         | :eu:   | :question:                           | TODO                                                     |
+| WWF In Your House                                         | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-8120G/README.md)          |
+| WWF In Your House                                         | :us:   | :100:                                | [Link](Regions/Retails/USA/T-8126H/README.md)            |
+| WWF WrestleMania - The Arcade Game                        | :eu:   | :question:                           | TODO                                                     |
+| WWF WrestleMania - The Arcade Game                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-8112G/01/README.md)       |
+| WWF WrestleMania - The Arcade Game                        | :us:   | :x:                                  | [Link](Regions/Retails/USA/T-8112H/01/README.md)         |
+| Wachenröder                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9183/01/README.md)       |
+| Waialae no Kiseki: Extra 36 Holes                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-11402G/01/README.md)      |
+| Waku Waku 7                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-1515G/01/README.md)       |
+| Waku Waku Puyo Puyo Dungeon                               | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-6608G/01/README.md)       |
+| Waku Waku Monster                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/T-16608G/README.md)         |
+| WanChai Connection                                        | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/GS-9007/01/README.md)       |
+| Wangan Dead Heat                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-9102G/README.md)          |
+| Wangan Dead Heat + Real Arrange                           | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-9103G/README.md)          |
+| Wangan Trial Love                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-9110G/01/README.md)       |
+| WarCraft II - The Dark Saga                               | :eu:   | :question:                           | TODO                                                     |
+| WarCraft II - The Dark Saga                               | :jp:   | :question:                           | TODO                                                     |
+| WarCraft II - The Dark Saga                               | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5023H/01/README.md)         |
+| Wara² Wars: Gekitou! Daigundan Battle                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21507G/01/README.md)      |
+| Welcome House                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-15027G/01/README.md)      |
+| Wheel's                                                   | :jp:   | :100:                                | [Link](Regions/Retails/Japan/610609201/README.md)        |
+| Whizz                                                     | :eu:   | :x:                                  | [Link](Regions/Retails/Europe/T-9515H-50/01/README.md)   |
+| Willy Wombat                                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-14306G/01/README.md)      |
+| Wing Arms                                                 | :eu:   | :question:                           | TODO                                                     |
+| Wing Arms                                                 | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81024/01/README.md)        |
+| Wing Arms: Kareinaru Gekitsuiou                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9038/01/README.md)       |
+| Winning Post                                              | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-7602H/01/README.md)         |
+| Winning Post 2                                            | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-7612G/01/README.md)       |
+| Winning Post 2 - Final '97                                | :jp:   | :question:                           | TODO                                                     |
+| Winning Post 2 - Program '96                              | :jp:   | :question:                           | TODO                                                     |
+| Winning Post 3                                            | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-7660G/01/README.md)       |
+| Winning Post 3 - Program '98                              | :jp:   | :question:                           | TODO                                                     |
+| Winning Post EX                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7606G/01/README.md)       |
+| Winter Heat                                               | :eu:   | :question:                           | TODO                                                     |
+| Winter Heat                                               | :jp:   | :question:                           | TODO                                                     |
+| Winter Heat                                               | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/USA/MK-81129/README.md)           |
+| WipEout                                                   | :eu:   | :question:                           | TODO                                                     |
+| WipEout                                                   | :jp:   | :question:                           | TODO                                                     |
+| WipEout                                                   | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-18601H/01/README.md)        |
+| WipEout 2097                                              | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-11308H-50/01/README.md)  |
+| WipEout XL                                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-18619G/01/README.md)      |
+| With You: Mitsumete Itai                                  | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-20117G/01/README.md)      |
+| Wizard's Harmony                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-22001G/01/README.md)      |
+| Wizard's Harmony 2                                        | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-22004G/01/README.md)      |
+| Wizardry Nemesis                                          | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-37001G/01/README.md)      |
+| Wolf Fang SS Kuuga 2001                                   | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-26105G/README.md)         |
+| World Advanced Daisenryaku: Koutetsu no Senpuu            | :jp:   | :minidisc: 3x                        | [Link](Regions/Retails/Japan/GS9025/01/README.md)        |
+| World Advanced Daisenryaku: Sakusen File (1M)             | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/GS-9082/01/README.md)       |
+| World Cup '98 France: Road to Win                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9196/01/README.md)       |
+| World Cup Golf In Hyatt Dorado Beach                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7301G/01/README.md)       |
+| World Cup Golf - Professional Edition                     | :eu:   | :question:                           | TODO                                                     |
+| World Cup Golf - Professional Edition                     | :eu:   | :question:                           | TODO                                                     |
+| World Cup Golf - Professional Edition                     | :fr:   | :question:                           | TODO                                                     |
+| World Cup Golf - Professional Edition                     | :de:   | :question:                           | TODO                                                     |
+| World Cup Golf: Professional Edition                      | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-7903H/01/README.md)         |
+| World Evolution Soccer                                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-2002G/01/README.md)       |
+| World Heroes Perfect                                      | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-3103G/README.md)          |
+| World League Soccer '98                                   | :eu:   | :x:                                  | [Link](Regions/Retails/Europe/MK-81181/01/README.md)     |
+| World Series Baseball                                     | :eu:   | :question:                           | TODO                                                     |
+| World Series Baseball                                     | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81109/01/README.md)        |
+| World Series Baseball 98                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81127/01/README.md)        |
+| World Series Baseball II                                  | :eu:   | :question:                           | TODO                                                     |
+| World Series Baseball II                                  | :jp:   | :question:                           | TODO                                                     |
+| World Series Baseball II (1S)                             | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81113/01/README.md)        |
+| Worldwide Soccer '98                                      | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81123/01/README.md)        |
+| Worldwide Soccer: Sega International Victory Goal Edition | :kr:   | :heavy_check_mark:                   | [Link](Regions/Retails/SouthKorea/MK-81105/01/README.md) |
+| Worldwide Soccer: Sega International Victory Goal Edition | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81105/01/README.md)        |
+| Worms                                                     | :eu:   | :question:                           | TODO                                                     |
+| Worms                                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-22404G/01/README.md)      |
+| Worms                                                     | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-16403H/01/README.md)        |
 
 ### X
 

@@ -49,10 +49,10 @@
 - [Go III Professional Taikyoku Igo (Japan)](../../../Regions/Retails/Japan/T-29003G/01/README.md) - :heavy_check_mark:
 - [Godzilla Rettoushinkan (Japan)](../../../Regions/Retails/Japan/GS-9050/01/README.md) - :heavy_check_mark:
 - [Goiken Muyou - Anarchy in the Nippon (Japan)](../../../Regions/Retails/Japan/T-28902G/01/README.md) - :hammer_and_wrench:
-- [Gokujou Parodius Da! Deluxe Pack (Japan)](../../../Regions/Retails/Japan/T-9501G/01/README.md) - :hammer_and_wrench:
+- [Gokujou Parodius Da! Deluxe Pack (Japan)](../../../Regions/Retails/Japan/T-9501G/README.md) - :minidisc: 2x
 - [Golden Axe: The Duel (Europe)](../../../Regions/Retails/Europe/MK-81045/01/README.md) - :x:
 - Golden Axe - The Duel (Japan) (2M) - TODO
-- [Golden Axe: The Duel (USA)](../../../Regions/Retails/USA/MK-81045/01/README.md) - :hammer_and_wrench:
+- [Golden Axe: The Duel (USA)](../../../Regions/Retails/USA/MK-81045/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Gotha - Ismailia SenEki (Japan)](../../../Regions/Retails/Japan/GS-9009/01/README.md) - :hammer_and_wrench:
 - [Gotha II: Tenkuu no Kishi (Japan)](../../../Regions/Retails/Japan/T-7608G/01/README.md) - :heavy_check_mark:
 - [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../../Regions/Retails/Japan/T-14411G/README.md) - :hammer_and_wrench: :checkered_flag:
@@ -71,7 +71,7 @@
 - [Guardian Heroes (USA)](../../../Regions/Retails/USA/MK-81035/01/README.md) - :heavy_check_mark:
 - [Gun Frontier Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26109G/01/README.md) - :x:
 - [Gunblaze S (Japan)](../../../Regions/Retails/Japan/T-19710G/01/README.md) - :heavy_check_mark:
-- [Gunbird (Japan)](../../../Regions/Retails/Japan/T-14402G/01/README.md) - :x: (TODO - Update)
+- [Gunbird (Japan)](../../../Regions/Retails/Japan/T-14402G/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Gungriffon (Europe)](../../../Regions/Retails/Europe/MK-81046/01/README.md) - :heavy_check_mark:
 - [Gungriffon (USA)](../../../Regions/Retails/USA/MK-81046/01/README.md) - :heavy_check_mark:
 - Gungriffon - The Eurasian Conflict (Japan) - TODO
