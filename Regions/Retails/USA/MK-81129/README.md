@@ -17,7 +17,7 @@
 | ---- | ------------------------------------------------------------------------------------------------ |
 | 1    | [![](https://img.youtube.com/vi/pjPoGxevxS8/0.jpg)](https://www.youtube.com/watch?v=pjPoGxevxS8) |
 
-Used hardware links:
+Links:
 
 - [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/USA/MK-81129/README.md).
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)

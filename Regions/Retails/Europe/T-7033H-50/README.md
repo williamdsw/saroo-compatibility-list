@@ -15,7 +15,7 @@
 | 1    | Street Fighter Collection (Disc 1) (Europe) | [![](https://img.youtube.com/vi/ILJtncSd7H4/0.jpg)](https://www.youtube.com/watch?v=ILJtncSd7H4) |
 | 2    | Street Fighter Collection (Disc 2) (Europe) | [![](https://img.youtube.com/vi/rWhvyorc_q0/0.jpg)](https://www.youtube.com/watch?v=rWhvyorc_q0) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

@@ -18,7 +18,7 @@
 | 1    | [![](https://img.youtube.com/vi/iU1h2TUz9zM/0.jpg)](https://www.youtube.com/watch?v=iU1h2TUz9zM) |
 | 2    | [![](https://img.youtube.com/vi/RM0k6LuNU5s/0.jpg)](https://www.youtube.com/watch?v=RM0k6LuNU5s) |
 
-Used hardware links:
+Links:
 
 - [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-24903G/README.md)
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)

@@ -22,7 +22,7 @@
 | --------------------------------------------------------------------- | ------ |
 | Virtua Fighter CG Portrait Series Vol. 1 Sarah Bryant (Japan) (Rev A) | Test   |
 
-Used hardware links:
+Links:
 
 - [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/GS-9062/README.md).
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)

@@ -12,7 +12,7 @@
 | ---- | ------------------------------------------------------------------------------------------------ |
 | 1    | [![](https://img.youtube.com/vi/NshuO6-tdQw/0.jpg)](https://www.youtube.com/watch?v=NshuO6-tdQw) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

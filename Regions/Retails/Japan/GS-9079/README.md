@@ -31,7 +31,7 @@
 | 4   | Virtua Fighter 2 (Japan) (Rev B)            | Test   |
 | 5   | Virtua Fighter 2 (Japan) (Rev C) (42M)      | Test   |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

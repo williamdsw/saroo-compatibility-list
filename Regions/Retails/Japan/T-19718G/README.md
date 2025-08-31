@@ -19,7 +19,7 @@
 | 1    | Virtuacall S (Japan) (Disc 1) (Game Honpen)                | [![](https://img.youtube.com/vi/avRSQaxIkd0/0.jpg)](https://www.youtube.com/watch?v=avRSQaxIkd0) |
 | 2    | Virtuacall S (Japan) (Disc 2) (Shokai Gentei Yobikake-kun) | [![](https://img.youtube.com/vi/Lj4-qMiCzlM/0.jpg)](https://www.youtube.com/watch?v=Lj4-qMiCzlM) |
 
-Used hardware links:
+Links:
 
 - [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-19718G/README.md)
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)

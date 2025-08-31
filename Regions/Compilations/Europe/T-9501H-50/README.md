@@ -18,7 +18,7 @@
 | 1    | [![](https://img.youtube.com/vi/R6Fh-W1U0OA/0.jpg)](https://www.youtube.com/watch?v=R6Fh-W1U0OA) |
 | 2    | [![](https://img.youtube.com/vi/Ixv9OncS67s/0.jpg)](https://www.youtube.com/watch?v=Ixv9OncS67s) |
 
-Used hardware links:
+Links:
 
 - [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Europe/T-9501H-50/README.md)
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)

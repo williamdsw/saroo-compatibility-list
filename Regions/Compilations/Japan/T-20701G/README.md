@@ -15,7 +15,7 @@
 | 1    | Thunder Storm & Road Blaster (Japan) (Disc 2) | [![](https://img.youtube.com/vi/L3qZvc2ZLkY/0.jpg)](https://www.youtube.com/watch?v=L3qZvc2ZLkY) |
 | 2    | Thunder Storm & Road Blaster (Japan) (Disc 1) | [![](https://img.youtube.com/vi/8Ks5xmaS3uY/0.jpg)](https://www.youtube.com/watch?v=8Ks5xmaS3uY) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

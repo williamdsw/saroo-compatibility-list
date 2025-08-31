@@ -22,7 +22,7 @@
 | 2    | The King of Fighters '96 (Japan) (1M)     | [![](https://img.youtube.com/vi/n07sI2Ldi0w/0.jpg)](https://www.youtube.com/watch?v=n07sI2Ldi0w) |
 | 3    | The King Of Fighters '96 (Japan) (4M, 5M) | [![](https://img.youtube.com/vi/D9IfB5S1cnk/0.jpg)](https://www.youtube.com/watch?v=D9IfB5S1cnk) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

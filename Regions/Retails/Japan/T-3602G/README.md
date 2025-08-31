@@ -18,7 +18,7 @@
 | 1    | N/A                                                                                              |
 | 2    | [![](https://img.youtube.com/vi/gXqanPZoGLw/0.jpg)](https://www.youtube.com/watch?v=gXqanPZoGLw) |
 
-Used hardware links:
+Links:
 
 - [Configuration File](https://github.com/williamdsw/saroo-configuration-list/tree/master/J/T-3602G)
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)

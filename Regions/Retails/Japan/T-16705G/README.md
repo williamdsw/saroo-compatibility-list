@@ -15,7 +15,7 @@
 | 1    | Idol Mahjong: Final Romance R (Kisekae Disc)           | [![](https://img.youtube.com/vi/MBww0tGfB_E/0.jpg)](https://www.youtube.com/watch?v=MBww0tGfB_E) |
 | 1    | Idol Mahjong: Final Romance R (Kisekae Disc Kanzenban) | [![](https://img.youtube.com/vi/2uh7xFnnGdA/0.jpg)](https://www.youtube.com/watch?v=2uh7xFnnGdA) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

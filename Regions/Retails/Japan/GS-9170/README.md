@@ -18,7 +18,7 @@
 | -------------------- | ------ |
 | Sonic R (Japan) (2M) | Test   |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

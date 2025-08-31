@@ -15,7 +15,7 @@
 | 1    | Real Bout Garou Densetsu Special (Japan)         | [![](https://img.youtube.com/vi/whyp0wn3J0g/0.jpg)](https://www.youtube.com/watch?v=whyp0wn3J0g) |
 | 2    | Real Bout Garou Densetsu Special (Japan) (Rev A) | [![](https://img.youtube.com/vi/nVwsmSdqKPk/0.jpg)](https://www.youtube.com/watch?v=nVwsmSdqKPk) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

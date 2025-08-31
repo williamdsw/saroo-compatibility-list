@@ -23,7 +23,7 @@
 | 3    | Gradius             | [![](https://img.youtube.com/vi/-Q6OWfzRFz4/0.jpg)](https://www.youtube.com/watch?v=-Q6OWfzRFz4) |
 | 4    | Gradius II          | [![](https://img.youtube.com/vi/KquCjxHqHfk/0.jpg)](https://www.youtube.com/watch?v=KquCjxHqHfk) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

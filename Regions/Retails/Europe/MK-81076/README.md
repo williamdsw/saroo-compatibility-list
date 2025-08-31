@@ -24,7 +24,7 @@
 | 2   | Enemy Zero (Europe) (Disc 2) | Finish |
 | 3   | Enemy Zero (Europe) (Disc 3) | Finish |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

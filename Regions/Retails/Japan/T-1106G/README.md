@@ -18,7 +18,7 @@
 | ------------------------------------ | ------ |
 | Puzzle Bobble 2X (Japan) (2M1, 2MB1) | Test   |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

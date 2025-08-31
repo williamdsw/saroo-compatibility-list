@@ -15,7 +15,7 @@
 | 1    | Time Gal & Ninja Hayate (Japan) (Disc 1) (Time Gal)          | [![](https://img.youtube.com/vi/MjwE_TMHtu0/0.jpg)](https://www.youtube.com/watch?v=MjwE_TMHtu0) |
 | 2    | Time Gal & Ninja Hayate (Japan) (Disc 2) (Ninja Hayate) (3M) | [![](https://img.youtube.com/vi/HzwkH7TIXIQ/0.jpg)](https://www.youtube.com/watch?v=HzwkH7TIXIQ) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

@@ -21,7 +21,7 @@
 | 1   | Street Fighter Zero (Japan) (1M) | Finish on 4 or 5 stars difficulty |
 | 2   | Street Fighter Zero (Japan) (2M) | Finish on 4 or 5 stars difficulty |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

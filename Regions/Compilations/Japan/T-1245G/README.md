@@ -15,7 +15,7 @@
 | 1    | Dungeons & Dragons Collection (Japan) (Disc 2) (Shadow over Mystara) | [![](https://img.youtube.com/vi/z_UtTZsEcRE/0.jpg)](https://www.youtube.com/watch?v=z_UtTZsEcRE) |
 | 2    | Dungeons & Dragons Collection (Japan) (Disc 1) (Tower of Doom)       | [![](https://img.youtube.com/vi/3rY-s8Wo830/0.jpg)](https://www.youtube.com/watch?v=3rY-s8Wo830) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

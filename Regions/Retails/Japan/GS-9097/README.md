@@ -21,7 +21,7 @@
 | 1   | Virtua Cop 2 (Japan) (3M)          | Test   |
 | 2   | Virtua Cop 2 (Japan) (Rev B) (23M) | Test   |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

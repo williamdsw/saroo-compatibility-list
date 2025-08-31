@@ -24,7 +24,7 @@
 | 2   | Virtua Cop (Europe) (4S) | Test   |
 | 3   | Virtua Cop (Europe) (7S) | Test   |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

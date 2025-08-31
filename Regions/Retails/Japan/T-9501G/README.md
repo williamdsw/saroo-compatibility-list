@@ -19,7 +19,7 @@
 | 1    | Gokujou Parodius Da! Deluxe Pack (Japan)         | [![](https://img.youtube.com/vi/W1m8PnKwCFY/0.jpg)](https://www.youtube.com/watch?v=W1m8PnKwCFY) |
 | 2    | Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) | [![](https://img.youtube.com/vi/-yg9BzKp9lc/0.jpg)](https://www.youtube.com/watch?v=-yg9BzKp9lc) |
 
-Used hardware links:
+Links:
 
 - [Gokujou Parodius Da! Deluxe Pack (Japan) - Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-9501G/V1.001/README.md)
 - [Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-9501G/V1.002/README.md)

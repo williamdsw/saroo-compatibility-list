@@ -18,7 +18,7 @@
 | ------------------------------------------------------------------ | ------ |
 | Chisato Moritaka - Watarase Bashi & Lala Sunshine (Japan) (Disc 2) | Test   |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

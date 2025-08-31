@@ -16,7 +16,7 @@
 | 2    | Chariot: Tenkuu e no Tabi     | [![](https://img.youtube.com/vi/B7yzwj5TS4M/0.jpg)](https://www.youtube.com/watch?v=B7yzwj5TS4M) |
 | 3    | Donpuru                       | [![](https://img.youtube.com/vi/SCap_qJz15g/0.jpg)](https://www.youtube.com/watch?v=SCap_qJz15g) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

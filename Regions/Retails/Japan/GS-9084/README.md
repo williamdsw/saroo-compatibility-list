@@ -22,7 +22,7 @@
 | --- | -------------------------- | ------ |
 | 1   | Riglordsaga 2 (Japan) (2M) | Test   |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

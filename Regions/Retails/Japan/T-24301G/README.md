@@ -25,7 +25,7 @@
 | --------------------------------- | ------ |
 | Horror Tour (Japan) (Rev B) (12M) | Test   |
 
-Used hardware links:
+Links:
 
 - [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-24903G/README.md)
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)

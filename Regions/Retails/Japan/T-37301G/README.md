@@ -15,7 +15,7 @@
 | 1    | Twinkle Star Sprites (Japan) (Disc 1) (Game Disc)  | [![](https://img.youtube.com/vi/Aa1aEvng6eU/0.jpg)](https://www.youtube.com/watch?v=Aa1aEvng6eU) |
 | 2    | Twinkle Star Sprites (Japan) (Disc 2) (Omake Disc) | [![](https://img.youtube.com/vi/HKDuzQQeP8Q/0.jpg)](https://www.youtube.com/watch?v=HKDuzQQeP8Q) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

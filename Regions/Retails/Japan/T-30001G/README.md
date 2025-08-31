@@ -56,7 +56,7 @@
 | 11  | Enemy Zero (Japan) (Disc 2) (Game Disc) (Satakore)    | Finish |
 | 12  | Enemy Zero (Japan) (Disc 2) (Game Disc)               | Finish |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)

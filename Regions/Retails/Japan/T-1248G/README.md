@@ -18,7 +18,7 @@
 | 1    | N/A                                                                                              |
 | 2    | [![](https://img.youtube.com/vi/13zsammNhjM/0.jpg)](https://www.youtube.com/watch?v=13zsammNhjM) |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)

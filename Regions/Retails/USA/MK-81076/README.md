@@ -25,7 +25,7 @@
 | 2   | Enemy Zero (USA) (Disc 2) | Finish |
 | 3   | Enemy Zero (USA) (Disc 3) | Finish |
 
-Used hardware links:
+Links:
 
 - [Sega Saturn - Tectoy VA13](../../../../Info/Consoles/VA13/README.md)
 - [SAROO Cartridge - Green](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
