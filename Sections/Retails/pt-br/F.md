@@ -36,7 +36,7 @@
 - Fighting Vipers (Japan) (Rev A) - TODO
 - Fighting Vipers (Japan) (Rev C) - TODO
 - Fighting Vipers (Korea) - TODO
-- [Fighting Vipers (USA)](../../../Regions/Retails/USA/MK-81041/01/README.md) - :x:
+- [Fighting Vipers (USA)](../../../Regions/Retails/USA/MK-81041/README.md) - :100:
 - [Final Fight Revenge (Japan)](../../../Regions/Retails/Japan/T-1248G/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Find Love 2 - Rhapsody (Japan)](../../../Regions/Retails/Japan/T-34605G/01/README.md) - :heavy_check_mark:
 - [Find Love 2 - The Prologue (Japan)](../../../Regions/Retails/Japan/T-34604G/01/README.md) - :heavy_check_mark:

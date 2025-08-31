@@ -95,7 +95,7 @@
 - [Mortal Kombat II (USA)](../../../Regions/Retails/USA/T-8103H/01/README.md) - :100:
 - [Mortal Kombat II Kanzenban (Japan)](../../../Regions/Retails/Japan/T-8107G/01/README.md) - :x:
 - [Mortal Kombat Trilogy (Europe)](../../../Regions/Retails/Europe/T-25414H50/01/README.md) - :x:
-- [Mortal Kombat Trilogy (USA)](../../../Regions/Retails/USA/T-9704H/README.md) - :checkered_flag:
+- [Mortal Kombat Trilogy (USA)](../../../Regions/Retails/USA/T-9704H/README.md) - :x: :checkered_flag:
 - [Motteke Tamago with Ganbare! Kamonohashi (Japan)](../../../Regions/Retails/Japan/T-18712G/01/README.md) - :heavy_check_mark:
 - [Mouri Motonari: Chikai no Sanshi (Japan)](../../../Regions/Retails/Japan/T-7646G/01/README.md) - :heavy_check_mark:
 - Mr. Bones (Europe) (Disc 1) - TODO

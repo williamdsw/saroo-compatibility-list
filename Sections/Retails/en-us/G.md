@@ -69,7 +69,7 @@
 - [Guardian Heroes (Europe)](../../../Regions/Retails/Europe/MK-81035/01/README.md) - :heavy_check_mark:
 - [Guardian Heroes (Japan)](../../../Regions/Retails/Japan/GS-9031/README.md) - :100:
 - [Guardian Heroes (USA)](../../../Regions/Retails/USA/MK-81035/01/README.md) - :heavy_check_mark:
-- [Gun Frontier Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26109G/01/README.md) - :x:
+- [Gun Frontier Arcade Gears (Japan)](../../../Regions/Retails/Japan/T-26109G/README.md) - :100:
 - [Gunblaze S (Japan)](../../../Regions/Retails/Japan/T-19710G/01/README.md) - :heavy_check_mark:
 - [Gunbird (Japan)](../../../Regions/Retails/Japan/T-14402G/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Gungriffon (Europe)](../../../Regions/Retails/Europe/MK-81046/01/README.md) - :heavy_check_mark:

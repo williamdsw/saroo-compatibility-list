@@ -19,7 +19,7 @@
 - [Falcom Classics (Japan)](../../Regions/Compilations/Japan/T-31503G/01/README.md)
 - Falcom Classics II (Japan) (Genteiban) - TODO
 - Falcom Classics II (Japan) - TODO
-- [Gradius Deluxe Pack (Japan)](../../Regions/Compilations/Japan/T-9509G/01/README.md)
+- [Gradius Deluxe Pack (Japan)](../../Regions/Compilations/Japan/T-9509G/README.md) - :x:
 - [Idol Janshi Suchie-Pai Mecha Genteiban - Hatsubai 5 Shuunen Toku Package (Japan)](../../Regions/Compilations/Japan/T-5716G/01/README.md)
 - [ImageFight & XMultiply: Arcade Gears (Japan)](../../Regions/Compilations/Japan/T-26110G/01/README.md)
 - [Irem Arcade Classics (Japan)](../../Regions/Compilations/Japan/T-22403G/01/README.md)
