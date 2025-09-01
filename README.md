@@ -561,7 +561,7 @@ Other links related to SAROO:
 | G Vector                                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-30603G/01/README.md)    |
 | GT24                                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-5714G/01/README.md)     |
 | Gaia Breeder                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-34801G/01/README.md)    |
-| Gakkou no Kaidan                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/GS-9026/01/README.md)     |
+| Gakkou no Kaidan                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/GS-9026/README.md)        |
 | Gakkou no Kowai Uwasa Hanako-san ga Kita!!               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-1205G/01/README.md)     |
 | Gal Jan                                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-29101G/01/README.md)    |
 | Galactic Attack                                          | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-8116H-50/01/README.md) |
@@ -605,7 +605,7 @@ Other links related to SAROO:
 | Golden Axe: The Duel                                     | :eu:   | :x:                                  | [Link](Regions/Retails/Europe/MK-81045/01/README.md)   |
 | Golden Axe - The Duel                                    | :jp:   | :question:                           | TODO                                                   |
 | Golden Axe: The Duel                                     | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/USA/MK-81045/README.md)         |
-| Gotha - Ismailia SenEki                                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/GS-9009/01/README.md)     |
+| Gotha - Ismailia SenEki                                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/GS-9009/README.md)        |
 | Gotha II: Tenkuu no Kishi                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7608G/01/README.md)     |
 | Groove on Fight: Gōketsuji Ichizoku 3                    | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/Japan/T-14411G/README.md)       |
 | Gran Chaser                                              | :jp:   | :100:                                | [Link](Regions/Retails/Japan/GS-9022/README.md)        |
@@ -1299,7 +1299,7 @@ Other links related to SAROO:
 | Shinseiki Evangelion: 2nd Impression                         | :jp:     | :minidisc: 2x                        | [Link](Regions/Retails/Japan/GS-9129/01/README.md)     |
 | Shinseiki Evangelion: Digital Card Library                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9159/01/README.md)     |
 | Shinseiki Evangelion: Eva to Yukai na Nakamatachi            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-35103G/01/README.md)    |
-| Shinseiki Evangelion: Koutetsu no Girlfriend                 | :jp:     | :cd: 2x                              | [Link](Regions/Retails/Japan/GS-9194/01/README.md)     |
+| Shinseiki Evangelion: Koutetsu no Girlfriend                 | :jp:     | :cd: 2x                              | [Link](Regions/Retails/Japan/GS-9194/README.md)        |
 | Shin Shinobiden                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9010/01/README.md)     |
 | Shin Theme Park                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-10618G/01/README.md)    |
 | Shingata Kururin Pa!                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-24202G/01/README.md)    |

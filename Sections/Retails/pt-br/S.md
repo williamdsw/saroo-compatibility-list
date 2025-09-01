@@ -101,7 +101,7 @@
 - [Shinseiki Evangelion: 2nd Impression (Japan)](../../../Regions/Retails/Japan/GS-9129/01/README.md) - :heavy_check_mark:
 - [Shinseiki Evangelion: Digital Card Library (Japan)](../../../Regions/Retails/Japan/GS-9159/01/README.md) - :heavy_check_mark:
 - [Shinseiki Evangelion: Eva to Yukai na Nakamatachi (Japan)](../../../Regions/Retails/Japan/T-35103G/01/README.md) - :heavy_check_mark:
-- [Shinseiki Evangelion: Koutetsu no Girlfriend (Japan)](../../../Regions/Retails/Japan/GS-9194/01/README.md) - :hammer_and_wrench: & :question:
+- [Shinseiki Evangelion: Koutetsu no Girlfriend (Japan)](../../../Regions/Retails/Japan/GS-9194/README.md) - :cd: 2x
 - [Shin Shinobiden (Japan)](../../../Regions/Retails/Japan/GS-9010/01/README.md) - :heavy_check_mark:
 - [Shin Theme Park (Japan)](../../../Regions/Retails/Japan/T-10618G/01/README.md) - :heavy_check_mark:
 - [Shingata Kururin Pa! (Japan)](../../../Regions/Retails/Japan/T-24202G/01/README.md) - :heavy_check_mark:

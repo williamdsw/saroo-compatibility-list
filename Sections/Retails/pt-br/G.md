@@ -9,7 +9,7 @@
 - [G Vector (Japan)](../../../Regions/Retails/Japan/T-30603G/01/README.md) - :heavy_check_mark:
 - [GT24 (Japan)](../../../Regions/Retails/Japan/T-5714G/01/README.md) - :heavy_check_mark:
 - [Gaia Breeder (Japan)](../../../Regions/Retails/Japan/T-34801G/01/README.md) - :heavy_check_mark:
-- [Gakkou no Kaidan (Japan)](../../../Regions/Retails/Japan/GS-9026/01/README.md) - :hammer_and_wrench:
+- [Gakkou no Kaidan (Japan)](../../../Regions/Retails/Japan/GS-9026/README.md) - :hammer_and_wrench:
 - [Gakkou no Kowai Uwasa Hanako-san ga Kita!! (Japan)](../../../Regions/Retails/Japan/T-1205G/01/README.md) - :heavy_check_mark:
 - [Gal Jan (Japan)](../../../Regions/Retails/Japan/T-29101G/01/README.md) - :heavy_check_mark:
 - [Galactic Attack (Europe)](../../../Regions/Retails/Europe/T-8116H-50/01/README.md) - :heavy_check_mark:
@@ -53,7 +53,7 @@
 - [Golden Axe: The Duel (Europe)](../../../Regions/Retails/Europe/MK-81045/01/README.md) - :x:
 - Golden Axe - The Duel (Japan) (2M) - TODO
 - [Golden Axe: The Duel (USA)](../../../Regions/Retails/USA/MK-81045/README.md) - :hammer_and_wrench: :checkered_flag:
-- [Gotha - Ismailia SenEki (Japan)](../../../Regions/Retails/Japan/GS-9009/01/README.md) - :hammer_and_wrench:
+- [Gotha - Ismailia SenEki (Japan)](../../../Regions/Retails/Japan/GS-9009/README.md) - :hammer_and_wrench:
 - [Gotha II: Tenkuu no Kishi (Japan)](../../../Regions/Retails/Japan/T-7608G/01/README.md) - :heavy_check_mark:
 - [Groove on Fight: Gōketsuji Ichizoku 3 (Japan)](../../../Regions/Retails/Japan/T-14411G/README.md) - :hammer_and_wrench: :checkered_flag:
 - [Gran Chaser (Japan)](../../../Regions/Retails/Japan/GS-9022/README.md) - :100:
