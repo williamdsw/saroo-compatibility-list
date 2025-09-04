@@ -89,7 +89,7 @@
 - Three Dirty Dwarves (Europe) - TODO
 - [Three Dirty Dwarves (Japan)](../../../Regions/Retails/Japan/GS-9137/01/README.md) - :heavy_check_mark:
 - [Three Dirty Dwarves (USA)](../../../Regions/Retails/USA/T-30401H/01/README.md) - :heavy_check_mark:
-- [Thunder Force V (Japan)](../../../Regions/Retails/Japan/T-1811G/01/README.md) - :heavy_check_mark:
+- [Thunder Force V (Japan)](../../../Regions/Retails/Japan/T-1811G/README.md) - :heavy_check_mark:
 - Thunderhawk II (Japan) - TODO
 - Thunderstrike 2 (USA) (Rev A) - TODO
 - Thunderstrike 2 (USA) - TODO

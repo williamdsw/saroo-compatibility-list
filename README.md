@@ -176,7 +176,7 @@ Other links related to SAROO:
 | Batman Forever: The Arcade Game                                  | :eu:   | :question:                           | TODO                                                   |
 | Batman Forever: The Arcade Game                                  | :jp:   | :question:                           | TODO                                                   |
 | Batman Forever: The Arcade Game                                  | :us:   | :hammer_and_wrench:                  | [Link](Regions/Retails/USA/T-8140H/README.md)          |
-| Batsugun                                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20605G/01/README.md)    |
+| Batsugun                                                         | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-20605G/README.md)       |
 | Battle Arena Toshinden Remix                                     | :eu:   | :question:                           | TODO                                                   |
 | Battle Arena Toshinden Remix                                     | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81029/README.md)         |
 | Battle Arena Toshinden URA                                       | :eu:   | :100:                                | [Link](Regions/Retails/Europe/MK-81054/README.md)      |
@@ -478,7 +478,7 @@ Other links related to SAROO:
 | Eisei Meijin                                       | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-9506G/01/README.md)   |
 | Eisei Meijin II                                    | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-9516G//01/README.md)  |
 | Eiyuu Shigan - Gal Act Heroism                     | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-5204G//01/README.md)  |
-| Elevator Action 2 - Returns                        | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-19903G/01/README.md)  |
+| Elevator Action 2 - Returns                        | :jp:   | :100:              | [Link](Regions/Retails/Japan/T-19903G/README.md)     |
 | Elf o Karu Monotachi                               | :jp:   | :cd: 2x            | [Link](Regions/Retails/Japan/T-16605G/01/README.md)  |
 | Elf o Karu Monotachi - Hanafuda-hen                | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-16606G/01/README.md)  |
 | Elf o Karu Monotachi II                            | :jp:   | :cd: 2x            | [Link](Regions/Retails/Japan/T-16610G/01/README.md)  |
@@ -679,7 +679,7 @@ Other links related to SAROO:
 | Hyper 3-D Pinball                                                 | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-7015H/01/README.md)       |
 | Hyper 3-D Pinball                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7007G/01/README.md)     |
 | Hyper 3D Taisen Battle Gebockers                                  | :jp:   | :100:               | [Link](Regions/Retails/Japan/T-5303G/README.md)        |
-| Hyper Duel                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-1809G/01/README.md)     |
+| Hyper Duel                                                        | :jp:   | :100:               | [Link](Regions/Retails/Japan/T-1809G/README.md)        |
 | Hyper Reverthion                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-1803G/01/README.md)     |
 | Hyper Securities S                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-9105G/01/README.md)     |
 
@@ -1544,7 +1544,7 @@ Other links related to SAROO:
 | Three Dirty Dwarves                                          | :eu:   | :question:          | TODO                                                    |
 | Three Dirty Dwarves                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/GS-9137/01/README.md)      |
 | Three Dirty Dwarves                                          | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-30401H/01/README.md)       |
-| Thunder Force V                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-1811G/01/README.md)      |
+| Thunder Force V                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-1811G/README.md)         |
 | Thunderhawk II                                               | :jp:   | :question:          | TODO                                                    |
 | Thunderstrike 2 (Rev A)                                      | :us:   | :question:          | TODO                                                    |
 | Thunderstrike 2                                              | :us:   | :question:          | TODO                                                    |

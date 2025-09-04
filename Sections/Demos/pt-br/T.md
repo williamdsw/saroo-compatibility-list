@@ -26,7 +26,7 @@
 - Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Japan) (Demo) - TODO
 - The House of the Dead (Japan) (Demo) - TODO
 - Tetris Plus Mihonban (Japan) (Demo) ? - TODO
-- Thunder Force V (Japan) (Demo) - TODO
+- [Thunder Force V (Japan) (Demo)](../../../Regions/Demos/Japan/6106563/README.md) - :100:
 - Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan) (Demo) - TODO
 - Tomb Raiders (Japan) (Demo) - TODO
 - Touge King the Spirits 2 (Japan) (Demo) - TODO

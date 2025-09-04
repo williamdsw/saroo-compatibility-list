@@ -14,7 +14,7 @@
 - [Eisei Meijin (Japan)](../../../Regions/Retails/Japan/T-9506G/01/README.md) - :heavy_check_mark:
 - [Eisei Meijin II (Japan)](../../../Regions/Retails/Japan/T-9516G//01/README.md) - :heavy_check_mark:
 - [Eiyuu Shigan - Gal Act Heroism (Japan)](../../../Regions/Retails/Japan/T-5204G//01/README.md) - :heavy_check_mark:
-- [Elevator Action 2 - Returns](../../../Regions/Retails/Japan/T-19903G/01/README.md) - :heavy_check_mark:
+- [Elevator Action 2 - Returns](../../../Regions/Retails/Japan/T-19903G/README.md) - :100:
 - [Elf o Karu Monotachi (Japan)](../../../Regions/Retails/Japan/T-16605G/01/README.md) - :question:
 - [Elf o Karu Monotachi - Hanafuda-hen (Japan)](../../../Regions/Retails/Japan/T-16606G/01/README.md) - :heavy_check_mark:
 - [Elf o Karu Monotachi II (Japan)](../../../Regions/Retails/Japan/T-16610G/01/README.md) - :question:
