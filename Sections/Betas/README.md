@@ -6,6 +6,12 @@
 
 ### 15 Items (12 Tested - 3 TODO)
 
+| Name      | Region | Status             | Details                                            |
+| --------- | ------ | ------------------ | -------------------------------------------------- |
+| 2Tax Gold | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-4305G/01/README.md) |
+
+### Table
+
 - [Alien Trilogy (Europe) (En,Fr,Es,It) (Beta) (1996-07-23)](../../Regions/Betas/Europe/T-99901G/01/README.md)
 - [Area 51 (USA) (Beta) (1996-11-08)](../../Regions/Betas/USA/T-9705H/01/README.md)
 - [Battle Arena Toshinden URA - Ultimate Revenge Attack (Europe) (Beta) (1996-11-08)](../../Regions/Betas/Europe/MK-81054/01/README.md)

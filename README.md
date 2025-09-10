@@ -69,6 +69,9 @@ Other links related to SAROO:
 
 ### (0-9)
 
+| Name | Region | Status | Details |
+| ---- | ------ | ------ | ------- |
+
 | Name                          | Region | Status             | Details                                              |
 | ----------------------------- | ------ | ------------------ | ---------------------------------------------------- |
 | 2Tax Gold                     | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-4305G/01/README.md)   |
@@ -106,7 +109,8 @@ Other links related to SAROO:
 | Album Club: Mune Kyun Saint Paulia Jogakuin                           | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-21903G/01/README.md)    |
 | Alien Trilogy (4S)                                                    | :eu:   | :question:         | TODO                                                   |
 | Alien Trilogy (7S)                                                    | :eu:   | :question:         | TODO                                                   |
-| Alien Trilogy (Germany)                                               | :de:   | :question:         | TODO                                                   |
+| Alien Trilogy (Beta) (1996-07-23)                                     | :eu:   | :heavy_check_mark: | [Link](Regions/Europe/T-99901G__BETA/README.md)        |
+| Alien Trilogy                                                         | :de:   | :question:         | TODO                                                   |
 | Alien Trilogy                                                         | :jp:   | :question:         | TODO                                                   |
 | Alien Trilogy                                                         | :us:   | :heavy_check_mark: | [Link](Regions/Retails/USA/T-8113H/01/README.md)       |
 | All-Star Baseball 1997 Featuring Frank Thomas                         | :us:   | :heavy_check_mark: | [Link](Regions/Retails/USA/T-8150H/01/README.md)       |
@@ -120,8 +124,8 @@ Other links related to SAROO:
 | Amok                                                                  | :us:   | :heavy_check_mark: | [Link](Regions/Retails/USA/MK-81064/01/README.md)      |
 | AnEarth Fantasy Stories: The First Volume                             | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-27801G/01/README.md)    |
 | Andretti Racing                                                       | :eu:   | :question:         | TODO                                                   |
-| Andretti Racing (France)                                              | :fr:   | :question:         | TODO                                                   |
-| Andretti Racing (Germany)                                             | :de:   | :question:         | TODO                                                   |
+| Andretti Racing                                                       | :fr:   | :question:         | TODO                                                   |
+| Andretti Racing                                                       | :de:   | :question:         | TODO                                                   |
 | Andretti Racing                                                       | :us:   | :heavy_check_mark: | [Link](Regions/Retails/USA/T-5020H/01/README.md)       |
 | Angel Graffiti S: Anata e no Profile                                  | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-7308G/01/README.md)     |
 | Angel Paradise Vol. 1: Sakaki Yuko: Koi no Yokan in Hollywood         | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-2403G/01/README.md)     |
@@ -143,6 +147,7 @@ Other links related to SAROO:
 | Area 51                                                               | :eu:   | :question:         | TODO                                                   |
 | Area 51                                                               | :jp:   | :question:         | TODO                                                   |
 | Area 51                                                               | :us:   | :heavy_check_mark: | [Link](Regions/Retails/USA/T-9705H/01/README.md)       |
+| Area 51 (Beta) (1996-11-08)                                           | :us:   | :heavy_check_mark: | [Link](Regions/USA/T-9705H__BETA/README.md)            |
 | Arthur to Astaroth no Nazo Makaimura: Incredible Toons                | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-1209G/01/README.md)     |
 | Assault Rigs                                                          | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-18606G/01/README.md)    |
 | Assault Suit Leynos 2                                                 | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-2501G/01/README.md)     |
@@ -151,99 +156,101 @@ Other links related to SAROO:
 | Asuka 120% Limited: Burning Fest. Limited                             | :jp:   | :100:              | [Link](Regions/Retails/Japan/T-16708G/README.md)       |
 | Athlete Kings                                                         | :eu:   | :x:                | [Link](Regions/Retails/Europe/MK-81115/01/README.md)   |
 | Atlantis: The Lost Tales                                              | :eu:   | :cd: 2x            | [Link](Regions/Retails/Europe/MK-8109150/01/README.md) |
-| Atlantis: The Lost Tales (France) (Disc 1)                            | :fr:   | :question:         | TODO                                                   |
-| Atlantis: The Lost Tales (France) (Disc 2)                            | :fr:   | :question:         | TODO                                                   |
+| Atlantis: The Lost Tales (Disc 1)                                     | :fr:   | :question:         | TODO                                                   |
+| Atlantis: The Lost Tales (Disc 2)                                     | :fr:   | :question:         | TODO                                                   |
 | Ayakashi Ninden Kunoichiban Plus                                      | :jp:   | :cd: 2x            | [Link](Regions/Retails/Japan/T-21512G/01/README.md)    |
 | Ayrton Senna Personal Talk: Message for the Future                    | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/GS-9020/01/README.md)     |
 | Azel: Panzer Dragoon RPG                                              | :jp:   | :cd: 4x            | [Link](Regions/Retails/Japan/GS-9076/01/README.md)     |
 
 ### B
 
-| Name                                                             | Region | Status                               | Details                                                |
-| ---------------------------------------------------------------- | ------ | ------------------------------------ | ------------------------------------------------------ |
-| BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-19907G/01/README.md)    |
-| BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei    | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-19906G/01/README.md)    |
-| Baku Baku Animal - Sekai Shiiku Gakari Senshuken                 | :jp:   | :question:                           | TODO                                                   |
-| Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Rev A)         | :jp:   | :question:                           | TODO                                                   |
-| Baku Baku Animal - World Zookeeper Contest                       | :eu:   | :question:                           | TODO                                                   |
-| Baku Baku Animal - World Zookeeper Contest                       | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81501/README.md)         |
-| Bakuretsu Hunter                                                 | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-22402G/01/README.md)    |
-| Bakuretsu Hunter R                                               | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/T-24903G/README.md)       |
-| Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20001G/01/README.md)    |
-| Baldy Land                                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20608G/01/README.md)    |
-| Baroque                                                          | :jp:   | :x:                                  | [Link](Regions/Retails/Japan/T-33901G/01/README.md)    |
-| Bases Loaded '96: Double Header                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5703H/01/README.md)       |
-| Batman Forever: The Arcade Game                                  | :eu:   | :question:                           | TODO                                                   |
-| Batman Forever: The Arcade Game                                  | :jp:   | :question:                           | TODO                                                   |
-| Batman Forever: The Arcade Game                                  | :us:   | :hammer_and_wrench:                  | [Link](Regions/Retails/USA/T-8140H/README.md)          |
-| Batsugun                                                         | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-20605G/README.md)       |
-| Battle Arena Toshinden Remix                                     | :eu:   | :question:                           | TODO                                                   |
-| Battle Arena Toshinden Remix                                     | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81029/README.md)         |
-| Battle Arena Toshinden URA                                       | :eu:   | :100:                                | [Link](Regions/Retails/Europe/MK-81054/README.md)      |
-| Battle Arena Toshinden URA                                       | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81054/README.md)         |
-| Battle Athletess Daiundoukai                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-24601G/01/README.md)    |
-| Battle Garegga                                                   | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-10627G/README.md)       |
-| Battle Monsters                                                  | :eu:   | :question:                           | TODO                                                   |
-| Battle Monsters                                                  | :jp:   | :question:                           | TODO                                                   |
-| Battle Monsters                                                  | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/USA/T-8137H/README.md)          |
-| Battle Stations                                                  | :eu:   | :question:                           | TODO                                                   |
-| Battle Stations                                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5021H/01/README.md)       |
-| BattleSport                                                      | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8149H/01/README.md)       |
-| Beach de Reach!                                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-29004G/01/README.md)    |
-| Big Ichigeki! Pachi-Slot Daikouryaku: Universal Museum           | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-16704G/01/README.md)    |
-| Big Thanks - Super Keirin - Dream with Keirin 50 Years           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/6106987/01/README.md)     |
-| Bio Hazard                                                       | :jp:   | :question:                           | TODO                                                   |
-| Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-36701G/01/README.md)    |
-| Bishoujo Senshi Sailor Moon SuperS: Various Emotion              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-15701G/01/README.md)    |
-| Bishoujo Variety Game: Rapyulus Panic                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21503G/01/README.md)    |
-| Black Dawn                                                       | :eu:   | :question:                           | TODO                                                   |
-| Black Dawn                                                       | :jp:   | :question:                           | TODO                                                   |
-| Black Dawn                                                       | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-7027H/01/README.md)       |
-| Black-Matrix (Rerelease)                                         | :jp:   | :question:                           | TODO                                                   |
-| Black-Matrix                                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20113G/01/README.md)    |
-| Black Fire                                                       | :eu:   | :question:                           | TODO                                                   |
-| Black Fire                                                       | :jp:   | :question:                           | TODO                                                   |
-| Black Fire                                                       | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81003/01/README.md)      |
-| Blam! Machinehead                                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-11505H50/01/README.md) |
-| Blam! Machinehead                                                | :fr:   | :question:                           | TODO                                                   |
-| Blam! Machinehead                                                | :de:   | :question:                           | TODO                                                   |
-| Blam! Machinehead                                                | :jp:   | :question:                           | TODO                                                   |
-| Blast Chamber                                                    | :eu:   | :x:                                  | [Link](Regions/Retails/Europe/T-13003H50/01/README.md) |
-| Blast Chamber                                                    | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-13003H/01/README.md)      |
-| Blast Wind                                                       | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-1810G/README.md)        |
-| Blazing Dragons                                                  | :eu:   | :question:                           | TODO                                                   |
-| Blazing Dragons                                                  | :fr:   | :question:                           | TODO                                                   |
-| Blazing Dragons                                                  | :de:   | :question:                           | TODO                                                   |
-| Blazing Dragons                                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-15907H/01/README.md)      |
-| Blazing Heroes                                                   | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81303/01/README.md)      |
-| Blood Factory                                                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-12504G/01/README.md)    |
-| Blue Breaker - Ken yori mo Hohoemi o                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-4315G/01/README.md)     |
-| Body Special 264: Girls in Motion Puzzle Vol. 2                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21003G/01/README.md)    |
-| Bomberman Wars                                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-14320G/01/README.md)    |
-| Bottom of the 9th                                                | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-9505H/01/README.md)       |
-| Bouken Katsugeki Mono Mono                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21508G/01/README.md)    |
-| Brain Battle Q                                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-25701G/01/README.md)    |
-| BrainDead 13                                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7305G/01/README.md)     |
-| BrainDead 13                                                     | :us:   | :x:                                  | [Link](Regions/Retails/USA/T-12103H/01/README.md)      |
-| Break Point                                                      | :eu:   | :question:                           | TODO                                                   |
-| Break Point                                                      | :jp:   | :question:                           | TODO                                                   |
-| Break Point Tennis                                               | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8145H/01/README.md)       |
-| BreakThru!                                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21501G/01/README.md)    |
-| Bubble Symphony                                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-19905G/01/README.md)    |
-| Bug Too!                                                         | :eu:   | :question:                           | TODO                                                   |
-| Bug Too!                                                         | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81040/01/README.md)      |
-| Bug Too!                                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9128/01/README.md)     |
-| Bug!                                                             | :eu:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Europe/MK-81004/01/README.md)   |
-| Bug!                                                             | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/GM-81004/README.md)         |
-| Bug! Jump Shite, Funzukechatte, Petchanko                        | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/GS-9063/01/README.md)     |
-| Bulk Slash                                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-14310G/01/README.md)    |
-| Burning Rangers                                                  | :eu:   | :question:                           | TODO                                                   |
-| Burning Rangers                                                  | :jp:   | :question:                           | TODO                                                   |
-| Burning Rangers                                                  | :us:   | :hammer_and_wrench:                  | [Link](Regions/Retails/USA/MK-81803/README.md)         |
-| Bust-A-Move 2: Arcade Edition                                    | :eu:   | :100:                                | [Link](Regions/Retails/Europe/T-8132H-50/README.md)    |
-| Bust-A-Move 2: Arcade Edition                                    | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8132H/01/README.md)       |
-| Bust-A-Move 3                                                    | :eu:   | :100:                                | [Link](Regions/Retails/Europe/T-8155H-50/README.md)    |
-| Bust-A-Move 3                                                    | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-31103H/01/README.md)      |
+| Name                                                                     | Region | Status                               | Details                                                |
+| ------------------------------------------------------------------------ | ------ | ------------------------------------ | ------------------------------------------------------ |
+| BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou         | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-19907G/01/README.md)    |
+| BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei            | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-19906G/01/README.md)    |
+| Baku Baku Animal - Sekai Shiiku Gakari Senshuken                         | :jp:   | :question:                           | TODO                                                   |
+| Baku Baku Animal - Sekai Shiiku Gakari Senshuken (Rev A)                 | :jp:   | :question:                           | TODO                                                   |
+| Baku Baku Animal - World Zookeeper Contest                               | :eu:   | :question:                           | TODO                                                   |
+| Baku Baku Animal - World Zookeeper Contest                               | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81501/README.md)         |
+| Bakuretsu Hunter                                                         | :jp:   | :cd: 2x                              | [Link](Regions/Retails/Japan/T-22402G/01/README.md)    |
+| Bakuretsu Hunter R                                                       | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/T-24903G/README.md)       |
+| Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20001G/01/README.md)    |
+| Baldy Land                                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20608G/01/README.md)    |
+| Baroque                                                                  | :jp:   | :x:                                  | [Link](Regions/Retails/Japan/T-33901G/01/README.md)    |
+| Bases Loaded '96: Double Header                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5703H/01/README.md)       |
+| Batman Forever: The Arcade Game                                          | :eu:   | :question:                           | TODO                                                   |
+| Batman Forever: The Arcade Game                                          | :jp:   | :question:                           | TODO                                                   |
+| Batman Forever: The Arcade Game                                          | :us:   | :hammer_and_wrench:                  | [Link](Regions/Retails/USA/T-8140H/README.md)          |
+| Batsugun                                                                 | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-20605G/README.md)       |
+| Battle Arena Toshinden Remix                                             | :eu:   | :question:                           | TODO                                                   |
+| Battle Arena Toshinden Remix                                             | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81029/README.md)         |
+| Battle Arena Toshinden URA                                               | :eu:   | :100:                                | [Link](Regions/Retails/Europe/MK-81054/README.md)      |
+| Battle Arena Toshinden URA - Ultimate Revenge Attack (Beta) (1996-11-08) | :eu:   | :100:                                | [Link](Regions/Europe/MK-81054__BETA/README.md)        |
+| Battle Arena Toshinden URA                                               | :us:   | :100:                                | [Link](Regions/Retails/USA/MK-81054/README.md)         |
+| Battle Athletess Daiundoukai                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-24601G/01/README.md)    |
+| Battle Garegga                                                           | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-10627G/README.md)       |
+| Battle Monsters                                                          | :eu:   | :question:                           | TODO                                                   |
+| Battle Monsters                                                          | :jp:   | :question:                           | TODO                                                   |
+| Battle Monsters                                                          | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Retails/USA/T-8137H/README.md)          |
+| Battle Stations                                                          | :eu:   | :question:                           | TODO                                                   |
+| Battle Stations                                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-5021H/01/README.md)       |
+| BattleSport                                                              | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8149H/01/README.md)       |
+| Beach de Reach!                                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-29004G/01/README.md)    |
+| Big Ichigeki! Pachi-Slot Daikouryaku: Universal Museum                   | :jp:   | :minidisc: 2x                        | [Link](Regions/Retails/Japan/T-16704G/01/README.md)    |
+| Big Thanks - Super Keirin - Dream with Keirin 50 Years                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/6106987/01/README.md)     |
+| Bio Hazard                                                               | :jp:   | :question:                           | TODO                                                   |
+| Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-36701G/01/README.md)    |
+| Bishoujo Senshi Sailor Moon SuperS: Various Emotion                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-15701G/01/README.md)    |
+| Bishoujo Variety Game: Rapyulus Panic                                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21503G/01/README.md)    |
+| Black Dawn                                                               | :eu:   | :question:                           | TODO                                                   |
+| Black Dawn                                                               | :jp:   | :question:                           | TODO                                                   |
+| Black Dawn                                                               | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-7027H/01/README.md)       |
+| Black-Matrix (Rerelease)                                                 | :jp:   | :question:                           | TODO                                                   |
+| Black-Matrix                                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-20113G/01/README.md)    |
+| Black Fire                                                               | :eu:   | :question:                           | TODO                                                   |
+| Black Fire                                                               | :jp:   | :question:                           | TODO                                                   |
+| Black Fire                                                               | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/MK-81003/01/README.md)      |
+| Blam! Machinehead                                                        | :eu:   | :heavy_check_mark:                   | [Link](Regions/Retails/Europe/T-11505H50/01/README.md) |
+| Blam! Machinehead                                                        | :fr:   | :question:                           | TODO                                                   |
+| Blam! Machinehead                                                        | :de:   | :question:                           | TODO                                                   |
+| Blam! Machinehead                                                        | :jp:   | :question:                           | TODO                                                   |
+| Blast Chamber                                                            | :eu:   | :x:                                  | [Link](Regions/Retails/Europe/T-13003H50/01/README.md) |
+| Blast Chamber                                                            | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-13003H/01/README.md)      |
+| Blast Wind                                                               | :jp:   | :100:                                | [Link](Regions/Retails/Japan/T-1810G/README.md)        |
+| Blazing Dragons                                                          | :eu:   | :question:                           | TODO                                                   |
+| Blazing Dragons                                                          | :fr:   | :question:                           | TODO                                                   |
+| Blazing Dragons                                                          | :de:   | :question:                           | TODO                                                   |
+| Blazing Dragons                                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-15907H/01/README.md)      |
+| Blazing Heroes                                                           | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81303/01/README.md)      |
+| Blood Factory                                                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-12504G/01/README.md)    |
+| Blue Breaker - Ken yori mo Hohoemi o                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-4315G/01/README.md)     |
+| Body Special 264: Girls in Motion Puzzle Vol. 2                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21003G/01/README.md)    |
+| Bomberman Wars                                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-14320G/01/README.md)    |
+| Bottom of the 9th                                                        | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-9505H/01/README.md)       |
+| Bouken Katsugeki Mono Mono                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21508G/01/README.md)    |
+| Brain Battle Q                                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-25701G/01/README.md)    |
+| BrainDead 13                                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-7305G/01/README.md)     |
+| BrainDead 13                                                             | :us:   | :x:                                  | [Link](Regions/Retails/USA/T-12103H/01/README.md)      |
+| Break Point                                                              | :eu:   | :question:                           | TODO                                                   |
+| Break Point                                                              | :jp:   | :question:                           | TODO                                                   |
+| Break Point Tennis                                                       | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8145H/01/README.md)       |
+| BreakThru!                                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-21501G/01/README.md)    |
+| Bubble Symphony                                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-19905G/01/README.md)    |
+| Bug Too!                                                                 | :eu:   | :question:                           | TODO                                                   |
+| Bug Too!                                                                 | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81040/01/README.md)      |
+| Bug Too!                                                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/GS-9128/01/README.md)     |
+| Bug!                                                                     | :eu:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Europe/MK-81004/01/README.md)   |
+| Bug!                                                                     | :us:   | :minidisc: 2x                        | [Link](Regions/Retails/USA/GM-81004/README.md)         |
+| Bug! Jump Shite, Funzukechatte, Petchanko                                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Retails/Japan/GS-9063/01/README.md)     |
+| Bulk Slash                                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-14310G/01/README.md)    |
+| Burning Rangers                                                          | :eu:   | :question:                           | TODO                                                   |
+| Burning Rangers                                                          | :jp:   | :question:                           | TODO                                                   |
+| Burning Rangers (Beta) (1997-12-01)                                      | :jp:   | :x:                                  | [Link](Regions/Japan/GS-XXXX__BETA/README.md)          |
+| Burning Rangers                                                          | :us:   | :hammer_and_wrench:                  | [Link](Regions/Retails/USA/MK-81803/README.md)         |
+| Bust-A-Move 2: Arcade Edition                                            | :eu:   | :100:                                | [Link](Regions/Retails/Europe/T-8132H-50/README.md)    |
+| Bust-A-Move 2: Arcade Edition                                            | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-8132H/01/README.md)       |
+| Bust-A-Move 3                                                            | :eu:   | :100:                                | [Link](Regions/Retails/Europe/T-8155H-50/README.md)    |
+| Bust-A-Move 3                                                            | :us:   | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-31103H/01/README.md)      |
 
 ### C
 
@@ -258,6 +265,7 @@ Other links related to SAROO:
 | Cat the Ripper: 13Ninme no Tanteishi                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-35701G/01/README.md)    |
 | Center Ring Boxing                                               | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-6005H/01/README.md)       |
 | Chaos Control                                                    | :eu:   | :100:               | [Link](Regions/Retails/Europe/T-15102H/README.md)      |
+| Chaos Control (Beta) (1996-05-29)                                | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-15102H__BETA/README.md)        |
 | Chaos Control                                                    | :jp:   | :question:          | TODO                                                   |
 | Chaos Control Remix                                              | :jp:   | :100:               | [Link](Regions/Retails/Japan/T-7006G/README.md)        |
 | Chibi Maruko-chan no Taisen Puzzle-dama                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-9507G/01/README.md)     |
@@ -271,12 +279,14 @@ Other links related to SAROO:
 | Civilization: Shin Sekai Shichi Dai Bunmei                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-2003G/01/README.md)     |
 | Cleopatra Fortune                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-1108G/01/README.md)     |
 | ClockWerx                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-22302G/01/README.md)    |
+| Clockwork Knight Puzzle - Pengin War (Proto) (1995-10-21)        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9015__BETA/README.md)          |
 | Clockwork Knight - Pepperouchau no Daibouken Gekan               | :jp:   | :question:          | TODO                                                   |
 | Clockwork Knight - Pepperouchau no Daibouken Joukan              | :jp:   | :question:          | TODO                                                   |
 | Clockwork Knight: Pepperouchau's Adventure                       | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/MK-81007/01/README.md)   |
 | TODO - Clockwork Knight: Pepperouchau's Adventure                | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81007/01/README.md)      |
 | Clockwork Knight 2: Pepperouchau's Adventure                     | :eu:   | :minidisc: 2x       | [Link](Regions/Retails/Europe/MK-81021/01/README.md)   |
 | Clockwork Knight 2: Pepperouchau's Adventure                     | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/MK-81036/01/README.md)      |
+| Clockwork Knight 2: Pepperouchau's Adventure (Beta) (1995-08-30) | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81021__BETA/README.md)           |
 | Code R                                                           | :jp:   | :hammer_and_wrench: | [Link](Regions/Retails/Japan/T-23502G/README.md)       |
 | College Slam                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-8111H/01/README.md)       |
 | Command & Conquer (Disc 1) (GDI)                                 | :eu:   | :question:          | TODO                                                   |
@@ -339,6 +349,7 @@ Other links related to SAROO:
 | D (Disc I)                                              | :de:   | :question:          | TODO                                                   |
 | D (Disc II)                                             | :de:   | :question:          | TODO                                                   |
 | D                                                       | :us:   | :cd: 2x             | [Link](Regions/Retails/USA/T-8106H/01/README.md)       |
+| D (Beta) (1996-02-05)                                   | :us:   | :cd: 2x             | [Link](Regions/USA/T-8106H__BETA/README.md) - TODO     |
 | D no Shokutaku (Disc 1)                                 | :jp:   | :question:          | TODO                                                   |
 | D no Shokutaku (Disc 2)                                 | :jp:   | :question:          | TODO                                                   |
 | D-Xhird                                                 | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-10307G/01/README.md)    |
@@ -353,6 +364,7 @@ Other links related to SAROO:
 | Darius Gaiden                                           | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/T-8123H-50/01/README.md) |
 | Darius Gaiden                                           | :jp:   | :minidisc: 2x       | [Link](Regions/Retails/Japan/T-1102G/README.md)        |
 | Darius Gaiden                                           | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-8123H/01/README.md)       |
+| Darius Gaiden (Beta) (1995-12-21)                       | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8123H__BETA/README.md)            |
 | Darius II                                               | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/MK-81085/01/README.md)   |
 | Darius II                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-1104G/01/README.md)     |
 | Dark Hunter (Ge) Youma no Mori                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Retails/Japan/T-7632G/01/README.md)     |
@@ -701,6 +713,7 @@ Other links related to SAROO:
 | Impact Racing                                | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-8139H/01/README.md)       |
 | In the Hunt                                  | :eu:   | :question:          | TODO                                                   |
 | In The Hunt                                  | :us:   | :x:                 | [Link](Regions/Retails/USA/T-10001G/01/README.md)      |
+| In the Hunt (Beta) (1996-04-11)              | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-10001G__BETA/README.md)           |
 | Independence Day                             | :us:   | :heavy_check_mark:  | [Link](Regions/Retails/USA/T-16104H/01/README.md)      |
 | Independence Day: The Game                   | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/T-16104H/01/README.md)   |
 | International Victory Goal                   | :eu:   | :heavy_check_mark:  | [Link](Regions/Retails/Europe/MK-81105/01/README.md)   |
@@ -1160,9 +1173,11 @@ Other links related to SAROO:
 | Revolution X - Music Is the Weapon                                 | :jp:     | :question:         | TODO                                                   |
 | Revolution X - Music Is the Weapon                                 | :de:     | :question:         | TODO                                                   |
 | Revolution X - Music is the Weapon featuring Aerosmith             | :us:     | :heavy_check_mark: | [Link](Regions/Retails/USA/T-8107H/01/README.md)       |
+| Revolution X - Music Is the Weapon (Beta) (1996-02-05)             | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-8107H__BETA/README.md)            |
 | Riglordsaga                                                        | :jp:     | :heavy_check_mark: | [Link](Regions/Retails/Japan/GS-9021/01/README.md)     |
 | Riglordsaga 2                                                      | :jp:     | :minidisc: 2x      | [Link](Regions/Retails/Japan/GS-9084/README.md)        |
 | Rise 2 - Resurrection                                              | :eu:     | :question:         | TODO                                                   |
+| Rise 2 - Resurrection (Beta) (1996-03-05)                          | :eu:     | :heavy_check_mark: | [Link](Regions/Europe/T-810000__BETA/README.md)        |
 | Rise 2 - Resurrection                                              | :jp:     | :question:         | TODO                                                   |
 | Rise 2 - Resurrection                                              | :us:     | :heavy_check_mark: | [Link](Regions/Retails/USA/T-8114-H/01/README.md)      |
 | Riven - A Sequencia de Myst                                        | :brazil: | :cd: (4 discs)     | [Link](Regions/Retails/Brazil/MK-8180145/01/README.md) |
@@ -1305,6 +1320,7 @@ Other links related to SAROO:
 | Shingata Kururin Pa!                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Retails/Japan/T-24202G/01/README.md)    |
 | Shining Force III (R)                                        | :eu:     | :question:                           | TODO                                                   |
 | Shining Force III                                            | :us:     | :heavy_check_mark:                   | [Link](Regions/Retails/USA/MK-81383/01/README.md)      |
+| Shining Force III (Beta) (1998-04-23)                        | :us:     | :question:                           | [Link](Regions/USA/MK-81383__BETA/README.md) - TODO    |
 | Shining Force III - Scenario 1 - Outo no Kyoshin (Rev A)     | :jp:     | :question:                           | TODO                                                   |
 | Shining Force III - Scenario 1 - Outo no Kyoshin             | :jp:     | :question:                           | TODO                                                   |
 | Shining Force III - Scenario 2 - Nerawareta Miko (Rev A)     | :jp:     | :question:                           | TODO                                                   |
@@ -1315,6 +1331,7 @@ Other links related to SAROO:
 | Shining Wisdom (Rev A)                                       | :jp:     | :question:                           | TODO                                                   |
 | Shining Wisdom                                               | :jp:     | :question:                           | TODO                                                   |
 | Shining Wisdom                                               | :us:     | :heavy_check_mark:                   | [Link](Regions/Retails/USA/T-12702H/01/README.md)      |
+| Shining Wisdom (Beta) (1996-04-11)                           | :us:     | :question:                           | [Link](Regions/USA/T-12702H__BETA/README.md) - TODO    |
 | Shining the Holy Ark                                         | :eu:     | :question:                           | TODO                                                   |
 | Shining the Holy Ark (1M)                                    | :jp:     | :question:                           | TODO                                                   |
 | Shining the Holy Ark (3M)                                    | :jp:     | :question:                           | TODO                                                   |
@@ -1417,6 +1434,7 @@ Other links related to SAROO:
 | Street Fighter The Movie                                     | :us:     | :100:                                | [Link](Regions/Retails/USA/T-8105H/README.md)          |
 | Street Fighter Alpha: Warrior's Dreams                       | :eu:     | :100:                                | [Link](Regions/Retails/Europe/T-7008H-50/README.md)    |
 | Street Fighter Alpha: Warrior's Dreams                       | :us:     | :x:                                  | [Link](Regions/Retails/USA/T-1206H/01/README.md)       |
+| Street Fighter Alpha - Warriors' Dreams (Beta) (1995-12-22)  | :us:     | :x:                                  | [Link](Regions/USA/T-1206H__BETA/README.md)            |
 | Street Fighter Alpha 2                                       | :eu:     | :question:                           | TODO                                                   |
 | Street Fighter Alpha 2                                       | :us:     | :x:                                  | [Link](Regions/Retails/USA/T-1213H/01/README.md)       |
 | Street Fighter Collection                                    | :eu:     | :cd: 2x                              | [Link](Regions/Retails/Europe/T-7033H-50/README.md)    |
