@@ -1,0 +1,40 @@
+# Victory Goal '96 (Japan)
+
+### [Console Info](../../../../Info/Consoles/VA13/README.md)
+
+### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
+
+- <b>Firmwares Tested:</b>
+  1. MCU: 240118, SS: 240118, FPGA: 05 - v0.3
+
+### [SD Card Info (Lenovo - 128 GB)](../../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
+
+### Game Info
+
+Extracted from [SRP (Saturn Region Patcher)](https://segaxtreme.net/resources/saturn-region-patcher.81/download).
+
+- <b>Game Name:</b> VICTORY GOAL96
+- <b>Product Number:</b> GS-9048
+- <b>Version:</b> V1.000
+- <b>Area Code:</b> J
+- <b>Peripheral Code:</b> JT
+
+### Status
+
+- J.League Victory Goal '96 (Japan) (1M, 3M): Playable :heavy_check_mark:
+- J.League Victory Goal '96 (Japan) (2M): Untested :question:
+
+### Extra Info
+
+- Tested `Exhibition` and `PK` modes.
+- It does need full tests for others modes.
+
+### TODO
+
+- Test J.League Victory Goal '96 (Japan) (2M)
+
+### Evidence
+
+J.League Victory Goal '96 (Japan) (1M, 3M):
+
+[![](https://img.youtube.com/vi/ZzELp0BH8w0/0.jpg)](https://www.youtube.com/watch?v=ZzELp0BH8w0)
