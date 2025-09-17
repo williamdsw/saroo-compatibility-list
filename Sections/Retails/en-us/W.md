@@ -11,7 +11,7 @@
 - [WWF In Your House (USA)](../../../Regions/Retails/USA/T-8126H/README.md) - :100:
 - WWF WrestleMania - The Arcade Game (Europe) - TODO
 - [WWF WrestleMania - The Arcade Game (Japan)](../../../Regions/Retails/Japan/T-8112G/01/README.md) - :heavy_check_mark:
-- [WWF WrestleMania - The Arcade Game (USA)](../../../Regions/Retails/USA/T-8112H/01/README.md) - :x:
+- [WWF WrestleMania - The Arcade Game (USA)](../../../Regions/Retails/USA/T-8112H/README.md) - :heavy_check_mark:
 - [Wachenröder (Japan)](../../../Regions/Retails/Japan/GS-9183/01/README.md) - :heavy_check_mark:
 - [Waialae no Kiseki: Extra 36 Holes (Japan)](../../../Regions/Retails/Japan/T-11402G/01/README.md) - :heavy_check_mark:
 - [Waku Waku 7 (Japan)](../../../Regions/Retails/Japan/T-1515G/01/README.md) - :heavy_check_mark:

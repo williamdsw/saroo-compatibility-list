@@ -423,7 +423,7 @@ Other links related to SAROO:
 | Devil Summoner: Soul Hackers: Akuma Zensho Dainishū     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14421G/01/README.md)        |
 | Devil Summoner: Soul Hackers Extra Dungeon              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/6106804/01/README.md)         |
 | Die Hard Arcade                                         | :eu:   | :question:          | TODO                                               |
-| Die Hard Arcade                                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81057/01/README.md)          |
+| Die Hard Arcade                                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81057/README.md)             |
 | Die Hard Trilogy                                        | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-16103H/01/README.md)       |
 | Die Hard Trilogy                                        | :jp:   | :question:          | TODO                                               |
 | Die Hard Trilogy                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-16103H/01/README.md)          |
@@ -707,15 +707,15 @@ Other links related to SAROO:
 | Impact Racing                                | :jp:   | :x:                 | [Link](Regions/Japan/T-7307G/01/README.md)     |
 | Impact Racing                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8139H/01/README.md)       |
 | In the Hunt                                  | :eu:   | :question:          | TODO                                           |
-| In The Hunt                                  | :us:   | :x:                 | [Link](Regions/USA/T-10001G/01/README.md)      |
+| In The Hunt                                  | :us:   | :x:                 | [Link](Regions/USA/T-10001G/README.md)         |
 | In the Hunt (Beta) (1996-04-11)              | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-10001G__BETA/README.md)   |
 | Independence Day                             | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-16104H/01/README.md)      |
 | Independence Day: The Game                   | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-16104H/01/README.md)   |
 | International Victory Goal                   | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81105/01/README.md)   |
 | Ippatsu Gyakuten - Gambling King e no Michi  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29602G/01/README.md)    |
 | Iron Man & X-O Manowar in Heavy Metal        | :eu:   | :hammer_and_wrench: | [Link](Regions/Europe/T-8119H-50/README.md)    |
-| Iron Man & X-O Manowar in Heavy Metal        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-8115G/01/README.md)     |
-| Iron Man & X-O Manowar in Heavy Metal        | :us:   | :x:                 | [Link](Regions/USA/T-8119H/01/README.md)       |
+| Iron Man & X-O Manowar in Heavy Metal        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-8115G/README.md)        |
+| Iron Man & X-O Manowar in Heavy Metal        | :us:   | :x:                 | [Link](Regions/USA/T-8119H/README.md)          |
 | Iron Storm                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-12701H/01/README.md)      |
 | Ishin no Arashi                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7645G/01/README.md)     |
 | Isto E Zico - Zico no Kangaeru Soccer        | :jp:   | :x:                 | [Link](Regions/Japan/T-18802G/01/README.md)    |
@@ -814,8 +814,7 @@ Other links related to SAROO:
 | Langrisser IV                                          | :jp:   | :minidisc: 2x      | [Link](Regions/Japan/T-2505G/01/README.md)   |
 | Langrisser V - The End of Legend                       | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-2509G/01/README.md)   |
 | Last Bronx                                             | :eu:   | :x:                | [Link](Regions/Europe/MK-81078/01/README.md) |
-| Last Bronx (Disc 1) (Arcade Disc)                      | :jp:   | :question:         | TODO                                         |
-| Last Bronx (Disc 2) (Special Disc)                     | :jp:   | :question:         | TODO                                         |
+| Last Bronx                                             | :jp:   | :x:                | [Link](Regions/Japan/GS-9152/README.md)      |
 | Last Bronx                                             | :us:   | :x:                | [Link](Regions/USA/MK-81078/01/README.md)    |
 | Last Gladiators                                        | :us:   | :minidisc: 2x      | [Link](Regions/USA/T-4804H/README.md)        |
 | Layer Section                                          | :jp:   | :minidisc: 3x      | [Link](Regions/Japan/T-1101G/01/README.md)   |
@@ -1069,7 +1068,7 @@ Other links related to SAROO:
 | Panic Chan                                   | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-15010G/01/README.md)    |
 | Panzer Dragoon                               | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81009/01/README.md)   |
 | Panzer Dragoon                               | :jp:   | :minidisc: 4x       | [Link](Regions/Japan/GS-9015/01/README.md)     |
-| Panzer Dragoon                               | :us:   | :minidisc: 2x       | [Link](Regions/USA/MK-81009/01/README.md)      |
+| Panzer Dragoon                               | :us:   | :minidisc: 2x       | [Link](Regions/USA/MK-81009/README.md)         |
 | Panzer Dragoon II Zwei                       | :eu:   | :question:          | TODO                                           |
 | Panzer Dragoon II Zwei                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9049/01/README.md)     |
 | Panzer Dragoon II Zwei                       | :us:   | :100:               | [Link](Regions/USA/MK-81022/README.md)         |
@@ -1146,7 +1145,7 @@ Other links related to SAROO:
 | ------------------------------------------------------------------ | -------- | ------------------ | ----------------------------------------------- |
 | Rabbit                                                             | :jp:     | :100:              | [Link](Regions/Japan/T-10610G/README.md)        |
 | Race Drivin'                                                       | :jp:     | :heavy_check_mark: | [Link](Regions/Japan/T-4802G/01/README.md)      |
-| Radiant Silvergun                                                  | :jp:     | :heavy_check_mark: | [Link](Regions/Japan/T-32902G/01/README.md)     |
+| Radiant Silvergun                                                  | :jp:     | :100:              | [Link](Regions/Japan/T-32902G/README.md)        |
 | Rampage - World Tour                                               | :eu:     | :question:         | TODO                                            |
 | Rampage - World Tour                                               | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-9708H/01/README.md)        |
 | Rampo (Disc 1)                                                     | :jp:     | :question:         | TODO                                            |
@@ -1400,7 +1399,7 @@ Other links related to SAROO:
 | Soviet Strike                                                | :fr:     | :question:                           | TODO                                                |
 | Soviet Strike                                                | :de:     | :question:                           | TODO                                                |
 | Soviet Strike                                                | :jp:     | :question:                           | TODO                                                |
-| Soviet Strike                                                | :us:     | :x:                                  | [Link](Regions/USA/T-5013H/01/README.md)            |
+| Soviet Strike                                                | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-5013H/README.md)               |
 | Space Hulk - Vengeance of the Blood Angels                   | :eu:     | :question:                           | TODO                                                |
 | Space Hulk: Vengeance of the Blood Angels                    | :us:     | :x:                                  | [Link](Regions/USA/T-5007H/01/README.md)            |
 | Space Invaders                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1107G/01/README.md)          |
@@ -1435,8 +1434,7 @@ Other links related to SAROO:
 | Street Fighter Collection                                    | :eu:     | :cd: 2x                              | [Link](Regions/Europe/T-7033H-50/README.md)         |
 | Street Fighter Collection                                    | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-1223G/README.md)             |
 | Street Fighter Collection                                    | :us:     | :cd: 2x                              | [Link](Regions/USA/T-1222H/README.md)               |
-| Street Fighter II Movie (Japan) (Disc 1)                     | :jp:     | :question:                           | TODO                                                |
-| Street Fighter II Movie (Japan) (Disc 2)                     | :jp:     | :question:                           | TODO                                                |
+| Street Fighter II Movie                                      | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-1204G/README.md)             |
 | Street Fighter Zero                                          | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/T-1206G/README.md)             |
 | Street Fighter Zero 2                                        | :jp:     | :checkered_flag:                     | [Link](Regions/Japan/T-1212G/README.md)             |
 | Street Fighter Zero 2' - Dash                                | :jp:     | :checkered_flag:                     | [Link](Regions/Japan/T-1244G/README.md)             |
@@ -1692,7 +1690,7 @@ Other links related to SAROO:
 | WWF In Your House                                         | :us:   | :100:                                | [Link](Regions/USA/T-8126H/README.md)            |
 | WWF WrestleMania - The Arcade Game                        | :eu:   | :question:                           | TODO                                             |
 | WWF WrestleMania - The Arcade Game                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-8112G/01/README.md)       |
-| WWF WrestleMania - The Arcade Game                        | :us:   | :x:                                  | [Link](Regions/USA/T-8112H/01/README.md)         |
+| WWF WrestleMania - The Arcade Game                        | :us:   | :x:                                  | [Link](Regions/USA/T-8112H/README.md)            |
 | Wachenröder                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9183/01/README.md)       |
 | Waialae no Kiseki: Extra 36 Holes                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-11402G/01/README.md)      |
 | Waku Waku 7                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1515G/01/README.md)       |

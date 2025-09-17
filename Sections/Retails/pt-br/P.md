@@ -19,7 +19,7 @@
 - [Panic Chan (Japan)](../../../Regions/Retails/Japan/T-15010G/01/README.md) - :heavy_check_mark:
 - [Panzer Dragoon (Europe)](../../../Regions/Retails/Europe/MK-81009/01/README.md) - :heavy_check_mark:
 - [Panzer Dragoon (Japan)](../../../Regions/Retails/Japan/GS-9015/01/README.md) - :heavy_check_mark:
-- [Panzer Dragoon (USA)](../../../Regions/Retails/USA/MK-81009/01/README.md) - :heavy_check_mark:
+- [Panzer Dragoon (USA)](../../../Regions/Retails/USA/MK-81009/README.md) - :minidisc: 2x
 - Panzer Dragoon II Zwei (Europe) - TODO
 - [Panzer Dragoon II Zwei (Japan)](../../../Regions/Retails/Japan/GS-9049/01/README.md) - :heavy_check_mark:
 - [Panzer Dragoon II Zwei (USA)](../../../Regions/Retails/USA/MK-81022/README.md) - :100:

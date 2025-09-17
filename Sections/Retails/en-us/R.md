@@ -8,7 +8,7 @@
 
 - [Rabbit (Japan)](../../../Regions/Retails/Japan/T-10610G/README.md) - :100:
 - [Race Drivin' (Japan)](../../../Regions/Retails/Japan/T-4802G/01/README.md) - :heavy_check_mark:
-- [Radiant Silvergun (Japan)](../../../Regions/Retails/Japan/T-32902G/01/README.md) - :heavy_check_mark:
+- [Radiant Silvergun (Japan)](../../../Regions/Retails/Japan/T-32902G/README.md) - :100:
 - Rampage - World Tour (Europe) - TODO
 - [Rampage - World Tour (USA)](../../../Regions/Retails/USA/T-9708H/01/README.md) - :heavy_check_mark:
 - Rampo (Japan) (Disc 1) - TODO

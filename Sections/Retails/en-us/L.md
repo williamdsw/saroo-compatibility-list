@@ -12,8 +12,7 @@
 - [Langrisser IV (Japan)](../../../Regions/Retails/Japan/T-2505G/01/README.md) - :heavy_check_mark:
 - [Langrisser V - The End of Legend (Japan)](../../../Regions/Retails/Japan/T-2509G/01/README.md) - :heavy_check_mark:
 - [Last Bronx (Europe)](../../../Regions/Retails/Europe/MK-81078/01/README.md) - :x:
-- Last Bronx (Japan) (Disc 1) (Arcade Disc) - TODO
-- Last Bronx (Japan) (Disc 2) (Special Disc) - TODO
+- [Last Bronx (Japan)](../../../Regions/Japan/GS-9152/README.md) - :x:
 - [Last Bronx (USA)](../../../Regions/Retails/USA/MK-81078/01/README.md) - :x:
 - [Last Gladiators (USA)](../../../Regions/Retails/USA/T-4804H/README.md) - :minidisc: 2x
 - [Layer Section (Japan)](../../../Regions/Retails/Japan/T-1101G/01/README.md) - :heavy_check_mark:

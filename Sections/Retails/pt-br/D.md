@@ -90,7 +90,7 @@
 - [Devil Summoner: Soul Hackers: Akuma Zensho Dainishū (Japan)](../../../Regions/Retails/Japan/T-14421G/01/README.md) - :heavy_check_mark:
 - [Devil Summoner: Soul Hackers Extra Dungeon (Japan)](../../../Regions/Retails/Japan/6106804/01/README.md) - :heavy_check_mark:
 - Die Hard Arcade (Europe) - TODO
-- [Die Hard Arcade (USA)](../../../Regions/Retails/USA/MK-81057/01/README.md) - :heavy_check_mark:
+- [Die Hard Arcade (USA)](../../../Regions/Retails/USA/MK-81057/README.md) - :heavy_check_mark:
 - [Die Hard Trilogy (Europe)](../../../Regions/Retails/Europe/T-16103H/01/README.md) - :heavy_check_mark:
 - Die Hard Trilogy (Japan) - TODO
 - [Die Hard Trilogy (USA)](../../../Regions/Retails/USA/T-16103H/01/README.md) - :heavy_check_mark:

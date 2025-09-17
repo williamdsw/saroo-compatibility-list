@@ -190,7 +190,7 @@
 - Soviet Strike (France) - TODO
 - Soviet Strike (Germany) - TODO
 - Soviet Strike (Japan) - TODO
-- [Soviet Strike (USA)](../../../Regions/Retails/USA/T-5013H/01/README.md) - :x:
+- [Soviet Strike (USA)](../../../Regions/USA/T-5013H/README.md) - :heavy_check_mark:
 - Space Hulk - Vengeance of the Blood Angels (Europe) - TODO
 - [Space Hulk: Vengeance of the Blood Angels (USA)](../../../Regions/Retails/USA/T-5007H/01/README.md) - :x:
 - [Space Invaders (Japan)](../../../Regions/Retails/Japan/T-1107G/01/README.md) - :heavy_check_mark:
@@ -224,8 +224,7 @@
 - [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/README.md) - :cd: 2x
 - [Street Fighter Collection (Japan)](../../../Regions/Retails/Japan/T-1223G/README.md) - :cd: 2x
 - [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/README.md) - :cd: 2x
-- Street Fighter II Movie (Japan) (Disc 1) - TODO
-- Street Fighter II Movie (Japan) (Disc 2) - TODO
+- [Street Fighter II Movie (Japan)](../../../Regions/Retails/Japan/T-1204G/README.md) - :cd: 2x
 - [Street Fighter Zero (Japan)](../../../Regions/Retails/Japan/T-1206G/README.md) - :minidisc: 3x
 - [Street Fighter Zero 2 (Japan)](../../../Regions/Retails/Japan/T-1212G/README.md) - :checkered_flag:
 - [Street Fighter Zero 2' - Dash (Japan)](../../../Regions/Retails/Japan/T-1244G/README.md) - :checkered_flag:

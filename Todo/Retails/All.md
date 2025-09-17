@@ -182,8 +182,6 @@
 ## L
 
 - La Mansion de las Almas Ocultas (Spain) - TODO
-- Last Bronx (Japan) (Disc 1) (Arcade Disc) - TODO
-- Last Bronx (Japan) (Disc 2) (Special Disc) - TODO
 - Le Manoir des Ames Perdues (France) - TODO
 
 ## M
@@ -351,8 +349,6 @@
 - Street Fighter - The Movie (Europe) (2S) - TODO
 - Street Fighter - The Movie (Europe) (4S) - TODO
 - Street Fighter Alpha 2 (Europe) - TODO
-- Street Fighter II Movie (Japan) (Disc 1) - TODO
-- Street Fighter II Movie (Japan) (Disc 2) - TODO
 - Striker 96 (Europe) - TODO
 - Striker 96 (Japan) - TODO
 - Super Real Mahjong P7 (Japan) (P's Club Special Edition) - TODO
