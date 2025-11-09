@@ -33,7 +33,7 @@
 - [Fighters Megamix (Japan)](../../../Regions/Retails/Japan/GS-9126/README.md) - :minidisc: 3x
 - [Fighters Megamix (USA)](../../../Regions/Retails/USA/MK-81073/README.md) - :minidisc: 2x
 - [Fighting Vipers (Europe)](../../../Regions/Retails/Europe/MK-81041/README.md) - :100:
-- [Fighting Vipers (Japan)](../../../Regions/Retails/Japan/GS-9101/01/README.md) - :x:
+- [Fighting Vipers (Japan)](../../../Regions/Retails/Japan/GS-9101/README.md) - :x:
 - Fighting Vipers (Korea) - TODO
 - [Fighting Vipers (USA)](../../../Regions/Retails/USA/MK-81041/README.md) - :100:
 - [Final Fight Revenge (Japan)](../../../Regions/Retails/Japan/T-1248G/README.md) - :hammer_and_wrench: :checkered_flag:

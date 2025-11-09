@@ -479,7 +479,7 @@ Other links related to SAROO:
 | -------------------------------------------------- | ------ | ------------------ | -------------------------------------------- |
 | Earthworm Jim 2                                    | :eu:   | :question:         | TODO                                         |
 | Earthworm Jim 2                                    | :jp:   | :question:         | TODO                                         |
-| Earthworm Jim 2                                    | :us:   | :x:                | [Link](Regions/USA/T-13203H/01/README.md)    |
+| Earthworm Jim 2                                    | :us:   | :x:                | [Link](Regions/USA/T-13203H/README.md)       |
 | Eberouge                                           | :jp:   | :cd: 2x            | [Link](Regions/Japan/T-10309G/01/README.md)  |
 | Eberouge Special - Koi to Mahou no Gakuen Seikatsu | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-10315G/01/README.md)  |
 | Eisei Meijin                                       | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-9506G/01/README.md)   |
@@ -532,7 +532,7 @@ Other links related to SAROO:
 | Fighters Megamix                                | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9126/README.md)      |
 | Fighters Megamix                                | :us:   | :minidisc: 2x                        | [Link](Regions/USA/MK-81073/README.md)       |
 | Fighting Vipers                                 | :eu:   | :100:                                | [Link](Regions/Europe/MK-81041/README.md)    |
-| Fighting Vipers                                 | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9101/01/README.md)   |
+| Fighting Vipers                                 | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9101/README.md)      |
 | Fighting Vipers                                 | :kr:   | :question:                           | TODO                                         |
 | Fighting Vipers                                 | :us:   | :100:                                | [Link](Regions/USA/MK-81041/README.md)       |
 | Final Fight Revenge                             | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-1248G/README.md)      |
@@ -704,7 +704,7 @@ Other links related to SAROO:
 | Idol Mahjong - Final Romance R               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-16703G/01/README.md)    |
 | Idol Mahjong - Final Romance R (Bonus Discs) | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-16705G/README.md)       |
 | Impact Racing                                | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-6010H-50/01/README.md) |
-| Impact Racing                                | :jp:   | :x:                 | [Link](Regions/Japan/T-7307G/01/README.md)     |
+| Impact Racing                                | :jp:   | :x:                 | [Link](Regions/Japan/T-7307G/README.md)        |
 | Impact Racing                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8139H/01/README.md)       |
 | In the Hunt                                  | :eu:   | :question:          | TODO                                           |
 | In The Hunt                                  | :us:   | :x:                 | [Link](Regions/USA/T-10001G/README.md)         |
@@ -815,7 +815,7 @@ Other links related to SAROO:
 | Langrisser V - The End of Legend                       | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-2509G/01/README.md)   |
 | Last Bronx                                             | :eu:   | :x:                | [Link](Regions/Europe/MK-81078/01/README.md) |
 | Last Bronx                                             | :jp:   | :x:                | [Link](Regions/Japan/GS-9152/README.md)      |
-| Last Bronx                                             | :us:   | :x:                | [Link](Regions/USA/MK-81078/01/README.md)    |
+| Last Bronx                                             | :us:   | :x:                | [Link](Regions/USA/MK-81078/README.md)       |
 | Last Gladiators                                        | :us:   | :minidisc: 2x      | [Link](Regions/USA/T-4804H/README.md)        |
 | Layer Section                                          | :jp:   | :minidisc: 3x      | [Link](Regions/Japan/T-1101G/01/README.md)   |
 | Layer Section II                                       | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-26409G/01/README.md)  |
@@ -1186,7 +1186,7 @@ Other links related to SAROO:
 | R?MJ: The Mystery Hospital                                         | :jp:     | :heavy_check_mark: | [Link](Regions/Japan/T-13322G/01/README.md)     |
 | Rox 6=Six                                                          | :jp:     | :heavy_check_mark: | [Link](Regions/Japan/T-16612G/01/README.md)     |
 | Road & Track Presents - The Need for Speed                         | :eu:     | :question:         | TODO                                            |
-| Road & Track Presents - The Need for Speed                         | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-5009H/01/README.md)        |
+| Road & Track Presents - The Need for Speed                         | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-5009H/README.md)           |
 | Road Rash                                                          | :eu:     | :question:         | TODO                                            |
 | Road Rash                                                          | :jp:     | :x:                | [Link](Regions/Japan/T-10609G/01/README.md)     |
 | Road Rash                                                          | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-5008H/01/README.md)        |
@@ -1332,7 +1332,7 @@ Other links related to SAROO:
 | Shining the Holy Ark                                         | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81306/01/README.md)           |
 | Shinobi Legions                                              | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-2301H/01/README.md)            |
 | Shinobi X                                                    | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81082/01/README.md)        |
-| Shinouken                                                    | :jp:     | :x:                                  | [Link](Regions/Japan/T-3113G/01/README.md)          |
+| Shinouken                                                    | :jp:     | :x:                                  | [Link](Regions/Japan/T-3113G/README.md)             |
 | Shinpi no Sekai El-Hazard                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-22202G/01/README.md)         |
 | Shinrei Jusatsushi Taroumaru                                 | :jp:     | :100:                                | [Link](Regions/Japan/T-4804G/README.md)             |
 | Shinsetsu Samurai Spirits Bushidou Retsuden                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-3112G/01/README.md)          |
@@ -1427,10 +1427,10 @@ Other links related to SAROO:
 | Street Fighter - The Movie (Europe) (4S)                     | :eu:     | :question:                           | TODO                                                |
 | Street Fighter The Movie                                     | :us:     | :100:                                | [Link](Regions/USA/T-8105H/README.md)               |
 | Street Fighter Alpha: Warrior's Dreams                       | :eu:     | :100:                                | [Link](Regions/Europe/T-7008H-50/README.md)         |
-| Street Fighter Alpha: Warrior's Dreams                       | :us:     | :x:                                  | [Link](Regions/USA/T-1206H/01/README.md)            |
+| Street Fighter Alpha: Warrior's Dreams                       | :us:     | :x:                                  | [Link](Regions/USA/T-1206H/README.md)               |
 | Street Fighter Alpha - Warriors' Dreams (Beta) (1995-12-22)  | :us:     | :x:                                  | [Link](Regions/USA/T-1206H__BETA/README.md)         |
 | Street Fighter Alpha 2                                       | :eu:     | :question:                           | TODO                                                |
-| Street Fighter Alpha 2                                       | :us:     | :x:                                  | [Link](Regions/USA/T-1213H/01/README.md)            |
+| Street Fighter Alpha 2                                       | :us:     | :x:                                  | [Link](Regions/USA/T-1213H/README.md)               |
 | Street Fighter Collection                                    | :eu:     | :cd: 2x                              | [Link](Regions/Europe/T-7033H-50/README.md)         |
 | Street Fighter Collection                                    | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-1223G/README.md)             |
 | Street Fighter Collection                                    | :us:     | :cd: 2x                              | [Link](Regions/USA/T-1222H/README.md)               |
@@ -1671,8 +1671,8 @@ Other links related to SAROO:
 | Virtual Kyoutei                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7101G/01/README.md)     |
 | Virtual Kyoutei 2                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7104G/01/README.md)     |
 | Virtual Mahjong                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-2206G/01/README.md)     |
-| Virtual On: Cyber Troopers                  | :us:   | :x:                                  | [Link](Regions/USA/MK-81042/01/README.md)      |
-| Virtual On: Cyber Troopers Net Link Edition | :us:   | :x:                                  | [Link](Regions/USA/MK-81042/01/README.md)      |
+| Virtual On: Cyber Troopers                  | :us:   | :x:                                  | [Link](Regions/USA/MK-81042/README.md)         |
+| Virtual On: Cyber Troopers Net Link Edition | :us:   | :x:                                  | [Link](Regions/USA/MK-81072/01/README.md)      |
 | Virtual Open Tennis                         | :eu:   | TODO                                 | TODO                                           |
 | Virtual Open Tennis                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-15007G/01/README.md)    |
 | Virtual Open Tennis                         | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8129H/01/README.md)       |

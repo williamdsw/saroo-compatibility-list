@@ -8,7 +8,7 @@
 
 - Earthworm Jim 2 (Europe) - TODO
 - Earthworm Jim 2 (Japan) (2M) - TODO
-- [Earthworm Jim 2 (USA)](../../../Regions/Retails/USA/T-13203H/01/README.md) - :x:
+- [Earthworm Jim 2 (USA)](../../../Regions/Retails/USA/T-13203H/README.md) - :x:
 - [Eberouge (Japan)](../../../Regions/Retails/Japan/T-10309G/01/README.md) - :question:
 - [Eberouge Special - Koi to Mahou no Gakuen Seikatsu (Japan)](../../../Regions/Retails/Japan/T-10315G/01/README.md) - :heavy_check_mark:
 - [Eisei Meijin (Japan)](../../../Regions/Retails/Japan/T-9506G/01/README.md) - :heavy_check_mark:

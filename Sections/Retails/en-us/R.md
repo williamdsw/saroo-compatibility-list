@@ -47,7 +47,7 @@
 - [R?MJ: The Mystery Hospital (Japan)](../../../Regions/Retails/Japan/T-13322G/01/README.md) - :heavy_check_mark:
 - [RoX - 6 = Six (Japan)](../../../Regions/Retails/Japan/T-16612G/01/README.md) - :heavy_check_mark:
 - Road & Track Presents - The Need for Speed (Europe) - TODO
-- [Road & Track Presents - The Need for Speed (USA)](../../../Regions/Retails/USA/T-5009H/01/README.md) - :heavy_check_mark:
+- [Road & Track Presents - The Need for Speed (USA)](../../../Regions/Retails/USA/T-5009H/README.md) - :heavy_check_mark:
 - Road Rash (Europe) - TODO
 - [Road Rash (Japan)](../../../Regions/Retails/Japan/T-10609G/01/README.md) - :x:
 - [Road Rash (USA)](../../../Regions/Retails/USA/T-5008H/01/README.md) - :heavy_check_mark:

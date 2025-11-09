@@ -123,7 +123,7 @@
 - [Shining the Holy Ark (USA)](../../../Regions/Retails/USA/MK-81306/01/README.md) - :heavy_check_mark:
 - [Shinobi Legions (USA)](../../../Regions/Retails/USA/T-2301H/01/README.md) - :heavy_check_mark:
 - [Shinobi X (Europe)](../../../Regions/Retails/Europe/MK-81082/01/README.md) - :heavy_check_mark:
-- [Shinouken (Japan)](../../../Regions/Retails/Japan/T-3113G/01/README.md) - :x:
+- [Shinouken (Japan)](../../../Regions/Retails/Japan/T-3113G/README.md) - :x:
 - [Shinpi no Sekai El-Hazard (Japan)](../../../Regions/Retails/Japan/T-22202G/01/README.md) - :heavy_check_mark:
 - [Shinrei Jusatsushi Taroumaru (Japan)](../../../Regions/Retails/Japan/T-4804G/README.md) - :100:
 - [Shinsetsu Samurai Spirits Bushidou Retsuden (Japan)](../../../Regions/Retails/Japan/T-3112G/01/README.md) - :heavy_check_mark:
@@ -218,9 +218,9 @@
 - Street Fighter - The Movie (Europe) (4S) - TODO
 - [Street Fighter The Movie (USA)](../../../Regions/Retails/USA/T-8105H/README.md) - :100:
 - [Street Fighter Alpha: Warrior's Dreams (Europe)](../../../Regions/Retails/Europe/T-7008H-50/README.md) - :100:
-- [Street Fighter Alpha: Warrior's Dreams (USA)](../../../Regions/Retails/USA/T-1206H/01/README.md) - :x:
+- [Street Fighter Alpha: Warrior's Dreams (USA)](../../../Regions/Retails/USA/T-1206H/README.md) - :x:
 - Street Fighter Alpha 2 (Europe) - TODO
-- [Street Fighter Alpha 2 (USA)](../../../Regions/Retails/USA/T-1213H/01/README.md) - :x:
+- [Street Fighter Alpha 2 (USA)](../../../Regions/Retails/USA/T-1213H/README.md) - :x:
 - [Street Fighter Collection (Europe)](../../../Regions/Retails/Europe/T-7033H-50/README.md) - :cd: 2x
 - [Street Fighter Collection (Japan)](../../../Regions/Retails/Japan/T-1223G/README.md) - :cd: 2x
 - [Street Fighter Collection (USA)](../../../Regions/Retails/USA/T-1222H/README.md) - :cd: 2x

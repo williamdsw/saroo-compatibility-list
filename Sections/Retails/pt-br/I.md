@@ -16,7 +16,7 @@
 - [Idol Mahjong - Final Romance R (Japan)](../../../Regions/Retails/Japan/T-16703G/01/README.md) - :heavy_check_mark:
 - [Idol Mahjong - Final Romance R (Japan) (Bonus Discs)](../../../Regions/Retails/Japan/T-16705G/README.md) - :minidisc: 2x
 - [Impact Racing (Europe)](../../../Regions/Retails/Europe/T-6010H-50/01/README.md) - :heavy_check_mark:
-- [Impact Racing (Japan)](../../../Regions/Retails/Japan/T-7307G/01/README.md) - :x:
+- [Impact Racing (Japan)](../../../Regions/Retails/Japan/T-7307G/README.md) - :x:
 - [Impact Racing (USA)](../../../Regions/Retails/USA/T-8139H/01/README.md) - :heavy_check_mark:
 - In the Hunt (Europe) - TODO
 - [In The Hunt (USA)](../../../Regions/Retails/USA/T-10001G/README.md) - :x:

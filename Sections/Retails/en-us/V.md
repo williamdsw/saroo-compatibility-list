@@ -56,8 +56,8 @@
 - [Virtual Kyoutei (Japan)](../../../Regions/Retails/Japan/T-7101G/01/README.md) - :heavy_check_mark:
 - [Virtual Kyoutei 2 (Japan)](../../../Regions/Retails/Japan/T-7104G/01/README.md) - :heavy_check_mark:
 - [Virtual Mahjong (Japan)](../../../Regions/Retails/Japan/T-2206G/01/README.md) - :heavy_check_mark:
-- [Virtual On: Cyber Troopers (USA)](../../../Regions/Retails/USA/MK-81042/01/README.md) - :x:
-- [Virtual On: Cyber Troopers Net Link Edition (USA)](../../../Regions/Retails/USA/MK-81042/01/README.md) - :x:
+- [Virtual On: Cyber Troopers (USA)](../../../Regions/Retails/USA/MK-81042/README.md) - :x:
+- [Virtual On: Cyber Troopers Net Link Edition (USA)](../../../Regions/Retails/USA/MK-81072/01/README.md) - :x:
 - Virtual Open Tennis (Europe) - TODO
 - [Virtual Open Tennis (Japan)](../../../Regions/Retails/Japan/T-15007G/01/README.md) - :heavy_check_mark:
 - [Virtual Open Tennis (USA)](../../../Regions/Retails/USA/T-8129H/01/README.md) - :heavy_check_mark:
