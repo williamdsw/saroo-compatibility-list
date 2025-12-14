@@ -6,6 +6,14 @@
 
 ### 6 Games - 3 Tested
 
+| Name      | Region | Status             | Details                                            |
+| --------- | ------ | ------------------ | -------------------------------------------------- |
+| 2Tax Gold | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-4305G/01/README.md) |
+
+### Protos
+
+### 6 Games - 3 Tested
+
 - [Bedlam (USA)](../../Regions/Protos/USA/T-25407H45/01/README.md)
 - Burning Rangers (Japan) (Proto) - TODO
 - [Crime Patrol (USA) (Proto) (1996-09-24)](../../Regions/Protos/USA/T-11102H/01/README.md)
