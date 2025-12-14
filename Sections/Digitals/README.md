@@ -6,7 +6,6 @@
 
 ### 30 Items - 29 Tested
 
-- [Kamen Rider - Sakusen File 1 (Japan)](../../Regions/Digitals/Japan/T-14101G/01/README.md)
 - [Private Idol Disc: Data-hen: Race Queen F (Japan)](../../Regions/Digitals/Japan/T-30805G/01/README.md)
 - [Private Idol Disc: Data-hen: Race Queen G (Japan)](../../Regions/Digitals/Japan/T-30806G/01/README.md)
 - [Private Idol Disc: Tokubetsu-hen: Can Gal '97 (Japan)](../../Regions/Digitals/Japan/T-30808G/01/README.md)

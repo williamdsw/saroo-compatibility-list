@@ -764,6 +764,7 @@ Other links related to SAROO:
 | Kaitou Saint Tail                                                                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-28201G/README.md)       |
 | Kakinoki Shougi                                                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-2104G/01/README.md)     |
 | Kakyuusei                                                                        | :jp:   | :cd: 3x                              | [Link](Regions/Japan/T-28002G/01/README.md)    |
+| Kamen Rider: Sakusen File 1                                                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14101G/01/README.md)    |
 | Kanazawa Shougi                                                                  | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-16505G/01/README.md)    |
 | Kanzen Chuukei Pro Yakyuu Greatest Nine                                          | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9017/01/README.md)     |
 | Keio Flying Squadron 2                                                           | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-6008H-50/01/README.md) |
@@ -1053,79 +1054,95 @@ Other links related to SAROO:
 
 ### P
 
-| Name                                         | Region | Status              | Details                                        |
-| -------------------------------------------- | ------ | ------------------- | ---------------------------------------------- |
-| Pacific Theater of Operations II             | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7604H/01/README.md)       |
-| PD Ultraman Link                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-13304G/01/README.md)    |
-| PGA Tour 97                                  | :eu:   |                     | TODO                                           |
-| PGA Tour 97                                  | :jp:   | :question:          | TODO                                           |
-| PGA Tour 97                                  | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5011H/01/README.md)       |
-| Pachi-Slot Kanzen Kouryaku Uni-Colle'97      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-36501G/01/README.md)    |
-| Pachinko Hall Shinsou Daikaiten              | :jp:   | :x:                 | [Link](Regions/Japan/T-37501G/01/README.md)    |
-| Pandemonium!                                 | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-8109050/01/README.md) |
-| Pandemonium!                                 | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-15914H/01/README.md)      |
-| Paneltia Story: Karen no Daibouken           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21510G/01/README.md)    |
-| Panic Chan                                   | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-15010G/01/README.md)    |
-| Panzer Dragoon                               | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81009/01/README.md)   |
-| Panzer Dragoon                               | :jp:   | :minidisc: 4x       | [Link](Regions/Japan/GS-9015/01/README.md)     |
-| Panzer Dragoon                               | :us:   | :minidisc: 2x       | [Link](Regions/USA/MK-81009/README.md)         |
-| Panzer Dragoon II Zwei                       | :eu:   | :question:          | TODO                                           |
-| Panzer Dragoon II Zwei                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9049/01/README.md)     |
-| Panzer Dragoon II Zwei                       | :us:   | :100:               | [Link](Regions/USA/MK-81022/README.md)         |
-| Panzer Dragoon Saga (Disc 1)                 | :eu:   | :question:          | TODO                                           |
-| Panzer Dragoon Saga (Disc 2)                 | :eu:   | :question:          | TODO                                           |
-| Panzer Dragoon Saga (Disc 3)                 | :eu:   | :question:          | TODO                                           |
-| Panzer Dragoon Saga (Disc 4)                 | :eu:   | :question:          | TODO                                           |
-| Panzer Dragoon Saga (USA)                    | :us:   | :cd: 4x             | [Link](Regions/USA/MK-81307/01/README.md)      |
-| Pappara Paoon                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/23201G/01/README.md)      |
-| Pastel Muses                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30602G/01/README.md)    |
-| Pebble Beach Golf Links (3S)                 | :eu:   | :question:          | TODO                                           |
-| Pebble Beach Golf Links (4S)                 | :eu:   | :question:          | TODO                                           |
-| Pebble Beach Golf Links                      | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81101/01/README.md)      |
-| Pebble Beach Golf Links - Stadler ni Chousen | :jp:   | :question:          | TODO                                           |
-| Phantasm                                     | :jp:   | :cd: 8x             | [Link](Regions/Japan/T-36001G/01/README.md)    |
-| Photo Genic                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1524G/01/README.md)     |
-| Pia Carrot e Youkoso!!                       | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-19708G/01/README.md)    |
-| Pia Carrot e Youkoso!! 2                     | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-20114G/01/README.md)    |
-| Pict Flash Dondon                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-17811G/01/README.md)    |
-| Pinball Graffiti                             | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-6011H-50/01/README.md) |
-| Pinball Graffiti                             | :jp:   | :question:          | TODO                                           |
-| Planet Joker                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18711G/01/README.md)    |
-| Playboy Karaoke Collection Volume 1          | :jp:   | :100:               | [Link](Regions/Japan/T-2305G/01/README.md)     |
-| Playboy Karaoke Collection Volume 2          | :jp:   | :100:               | [Link](Regions/Japan/T-2304G/01/README.md)     |
-| Pocket Fighter                               | :jp:   | :100:               | [Link](Regions/Japan/T-1230G/README.md)        |
-| Policenauts                                  | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-9510G/01/README.md)     |
-| Popoitto Hebereke                            | :jp:   | :100:               | [Link](Regions/Japan/T-1504G/README.md)        |
-| Powerslave                                   | :us:   | :question:          | TODO                                           |
-| PriCla Daisakusen                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14409G/01/README.md)    |
-| Primal Rage                                  | :eu:   | :100:               | [Link](Regions/Europe/T-4802H-50/README.md)    |
-| Primal Rage                                  | :jp:   | :question:          | TODO                                           |
-| Primal Rage                                  | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-4802H/01/README.md)       |
-| Princess Crown                               | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-14418G/01/README.md)    |
-| Princess Maker: Yumemiru Yousei              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-35101G/01/README.md)    |
-| Princess Maker 2                             | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-5201G/01/README.md)     |
-| Princess Quest                               | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-24604G/01/README.md)    |
-| Prisoner of Ice: Jashin Kourin               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-26112G/01/README.md)    |
-| Pro Mahjong Kiwame S                         | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-16801G/01/README.md)    |
-| Pro Shinan Mahjong "Tsuwamono"               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-38501G/01/README.md)    |
-| Pro Yakyuu Greatest Nine 97                  | :jp:   | :minidisc: 2x:      | [Link](Regions/Japan/GS-9139/01/README.md)     |
-| Pro Yakyuu Greatest Nine 97 Make Miracle     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9171/01/README.md)     |
-| Pro Yakyuu Greatest Nine 98                  | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9185/01/README.md)     |
-| Pro Yakyuu Greatest Nine 98 Summer Action    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9202/01/README.md)     |
-| Pro Yakyuu Team mo Tsukurou!                 | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9165/01/README.md)     |
-| Pro-Pinball: The Web                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-12520H/01/README.md)      |
-| Pro-Pinball: The Web                         | :eu:   | :question:          | TODO                                           |
-| Pu-Li-Ru-La/Arcade Gears                     | :jp:   | :100:               | [Link](Regions/Japan/T-26106G/README.md)       |
-| Pup-Breeder                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29301G/01/README.md)    |
-| Puyo Puyo Sun                                | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-6603G/01/README.md)     |
-| Puyo Puyo Sun for SegaNet                    | :jp:   | :question:          | TODO                                           |
-| Puyo Puyo Tsuu                               | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-6601G/01/README.md)     |
-| Puzzle Bobble 2X                             | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1106G/README.md)        |
-| Puzzle Bobble 3 (1M)                         | :jp:   | :question:          | TODO (Recorded)                                |
-| Puzzle Bobble 3 (2M)                         | :jp:   | :question:          | TODO                                           |
-| Puzzle Bobble 3 for SegaNet                  | :jp:   | :question:          | TODO                                           |
-| Puzzle & Action: 2do Arukoto ha Sand-R       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-6802G/01/README.md)     |
-| Pyon Pyon Kyaruru no Mahjong Hiyori          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-31101G/01/README.md)    |
+| Name                                                  | Region | Status              | Details                                        |
+| ----------------------------------------------------- | ------ | ------------------- | ---------------------------------------------- |
+| Pacific Theater of Operations II                      | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7604H/01/README.md)       |
+| PD Ultraman Link                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-13304G/01/README.md)    |
+| PGA Tour 97                                           | :eu:   |                     | TODO                                           |
+| PGA Tour 97                                           | :jp:   | :question:          | TODO                                           |
+| PGA Tour 97                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5011H/01/README.md)       |
+| Pachi-Slot Kanzen Kouryaku Uni-Colle'97               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-36501G/01/README.md)    |
+| Pachinko Hall Shinsou Daikaiten                       | :jp:   | :x:                 | [Link](Regions/Japan/T-37501G/01/README.md)    |
+| Pandemonium!                                          | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-8109050/01/README.md) |
+| Pandemonium!                                          | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-15914H/01/README.md)      |
+| Paneltia Story: Karen no Daibouken                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21510G/01/README.md)    |
+| Panic Chan                                            | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-15010G/01/README.md)    |
+| Panzer Dragoon                                        | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81009/01/README.md)   |
+| Panzer Dragoon                                        | :jp:   | :minidisc: 4x       | [Link](Regions/Japan/GS-9015/01/README.md)     |
+| Panzer Dragoon                                        | :us:   | :minidisc: 2x       | [Link](Regions/USA/MK-81009/README.md)         |
+| Panzer Dragoon II Zwei                                | :eu:   | :question:          | TODO                                           |
+| Panzer Dragoon II Zwei                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9049/01/README.md)     |
+| Panzer Dragoon II Zwei                                | :us:   | :100:               | [Link](Regions/USA/MK-81022/README.md)         |
+| Panzer Dragoon Saga (Disc 1)                          | :eu:   | :question:          | TODO                                           |
+| Panzer Dragoon Saga (Disc 2)                          | :eu:   | :question:          | TODO                                           |
+| Panzer Dragoon Saga (Disc 3)                          | :eu:   | :question:          | TODO                                           |
+| Panzer Dragoon Saga (Disc 4)                          | :eu:   | :question:          | TODO                                           |
+| Panzer Dragoon Saga (USA)                             | :us:   | :cd: 4x             | [Link](Regions/USA/MK-81307/01/README.md)      |
+| Pappara Paoon                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/23201G/01/README.md)      |
+| Pastel Muses                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30602G/01/README.md)    |
+| Pebble Beach Golf Links (3S)                          | :eu:   | :question:          | TODO                                           |
+| Pebble Beach Golf Links (4S)                          | :eu:   | :question:          | TODO                                           |
+| Pebble Beach Golf Links                               | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81101/01/README.md)      |
+| Pebble Beach Golf Links - Stadler ni Chousen          | :jp:   | :question:          | TODO                                           |
+| Phantasm                                              | :jp:   | :cd: 8x             | [Link](Regions/Japan/T-36001G/01/README.md)    |
+| Photo Genic                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1524G/01/README.md)     |
+| Pia Carrot e Youkoso!!                                | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-19708G/01/README.md)    |
+| Pia Carrot e Youkoso!! 2                              | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-20114G/01/README.md)    |
+| Pict Flash Dondon                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-17811G/01/README.md)    |
+| Pinball Graffiti                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-6011H-50/01/README.md) |
+| Pinball Graffiti                                      | :jp:   | :question:          | TODO                                           |
+| Planet Joker                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18711G/01/README.md)    |
+| Playboy Karaoke Collection Volume 1                   | :jp:   | :100:               | [Link](Regions/Japan/T-2305G/01/README.md)     |
+| Playboy Karaoke Collection Volume 2                   | :jp:   | :100:               | [Link](Regions/Japan/T-2304G/01/README.md)     |
+| Pocket Fighter                                        | :jp:   | :100:               | [Link](Regions/Japan/T-1230G/README.md)        |
+| Policenauts                                           | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-9510G/01/README.md)     |
+| Popoitto Hebereke                                     | :jp:   | :100:               | [Link](Regions/Japan/T-1504G/README.md)        |
+| Powerslave                                            | :us:   | :question:          | TODO                                           |
+| PriCla Daisakusen                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14409G/01/README.md)    |
+| Primal Rage                                           | :eu:   | :100:               | [Link](Regions/Europe/T-4802H-50/README.md)    |
+| Primal Rage                                           | :jp:   | :question:          | TODO                                           |
+| Primal Rage                                           | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-4802H/01/README.md)       |
+| Princess Crown                                        | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-14418G/01/README.md)    |
+| Princess Maker: Yumemiru Yousei                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-35101G/01/README.md)    |
+| Princess Maker 2                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-5201G/01/README.md)     |
+| Princess Quest                                        | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-24604G/01/README.md)    |
+| Prisoner of Ice: Jashin Kourin                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-26112G/01/README.md)    |
+| Private Idol Disc: Data-hen: Race Queen F             | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30805G/01/README.md)    |
+| Private Idol Disc: Data-hen: Race Queen G             | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30806G/01/README.md)    |
+| Private Idol Disc: Tokubetsu-hen: Can Gal '97         | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30808G/01/README.md)    |
+| Private Idol Disc: Tokubetsu-hen: Cosplayers          | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30804G/01/README.md)    |
+| Private Idol Disc: Tokubetsu-hen: Kogal Daihyakka 100 | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30807G/01/README.md)    |
+| Private Idol Disc Vol. 1: Yuu Kinoshita               | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30801G/01/README.md)    |
+| Private Idol Disc Vol. 2: Miki Uchiyama               | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30802G/01/README.md)    |
+| Private Idol Disc Vol. 3: Akemi Ooshima               | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30803G/01/README.md)    |
+| Private Idol Disc Vol. 4: Mirei Kuroda                | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30809G/01/README.md)    |
+| Private Idol Disc Vol. 5: Nanako Fujisaki             | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30811G/01/README.md)    |
+| Private Idol Disc Vol. 6: Satomi Yoshida              | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30813G/01/README.md)    |
+| Private Idol Disc Vol. 7: Kaori Asou                  | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30814G/01/README.md)    |
+| Private Idol Disc Vol. 8: Emiko Furukawa              | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30815G/01/README.md)    |
+| Private Idol Disc Vol. 9: Keiko Nagamatsu             | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30816G/01/README.md)    |
+| Private Idol Disc Vol. 10: Mai Masaki                 | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30817G/01/README.md)    |
+| Private Idol Disc Vol. 11: Mayumi Hirose              | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-30818G/01/README.md)    |
+| Pro Mahjong Kiwame S                                  | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-16801G/01/README.md)    |
+| Pro Shinan Mahjong "Tsuwamono"                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-38501G/01/README.md)    |
+| Pro Yakyuu Greatest Nine 97                           | :jp:   | :minidisc: 2x:      | [Link](Regions/Japan/GS-9139/01/README.md)     |
+| Pro Yakyuu Greatest Nine 97 Make Miracle              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9171/01/README.md)     |
+| Pro Yakyuu Greatest Nine 98                           | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9185/01/README.md)     |
+| Pro Yakyuu Greatest Nine 98 Summer Action             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9202/01/README.md)     |
+| Pro Yakyuu Team mo Tsukurou!                          | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9165/01/README.md)     |
+| Pro-Pinball: The Web                                  | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-12520H/01/README.md)      |
+| Pro-Pinball: The Web                                  | :eu:   | :question:          | TODO                                           |
+| Pu-Li-Ru-La/Arcade Gears                              | :jp:   | :100:               | [Link](Regions/Japan/T-26106G/README.md)       |
+| Pup-Breeder                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29301G/01/README.md)    |
+| Puyo Puyo Sun                                         | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-6603G/01/README.md)     |
+| Puyo Puyo Sun for SegaNet                             | :jp:   | :question:          | TODO                                           |
+| Puyo Puyo Tsuu                                        | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-6601G/01/README.md)     |
+| Puzzle Bobble 2X                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1106G/README.md)        |
+| Puzzle Bobble 3 (1M)                                  | :jp:   | :question:          | TODO (Recorded)                                |
+| Puzzle Bobble 3 (2M)                                  | :jp:   | :question:          | TODO                                           |
+| Puzzle Bobble 3 for SegaNet                           | :jp:   | :question:          | TODO                                           |
+| Puzzle & Action: 2do Arukoto ha Sand-R                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-6802G/01/README.md)     |
+| Pyon Pyon Kyaruru no Mahjong Hiyori                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-31101G/01/README.md)    |
 
 ### Q
 
@@ -1619,67 +1636,80 @@ Other links related to SAROO:
 
 ### V
 
-| Name                                        | Region | Status                               | Details                                        |
-| ------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------- |
-| VR Golf '97                                 | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-12518H/01/README.md)      |
-| VR Soccer                                   | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-12517H/01/README.md)      |
-| Valora Valley Golf                          | :eu:   |                                      | TODO                                           |
-| Valora Valley Golf                          | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-2303H/01/README.md)       |
-| Vampire Hunter: Darkstalkers' Revenge       | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/T-1202G/01/README.md)     |
-| Vampire Savior: The Lord of Vampire         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1229G/01/README.md)     |
-| Vandal Hearts - Ushinawareta Kodai Bunmei   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9526G/01/README.md)     |
-| Vatlva                                      | :jp:   | :100:                                | [Link](Regions/Japan/T-31501G/README.md)       |
-| Victory Boxing                              | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-6005H-50/01/README.md) |
-| Victory Goal                                | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9002/01/README.md)     |
-| Victory Goal Worldwide Edition              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9112/01/README.md)     |
-| Virtua Cop                                  | :eu:   | :minidisc: 4x                        | [Link](Regions/Europe/MK-81015/README.md)      |
-| Virtua Cop                                  | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9060/README.md)        |
-| Virtua Cop                                  | :us:   | :minidisc: 3x                        | [Link](Regions/USA/MK-81015/README.md)         |
-| Virtua Cop 2                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81043/README.md)      |
-| Virtua Cop 2                                | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9097/README.md)        |
-| Virtua Cop 2                                | :us:   | :100:                                | [Link](Regions/USA/MK-81043/README.md)         |
-| Virtua Fighter (Made in EU)                 | :eu:   | :question:                           | TODO                                           |
-| Virtua Fighter (Made in USA)                | :eu:   | :question:                           | TODO                                           |
-| Virtua Fighter                              | :jp:   | :question:                           | TODO                                           |
-| Virtua Fighter                              | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/USA/MK-81005/README.md)         |
-| Virtua Fighter 2 (Made in EU)               | :eu:   | :question:                           | TODO                                           |
-| Virtua Fighter 2 (Made in USA)              | :eu:   | :question:                           | TODO                                           |
-| Virtua Fighter 2 (Rev A) (Made in EU)       | :eu:   | :question:                           | TODO                                           |
-| Virtua Fighter 2 (Rev A) (Made in USA)      | :eu:   | :question:                           | TODO                                           |
-| Virtua Fighter 2                            | :jp:   | :minidisc: 6x                        | [Link](Regions/Japan/GS-9079/README.md)        |
-| Virtua Fighter 2                            | :kr:   | :question:                           | TODO                                           |
-| Virtua Fighter 2                            | :us:   | :minidisc: 2x                        | [Link](Regions/USA/MK-81014/README.md)         |
-| Virtua Fighter Kids                         | :eu:   | :question:                           | TODO                                           |
-| Virtua Fighter Kids                         | :jp:   | :100:                                | [Link](Regions/Japan/GS-9098/README.md)        |
-| Virtua Fighter Kids                         | :kr:   | :question:                           | TODO                                           |
-| Virtua Fighter Kids                         | :us:   | :100:                                | [Link](Regions/USA/MK-81049/README.md)         |
-| Virtua Fighter Remix                        | :eu:   | :question:                           | TODO                                           |
-| Virtua Fighter Remix                        | :jp:   | :minidisc: 4x                        | [Link](Regions/Japan/GS-9039/README.md)        |
-| Virtua Fighter Remix                        | :kr:   | :question:                           | TODO                                           |
-| Virtua Fighter Remix                        | :us:   | :100:                                | [Link](Regions/USA/MK-81023/README.md)         |
-| Virtua Photo Studio - Cameraman Simulation  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-8103G/01/README.md)     |
-| Virtua Racing                               | :eu:   | :question:                           | TODO                                           |
-| Virtua Racing                               | :jp:   | :question:                           | TODO                                           |
-| Virtua Racing                               | :us:   | :minidisc: 2x                        | [Link](Regions/USA/T-4801H/01/README.md)       |
-| Virtuacall S                                | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-19718G/README.md)       |
-| Virtual Casino                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-27301G/01/README.md)    |
-| Virtual Casino                              | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-31102H/01/README.md)      |
-| Virtual Golf                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-11506H50/01/README.md) |
-| Virtual Hydlide                             | :eu:   | :question:                           | TODO                                           |
-| Virtual Hydlide                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9012/01/README.md)     |
-| Virtual Hydlide                             | :us:   | :minidisc: 2x                        | [Link](Regions/USA/T-14401H/01/README.md)      |
-| Virtual Kyoutei                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7101G/01/README.md)     |
-| Virtual Kyoutei 2                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7104G/01/README.md)     |
-| Virtual Mahjong                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-2206G/01/README.md)     |
-| Virtual On: Cyber Troopers                  | :us:   | :x:                                  | [Link](Regions/USA/MK-81042/README.md)         |
-| Virtual On: Cyber Troopers Net Link Edition | :us:   | :x:                                  | [Link](Regions/USA/MK-81072/01/README.md)      |
-| Virtual Open Tennis                         | :eu:   | TODO                                 | TODO                                           |
-| Virtual Open Tennis                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-15007G/01/README.md)    |
-| Virtual Open Tennis                         | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8129H/01/README.md)       |
-| Virtual Volleyball                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-15005G/01/README.md)    |
-| Virus                                       | :jp:   | :cd: 3x                              | [Link](Regions/Japan/T-14304G/01/README.md)    |
-| Voice Fantasia S: Ushinawareta Voice Power  | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-16706G/README.md)       |
-| Voice Idol Maniacs - Pool Bar Story         | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-1312G/01/README.md)     |
+| Name                                                    | Region | Status                               | Details                                        |
+| ------------------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------- |
+| VR Golf '97                                             | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-12518H/01/README.md)      |
+| VR Soccer                                               | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-12517H/01/README.md)      |
+| Valora Valley Golf                                      | :eu:   |                                      | TODO                                           |
+| Valora Valley Golf                                      | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-2303H/01/README.md)       |
+| Vampire Hunter: Darkstalkers' Revenge                   | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/T-1202G/01/README.md)     |
+| Vampire Savior: The Lord of Vampire                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1229G/01/README.md)     |
+| Vandal Hearts - Ushinawareta Kodai Bunmei               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9526G/01/README.md)     |
+| Vatlva                                                  | :jp:   | :100:                                | [Link](Regions/Japan/T-31501G/README.md)       |
+| Victory Boxing                                          | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-6005H-50/01/README.md) |
+| Victory Goal                                            | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9002/01/README.md)     |
+| Victory Goal Worldwide Edition                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9112/01/README.md)     |
+| Virtua Cop                                              | :eu:   | :minidisc: 4x                        | [Link](Regions/Europe/MK-81015/README.md)      |
+| Virtua Cop                                              | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9060/README.md)        |
+| Virtua Cop                                              | :us:   | :minidisc: 3x                        | [Link](Regions/USA/MK-81015/README.md)         |
+| Virtua Cop 2                                            | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81043/README.md)      |
+| Virtua Cop 2                                            | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9097/README.md)        |
+| Virtua Cop 2                                            | :us:   | :100:                                | [Link](Regions/USA/MK-81043/README.md)         |
+| Virtua Fighter (Made in EU)                             | :eu:   | :question:                           | TODO                                           |
+| Virtua Fighter (Made in USA)                            | :eu:   | :question:                           | TODO                                           |
+| Virtua Fighter                                          | :jp:   | :question:                           | TODO                                           |
+| Virtua Fighter                                          | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/USA/MK-81005/README.md)         |
+| Virtua Fighter 2 (Made in EU)                           | :eu:   | :question:                           | TODO                                           |
+| Virtua Fighter 2 (Made in USA)                          | :eu:   | :question:                           | TODO                                           |
+| Virtua Fighter 2 (Rev A) (Made in EU)                   | :eu:   | :question:                           | TODO                                           |
+| Virtua Fighter 2 (Rev A) (Made in USA)                  | :eu:   | :question:                           | TODO                                           |
+| Virtua Fighter 2                                        | :jp:   | :minidisc: 6x                        | [Link](Regions/Japan/GS-9079/README.md)        |
+| Virtua Fighter 2                                        | :kr:   | :question:                           | TODO                                           |
+| Virtua Fighter 2                                        | :us:   | :minidisc: 2x                        | [Link](Regions/USA/MK-81014/README.md)         |
+| Virtua Fighter CG portrait Collection                   | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/610-6083/01/README.md)   |
+| Virtua Fighter CG portrait Collection                   | :jp:   | :question:                           | TODO                                           |
+| Virtua Fighter CG portrait Series The Final Dural       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9073/01/README.md)     |
+| Virtua Fighter CG portrait Series Vol. 1 Sarah Bryant   | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9062/README.md)        |
+| Virtua Fighter CG portrait Series Vol. 2 Jacky Bryant   | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/GS-9064/README.md)        |
+| Virtua Fighter CG portrait Series Vol. 3 Akira Yuki     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9065/01/README.md)     |
+| Virtua Fighter CG portrait Series Vol. 4 Pai Chan       | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9066/01/README.md)     |
+| Virtua Fighter CG portrait Series Vol. 5 Wolf Hawkfield | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9068/01/README.md)     |
+| Virtua Fighter CG portrait Series Vol. 6 Lau Chan       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9069/01/README.md)     |
+| Virtua Fighter CG portrait Series Vol. 7 Shun Di        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9070/01/README.md)     |
+| Virtua Fighter CG portrait Series Vol. 8 Lion Rafale    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9071/01/README.md)     |
+| Virtua Fighter CG portrait Series Vol. 9 Kage Maru      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9067/01/README.md)     |
+| Virtua Fighter CG portrait Series Vol. 10 Jeffry McWild | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9072/01/README.md)     |
+| Virtua Fighter Kids                                     | :eu:   | :question:                           | TODO                                           |
+| Virtua Fighter Kids                                     | :jp:   | :100:                                | [Link](Regions/Japan/GS-9098/README.md)        |
+| Virtua Fighter Kids                                     | :kr:   | :question:                           | TODO                                           |
+| Virtua Fighter Kids                                     | :us:   | :100:                                | [Link](Regions/USA/MK-81049/README.md)         |
+| Virtua Fighter Remix                                    | :eu:   | :question:                           | TODO                                           |
+| Virtua Fighter Remix                                    | :jp:   | :minidisc: 4x                        | [Link](Regions/Japan/GS-9039/README.md)        |
+| Virtua Fighter Remix                                    | :kr:   | :question:                           | TODO                                           |
+| Virtua Fighter Remix                                    | :us:   | :100:                                | [Link](Regions/USA/MK-81023/README.md)         |
+| Virtua Photo Studio - Cameraman Simulation              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-8103G/01/README.md)     |
+| Virtua Racing                                           | :eu:   | :question:                           | TODO                                           |
+| Virtua Racing                                           | :jp:   | :question:                           | TODO                                           |
+| Virtua Racing                                           | :us:   | :minidisc: 2x                        | [Link](Regions/USA/T-4801H/01/README.md)       |
+| Virtuacall S                                            | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-19718G/README.md)       |
+| Virtual Casino                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-27301G/01/README.md)    |
+| Virtual Casino                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-31102H/01/README.md)      |
+| Virtual Golf                                            | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-11506H50/01/README.md) |
+| Virtual Hydlide                                         | :eu:   | :question:                           | TODO                                           |
+| Virtual Hydlide                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9012/01/README.md)     |
+| Virtual Hydlide                                         | :us:   | :minidisc: 2x                        | [Link](Regions/USA/T-14401H/01/README.md)      |
+| Virtual Kyoutei                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7101G/01/README.md)     |
+| Virtual Kyoutei 2                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7104G/01/README.md)     |
+| Virtual Mahjong                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-2206G/01/README.md)     |
+| Virtual On: Cyber Troopers                              | :us:   | :x:                                  | [Link](Regions/USA/MK-81042/README.md)         |
+| Virtual On: Cyber Troopers Net Link Edition             | :us:   | :x:                                  | [Link](Regions/USA/MK-81072/01/README.md)      |
+| Virtual Open Tennis                                     | :eu:   | TODO                                 | TODO                                           |
+| Virtual Open Tennis                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-15007G/01/README.md)    |
+| Virtual Open Tennis                                     | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8129H/01/README.md)       |
+| Virtual Volleyball                                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-15005G/01/README.md)    |
+| Virus                                                   | :jp:   | :cd: 3x                              | [Link](Regions/Japan/T-14304G/01/README.md)    |
+| Voice Fantasia S: Ushinawareta Voice Power              | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-16706G/README.md)       |
+| Voice Idol Maniacs - Pool Bar Story                     | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-1312G/01/README.md)     |
 
 ### W
 
