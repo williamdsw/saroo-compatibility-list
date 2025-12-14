@@ -1912,3 +1912,36 @@ Other links related to SAROO:
 | Zoku Hatsukoi Monogatari - Shuugaku Ryokou      | :jp:   | :cd: 4x                              | [Link](Regions/Japan/T-33005G/01/README.md)    |
 | Zoop                                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-26406G/01/README.md)    |
 | Zork I - The Great Underground Empire           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21502G/01/README.md)    |
+
+## Romhacks / Patches
+
+| Name                                                 | Status             | Details                                                      |
+| ---------------------------------------------------- | ------------------ | ------------------------------------------------------------ |
+| Akumajou Dracula X: Gekka no Yasoukyoku - 4M Hack    | :x:                | [Link](Regions/Romhacks/T-9527G/4MB_YZB/01/README.md)        |
+| Blast Wind - English Translation                     | :heavy_check_mark: | [Link](Regions/Romhacks/T-1810G/01/README.md)                |
+| Dracula X Nocturne in the Moonlight: Extended        | :heavy_check_mark: | [Link](Regions/Romhacks/T-9527G/DRACULAX_EXTENDED/README.md) |
+| Logic Puzzle Rainbow Town - English Patch            | :heavy_check_mark: | [Link](Regions/Romhacks/T-4303G/01/README.md)                |
+| Radiant Silvergun EXTREME                            | :heavy_check_mark: | [Link](Regions/Romhacks/T-32902G/01/README.md)               |
+| Saturn Bomberman Fight!! - English Patch             | :heavy_check_mark: | [Link](Regions/Romhacks/T-14321G/01/README.md)               |
+| Sega Worldwide Soccer '23                            | :heavy_check_mark: | [Link](Regions/Romhacks/MK-81123/01/README.md)               |
+| Silhouette Mirage - English Patch                    | :x:                | [Link](Regions/Romhacks/T-32901G/01/README.md)               |
+| Tactics Ogre: Lets Us Cling Together - English Patch | :heavy_check_mark: | [Link](Regions/Romhacks/T-5306G/01/README.md)                |
+
+## Homebrews
+
+| Name                                  | Status             | Details                                                              |
+| ------------------------------------- | ------------------ | -------------------------------------------------------------------- |
+| Birdcage of Horrors                   | :cd: 12x           | [Link](Regions/Homebrews/999999999/BIRDCAGE_OF_HORRORS/01/README.md) |
+| Blue Skies                            | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/BLUE_SKIES/01/README.md)              |
+| Cold Case                             | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/COLD_CASE/01/README.md)               |
+| Cubecat                               | :heavy_check_mark: | [Link](Regions/Homebrews/T-060680/CUBECAT/01/README.md)              |
+| IRRÉEL                                | :heavy_check_mark: | [Link](Regions/Homebrews/T-060666/IRREEL/01/README.md)               |
+| Maria Renard's Revenge                | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/MARIA_RENARD_REVENGE/01/README.md)    |
+| Pixel Poppy Pong!                     | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/PIXEL_POPPY_PONG/01/README.md)        |
+| Pseudo Saturn Kai - Save Manager Tool | :heavy_check_mark: | [Link](Regions/Homebrews/T-042G/01/README.md)                        |
+| SBL Cinepak Demo 8 Test               | :x:                | [Link](Regions/Homebrews/999999999/SBL_CINEPAK_DEMO_8/01/README.md)  |
+| Sky Blaster                           | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/SKY_BLASTER/01/README.md)             |
+| Slide Hop                             | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/SLIDE_HOP/01/README.md)               |
+| Sonic X-Treme (homebrew version)      | :heavy_check_mark: | [Link](Regions/Homebrews/MINESWPR/SONIC_XTREME/01/README.md)         |
+| Utenyaa~                              | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/UTENYAA/01/README.md)                 |
+| X-Men Arcade                          | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/XMEN_ARCADE/README.md)                |

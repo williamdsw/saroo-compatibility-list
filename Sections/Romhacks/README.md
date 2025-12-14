@@ -6,6 +6,8 @@
 
 ### 9 Games
 
+### Romhacks/Patches
+
 - [Akumajou Dracula X: Gekka no Yasoukyoku (4M Hack)](../../Regions/Romhacks/T-9527G/4MB_YZB/01/README.md)
 - [Blast Wind (English Translation)](../../Regions/Romhacks/T-1810G/01/README.md)
 - [Dracula X Nocturne in the Moonlight: Extended](../../Regions/Romhacks/T-9527G/DRACULAX_EXTENDED/README.md)

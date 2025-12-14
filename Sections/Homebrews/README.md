@@ -6,6 +6,10 @@
 
 ### 14 Games
 
+| Name      | Region | Status             | Details                                    |
+| --------- | ------ | ------------------ | ------------------------------------------ |
+| 2Tax Gold | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-4305G/01/README.md) |
+
 - [Birdcage of Horrors](../../Regions/Homebrews/999999999/BIRDCAGE_OF_HORRORS/01/README.md)
 - [Blue Skies](../../Regions/Homebrews/EMPTY/BLUE_SKIES/01/README.md)
 - [Cold Case](../../Regions/Homebrews/EMPTY/COLD_CASE/01/README.md)
