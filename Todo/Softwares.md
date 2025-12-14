@@ -9,7 +9,7 @@
 - SegaSaturn Internet 2 (Japan) - TODO
 - SegaSaturn Internet Vol. 1 (Japan) - TODO
 - SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version) - TODO
-- SegaSaturn Photo CD Operator (Japan) (Rev A) - TODO
-- SegaSaturn Photo CD Operator (Japan) - TODO
+- SegaSaturn Photo CD Operator (Japan) (Rev A) - TODO (Recorded)
+- SegaSaturn Photo CD Operator (Japan) - TODO (Recorded)
 - SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan) - TODO
 - Special Disc with SegaSaturn Internet 2 (Japan) - TODO

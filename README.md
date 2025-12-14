@@ -25,7 +25,7 @@ Other links related to SAROO:
 <!-- ### Games -->
 
 <!-- - Compilations - [List](Sections/Compilations/README.md) | [Table](Tables/Compilations/README.md)
-- [Demos](Sections/Demos/en-us/README.md)
+- [Demos](Sections/en-us/README.md)
 - Digital Museums / Galleries - [List](Sections/Digitals/README.md) | [Table](Tables/Digitals/README.md)
 - [Miscellaneous Software](Sections/Softwares/README.md)
 - [Homebrews](Sections/Homebrews/README.md)
@@ -107,6 +107,7 @@ Other links related to SAROO:
 | Alien Trilogy (Beta) (1996-07-23)                                     | :eu:   | :heavy_check_mark: | [Link](Regions/Europe/T-99901G__BETA/README.md) |
 | Alien Trilogy                                                         | :de:   | :question:         | TODO                                            |
 | Alien Trilogy                                                         | :jp:   | :question:         | TODO                                            |
+| Alien Trilogy (Demo)                                                  | :jp:   | :question:         | TODO                                            |
 | Alien Trilogy                                                         | :us:   | :heavy_check_mark: | [Link](Regions/USA/T-8113H/01/README.md)        |
 | All-Star Baseball 1997 Featuring Frank Thomas                         | :us:   | :heavy_check_mark: | [Link](Regions/USA/T-8150H/01/README.md)        |
 | Alone in the Dark: Jack Is Back                                       | :eu:   | :question:         | TODO                                            |
@@ -156,11 +157,12 @@ Other links related to SAROO:
 | Ayakashi Ninden Kunoichiban Plus                                      | :jp:   | :cd: 2x            | [Link](Regions/Japan/T-21512G/01/README.md)     |
 | Ayrton Senna Personal Talk: Message for the Future                    | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/GS-9020/01/README.md)      |
 | Azel: Panzer Dragoon RPG                                              | :jp:   | :cd: 4x            | [Link](Regions/Japan/GS-9076/01/README.md)      |
+| Azel: Panzer Dragoon RPG (Demo)                                       | :jp:   | :question:         | TODO                                            |
 
 ### B
 
 | Name                                                                     | Region | Status                               | Details                                            |
-| ------------------------------------------------------------------------ | ------ | ------------------------------------ | -------------------------------------------------- | ---- |
+| ------------------------------------------------------------------------ | ------ | ------------------------------------ | -------------------------------------------------- |
 | BackGuiner: Yomigaeru Yuusha-tachi: Hishou-hen Uragiri no Senjou         | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-19907G/01/README.md)        |
 | BackGuiner: Yomigaeru Yuusha-tachi: Kakusei-hen Guiner Tensei            | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-19906G/01/README.md)        |
 | Baku Baku Animal - Sekai Shiiku Gakari Senshuken                         | :jp:   | :question:                           | TODO                                               |
@@ -172,6 +174,7 @@ Other links related to SAROO:
 | Bakushou!! All Yoshimoto Quiz-ou Kettei-sen DX                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20001G/01/README.md)        |
 | Baldy Land                                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20608G/01/README.md)        |
 | Baroque                                                                  | :jp:   | :x:                                  | [Link](Regions/Japan/T-33901G/01/README.md)        |
+| Baroque Report CD Data File                                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/6106848__DEMO/01/README.md)   |
 | Bases Loaded '96: Double Header                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5703H/01/README.md)           |
 | Batman Forever: The Arcade Game                                          | :eu:   | :question:                           | TODO                                               |
 | Batman Forever: The Arcade Game                                          | :jp:   | :question:                           | TODO                                               |
@@ -220,10 +223,17 @@ Other links related to SAROO:
 | Blazing Heroes                                                           | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81303/01/README.md)          |
 | Blood Factory                                                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-12504G/01/README.md)        |
 | Blue Breaker - Ken yori mo Hohoemi o                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-4315G/01/README.md)         |
+| Blue Breaker - Ken yori mo Hohoemi o (Demo)                              | :jp:   | :question:                           | TODO                                               |
+| Blue Seed: Kushinada Hirokuden                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9014__DEMO/01/README.md)   |
 | Body Special 264: Girls in Motion Puzzle Vol. 2                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21003G/01/README.md)        |
+| Body Special 264: Girls in Motion Puzzle Vol. 2 (Demo)                   | :jp:   | :question:                           | TODO                                               |
 | Bomberman Wars                                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14320G/01/README.md)        |
+| Bootleg Sampler (Made in EU, Made in J)                                  | :eu:   | :question:                           | TODO                                               |
+| Bootleg Sampler (Made in U)                                              | :eu:   | :question:                           | TODO                                               |
+| Bootleg Sampler                                                          | :us:   | :minidisc: 5x                        | [Link](Regions/USA/MK-81031__DEMO/01/README.md)    |
 | Bottom of the 9th                                                        | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-9505H/01/README.md)           |
 | Bouken Katsugeki Mono Mono                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21508G/01/README.md)        |
+| Bouken Katsugeki Mono Mono (Demo)                                        | :jp:   | :question:                           | TODO                                               |
 | Brain Battle Q                                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-25701G/01/README.md)        |
 | BrainDead 13                                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7305G/01/README.md)         |
 | BrainDead 13                                                             | :us:   | :x:                                  | [Link](Regions/USA/T-12103H/01/README.md)          |
@@ -231,7 +241,7 @@ Other links related to SAROO:
 | Break Point                                                              | :jp:   | :question:                           | TODO                                               |
 | Break Point Tennis                                                       | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8145H/01/README.md)           |
 | BreakThru!                                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21501G/01/README.md)        |
-| Bubble Bobble also featuring Rainbow Islands                             | :eu:   | :question:                           |                                                    | TODO |
+| Bubble Bobble also featuring Rainbow Islands                             | :eu:   | :question:                           | TODO                                               |
 | Bubble Bobble also featuring Rainbow Islands                             | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8131H/01/README.md)           |
 | Bubble Symphony                                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-19905G/01/README.md)        |
 | Bug Too!                                                                 | :eu:   | :question:                           | TODO                                               |
@@ -239,11 +249,14 @@ Other links related to SAROO:
 | Bug Too!                                                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9128/01/README.md)         |
 | Bug!                                                                     | :eu:   | :hammer_and_wrench:                  | [Link](Regions/Europe/MK-81004/01/README.md)       |
 | Bug!                                                                     | :us:   | :minidisc: 2x                        | [Link](Regions/USA/GM-81004/README.md)             |
+| Bug! (Demo) (1S)                                                         | :us:   | :question:                           | TODO                                               |
+| Bug! (Demo) (3S)                                                         | :us:   | :question:                           | TODO                                               |
 | Bug! Jump Shite, Funzukechatte, Petchanko                                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/GS-9063/01/README.md)         |
 | Bulk Slash                                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14310G/01/README.md)        |
 | Burning Rangers                                                          | :eu:   | :question:                           | TODO                                               |
 | Burning Rangers                                                          | :jp:   | :question:                           | TODO                                               |
 | Burning Rangers (Beta) (1997-12-01)                                      | :jp:   | :x:                                  | [Link](Regions/Japan/GS-XXXX__BETA/README.md)      |
+| Burning Rangers (Demo)                                                   | :jp:   | :question:                           | TODO                                               |
 | Burning Rangers (Proto)                                                  | :jp:   | :question:                           | TODO                                               |
 | Burning Rangers                                                          | :us:   | :hammer_and_wrench:                  | [Link](Regions/USA/MK-81803/README.md)             |
 | Bust-A-Move 2: Arcade Edition                                            | :eu:   | :100:                                | [Link](Regions/Europe/T-8132H-50/README.md)        |
@@ -253,240 +266,258 @@ Other links related to SAROO:
 
 ### C
 
-| Name                                                             | Region | Status              | Details                                          |
-| ---------------------------------------------------------------- | ------ | ------------------- | ------------------------------------------------ |
-| Can Can Bunny Extra                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19706G/01/README.md)      |
-| Can Can Bunny Premiere                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19701G/01/README.md)      |
-| Can Can Bunny Premiere 2                                         | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-19703G/01/README.md)      |
-| Capcom Generation: Dai-1-shuu Gekitsuiou no Jidai                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1232G/01/README.md)       |
-| Capcom Generation: Dai-2-shuu Makai to Kishi                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1233G/01/README.md)       |
-| Capcom Generation: Dai-3-shuu Koko ni Rekishi Hajimaru           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1234G/01/README.md)       |
-| Capcom Generation: Dai-4-shuu Kokou no Eiyuu                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1235G/01/README.md)       |
-| Capcom Generation: Dai-5-shuu Kakutouka-tachi                    | :jp:   | :100:               | [Link](Regions/Japan/T-1236G/README.md)          |
-| Casper                                                           | :eu:   | :question:          | TODO                                             |
-| Casper                                                           | :jp:   | :question:          | TODO                                             |
-| Casper                                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-12512H/01/README.md)        |
-| Cat the Ripper: 13Ninme no Tanteishi                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-35701G/01/README.md)      |
-| Center Ring Boxing                                               | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-6005H/01/README.md)         |
-| Chaos Control                                                    | :eu:   | :100:               | [Link](Regions/Europe/T-15102H/README.md)        |
-| Chaos Control (Beta) (1996-05-29)                                | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-15102H__BETA/README.md)  |
-| Chaos Control                                                    | :jp:   | :question:          | TODO                                             |
-| Chaos Control Remix                                              | :jp:   | :100:               | [Link](Regions/Japan/T-7006G/README.md)          |
-| Chibi Maruko-chan no Taisen Puzzle-dama                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9507G/01/README.md)       |
-| Chisato Moritaka: Watarasebashi/Lala Sunshine                    | :jp:   | :cd: 2x             | [Link](Regions/Japan/GS-9172/README.md)          |
-| Choro Q Park                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-10314G/01/README.md)      |
-| Cho Aniki: Kyukyoku ... Otoko no Gyakushu                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2503G/01/README.md)       |
-| Choujikuu Yousai Macross: Ai Oboete Imasu ka                     | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-23403G/01/README.md)      |
-| Christmas NiGHTS into Dreams                                     | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/610-6483/01/README.md)     |
-| Christmas NiGHTS into Dreams                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/610-6431/01/README.md)      |
-| Christmas NiGHTS into Dreams                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81067/01/README.md)        |
-| Civilization: Shin Sekai Shichi Dai Bunmei                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2003G/01/README.md)       |
-| Cleaning Kit for Sega Saturn                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25901H/01/README.md)        |
-| Cleopatra Fortune                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1108G/01/README.md)       |
-| ClockWerx                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-22302G/01/README.md)      |
-| Clockwork Knight: Pepperouchau's Adventure                       | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81007/01/README.md)     |
-| Clockwork Knight: Pepperouchau no Daibouken Gekan                | :jp:   | :question:          | TODO                                             |
-| Clockwork Knight: Pepperouchau no Daibouken Joukan               | :jp:   | :question:          | TODO                                             |
-| Clockwork Knight: Pepperouchau no Fukubukuro                     | :jp:   | :question:          | TODO                                             |
-| TODO - Clockwork Knight: Pepperouchau's Adventure                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81007/01/README.md)        |
-| Clockwork Knight 2: Pepperouchau's Adventure                     | :eu:   | :minidisc: 2x       | [Link](Regions/Europe/MK-81021/01/README.md)     |
-| Clockwork Knight 2: Pepperouchau's Adventure                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81036/01/README.md)        |
-| Clockwork Knight 2: Pepperouchau's Adventure (Beta) (1995-08-30) | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81021__BETA/README.md)     |
-| Clockwork Knight Puzzle: Pengin War (Proto) (1995-10-21)         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9015__BETA/README.md)    |
-| Code R                                                           | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-23502G/README.md)         |
-| College Slam                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8111H/01/README.md)         |
-| Command & Conquer (Disc 1) (GDI)                                 | :eu:   | :question:          | TODO                                             |
-| Command & Conquer (Disc 2) (NOD)                                 | :eu:   | :question:          | TODO                                             |
-| Command & Conquer (Disc 1) (GDI)                                 | :fr:   | :question:          | TODO                                             |
-| Command & Conquer (Disc 2) (NOD)                                 | :fr:   | :question:          | TODO                                             |
-| Command & Conquer (Disc 1) (GDI)                                 | :jp:   | :question:          | TODO                                             |
-| Command & Conquer (Disc 2) (NOD)                                 | :jp:   | :question:          | TODO                                             |
-| Command & Conquer                                                | :us:   | :cd: 2x             | [Link](Regions/USA/T-7028H/01/README.md)         |
-| Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 1) (GDI) | :de:   | :question:          | TODO                                             |
-| Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 2) (NOD) | :de:   | :question:          | TODO                                             |
-| Congo the Movie: The Lost City of Zinj                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81010/01/README.md)        |
-| Contra - Legacy of War                                           | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-9507H/README.md)            |
-| Corpse Killer - Graveyard Edition                                | :us:   | :cd: 2x             | [Link](Regions/USA/T-16201H/01/README.md)        |
-| Cotton 2                                                         | :jp:   | :100:               | [Link](Regions/Japan/T-9904G/README.md)          |
-| Cotton Boomerang                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9906G/01/README.md)       |
-| Courier Crisis                                                   | :eu:   | :question:          | TODO                                             |
-| Courier Crisis                                                   | :jp:   | :question:          | TODO                                             |
-| Courier Crisis                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25415H/01/README.md)        |
-| Creature Shock                                                   | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-1303G/01/README.md)       |
-| Creature Shock - Special Edition                                 | :us:   | :cd: 2x             | [Link](Regions/USA/T-01304H/01/README.md)        |
-| Crimewave                                                        | :eu:   | :question:          | TODO                                             |
-| Crimewave                                                        | :jp:   | :question:          | TODO                                             |
-| Crimewave                                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8807H/01/README.md)         |
-| Crime Patrol (Proto)                                             | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-11102H__PROTO/01/README.md) |
-| Criticom                                                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-2302H/01/README.md)         |
-| Criticom - The Critical Combat                                   | :jp:   | :question:          | TODO                                             |
-| Croc - Legend of the Gobbos                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-5029H-50/01/README.md)   |
-| Croc - Legend of the Gobbos                                      | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-5029H-50/README.md)         |
-| Croc! Pau-Pau Island                                             | :jp:   | :question:          | TODO                                             |
-| Cross Romance - Koi to Mahjong to Hanafuda to                    | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-7103G/README.md)          |
-| Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth         | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-36401G/01/README.md)      |
-| Crows: The Battle Action for SegaSaturn                          | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-16806G/README.md)         |
-| Crusader - No Remorse                                            | :eu:   | :question:          | TODO                                             |
-| Crusader - No Remorse                                            | :fr:   | :question:          | TODO                                             |
-| Crusader - No Remorse                                            | :de:   | :question:          | TODO                                             |
-| Crusader: No Remorse                                             | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5014H/01/README.md)         |
-| Crypt Killer                                                     | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-9509H-50/01/README.md)   |
-| Crypt Killer                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-9509H/01/README.md)         |
-| Cube Battler: Anna Mirai-hen                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21006G/01/README.md)      |
-| Cube Battler: Debugger Shou-hen                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21004G/01/README.md)      |
-| Cubic Gallery                                                    | :jp:   | :x:                 | [Link](Regions/Japan/T-19401G/01/README.md)      |
-| Culdcept                                                         | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-31401G/01/README.md)      |
-| Cyber Doll                                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-22401G/01/README.md)      |
-| Cyber Speedway                                                   | :eu:   | :question:          | TODO                                             |
-| Cyber Speedway                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81204/01/README.md)        |
-| Cyber Troopers Virtual-On                                        | :eu:   | :question:          | TODO                                             |
-| Cyberbots: FullMetal Madness                                     | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1217G/README.md)          |
-| Cyberia                                                          | :eu:   | :question:          | TODO                                             |
-| Cyberia                                                          | :jp:   | :question:          | TODO                                             |
-| Cyberia                                                          | :us:   | :x:                 | [Link](Regions/USA/T-12508H/01/README.md)        |
+| Name                                                             | Region | Status              | Details                                            |
+| ---------------------------------------------------------------- | ------ | ------------------- | -------------------------------------------------- |
+| Can Can Bunny Extra                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19706G/01/README.md)        |
+| Can Can Bunny Premiere                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19701G/01/README.md)        |
+| Can Can Bunny Premiere 2                                         | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-19703G/01/README.md)        |
+| Capcom Generation: Dai-1-shuu Gekitsuiou no Jidai                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1232G/01/README.md)         |
+| Capcom Generation: Dai-2-shuu Makai to Kishi                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1233G/01/README.md)         |
+| Capcom Generation: Dai-3-shuu Koko ni Rekishi Hajimaru           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1234G/01/README.md)         |
+| Capcom Generation: Dai-4-shuu Kokou no Eiyuu                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1235G/01/README.md)         |
+| Capcom Generation: Dai-5-shuu Kakutouka-tachi                    | :jp:   | :100:               | [Link](Regions/Japan/T-1236G/README.md)            |
+| Casper                                                           | :eu:   | :question:          | TODO                                               |
+| Casper                                                           | :jp:   | :question:          | TODO                                               |
+| Casper                                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-12512H/01/README.md)          |
+| Cat the Ripper: 13Ninme no Tanteishi                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-35701G/01/README.md)        |
+| Center Ring Boxing                                               | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-6005H/01/README.md)           |
+| Chaos Control                                                    | :eu:   | :100:               | [Link](Regions/Europe/T-15102H/README.md)          |
+| Chaos Control (Beta) (1996-05-29)                                | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-15102H__BETA/README.md)    |
+| Chaos Control                                                    | :jp:   | :question:          | TODO                                               |
+| Chaos Control Remix                                              | :jp:   | :100:               | [Link](Regions/Japan/T-7006G/README.md)            |
+| Chibi Maruko-chan no Taisen Puzzle-dama                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9507G/01/README.md)         |
+| Chisato Moritaka: Watarasebashi/Lala Sunshine                    | :jp:   | :cd: 2x             | [Link](Regions/Japan/GS-9172/README.md)            |
+| Choro Q Park                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-10314G/01/README.md)        |
+| Cho Aniki: Kyukyoku ... Otoko no Gyakushu                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2503G/01/README.md)         |
+| Choujikuu Yousai Macross: Ai Oboete Imasu ka                     | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-23403G/01/README.md)        |
+| Christmas NiGHTS into Dreams                                     | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/610-6483/01/README.md)       |
+| Christmas NiGHTS into Dreams                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/610-6431/01/README.md)        |
+| Christmas NiGHTS into Dreams                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81067/01/README.md)          |
+| Civilization: Shin Sekai Shichi Dai Bunmei                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2003G/01/README.md)         |
+| Cleaning Kit for Sega Saturn                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25901H/01/README.md)          |
+| Cleopatra Fortune                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1108G/01/README.md)         |
+| ClockWerx                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-22302G/01/README.md)        |
+| Clockwork Knight: Pepperouchau's Adventure                       | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81007/01/README.md)       |
+| Clockwork Knight: Pepperouchau no Daibouken Gekan                | :jp:   | :question:          | TODO                                               |
+| Clockwork Knight: Pepperouchau no Daibouken Joukan               | :jp:   | :question:          | TODO                                               |
+| Clockwork Knight: Pepperouchau no Fukubukuro                     | :jp:   | :question:          | TODO                                               |
+| TODO - Clockwork Knight: Pepperouchau's Adventure                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81007/01/README.md)          |
+| Clockwork Knight 2: Pepperouchau's Adventure                     | :eu:   | :minidisc: 2x       | [Link](Regions/Europe/MK-81021/01/README.md)       |
+| Clockwork Knight 2: Pepperouchau's Adventure                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81036/01/README.md)          |
+| Clockwork Knight 2: Pepperouchau's Adventure (Beta) (1995-08-30) | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81021__BETA/README.md)       |
+| Clockwork Knight Puzzle: Pengin War (Proto) (1995-10-21)         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9015__BETA/README.md)      |
+| Code R                                                           | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-23502G/README.md)           |
+| Code R (Demo)                                                    | :jp:   | :question:          | TODO                                               |
+| College Slam                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8111H/01/README.md)           |
+| Command & Conquer (Disc 1) (GDI)                                 | :eu:   | :question:          | TODO                                               |
+| Command & Conquer (Disc 2) (NOD)                                 | :eu:   | :question:          | TODO                                               |
+| Command & Conquer (Disc 1) (GDI)                                 | :fr:   | :question:          | TODO                                               |
+| Command & Conquer (Disc 2) (NOD)                                 | :fr:   | :question:          | TODO                                               |
+| Command & Conquer (Disc 1) (GDI)                                 | :jp:   | :question:          | TODO                                               |
+| Command & Conquer (Disc 2) (NOD)                                 | :jp:   | :question:          | TODO                                               |
+| Command & Conquer                                                | :us:   | :cd: 2x             | [Link](Regions/USA/T-7028H/01/README.md)           |
+| Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 1) (GDI) | :de:   | :question:          | TODO                                               |
+| Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 2) (NOD) | :de:   | :question:          | TODO                                               |
+| Congo the Movie: The Lost City of Zinj                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81010/01/README.md)          |
+| Contra - Legacy of War                                           | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-9507H/README.md)              |
+| Core Demo Disc                                                   | :eu:   | :x:                 | [Link](Regions/Europe/610-6576__DEMO/01/README.md) |
+| Corpse Killer - Graveyard Edition                                | :us:   | :cd: 2x             | [Link](Regions/USA/T-16201H/01/README.md)          |
+| Cotton 2                                                         | :jp:   | :100:               | [Link](Regions/Japan/T-9904G/README.md)            |
+| Cotton Boomerang                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9906G/01/README.md)         |
+| Courier Crisis                                                   | :eu:   | :question:          | TODO                                               |
+| Courier Crisis                                                   | :jp:   | :question:          | TODO                                               |
+| Courier Crisis                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25415H/01/README.md)          |
+| Creature Shock                                                   | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-1303G/01/README.md)         |
+| Creature Shock - Special Edition                                 | :us:   | :cd: 2x             | [Link](Regions/USA/T-01304H/01/README.md)          |
+| Crimewave                                                        | :eu:   | :question:          | TODO                                               |
+| Crimewave (Demo)                                                 | :eu:   | :question:          | TODO                                               |
+| Crimewave                                                        | :jp:   | :question:          | TODO                                               |
+| Crimewave                                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8807H/01/README.md)           |
+| Crime Patrol (Proto)                                             | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-11102H__PROTO/01/README.md)   |
+| Criticom                                                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-2302H/01/README.md)           |
+| Criticom - The Critical Combat                                   | :jp:   | :question:          | TODO                                               |
+| Croc - Legend of the Gobbos                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-5029H-50/01/README.md)     |
+| Croc - Legend of the Gobbos                                      | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-5029H-50/README.md)           |
+| Croc! Pau-Pau Island                                             | :jp:   | :question:          | TODO                                               |
+| Cross Romance - Koi to Mahjong to Hanafuda to                    | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-7103G/README.md)            |
+| Cross Tantei Monogatari (Demo)                                   | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-36401G__DEMO/01/README.md)  |
+| Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth         | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-36401G/01/README.md)        |
+| Crows: The Battle Action for SegaSaturn                          | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-16806G/README.md)           |
+| Crusader - No Remorse                                            | :eu:   | :question:          | TODO                                               |
+| Crusader - No Remorse                                            | :fr:   | :question:          | TODO                                               |
+| Crusader - No Remorse                                            | :de:   | :question:          | TODO                                               |
+| Crusader: No Remorse                                             | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5014H/01/README.md)           |
+| Crypt Killer                                                     | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-9509H-50/01/README.md)     |
+| Crypt Killer                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-9509H/01/README.md)           |
+| Cube Battler: Anna Mirai-hen                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21006G/01/README.md)        |
+| Cube Battler: Debugger Shou-hen                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21004G/01/README.md)        |
+| Cubic Gallery                                                    | :jp:   | :x:                 | [Link](Regions/Japan/T-19401G/01/README.md)        |
+| Culdcept                                                         | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-31401G/01/README.md)        |
+| Cyber Doll                                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-22401G/01/README.md)        |
+| Cyber Speedway                                                   | :eu:   | :question:          | TODO                                               |
+| Cyber Speedway                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81204/01/README.md)          |
+| Cyber Troopers Virtual-On                                        | :eu:   | :question:          | TODO                                               |
+| Cyberbots: FullMetal Madness                                     | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1217G/README.md)            |
+| Cyberia                                                          | :eu:   | :question:          | TODO                                               |
+| Cyberia                                                          | :jp:   | :question:          | TODO                                               |
+| Cyberia                                                          | :us:   | :x:                 | [Link](Regions/USA/T-12508H/01/README.md)          |
 
 ### D
 
-| Name                                                    | Region | Status              | Details                                            |
-| ------------------------------------------------------- | ------ | ------------------- | -------------------------------------------------- |
-| D (Disc I)                                              | :eu:   | :question:          | TODO                                               |
-| D (Disc II)                                             | :eu:   | :question:          | TODO                                               |
-| D (Disc I)                                              | :fr:   | :question:          | TODO                                               |
-| D (Disc II)                                             | :fr:   | :question:          | TODO                                               |
-| D (Disc I)                                              | :de:   | :question:          | TODO                                               |
-| D (Disc II)                                             | :de:   | :question:          | TODO                                               |
-| D                                                       | :us:   | :cd: 2x             | [Link](Regions/USA/T-8106H/01/README.md)           |
-| D (Beta) (1996-02-05)                                   | :us:   | :cd: 2x             | [Link](Regions/USA/T-8106H__BETA/README.md) - TODO |
-| D no Shokutaku (Disc 1)                                 | :jp:   | :question:          | TODO                                               |
-| D no Shokutaku (Disc 2)                                 | :jp:   | :question:          | TODO                                               |
-| D-Xhird                                                 | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-10307G/01/README.md)        |
-| DJ Wars                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18807G/01/README.md)        |
-| DX Nippon Tokkyuu Ryokou Game                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-10306G/01/README.md)        |
-| Daibouken: Saint Elmos no Kiseki                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-23101G/01/README.md)        |
-| Daikoukai Jidai Gaiden                                  | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-7657G/01/README.md)         |
-| Daikoukai Jidai II                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7628G/01/README.md)         |
-| Daisenryaku - Strong Style                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21202G/01/README.md)        |
-| Daisuki                                                 | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-18510G/README.md)           |
-| Daitoride                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29201G/01/README.md)        |
-| Darius Gaiden                                           | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-8123H-50/01/README.md)     |
-| Darius Gaiden                                           | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1102G/README.md)            |
-| Darius Gaiden                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8123H/01/README.md)           |
-| Darius Gaiden (Beta) (1995-12-21)                       | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8123H__BETA/README.md)        |
-| Darius II                                               | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81085/01/README.md)       |
-| Darius II                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1104G/01/README.md)         |
-| Dark Hunter (Ge) Youma no Mori                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7632G/01/README.md)         |
-| Dark Hunter (Jou) Ijigen Gakuen                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7631G/01/README.md)         |
-| Dark Legend                                             | :us:   | :100:               | [Link](Regions/USA/T-1305H/README.md)              |
-| Dark Savior                                             | :eu:   | :question:          | TODO                                               |
-| Dark Savior                                             | :jp:   | :question:          | TODO                                               |
-| Dark Savior                                             | :us:   | :hammer_and_wrench: | [Link](Regions/USA/MK-81304/01/README.md)          |
-| Dark Seed                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18501G/01/README.md)        |
-| Dark Seed II                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-36101G/01/README.md)        |
-| Darklight Conflict                                      | :eu:   | :question:          | TODO                                               |
-| Darklight Conflict                                      | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5022H/01/README.md)           |
-| Daytona USA                                             | :eu:   | :minidisc: 2x       | [Link](Regions/Europe/MK_8120050/01/README.md)     |
-| Daytona USA                                             | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/GS-9013/01/README.md)         |
-| Daytona USA                                             | :us:   | :hammer_and_wrench: | [Link](Regions/USA/MK-81200/01/README.md)          |
-| Daytona USA: Championship Circuit Edition (Rev A)       | :eu:   | :x:                 | [Link](Regions/Europe/MK81213-50/01/README.md)     |
-| Daytona USA: Championship Circuit Edition               | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81213/01/README.md)          |
-| Daytona USA - Circuit Edition                           | :jp:   | :question:          | TODO                                               |
-| Daytona USA C.C.E. Net Link Edition                     | :us:   | :question:          | TODO                                               |
-| Dead Or Alive                                           | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-3603G/01/README.md)         |
-| Deadalus                                                | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/SG-9008/01/README.md)         |
-| Death Crimson                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-23202G/01/README.md)        |
-| Death Throttle: Kakuzetsu Toshi kara no Dasshutsu       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-26403G/01/README.md)        |
-| DeathMask                                               | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-22701G/01/README.md)        |
-| DecAthlete (1M)                                         | :jp:   | :question:          | TODO                                               |
-| DecAthlete (2M)                                         | :jp:   | :question:          | TODO                                               |
-| DecAthlete (Rev A) (10M)                                | :jp:   | :question:          | TODO                                               |
-| DecAthlete (Rev B) (20M)                                | :jp:   | :question:          | TODO                                               |
-| DecAthlete                                              | :us:   | :x:                 | [Link](Regions/USA/MK-81115/01/README.md)          |
-| DecAthlete for SegaNet                                  | :us:   | :question:          | TODO                                               |
-| Deep Fear                                               | :eu:   | :cd: 2x             | [Link](Regions/Europe/MK-81804/01/README.md)       |
-| Deep Fear (Disc 1)                                      | :jp:   | :question:          | TODO                                               |
-| Deep Fear (Disc 2)                                      | :jp:   | :question:          | TODO                                               |
-| Deep Fear (Disc 1) (Unl)                                | :us:   | :question:          | TODO                                               |
-| Deep Fear (Disc 2) (Unl)                                | :us:   | :question:          | TODO                                               |
-| Defcon 5                                                | :eu:   | :question:          | TODO                                               |
-| Defcon 5                                                | :fr:   | :question:          | TODO                                               |
-| Defcon 5                                                | :jp:   | :question:          | TODO                                               |
-| Defcon 5                                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-1301G/01/README.md)           |
-| Dejig Aqua World                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30303G/01/README.md)        |
-| Dejig Lassen: Art Collection                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30304G/01/README.md)        |
-| Dejig McKnight: Art Collection                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30305G/01/README.md)        |
-| Dejig Tin Toy                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30302G/01/README.md)        |
-| Deka Yonku: Tough the Truck                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4313G/01/README.md)         |
-| Delisoba Deluxe                                         | :jp:   | :100:               | [Link](Regions/Japan/6106803/README.md)            |
-| Dennou Senki: Virtual On: Cyber Troopers                | :jp:   | :x:                 | [Link](Regions/Japan/GS-9099/01/README.md)         |
-| Dennou Senki - Virtual On - Cyber Troopers              | :kr:   | :question:          | TODO                                               |
-| Dennou Senki - Virtual On - Cyber Troopers for SegaNet  | :jp:   | :question:          | TODO                                               |
-| Denpa Shounen-teki Game                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14316G/01/README.md)        |
-| Denpa Shounen-teki Game (Rerelease)                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14318G/01/README.md)        |
-| Densetsu no Ogre Battle                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-5305G/01/README.md)         |
-| Densha de Go! EX                                        | :jp:   | :100:               | [Link](Regions/Japan/T-10317G/README.md)           |
-| Derby Analyst                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20505G/01/README.md)        |
-| Derby Stallion                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2113G/01/README.md)         |
-| Deroon Dero Dero                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-3601G/01/README.md)         |
-| Desire                                                  | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-15031G/01/README.md)        |
-| Destruction Derby                                       | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-11303H/01/README.md)       |
-| Destruction Derby                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18604G/01/README.md)        |
-| Detana Twinbee Yahoo! Deluxe Pack                       | :jp:   | :100:               | [Link](Regions/Japan/T-9505G/README.md)            |
-| Device Reign                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-27810G/01/README.md)        |
-| Devil Summoner: Soul Hackers                            | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-14420G/01/README.md)        |
-| Devil Summoner: Soul Hackers: Akuma Zensho Dainishū     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14421G/01/README.md)        |
-| Devil Summoner: Soul Hackers Extra Dungeon              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/6106804/01/README.md)         |
-| Dezaemon 2                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-16804G/01/README.md)        |
-| Die Hard Arcade                                         | :eu:   | :question:          | TODO                                               |
-| Die Hard Arcade                                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81057/README.md)             |
-| Die Hard Trilogy                                        | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-16103H/01/README.md)       |
-| Die Hard Trilogy                                        | :jp:   | :question:          | TODO                                               |
-| Die Hard Trilogy                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-16103H/01/README.md)          |
-| Digital Ange: Dennou Tenshi SS                          | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-33003G/01/README.md)        |
-| Digital Dance Mix Vol. 1 Namie Amuro                    | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9133/01/README.md)         |
-| Digital Monster Ver. S: Digimon Tamers                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-13331G/01/README.md)        |
-| Digital Pinball (4S)                                    | :eu:   | :question:          | TODO                                               |
-| Digital Pinball (7S)                                    | :eu:   | :question:          | TODO                                               |
-| Digital Pinball - Last Gladiators                       | :jp:   | :question:          | TODO                                               |
-| Digital Pinball - Last Gladiators Ver.9.7               | :jp:   | :question:          | TODO                                               |
-| Digital Pinball - Necronomicon                          | :jp:   | :question:          | TODO                                               |
-| Daina Airan                                             | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-4503G/01/README.md)         |
-| Daina Airan: Yokoku Hen                                 | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-4505G/01/README.md)         |
-| DiscStation Bessatsu i miss you.                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/6106732/01/README.md)         |
-| Discworld                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20502G/01/README.md)        |
-| Discworld II - Missing Presumed...!                     | :eu:   | :x:                 | [Link](Regions/Europe/MK-81093/01/README.md)       |
-| DoDonPachi                                              | :jp:   | :100:               | [Link](Regions/Japan/T-14419G/README.md)           |
-| DonPachi                                                | :jp:   | :100:               | [Link](Regions/Japan/T-14405G/README.md)           |
-| Doom (R)                                                | :eu:   | :question:          | TODO                                               |
-| Doom                                                    | :jp:   | :question:          | TODO                                               |
-| Doom                                                    | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25405H/01/README.md)          |
-| Doraemon: Nobita to Fukkatsu no Hoshi                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19801G/01/README.md)        |
-| Double Switch                                           | :us:   | :cd: 2x             | [Link](Regions/USA/T-16207H/01/README.md)          |
-| Doukoku Soshite...                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1315G/01/README.md)         |
-| Doukyuusei - if                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20102G/01/README.md)        |
-| Doukyuusei 2                                            | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-20104G/01/README.md)        |
-| Dragon Ball Z: Idainaru Dragon Ball Densetsu            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-13305G/README.md)           |
-| Dragon Ball Z - La Grande Legende des Boules de Cristal | :fr:   | :question:          | TODO                                               |
-| Dragon Ball Z: Shin Butouden                            | :jp:   | :100:               | [Link](Regions/Japan/T-13302G/README.md)           |
-| Dragon Force                                            | :eu:   | :question:          | TODO                                               |
-| Dragon Force (1M, 2M, 3M)                               | :jp:   | :question:          | TODO                                               |
-| Dragon Force (4M)                                       | :jp:   | :question:          | TODO                                               |
-| Dragon Force (Rev A) (10M)                              | :jp:   | :question:          | TODO                                               |
-| Dragon Force                                            | :us:   | :x:                 | [Link](Regions/USA/T-12703H/01/README.md)          |
-| Dragon Force II: Kami Sarishi Daichi ni                 | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9184/01/README.md)         |
-| Dragon Master Silk                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19503G/01/README.md)        |
-| Dragon's Dream                                          | :jp:   | :x:                 | [Link](Regions/Japan/GS-7114/01/README.md)         |
-| Dragonheart: Fire & Steel                               | :eu:   | :question:          | TODO                                               |
-| Dragonheart: Fire & Steel                               | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8117H/01/README.md)           |
-| Dream Generation: Koi ka? Shigoto ka!?...               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2511G/01/README.md)         |
-| Dream Square Hinagata Akiko                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-3002G/01/README.md)         |
-| Druid: Yami-He no Tsuiseki Sha                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7670G/01/README.md)         |
-| Duke Nukem 3D                                           | :eu:   | :question:          | TODO                                               |
-| Duke Nukem 3D                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81071/01/README.md)          |
-| Dungeon Master Nexus                                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9111G/01/README.md)         |
-| Dungeons & Dragons Collection                           | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-1245G/README.md)            |
-| DX Jinsei Game                                          | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-10302G/01/README.md)        |
-| DX Jinsei Game II                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-10310G/01/README.md)        |
-| Dynamite Deka                                           | :jp:   | :question:          | TODO                                               |
+| Name                                                    | Region | Status              | Details                                                     |
+| ------------------------------------------------------- | ------ | ------------------- | ----------------------------------------------------------- |
+| D (Disc I)                                              | :eu:   | :question:          | TODO                                                        |
+| D (Disc II)                                             | :eu:   | :question:          | TODO                                                        |
+| D (Disc I)                                              | :fr:   | :question:          | TODO                                                        |
+| D (Disc II)                                             | :fr:   | :question:          | TODO                                                        |
+| D (Disc I)                                              | :de:   | :question:          | TODO                                                        |
+| D (Disc II)                                             | :de:   | :question:          | TODO                                                        |
+| D                                                       | :us:   | :cd: 2x             | [Link](Regions/USA/T-8106H/01/README.md)                    |
+| D (Beta) (1996-02-05)                                   | :us:   | :cd: 2x             | [Link](Regions/USA/T-8106H__BETA/README.md) - TODO          |
+| D no Shokutaku (Disc 1)                                 | :jp:   | :question:          | TODO                                                        |
+| D no Shokutaku (Disc 2)                                 | :jp:   | :question:          | TODO                                                        |
+| D-Xhird                                                 | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-10307G/01/README.md)                 |
+| D-Xhird (Demo)                                          | :jp:   | :question:          | TODO                                                        |
+| DJ Wars                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18807G/01/README.md)                 |
+| DJ Wars (Demo)                                          | :jp:   | :question:          | TODO                                                        |
+| DX Nippon Tokkyuu Ryokou Game                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-10306G/01/README.md)                 |
+| Daibouken: Saint Elmos no Kiseki                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-23101G/01/README.md)                 |
+| Daikoukai Jidai Gaiden                                  | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-7657G/01/README.md)                  |
+| Daikoukai Jidai II                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7628G/01/README.md)                  |
+| Daisenryaku - Strong Style                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21202G/01/README.md)                 |
+| Daisuki                                                 | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-18510G/README.md)                    |
+| Daitoride                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29201G/01/README.md)                 |
+| Darius Gaiden                                           | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-8123H-50/01/README.md)              |
+| Darius Gaiden                                           | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1102G/README.md)                     |
+| Darius Gaiden                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8123H/01/README.md)                    |
+| Darius Gaiden (Beta) (1995-12-21)                       | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8123H__BETA/README.md)                 |
+| Darius II                                               | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81085/01/README.md)                |
+| Darius II                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1104G/01/README.md)                  |
+| Dark Hunter (Ge) Youma no Mori                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7632G/01/README.md)                  |
+| Dark Hunter (Jou) Ijigen Gakuen                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7631G/01/README.md)                  |
+| Dark Legend                                             | :us:   | :100:               | [Link](Regions/USA/T-1305H/README.md)                       |
+| Dark Savior                                             | :eu:   | :question:          | TODO                                                        |
+| Dark Savior                                             | :jp:   | :question:          | TODO                                                        |
+| Dark Savior (Demo)                                      | :jp:   | :question:          | TODO                                                        |
+| Dark Savior                                             | :us:   | :hammer_and_wrench: | [Link](Regions/USA/MK-81304/01/README.md)                   |
+| Dark Seed                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18501G/01/README.md)                 |
+| Dark Seed II                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-36101G/01/README.md)                 |
+| Darklight Conflict                                      | :eu:   | :question:          | TODO                                                        |
+| Darklight Conflict                                      | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5022H/01/README.md)                    |
+| Daytona USA                                             | :eu:   | :minidisc: 2x       | [Link](Regions/Europe/MK_8120050/01/README.md)              |
+| Daytona USA                                             | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/GS-9013/01/README.md)                  |
+| Daytona USA                                             | :us:   | :hammer_and_wrench: | [Link](Regions/USA/MK-81200/01/README.md)                   |
+| Daytona USA: Championship Circuit Edition (Rev A)       | :eu:   | :x:                 | [Link](Regions/Europe/MK81213-50/01/README.md)              |
+| Daytona USA: Championship Circuit Edition               | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81213/01/README.md)                   |
+| Daytona USA - Circuit Edition                           | :jp:   | :question:          | TODO                                                        |
+| Daytona USA C.C.E. Net Link Edition                     | :us:   | :question:          | TODO                                                        |
+| Dead Or Alive                                           | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-3603G/01/README.md)                  |
+| Deadalus                                                | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/SG-9008/01/README.md)                  |
+| Death Crimson                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-23202G/01/README.md)                 |
+| Death Throttle: Kakuzetsu Toshi kara no Dasshutsu       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-26403G/01/README.md)                 |
+| DeathMask                                               | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-22701G/01/README.md)                 |
+| DecAthlete (1M)                                         | :jp:   | :question:          | TODO                                                        |
+| DecAthlete (2M)                                         | :jp:   | :question:          | TODO                                                        |
+| DecAthlete (Demo)                                       | :jp:   | :question:          | TODO                                                        |
+| DecAthlete (Rev A) (10M)                                | :jp:   | :question:          | TODO                                                        |
+| DecAthlete (Rev B) (20M)                                | :jp:   | :question:          | TODO                                                        |
+| DecAthlete                                              | :us:   | :x:                 | [Link](Regions/USA/MK-81115/01/README.md)                   |
+| DecAthlete for SegaNet                                  | :us:   | :question:          | TODO                                                        |
+| Deep Fear                                               | :eu:   | :cd: 2x             | [Link](Regions/Europe/MK-81804/01/README.md)                |
+| Deep Fear (Demo)                                        | :jp:   | :question:          | TODO                                                        |
+| Deep Fear (Disc 1)                                      | :jp:   | :question:          | TODO                                                        |
+| Deep Fear (Disc 2)                                      | :jp:   | :question:          | TODO                                                        |
+| Deep Fear (Disc 1) (Unl)                                | :us:   | :question:          | TODO                                                        |
+| Deep Fear (Disc 2) (Unl)                                | :us:   | :question:          | TODO                                                        |
+| Defcon 5                                                | :eu:   | :question:          | TODO                                                        |
+| Defcon 5                                                | :fr:   | :question:          | TODO                                                        |
+| Defcon 5                                                | :jp:   | :question:          | TODO                                                        |
+| Defcon 5                                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-1301G/01/README.md)                    |
+| Dejig Aqua World                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30303G/01/README.md)                 |
+| Dejig Lassen: Art Collection                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30304G/01/README.md)                 |
+| Dejig McKnight: Art Collection                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30305G/01/README.md)                 |
+| Dejig Tin Toy                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-30302G/01/README.md)                 |
+| Deka Yonku: Tough the Truck                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4313G/01/README.md)                  |
+| Delisoba Deluxe                                         | :jp:   | :100:               | [Link](Regions/Japan/6106803/README.md)                     |
+| Dennou Senki: Virtual On: Cyber Troopers                | :jp:   | :x:                 | [Link](Regions/Japan/GS-9099/01/README.md)                  |
+| Dennou Senki - Virtual On - Cyber Troops (Demo)         | :jp:   | :question:          | TODO                                                        |
+| Dennou Senki - Virtual On - Cyber Troopers              | :kr:   | :question:          | TODO                                                        |
+| Dennou Senki - Virtual On - Cyber Troopers for SegaNet  | :jp:   | :question:          | TODO                                                        |
+| Denpa Shounen-teki Game                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14316G/01/README.md)                 |
+| Denpa Shounen-teki Game (Rerelease)                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14318G/01/README.md)                 |
+| Densetsu no Ogre Battle                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-5305G/01/README.md)                  |
+| Densha de Go! EX                                        | :jp:   | :100:               | [Link](Regions/Japan/T-10317G/README.md)                    |
+| Derby Analyst                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20505G/01/README.md)                 |
+| Derby Stallion                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2113G/01/README.md)                  |
+| Deroon Dero Dero                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-3601G/01/README.md)                  |
+| Desire                                                  | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-15031G/01/README.md)                 |
+| Desire (Demo)                                           | :jp:   | :question:          | TODO                                                        |
+| Destruction Derby                                       | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-11303H/01/README.md)                |
+| Destruction Derby                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18604G/01/README.md)                 |
+| Detana Twinbee Yahoo! Deluxe Pack                       | :jp:   | :100:               | [Link](Regions/Japan/T-9505G/README.md)                     |
+| Develo Magazine Appendix CD-ROM for SegaSaturn          | :jp:   | :hammer_and_wrench: | [Link](../../../Regions/Japan/610645801__DEMO/01/README.md) |
+| Device Reign                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-27810G/01/README.md)                 |
+| Devil Summoner: Soul Hackers                            | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-14420G/01/README.md)                 |
+| Devil Summoner: Soul Hackers: Akuma Zensho Dainishū     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14421G/01/README.md)                 |
+| Devil Summoner: Soul Hackers Extra Dungeon              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/6106804/01/README.md)                  |
+| Devil Summoner - Soul Hackers + Ronde (Demo 1)          | :jp:   | :question:          | TODO                                                        |
+| Devil Summoner - Soul Hackers + Ronde (Demo 2)          | :jp:   | :question:          | TODO                                                        |
+| Dezaemon 2                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-16804G/01/README.md)                 |
+| Die Hard Arcade                                         | :eu:   | :question:          | TODO                                                        |
+| Die Hard Arcade                                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81057/README.md)                      |
+| Die Hard Trilogy                                        | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-16103H/01/README.md)                |
+| Die Hard Trilogy                                        | :jp:   | :question:          | TODO                                                        |
+| Die Hard Trilogy                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-16103H/01/README.md)                   |
+| Digital Ange: Dennou Tenshi SS                          | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-33003G/01/README.md)                 |
+| Digital Dance Mix Vol. 1 Namie Amuro                    | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9133/01/README.md)                  |
+| Digital Monster Ver. S: Digimon Tamers                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-13331G/01/README.md)                 |
+| Digital Pinball (4S)                                    | :eu:   | :question:          | TODO                                                        |
+| Digital Pinball (7S)                                    | :eu:   | :question:          | TODO                                                        |
+| Digital Pinball - Last Gladiators                       | :jp:   | :question:          | TODO                                                        |
+| Digital Pinball - Last Gladiators Ver.9.7               | :jp:   | :question:          | TODO                                                        |
+| Digital Pinball - Last Gladiators (5M) (Demo)           | :jp:   | :question:          | TODO                                                        |
+| Digital Pinball - Necronomicon                          | :jp:   | :question:          | TODO                                                        |
+| Digital Pinball - Necronomicon - Revelations (Demo)     | :jp:   | :question:          | TODO                                                        |
+| Daina Airan                                             | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-4503G/01/README.md)                  |
+| Daina Airan: Yokoku Hen                                 | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-4505G/01/README.md)                  |
+| DiscStation Bessatsu i miss you.                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/6106732/01/README.md)                  |
+| Discworld                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20502G/01/README.md)                 |
+| Discworld II - Missing Presumed...!                     | :eu:   | :x:                 | [Link](Regions/Europe/MK-81093/01/README.md)                |
+| DoDonPachi                                              | :jp:   | :100:               | [Link](Regions/Japan/T-14419G/README.md)                    |
+| DoDonPachi (Demo)                                       | :jp:   | :question:          | TODO                                                        |
+| DonPachi                                                | :jp:   | :100:               | [Link](Regions/Japan/T-14405G/README.md)                    |
+| DonPachi (Demo)                                         | :jp:   | :question:          | TODO                                                        |
+| Doom (R)                                                | :eu:   | :question:          | TODO                                                        |
+| Doom                                                    | :jp:   | :question:          | TODO                                                        |
+| Doom                                                    | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25405H/01/README.md)                   |
+| Doraemon: Nobita to Fukkatsu no Hoshi                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19801G/01/README.md)                 |
+| Double Switch                                           | :us:   | :cd: 2x             | [Link](Regions/USA/T-16207H/01/README.md)                   |
+| Doukoku Soshite...                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1315G/01/README.md)                  |
+| Doukyuusei - if                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20102G/01/README.md)                 |
+| Doukyuusei 2                                            | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-20104G/01/README.md)                 |
+| Dragon Ball Z: Idainaru Dragon Ball Densetsu            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-13305G/README.md)                    |
+| Dragon Ball Z - La Grande Legende des Boules de Cristal | :fr:   | :question:          | TODO                                                        |
+| Dragon Ball Z: Shin Butouden                            | :jp:   | :100:               | [Link](Regions/Japan/T-13302G/README.md)                    |
+| Dragon Force                                            | :eu:   | :question:          | TODO                                                        |
+| Dragon Force (1M, 2M, 3M)                               | :jp:   | :question:          | TODO                                                        |
+| Dragon Force (4M)                                       | :jp:   | :question:          | TODO                                                        |
+| Dragon Force (Rev A) (10M)                              | :jp:   | :question:          | TODO                                                        |
+| Dragon Force                                            | :us:   | :x:                 | [Link](Regions/USA/T-12703H/01/README.md)                   |
+| Dragon Force II: Kami Sarishi Daichi ni                 | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9184/01/README.md)                  |
+| Dragon Master Silk                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19503G/01/README.md)                 |
+| Dragon's Dream                                          | :jp:   | :x:                 | [Link](Regions/Japan/GS-7114/01/README.md)                  |
+| Dragonheart: Fire & Steel                               | :eu:   | :question:          | TODO                                                        |
+| Dragonheart: Fire & Steel                               | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8117H/01/README.md)                    |
+| Dream Generation: Koi ka? Shigoto ka!?...               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2511G/01/README.md)                  |
+| Dream Square Hinagata Akiko                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-3002G/01/README.md)                  |
+| Druid: Yami-He no Tsuiseki Sha                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7670G/01/README.md)                  |
+| Duke Nukem 3D                                           | :eu:   | :question:          | TODO                                                        |
+| Duke Nukem 3D                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81071/01/README.md)                   |
+| Dungeon Master Nexus                                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9111G/01/README.md)                  |
+| Dungeons & Dragons Collection                           | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-1245G/README.md)                     |
+| DX Jinsei Game                                          | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-10302G/01/README.md)                 |
+| DX Jinsei Game II                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-10310G/01/README.md)                 |
+| Dynamite Deka                                           | :jp:   | :question:          | TODO                                                        |
 
 ### E
 
@@ -516,210 +547,268 @@ Other links related to SAROO:
 | Étude Prologue: Yureugoku Kokoro no Katachi        | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-37901G/01/README.md)  |
 | Eve - Burst Error                                  | :jp:   | :cd: 4x            | [Link](Regions/Japan/T-15022G/01/README.md)  |
 | Eve - The Lost One                                 | :jp:   | :cd: 4x            | [Link](Regions/Japan/T-15035G/01/README.md)  |
+| Eve - The Lost One (Demo)                          | :jp:   | :question:         | TODO                                         |
 | Exhumed                                            | :eu:   | :heavy_check_mark: | [Link](Regions/Europe/MK-81084/01/README.md) |
 | Eyeful Home                                        | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/GS-9083/README.md)      |
 
 ### F
 
-| Name                                            | Region | Status                               | Details                                      |
-| ----------------------------------------------- | ------ | ------------------------------------ | -------------------------------------------- |
-| F-1 Live Information                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9035/01/README.md)   |
-| F1 Challenge                                    | :eu:   | :question:                           | TODO                                         |
-| F1 Challenge                                    | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81206/01/README.md)    |
-| FEDA Remake! The Emblem of Justice              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21001G/01/README.md)  |
-| FIFA - Die WM-Qualifikation 98                  | :de:   | :question:                           | TODO                                         |
-| FIFA - En Route pour la Coupe du Monde 98       | :fr:   | :question:                           | TODO                                         |
-| FIFA - Road to World Cup 98                     | :eu:   | :question:                           | TODO                                         |
-| FIFA - Road to World Cup 98                     | :it:   | :question:                           | TODO                                         |
-| FIFA - Road to World Cup 98                     | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5025H/01/README.md)     |
-| FIFA - Rumbo al Mundial 98                      | :es:   | :question:                           | TODO                                         |
-| FIFA 97                                         | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-5017H/01/README.md)  |
-| FIFA 97                                         | :fr:   | :question:                           | TODO                                         |
-| FIFA 97                                         | :de:   | :question:                           | TODO                                         |
-| FIFA Soccer 96                                  | :eu:   | :question:                           | TODO                                         |
-| FIFA Soccer 96                                  | :jp:   | :question:                           | TODO                                         |
-| FIFA Soccer 96                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5003H/01/README.md)     |
-| FIFA Soccer 97                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5017H/01/README.md)     |
-| Falcom Classics                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-31503G/01/README.md)  |
-| Falcom Classics II                              | :jp:   | :question:                           | TODO                                         |
-| Falcom Classics II (Genteiban)                  | :jp:   | :question:                           | TODO                                         |
-| Fantastep                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-5710G/01/README.md)   |
-| Farland Saga                                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-32507G/01/README.md)  |
-| Farland Saga: Toki no Michishirube              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-32511G/01/README.md)  |
-| Farland Story: Habou no Mai                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-32505G/01/README.md)  |
-| Father Christmas                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-18504G/01/README.md)  |
-| Fighter's History Dynamite                      | :jp:   | :100:                                | [Link](Regions/Japan/GS-9107/README.md)      |
-| Fighters Megamix                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81073/01/README.md) |
-| Fighters Megamix                                | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9126/README.md)      |
-| Fighters Megamix                                | :us:   | :minidisc: 2x                        | [Link](Regions/USA/MK-81073/README.md)       |
-| Fighting Vipers                                 | :eu:   | :100:                                | [Link](Regions/Europe/MK-81041/README.md)    |
-| Fighting Vipers                                 | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9101/README.md)      |
-| Fighting Vipers                                 | :kr:   | :question:                           | TODO                                         |
-| Fighting Vipers                                 | :us:   | :100:                                | [Link](Regions/USA/MK-81041/README.md)       |
-| Final Fight Revenge                             | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-1248G/README.md)      |
-| Find Love 2 - Rhapsody                          | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-34605G/01/README.md)  |
-| Find Love 2 - The Prologue                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-34604G/01/README.md)  |
-| Fire Pro Gaiden: Blazing Tornado                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-4302G/01/README.md)   |
-| Fire Prowrestling S - 6Men Scramble             | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-4308G/01/README.md)   |
-| Firestorm - Thunderhawk 2                       | :eu:   | :hammer_and_wrench:                  | [Link](Regions/Europe/T-11501H00/README.md)  |
-| Firestorm - Thunderhawk 2                       | :de:   | :question:                           | TODO                                         |
-| Fishing Koushien                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-24901G/01/README.md)  |
-| Fishing Koushien II                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-24904G/01/README.md)  |
-| Fist                                            | :jp:   | :100:                                | [Link](Regions/Japan/T-15015G/README.md)     |
-| Formula Grand Prix - Team Un'ei Simulation      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7309G/01/README.md)   |
-| Formula Karts Special Edition                   | :eu:   | :x:                                  | [Link](Regions/Europe/MK-81282/01/README.md) |
-| Frank Thomas Big Hurt Baseball                  | :eu:   | :question:                           | TODO                                         |
-| Frank Thomas Big Hurt Baseball                  | :jp:   | :question:                           | TODO                                         |
-| Frank Thomas Big Hurt Baseball                  | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8138H/01/README.md)     |
-| Frankenstein - Through the Eyes of the Monster  | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-12511H/01/README.md) |
-| Free Talk Studio - Mari no Kimamana Oshaberi    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20504G/01/README.md)  |
-| Friends - Seishun no Kagayaki                   | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-20109G/01/README.md)  |
-| From TV Animation Slam Dunk - I Love Basketball | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13301G/01/README.md)  |
-| Fully Cowled Mini Yonku Super Factory           | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-26407G/01/README.md)  |
-| Funky Fantasy                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20002G/01/README.md)  |
-| Funky Head Boxers                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20003G/01/README.md)  |
-| Funky Head Boxers Plus                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20004G/01/README.md)  |
-| Fushigi no Kuni no Angelique                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7634G/01/README.md)   |
-| Fuusui Sensei - Feng-Shui Master                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21701G/01/README.md)  |
+| Name                                                   | Region | Status                               | Details                                            |
+| ------------------------------------------------------ | ------ | ------------------------------------ | -------------------------------------------------- |
+| F-1 Live Information                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9035/01/README.md)         |
+| F1 Challenge                                           | :eu:   | :question:                           | TODO                                               |
+| F1 Challenge                                           | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81206/01/README.md)          |
+| FEDA Remake! The Emblem of Justice                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21001G/01/README.md)        |
+| FIFA - Die WM-Qualifikation 98                         | :de:   | :question:                           | TODO                                               |
+| FIFA - En Route pour la Coupe du Monde 98              | :fr:   | :question:                           | TODO                                               |
+| FIFA - Road to World Cup 98                            | :eu:   | :question:                           | TODO                                               |
+| FIFA - Road to World Cup 98                            | :it:   | :question:                           | TODO                                               |
+| FIFA - Road to World Cup 98                            | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5025H/01/README.md)           |
+| FIFA - Rumbo al Mundial 98                             | :es:   | :question:                           | TODO                                               |
+| FIFA 97                                                | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-5017H/01/README.md)        |
+| FIFA 97                                                | :fr:   | :question:                           | TODO                                               |
+| FIFA 97                                                | :de:   | :question:                           | TODO                                               |
+| FIFA Soccer 96                                         | :eu:   | :question:                           | TODO                                               |
+| FIFA Soccer 96                                         | :jp:   | :question:                           | TODO                                               |
+| FIFA Soccer 96                                         | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5003H/01/README.md)           |
+| FIFA Soccer 97                                         | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5017H/01/README.md)           |
+| Falcom Classics                                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-31503G/01/README.md)        |
+| Falcom Classics II                                     | :jp:   | :question:                           | TODO                                               |
+| Falcom Classics II (Genteiban)                         | :jp:   | :question:                           | TODO                                               |
+| Fantastep                                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-5710G/01/README.md)         |
+| Farland Saga                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-32507G/01/README.md)        |
+| Farland Saga: Toki no Michishirube                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-32511G/01/README.md)        |
+| Farland Story: Habou no Mai                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-32505G/01/README.md)        |
+| Farland Story: Habou no Mai (Demo)                     | :jp:   | :question:                           | TODO                                               |
+| Father Christmas                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-18504G/01/README.md)        |
+| Fighter's History Dynamite                             | :jp:   | :100:                                | [Link](Regions/Japan/GS-9107/README.md)            |
+| Fighters Megamix                                       | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81073/01/README.md)       |
+| Fighters Megamix                                       | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9126/README.md)            |
+| Fighters Megamix                                       | :us:   | :minidisc: 2x                        | [Link](Regions/USA/MK-81073/README.md)             |
+| Fighting Vipers                                        | :eu:   | :100:                                | [Link](Regions/Europe/MK-81041/README.md)          |
+| Fighting Vipers                                        | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9101/README.md)            |
+| Fighting Vipers (Demo)                                 | :jp:   | :question:                           | TODO                                               |
+| Fighting Vipers                                        | :kr:   | :question:                           | TODO                                               |
+| Fighting Vipers                                        | :us:   | :100:                                | [Link](Regions/USA/MK-81041/README.md)             |
+| Final Fight Revenge                                    | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-1248G/README.md)            |
+| Find Love 2 - Rhapsody                                 | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-34605G/01/README.md)        |
+| Find Love 2 - The Prologue                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-34604G/01/README.md)        |
+| Fire Pro Gaiden: Blazing Tornado                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-4302G/01/README.md)         |
+| Fire Pro Gaiden: Blazing Tornado (Demo)                | :jp:   | :question:                           | TODO                                               |
+| Fire Prowrestling S - 6Men Scramble                    | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-4308G/01/README.md)         |
+| Firestorm - Thunderhawk 2                              | :eu:   | :hammer_and_wrench:                  | [Link](Regions/Europe/T-11501H00/README.md)        |
+| Firestorm - Thunderhawk 2                              | :de:   | :question:                           | TODO                                               |
+| Fishing Koushien                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-24901G/01/README.md)        |
+| Fishing Koushien II                                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-24904G/01/README.md)        |
+| Fist                                                   | :jp:   | :100:                                | [Link](Regions/Japan/T-15015G/README.md)           |
+| Flash Sega Saturn: Ochikazuki-hen                      | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/610616699__DEMO/README.md)    |
+| Flash Sega Saturn Vol. 1                               | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/610616601__DEMO/README.md)    |
+| Flash Sega Saturn Vol. 2                               | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/610616602__DEMO/README.md)    |
+| Flash Sega Saturn Vol. 3                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616603__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 4                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616604__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 5                               | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/610616605__DEMO/README.md)    |
+| Flash Sega Saturn Vol. 6                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616606__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 7                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616607__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 8                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616608__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 9                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616609__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 10                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616610__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 11                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616611__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 12                              | :jp:   | :x:                                  | [Link](Regions/Japan/610616612__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 13                              | :jp:   | :x:                                  | [Link](Regions/Japan/610616613__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 14                              | :jp:   | :x:                                  | [Link](Regions/Japan/610616614__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 15                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616615__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 16                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616616__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 17                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616617__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 18                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616618__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 19                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616619__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 20                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616620__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 21                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616621__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 22                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616622__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 23                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616623__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 24                              | :jp:   | :x:                                  | [Link](Regions/Japan/610616624__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 25                              | :jp:   | :x:                                  | [Link](Regions/Japan/610616625__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 26                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616626__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 27                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616627__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 28                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616628__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 29                              | :jp:   | :x:                                  | [Link](Regions/Japan/610616629__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 30                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616630__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 31                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616631__DEMO/01/README.md) |
+| Flash Sega Saturn Vol. 32                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610616632__DEMO/01/README.md) |
+| Formula Grand Prix - Team Un'ei Simulation             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7309G/01/README.md)         |
+| Formula Karts Special Edition                          | :eu:   | :x:                                  | [Link](Regions/Europe/MK-81282/01/README.md)       |
+| Frank Thomas Big Hurt Baseball                         | :eu:   | :question:                           | TODO                                               |
+| Frank Thomas Big Hurt Baseball                         | :jp:   | :question:                           | TODO                                               |
+| Frank Thomas Big Hurt Baseball                         | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8138H/01/README.md)           |
+| Frankenstein - Through the Eyes of the Monster         | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-12511H/01/README.md)       |
+| Free Talk Studio - Mari no Kimamana Oshaberi           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20504G/01/README.md)        |
+| Friends - Seishun no Kagayaki                          | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-20109G/01/README.md)        |
+| From TV Animation Slam Dunk - I Love Basketball        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13301G/01/README.md)        |
+| From TV Animation Slam Dunk - I Love Basketball (Demo) | :jp:   | :question:                           | TODO                                               |
+| Fully Cowled Mini Yonku Super Factory                  | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-26407G/01/README.md)        |
+| Fully Cowled Mini Yonku Super Factory (Demo)           | :jp:   | :question:                           | TODO                                               |
+| Funky Fantasy                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20002G/01/README.md)        |
+| Funky Head Boxers                                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20003G/01/README.md)        |
+| Funky Head Boxers (Demo)                               | :jp:   | :question:                           | TODO                                               |
+| Funky Head Boxers Plus                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20004G/01/README.md)        |
+| Fushigi no Kuni no Angelique                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7634G/01/README.md)         |
+| Fuusui Sensei - Feng-Shui Master                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21701G/01/README.md)        |
 
 ### G
 
-| Name                                                     | Region | Status                               | Details                                        |
-| -------------------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------- |
-| G Vector                                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-30603G/01/README.md)    |
-| GT24                                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-5714G/01/README.md)     |
-| Gaia Breeder                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-34801G/01/README.md)    |
-| Gakkou no Kaidan                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/GS-9026/README.md)        |
-| Gakkou no Kowai Uwasa Hanako-san ga Kita!!               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1205G/01/README.md)     |
-| Gal Jan                                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-29101G/01/README.md)    |
-| Galactic Attack                                          | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-8116H-50/01/README.md) |
-| Galactic Attack                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8116H/01/README.md)       |
-| Galaxy Fight                                             | :eu:   | :100:                                | [Link](Regions/Europe/T-1504H-50/README.md)    |
-| Galaxy Fight                                             | :us:   | :100:                                | [Link](Regions/USA/T-1504H/README.md)          |
-| Galaxy Fight: Universal Warriors                         | :jp:   | :100:                                | [Link](Regions/Japan/T-1510G/README.md)        |
-| Gale Racer                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9003/01/README.md)     |
-| Gals Panic SS                                            | :jp:   | :100:                                | [Link](Regions/Japan/T-29002G/README.md)       |
-| Game-Ware                                                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17002G/01/README.md)    |
-| Game-Ware Vol. 2                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17003G/01/README.md)    |
-| Game-Ware Vol. 3                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17004G-T/01/README.md)  |
-| Game-Ware Vol. 4                                         | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-17005G/01/README.md)    |
-| Game-Ware Vol. 5                                         | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-17006G/01/README.md)    |
-| Game Basic for Sega Saturn                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-2111G/01/README.md)     |
-| Game Nihonshi: Kakumeiji Oda Nobunaga                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7633G/01/README.md)     |
-| Game Tengoku                                             | :jp:   | :100:                                | [Link](Regions/Japan/T-5712G/README.md)        |
-| Game de Seishun                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-19711G/01/README.md)    |
-| Game no Tatsujin                                         | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-1502G/01/README.md)     |
-| Game no Tatsujin 2                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1509G/01/README.md)     |
-| Game no Tatsujin: The Shanghai                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1506G/01/README.md)     |
-| Garou Densetsu 3 - Road to the Final Victory             | :jp:   | :100:                                | [Link](Regions/Japan/T-3102G/README.md)        |
-| Gegege no Kitarou: Gentou Kaikitan                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13310G/01/README.md)    |
-| Gekiretsu Pachinkers                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-29601G/01/README.md)    |
-| Gekirindan                                               | :jp:   | :100:                                | [Link](Regions/Japan/T-7008G/README.md)        |
-| Gekitotsu Koushien                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-6701G/01/README.md)     |
-| Gekka Mugentan Torico                                    | :jp:   | :cd: 2x                              | [Link](Regions/Japan/GS-9056/01/README.md)     |
-| Gekka no Kishi: Ouryuusen                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20606G/01/README.md)    |
-| Gensou Suikoden                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9525G/01/README.md)     |
-| Gex                                                      | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-15904H50/01/README.md) |
-| Gex                                                      | :jp:   | :question:                           | TODO                                           |
-| Gex                                                      | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-15904H/01/README.md)      |
-| Ghen War                                                 | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-7010H-50/01/README.md) |
-| Ghen War                                                 | :jp:   | :question:                           | TODO                                           |
-| Ghen War                                                 | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81001/01/README.md)      |
-| Ginga Eiyuu Densetsu                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-22301G/01/README.md)    |
-| Ginga Eiyuu Densetsu Plus                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-22303G/01/README.md)    |
-| Ginga Ojousama Densetsu Yuna Mika Akitaka Illust Works   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14308G/01/README.md)    |
-| Ginga Ojousama Densetsu Yuna Mika Akitaka Illust Works 2 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14323G/01/README.md)    |
-| Ginga Ojousama Densetsu Yuna 3: Lightning Angel          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14311G/01/README.md)    |
-| Ginga Ojousama Densetsu Yuna Remix                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14307G/01/README.md)    |
-| Girl Doll Toy: Tamashii o Kudasai                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-37002G/01/README.md)    |
-| Go III Professional Taikyoku Igo                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-29003G/01/README.md)    |
-| Godzilla Rettoushinkan                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9050/01/README.md)     |
-| Goiken Muyou - Anarchy in the Nippon                     | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-28902G/01/README.md)    |
-| Gokujou Parodius Da! Deluxe Pack                         | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-9501G/README.md)        |
-| Golden Axe: The Duel                                     | :eu:   | :x:                                  | [Link](Regions/Europe/MK-81045/01/README.md)   |
-| Golden Axe - The Duel                                    | :jp:   | :question:                           | TODO                                           |
-| Golden Axe: The Duel                                     | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/USA/MK-81045/README.md)         |
-| Gotha - Ismailia SenEki                                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/GS-9009/README.md)        |
-| Gotha II: Tenkuu no Kishi                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7608G/01/README.md)     |
-| Groove on Fight: Gōketsuji Ichizoku 3                    | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-14411G/README.md)       |
-| Gradius Deluxe Pack                                      | :jp:   | :x:                                  | [Link](Regions/Japan/T-9509G/README.md)        |
-| Gran Chaser                                              | :jp:   | :100:                                | [Link](Regions/Japan/GS-9022/README.md)        |
-| GranDread                                                | :jp:   | :x:                                  | [Link](Regions/Japan/T-20603G/01/README.md)    |
-| Grand Slam                                               | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-07004H/01/README.md)      |
-| Grandia                                                  | :jp:   | :question:                           | TODO                                           |
-| Grandia Digital Museum                                   | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-4512G/01/README.md)     |
-| Greatest Nine '96                                        | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9086/01/README.md)     |
-| Grid Run                                                 | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-7016H-50/01/README.md) |
-| Grid Runner                                              | :jp:   | :question:                           | TODO                                           |
-| Grid Runner                                              | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-7025H/01/README.md)       |
-| Guardian Force                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9905G/01/README.md)     |
-| Guardian Heroes                                          | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81035/01/README.md)   |
-| Guardian Heroes                                          | :jp:   | :100:                                | [Link](Regions/Japan/GS-9031/README.md)        |
-| Guardian Heroes                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81035/01/README.md)      |
-| Gun Frontier Arcade Gears                                | :jp:   | :100:                                | [Link](Regions/Japan/T-26109G/README.md)       |
-| Gunblaze S                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-19710G/01/README.md)    |
-| Gunbird                                                  | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-14402G/README.md)       |
-| Gungriffon                                               | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81046/01/README.md)   |
-| Gungriffon                                               | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81046/01/README.md)      |
-| Gungriffon - The Eurasian Conflict                       | :jp:   | :question:                           | TODO                                           |
-| Gungriffon II                                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-4511G/01/README.md)     |
-| Gussun Oyoyo S                                           | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-26101G/01/README.md)    |
-| Gyuwambler Jiko Chuushinha - Tokyo Mahjongland           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-4504G/01/README.md)     |
+| Name                                                       | Region | Status                               | Details                                            |
+| ---------------------------------------------------------- | ------ | ------------------------------------ | -------------------------------------------------- |
+| G Vector                                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-30603G/01/README.md)        |
+| GT24                                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-5714G/01/README.md)         |
+| Gaia Breeder                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-34801G/01/README.md)        |
+| Gaia Breeder (Demo)                                        | :jp:   | :question:                           | TODO                                               |
+| Gakkou no Kaidan                                           | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/GS-9026/README.md)            |
+| Gakkou no Kowai Uwasa Hanako-san ga Kita!!                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1205G/01/README.md)         |
+| Gal Jan                                                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-29101G/01/README.md)        |
+| Galactic Attack                                            | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-8116H-50/01/README.md)     |
+| Galactic Attack                                            | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8116H/01/README.md)           |
+| Galaxy Fight                                               | :eu:   | :100:                                | [Link](Regions/Europe/T-1504H-50/README.md)        |
+| Galaxy Fight                                               | :us:   | :100:                                | [Link](Regions/USA/T-1504H/README.md)              |
+| Galaxy Fight: Universal Warriors                           | :jp:   | :100:                                | [Link](Regions/Japan/T-1510G/README.md)            |
+| Gale Racer                                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9003/01/README.md)         |
+| Gals Panic SS                                              | :jp:   | :100:                                | [Link](Regions/Japan/T-29002G/README.md)           |
+| Game-Ware                                                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17002G/01/README.md)        |
+| Game-Ware Vol. 2                                           | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17003G/01/README.md)        |
+| Game-Ware Vol. 3                                           | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17004G-T/01/README.md)      |
+| Game-Ware Vol. 4                                           | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-17005G/01/README.md)        |
+| Game-Ware Vol. 5                                           | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-17006G/01/README.md)        |
+| Game Basic for Sega Saturn                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-2111G/01/README.md)         |
+| Game Nihonshi: Kakumeiji Oda Nobunaga                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7633G/01/README.md)         |
+| Game Tengoku                                               | :jp:   | :100:                                | [Link](Regions/Japan/T-5712G/README.md)            |
+| Game de Seishun                                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-19711G/01/README.md)        |
+| Game no Tatsujin                                           | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-1502G/01/README.md)         |
+| Game no Tatsujin 2                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1509G/01/README.md)         |
+| Game no Tatsujin: The Shanghai                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1506G/01/README.md)         |
+| Garou Densetsu 3 - Road to the Final Victory               | :jp:   | :100:                                | [Link](Regions/Japan/T-3102G/README.md)            |
+| Gegege no Kitarou: Gentou Kaikitan                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13310G/01/README.md)        |
+| Gekiretsu Pachinkers                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-29601G/01/README.md)        |
+| Gekirindan                                                 | :jp:   | :100:                                | [Link](Regions/Japan/T-7008G/README.md)            |
+| Gekitotsu Koushien                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-6701G/01/README.md)         |
+| Gekitotsu Koushien (Demo)                                  | :jp:   | :question:                           | TODO                                               |
+| Gekka Mugentan Torico                                      | :jp:   | :cd: 2x                              | [Link](Regions/Japan/GS-9056/01/README.md)         |
+| Gekka no Kishi: Ouryuusen                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-20606G/01/README.md)        |
+| Gensou Suikoden                                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9525G/01/README.md)         |
+| Gex                                                        | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-15904H50/01/README.md)     |
+| Gex                                                        | :jp:   | :question:                           | TODO                                               |
+| Gex                                                        | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-15904H/01/README.md)          |
+| Ghen War                                                   | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-7010H-50/01/README.md)     |
+| Ghen War                                                   | :jp:   | :question:                           | TODO                                               |
+| Ghen War                                                   | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81001/01/README.md)          |
+| Ginga Eiyuu Densetsu                                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-22301G/01/README.md)        |
+| Ginga Eiyuu Densetsu (Demo)                                | :jp:   | :question:                           | TODO                                               |
+| Ginga Eiyuu Densetsu Plus                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-22303G/01/README.md)        |
+| Ginga Ojousama Densetsu Yuna Mika Akitaka Illust Works     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14308G/01/README.md)        |
+| Ginga Ojousama Densetsu Yuna Mika Akitaka Illust Works 2   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14323G/01/README.md)        |
+| Ginga Ojousama Densetsu Yuna 3: Lightning Angel            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14311G/01/README.md)        |
+| Ginga Ojousama Densetsu Yuna Remix                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14307G/01/README.md)        |
+| Girl Doll Toy: Tamashii o Kudasai                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-37002G/01/README.md)        |
+| Go III Professional Taikyoku Igo                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-29003G/01/README.md)        |
+| Godzilla Rettoushinkan                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9050/01/README.md)         |
+| Goiken Muyou - Anarchy in the Nippon                       | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-28902G/01/README.md)        |
+| Goiken Muyou - Anarchy in the Nippon (Demo)                | :jp:   | :question:                           | TODO                                               |
+| Gokujou Parodius Da! Deluxe Pack                           | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-9501G/README.md)            |
+| Golden Axe: The Duel                                       | :eu:   | :x:                                  | [Link](Regions/Europe/MK-81045/01/README.md)       |
+| Golden Axe - The Duel                                      | :jp:   | :question:                           | TODO                                               |
+| Golden Axe: The Duel                                       | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/USA/MK-81045/README.md)             |
+| Gotha - Ismailia SenEki                                    | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/GS-9009/README.md)            |
+| Gotha II: Tenkuu no Kishi                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7608G/01/README.md)         |
+| Gotha II - Tenkuu no Kishi + Teitoku no Ketsudan II (Demo) | :jp:   | :question:                           | TODO                                               |
+| Groove on Fight: Gōketsuji Ichizoku 3                      | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-14411G/README.md)           |
+| Gradius Deluxe Pack                                        | :jp:   | :x:                                  | [Link](Regions/Japan/T-9509G/README.md)            |
+| Gran Chaser                                                | :jp:   | :100:                                | [Link](Regions/Japan/GS-9022/README.md)            |
+| GranDread                                                  | :jp:   | :x:                                  | [Link](Regions/Japan/T-20603G/01/README.md)        |
+| Grand Slam                                                 | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-07004H/01/README.md)          |
+| Grandia                                                    | :jp:   | :question:                           | TODO                                               |
+| Grandia: Prelude                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/6106600__DEMO/01/README.md)   |
+| Grandia Digital Museum                                     | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-4512G/01/README.md)         |
+| Greatest Nine '96                                          | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9086/01/README.md)         |
+| Gremlin Interactive Demo Disc                              | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-12313H__DEMO/01/README.md) |
+| Gremlin Interactive Demo Disk                              | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-12301H__DEMO/01/README.md) |
+| Grid Run                                                   | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-7016H-50/01/README.md)     |
+| Grid Runner                                                | :jp:   | :question:                           | TODO                                               |
+| Grid Runner                                                | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-7025H/01/README.md)           |
+| Guardian Force                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9905G/01/README.md)         |
+| Guardian Heroes                                            | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81035/01/README.md)       |
+| Guardian Heroes                                            | :jp:   | :100:                                | [Link](Regions/Japan/GS-9031/README.md)            |
+| Guardian Heroes                                            | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81035/01/README.md)          |
+| Gun Frontier Arcade Gears                                  | :jp:   | :100:                                | [Link](Regions/Japan/T-26109G/README.md)           |
+| Gunblaze S                                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-19710G/01/README.md)        |
+| Gunbird                                                    | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-14402G/README.md)           |
+| Gunbird (Demo)                                             | :jp:   | :question:                           | TODO                                               |
+| Gungriffon                                                 | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81046/01/README.md)       |
+| Gungriffon                                                 | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81046/01/README.md)          |
+| Gungriffon - The Eurasian Conflict                         | :jp:   | :question:                           | TODO                                               |
+| Gungriffon II                                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-4511G/01/README.md)         |
+| Gungriffon II (Demo)                                       | :jp:   | :question:                           | TODO                                               |
+| Gussun Oyoyo S                                             | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-26101G/01/README.md)        |
+| Gyuwambler Jiko Chuushinha - Tokyo Mahjongland             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-4504G/01/README.md)         |
 
 ### H
 
-| Name                                                              | Region | Status              | Details                                          |
-| ----------------------------------------------------------------- | ------ | ------------------- | ------------------------------------------------ |
-| Habitat II                                                        | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/GS-7105/README.md)          |
-| Hang On GP '95                                                    | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9032/README.md)          |
-| Hang On GP '96                                                    | :eu:   | :question:          | TODO                                             |
-| Hang-On GP                                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81202/01/README.md)        |
-| Hankou Shashin: Shibarareta Shoujo-tachi no Mita Mono ha?         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15008G/01/README.md)      |
-| Hansha de Spark!                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20902G/01/README.md)      |
-| Hardcore 4x4                                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-12303H/01/README.md)     |
-| Harukaze Sentai V-Force                                           | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-19904G/01/README.md)      |
-| HatTrick Hero S                                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1103G/01/README.md)       |
-| Hatsukoi Monogatari                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-33004G/01/README.md)      |
-| Haunted Casino                                                    | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-21902G/01/README.md)      |
-| Heartbeat Scramble                                                | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-15014G/README.md)         |
-| Heart of Darkness (Proto)                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/999999999__PROTO/README.md) |
-| Hebereke's Popoitto                                               | :eu:   | :hammer_and_wrench: | [Link](Regions/Europe/T-1502H/README.md)         |
-| Heim Waltz                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9121/01/README.md)       |
-| Heir of Zendor - The Legend and The Land                          | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7605H/01/README.md)         |
-| Heisei Tensai Bakabon Susume! Bakabons                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-17001G/01/README.md)      |
-| Heiwa Pachinko Soushingeki                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18702G/01/README.md)      |
-| Henry Explorers                                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9518G/01/README.md)       |
-| Herc's Adventures                                                 | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-23001H/01/README.md)        |
-| Hexen                                                             | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-25405H50/01/README.md)   |
-| Hexen                                                             | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25406H/01/README.md)        |
-| Hexen - Beyond Heretic                                            | :jp:   | :question:          | TODO                                             |
-| Hi-Octane                                                         | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-5002H/01/README.md)      |
-| Hi-Octane                                                         | :jp:   | :question:          | TODO                                             |
-| Hi-Octane - The Track Fights Back!                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5002H/01/README.md)         |
-| Hideo Nomo World Series Baseball                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9061/01/README.md)       |
-| High Velocity - Mountain Racing Challenge                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-14402H/01/README.md)        |
-| Highschool Terra Story                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19715G/01/README.md)      |
-| Highway 2000                                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-6012H-50/01/README.md)   |
-| Highway 2000                                                      | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-31101H/01/README.md)        |
-| Himitsu Sentai Metamor V                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29005G/01/README.md)      |
-| Hissatsu Pachinko Collection                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1503G/README.md)          |
-| Hissatsu!                                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-23402G/01/README.md)      |
-| Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21002G/01/README.md)      |
-| Hokuto no Ken                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20601G/01/README.md)      |
-| Honkaku 4-nin Uchi Geinoujin Taikyoku Mahjong - The Wareme de Pon | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-3001G/01/README.md)       |
-| Honkaku Hanafuda                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-16611G/01/README.md)      |
-| Honkaku Pro Mahjong Tetsuman Special                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18709G/01/README.md)      |
-| Honkaku Shougi Shinan - Wakamatsu Shougi Juku                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4402G/01/README.md)       |
-| Hop Step Idol                                                     | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-20507G/README.md)         |
-| Horror Tour                                                       | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-24301G/README.md)         |
-| Houkago Ren'ai Club - Koi no Etude                                | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-19714G/01/README.md)      |
-| Houma Hunter Lime Perfect Collection                              | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-2001G/01/README.md)       |
-| Hyper 3-D Pinball                                                 | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7015H/01/README.md)         |
-| Hyper 3-D Pinball                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7007G/01/README.md)       |
-| Hyper 3D Taisen Battle Gebockers                                  | :jp:   | :100:               | [Link](Regions/Japan/T-5303G/README.md)          |
-| Hyper Duel                                                        | :jp:   | :100:               | [Link](Regions/Japan/T-1809G/README.md)          |
-| Hyper Reverthion                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1803G/01/README.md)       |
-| Hyper Securities S                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9105G/01/README.md)       |
+| Name                                                              | Region | Status              | Details                                            |
+| ----------------------------------------------------------------- | ------ | ------------------- | -------------------------------------------------- |
+| Habitat II                                                        | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/GS-7105/README.md)            |
+| Hang On GP '95                                                    | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9032/README.md)            |
+| Hang On GP '95 (Demo) (2M)                                        | :jp:   | :question:          | TODO                                               |
+| Hang On GP '96                                                    | :eu:   | :question:          | TODO                                               |
+| Hang-On GP                                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81202/01/README.md)          |
+| Hankou Shashin: Shibarareta Shoujo-tachi no Mita Mono ha?         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15008G/01/README.md)        |
+| Hansha de Spark!                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20902G/01/README.md)        |
+| Hansha de Spark! (Demo)                                           | :jp:   | :question:          | TODO                                               |
+| Hardcore 4x4                                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-12303H/01/README.md)       |
+| Harukaze Sentai V-Force                                           | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-19904G/01/README.md)        |
+| Harukaze Sentai V-Force (Demo)                                    | :jp:   | :question:          | TODO                                               |
+| HatTrick Hero S                                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1103G/01/README.md)         |
+| Hatsukoi Monogatari                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-33004G/01/README.md)        |
+| Haunted Casino                                                    | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-21902G/01/README.md)        |
+| Heartbeat Scramble                                                | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-15014G/README.md)           |
+| Heart of Darkness (Proto)                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/999999999__PROTO/README.md)   |
+| Hebereke's Popoitto                                               | :eu:   | :hammer_and_wrench: | [Link](Regions/Europe/T-1502H/README.md)           |
+| Heim Waltz                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9121/01/README.md)         |
+| Heir of Zendor - The Legend and The Land                          | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7605H/01/README.md)           |
+| Heisei Tensai Bakabon Susume! Bakabons                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-17001G/01/README.md)        |
+| Heisei Tensai Bakabon Susume! Bakabons Hibaihin Mihonban (Demo)   | :jp:   | :question:          | TODO                                               |
+| Heiwa Pachinko Soushingeki                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18702G/01/README.md)        |
+| Henry Explorers                                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9518G/01/README.md)         |
+| Herc's Adventures                                                 | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-23001H/01/README.md)          |
+| Hexen                                                             | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-25405H50/01/README.md)     |
+| Hexen                                                             | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25406H/01/README.md)          |
+| Hexen - Beyond Heretic                                            | :jp:   | :question:          | TODO                                               |
+| Hi-Octane                                                         | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-5002H/01/README.md)        |
+| Hi-Octane                                                         | :jp:   | :question:          | TODO                                               |
+| Hi-Octane - The Track Fights Back!                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5002H/01/README.md)           |
+| Hideo Nomo World Series Baseball                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9061/01/README.md)         |
+| Hideo Nomo World Series Baseball Hibaihin Mihonban (Demo)         | :jp:   | :question:          | TODO                                               |
+| High Velocity - Mountain Racing Challenge                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-14402H/01/README.md)          |
+| Highschool Terra Story                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-19715G/01/README.md)        |
+| Highway 2000                                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-6012H-50/01/README.md)     |
+| Highway 2000                                                      | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-31101H/01/README.md)          |
+| Himitsu Sentai Metamor V                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29005G/01/README.md)        |
+| Hissatsu Pachinko Collection                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-1503G/README.md)            |
+| Hissatsu!                                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-23402G/01/README.md)        |
+| Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21002G/01/README.md)        |
+| Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1 (Demo) | :jp:   | :question:          | TODO                                               |
+| Hokuto no Ken                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20601G/01/README.md)        |
+| Honkaku 4-nin Uchi Geinoujin Taikyoku Mahjong - The Wareme de Pon | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-3001G/01/README.md)         |
+| Honkaku Hanafuda                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-16611G/01/README.md)        |
+| Honkaku Pro Mahjong Tetsuman Special                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18709G/01/README.md)        |
+| Honkaku Shougi Shinan - Wakamatsu Shougi Juku                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4402G/01/README.md)         |
+| Hop Step Idol                                                     | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-20507G/README.md)           |
+| Horror Tour                                                       | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-24301G/README.md)           |
+| Houkago Ren'ai Club - Koi no Etude                                | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-19714G/01/README.md)        |
+| Houma Hunter Lime Perfect Collection                              | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-2001G/01/README.md)         |
+| Hudson Soft - New Soft Line Up for Sega Saturn                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/610616716__DEMO/01/README.md) |
+| Hyper 3-D Pinball                                                 | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7015H/01/README.md)           |
+| Hyper 3-D Pinball                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7007G/01/README.md)         |
+| Hyper 3D Taisen Battle Gebockers                                  | :jp:   | :100:               | [Link](Regions/Japan/T-5303G/README.md)            |
+| Hyper 3D Taisen Battle Gebockers (Demo)                           | :jp:   | :question:          | TODO                                               |
+| Hyper Duel                                                        | :jp:   | :100:               | [Link](Regions/Japan/T-1809G/README.md)            |
+| Hyper Reverthion                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1803G/01/README.md)         |
+| Hyper Securities S                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9105G/01/README.md)         |
 
 ### I
 
@@ -737,6 +826,7 @@ Other links related to SAROO:
 | Idol Mahjong: Final Romance R (Bonus Discs)                             | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-16705G/README.md)       |
 | Image Fight & XMultiply: Arcade Gears                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-26110G/01/README.md)    |
 | Impact Racing                                                           | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-6010H-50/01/README.md) |
+| Impact Racing (Demo)                                                    | :eu:   | :question:          | TODO                                           |
 | Impact Racing                                                           | :jp:   | :x:                 | [Link](Regions/Japan/T-7307G/README.md)        |
 | Impact Racing                                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8139H/01/README.md)       |
 | In the Hunt                                                             | :eu:   | :question:          | TODO                                           |
@@ -758,7 +848,9 @@ Other links related to SAROO:
 
 | Name                                                                   | Region | Status              | Details                                         |
 | ---------------------------------------------------------------------- | ------ | ------------------- | ----------------------------------------------- |
+| J Super Bass Classic '96                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18707G/01/README.md)     |
 | J. B. Harold - Blue Chicago Blues                                      | :jp:   | :question:          | TODO                                            |
+| J. B. Harold - Blue Chicago Blues (Demo)                               | :jp:   | :question:          | TODO                                            |
 | J.League Go Go Goal!                                                   | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-3602G/README.md)         |
 | J.League Jikkyou Honoo no Striker                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-9528G/01/README.md)      |
 | J.League Pro Soccer Club o Tsukurou!                                   | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/GS-9034/01/README.md)      |
@@ -766,8 +858,9 @@ Other links related to SAROO:
 | J.League Victory Goal '96                                              | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9048/01/README.md)      |
 | J.League Victory Goal '97                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9140/01/README.md)      |
 | Jantei Battle Cos-Player                                               | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-34601G/01/README.md)     |
+| Jantei Battle Cos-Player (Demo)                                        | :jp:   | :question:          | TODO                                            |
 | Jantei Battle Cos-Player - Original Genga-shuu                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-3466106553/01/README.md) |
-| J Super Bass Classic '96                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18707G/01/README.md)     |
+| Java Tea Original Virtua Fighter Kids (Demo)                           | :jp:   | :question:          | TODO                                            |
 | Jewels of the Oracle                                                   | :eu:   | :question:          | TODO                                            |
 | Jewels of the Oracle (Proto 1)                                         | :us:   | :question:          | TODO                                            |
 | Jewels of the Oracle (Proto 2)                                         | :us:   | :question:          | TODO                                            |
@@ -796,6 +889,7 @@ Other links related to SAROO:
 | Name                                                                             | Region | Status                               | Details                                        |
 | -------------------------------------------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------- |
 | K-1 Fighting Illusion Shou                                                       | :jp:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-26102G/README.md)       |
+| K-1 Fighting Illusion Shou (Demo)                                                | :jp:   | :question:                           | TODO                                           |
 | Kaitei Daisensou                                                                 | :jp:   | :x:                                  | [Link](Regions/Japan/T-15006G/01/README.md)    |
 | Kaitou Saint Tail                                                                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-28201G/README.md)       |
 | Kakinoki Shougi                                                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-2104G/01/README.md)     |
@@ -803,15 +897,18 @@ Other links related to SAROO:
 | Kamen Rider: Sakusen File 1                                                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14101G/01/README.md)    |
 | Kanazawa Shougi                                                                  | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-16505G/01/README.md)    |
 | Kanzen Chuukei Pro Yakyuu Greatest Nine                                          | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9017/01/README.md)     |
+| Kanzen Chuukei Pro Yakyuu Greatest Nine (Demo)                                   | :jp:   | :question:                           | TODO                                           |
 | Keio Flying Squadron 2                                                           | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-6008H-50/01/README.md) |
 | Keiou Yuugekitai: Katsugeki-hen                                                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-6003G/01/README.md)     |
 | Keiou Yuugekitai: Okiraku Tamatebako                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/610-6321-0/README.md)     |
 | Kekkon: Marriage                                                                 | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-10501G/README.md)       |
 | Kekkon "Zenya"                                                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-10502G/01/README.md)    |
 | Keriotosse!                                                                      | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30306G/README.md)       |
+| Keriotosse! (Demo)                                                               | :jp:   | :question:                           | TODO                                           |
 | Kidou Senkan Nadesico: The Blank of 3 Years                                      | :jp:   | :cd: 2x                              | [Link](Regions/Japan/GS-9195/README.md)        |
 | Kidou Senkan Nadesico: Yappari Saigo ha 'Ai ga Katsu' ?                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9142/01/README.md)     |
 | Kidou Senshi Gundam Gaiden I: Senritsu no Blue                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13306G/01/README.md)    |
+| Kidou Senshi Gundam Gaiden I: Senritsu no Blue (Demo)                            | :jp:   | :question:                           | TODO                                           |
 | Kidou Senshi Gundam Gaiden II: Ao wo Uketsugu Mono                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13309G/01/README.md)    |
 | Kidou Senshi Gundam Gaiden III: Sabakareshi Mono                                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13312G/01/README.md)    |
 | Kidou Senshi Gundam: Giren no Yabou                                              | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-13327G/README.md)       |
@@ -857,6 +954,7 @@ Other links related to SAROO:
 | Last Gladiators                                      | :us:   | :minidisc: 2x      | [Link](Regions/USA/T-4804H/README.md)        |
 | Layer Section                                        | :jp:   | :minidisc: 3x      | [Link](Regions/Japan/T-1101G/01/README.md)   |
 | Layer Section II                                     | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-26409G/01/README.md)  |
+| Layer Section II (Demo)                              | :jp:   | :question:         | TODO                                         |
 | Le Manoir des Ames Perdues                           | :fr:   | :question:         | TODO                                         |
 | Legend of K-1: Grand Prix '96                        | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-7503G/01/README.md)   |
 | Legend of K-1: The Best Collection                   | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-7501G/01/README.md)   |
@@ -873,6 +971,7 @@ Other links related to SAROO:
 | LuLu: Un Conte Interactif de Romain Victor-Pujebet   | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/GS-9118/01/README.md)   |
 | Lunacy                                               | :us:   | :minidisc: 2x      | [Link](Regions/USA/T-14403H/01/README.md)    |
 | Lunar: Silver Star Story                             | :jp:   | :minidisc: 2x      | [Link](Regions/Japan/T-27901G/01/README.md)  |
+| Lunar - Silver Star Story (Demo)                     | :jp:   | :question:         | TODO                                         |
 | Lunar: Silver Star Story Complete                    | :jp:   | :skull:            | [Link](Regions/Japan/T-27904G/01/README.md)  |
 | Lunar 2: Eternal Blue                                | :jp:   | :cd: 2x            | [Link](Regions/Japan/T-27906G/01/README.md)  |
 | Lupin Sansei: Pyramid no Kenja                       | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-2004G/01/README.md)   |
@@ -881,121 +980,139 @@ Other links related to SAROO:
 
 ### M
 
-| Name                                                                            | Region | Status               | Details                                         |
-| ------------------------------------------------------------------------------- | ------ | -------------------- | ----------------------------------------------- |
-| Maboroshi no Black Bass                                                         | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-25303G/01/README.md)     |
-| Machine Head                                                                    | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-7914H/01/README.md)        |
-| Madden NFL 97                                                                   | :eu:   | :question:           | TODO                                            |
-| Madden NFL 97                                                                   | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-5010H/01/README.md)        |
-| Madden NFL 98                                                                   | :eu:   | :question:           | TODO                                            |
-| Madden NFL 98                                                                   | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-5024H/01/README.md)        |
-| Madou Monogatari                                                                | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-6607G/01/README.md)      |
-| Magic Carpet                                                                    | :eu:   | :question:           | TODO                                            |
-| Magic Carpet                                                                    | :jp:   | :question:           | TODO                                            |
-| Magic Carpet                                                                    | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-5006H/01/README.md)        |
-| Magic Knight Rayearth (4M)                                                      | :jp:   | :question:           | TODO                                            |
-| Magic Knight Rayearth (Genteiban) (1M)                                          | :jp:   | :question:           | TODO                                            |
-| Magic Knight Rayearth (Genteiban) (2M, 3M)                                      | :jp:   | :question:           | TODO                                            |
-| Magic Knight Rayearth                                                           | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-12706H/01/README.md)       |
-| Magical Drop                                                                    | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-1304G/01/README.md)      |
-| Magical Drop 2                                                                  | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/GS-9104/01/README.md)      |
-| Magical Drop III Toretate Zoukangou!                                            | :jp:   | :hammer_and_wrench:  | [Link](Regions/Japan/T-1313G/01/README.md)      |
-| Magical Hoppers                                                                 | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-13316G/01/README.md)     |
-| Mahjong Doukyuusei Special                                                      | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/MAJAN_DOUKYUSEI/README.md) |
-| Mahjong Gakuensai                                                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/MAJAN_GAKUENSAI/README.md) |
-| Mahjong Gakuensai DX: Zenjitsu ni Matsuwaru Funsenki                            | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-25306G/01/README.md)     |
-| Mahjong Ganryuujima                                                             | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-2101G/01/README.md)      |
-| Mahjong Gokuu Tenjiku                                                           | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-10601G/01/README.md)     |
-| Mahjong Hyper Reaction R                                                        | :jp:   | :hammer_and_wrench:  | [Link](Regions/Japan/T-2402G/01/README.md)      |
-| Mahjong Kaigan Monogatari: Mahjong Kyou Jidai Sexy Idol Hen                     | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-2201G/01/README.md)      |
-| Mahjong Taikai II Special                                                       | :jp:   | :minidisc: 2x        | [Link](Regions/Japan/T-7621G/01/README.md)      |
-| Mahjong Tenshi Angel Lips                                                       | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-27001G/01/README.md)     |
-| Mahjong Yon-Shimai: Wakakusa Monogatari                                         | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-18704G/01/README.md)     |
-| Mahjong Kyou Jidai: Cebu Island '96                                             | :jp:   | :cd: 2x              | [Link](Regions/Japan/T-2204G/README.md)         |
-| Mahjong Kyou Jidai: Cogal Houkago Hen                                           | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-2203G/01/README.md)      |
-| Mahou Gakuen Lunar!                                                             | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-27902G/01/README.md)     |
-| Mahou Shoujo Pretty Samy: Heart no Kimochi                                      | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-20112G/01/README.md)     |
-| Mahou Shoujo Pretty Samy: Osorubeshi Shintaisokutei! Kakubakuhatsu 5 Byou Mae!! | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-20110G/01/README.md)     |
-| Mahou no Jansi Poe Poe Poemy                                                    | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-15004G/01/README.md)     |
-| Mahou Tsukai ni Naru Houhou                                                     | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-32510G/01/README.md)     |
-| Mainichi Kawaru Quiz Bangumi Quiz 365                                           | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-21201G/01/README.md)     |
-| Making of Nightruth II: Voice Selection                                         | :jp:   | :x:                  | [Link](Regions/Japan/T-20205G/01/README.md)     |
-| Manx TT SuperBike (Europe)                                                      | :eu:   | :heavy_check_mark:   | [Link](Regions/Europe/MK-81210/01/README.md)    |
-| Manx TT SuperBike (Japan)                                                       | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/GS-9102/01/README.md)      |
-| Manx TT SuperBike (USA)                                                         | :us:   | :heavy_check_mark:   | [Link](Regions/USA/MK-81210/01/README.md)       |
-| Maria: Kimitachi ga Umareta Wake                                                | :jp:   | :cd: 2x              | [Link](Regions/Japan/T-36302G/01/README.md)     |
-| Marica: Shinjitsu no Sekai                                                      | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-6008G/01/README.md)      |
-| Marie no Atelier Ver. 1.3: Salburg no Renkinjutsushi                            | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-15033G/01/README.md)     |
-| Mario Mushano no Chou Shougi Juku                                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-24905G/01/README.md)     |
-| Marvel Super Heroes                                                             | :eu:   | :x:                  | [Link](Regions/Europe/T-7032H-50/01/README.md)  |
-| Marvel Super Heroes                                                             | :jp:   | :x:                  | [Link](Regions/Japan/T-1215G/01/README.md)      |
-| Marvel Super Heroes                                                             | :us:   | :100:                | [Link](Regions/USA/T-1214H/README.md)           |
-| Marvel Super Heroes vs. Street Fighter                                          | :jp:   | :100:                | [Link](Regions/Japan/T-1238G/README.md)         |
-| Mass Destruction                                                                | :eu:   | :question:           | TODO                                            |
-| Mass Destruction                                                                | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-18007H/01/README.md)       |
-| Mass Destruction - OtoUn ni mo Dekiru Soft                                      | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-18007G/01/README.md)     |
-| Master of Monsters                                                              | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-6301G/01/README.md)      |
-| Masters: Harukanaru Augusta 3                                                   | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-11401G/01/README.md)     |
-| Matsukata Hiroki no World Fishing                                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-24801G/01/README.md)     |
-| Maximum Force                                                                   | :eu:   | :heavy_check_mark:   | [Link](Regions/Europe/T-25417H/01/README.md)    |
-| Maximum Force                                                                   | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-9707H/01/README.md)        |
-| MechWarrior 2                                                                   | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-23406G/01/README.md)     |
-| MechWarrior 2 - 31st Century Combat - Arcade Combat Edition                     | :eu:   | :question:           | TODO                                            |
-| MechWarrior 2 - 31st Century Combat - Arcade Combat Edition                     | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-13004H/01/README.md)       |
-| Media ROMancer Daisuke Asakura                                                  | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-25001G/01/README.md)     |
-| Mega Man 8                                                                      | :us:   | :100:                | [Link](Regions/USA/T-1216H/README.md)           |
-| Mega Man X3                                                                     | :eu:   | :x:                  | [Link](Regions/Europe/T-7029H-50/01/README.md)  |
-| Mega Man X4                                                                     | :us:   | :100:                | [Link](Regions/USA/T-1219H/README.md)           |
-| MeltyLancer: Ginga Shoujo Keisatsu 2086                                         | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-15016G/01/README.md)     |
-| MeltyLancer Re-inforce                                                          | :jp:   | :cd: 3x              | [Link](Regions/Japan/T-15038G/01/README.md)     |
-| Message Navi                                                                    | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-4401G/01/README.md)      |
-| Message Navi Vol. 2                                                             | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-4404G/01/README.md)      |
-| Metal Black                                                                     | :jp:   | :minidisc: 2x        | [Link](Regions/Japan/T-19902G/01/README.md)     |
-| Metal Fighter Miku                                                              | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-6002G/01/README.md)      |
-| Metal Slug - Super Vehicle-001                                                  | :jp:   | :minidisc: 2x        | [Link](Regions/Japan/T-3111G/README.md)         |
-| Mezase Idol Star!! Natsuiro Memories: Mahjong Hen                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-31001G/01/README.md)     |
-| Midway Presents Arcade's Greatest Hits                                          | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-9703H/01/README.md)        |
-| Midway Presents Arcade's Greatest Hits: The Atari Collection 1                  | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-9706H/01/README.md)        |
-| Mighty Hits                                                                     | :eu:   | :heavy_check_mark:   | [Link](Regions/Europe/MK-81087/01/README.md)    |
-| Mighty Hits                                                                     | :jp:   | :x:                  | [Link](Regions/Japan/T-16604G/01/README.md)     |
-| Minakata Hakudou Toujou                                                         | :jp:   | :cd: 2x              | [Link](Regions/Japan/T-14414G/01/README.md)     |
-| Minami no Shima ni Buta ga Ita: Lucas no Daibouken                              | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-27101G/01/README.md)     |
-| Minnesota Fats: Pool Legend                                                     | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-1302H/01/README.md)        |
-| Minton Keibu no Sousa File: Doukeshi Satsujin Jiken                             | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-5307G/01/README.md)      |
-| Mizubaku Daibouken                                                              | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-19910G/01/README.md)     |
-| Mizuki Shigeru no Youkai Zukan Soushuuhen                                       | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-25506G/01/README.md)     |
-| Mobile Suit Gundam                                                              | :jp:   | :minidisc: 2x        | [Link](Regions/Japan/T-13303G/01/README.md)     |
-| Mobile Suit Gundam Side Story - Optional Guide                                  | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-13318G/01/README.md)     |
-| Moero!! Pro Yakyuu '95 - Double Header                                          | :jp:   | :question:           | TODO                                            |
-| Momotarou Douchuuki                                                             | :jp:   | :minidisc: 3x        | [Link](Regions/Japan/T-14309G/01/README.md)     |
-| Monster Slider                                                                  | :jp:   | :hammer_and_wrench:  | [Link](Regions/Japan/T-27302G/01/README.md)     |
-| Moon Cradle                                                                     | :jp:   | :cd: 3x              | [Link](Regions/Japan/T-9109G/01/README.md)      |
-| Mortal Kombat II                                                                | :eu:   | :100:                | [Link](Regions/Europe/T-8103H-50/README.md)     |
-| Mortal Kombat II                                                                | :us:   | :100:                | [Link](Regions/USA/T-8103H/README.md)           |
-| Mortal Kombat II Kanzenban                                                      | :jp:   | :x:                  | [Link](Regions/Japan/T-8107G/01/README.md)      |
-| Mortal Kombat Trilogy                                                           | :eu:   | :x:                  | [Link](Regions/Europe/T-25414H50/01/README.md)  |
-| Mortal Kombat Trilogy                                                           | :us:   | :x: :checkered_flag: | [Link](Regions/USA/T-9704H/README.md)           |
-| Motteke Tamago with Ganbare! Kamonohashi                                        | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-18712G/01/README.md)     |
-| Mouri Motonari: Chikai no Sanshi                                                | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-7646G/01/README.md)      |
-| Mr. Bones (Disc 1)                                                              | :eu:   | :question:           | TODO                                            |
-| Mr. Bones (Disc 2)                                                              | :eu:   | :question:           | TODO                                            |
-| Mr. Bones (Disc 1)                                                              | :jp:   | :question:           | TODO                                            |
-| Mr. Bones (Disc 2)                                                              | :jp:   | :question:           | TODO                                            |
-| Mr. Bones                                                                       | :us:   | :cd: 2x              | [Link](Regions/USA/MK-81016/01/README.md)       |
-| Mujintou Monogatari R: Futari no Love Love Island                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-28901G/01/README.md)     |
-| Murakoshi Seikai no Bakuchou Nihon Rettou                                       | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-9115G/01/README.md)      |
-| My Best Friends: St. Andrew Jogakuin Hen                                        | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-14404G/01/README.md)     |
-| My Dream: On Air ga Matenakute                                                  | :jp:   | :cd: 2x              | [Link](Regions/Japan/T-21303G/01/README.md)     |
-| My Fair Lady: Virtual Mahjong II                                                | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-2207G/01/README.md)      |
-| Myst                                                                            | :eu:   | :question:           | TODO                                            |
-| Myst (Rev A)                                                                    | :jp:   | :question:           | TODO                                            |
-| Myst                                                                            | :jp:   | :question:           | TODO                                            |
-| Myst                                                                            | :kr:   | :question:           | TODO                                            |
-| Myst                                                                            | :tw:   | :question:           | TODO                                            |
-| Myst                                                                            | :us:   | :question:           | TODO                                            |
-| Mystaria - The Realms of Lore                                                   | :eu:   | :question:           | TODO                                            |
-| Mystaria - The Realms of Lore                                                   | :us:   | :question:           | TODO                                            |
-| Mystery Mansion - Das Haus der verlorenen Seelen                                | :de:   | :question:           | TODO                                            |
+| Name                                                                            | Region | Status               | Details                                          |
+| ------------------------------------------------------------------------------- | ------ | -------------------- | ------------------------------------------------ |
+| Maboroshi no Black Bass                                                         | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-25303G/01/README.md)      |
+| Machi (Demo)                                                                    | :jp:   | :minidisc: 3x        | [Link](Regions/Japan/6106777__DEMO/01/README.md) |
+| Machine Head                                                                    | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-7914H/01/README.md)         |
+| Madden NFL 97                                                                   | :eu:   | :question:           | TODO                                             |
+| Madden NFL 97                                                                   | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-5010H/01/README.md)         |
+| Madden NFL 98                                                                   | :eu:   | :question:           | TODO                                             |
+| Madden NFL 98                                                                   | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-5024H/01/README.md)         |
+| Madou Monogatari                                                                | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-6607G/01/README.md)       |
+| Magic Carpet                                                                    | :eu:   | :question:           | TODO                                             |
+| Magic Carpet                                                                    | :jp:   | :question:           | TODO                                             |
+| Magic Carpet                                                                    | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-5006H/01/README.md)         |
+| Magic Knight Rayearth (4M)                                                      | :jp:   | :question:           | TODO                                             |
+| Magic Knight Rayearth (Genteiban) (1M)                                          | :jp:   | :question:           | TODO                                             |
+| Magic Knight Rayearth (Genteiban) (2M, 3M)                                      | :jp:   | :question:           | TODO                                             |
+| Magic Knight Rayearth                                                           | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-12706H/01/README.md)        |
+| Magical Drop                                                                    | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-1304G/01/README.md)       |
+| Magical Drop (Demo)                                                             | :jp:   | :question:           | TODO                                             |
+| Magical Drop 2                                                                  | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/GS-9104/01/README.md)       |
+| Magical Drop III Toretate Zoukangou!                                            | :jp:   | :hammer_and_wrench:  | [Link](Regions/Japan/T-1313G/01/README.md)       |
+| Magical Drop III - Toretate Zoukan-gou! (Demo)(1M)                              | :jp:   | :question:           | TODO                                             |
+| Magical Drop III - Toretate Zoukan-gou!(Demo) (2M)                              | :jp:   | :question:           | TODO                                             |
+| Magical Hoppers                                                                 | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-13316G/01/README.md)      |
+| Mahjong Doukyuusei Special                                                      | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/MAJAN_DOUKYUSEI/README.md)  |
+| Mahjong Gakuensai                                                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/MAJAN_GAKUENSAI/README.md)  |
+| Mahjong Gakuensai DX: Zenjitsu ni Matsuwaru Funsenki                            | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-25306G/01/README.md)      |
+| Mahjong Ganryuujima                                                             | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-2101G/01/README.md)       |
+| Mahjong Gokuu Tenjiku                                                           | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-10601G/01/README.md)      |
+| Mahjong Hyper Reaction R                                                        | :jp:   | :hammer_and_wrench:  | [Link](Regions/Japan/T-2402G/01/README.md)       |
+| Mahjong Kaigan Monogatari: Mahjong Kyou Jidai Sexy Idol Hen                     | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-2201G/01/README.md)       |
+| Mahjong Kaigan Monogatari - Mahjong-kyou Jidai Sexy Idol-hen (Demo)             | :jp:   | :question:           | TODO                                             |
+| Mahjong Taikai II Special                                                       | :jp:   | :minidisc: 2x        | [Link](Regions/Japan/T-7621G/01/README.md)       |
+| Mahjong Tenshi Angel Lips                                                       | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-27001G/01/README.md)      |
+| Mahjong Yon-Shimai: Wakakusa Monogatari                                         | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-18704G/01/README.md)      |
+| Mahjong Kyou Jidai: Cebu Island '96                                             | :jp:   | :cd: 2x              | [Link](Regions/Japan/T-2204G/README.md)          |
+| Mahjong Kyou Jidai: Cogal Houkago Hen                                           | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-2203G/01/README.md)       |
+| Mahou Gakuen Lunar!                                                             | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-27902G/01/README.md)      |
+| Mahou Shoujo Pretty Samy: Heart no Kimochi                                      | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-20112G/01/README.md)      |
+| Mahou Shoujo Pretty Samy: Osorubeshi Shintaisokutei! Kakubakuhatsu 5 Byou Mae!! | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-20110G/01/README.md)      |
+| Mahou no Jansi Poe Poe Poemy                                                    | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-15004G/01/README.md)      |
+| Mahou Tsukai ni Naru Houhou                                                     | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-32510G/01/README.md)      |
+| Mainichi Kawaru Quiz Bangumi Quiz 365                                           | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-21201G/01/README.md)      |
+| Making of Nightruth II: Voice Selection                                         | :jp:   | :x:                  | [Link](Regions/Japan/T-20205G/01/README.md)      |
+| Manx TT SuperBike (Europe)                                                      | :eu:   | :heavy_check_mark:   | [Link](Regions/Europe/MK-81210/01/README.md)     |
+| Manx TT SuperBike (Japan)                                                       | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/GS-9102/01/README.md)       |
+| Manx TT SuperBike                                                               | :us:   | :heavy_check_mark:   | [Link](Regions/USA/MK-81210/01/README.md)        |
+| Maria: Kimitachi ga Umareta Wake                                                | :jp:   | :cd: 2x              | [Link](Regions/Japan/T-36302G/01/README.md)      |
+| Maria - Kimi-tachi ga Umareta Wake (Demo)                                       | :jp:   | :question:           | TODO                                             |
+| Marica: Shinjitsu no Sekai                                                      | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-6008G/01/README.md)       |
+| Marie no Atelier Ver. 1.3: Salburg no Renkinjutsushi                            | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-15033G/01/README.md)      |
+| Mario Mushano no Chou Shougi Juku                                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-24905G/01/README.md)      |
+| Marvel Super Heroes                                                             | :eu:   | :x:                  | [Link](Regions/Europe/T-7032H-50/01/README.md)   |
+| Marvel Super Heroes                                                             | :jp:   | :x:                  | [Link](Regions/Japan/T-1215G/01/README.md)       |
+| Marvel Super Heroes (Demo)                                                      | :jp:   | :question:           | TODO                                             |
+| Marvel Super Heroes                                                             | :us:   | :100:                | [Link](Regions/USA/T-1214H/README.md)            |
+| Marvel Super Heroes vs. Street Fighter                                          | :jp:   | :100:                | [Link](Regions/Japan/T-1238G/README.md)          |
+| Mass Destruction                                                                | :eu:   | :question:           | TODO                                             |
+| Mass Destruction                                                                | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-18007H/01/README.md)        |
+| Mass Destruction - OtoUn ni mo Dekiru Soft                                      | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-18007G/01/README.md)      |
+| Master of Monsters                                                              | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-6301G/01/README.md)       |
+| Masters: Harukanaru Augusta 3                                                   | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-11401G/01/README.md)      |
+| Matsukata Hiroki no World Fishing                                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-24801G/01/README.md)      |
+| Maximum Force                                                                   | :eu:   | :heavy_check_mark:   | [Link](Regions/Europe/T-25417H/01/README.md)     |
+| Maximum Force                                                                   | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-9707H/01/README.md)         |
+| MechWarrior 2                                                                   | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-23406G/01/README.md)      |
+| MechWarrior 2 - 31st Century Combat - Arcade Combat Edition                     | :eu:   | :question:           | TODO                                             |
+| MechWarrior 2 - 31st Century Combat - Arcade Combat Edition                     | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-13004H/01/README.md)        |
+| Media ROMancer Daisuke Asakura                                                  | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-25001G/01/README.md)      |
+| Mega Man 8                                                                      | :us:   | :100:                | [Link](Regions/USA/T-1216H/README.md)            |
+| Mega Man X3                                                                     | :eu:   | :x:                  | [Link](Regions/Europe/T-7029H-50/01/README.md)   |
+| Mega Man X4                                                                     | :us:   | :100:                | [Link](Regions/USA/T-1219H/README.md)            |
+| MeltyLancer: Ginga Shoujo Keisatsu 2086                                         | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-15016G/01/README.md)      |
+| MeltyLancer Re-inforce                                                          | :jp:   | :cd: 3x              | [Link](Regions/Japan/T-15038G/01/README.md)      |
+| MeltyLancer - Re-inforce (Demo)                                                 | :jp:   | :question:           | TODO                                             |
+| Message Navi                                                                    | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-4401G/01/README.md)       |
+| Message Navi (Demo)                                                             | :jp:   | :question:           | TODO                                             |
+| Message Navi Vol. 2                                                             | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-4404G/01/README.md)       |
+| Metal Black                                                                     | :jp:   | :minidisc: 2x        | [Link](Regions/Japan/T-19902G/01/README.md)      |
+| Metal Fighter Miku                                                              | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-6002G/01/README.md)       |
+| Metal Slug - Super Vehicle-001                                                  | :jp:   | :minidisc: 2x        | [Link](Regions/Japan/T-3111G/README.md)          |
+| Mezase Idol Star!! Natsuiro Memories: Mahjong Hen                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-31001G/01/README.md)      |
+| Midway Presents Arcade's Greatest Hits                                          | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-9703H/01/README.md)         |
+| Midway Presents Arcade's Greatest Hits: The Atari Collection 1                  | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-9706H/01/README.md)         |
+| Mighty Hits                                                                     | :eu:   | :heavy_check_mark:   | [Link](Regions/Europe/MK-81087/01/README.md)     |
+| Mighty Hits                                                                     | :jp:   | :x:                  | [Link](Regions/Japan/T-16604G/01/README.md)      |
+| Minakata Hakudou Toujou                                                         | :jp:   | :cd: 2x              | [Link](Regions/Japan/T-14414G/01/README.md)      |
+| Minami no Shima ni Buta ga Ita: Lucas no Daibouken                              | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-27101G/01/README.md)      |
+| Minnesota Fats: Pool Legend                                                     | :us:   | :heavy_check_mark:   | [Link](Regions/USA/T-1302H/01/README.md)         |
+| Minton Keibu no Sousa File: Doukeshi Satsujin Jiken                             | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-5307G/01/README.md)       |
+| Mizubaku Daibouken                                                              | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-19910G/01/README.md)      |
+| Mizuki Shigeru no Youkai Zukan Soushuuhen                                       | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-25506G/01/README.md)      |
+| Mobile Suit Gundam                                                              | :jp:   | :minidisc: 2x        | [Link](Regions/Japan/T-13303G/01/README.md)      |
+| Mobile Suit Gundam Side Story - Optional Guide                                  | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-13318G/01/README.md)      |
+| Moero!! Pro Yakyuu '95 - Double Header                                          | :jp:   | :question:           | TODO                                             |
+| Mogitate SegaSaturn - Special Movie (2M)                                        | :jp:   | :question:           | TODO                                             |
+| Mogitate SegaSaturn Vol. 2                                                      | :jp:   | :question:           | TODO                                             |
+| Mogitate SegaSaturn Vol. 3                                                      | :jp:   | :question:           | TODO                                             |
+| Mogitate SegaSaturn Vol. 4                                                      | :jp:   | :question:           | TODO                                             |
+| Mogitate SegaSaturn Vol. 5                                                      | :jp:   | :question:           | TODO                                             |
+| Mogitate SegaSaturn Vol. 6                                                      | :jp:   | :question:           | TODO                                             |
+| Momotarou Douchuuki                                                             | :jp:   | :minidisc: 3x        | [Link](Regions/Japan/T-14309G/01/README.md)      |
+| Monster Slider                                                                  | :jp:   | :hammer_and_wrench:  | [Link](Regions/Japan/T-27302G/01/README.md)      |
+| Monster Slider (Demo)                                                           | :jp:   | :question:           | TODO                                             |
+| Moon Cradle                                                                     | :jp:   | :cd: 3x              | [Link](Regions/Japan/T-9109G/01/README.md)       |
+| Moon Cradle (Demo)                                                              | :jp:   | :question:           | TODO                                             |
+| Mortal Kombat II                                                                | :eu:   | :100:                | [Link](Regions/Europe/T-8103H-50/README.md)      |
+| Mortal Kombat II                                                                | :us:   | :100:                | [Link](Regions/USA/T-8103H/README.md)            |
+| Mortal Kombat II Kanzenban                                                      | :jp:   | :x:                  | [Link](Regions/Japan/T-8107G/01/README.md)       |
+| Mortal Kombat Trilogy                                                           | :eu:   | :x:                  | [Link](Regions/Europe/T-25414H50/01/README.md)   |
+| Mortal Kombat Trilogy                                                           | :us:   | :x: :checkered_flag: | [Link](Regions/USA/T-9704H/README.md)            |
+| Motteke Tamago with Ganbare! Kamonohashi                                        | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-18712G/01/README.md)      |
+| Mouri Motonari: Chikai no Sanshi                                                | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-7646G/01/README.md)       |
+| Mr. Bones (Disc 1)                                                              | :eu:   | :question:           | TODO                                             |
+| Mr. Bones (Disc 2)                                                              | :eu:   | :question:           | TODO                                             |
+| Mr. Bones (Demo)                                                                | :jp:   | :question:           | TODO                                             |
+| Mr. Bones (Disc 1)                                                              | :jp:   | :question:           | TODO                                             |
+| Mr. Bones (Disc 2)                                                              | :jp:   | :question:           | TODO                                             |
+| Mr. Bones                                                                       | :us:   | :cd: 2x              | [Link](Regions/USA/MK-81016/01/README.md)        |
+| Mujintou Monogatari R: Futari no Love Love Island                               | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-28901G/01/README.md)      |
+| Murakoshi Seikai no Bakuchou Nihon Rettou                                       | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-9115G/01/README.md)       |
+| My Best Friends: St. Andrew Jogakuin Hen                                        | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-14404G/01/README.md)      |
+| My Dream: On Air ga Matenakute                                                  | :jp:   | :cd: 2x              | [Link](Regions/Japan/T-21303G/01/README.md)      |
+| My Fair Lady: Virtual Mahjong II                                                | :jp:   | :heavy_check_mark:   | [Link](Regions/Japan/T-2207G/01/README.md)       |
+| Myst                                                                            | :eu:   | :question:           | TODO                                             |
+| Myst (Rev A)                                                                    | :jp:   | :question:           | TODO                                             |
+| Myst                                                                            | :jp:   | :question:           | TODO                                             |
+| Myst                                                                            | :kr:   | :question:           | TODO                                             |
+| Myst                                                                            | :tw:   | :question:           | TODO                                             |
+| Myst                                                                            | :us:   | :question:           | TODO                                             |
+| Mystaria - The Realms of Lore                                                   | :eu:   | :question:           | TODO                                             |
+| Mystaria - The Realms of Lore                                                   | :us:   | :question:           | TODO                                             |
+| Mystery Mansion - Das Haus der verlorenen Seelen                                | :de:   | :question:           | TODO                                             |
 
 ### N
 
@@ -1040,15 +1157,19 @@ Other links related to SAROO:
 | NHL Powerplay '96                                                     | :jp:          | :question:          | TODO                                         |
 | NHL Powerplay '96                                                     | :us:          | :heavy_check_mark:  | [Link](Regions/USA/T-07013H/01/README.md)    |
 | Noël 3                                                                | :jp:          | :cd: 3x             | [Link](Regions/Japan/T-22205G/01/README.md)  |
+| Noël 3 (Demo)                                                         | :jp:          | :question:          | TODO                                         |
 | Nanatsu Kaze no Shima Monogatari                                      | :jp:          | :cd: 2x             | [Link](Regions/Japan/T-35501G/01/README.md)  |
 | Nanatsu no Hikan                                                      | :jp:          | :cd: 3x             | [Link](Regions/Japan/T-7616G/01/README.md)   |
+| Nanatsu no Hikan (Demo)                                               | :jp:          | :question:          | TODO                                         |
 | Nekketsu Oyako                                                        | :jp:          | :100:               | [Link](Regions/Japan/T-1802G/README.md)      |
 | NetLink Custom Web Browser                                            | :us:          | :minidisc: 2x       | [Link](Regions/USA/T-319-01H/01/README.md)   |
 | Next King - Koi no Sennen Oukoku                                      | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-13328G/01/README.md)  |
 | NiGHTS into Dreams...                                                 | :eu:          | :x:                 | [Link](Regions/Europe/MK-81020/01/README.md) |
 | NiGHTS into Dreams...                                                 | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/GS-9046/01/README.md)   |
+| NiGHTS into Dreams... (Demo)                                          | :jp:          | :question:          | TODO                                         |
 | NiGHTS into Dreams...                                                 | :kr:          | :question:          | TODO                                         |
 | NiGHTS into Dreams...                                                 | :us: :brazil: | :minidisc: 2x       | [Link](Regions/USA/MK-81020/01/README.md)    |
+| NiGHTS into Dreams... (Demo)                                          | :us:          | :question:          | TODO                                         |
 | Night Striker S                                                       | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-19901G/01/README.md)  |
 | Night Warriors: Darkstalkers' Revenge                                 | :eu:          | :100:               | [Link](Regions/Europe/T-7009H-50/README.md)  |
 | Night Warriors: Darkstalkers' Revenge                                 | :us:          | :100:               | [Link](Regions/USA/T-1208H/README.md)        |
@@ -1060,17 +1181,20 @@ Other links related to SAROO:
 | Nihon Pro Mahjong Renmei Kounin Doujou Yaburi                         | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-18714G/01/README.md)  |
 | Nile Gawa no Yoake                                                    | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-9106G/01/README.md)   |
 | Ninja Jajamaru-kun: Onigiri Ninpouchou Gold                           | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-5709G/01/README.md)   |
+| Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Demo)                   | :jp:          | :question:          | TODO                                         |
 | Ninku: Tsuyokina Yatsura no Daigekitotsu!                             | :jp:          | :hammer_and_wrench: | [Link](Regions/Japan/GS-9036/README.md)      |
 | Ninpen Manmaru                                                        | :jp:          | :minidisc: 2x       | [Link](Regions/Japan/T-35502G/01/README.md)  |
 | Nissan Presents - Over Drivin' GT-R                                   | :jp:          | :minidisc: 2x       | [Link](Regions/Japan/T-10613G/01/README.md)  |
+| Nissan Presents - Over Drivin' GT-R (Demo)                            | :jp:          | :question:          | TODO                                         |
 | Nobunaga no Yabou Shouseiroku                                         | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-7664G/01/README.md)   |
 | Nobunaga no Yabou Returns                                             | :jp:          | :x:                 | [Link](Regions/Japan/T-7614G/01/README.md)   |
 | Nobunaga no Yabou Sengoku Gunyuuden                                   | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-7658G/01/README.md)   |
 | Nobunaga no Yabou Tenshouki                                           | :jp:          | :hammer_and_wrench: | [Link](Regions/Japan/T-7605G/README.md)      |
+| Nobunaga no Yabou Tenshouki (Demo)                                    | :jp:          | :question:          | TODO                                         |
 | Nobunaga no Yabou Tenshouki with Power-Up Kit                         | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-7643G/01/README.md)   |
 | Nonomura Byouin no Hitobito                                           | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-28001G/01/README.md)  |
 | Noon                                                                  | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-5206G/01/README.md)   |
-| Norse by Norsewest: The Return of The Lost Vikings (USA)              | :us:          | :heavy_check_mark:  | [Link](Regions/USA/T-12522H/01/README.md)    |
+| Norse by Norsewest: The Return of The Lost Vikings                    | :us:          | :heavy_check_mark:  | [Link](Regions/USA/T-12522H/01/README.md)    |
 
 ### O
 
@@ -1091,124 +1215,142 @@ Other links related to SAROO:
 | Omakase! Savers                          | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/GS-9030/01/README.md)      |
 | OoEdo Renaissance                        | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-9104G/01/README.md)      |
 | Oracle no Houseki - Jewels of the Oracle | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-1511G/01/README.md)      |
+| Otanoshimi 3 Shiro! Disc (Demo)          | :jp:   | :question:         | TODO                                            |
 | Ousama Game                              | :jp:   | :cd: 2x            | [Link](Regions/Japan/T-21904G/01/README.md)     |
 
 ### P
 
-| Name                                                  | Region | Status                               | Details                                        |
-| ----------------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------- |
-| Pacific Theater of Operations II                      | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-7604H/01/README.md)       |
-| PD Ultraman Link                                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13304G/01/README.md)    |
-| PGA Tour 97                                           | :eu:   |                                      | TODO                                           |
-| PGA Tour 97                                           | :jp:   | :question:                           | TODO                                           |
-| PGA Tour 97                                           | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5011H/01/README.md)       |
-| Pachi-Slot Kanzen Kouryaku Uni-Colle'97               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-36501G/01/README.md)    |
-| Pachinko Hall Shinsou Daikaiten                       | :jp:   | :x:                                  | [Link](Regions/Japan/T-37501G/01/README.md)    |
-| Pad Nifty                                             | :jp:   | :question:                           | TODO                                           |
-| Pad Nifty 1.1 & Habitat II                            | :jp:   | :question:                           | TODO                                           |
-| Pandemonium!                                          | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-8109050/01/README.md) |
-| Pandemonium!                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-15914H/01/README.md)      |
-| Paneltia Story: Karen no Daibouken                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21510G/01/README.md)    |
-| Panic Chan                                            | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-15010G/01/README.md)    |
-| Panzer Dragoon                                        | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81009/01/README.md)   |
-| Panzer Dragoon                                        | :jp:   | :minidisc: 4x                        | [Link](Regions/Japan/GS-9015/01/README.md)     |
-| Panzer Dragoon                                        | :us:   | :minidisc: 2x                        | [Link](Regions/USA/MK-81009/README.md)         |
-| Panzer Dragoon II Zwei                                | :eu:   | :question:                           | TODO                                           |
-| Panzer Dragoon II Zwei                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9049/01/README.md)     |
-| Panzer Dragoon II Zwei                                | :us:   | :100:                                | [Link](Regions/USA/MK-81022/README.md)         |
-| Panzer Dragoon Saga (Disc 1)                          | :eu:   | :question:                           | TODO                                           |
-| Panzer Dragoon Saga (Disc 2)                          | :eu:   | :question:                           | TODO                                           |
-| Panzer Dragoon Saga (Disc 3)                          | :eu:   | :question:                           | TODO                                           |
-| Panzer Dragoon Saga (Disc 4)                          | :eu:   | :question:                           | TODO                                           |
-| Panzer Dragoon Saga (USA)                             | :us:   | :cd: 4x                              | [Link](Regions/USA/MK-81307/01/README.md)      |
-| Pappara Paoon                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/23201G/01/README.md)      |
-| Parodius                                              | :eu:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Europe/T-9501H-50/README.md)    |
-| Pastel Muses                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-30602G/01/README.md)    |
-| Pebble Beach Golf Links (3S)                          | :eu:   | :question:                           | TODO                                           |
-| Pebble Beach Golf Links (4S)                          | :eu:   | :question:                           | TODO                                           |
-| Pebble Beach Golf Links                               | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81101/01/README.md)      |
-| Pebble Beach Golf Links - Stadler ni Chousen          | :jp:   | :question:                           | TODO                                           |
-| Phantasm                                              | :jp:   | :cd: 8x                              | [Link](Regions/Japan/T-36001G/01/README.md)    |
-| Photo CD Operating System (2S)                        | :eu:   | :question:                           | TODO                                           |
-| Photo CD Operating System                             | :eu:   | :question:                           | TODO                                           |
-| Photo Genic                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1524G/01/README.md)     |
-| Pia Carrot e Youkoso!!                                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-19708G/01/README.md)    |
-| Pia Carrot e Youkoso!! 2                              | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-20114G/01/README.md)    |
-| Pict Flash Dondon                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-17811G/01/README.md)    |
-| Pinball Graffiti                                      | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-6011H-50/01/README.md) |
-| Pinball Graffiti                                      | :jp:   | :question:                           | TODO                                           |
-| Planet Joker                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-18711G/01/README.md)    |
-| Playboy Karaoke Collection Volume 1                   | :jp:   | :100:                                | [Link](Regions/Japan/T-2305G/01/README.md)     |
-| Playboy Karaoke Collection Volume 2                   | :jp:   | :100:                                | [Link](Regions/Japan/T-2304G/01/README.md)     |
-| Pocket Fighter                                        | :jp:   | :100:                                | [Link](Regions/Japan/T-1230G/README.md)        |
-| Policenauts                                           | :jp:   | :cd: 3x                              | [Link](Regions/Japan/T-9510G/01/README.md)     |
-| Popoitto Hebereke                                     | :jp:   | :100:                                | [Link](Regions/Japan/T-1504G/README.md)        |
-| Powerslave                                            | :us:   | :question:                           | TODO                                           |
-| PriCla Daisakusen                                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14409G/01/README.md)    |
-| Primal Rage                                           | :eu:   | :100:                                | [Link](Regions/Europe/T-4802H-50/README.md)    |
-| Primal Rage                                           | :jp:   | :question:                           | TODO                                           |
-| Primal Rage                                           | :us:   | :hammer_and_wrench:                  | [Link](Regions/USA/T-4802H/01/README.md)       |
-| Princess Crown                                        | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/T-14418G/01/README.md)    |
-| Princess Maker: Yumemiru Yousei                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-35101G/01/README.md)    |
-| Princess Maker 2                                      | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-5201G/01/README.md)     |
-| Princess Quest                                        | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-24604G/01/README.md)    |
-| Prisoner of Ice: Jashin Kourin                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-26112G/01/README.md)    |
-| Private Idol Disc: Data-hen: Race Queen F             | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30805G/01/README.md)    |
-| Private Idol Disc: Data-hen: Race Queen G             | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30806G/01/README.md)    |
-| Private Idol Disc: Tokubetsu-hen: Can Gal '97         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30808G/01/README.md)    |
-| Private Idol Disc: Tokubetsu-hen: Cosplayers          | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30804G/01/README.md)    |
-| Private Idol Disc: Tokubetsu-hen: Kogal Daihyakka 100 | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30807G/01/README.md)    |
-| Private Idol Disc Vol. 1: Yuu Kinoshita               | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30801G/01/README.md)    |
-| Private Idol Disc Vol. 2: Miki Uchiyama               | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30802G/01/README.md)    |
-| Private Idol Disc Vol. 3: Akemi Ooshima               | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30803G/01/README.md)    |
-| Private Idol Disc Vol. 4: Mirei Kuroda                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30809G/01/README.md)    |
-| Private Idol Disc Vol. 5: Nanako Fujisaki             | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30811G/01/README.md)    |
-| Private Idol Disc Vol. 6: Satomi Yoshida              | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30813G/01/README.md)    |
-| Private Idol Disc Vol. 7: Kaori Asou                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30814G/01/README.md)    |
-| Private Idol Disc Vol. 8: Emiko Furukawa              | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30815G/01/README.md)    |
-| Private Idol Disc Vol. 9: Keiko Nagamatsu             | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30816G/01/README.md)    |
-| Private Idol Disc Vol. 10: Mai Masaki                 | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30817G/01/README.md)    |
-| Private Idol Disc Vol. 11: Mayumi Hirose              | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30818G/01/README.md)    |
-| Pro Mahjong Kiwame S                                  | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-16801G/01/README.md)    |
-| Pro Shinan Mahjong "Tsuwamono"                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-38501G/01/README.md)    |
-| Pro Yakyuu Greatest Nine 97                           | :jp:   | :minidisc: 2x:                       | [Link](Regions/Japan/GS-9139/01/README.md)     |
-| Pro Yakyuu Greatest Nine 97 Make Miracle              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9171/01/README.md)     |
-| Pro Yakyuu Greatest Nine 98                           | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9185/01/README.md)     |
-| Pro Yakyuu Greatest Nine 98 Summer Action             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9202/01/README.md)     |
-| Pro Yakyuu Team mo Tsukurou!                          | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9165/01/README.md)     |
-| Pro-Pinball: The Web                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-12520H/01/README.md)      |
-| Pro-Pinball: The Web                                  | :eu:   | :question:                           | TODO                                           |
-| Pu-Li-Ru-La/Arcade Gears                              | :jp:   | :100:                                | [Link](Regions/Japan/T-26106G/README.md)       |
-| Pup-Breeder                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-29301G/01/README.md)    |
-| Puyo Puyo Sun                                         | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/T-6603G/01/README.md)     |
-| Puyo Puyo Sun for SegaNet                             | :jp:   | :question:                           | TODO                                           |
-| Puyo Puyo Tsuu                                        | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-6601G/01/README.md)     |
-| Puzzle Bobble 2X                                      | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-1106G/README.md)        |
-| Puzzle Bobble 3 (1M)                                  | :jp:   | :question:                           | TODO (Recorded)                                |
-| Puzzle Bobble 3 (2M)                                  | :jp:   | :question:                           | TODO                                           |
-| Puzzle Bobble 3 for SegaNet                           | :jp:   | :question:                           | TODO                                           |
-| Puzzle & Action: 2do Arukoto ha Sand-R                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-6802G/01/README.md)     |
-| Pyon Pyon Kyaruru no Mahjong Hiyori                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-31101G/01/README.md)    |
+| Name                                                     | Region | Status                               | Details                                        |
+| -------------------------------------------------------- | ------ | ------------------------------------ | ---------------------------------------------- |
+| Pacific Theater of Operations II                         | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-7604H/01/README.md)       |
+| PD Ultraman Link                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-13304G/01/README.md)    |
+| PGA Tour 97                                              | :eu:   |                                      | TODO                                           |
+| PGA Tour 97                                              | :jp:   | :question:                           | TODO                                           |
+| PGA Tour 97                                              | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5011H/01/README.md)       |
+| Pachi-Slot Kanzen Kouryaku Uni-Colle'97                  | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-36501G/01/README.md)    |
+| Pachinko Hall Shinsou Daikaiten                          | :jp:   | :x:                                  | [Link](Regions/Japan/T-37501G/01/README.md)    |
+| Pad Nifty                                                | :jp:   | :question:                           | TODO                                           |
+| Pad Nifty 1.1 & Habitat II                               | :jp:   | :question:                           | TODO                                           |
+| Pandemonium!                                             | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-8109050/01/README.md) |
+| Pandemonium!                                             | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-15914H/01/README.md)      |
+| Paneltia Story: Karen no Daibouken                       | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-21510G/01/README.md)    |
+| Panic Chan                                               | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-15010G/01/README.md)    |
+| Panzer Dragoon                                           | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81009/01/README.md)   |
+| Panzer Dragoon (Demo) (5S)                               | :eu:   | :question:                           | TODO                                           |
+| Panzer Dragoon (Demo) (6S)                               | :eu:   | :question:                           | TODO                                           |
+| Panzer Dragoon                                           | :jp:   | :minidisc: 4x                        | [Link](Regions/Japan/GS-9015/01/README.md)     |
+| Panzer Dragoon (Demo 1)                                  | :jp:   | :question:                           | TODO                                           |
+| Panzer Dragoon (Demo 2)                                  | :jp:   | :question:                           | TODO                                           |
+| Panzer Dragoon                                           | :us:   | :minidisc: 2x                        | [Link](Regions/USA/MK-81009/README.md)         |
+| Panzer Dragoon (Demo) (2S)                               | :us:   | :question:                           | TODO                                           |
+| Panzer Dragoon (Demo) (3S)                               | :us:   | :question:                           | TODO                                           |
+| Panzer Dragoon (Demo) (4S)                               | :us:   | :question:                           | TODO                                           |
+| Panzer Dragoon II Zwei                                   | :eu:   | :question:                           | TODO                                           |
+| Panzer Dragoon II Zwei                                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9049/01/README.md)     |
+| Panzer Dragoon II Zwei                                   | :us:   | :100:                                | [Link](Regions/USA/MK-81022/README.md)         |
+| Panzer Dragoon Saga (Disc 1)                             | :eu:   | :question:                           | TODO                                           |
+| Panzer Dragoon Saga (Disc 2)                             | :eu:   | :question:                           | TODO                                           |
+| Panzer Dragoon Saga (Disc 3)                             | :eu:   | :question:                           | TODO                                           |
+| Panzer Dragoon Saga (Disc 4)                             | :eu:   | :question:                           | TODO                                           |
+| Panzer Dragoon Saga                                      | :us:   | :cd: 4x                              | [Link](Regions/USA/MK-81307/01/README.md)      |
+| Pappara Paoon                                            | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/23201G/01/README.md)      |
+| Parodius                                                 | :eu:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Europe/T-9501H-50/README.md)    |
+| Pastel Muses                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-30602G/01/README.md)    |
+| Pebble Beach Golf Links (3S)                             | :eu:   | :question:                           | TODO                                           |
+| Pebble Beach Golf Links (4S)                             | :eu:   | :question:                           | TODO                                           |
+| Pebble Beach Golf Links                                  | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81101/01/README.md)      |
+| Pebble Beach Golf Links - Stadler ni Chousen             | :jp:   | :question:                           | TODO                                           |
+| Phantasm                                                 | :jp:   | :cd: 8x                              | [Link](Regions/Japan/T-36001G/01/README.md)    |
+| Photo CD Operating System (2S)                           | :eu:   | :question:                           | TODO                                           |
+| Photo CD Operating System                                | :eu:   | :question:                           | TODO                                           |
+| Photo Genic                                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1524G/01/README.md)     |
+| Pia Carrot e Youkoso!!                                   | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-19708G/01/README.md)    |
+| Pia Carrot e Youkoso!! We've been Waiting for You (Demo) | :jp:   | :question:                           | TODO                                           |
+| Pia Carrot e Youkoso!! 2                                 | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-20114G/01/README.md)    |
+| Pict Flash Dondon                                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-17811G/01/README.md)    |
+| Pinball Graffiti                                         | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-6011H-50/01/README.md) |
+| Pinball Graffiti (Demo)                                  | :eu:   | :question:                           | TODO                                           |
+| Pinball Graffiti                                         | :jp:   | :question:                           | TODO                                           |
+| Planet Joker                                             | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-18711G/01/README.md)    |
+| Playboy Karaoke Collection Volume 1                      | :jp:   | :100:                                | [Link](Regions/Japan/T-2305G/01/README.md)     |
+| Playboy Karaoke Collection Volume 2                      | :jp:   | :100:                                | [Link](Regions/Japan/T-2304G/01/README.md)     |
+| Pocket Fighter                                           | :jp:   | :100:                                | [Link](Regions/Japan/T-1230G/README.md)        |
+| Pocket Fighter (Demo)                                    | :jp:   | :question:                           | TODO                                           |
+| Policenauts                                              | :jp:   | :cd: 3x                              | [Link](Regions/Japan/T-9510G/01/README.md)     |
+| Popoitto Hebereke                                        | :jp:   | :100:                                | [Link](Regions/Japan/T-1504G/README.md)        |
+| Powerslave                                               | :us:   | :question:                           | TODO                                           |
+| Preview Sega Saturn Vol. 1                               | :eu:   | :question:                           | TODO                                           |
+| PriCla Daisakusen                                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-14409G/01/README.md)    |
+| PriKura (Princess Kurara) Daisakusen (Demo)              | :jp:   | :question:                           | TODO                                           |
+| Primal Rage                                              | :eu:   | :100:                                | [Link](Regions/Europe/T-4802H-50/README.md)    |
+| Primal Rage                                              | :jp:   | :question:                           | TODO                                           |
+| Primal Rage                                              | :us:   | :hammer_and_wrench:                  | [Link](Regions/USA/T-4802H/01/README.md)       |
+| Prime Selection Vol. 1                                   | :jp:   | :question:                           | TODO                                           |
+| Princess Crown                                           | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/T-14418G/01/README.md)    |
+| Princess Maker: Yumemiru Yousei                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-35101G/01/README.md)    |
+| Princess Maker - Yumemiru Yousei (Demo) (2M)             | :jp:   | :question:                           | TODO                                           |
+| Princess Maker 2                                         | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-5201G/01/README.md)     |
+| Princess Quest                                           | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-24604G/01/README.md)    |
+| Prisoner of Ice: Jashin Kourin                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-26112G/01/README.md)    |
+| Private Idol Disc: Data-hen: Race Queen F                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30805G/01/README.md)    |
+| Private Idol Disc: Data-hen: Race Queen G                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30806G/01/README.md)    |
+| Private Idol Disc: Tokubetsu-hen: Can Gal '97            | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30808G/01/README.md)    |
+| Private Idol Disc: Tokubetsu-hen: Cosplayers             | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30804G/01/README.md)    |
+| Private Idol Disc: Tokubetsu-hen: Kogal Daihyakka 100    | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30807G/01/README.md)    |
+| Private Idol Disc Vol. 1: Yuu Kinoshita                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30801G/01/README.md)    |
+| Private Idol Disc Vol. 2: Miki Uchiyama                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30802G/01/README.md)    |
+| Private Idol Disc Vol. 3: Akemi Ooshima                  | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30803G/01/README.md)    |
+| Private Idol Disc Vol. 4: Mirei Kuroda                   | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30809G/01/README.md)    |
+| Private Idol Disc Vol. 5: Nanako Fujisaki                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30811G/01/README.md)    |
+| Private Idol Disc Vol. 6: Satomi Yoshida                 | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30813G/01/README.md)    |
+| Private Idol Disc Vol. 7: Kaori Asou                     | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30814G/01/README.md)    |
+| Private Idol Disc Vol. 8: Emiko Furukawa                 | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30815G/01/README.md)    |
+| Private Idol Disc Vol. 9: Keiko Nagamatsu                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30816G/01/README.md)    |
+| Private Idol Disc Vol. 10: Mai Masaki                    | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30817G/01/README.md)    |
+| Private Idol Disc Vol. 11: Mayumi Hirose                 | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-30818G/01/README.md)    |
+| Pro Mahjong Kiwame S                                     | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-16801G/01/README.md)    |
+| Pro Shinan Mahjong "Tsuwamono"                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-38501G/01/README.md)    |
+| Pro Yakyuu Greatest Nine 97                              | :jp:   | :minidisc: 2x:                       | [Link](Regions/Japan/GS-9139/01/README.md)     |
+| Pro Yakyuu Greatest Nine 97 Make Miracle                 | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9171/01/README.md)     |
+| Pro Yakyuu Greatest Nine 98                              | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9185/01/README.md)     |
+| Pro Yakyuu Greatest Nine 98 Summer Action                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9202/01/README.md)     |
+| Pro Yakyuu Team mo Tsukurou!                             | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/GS-9165/01/README.md)     |
+| Pro-Pinball: The Web                                     | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-12520H/01/README.md)      |
+| Pro-Pinball: The Web                                     | :eu:   | :question:                           | TODO                                           |
+| Pu-Li-Ru-La/Arcade Gears                                 | :jp:   | :100:                                | [Link](Regions/Japan/T-26106G/README.md)       |
+| Pup-Breeder                                              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-29301G/01/README.md)    |
+| Puyo Puyo Sun                                            | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/T-6603G/01/README.md)     |
+| Puyo Puyo Sun for SegaNet                                | :jp:   | :question:                           | TODO                                           |
+| Puyo Puyo Tsuu                                           | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-6601G/01/README.md)     |
+| Puzzle Bobble 2X                                         | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-1106G/README.md)        |
+| Puzzle Bobble 3 (1M)                                     | :jp:   | :question:                           | TODO (Recorded)                                |
+| Puzzle Bobble 3 (2M)                                     | :jp:   | :question:                           | TODO                                           |
+| Puzzle Bobble 3 for SegaNet                              | :jp:   | :question:                           | TODO                                           |
+| Puzzle & Action: 2do Arukoto ha Sand-R                   | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-6802G/01/README.md)     |
+| Pyon Pyon Kyaruru no Mahjong Hiyori                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-31101G/01/README.md)    |
 
 ### Q
 
-| Name                                      | Region | Status             | Details                                       |
-| ----------------------------------------- | ------ | ------------------ | --------------------------------------------- |
-| Quake                                     | :eu:   | :heavy_check_mark: | [Link](Regions/Europe/MK-081066/01/README.md) |
-| Quake                                     | :us:   | :heavy_check_mark: | [Link](Regions/USA/MK-081066/01/README.md)    |
-| Quantum Gate I: Akumu no Joshou           | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-18502G/01/README.md)   |
-| Quarterback Attack with Mike Ditka        | :us:   | :heavy_check_mark: | [Link](Regions/USA/T-16213H/01/README.md)     |
-| Quiz Nanairo Dreams Nijiirochou no Kiseki | :jp:   | :minidisc: 2x      | [Link](Regions/Japan/T-1220G/01/README.md)    |
-| QuoVadis                                  | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-17401G/01/README.md)   |
-| QuoVadis 2: Wakusei Kyoushuu Ovan Rei     | :jp:   | :cd: 2x            | [Link](Regions/Japan/T-17402G/01/README.md)   |
+| Name                                         | Region | Status             | Details                                       |
+| -------------------------------------------- | ------ | ------------------ | --------------------------------------------- |
+| Quake                                        | :eu:   | :heavy_check_mark: | [Link](Regions/Europe/MK-081066/01/README.md) |
+| Quake                                        | :us:   | :heavy_check_mark: | [Link](Regions/USA/MK-081066/01/README.md)    |
+| Quantum Gate I: Akumu no Joshou              | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-18502G/01/README.md)   |
+| Quarterback Attack with Mike Ditka           | :us:   | :heavy_check_mark: | [Link](Regions/USA/T-16213H/01/README.md)     |
+| Quiz Nanairo Dreams Nijiirochou no Kiseki    | :jp:   | :minidisc: 2x      | [Link](Regions/Japan/T-1220G/01/README.md)    |
+| QuoVadis                                     | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-17401G/01/README.md)   |
+| QuoVadis 2: Wakusei Kyoushuu Ovan Rei        | :jp:   | :cd: 2x            | [Link](Regions/Japan/T-17402G/01/README.md)   |
+| QuoVadis 2: Wakusei Kyoushuu Ovan Rei (Demo) | :jp:   | :question:         | TODO                                          |
 
 ### R
 
 | Name                                                               | Region   | Status             | Details                                         |
 | ------------------------------------------------------------------ | -------- | ------------------ | ----------------------------------------------- |
 | Rabbit                                                             | :jp:     | :100:              | [Link](Regions/Japan/T-10610G/README.md)        |
+| Rabbit (Demo)                                                      | :jp:     | :question:         | TODO                                            |
 | Race Drivin'                                                       | :jp:     | :heavy_check_mark: | [Link](Regions/Japan/T-4802G/01/README.md)      |
 | Radiant Silvergun                                                  | :jp:     | :100:              | [Link](Regions/Japan/T-32902G/README.md)        |
+| Radiant Silvergun (Demo)                                           | :jp:     | :question:         | TODO                                            |
 | Rampage - World Tour                                               | :eu:     | :question:         | TODO                                            |
 | Rampage - World Tour                                               | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-9708H/01/README.md)        |
 | Rampo (Disc 1)                                                     | :jp:     | :question:         | TODO                                            |
@@ -1216,12 +1358,15 @@ Other links related to SAROO:
 | Rayman (1S)                                                        | :eu:     | :question:         | TODO                                            |
 | Rayman (6S)                                                        | :eu:     | :question:         | TODO                                            |
 | Rayman                                                             | :jp:     | :heavy_check_mark: | [Link](Regions/Japan/T-17701G/01/README.md)     |
-| Rayman (USA)                                                       | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-17701G/01/README.md)       |
+| Rayman                                                             | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-17701G/01/README.md)       |
+| Rayman (Demo)                                                      | :us:     | :question:         | TODO                                            |
 | Real Bout Garou Densetsu                                           | :jp:     | :100:              | [Link](Regions/Japan/T-3105G/README.md)         |
+| Real Bout Garou Densetsu (Demo)                                    | :jp:     | :question:         | TODO                                            |
 | Real Bout Garou Densetsu Special                                   | :jp:     | :minidisc: 2x      | [Link](Regions/Japan/T-3119G/README.md)         |
 | Real Mahjong Adventure "Umi-He": Summer Waltz (P's Club Genteiban) | :jp:     | :question:         | TODO                                            |
 | Real Mahjong Adventure "Umi-He": Summer Waltz                      | :jp:     | :heavy_check_mark: | [Link](Regions/Japan/T-16511G/01/README.md)     |
 | Real Sound - Kaze no Regret                                        | :jp:     | :cd: 4x            | [Link](Regions/Japan/T-30002G/01/README.md)     |
+| Real Sound - Kaze no Regret (Demo)                                 | :jp:     | :question:         | TODO                                            |
 | Refrain Love - Anata ni Aitai                                      | :jp:     | :cd: 3x            | [Link](Regions/Japan/T-5308G/01/README.md)      |
 | Resident Evil                                                      | :eu:     | :question:         | TODO                                            |
 | Resident Evil                                                      | :us:     | :question:         | TODO                                            |
@@ -1232,6 +1377,7 @@ Other links related to SAROO:
 | Revolution X - Music is the Weapon featuring Aerosmith             | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-8107H/01/README.md)        |
 | Revolution X - Music Is the Weapon (Beta) (1996-02-05)             | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-8107H__BETA/README.md)     |
 | Riglordsaga                                                        | :jp:     | :heavy_check_mark: | [Link](Regions/Japan/GS-9021/01/README.md)      |
+| Riglordsaga (Demo)                                                 | :jp:     | :question:         | TODO                                            |
 | Riglordsaga 2                                                      | :jp:     | :minidisc: 2x      | [Link](Regions/Japan/GS-9084/README.md)         |
 | Rise 2 - Resurrection                                              | :eu:     | :question:         | TODO                                            |
 | Rise 2 - Resurrection (Beta) (1996-03-05)                          | :eu:     | :heavy_check_mark: | [Link](Regions/Europe/T-810000__BETA/README.md) |
@@ -1275,428 +1421,510 @@ Other links related to SAROO:
 
 ### S
 
-| Name                                                                                                | Region   | Status                               | Details                                             |
-| --------------------------------------------------------------------------------------------------- | -------- | ------------------------------------ | --------------------------------------------------- |
-| SD Gundam G Century S                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-13324G/01/README.md)         |
-| Sakamoto Ryuuma: Ishin Kaikoku                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-19709G/01/README.md)         |
-| Sakura Taisen                                                                                       | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9037/01/README.md)          |
-| Hanagumi Taisen Columns                                                                             | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/GS-9138/01/README.md)          |
-| Sakura Taisen Hanagumi Tsuushin                                                                     | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/GS-9134/01/README.md)          |
-| Sakura Taisen Jouki Radio Show                                                                      | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9160/01/README.md)          |
-| Sakura Taisen Teigeki Graph                                                                         | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-32602G/01/README.md)         |
-| Sakura Taisen 2: Kimi, Shinitamou Koto Nakare                                                       | :jp:     | :cd: 3x                              | [Link](Regions/Japan/GS-9169/01/README.md)          |
-| Sakura Taisen Teikokukagekidan Taiin Meibo                                                          | :jp:     | :100:                                | [Link](Regions/Japan/SKR-00468/README.md)           |
-| Sakura Tsuushin                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-38401G/01/README.md)         |
-| Salamander Deluxe Pack Plus                                                                         | :jp:     | :hammer_and_wrench:                  | [Link](Regions/Japan/T-9520G/README.md)             |
-| Samurai Spirits - Amakusa Kourin                                                                    | :jp:     | :100:                                | [Link](Regions/Japan/T-3116G/README.md)             |
-| Samurai Spirits - Zankurou Musouken                                                                 | :jp:     | :100:                                | [Link](Regions/Japan/T-3104G/README.md)             |
-| Sangokushi Eiketsuden                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7613G/01/README.md)          |
-| Sangokushi Koumeiden                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7629G/01/README.md)          |
-| Sangokushi Returns                                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7617G/01/README.md)          |
-| Sangokushi IV                                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7601G/01/README.md)          |
-| Sangokushi V                                                                                        | :jp:     | :question:                           | TODO                                                |
-| Sangokushi V (Rev A)                                                                                | :jp:     | :question:                           | TODO                                                |
-| Sānguózhì IV                                                                                        | :taiwan: | :question: TODO                      | [Link](Regions/Taiwan/T-7601H-40/01/README.md)      |
-| Sānguózhì V                                                                                         | :taiwan: | :heavy_check_mark:                   | [Link](Regions/Taiwan/T-7606H-16/01/README.md)      |
-| Sānguózhì Yīngjiéchuán                                                                              | :taiwan: | :question: TODO                      | [Link](Regions/Taiwan/T-7603H-16/01/README.md)      |
-| Sankyo Fever Jikki Simulation S                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-32102G/01/README.md)         |
-| Sankyo Fever Jikki Simulation S Vol. 2                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-32103G/01/README.md)         |
-| Sankyo Fever Jikki Simulation S Vol. 3                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-32105G/01/README.md)         |
-| Saturn Bomberman                                                                                    | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/MK81070-50/README.md)         |
-| Saturn Bomberman (SegaNet)                                                                          | :jp:     | :question:                           | TODO                                                |
-| Saturn Bomberman                                                                                    | :jp:     | :100:                                | [Link](Regions/Japan/T-14302G/README.md)            |
-| Saturn Bomberman                                                                                    | :us:     | :100:                                | [Link](Regions/USA/MK-81070/README.md)              |
-| Saturn Bomberman Fight!!                                                                            | :jp:     | :100:                                | [Link](Regions/Japan/T-14321G/README.md)            |
-| Saturn CG Selection Vol. 1 (Rev A)                                                                  | :jp:     | :question:                           | TODO                                                |
-| Saturn Music School                                                                                 | :jp:     | :question:                           | TODO                                                |
-| Saturn Music School 2 (Rev A)                                                                       | :jp:     | :question:                           | TODO                                                |
-| Savaki                                                                                              | :jp:     | :100:                                | [Link](Regions/Japan/T-5208G/README.md)             |
-| Scorcher                                                                                            | :eu:     | :question: TODO                      | TODO                                                |
-| Scorcher                                                                                            | :us:     | :x:                                  | [Link](Regions/USA/MK-81214/01/README.md)           |
-| Scud: The Disposable Assassin                                                                       | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-30403H/01/README.md)           |
-| Sea Bass Fishing                                                                                    | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-6009H-50/01/README.md)      |
-| SeaBass Fishing                                                                                     | :jp:     | :question: TODO                      | TODO                                                |
-| SeaBass Fishing 2                                                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-6011G/01/README.md)          |
-| SegaSaturn Electronic Book Operator                                                                 | :jp:     | :question:                           | TODO                                                |
-| SegaSaturn FDD Operator                                                                             | :jp:     | :question:                           | TODO                                                |
-| SegaSaturn: Graphic & Sound Tools for Macintosh                                                     | :jp:     | :question:                           | TODO                                                |
-| SegaSaturn Internet 2                                                                               | :jp:     | :question:                           | TODO                                                |
-| SegaSaturn Internet Vol. 1                                                                          | :jp:     | :question:                           | TODO                                                |
-| SegaSaturn Movie Tools: Cinepak for Sega Saturn (Hybrid Version)                                    | :jp:     | :question:                           | TODO                                                |
-| SegaSaturn Photo CD Operator                                                                        | :jp:     | :question:                           | TODO                                                |
-| SegaSaturn Photo CD Operator (Rev A)                                                                | :jp:     | :question:                           | TODO                                                |
-| SegaSaturn SGL Tool Kit: Sega 3D Game Library                                                       | :jp:     | :question:                           | TODO                                                |
-| Sega Ages: After Burner II                                                                          | :jp:     | :100:                                | [Link](Regions/Japan/GS-9109/README.md)             |
-| Sega Ages: Columns Arcade Collection                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9161/01/README.md)          |
-| Sega Ages: Fantasy Zone                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9136/01/README.md)          |
-| Sega Ages: Galaxy Force II                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9197/01/README.md)          |
-| Sega Ages: I Love Mickey Mouse: Fushigi no Oshiro Daibouken/I Love Donald Duck: Gurujia Ou no Hihou | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9179/01/README.md)          |
-| Sega Ages: Memorial Selection Vol. 1                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9135/01/README.md)          |
-| Sega Ages: Memorial Selection Vol. 2                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9163/01/README.md)          |
-| Sega Ages: OutRun                                                                                   | :jp:     | :x:                                  | [Link](Regions/Japan/GS-9110/01/README.md)          |
-| Sega Ages: Phantasy Star Collection                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9186/01/README.md)          |
-| Sega Ages: Power Drift                                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9181/01/README.md)          |
-| Sega Ages: Rouka ni Ichidant-R                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9043/01/README.md)          |
-| Sega Ages: Space Harrier                                                                            | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/GS-9108/01/README.md)          |
-| Sega Ages: Shukudai ga Tanto R                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9042/01/README.md)          |
-| Sega Ages: Volume 1                                                                                 | :eu:     | :question:                           | TODO                                                |
-| Sega Ages: Volume 1                                                                                 | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-12707H/01/README.md)           |
-| Sega International Victory Goal                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9044/01/README.md)          |
-| Sega Rally Championship (Made in EU)                                                                | :eu:     | :question:                           | TODO                                                |
-| Sega Rally Championship (Made in USA)                                                               | :us:     | :question:                           | TODO                                                |
-| Sega Rally Championship                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9047/01/README.md)          |
-| Sega Rally Championship                                                                             | :kr:     | :question:                           | TODO                                                |
-| Sega Rally Championship                                                                             | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81207/01/README.md)           |
-| Sega Rally Championship Plus                                                                        | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9116/01/README.md)          |
-| Sega Rally Championship Plus Netlink Edition                                                        | :us:     | :question:                           | TODO                                                |
-| Sega Saturn de Hakken!! Tamagotchi Park                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-13325G/01/README.md)         |
-| Sega Touring Car Championship                                                                       | :eu:     | :question:                           | TODO                                                |
-| Sega Touring Car Championship                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9164/01/README.md)          |
-| Sega Touring Car Championship                                                                       | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81216/01/README.md)           |
-| Sega Worldwide Soccer '97                                                                           | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81112/01/README.md)           |
-| Sega Worldwide Soccer 98                                                                            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9187/01/README.md)          |
-| Sega Worldwide Soccer 98: Club Edition                                                              | :eu:     | :minidisc: 3x                        | [Link](Regions/Europe/MK-81123/01/README.md)        |
-| Sega Worldwide Soccer 97 (Alt)                                                                      | :eu:     | :question: TODO                      | TODO                                                |
-| Sega Worldwide Soccer 97                                                                            | :eu:     | :question: TODO                      | TODO                                                |
-| Segata Sanshirou - Shinken Yuugi                                                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9204/01/README.md)          |
-| Seifuku Densetsu Pretty Fighter X                                                                   | :jp:     | :x:                                  | [Link](Regions/Japan/T-15001G/01/README.md)         |
-| Seikai Risshiden: Yoi Kuni Yoi Seiji                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-18005G/01/README.md)         |
-| Seireki 1999 ~Pharaoh no Fukkatsu~                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-18001G/01/README.md)         |
-| Sekai no Shasou kara I Swiss-hen: Alps Tozantetsudou no Tabi                                        | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-32201G/01/README.md)         |
-| Sengoku Blade - Sengoku Ace Episode II                                                              | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-14410G/README.md)            |
-| Senken Kigyouden                                                                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-37401G/01/README.md)         |
-| Senkutsu Katsuryuu Taisen Chaos Seed                                                                | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-30902G/01/README.md)         |
-| Senryaku Shougi                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10604G/01/README.md)         |
-| Sentimental Graffiti                                                                                | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-20106G/01/README.md)         |
-| Sentimental Graffiti: First Window                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-20111G/01/README.md)         |
-| Sento Monogatari Sono I                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-6801G/01/README.md)          |
-| Sexy Parodius                                                                                       | :jp:     | :100:                                | [Link](Regions/Japan/T-9514G/README.md)             |
-| Shadows of the Tusk                                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-14319G/01/README.md)         |
-| Shanghai: Banri no Choujou                                                                          | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-1505G/01/README.md)          |
-| Shanghai: Great Moments                                                                             | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-1512G/01/README.md)          |
-| Shanghai: Triple-Threat                                                                             | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-13001/01/README.md)            |
-| She'sn                                                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-19717G/01/README.md)         |
-| Shellshock                                                                                          | :eu:     | :question:                           | TODO                                                |
-| Shellshock                                                                                          | :fr:     | :question:                           | TODO                                                |
-| Shellshock                                                                                          | :de:     | :question:                           | TODO                                                |
-| Shellshock                                                                                          | :us:     | :x:                                  | [Link](Regions/USA/T-7901H/01/README.md)            |
-| Shellshock - Jus' Keepin' da Peace                                                                  | :jp:     | :x:                                  | [Link](Regions/Japan/T-10607G/01/README.md)         |
-| Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1242G/01/README.md)          |
-| Shichuu Suimei Pitagraph                                                                            | :jp:     | :question: TODO                      | [Link](Regions/Japan/T-19501G/01/README.md)         |
-| Shienryuu                                                                                           | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-29102G/01/README.md)         |
-| Shin Kaitei Gunkan: Koutetsu no Kodoku                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-2105G/01/README.md)          |
-| Shin Megami Tensei: Devil Summoner                                                                  | :jp:     | :x:                                  | [Link](Regions/Japan/T-14403G/01/README.md)         |
-| Shin Megami Tensei Devil Summoner: Akuma Zensho                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-14406G/01/README.md)         |
-| Shinseiki Evangelion                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9051/01/README.md)          |
-| Shinseiki Evangelion: 2nd Impression                                                                | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/GS-9129/01/README.md)          |
-| Shinseiki Evangelion: Digital Card Library                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9159/01/README.md)          |
-| Shinseiki Evangelion: Eva to Yukai na Nakamatachi                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-35103G/01/README.md)         |
-| Shinseiki Evangelion: Koutetsu no Girlfriend                                                        | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9194/README.md)             |
-| Shin Shinobiden                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9010/01/README.md)          |
-| Shin Theme Park                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10618G/01/README.md)         |
-| Shingata Kururin Pa!                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-24202G/01/README.md)         |
-| Shining Force III (R)                                                                               | :eu:     | :question:                           | TODO                                                |
-| Shining Force III                                                                                   | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81383/01/README.md)           |
-| Shining Force III (Beta) (1998-04-23)                                                               | :us:     | :question:                           | [Link](Regions/USA/MK-81383__BETA/README.md) - TODO |
-| Shining Force III - Scenario 1 - Outo no Kyoshin (Rev A)                                            | :jp:     | :question:                           | TODO                                                |
-| Shining Force III - Scenario 1 - Outo no Kyoshin                                                    | :jp:     | :question:                           | TODO                                                |
-| Shining Force III - Scenario 2 - Nerawareta Miko (Rev A)                                            | :jp:     | :question:                           | TODO                                                |
-| Shining Force III - Scenario 2 - Nerawareta Miko                                                    | :jp:     | :question:                           | TODO                                                |
-| Shining Force III - Scenario 3 - Hyouheki no Jashinguu                                              | :jp:     | :question:                           | TODO                                                |
-| Shining Force III - Premium Disc                                                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/6106979/01/README.md)          |
-| Shining Wisdom                                                                                      | :eu:     | :question:                           | TODO                                                |
-| Shining Wisdom (Rev A)                                                                              | :jp:     | :question:                           | TODO                                                |
-| Shining Wisdom                                                                                      | :jp:     | :question:                           | TODO                                                |
-| Shining Wisdom                                                                                      | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-12702H/01/README.md)           |
-| Shining Wisdom (Beta) (1996-04-11)                                                                  | :us:     | :question:                           | [Link](Regions/USA/T-12702H__BETA/README.md) - TODO |
-| Shining the Holy Ark                                                                                | :eu:     | :question:                           | TODO                                                |
-| Shining the Holy Ark (1M)                                                                           | :jp:     | :question:                           | TODO                                                |
-| Shining the Holy Ark (3M)                                                                           | :jp:     | :question:                           | TODO                                                |
-| Shining the Holy Ark                                                                                | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81306/01/README.md)           |
-| Shinobi Legions                                                                                     | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-2301H/01/README.md)            |
-| Shinobi X                                                                                           | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81082/01/README.md)        |
-| Shinouken                                                                                           | :jp:     | :x:                                  | [Link](Regions/Japan/T-3113G/README.md)             |
-| Shinpi no Sekai El-Hazard                                                                           | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-22202G/01/README.md)         |
-| Shinrei Jusatsushi Taroumaru                                                                        | :jp:     | :100:                                | [Link](Regions/Japan/T-4804G/README.md)             |
-| Shinsetsu Samurai Spirits Bushidou Retsuden                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-3112G/01/README.md)          |
-| Shinsetsu Yumemi Yakata: Tobira no Oku ni Dareka ga...                                              | :jp:     | :minidisc: 3x TODO                   | [Link](Regions/Japan/GS-9005/01/README.md)          |
-| Shippuu Mahou Daisakusen                                                                            | :jp:     | :question: TODO                      | [Link](Regions/Japan/T-18506G/01/README.md)         |
-| Shiroki Majo: Mouhitotsu no Eiyuu Densetsu                                                          | :jp:     | :x:                                  | [Link](Regions/Japan/T-14322G/01/README.md)         |
-| Shockwave Assault                                                                                   | :eu:     | :question:                           | TODO                                                |
-| Shockwave Assault                                                                                   | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-5005H/01/README.md)            |
-| Shougi Matsuri                                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16502G/01/README.md)         |
-| Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari                                              | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9182/01/README.md)          |
-| Shouryuu Sangoku Engi                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-15009G/01/README.md)         |
-| Shunsai: Keiba Data Stable                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-18703G/01/README.md)         |
-| Shusse Mahjong Daisettai                                                                            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-24902G/01/README.md)         |
-| Shutokou Battle '97: Tsuchiya Keiichi & Bandou Masaaki                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-15019G/README.md)            |
-| Shutsudou! Miniskirt Police                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-30812G/01/README.md)         |
-| Side Pocket 2 - Densetsu no Hustler                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1301G/01/README.md)          |
-| Side Pocket 3                                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1314G/01/README.md)          |
-| Silhouette Mirage (Rev A)                                                                           | :jp:     | :question:                           | TODO                                                |
-| Silhouette Mirage                                                                                   | :jp:     | :question:                           | TODO                                                |
-| SimCity 2000                                                                                        | :eu:     | :question:                           | TODO                                                |
-| SimCity 2000 (Rev A)                                                                                | :jp:     | :question:                           | TODO                                                |
-| SimCity 2000                                                                                        | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-12601H/01/README.md)           |
-| Simulation RPG Tsukuru                                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-2106G/01/README.md)          |
-| Simulation Zoo                                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-18611G/01/README.md)         |
-| Skeleton Warriors                                                                                   | :eu:     | :question:                           | TODO                                                |
-| Skeleton Warriors                                                                                   | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-13204H/01/README.md)           |
-| Skull Fang: Kuuga Gaiden                                                                            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1311G/01/README.md)          |
-| Sky Target                                                                                          | :eu:     | :question:                           | TODO                                                |
-| Sky Target                                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9103/01/README.md)          |
-| Sky Target                                                                                          | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81051/01/README.md)           |
-| Slam 'n Jam '96 Featuring Magic & Kareem                                                            | :jp:     | :question:                           | TODO                                                |
-| Slam 'n Jam '96 Featuring Magic & Kareem                                                            | :eu:     | :question:                           | TODO                                                |
-| Slam 'n Jam '96 Featuring Magic & Kareem                                                            | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-159028H/01/README.md)          |
-| Slayers Royal                                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-27903G/01/README.md)         |
-| Slayers Royal 2                                                                                     | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-27907G/01/README.md)         |
-| Snatcher                                                                                            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-9508G/01/README.md)          |
-| Söldnerschild                                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9155/01/README.md)          |
-| Sokkou Seitokai                                                                                     | :jp:     | :x:                                  | [Link](Regions/Japan/T-20611G/01/README.md)         |
-| Sol Divide                                                                                          | :jp:     | :100:                                | [Link](Regions/Japan/T-14423G/README.md)            |
-| Solar Eclipse                                                                                       | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-15911H/01/README.md)           |
-| Solo Crisis                                                                                         | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-23501G/01/README.md)         |
-| Sonic 3D: Flickies' Island                                                                          | :eu:     | :100:                                | [Link](Regions/Europe/MK-8106250/README.md)         |
-| Sonic 3D: Flickies' Island                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9143/01/README.md)          |
-| Sonic 3D Blast                                                                                      | :us:     | :x:                                  | [Link](Regions/USA/MK-81062/01/README.md)           |
-| Sonic Jam                                                                                           | :eu:     | :question:                           | TODO                                                |
-| Sonic Jam                                                                                           | :jp:     | :question:                           | TODO                                                |
-| Sonic Jam (Rev A)                                                                                   | :jp:     | :question:                           | TODO                                                |
-| Sonic Jam                                                                                           | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81079/01/README.md)           |
-| Sonic R                                                                                             | :eu:     | :question:                           | TODO                                                |
-| Sonic R                                                                                             | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/GS-9170/README.md)             |
-| Sonic R                                                                                             | :us:     | :100:                                | [Link](Regions/USA/MK-81800/README.md)              |
-| Sonic Wings Special                                                                                 | :jp:     | :x:                                  | [Link](Regions/Japan/T-26402G/01/README.md)         |
-| Sorvice                                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16609G/01/README.md)         |
-| Sotsugyou S                                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-20103G/01/README.md)         |
-| Sotsugyou Album                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10504G/01/README.md)         |
-| Sotsugyou Crossworld                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10503G/01/README.md)         |
-| Sotsugyou II Neo Generation                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-5301G/01/README.md)          |
-| Sotsugyou III Wedding Bell                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10505G/01/README.md)         |
-| Soukuu no Tsubasa: Gotha World                                                                      | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-2205G/01/README.md)          |
-| Soukyuu Gurentai                                                                                    | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-10616G/01/README.md)         |
-| Soukyugurentai Otokuyou                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10626G/01/README.md)         |
-| Sound Novel Machi (Disc 1) (1M)                                                                     | :jp:     | :question:                           | TODO                                                |
-| Sound Novel Machi (Disc 2) (1M)                                                                     | :jp:     | :question:                           | TODO                                                |
-| Sound Novel Machi (Disc 2) (2M)                                                                     | :jp:     | :question:                           | TODO                                                |
-| Sound Novel Tsukuru 2                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-2108G/01/README.md)          |
-| Sound Qube                                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-4318G/01/README.md)          |
-| Soviet Strike                                                                                       | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-5013H/01/README.md)         |
-| Soviet Strike                                                                                       | :fr:     | :question:                           | TODO                                                |
-| Soviet Strike                                                                                       | :de:     | :question:                           | TODO                                                |
-| Soviet Strike                                                                                       | :jp:     | :question:                           | TODO                                                |
-| Soviet Strike                                                                                       | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-5013H/README.md)               |
-| Space Hulk - Vengeance of the Blood Angels                                                          | :eu:     | :question:                           | TODO                                                |
-| Space Hulk: Vengeance of the Blood Angels                                                           | :us:     | :x:                                  | [Link](Regions/USA/T-5007H/01/README.md)            |
-| Space Invaders                                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1107G/01/README.md)          |
-| Space Jam                                                                                           | :eu:     | :question:                           | TODO                                                |
-| Space Jam                                                                                           | :jp:     | :question:                           | TODO                                                |
-| Space Jam                                                                                           | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-8125H/01/README.md)            |
-| Special Disc with SegaSaturn Internet 2                                                             | :jp:     | :question:                           | TODO                                                |
-| Spot Goes to Hollywood                                                                              | :eu:     | :question:                           | TODO                                                |
-| Spot Goes to Hollywood                                                                              | :jp:     | :question:                           | TODO                                                |
-| Spot Goes to Hollywood                                                                              | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-7001H/01/README.md)            |
-| Stakes Winner: GI Kanzen Seiha Heno Michi                                                           | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-3107G/01/README.md)          |
-| Stakes Winner 2: Saikyouba Densetsu                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-3115G/01/README.md)          |
-| Standby Say You!                                                                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-4309G/01/README.md)          |
-| Star Fighter                                                                                        | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-8135H/01/README.md)            |
-| StarFighter 3000                                                                                    | :eu:     | :question:                           | TODO                                                |
-| StarFighter 3000                                                                                    | :jp:     | :question:                           | TODO                                                |
-| Steam-Heart's                                                                                       | :jp:     | :100:                                | [Link](Regions/Japan/T-32502G/README.md)            |
-| SteamGear Mash                                                                                      | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-10301G/01/README.md)         |
-| Steep Slope Sliders                                                                                 | :eu:     | :question:                           | TODO                                                |
-| Steep Slope Sliders                                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-9112G/01/README.md)          |
-| Steep Slope Sliders                                                                                 | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81128/01/README.md)           |
-| Stellar Assault SS                                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-4403G/01/README.md)          |
-| Strahl: Himerareshi Nanatsu no Hikari                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-20501G/01/README.md)         |
-| Street Fighter: Real Battle on Film                                                                 | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/T-1201G/01/README.md)          |
-| Street Fighter - The Movie (Europe) (2S)                                                            | :eu:     | :question:                           | TODO                                                |
-| Street Fighter - The Movie (Europe) (4S)                                                            | :eu:     | :question:                           | TODO                                                |
-| Street Fighter The Movie                                                                            | :us:     | :100:                                | [Link](Regions/USA/T-8105H/README.md)               |
-| Street Fighter Alpha: Warrior's Dreams                                                              | :eu:     | :100:                                | [Link](Regions/Europe/T-7008H-50/README.md)         |
-| Street Fighter Alpha: Warrior's Dreams                                                              | :us:     | :x:                                  | [Link](Regions/USA/T-1206H/README.md)               |
-| Street Fighter Alpha - Warriors' Dreams (Beta) (1995-12-22)                                         | :us:     | :x:                                  | [Link](Regions/USA/T-1206H__BETA/README.md)         |
-| Street Fighter Alpha 2                                                                              | :eu:     | :question:                           | TODO                                                |
-| Street Fighter Alpha 2                                                                              | :us:     | :x:                                  | [Link](Regions/USA/T-1213H/README.md)               |
-| Street Fighter Collection                                                                           | :eu:     | :cd: 2x                              | [Link](Regions/Europe/T-7033H-50/README.md)         |
-| Street Fighter Collection                                                                           | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-1223G/README.md)             |
-| Street Fighter Collection                                                                           | :us:     | :cd: 2x                              | [Link](Regions/USA/T-1222H/README.md)               |
-| Street Fighter II Movie                                                                             | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-1204G/README.md)             |
-| Street Fighter Zero                                                                                 | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/T-1206G/README.md)             |
-| Street Fighter Zero 2                                                                               | :jp:     | :checkered_flag:                     | [Link](Regions/Japan/T-1212G/README.md)             |
-| Street Fighter Zero 2' - Dash                                                                       | :jp:     | :checkered_flag:                     | [Link](Regions/Japan/T-1244G/README.md)             |
-| Street Fighter Zero 3                                                                               | :jp:     | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-1246G/README.md)             |
-| Street Racer                                                                                        | :eu:     | :100:                                | [Link](Regions/Europe/T-17702H/README.md)           |
-| Street Racer Extra                                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-17702G/README.md)            |
-| Striker 96                                                                                          | :eu:     | :question:                           | TODO                                                |
-| Striker 96                                                                                          | :jp:     | :question:                           | TODO                                                |
-| Striker '96                                                                                         | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-8133H/01/README.md)            |
-| Strikers 1945                                                                                       | :jp:     | :100:                                | [Link](Regions/Japan/T-14407G/README.md)            |
-| Strikers 1945 II                                                                                    | :jp:     | :100:                                | [Link](Regions/Japan/T-20402G/README.md)            |
-| Suchie-Pai Adventure Doki Doki Nightmare                                                            | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-5713G/01/README.md)          |
-| Sugobencha: Dragon Master Silk Gaiden                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-19505G/01/README.md)         |
-| Suiko Enbu                                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1302G/01/README.md)          |
-| Suiko Enbu: Fuunsaiki                                                                               | :jp:     | :100:                                | [Link](Regions/Japan/T-1305G/README.md)             |
-| Suikoden Tendou 108 Sei                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7656G/01/README.md)          |
-| Suikoden: Tenmei no Chikai                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7624G/01/README.md)          |
-| Super Adventure Rockman                                                                             | :jp:     | :cd: 3x                              | [Link](Regions/Japan/T-1225G/01/README.md)          |
-| Super Casino Special                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7306G/01/README.md)          |
-| Super Puzzle Fighter II Turbo                                                                       | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-7030H-50/01/README.md)      |
-| Super Puzzle Fighter II Turbo                                                                       | :us:     | :100:                                | [Link](Regions/USA/T-1215H/README.md)               |
-| Super Puzzle Fighter II X                                                                           | :jp:     | :100:                                | [Link](Regions/Japan/T-1213G/README.md)             |
-| Super Real Mahjong Graffiti                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16504G/01/README.md)         |
-| Super Real Mahjong Graffiti - P's Club Special Edition                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16506G/01/README.md)         |
-| Super Real Mahjong PV                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16501G/01/README.md)         |
-| Super Real Mahjong P7                                                                               | :jp:     | :x:                                  | [Link](Regions/Japan/T-16509G/01/README.md)         |
-| Super Real Mahjong P7 - P's Club Special Edition                                                    | :jp:     | TODO                                 | TODO                                                |
-| Super Real Mahjong PVI                                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16507G/01/README.md)         |
-| Super Real Mahjong PVI - P's Club Special Edition                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16508G/01/README.md)         |
-| Super Robot Taisen F                                                                                | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-20610G/01/README.md)         |
-| Super Robot Taisen F Kanketsuhen                                                                    | :jp:     | :minidisc: 4x                        | [Link](Regions/Japan/T-20612G/01/README.md)         |
-| Super Tempo                                                                                         | :jp:     | :x:                                  | [Link](Regions/Japan/T-26413G/01/README.md)         |
-| Swagman                                                                                             | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-11502H-5/01/README.md)      |
-| Sword & Sorcery                                                                                     | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-5202G/01/README.md)          |
-| System-Disc (KD02) Columbia                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/SEGASYSTEM/01/README.md)       |
+| Name                                                                                                | Region   | Status                               | Details                                                |
+| --------------------------------------------------------------------------------------------------- | -------- | ------------------------------------ | ------------------------------------------------------ | --- |
+| SD Gundam G Century S                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-13324G/01/README.md)            |
+| Sakamoto Ryuuma: Ishin Kaikoku                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-19709G/01/README.md)            |
+| Sakura Taisen                                                                                       | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9037/01/README.md)             |
+| Hanagumi Taisen Columns                                                                             | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/GS-9138/01/README.md)             |
+| Sakura Taisen Hanagumi Tsuushin                                                                     | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/GS-9134/01/README.md)             |
+| Sakura Taisen Jouki Radio Show                                                                      | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9160/01/README.md)             |
+| Sakura Taisen Teigeki Graph                                                                         | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-32602G/01/README.md)            |
+| Sakura Taisen 2: Kimi, Shinitamou Koto Nakare                                                       | :jp:     | :cd: 3x                              | [Link](Regions/Japan/GS-9169/01/README.md)             |
+| Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Demo)                                               | :jp:     | :question:                           | TODO                                                   |
+| Sakura Taisen Teikokukagekidan Taiin Meibo                                                          | :jp:     | :100:                                | [Link](Regions/Japan/SKR-00468/README.md)              |
+| Sakura Taisen Teikokukagekidan Taiin Meibo (Demo)                                                   | :jp:     | :question:                           | TODO                                                   |
+| Sakura Tsuushin                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-38401G/01/README.md)            |
+| Salamander Deluxe Pack Plus                                                                         | :jp:     | :hammer_and_wrench:                  | [Link](Regions/Japan/T-9520G/README.md)                |
+| Samurai Spirits - Amakusa Kourin                                                                    | :jp:     | :100:                                | [Link](Regions/Japan/T-3116G/README.md)                |
+| Samurai Spirits - Amakusa Kourin (Demo)                                                             | :jp:     | :question:                           | TODO                                                   |
+| Samurai Spirits - Zankurou Musouken                                                                 | :jp:     | :100:                                | [Link](Regions/Japan/T-3104G/README.md)                |
+| Sangokushi Eiketsuden                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7613G/01/README.md)             |
+| Sangokushi Koumeiden                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7629G/01/README.md)             |
+| Sangokushi Returns                                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7617G/01/README.md)             |
+| Sangokushi IV                                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7601G/01/README.md)             |
+| Sangokushi V                                                                                        | :jp:     | :question:                           | TODO                                                   |
+| Sangokushi V (Rev A)                                                                                | :jp:     | :question:                           | TODO                                                   |
+| Sānguózhì IV                                                                                        | :taiwan: | :question: TODO                      | [Link](Regions/Taiwan/T-7601H-40/01/README.md)         |
+| Sānguózhì V                                                                                         | :taiwan: | :heavy_check_mark:                   | [Link](Regions/Taiwan/T-7606H-16/01/README.md)         |
+| Sānguózhì Yīngjiéchuán                                                                              | :taiwan: | :question: TODO                      | [Link](Regions/Taiwan/T-7603H-16/01/README.md)         |
+| Sankyo Fever Jikki Simulation S                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-32102G/01/README.md)            |
+| Sankyo Fever Jikki Simulation S Vol. 2                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-32103G/01/README.md)            |
+| Sankyo Fever Jikki Simulation S Vol. 3                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-32105G/01/README.md)            |
+| SatMag Sono CD                                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/6106833__DEMO/01/README.md)       |
+| Saturn Bomberman                                                                                    | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/MK81070-50/README.md)            |
+| Saturn Bomberman (Demo)                                                                             | :jp:     | :question:                           | TODO                                                   |
+| Saturn Bomberman (SegaNet)                                                                          | :jp:     | :question:                           | TODO                                                   |
+| Saturn Bomberman                                                                                    | :jp:     | :100:                                | [Link](Regions/Japan/T-14302G/README.md)               |
+| Saturn Bomberman                                                                                    | :us:     | :100:                                | [Link](Regions/USA/MK-81070/README.md)                 |
+| Saturn Bomberman Fight!!                                                                            | :jp:     | :100:                                | [Link](Regions/Japan/T-14321G/README.md)               |
+| Saturn Bomberman Fight!! (Demo)                                                                     | :jp:     | :question:                           | TODO                                                   |
+| Saturn CG Selection Vol. 1 (Rev A)                                                                  | :jp:     | :question:                           | TODO                                                   |
+| Saturn Music School                                                                                 | :jp:     | :question:                           | TODO                                                   |
+| Saturn Music School 2 (Rev A)                                                                       | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (1M)                                      | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (2M)                                      | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 1 (6M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 1 (7M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 1 (8M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 2 (1M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 2 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 2 (6M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 3 (Rev A) (3M)                                                                    | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 4 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 5 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 6 (1M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 6 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 7 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 8                                                                                 | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 9 Furoku CD-ROM                                                                   | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 10 Furoku CD-ROM (2M, 3M)                                                         | :jp:     | :question:                           | TODO                                                   |
+| Saturn Super Vol. 11 Furoku CD-ROM                                                                  | :jp:     | :question:                           | TODO                                                   |     |
+| Savaki                                                                                              | :jp:     | :100:                                | [Link](Regions/Japan/T-5208G/README.md)                |
+| Scorcher                                                                                            | :eu:     | :question: TODO                      | TODO                                                   |
+| Scorcher                                                                                            | :us:     | :x:                                  | [Link](Regions/USA/MK-81214/01/README.md)              |
+| Scud: The Disposable Assassin                                                                       | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-30403H/01/README.md)              |
+| Sea Bass Fishing                                                                                    | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-6009H-50/01/README.md)         |
+| SeaBass Fishing                                                                                     | :jp:     | :question: TODO                      | TODO                                                   |
+| SeaBass Fishing 2                                                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-6011G/01/README.md)             |
+| SegaColle Sega Bible Mogitate SegaSaturn Soukan-gou                                                 | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn Electronic Book Operator                                                                 | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn FDD Operator                                                                             | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn: Graphic & Sound Tools for Macintosh                                                     | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn Internet 2                                                                               | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn Internet Vol. 1                                                                          | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn Movie Tools: Cinepak for Sega Saturn (Hybrid Version)                                    | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn Photo CD Operator                                                                        | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn Photo CD Operator (Rev A)                                                                | :jp:     | :question:                           | TODO                                                   |
+| SegaSaturn SGL Tool Kit: Sega 3D Game Library                                                       | :jp:     | :question:                           | TODO                                                   |
+| Sega Ages: After Burner II                                                                          | :jp:     | :100:                                | [Link](Regions/Japan/GS-9109/README.md)                |
+| Sega Ages: Columns Arcade Collection                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9161/01/README.md)             |
+| Sega Ages: Fantasy Zone                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9136/01/README.md)             |
+| Sega Ages: Galaxy Force II                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9197/01/README.md)             |
+| Sega Ages: I Love Mickey Mouse: Fushigi no Oshiro Daibouken/I Love Donald Duck: Gurujia Ou no Hihou | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9179/01/README.md)             |
+| Sega Ages: Memorial Selection Vol. 1                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9135/01/README.md)             |
+| Sega Ages: Memorial Selection Vol. 2                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9163/01/README.md)             |
+| Sega Ages: OutRun                                                                                   | :jp:     | :x:                                  | [Link](Regions/Japan/GS-9110/01/README.md)             |
+| Sega Ages: Phantasy Star Collection                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9186/01/README.md)             |
+| Sega Ages: Power Drift                                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9181/01/README.md)             |
+| Sega Ages: Rouka ni Ichidant-R                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9043/01/README.md)             |
+| Sega Ages: Space Harrier                                                                            | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/GS-9108/01/README.md)             |
+| Sega Ages: Shukudai ga Tanto R                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9042/01/README.md)             |
+| Sega Ages: Volume 1                                                                                 | :eu:     | :question:                           | TODO                                                   |
+| Sega Ages: Volume 1                                                                                 | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-12707H/01/README.md)              |
+| Sega Flash Vol. 1                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Sega Flash Vol. 2                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Sega Flash Vol. 3                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Sega Flash Vol. 3 (Rev A)                                                                           | :eu:     | :question:                           | TODO                                                   |
+| Sega Flash Vol. 4                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Sega Flash Vol. 5                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Sega Flash Vol. 6                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Sega Flash Vol. 7                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Sega International Victory Goal                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9044/01/README.md)             |
+| Sega Rally Championship (Made in EU)                                                                | :eu:     | :question:                           | TODO                                                   |
+| Sega Rally Championship (Made in USA)                                                               | :us:     | :question:                           | TODO                                                   |
+| Sega Rally Championship                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9047/01/README.md)             |
+| Sega Rally Championship (Demo)                                                                      | :jp:     | :question:                           | TODO                                                   |
+| Sega Rally Championship                                                                             | :kr:     | :question:                           | TODO                                                   |
+| Sega Rally Championship                                                                             | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81207/01/README.md)              |
+| Sega Rally Championship Plus                                                                        | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9116/01/README.md)             |
+| Sega Rally Championship Plus Netlink Edition                                                        | :us:     | :question:                           | TODO                                                   |
+| Sega Saturn Bootleg II: On the Road                                                                 | :us:     | :question:                           | [Link](Regions/USA/MK-81068__DEMO/01/README.md) - TODO |
+| Sega Saturn Choice Cuts                                                                             | :us:     | :question:                           | [Link](Regions/USA/81600__DEMO/01/README.md) - TODO    |
+| Sega Saturn de Hakken!! Tamagotchi Park                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-13325G/01/README.md)            |
+| Sega Screams Volume 2                                                                               | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81077__DEMO/01/README.md)        |
+| Sega Touring Car Championship                                                                       | :eu:     | :question:                           | TODO                                                   |
+| Sega Touring Car Championship                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9164/01/README.md)             |
+| Sega Touring Car Championship (Demo)                                                                | :jp:     | :question:                           | TODO                                                   |
+| Sega Touring Car Championship                                                                       | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81216/01/README.md)              |
+| Sega Worldwide Soccer '97                                                                           | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81112/01/README.md)              |
+| Sega Worldwide Soccer 98                                                                            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9187/01/README.md)             |
+| Sega Worldwide Soccer 98: Club Edition                                                              | :eu:     | :minidisc: 3x                        | [Link](Regions/Europe/MK-81123/01/README.md)           |
+| Sega Worldwide Soccer 97 (Alt)                                                                      | :eu:     | :question: TODO                      | TODO                                                   |
+| Sega Worldwide Soccer 97                                                                            | :eu:     | :question: TODO                      | TODO                                                   |
+| Segata Sanshirou - Shinken Yuugi                                                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9204/01/README.md)             |
+| Seifuku Densetsu Pretty Fighter X                                                                   | :jp:     | :x:                                  | [Link](Regions/Japan/T-15001G/01/README.md)            |
+| Seikai Risshiden: Yoi Kuni Yoi Seiji                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-18005G/01/README.md)            |
+| Seireki 1999 ~Pharaoh no Fukkatsu~                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-18001G/01/README.md)            |
+| Sekai no Shasou kara I Swiss-hen: Alps Tozantetsudou no Tabi                                        | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-32201G/01/README.md)            |
+| Sengoku Blade - Sengoku Ace Episode II                                                              | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-14410G/README.md)               |
+| Sengoku Blade - Sengoku Ace Episode II (Demo)                                                       | :jp:     | :question:                           | TODO                                                   |
+| Senken Kigyouden                                                                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-37401G/01/README.md)            |
+| Senkutsu Katsuryuu Taisen Chaos Seed                                                                | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-30902G/01/README.md)            |
+| Senryaku Shougi                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10604G/01/README.md)            |
+| Sentimental Graffiti                                                                                | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-20106G/01/README.md)            |
+| Sentimental Graffiti: First Window                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-20111G/01/README.md)            |
+| Sento Monogatari Sono I                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-6801G/01/README.md)             |
+| Sexy Parodius                                                                                       | :jp:     | :100:                                | [Link](Regions/Japan/T-9514G/README.md)                |
+| Shadows of the Tusk                                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-14319G/01/README.md)            |
+| Shanghai: Banri no Choujou                                                                          | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-1505G/01/README.md)             |
+| Shanghai: Great Moments                                                                             | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-1512G/01/README.md)             |
+| Shanghai: Triple-Threat                                                                             | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-13001/01/README.md)               |
+| She'sn                                                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-19717G/01/README.md)            |
+| Shellshock                                                                                          | :eu:     | :question:                           | TODO                                                   |
+| Shellshock                                                                                          | :fr:     | :question:                           | TODO                                                   |
+| Shellshock                                                                                          | :de:     | :question:                           | TODO                                                   |
+| Shellshock                                                                                          | :us:     | :x:                                  | [Link](Regions/USA/T-7901H/01/README.md)               |
+| Shellshock - Jus' Keepin' da Peace                                                                  | :jp:     | :x:                                  | [Link](Regions/Japan/T-10607G/01/README.md)            |
+| Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1242G/01/README.md)             |
+| Shichuu Suimei Pitagraph                                                                            | :jp:     | :question: TODO                      | [Link](Regions/Japan/T-19501G/01/README.md)            |
+| Shienryuu                                                                                           | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-29102G/01/README.md)            |
+| Shin Kaitei Gunkan: Koutetsu no Kodoku                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-2105G/01/README.md)             |
+| Shin Megami Tensei: Devil Summoner                                                                  | :jp:     | :x:                                  | [Link](Regions/Japan/T-14403G/01/README.md)            |
+| Shin Megami Tensei Devil Summoner: Akuma Zensho                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-14406G/01/README.md)            |
+| Shinseiki Evangelion                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9051/01/README.md)             |
+| Shinseiki Evangelion: 2nd Impression                                                                | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/GS-9129/01/README.md)             |
+| Shinseiki Evangelion: Digital Card Library                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9159/01/README.md)             |
+| Shinseiki Evangelion: Eva to Yukai na Nakamatachi                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-35103G/01/README.md)            |
+| Shinseiki Evangelion: Koutetsu no Girlfriend                                                        | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9194/README.md)                |
+| Shin Shinobiden                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9010/01/README.md)             |
+| Shin Theme Park                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10618G/01/README.md)            |
+| Shingata Kururin Pa!                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-24202G/01/README.md)            |
+| Shining Force III (R)                                                                               | :eu:     | :question:                           | TODO                                                   |
+| Shining Force III                                                                                   | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81383/01/README.md)              |
+| Shining Force III (Beta) (1998-04-23)                                                               | :us:     | :question:                           | [Link](Regions/USA/MK-81383__BETA/README.md) - TODO    |
+| Shining Force III - Scenario 1 - Outo no Kyoshin                                                    | :jp:     | :question:                           | TODO                                                   |
+| Shining Force III - Scenario 1 - Outo no Kyoshin (Demo)                                             | :jp:     | :question:                           | TODO                                                   |
+| Shining Force III - Scenario 1 - Outo no Kyoshin (Rev A)                                            | :jp:     | :question:                           | TODO                                                   |
+| Shining Force III - Scenario 2 - Nerawareta Miko                                                    | :jp:     | :question:                           | TODO                                                   |
+| Shining Force III - Scenario 2 - Nerawareta Miko (Rev A)                                            | :jp:     | :question:                           | TODO                                                   |
+| Shining Force III - Scenario 3 - Hyouheki no Jashinguu                                              | :jp:     | :question:                           | TODO                                                   |
+| Shining Force III - Premium Disc                                                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/6106979/01/README.md)             |
+| Shining Wisdom                                                                                      | :eu:     | :question:                           | TODO                                                   |
+| Shining Wisdom                                                                                      | :jp:     | :question:                           | TODO                                                   |
+| Shining Wisdom (Demo)                                                                               | :jp:     | :question:                           | TODO                                                   |
+| Shining Wisdom (Rev A)                                                                              | :jp:     | :question:                           | TODO                                                   |
+| Shining Wisdom                                                                                      | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-12702H/01/README.md)              |
+| Shining Wisdom (Beta) (1996-04-11)                                                                  | :us:     | :question:                           | [Link](Regions/USA/T-12702H__BETA/README.md) - TODO    |
+| Shining the Holy Ark                                                                                | :eu:     | :question:                           | TODO                                                   |
+| Shining the Holy Ark (1M)                                                                           | :jp:     | :question:                           | TODO                                                   |
+| Shining the Holy Ark (3M)                                                                           | :jp:     | :question:                           | TODO                                                   |
+| Shining the Holy Ark                                                                                | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81306/01/README.md)              |
+| Shinobi Legions                                                                                     | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-2301H/01/README.md)               |
+| Shinobi X                                                                                           | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/MK-81082/01/README.md)           |
+| Shinouken                                                                                           | :jp:     | :x:                                  | [Link](Regions/Japan/T-3113G/README.md)                |
+| Shinpi no Sekai El-Hazard                                                                           | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-22202G/01/README.md)            |
+| Shinrei Jusatsushi Taroumaru                                                                        | :jp:     | :100:                                | [Link](Regions/Japan/T-4804G/README.md)                |
+| Shinsetsu Samurai Spirits Bushidou Retsuden                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-3112G/01/README.md)             |
+| Shinsetsu Yumemi Yakata: Tobira no Oku ni Dareka ga...                                              | :jp:     | :minidisc: 3x TODO                   | [Link](Regions/Japan/GS-9005/01/README.md)             |
+| Shippuu Mahou Daisakusen                                                                            | :jp:     | :question: TODO                      | [Link](Regions/Japan/T-18506G/01/README.md)            |
+| Shiroki Majo: Mouhitotsu no Eiyuu Densetsu                                                          | :jp:     | :x:                                  | [Link](Regions/Japan/T-14322G/01/README.md)            |
+| Shiroki Majo: Mouhitotsu no Eiyuu Densetsu (Demo)                                                   | :jp:     | :question:                           | TODO                                                   |
+| Shockwave Assault                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Shockwave Assault                                                                                   | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-5005H/01/README.md)               |
+| Shougi Matsuri                                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16502G/01/README.md)            |
+| Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari                                              | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9182/01/README.md)             |
+| Shouryuu Sangoku Engi                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-15009G/01/README.md)            |
+| Shunsai: Keiba Data Stable                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-18703G/01/README.md)            |
+| Shusse Mahjong Daisettai                                                                            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-24902G/01/README.md)            |
+| Shutokou Battle '97: Tsuchiya Keiichi & Bandou Masaaki                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-15019G/README.md)               |
+| Drift King Shutokou Battle '97 - Tsuchiya Keiichi & Bandou Masaaki (Demo)                           | :jp:     | :question:                           | TODO                                                   |
+| Shutsudou! Miniskirt Police                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-30812G/01/README.md)            |
+| Side Pocket 2 - Densetsu no Hustler                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1301G/01/README.md)             |
+| Side Pocket 3                                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1314G/01/README.md)             |
+| Side Pocket 3 (Demo)                                                                                | :jp:     | :question:                           | TODO                                                   |
+| Silhouette Mirage                                                                                   | :jp:     | :question:                           | TODO                                                   |
+| Silhouette Mirage (Demo)                                                                            | :jp:     | :question:                           | TODO                                                   |
+| Silhouette Mirage (Rev A)                                                                           | :jp:     | :question:                           | TODO                                                   |
+| SimCity 2000                                                                                        | :eu:     | :question:                           | TODO                                                   |
+| SimCity 2000 (Rev A)                                                                                | :jp:     | :question:                           | TODO                                                   |
+| SimCity 2000                                                                                        | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-12601H/01/README.md)              |
+| Simulation RPG Tsukuru                                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-2106G/01/README.md)             |
+| Simulation Zoo                                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-18611G/01/README.md)            |
+| Skeleton Warriors                                                                                   | :eu:     | :question:                           | TODO                                                   |
+| Skeleton Warriors                                                                                   | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-13204H/01/README.md)              |
+| Skull Fang: Kuuga Gaiden                                                                            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1311G/01/README.md)             |
+| Sky Target                                                                                          | :eu:     | :question:                           | TODO                                                   |
+| Sky Target                                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9103/01/README.md)             |
+| Sky Target                                                                                          | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81051/01/README.md)              |
+| Slam 'n Jam '96 Featuring Magic & Kareem                                                            | :jp:     | :question:                           | TODO                                                   |
+| Slam 'n Jam '96 Featuring Magic & Kareem                                                            | :eu:     | :question:                           | TODO                                                   |
+| Slam 'n Jam '96 Featuring Magic & Kareem                                                            | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-159028H/01/README.md)             |
+| Slayers Royal                                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-27903G/01/README.md)            |
+| Slayers Royal 2                                                                                     | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-27907G/01/README.md)            |
+| Snatcher                                                                                            | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-9508G/01/README.md)             |
+| Söldnerschild                                                                                       | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9155/01/README.md)             |
+| Sokkou Seitokai                                                                                     | :jp:     | :x:                                  | [Link](Regions/Japan/T-20611G/01/README.md)            |
+| Sol Divide                                                                                          | :jp:     | :100:                                | [Link](Regions/Japan/T-14423G/README.md)               |
+| Solar Eclipse                                                                                       | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-15911H/01/README.md)              |
+| Solo Crisis                                                                                         | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-23501G/01/README.md)            |
+| Solo Crisis (Demo)                                                                                  | :jp:     | :question:                           | TODO                                                   |
+| Sonic 3D: Flickies' Island                                                                          | :eu:     | :100:                                | [Link](Regions/Europe/MK-8106250/README.md)            |
+| Sonic 3D: Flickies' Island                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9143/01/README.md)             |
+| Sonic 3D Blast                                                                                      | :us:     | :x:                                  | [Link](Regions/USA/MK-81062/01/README.md)              |
+| Sonic Jam                                                                                           | :eu:     | :question:                           | TODO                                                   |
+| Sonic Jam                                                                                           | :jp:     | :question:                           | TODO                                                   |
+| Sonic Jam (Rev A)                                                                                   | :jp:     | :question:                           | TODO                                                   |
+| Sonic Jam                                                                                           | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81079/01/README.md)              |
+| Sonic R                                                                                             | :eu:     | :question:                           | TODO                                                   |
+| Sonic R                                                                                             | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/GS-9170/README.md)                |
+| Sonic R (Demo)                                                                                      | :jp:     | :question:                           | TODO                                                   |
+| Sonic R                                                                                             | :us:     | :100:                                | [Link](Regions/USA/MK-81800/README.md)                 |
+| Sonic Wings Special                                                                                 | :jp:     | :x:                                  | [Link](Regions/Japan/T-26402G/01/README.md)            |
+| Sorvice                                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16609G/01/README.md)            |
+| Sotsugyou S                                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-20103G/01/README.md)            |
+| Sotsugyou Album                                                                                     | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10504G/01/README.md)            |
+| Sotsugyou Crossworld                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10503G/01/README.md)            |
+| Sotsugyou II Neo Generation                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-5301G/01/README.md)             |
+| Sotsugyou III Wedding Bell                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10505G/01/README.md)            |
+| Soukuu no Tsubasa: Gotha World                                                                      | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-2205G/01/README.md)             |
+| Soukuu no Tsubasa: Gotha World (Demo)                                                               | :jp:     | :question:                           | TODO                                                   |
+| Soukyuu Gurentai                                                                                    | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-10616G/01/README.md)            |
+| Soukyugurentai Otokuyou                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-10626G/01/README.md)            |
+| Sound Novel Machi (Disc 1) (1M)                                                                     | :jp:     | :question:                           | TODO                                                   |
+| Sound Novel Machi (Disc 2) (1M)                                                                     | :jp:     | :question:                           | TODO                                                   |
+| Sound Novel Machi (Disc 2) (2M)                                                                     | :jp:     | :question:                           | TODO                                                   |
+| Sound Novel Tsukuru 2                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-2108G/01/README.md)             |
+| Sound Qube                                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-4318G/01/README.md)             |
+| Soviet Strike                                                                                       | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-5013H/01/README.md)            |
+| Soviet Strike                                                                                       | :fr:     | :question:                           | TODO                                                   |
+| Soviet Strike                                                                                       | :de:     | :question:                           | TODO                                                   |
+| Soviet Strike                                                                                       | :jp:     | :question:                           | TODO                                                   |
+| Soviet Strike                                                                                       | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-5013H/README.md)                  |
+| Space Hulk - Vengeance of the Blood Angels                                                          | :eu:     | :question:                           | TODO                                                   |
+| Space Hulk: Vengeance of the Blood Angels                                                           | :us:     | :x:                                  | [Link](Regions/USA/T-5007H/01/README.md)               |
+| Space Invaders                                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1107G/01/README.md)             |
+| Space Jam                                                                                           | :eu:     | :question:                           | TODO                                                   |
+| Space Jam                                                                                           | :jp:     | :question:                           | TODO                                                   |
+| Space Jam                                                                                           | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-8125H/01/README.md)               |
+| Special Disc with SegaSaturn Internet 2                                                             | :jp:     | :question:                           | TODO                                                   |
+| Spot Goes to Hollywood                                                                              | :eu:     | :question:                           | TODO                                                   |
+| Spot Goes to Hollywood                                                                              | :jp:     | :question:                           | TODO                                                   |
+| Spot Goes to Hollywood                                                                              | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-7001H/01/README.md)               |
+| Stakes Winner: GI Kanzen Seiha Heno Michi                                                           | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-3107G/01/README.md)             |
+| Stakes Winner 2: Saikyouba Densetsu                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-3115G/01/README.md)             |
+| Standby Say You!                                                                                    | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-4309G/01/README.md)             |
+| Star Fighter                                                                                        | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-8135H/01/README.md)               |
+| StarFighter 3000                                                                                    | :eu:     | :question:                           | TODO                                                   |
+| StarFighter 3000                                                                                    | :jp:     | :question:                           | TODO                                                   |
+| Steam-Heart's                                                                                       | :jp:     | :100:                                | [Link](Regions/Japan/T-32502G/README.md)               |
+| SteamGear Mash                                                                                      | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-10301G/01/README.md)            |
+| Steep Slope Sliders                                                                                 | :eu:     | :question:                           | TODO                                                   |
+| Steep Slope Sliders                                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-9112G/01/README.md)             |
+| Steep Slope Sliders (Demo)                                                                          | :jp:     | :question:                           | TODO                                                   |
+| Steep Slope Sliders                                                                                 | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/MK-81128/01/README.md)              |
+| Stellar Assault SS                                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-4403G/01/README.md)             |
+| Stellar Assault SS (Demo)                                                                           | :jp:     | :question:                           | TODO                                                   |
+| Strahl: Himerareshi Nanatsu no Hikari                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-20501G/01/README.md)            |
+| Street Fighter: Real Battle on Film                                                                 | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/T-1201G/01/README.md)             |
+| Street Fighter - The Movie (Europe) (2S)                                                            | :eu:     | :question:                           | TODO                                                   |
+| Street Fighter - The Movie (Europe) (4S)                                                            | :eu:     | :question:                           | TODO                                                   |
+| Street Fighter The Movie                                                                            | :us:     | :100:                                | [Link](Regions/USA/T-8105H/README.md)                  |
+| Street Fighter Alpha: Warrior's Dreams                                                              | :eu:     | :100:                                | [Link](Regions/Europe/T-7008H-50/README.md)            |
+| Street Fighter Alpha: Warrior's Dreams                                                              | :us:     | :x:                                  | [Link](Regions/USA/T-1206H/README.md)                  |
+| Street Fighter Alpha - Warriors' Dreams (Beta) (1995-12-22)                                         | :us:     | :x:                                  | [Link](Regions/USA/T-1206H__BETA/README.md)            |
+| Street Fighter Alpha 2                                                                              | :eu:     | :question:                           | TODO                                                   |
+| Street Fighter Alpha 2                                                                              | :us:     | :x:                                  | [Link](Regions/USA/T-1213H/README.md)                  |
+| Street Fighter Collection                                                                           | :eu:     | :cd: 2x                              | [Link](Regions/Europe/T-7033H-50/README.md)            |
+| Street Fighter Collection                                                                           | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-1223G/README.md)                |
+| Street Fighter Collection (Demo)                                                                    | :jp:     | :question:                           | TODO                                                   |
+| Street Fighter Collection                                                                           | :us:     | :cd: 2x                              | [Link](Regions/USA/T-1222H/README.md)                  |
+| Street Fighter II Movie                                                                             | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-1204G/README.md)                |
+| Street Fighter Zero                                                                                 | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/T-1206G/README.md)                |
+| Street Fighter Zero 2                                                                               | :jp:     | :checkered_flag:                     | [Link](Regions/Japan/T-1212G/README.md)                |
+| Street Fighter Zero 2 (Demo)                                                                        | :jp:     | :question:                           | TODO                                                   |
+| Street Fighter Zero 2' - Dash                                                                       | :jp:     | :checkered_flag:                     | [Link](Regions/Japan/T-1244G/README.md)                |
+| Street Fighter Zero 3                                                                               | :jp:     | :hammer_and_wrench: :checkered_flag: | [Link](Regions/Japan/T-1246G/README.md)                |
+| Street Racer                                                                                        | :eu:     | :100:                                | [Link](Regions/Europe/T-17702H/README.md)              |
+| Street Racer Extra                                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-17702G/README.md)               |
+| Striker 96                                                                                          | :eu:     | :question:                           | TODO                                                   |
+| Striker 96                                                                                          | :jp:     | :question:                           | TODO                                                   |
+| Striker '96                                                                                         | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-8133H/01/README.md)               |
+| Strikers 1945                                                                                       | :jp:     | :100:                                | [Link](Regions/Japan/T-14407G/README.md)               |
+| Strikers 1945 (Demo)                                                                                | :jp:     | :question:                           | TODO                                                   |
+| Strikers 1945 II                                                                                    | :jp:     | :100:                                | [Link](Regions/Japan/T-20402G/README.md)               |
+| Suchie-Pai Adventure Doki Doki Nightmare                                                            | :jp:     | :cd: 2x                              | [Link](Regions/Japan/T-5713G/01/README.md)             |
+| Sugobencha: Dragon Master Silk Gaiden                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-19505G/01/README.md)            |
+| Suiko Enbu                                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-1302G/01/README.md)             |
+| Suiko Enbu: Fuunsaiki                                                                               | :jp:     | :100:                                | [Link](Regions/Japan/T-1305G/README.md)                |
+| Suiko Enbu: Fuunsaiki (Demo)                                                                        | :jp:     | :question:                           | TODO                                                   |
+| Suikoden Tendou 108 Sei                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7656G/01/README.md)             |
+| Suikoden: Tenmei no Chikai                                                                          | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7624G/01/README.md)             |
+| Super Adventure Rockman                                                                             | :jp:     | :cd: 3x                              | [Link](Regions/Japan/T-1225G/01/README.md)             |
+| Super Casino Special                                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-7306G/01/README.md)             |
+| Super Puzzle Fighter II Turbo                                                                       | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-7030H-50/01/README.md)         |
+| Super Puzzle Fighter II Turbo                                                                       | :us:     | :100:                                | [Link](Regions/USA/T-1215H/README.md)                  |
+| Super Puzzle Fighter II X                                                                           | :jp:     | :100:                                | [Link](Regions/Japan/T-1213G/README.md)                |
+| Super Real Mahjong Graffiti                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16504G/01/README.md)            |
+| Super Real Mahjong Graffiti - P's Club Special Edition                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16506G/01/README.md)            |
+| Super Real Mahjong PV                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16501G/01/README.md)            |
+| Super Real Mahjong P7                                                                               | :jp:     | :x:                                  | [Link](Regions/Japan/T-16509G/01/README.md)            |
+| Super Real Mahjong P7 - P's Club Special Edition                                                    | :jp:     | TODO                                 | TODO                                                   |
+| Super Real Mahjong PVI                                                                              | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16507G/01/README.md)            |
+| Super Real Mahjong PVI - P's Club Special Edition                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-16508G/01/README.md)            |
+| Super Robot Taisen F                                                                                | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-20610G/01/README.md)            |
+| Super Robot Taisen F (Demo)                                                                         | :jp:     | :question:                           | TODO                                                   |
+| Super Robot Taisen F Kanketsuhen                                                                    | :jp:     | :minidisc: 4x                        | [Link](Regions/Japan/T-20612G/01/README.md)            |
+| Super Tempo                                                                                         | :jp:     | :x:                                  | [Link](Regions/Japan/T-26413G/01/README.md)            |
+| Swagman                                                                                             | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-11502H-5/01/README.md)         |
+| Swagman (Demo)                                                                                      | :eu:     | :question:                           | TODO                                                   |
+| Sword & Sorcery                                                                                     | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-5202G/01/README.md)             |
+| System-Disc (KD02) Columbia                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/SEGASYSTEM/01/README.md)          |
 
 ### T
 
-| Name                                                         | Region | Status              | Details                                         |
-| ------------------------------------------------------------ | ------ | ------------------- | ----------------------------------------------- |
-| TNN Motor Sports HardCore 4X4                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-13703H/01/README.md)       |
-| Tactical Fighter                                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21402G/01/README.md)     |
-| Tactics Formula                                              | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-34101G/01/README.md)     |
-| Tactics Ogre: Let Us Cling Together                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-5306G/01/README.md)      |
-| Tadaima Wakusei Kaitakuchuu!                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-16602G/01/README.md)     |
-| Taiheiyou no Arashi 2: 3D Heiki Data-shuu                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15024G/01/README.md)     |
-| Taiheiyou no Arashi 2: Shippuu no Moudou                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15018G/01/README.md)     |
-| Taikou Risshiden II                                          | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-7618G/01/README.md)      |
-| Taikyoku Shougi: Kiwame II                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29001G/01/README.md)     |
-| Taito Chase H.Q. + S.C.I.                                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1105G/01/README.md)      |
-| Taklamakan: Tonkou Denki                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-25102G/01/README.md)     |
-| Tama: Adventurous Ball in Giddy Labyrinth                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4801G/01/README.md)      |
-| Tanjou - Debut S                                             | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-20101G/01/README.md)     |
-| Tantei Jinguuji Saburou: Mikan no Report                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1307G/01/README.md)      |
-| Tantei Jinguuji Saburou: Yume no Owari ni                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1316G/01/README.md)      |
-| Techno Motor                                                 | :jp:   | :100:               | [Link](Regions/Japan/T-37601G/README.md)        |
-| Teitoku no Ketsudan II                                       | :jp:   | :question:          | TODO                                            |
-| Teitoku no Ketsudan III                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7640G/01/README.md)      |
-| Teitoku no Ketsudan III with Power-Up Kit                    | :jp:   | :question:          | TODO                                            |
-| Tekkyuu - True Pinball                                       | :jp:   | :question:          | TODO                                            |
-| Tempest 2000                                                 | :eu:   | :question:          | TODO                                            |
-| Tempest 2000                                                 | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-12516H/01/README.md)       |
-| Ten Pin Alley                                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-13705H/01/README.md)       |
-| Tenant Wars                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/6106821/01/README.md)      |
-| Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi                | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-21802G/01/README.md)     |
-| Tenchi Muyou! Rensa Hitsuyou                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-22204G/01/README.md)     |
-| Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21801G00/01/README.md)   |
-| Tenchi Muyou! Toukou Muyou - Aniraji Collection              | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-26103G/01/README.md)     |
-| Tenchi o Kurau II - Sekiheki no Tatakai                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1207G/01/README.md)      |
-| Tenka Seiha                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15030G/01/README.md)     |
-| Tengai Makyou: Daiyon no Mokushiroku                         | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-14301G/01/README.md)     |
-| Tennis Arena                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-17703G/01/README.md)     |
-| Terra Cresta 3D                                              | :jp:   | :question: TODO     | [Link](Regions/Japan/T-7102G/01/README.md)      |
-| Terra Phantastica                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9054/01/README.md)      |
-| Terry Pratchett's Discworld                                  | :eu:   | :question:          | TODO                                            |
-| Tetris Plus                                                  | :eu:   | :question:          | TODO                                            |
-| Tetris Plus                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-5708G/01/README.md)      |
-| Tetris Plus                                                  | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5704H/01/README.md)        |
-| Tetris S                                                     | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-20802G/01/README.md)     |
-| Texthoth Ludo: Arcanum Senki                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-23102G/01/README.md)     |
-| The Conveni: Ano Machi o Dokusen Seyo                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4310G/01/README.md)      |
-| The Conveni 2: Zenkoku Chain Tenkai da!                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4317G/01/README.md)      |
-| The Crow - City of Angels                                    | :eu:   | :question:          | TODO                                            |
-| The Crow - City of Angels                                    | :de:   | :question:          | TODO                                            |
-| The Crow - City of Angels                                    | :jp:   | :question:          | TODO                                            |
-| The Crow - City of Angels                                    | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8124H/01/README.md)        |
-| The Horde                                                    | :eu:   | :question:          | TODO                                            |
-| The Horde                                                    | :fr:   | :question:          | TODO                                            |
-| The Horde                                                    | :de:   | :question:          | TODO                                            |
-| The Horde                                                    | :jp:   | :question:          | TODO                                            |
-| The Horde                                                    | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-15909H50/README.md)        |
-| The House of the Dead                                        | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81802/01/README.md)    |
-| The House of the Dead                                        | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9173/01/README.md)      |
-| The House of the Dead                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/81802/01/README.md)          |
-| The Hyper Golf - Devil's Course                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2303H/01/README.md)      |
-| The Incredible Hulk - The Pantheon Saga                      | :eu:   | :question:          | TODO                                            |
-| The Incredible Hulk - The Pantheon Saga                      | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-7905H/README.md)           |
-| The King of Boxing                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-6001G/01/README.md)      |
-| The King of Fighters '95                                     | :eu:   | :hammer_and_wrench: | [Link](Regions/Europe/MK-81088/README.md)       |
-| The King of Fighters '95                                     | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-3101G/README.md)         |
-| The King of Fighters '96                                     | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-3108G/README.md)         |
-| The King of Fighters '97                                     | :jp:   | :100:               | [Link](Regions/Japan/T-3121G/README.md)         |
-| The Legend of Heroes I & II - Eiyuu Densetsu                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-37101G/01/README.md)     |
-| The Legend of Oasis                                          | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81302/01/README.md)       |
-| The Lost Vikings 2 - Norse by Norsewest                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-12521H50/01/README.md)  |
-| The Lost World - Jurassic Park                               | :eu:   | :question:          | TODO                                            |
-| The Lost World - Jurassic Park                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9162/01/README.md)      |
-| The Lost World - Jurassic Park                               | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81065/01/README.md)       |
-| The Making of Nightruth                                      | :jp:   | :x:                 | [Link](Regions/Japan/T-20203G/01/README.md)     |
-| The Mansion of Hidden Souls                                  | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81012/01/README.md)       |
-| The Mansion of Hidden Souls (1S)                             | :eu:   | :question:          | TODO                                            |
-| The Mansion of Hidden Souls (4S)                             | :eu:   | :question:          | TODO                                            |
-| The Star Bowling                                             | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-21804G/01/README.md)     |
-| The Star Bowling Vol. 2                                      | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-21805G/01/README.md)     |
-| The Story of Thor 2                                          | :eu:   | :question:          | TODO                                            |
-| The Unsolved                                                 | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-7017G/01/README.md)      |
-| The Yakyuuken Special: Konya wa 12-kaisen                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21901G/01/README.md)     |
-| Theme Park                                                   | :eu:   | :question:          | TODO                                            |
-| Theme Park                                                   | :jp:   | :question:          | TODO                                            |
-| Theme Park                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5001H/01/README.md)        |
-| Thor - Seireioukiden                                         | :jp:   | :question:          | TODO                                            |
-| Three Dirty Dwarves                                          | :eu:   | :question:          | TODO                                            |
-| Three Dirty Dwarves                                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9137/01/README.md)      |
-| Three Dirty Dwarves                                          | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-30401H/01/README.md)       |
-| Thunder Force Gold Pack 1                                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1807G/01/README.md)      |
-| Thunder Force Gold Pack 2                                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1808G/01/README.md)      |
-| Thunder Force V                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1811G/README.md)         |
-| Thunder Storm & Road Blaster                                 | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-20701G/README.md)        |
-| Thunderhawk II                                               | :jp:   | :question:          | TODO                                            |
-| Thunderstrike 2 (Rev A)                                      | :us:   | :question:          | TODO                                            |
-| Thunderstrike 2                                              | :us:   | :question:          | TODO                                            |
-| Tilk: Aoi Umi kara Kita Shoujo                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-32508G/01/README.md)     |
-| Tilt!                                                        | :eu:   | :question: TODO     | [Link](Regions/Europe/T-7015H-50/01/README.md)  |
-| Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban    | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-20607G/01/README.md)     |
-| Time Commando                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-8129G/01/README.md)      |
-| Time Gal & Ninja Hayate                                      | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-20702G/README.md)        |
-| Titan Wars                                                   | :eu:   | :hammer_and_wrench: | [Link](Regions/Europe/T-15911H50/01/README.md)  |
-| Titan Wars                                                   | :jp:   | :question:          | TODO                                            |
-| Tokimeki Mahjong Graffiti: Toshishita no Tenshi-tachi        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20202G/01/README.md)     |
-| Tokimeki Mahjong Paradise: Koi no Tenpai Beat                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20201G/01/README.md)     |
-| Tokimeki Memorial - Forever with You                         | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-9504G/01/README.md)      |
-| Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9522G/01/README.md)      |
-| Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-9529G/01/README.md)      |
-| Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta     | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-9532G/01/README.md)      |
-| Tokimeki Memorial Selection - Fujisaki Shiori                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9517G/01/README.md)      |
-| Tokimeki Memorial Taisen Puzzledama                          | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-9512G/01/README.md)      |
-| Tokimeki Memorial Taisen Tokkaedama                          | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9524G/01/README.md)      |
-| Tokuso Kidoutai J-SWAT                                       | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-20602G/01/README.md)     |
-| Tokyo Shadow                                                 | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-1110G/01/README.md)      |
-| Tomb Raider                                                  | :eu:   | :question:          | TODO                                            |
-| Tomb Raider                                                  | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7910H/01/README.md)        |
-| Tomb Raiders                                                 | :jp:   | :question:          | TODO                                            |
-| Top Anglers: Super Fishing Big Fight 2                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18705G/01/README.md)     |
-| Torico (Disc 1)                                              | :eu:   | :question:          | TODO                                            |
-| Torico (Disc 2)                                              | :eu:   | :question:          | TODO                                            |
-| Touge King the Spirits                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14401G/01/README.md)     |
-| Touge King the Spirits 2                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14412G/01/README.md)     |
-| Tour Party - Sotsugyou Ryokou ni Ikou                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-10312G/01/README.md)     |
-| Tournament Leader                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-6007G/01/README.md)      |
-| Touryuu Densetsu Elan Doree                                  | :jp:   | :100:               | [Link](Regions/Japan/T-38202G/README.md)        |
-| Toushinden S                                                 | :jp:   | :question:          | TODO                                            |
-| Toushinden URA                                               | :jp:   | :question:          | TODO                                            |
-| The Tower                                                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21601G/01/README.md)     |
-| Transport Tycoon                                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15028G/01/README.md)     |
-| Trash It                                                     | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-25411H-50/01/README.md) |
-| True Pinball                                                 | :eu:   | :question:          | TODO                                            |
-| True Pinball                                                 | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-16406H/01/README.md)       |
-| Tryrush Deppy                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21302G/01/README.md)     |
-| Tsuukai!! Slot Shooting                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21504G/01/README.md)     |
-| Tunnel B1                                                    | :eu:   | :question:          | TODO                                            |
-| Tunnel B1                                                    | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8144H/01/README.md)        |
-| TurfWind '96: Take Yutaka Kyousouba Ikusei Game              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-5707G/01/README.md)      |
-| Tutankhamen no Nazo: A.N.K.H                                 | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-35601G/01/README.md)     |
-| Twinkle Star Sprites                                         | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-37301G/README.md)        |
+| Name                                                                          | Region | Status              | Details                                         |
+| ----------------------------------------------------------------------------- | ------ | ------------------- | ----------------------------------------------- |
+| TNN Motor Sports HardCore 4X4                                                 | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-13703H/01/README.md)       |
+| Tactical Fighter                                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21402G/01/README.md)     |
+| Tactics Formula                                                               | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-34101G/01/README.md)     |
+| Tactics Formula (Demo)                                                        | :jp:   | :question:          | TODO                                            |
+| Tactics Ogre: Let Us Cling Together                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-5306G/01/README.md)      |
+| Tadaima Wakusei Kaitakuchuu!                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-16602G/01/README.md)     |
+| Taiheiyou no Arashi 2: 3D Heiki Data-shuu                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15024G/01/README.md)     |
+| Taiheiyou no Arashi 2: Shippuu no Moudou                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15018G/01/README.md)     |
+| Taikou Risshiden II                                                           | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-7618G/01/README.md)      |
+| Taikyoku Shougi: Kiwame II                                                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-29001G/01/README.md)     |
+| Taito Chase H.Q. + S.C.I.                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1105G/01/README.md)      |
+| Taklamakan: Tonkou Denki                                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-25102G/01/README.md)     |
+| Tama: Adventurous Ball in Giddy Labyrinth                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4801G/01/README.md)      |
+| Tanjou - Debut S                                                              | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-20101G/01/README.md)     |
+| Tantei Jinguuji Saburou: Mikan no Report                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1307G/01/README.md)      |
+| Tantei Jinguuji Saburou: Yume no Owari ni                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1316G/01/README.md)      |
+| Tech Saturn Apr.1997                                                          | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Aug.1997                                                          | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Feb.1997 - E, Chocolate Kurereba Morau yo                         | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Jan.1997 - Kizuitara Gekkan-ka                                    | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Jul.1997                                                          | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Jun.1997                                                          | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Mar.1997 - Okaeshi wa Marshmallow, Cookie, Howaito Choco          | :jp:   | :question:          | TODO                                            |
+| Tech Saturn May.1997                                                          | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Oct.1997                                                          | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Sep.1997                                                          | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Tsuushin - Autumn 1995 - Special CD-ROM                           | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Tsuushin - Spring 1995                                            | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Tsuushin - Winter 1995 - Taikenban & Demo-ban ga Tenkomori!       | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Tsuushin Vol. 4 - Spring 1996 - Youriyou Meippai Kikaku Tenkomori | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Tsuushin Vol. 5 - Summer 1996                                     | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Vol. 1-1996 - Yatchimatta!                                        | :jp:   | :question:          | TODO                                            |
+| Tech Saturn Vol. 2-1996 - Maitsuki 8-nichi wa Tessa no Hi - Ataru to Sugo Iyo | :jp:   | :question:          | TODO                                            |
+| Techno Motor                                                                  | :jp:   | :100:               | [Link](Regions/Japan/T-37601G/README.md)        |
+| Teitoku no Ketsudan II                                                        | :jp:   | :question:          | TODO                                            |
+| Teitoku no Ketsudan III                                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-7640G/01/README.md)      |
+| Teitoku no Ketsudan III with Power-Up Kit                                     | :jp:   | :question:          | TODO                                            |
+| Tekkyuu - True Pinball                                                        | :jp:   | :question:          | TODO                                            |
+| Tempest 2000                                                                  | :eu:   | :question:          | TODO                                            |
+| Tempest 2000                                                                  | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-12516H/01/README.md)       |
+| Ten Pin Alley                                                                 | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-13705H/01/README.md)       |
+| Tenant Wars                                                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/6106821/01/README.md)      |
+| Tenant Wars (Demo)                                                            | :jp:   | :question:          | TODO                                            |
+| Tenchi Muyou! Mimiri Onsen - Yukemuri no Tabi                                 | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-21802G/01/README.md)     |
+| Tenchi Muyou! Rensa Hitsuyou                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-22204G/01/README.md)     |
+| Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21801G00/01/README.md)   |
+| Tenchi Muyou! Toukou Muyou - Aniraji Collection                               | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-26103G/01/README.md)     |
+| Tenchi o Kurau II - Sekiheki no Tatakai                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1207G/01/README.md)      |
+| Tenka Seiha                                                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15030G/01/README.md)     |
+| Tengai Makyou: Daiyon no Mokushiroku                                          | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-14301G/01/README.md)     |
+| Tengai Makyou - Daiyon no Mokushiroku - The Apocalypse IV (Demo)              | :jp:   | :question:          | TODO                                            |
+| Tennis Arena                                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-17703G/01/README.md)     |
+| Terra Cresta 3D                                                               | :jp:   | :question: TODO     | [Link](Regions/Japan/T-7102G/01/README.md)      |
+| Terra Phantastica                                                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9054/01/README.md)      |
+| Terry Pratchett's Discworld                                                   | :eu:   | :question:          | TODO                                            |
+| Tetris Plus                                                                   | :eu:   | :question:          | TODO                                            |
+| Tetris Plus                                                                   | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-5708G/01/README.md)      |
+| Tetris Plus Mihonban (Demo)                                                   | :jp:   | :question:          | TODO                                            |
+| Tetris Plus                                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5704H/01/README.md)        |
+| Tetris S                                                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-20802G/01/README.md)     |
+| Texthoth Ludo: Arcanum Senki                                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-23102G/01/README.md)     |
+| The Conveni: Ano Machi o Dokusen Seyo                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4310G/01/README.md)      |
+| The Conveni 2: Zenkoku Chain Tenkai da!                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-4317G/01/README.md)      |
+| The Crow - City of Angels                                                     | :eu:   | :question:          | TODO                                            |
+| The Crow - City of Angels                                                     | :de:   | :question:          | TODO                                            |
+| The Crow - City of Angels                                                     | :jp:   | :question:          | TODO                                            |
+| The Crow - City of Angels                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8124H/01/README.md)        |
+| The Horde                                                                     | :eu:   | :question:          | TODO                                            |
+| The Horde                                                                     | :fr:   | :question:          | TODO                                            |
+| The Horde                                                                     | :de:   | :question:          | TODO                                            |
+| The Horde                                                                     | :jp:   | :question:          | TODO                                            |
+| The Horde                                                                     | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-15909H50/README.md)        |
+| The House of the Dead                                                         | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81802/01/README.md)    |
+| The House of the Dead                                                         | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9173/01/README.md)      |
+| The House of the Dead (Demo)                                                  | :jp:   | :question:          | TODO                                            |
+| The House of the Dead                                                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/81802/01/README.md)          |
+| The Hyper Golf - Devil's Course                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2303H/01/README.md)      |
+| The Incredible Hulk - The Pantheon Saga                                       | :eu:   | :question:          | TODO                                            |
+| The Incredible Hulk - The Pantheon Saga                                       | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-7905H/README.md)           |
+| The King of Boxing                                                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-6001G/01/README.md)      |
+| The King of Fighters '95                                                      | :eu:   | :hammer_and_wrench: | [Link](Regions/Europe/MK-81088/README.md)       |
+| The King of Fighters '95                                                      | :jp:   | :minidisc: 3x       | [Link](Regions/Japan/T-3101G/README.md)         |
+| The King of Fighters '96                                                      | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-3108G/README.md)         |
+| The King of Fighters '97                                                      | :jp:   | :100:               | [Link](Regions/Japan/T-3121G/README.md)         |
+| The Legend of Heroes I & II - Eiyuu Densetsu                                  | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-37101G/01/README.md)     |
+| The Legend of Oasis                                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81302/01/README.md)       |
+| The Lost Vikings 2 - Norse by Norsewest                                       | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-12521H50/01/README.md)  |
+| The Lost World - Jurassic Park                                                | :eu:   | :question:          | TODO                                            |
+| The Lost World - Jurassic Park                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9162/01/README.md)      |
+| The Lost World - Jurassic Park                                                | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81065/01/README.md)       |
+| The Making of Nightruth                                                       | :jp:   | :x:                 | [Link](Regions/Japan/T-20203G/01/README.md)     |
+| The Mansion of Hidden Souls                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81012/01/README.md)       |
+| The Mansion of Hidden Souls (1S)                                              | :eu:   | :question:          | TODO                                            |
+| The Mansion of Hidden Souls (4S)                                              | :eu:   | :question:          | TODO                                            |
+| The Star Bowling                                                              | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-21804G/01/README.md)     |
+| The Star Bowling Vol. 2                                                       | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-21805G/01/README.md)     |
+| The Story of Thor 2                                                           | :eu:   | :question:          | TODO                                            |
+| The Unsolved                                                                  | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-7017G/01/README.md)      |
+| The Yakyuuken Special: Konya wa 12-kaisen                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21901G/01/README.md)     |
+| Theme Park                                                                    | :eu:   | :question:          | TODO                                            |
+| Theme Park                                                                    | :jp:   | :question:          | TODO                                            |
+| Theme Park                                                                    | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-5001H/01/README.md)        |
+| Thor - Seireioukiden                                                          | :jp:   | :question:          | TODO                                            |
+| Three Dirty Dwarves                                                           | :eu:   | :question:          | TODO                                            |
+| Three Dirty Dwarves                                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9137/01/README.md)      |
+| Three Dirty Dwarves                                                           | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-30401H/01/README.md)       |
+| Thunder Force Gold Pack 1                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1807G/01/README.md)      |
+| Thunder Force Gold Pack 2                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1808G/01/README.md)      |
+| Thunder Force V                                                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1811G/README.md)         |
+| Thunder Force V (Demo)                                                        | :jp:   | :100:               | [Link](Regions/Japan/6106563__DEMO/README.md)   |
+| Thunder Storm & Road Blaster                                                  | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-20701G/README.md)        |
+| Thunderhawk II                                                                | :jp:   | :question:          | TODO                                            |
+| Thunderstrike 2 (Rev A)                                                       | :us:   | :question:          | TODO                                            |
+| Thunderstrike 2                                                               | :us:   | :question:          | TODO                                            |
+| Tilk: Aoi Umi kara Kita Shoujo                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-32508G/01/README.md)     |
+| Tilt!                                                                         | :eu:   | :question: TODO     | [Link](Regions/Europe/T-7015H-50/01/README.md)  |
+| Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban                     | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-20607G/01/README.md)     |
+| Time Commando                                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-8129G/01/README.md)      |
+| Time Gal & Ninja Hayate                                                       | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-20702G/README.md)        |
+| Titan Wars                                                                    | :eu:   | :hammer_and_wrench: | [Link](Regions/Europe/T-15911H50/01/README.md)  |
+| Titan Wars                                                                    | :jp:   | :question:          | TODO                                            |
+| Tokimeki Mahjong Graffiti: Toshishita no Tenshi-tachi                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20202G/01/README.md)     |
+| Tokimeki Mahjong Paradise: Koi no Tenpai Beat                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-20201G/01/README.md)     |
+| Tokimeki Memorial - Forever with You                                          | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-9504G/01/README.md)      |
+| Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun                    | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9522G/01/README.md)      |
+| Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Demo)             | :jp:   | :question:          | TODO                                            |
+| Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song                  | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-9529G/01/README.md)      |
+| Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta                      | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-9532G/01/README.md)      |
+| Tokimeki Memorial Selection - Fujisaki Shiori                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9517G/01/README.md)      |
+| Tokimeki Memorial Taisen Puzzledama                                           | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/T-9512G/01/README.md)      |
+| Tokimeki Memorial Taisen Tokkaedama                                           | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-9524G/01/README.md)      |
+| Tokuso Kidoutai J-SWAT                                                        | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-20602G/01/README.md)     |
+| Tokyo Shadow                                                                  | :jp:   | :cd: 3x             | [Link](Regions/Japan/T-1110G/01/README.md)      |
+| Tomb Raider                                                                   | :eu:   | :question:          | TODO                                            |
+| Tomb Raider                                                                   | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7910H/01/README.md)        |
+| Tomb Raiders                                                                  | :jp:   | :question:          | TODO                                            |
+| Tomb Raiders (Demo)                                                           | :jp:   | :question:          | TODO                                            |
+| Top Anglers: Super Fishing Big Fight 2                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18705G/01/README.md)     |
+| Torico (Disc 1)                                                               | :eu:   | :question:          | TODO                                            |
+| Torico (Disc 2)                                                               | :eu:   | :question:          | TODO                                            |
+| Touge King the Spirits                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14401G/01/README.md)     |
+| Touge King the Spirits 2                                                      | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14412G/01/README.md)     |
+| Touge King the Spirits 2 (Demo)                                               | :jp:   | :question:          | TODO                                            |
+| Tour Party - Sotsugyou Ryokou ni Ikou                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-10312G/01/README.md)     |
+| Tournament Leader                                                             | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-6007G/01/README.md)      |
+| Touryuu Densetsu Elan Doree                                                   | :jp:   | :100:               | [Link](Regions/Japan/T-38202G/README.md)        |
+| Toushinden S                                                                  | :jp:   | :question:          | TODO                                            |
+| Toushinden URA                                                                | :jp:   | :question:          | TODO                                            |
+| The Tower                                                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21601G/01/README.md)     |
+| Transport Tycoon                                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-15028G/01/README.md)     |
+| Trash It                                                                      | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-25411H-50/01/README.md) |
+| True Pinball                                                                  | :eu:   | :question:          | TODO                                            |
+| True Pinball                                                                  | :us:   | :hammer_and_wrench: | [Link](Regions/USA/T-16406H/01/README.md)       |
+| Tryrush Deppy                                                                 | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21302G/01/README.md)     |
+| Tsuukai!! Slot Shooting                                                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-21504G/01/README.md)     |
+| Tunnel B1                                                                     | :eu:   | :question:          | TODO                                            |
+| Tunnel B1                                                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-8144H/01/README.md)        |
+| TurfWind '96: Take Yutaka Kyousouba Ikusei Game                               | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-5707G/01/README.md)      |
+| Tutankhamen no Nazo: A.N.K.H                                                  | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-35601G/01/README.md)     |
+| Twinkle Star Sprites                                                          | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-37301G/README.md)        |
 
 ### U
 
@@ -1722,10 +1950,13 @@ Other links related to SAROO:
 | Valora Valley Golf                                      | :eu:   |                                      | TODO                                           |
 | Valora Valley Golf                                      | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-2303H/01/README.md)       |
 | Vampire Hunter: Darkstalkers' Revenge                   | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/T-1202G/01/README.md)     |
+| Vampire Hunter - Darkstalker's Revenge (Demo)           | :jp:   | :question:                           | TODO                                           |
 | Vampire Savior: The Lord of Vampire                     | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1229G/01/README.md)     |
 | Vandal Hearts - Ushinawareta Kodai Bunmei               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9526G/01/README.md)     |
 | Vatlva                                                  | :jp:   | :100:                                | [Link](Regions/Japan/T-31501G/README.md)       |
+| Vatlva (Demo)                                           | :jp:   | :question:                           | TODO                                           |
 | Victory Boxing                                          | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-6005H-50/01/README.md) |
+| Victory Boxing (Demo)                                   | :eu:   | :question:                           | TODO                                           |
 | Victory Goal                                            | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS-9002/01/README.md)     |
 | Victory Goal Worldwide Edition                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9112/01/README.md)     |
 | Virtua Cop                                              | :eu:   | :minidisc: 4x                        | [Link](Regions/Europe/MK-81015/README.md)      |
@@ -1737,12 +1968,14 @@ Other links related to SAROO:
 | Virtua Fighter (Made in EU)                             | :eu:   | :question:                           | TODO                                           |
 | Virtua Fighter (Made in USA)                            | :eu:   | :question:                           | TODO                                           |
 | Virtua Fighter                                          | :jp:   | :question:                           | TODO                                           |
+| Virtua Fighter (Demo)                                   | :jp:   | :question:                           | TODO                                           |
 | Virtua Fighter                                          | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/USA/MK-81005/README.md)         |
 | Virtua Fighter 2 (Made in EU)                           | :eu:   | :question:                           | TODO                                           |
 | Virtua Fighter 2 (Made in USA)                          | :eu:   | :question:                           | TODO                                           |
 | Virtua Fighter 2 (Rev A) (Made in EU)                   | :eu:   | :question:                           | TODO                                           |
 | Virtua Fighter 2 (Rev A) (Made in USA)                  | :eu:   | :question:                           | TODO                                           |
 | Virtua Fighter 2                                        | :jp:   | :minidisc: 6x                        | [Link](Regions/Japan/GS-9079/README.md)        |
+| Virtua Fighter 2 (Demo)                                 | :jp:   | :question:                           | TODO                                           |
 | Virtua Fighter 2                                        | :kr:   | :question:                           | TODO                                           |
 | Virtua Fighter 2                                        | :us:   | :minidisc: 2x                        | [Link](Regions/USA/MK-81014/README.md)         |
 | Virtua Fighter CG portrait Collection                   | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/610-6083/01/README.md)   |
@@ -1760,6 +1993,7 @@ Other links related to SAROO:
 | Virtua Fighter CG portrait Series Vol. 10 Jeffry McWild | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9072/01/README.md)     |
 | Virtua Fighter Kids                                     | :eu:   | :question:                           | TODO                                           |
 | Virtua Fighter Kids                                     | :jp:   | :100:                                | [Link](Regions/Japan/GS-9098/README.md)        |
+| Virtua Fighter Kids (Java Tea Original)                 | :jp:   | :question:                           | TODO                                           |
 | Virtua Fighter Kids                                     | :kr:   | :question:                           | TODO                                           |
 | Virtua Fighter Kids                                     | :us:   | :100:                                | [Link](Regions/USA/MK-81049/README.md)         |
 | Virtua Fighter Remix                                    | :eu:   | :question:                           | TODO                                           |
@@ -1788,6 +2022,7 @@ Other links related to SAROO:
 | Virtual Open Tennis                                     | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-8129H/01/README.md)       |
 | Virtual Volleyball                                      | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-15005G/01/README.md)    |
 | Virus                                                   | :jp:   | :cd: 3x                              | [Link](Regions/Japan/T-14304G/01/README.md)    |
+| Virus (Demo)                                            | :jp:   | :question:                           | TODO                                           |
 | Voice Fantasia S: Ushinawareta Voice Power              | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-16706G/README.md)       |
 | Voice Idol Maniacs - Pool Bar Story                     | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-1312G/01/README.md)     |
 
@@ -1799,15 +2034,19 @@ Other links related to SAROO:
 | WWF In Your House                                         | :jp:   | :100:                                | [Link](Regions/Japan/T-8120G/README.md)          |
 | WWF In Your House                                         | :us:   | :100:                                | [Link](Regions/USA/T-8126H/README.md)            |
 | WWF WrestleMania - The Arcade Game                        | :eu:   | :question:                           | TODO                                             |
+| WWF WrestleMania - The Arcade Game (Demo)                 | :eu:   | :question:                           | TODO                                             |
 | WWF WrestleMania - The Arcade Game                        | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-8112G/01/README.md)       |
 | WWF WrestleMania - The Arcade Game                        | :us:   | :x:                                  | [Link](Regions/USA/T-8112H/README.md)            |
 | Wachenröder                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9183/01/README.md)       |
 | Waialae no Kiseki: Extra 36 Holes                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-11402G/01/README.md)      |
 | Waku Waku 7                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1515G/01/README.md)       |
+| Waku Waku 7 (Demo)                                        | :jp:   | :question:                           | TODO                                             |
 | Waku Waku Puyo Puyo Dungeon                               | :jp:   | :minidisc: 2x                        | [Link](Regions/Japan/T-6608G/01/README.md)       |
+| Waku Waku Puyo Puyo Dungeon (Demo)                        | :jp:   | :question:                           | TODO                                             |
 | Waku Waku Monster                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-16608G/README.md)         |
 | WanChai Connection                                        | :jp:   | :cd: 2x                              | [Link](Regions/Japan/GS-9007/01/README.md)       |
 | Wangan Dead Heat                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9102G/README.md)          |
+| Wangan Dead Heat (Demo)                                   | :jp:   | :question:                           | TODO                                             |
 | Wangan Dead Heat + Real Arrange                           | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-9103G/README.md)          |
 | Wangan Trial Love                                         | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-9110G/01/README.md)       |
 | WarCraft II - The Dark Saga                               | :eu:   | :question:                           | TODO                                             |
@@ -1829,12 +2068,14 @@ Other links related to SAROO:
 | Winning Post 3 - Program '98                              | :jp:   | :question:                           | TODO                                             |
 | Winning Post EX                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7606G/01/README.md)       |
 | Winter Heat                                               | :eu:   | :question:                           | TODO                                             |
+| Winter Heat (Demo)                                        | :eu:   | :question:                           | TODO                                             |
 | Winter Heat                                               | :jp:   | :question:                           | TODO                                             |
 | Winter Heat                                               | :us:   | :hammer_and_wrench: :checkered_flag: | [Link](Regions/USA/MK-81129/README.md)           |
 | WipEout                                                   | :eu:   | :question:                           | TODO                                             |
 | WipEout                                                   | :jp:   | :question:                           | TODO                                             |
 | WipEout                                                   | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-18601H/01/README.md)        |
 | WipEout 2097                                              | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/T-11308H-50/01/README.md)  |
+| WipEout 2097 (Demo)                                       | :eu:   | :question:                           | TODO                                             |
 | WipEout XL                                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-18619G/01/README.md)      |
 | With You: Mitsumete Itai                                  | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-20117G/01/README.md)      |
 | Wizard's Harmony                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-22001G/01/README.md)      |
@@ -1842,6 +2083,7 @@ Other links related to SAROO:
 | Wizardry Llylgamyn Saga                                   | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-38601G/README.md)         |
 | Wizardry Nemesis                                          | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-37001G/01/README.md)      |
 | Wizardry VI & VII Complete                                | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1306G/01/README.md)       |
+| Wizardry VI & VII (Demo)                                  | :jp:   | :question:                           | TODO                                             |
 | Wolf Fang SS Kuuga 2001                                   | :jp:   | :100:                                | [Link](Regions/Japan/T-26105G/README.md)         |
 | Wonder 3 Arcade Gears                                     | :jp:   | :100:                                | [Link](Regions/Japan/T-26107G/README.md)         |
 | World Advanced Daisenryaku: Koutetsu no Senpuu            | :jp:   | :minidisc: 3x                        | [Link](Regions/Japan/GS9025/01/README.md)        |
@@ -1871,14 +2113,15 @@ Other links related to SAROO:
 
 ### X
 
-| Name                         | Region   | Status             | Details                                        |
-| ---------------------------- | -------- | ------------------ | ---------------------------------------------- |
-| X Japan - Virtual Shock 001  | :jp:     | :minidisc: 2x      | [Link](Regions/Japan/GS-9023/01/README.md)     |
-| X-Men - Children of the Atom | :eu:     | :heavy_check_mark: | [Link](Regions/Europe/T-8108H-50/01/README.md) |
-| X-Men - Children of the Atom | :jp:     | :100:              | [Link](Regions/Japan/T-1203G/README.md)        |
-| X-Men - Children of the Atom | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-8108H/01/README.md)       |
-| X-Men vs. Street Fighter     | :jp:     | :minidisc: 3x      | [Link](Regions/Japan/T-1226G/README.md)        |
-| Xianjian Qixiazhuan          | :taiwan: | :heavy_check_mark: | [Link](Regions/Taiwan/T-37401H/01/README.md)   |
+| Name                                | Region   | Status             | Details                                        |
+| ----------------------------------- | -------- | ------------------ | ---------------------------------------------- |
+| X Japan - Virtual Shock 001         | :jp:     | :minidisc: 2x      | [Link](Regions/Japan/GS-9023/01/README.md)     |
+| X-Men - Children of the Atom        | :eu:     | :heavy_check_mark: | [Link](Regions/Europe/T-8108H-50/01/README.md) |
+| X-Men - Children of the Atom        | :jp:     | :100:              | [Link](Regions/Japan/T-1203G/README.md)        |
+| X-Men - Children of the Atom (Demo) | :jp:     | :question:         | TODO                                           |
+| X-Men - Children of the Atom        | :us:     | :heavy_check_mark: | [Link](Regions/USA/T-8108H/01/README.md)       |
+| X-Men vs. Street Fighter            | :jp:     | :minidisc: 3x      | [Link](Regions/Japan/T-1226G/README.md)        |
+| Xianjian Qixiazhuan                 | :taiwan: | :heavy_check_mark: | [Link](Regions/Taiwan/T-37401H/01/README.md)   |
 
 ### Y
 
@@ -1889,8 +2132,11 @@ Other links related to SAROO:
 | Yoshimura Shougi                      | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-9531G/01/README.md)  |
 | Yoshiyuki Sadamoto Illustrations      | :jp:   | :x:                | [Link](Regions/Japan/T-35102G/01/README.md) |
 | Yumimi Mix Remix                      | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-4501G/01/README.md)  |
+| Yumimi Mix Remix (Demo)               | :jp:   | :question:         | TODO                                        |
 | Yuukyuu Gensoukyoku                   | :jp:   | :minidisc: 2x      | [Link](Regions/Japan/T-27804G/01/README.md) |
+| Yuukyuu Gensoukyoku (Demo)            | :jp:   | :question:         | TODO                                        |
 | Yuukyuu Gensoukyoku 2nd Album         | :jp:   | :minidisc: 2x      | [Link](Regions/Japan/T-27807G/01/README.md) |
+| Yuukyuu Gensoukyoku 2nd Album (Demo)  | :jp:   | :question:         | TODO                                        |
 | Yuukyuu Gensoukyoku Ensemble          | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-27808G/01/README.md) |
 | Yuukyuu Gensoukyoku Ensemble 2        | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-27809G/01/README.md) |
 | Yuukyuu no Kobako Official Collection | :jp:   | :minidisc: 2x      | [Link](Regions/Japan/T-27806G/01/README.md) |
@@ -1944,4 +2190,3 @@ Other links related to SAROO:
 | Slide Hop                             | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/SLIDE_HOP/01/README.md)               |
 | Sonic X-Treme (homebrew version)      | :heavy_check_mark: | [Link](Regions/Homebrews/MINESWPR/SONIC_XTREME/01/README.md)         |
 | Utenyaa~                              | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/UTENYAA/01/README.md)                 |
-| X-Men Arcade                          | :heavy_check_mark: | [Link](Regions/Homebrews/EMPTY/XMEN_ARCADE/README.md)                |
