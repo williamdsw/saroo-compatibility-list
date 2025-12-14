@@ -591,6 +591,11 @@ Other links related to SAROO:
 | Galaxy Fight: Universal Warriors                         | :jp:   | :100:                                | [Link](Regions/Japan/T-1510G/README.md)        |
 | Gale Racer                                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9003/01/README.md)     |
 | Gals Panic SS                                            | :jp:   | :100:                                | [Link](Regions/Japan/T-29002G/README.md)       |
+| Game-Ware                                                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17002G/01/README.md)    |
+| Game-Ware Vol. 2                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17003G/01/README.md)    |
+| Game-Ware Vol. 3                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17004G-T/01/README.md)  |
+| Game-Ware Vol. 4                                         | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-17005G/01/README.md)    |
+| Game-Ware Vol. 5                                         | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-17006G/01/README.md)    |
 | Game Nihonshi: Kakumeiji Oda Nobunaga                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7633G/01/README.md)     |
 | Game Tengoku                                             | :jp:   | :100:                                | [Link](Regions/Japan/T-5712G/README.md)        |
 | Game de Seishun                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-19711G/01/README.md)    |
