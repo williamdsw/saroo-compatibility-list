@@ -6,6 +6,12 @@
 
 ### 25 Games - 10 Tested
 
+| Name      | Region | Status             | Details                                            |
+| --------- | ------ | ------------------ | -------------------------------------------------- |
+| 2Tax Gold | :jp:   | :heavy_check_mark: | [Link](Regions/Retails/Japan/T-4305G/01/README.md) |
+
+### 25 Software - 10 Tested
+
 - [Cleaning Kit for Sega Saturn (USA)](../../Regions/Softwares/USA/T-25901H/01/README.md)
 - [Dezaemon 2 (Japan)](../../Regions/Softwares/Japan/T-16804G/01/README.md)
 - [EGWord (Japan)](../../Regions/Softwares/Japan/T-7626G/01/README.md)

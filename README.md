@@ -281,6 +281,7 @@ Other links related to SAROO:
 | Christmas NiGHTS into Dreams                                     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/610-6431/01/README.md)      |
 | Christmas NiGHTS into Dreams                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81067/01/README.md)        |
 | Civilization: Shin Sekai Shichi Dai Bunmei                       | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-2003G/01/README.md)       |
+| Cleaning Kit for Sega Saturn                                     | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-25901H/01/README.md)        |
 | Cleopatra Fortune                                                | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-1108G/01/README.md)       |
 | ClockWerx                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-22302G/01/README.md)      |
 | Clockwork Knight: Pepperouchau's Adventure                       | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/MK-81007/01/README.md)     |
@@ -434,6 +435,7 @@ Other links related to SAROO:
 | Devil Summoner: Soul Hackers                            | :jp:   | :cd: 2x             | [Link](Regions/Japan/T-14420G/01/README.md)        |
 | Devil Summoner: Soul Hackers: Akuma Zensho Dainishū     | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-14421G/01/README.md)        |
 | Devil Summoner: Soul Hackers Extra Dungeon              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/6106804/01/README.md)         |
+| Dezaemon 2                                              | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-16804G/01/README.md)        |
 | Die Hard Arcade                                         | :eu:   | :question:          | TODO                                               |
 | Die Hard Arcade                                         | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81057/README.md)             |
 | Die Hard Trilogy                                        | :eu:   | :heavy_check_mark:  | [Link](Regions/Europe/T-16103H/01/README.md)       |
@@ -490,6 +492,8 @@ Other links related to SAROO:
 
 | Name                                               | Region | Status             | Details                                      |
 | -------------------------------------------------- | ------ | ------------------ | -------------------------------------------- |
+| EGWord                                             | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/T-7626G/01/README.md)   |
+| EGWord Ver 2.00                                    | :jp:   | :question:         | TODO                                         |
 | Earthworm Jim 2                                    | :eu:   | :question:         | TODO                                         |
 | Earthworm Jim 2                                    | :jp:   | :question:         | TODO                                         |
 | Earthworm Jim 2                                    | :us:   | :x:                | [Link](Regions/USA/T-13203H/README.md)       |
@@ -513,6 +517,7 @@ Other links related to SAROO:
 | Eve - Burst Error                                  | :jp:   | :cd: 4x            | [Link](Regions/Japan/T-15022G/01/README.md)  |
 | Eve - The Lost One                                 | :jp:   | :cd: 4x            | [Link](Regions/Japan/T-15035G/01/README.md)  |
 | Exhumed                                            | :eu:   | :heavy_check_mark: | [Link](Regions/Europe/MK-81084/01/README.md) |
+| Eyeful Home                                        | :jp:   | :heavy_check_mark: | [Link](Regions/Japan/GS-9083/README.md)      |
 
 ### F
 
@@ -599,6 +604,7 @@ Other links related to SAROO:
 | Game-Ware Vol. 3                                         | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-17004G-T/01/README.md)  |
 | Game-Ware Vol. 4                                         | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-17005G/01/README.md)    |
 | Game-Ware Vol. 5                                         | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-17006G/01/README.md)    |
+| Game Basic for Sega Saturn                               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-2111G/01/README.md)     |
 | Game Nihonshi: Kakumeiji Oda Nobunaga                    | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-7633G/01/README.md)     |
 | Game Tengoku                                             | :jp:   | :100:                                | [Link](Regions/Japan/T-5712G/README.md)        |
 | Game de Seishun                                          | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-19711G/01/README.md)    |
@@ -664,6 +670,7 @@ Other links related to SAROO:
 
 | Name                                                              | Region | Status              | Details                                          |
 | ----------------------------------------------------------------- | ------ | ------------------- | ------------------------------------------------ |
+| Habitat II                                                        | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/GS-7105/README.md)          |
 | Hang On GP '95                                                    | :jp:   | :minidisc: 2x       | [Link](Regions/Japan/GS-9032/README.md)          |
 | Hang On GP '96                                                    | :eu:   | :question:          | TODO                                             |
 | Hang-On GP                                                        | :us:   | :heavy_check_mark:  | [Link](Regions/USA/MK-81202/01/README.md)        |
@@ -677,6 +684,7 @@ Other links related to SAROO:
 | Heartbeat Scramble                                                | :jp:   | :hammer_and_wrench: | [Link](Regions/Japan/T-15014G/README.md)         |
 | Heart of Darkness (Proto)                                         | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/999999999__PROTO/README.md) |
 | Hebereke's Popoitto                                               | :eu:   | :hammer_and_wrench: | [Link](Regions/Europe/T-1502H/README.md)         |
+| Heim Waltz                                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/GS-9121/01/README.md)       |
 | Heir of Zendor - The Legend and The Land                          | :us:   | :heavy_check_mark:  | [Link](Regions/USA/T-7605H/01/README.md)         |
 | Heisei Tensai Bakabon Susume! Bakabons                            | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-17001G/01/README.md)      |
 | Heiwa Pachinko Soushingeki                                        | :jp:   | :heavy_check_mark:  | [Link](Regions/Japan/T-18702G/01/README.md)      |
@@ -1035,6 +1043,7 @@ Other links related to SAROO:
 | Nanatsu Kaze no Shima Monogatari                                      | :jp:          | :cd: 2x             | [Link](Regions/Japan/T-35501G/01/README.md)  |
 | Nanatsu no Hikan                                                      | :jp:          | :cd: 3x             | [Link](Regions/Japan/T-7616G/01/README.md)   |
 | Nekketsu Oyako                                                        | :jp:          | :100:               | [Link](Regions/Japan/T-1802G/README.md)      |
+| NetLink Custom Web Browser                                            | :us:          | :minidisc: 2x       | [Link](Regions/USA/T-319-01H/01/README.md)   |
 | Next King - Koi no Sennen Oukoku                                      | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/T-13328G/01/README.md)  |
 | NiGHTS into Dreams...                                                 | :eu:          | :x:                 | [Link](Regions/Europe/MK-81020/01/README.md) |
 | NiGHTS into Dreams...                                                 | :jp:          | :heavy_check_mark:  | [Link](Regions/Japan/GS-9046/01/README.md)   |
@@ -1095,6 +1104,7 @@ Other links related to SAROO:
 | PGA Tour 97                                           | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-5011H/01/README.md)       |
 | Pachi-Slot Kanzen Kouryaku Uni-Colle'97               | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-36501G/01/README.md)    |
 | Pachinko Hall Shinsou Daikaiten                       | :jp:   | :x:                                  | [Link](Regions/Japan/T-37501G/01/README.md)    |
+| Pad Nifty                                             | :jp:   | :question:                           | TODO                                           |
 | Pad Nifty 1.1 & Habitat II                            | :jp:   | :question:                           | TODO                                           |
 | Pandemonium!                                          | :eu:   | :heavy_check_mark:                   | [Link](Regions/Europe/MK-8109050/01/README.md) |
 | Pandemonium!                                          | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/T-15914H/01/README.md)      |
@@ -1119,6 +1129,8 @@ Other links related to SAROO:
 | Pebble Beach Golf Links                               | :us:   | :heavy_check_mark:                   | [Link](Regions/USA/MK-81101/01/README.md)      |
 | Pebble Beach Golf Links - Stadler ni Chousen          | :jp:   | :question:                           | TODO                                           |
 | Phantasm                                              | :jp:   | :cd: 8x                              | [Link](Regions/Japan/T-36001G/01/README.md)    |
+| Photo CD Operating System (2S)                        | :eu:   | :question:                           | TODO                                           |
+| Photo CD Operating System                             | :eu:   | :question:                           | TODO                                           |
 | Photo Genic                                           | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-1524G/01/README.md)     |
 | Pia Carrot e Youkoso!!                                | :jp:   | :hammer_and_wrench:                  | [Link](Regions/Japan/T-19708G/01/README.md)    |
 | Pia Carrot e Youkoso!! 2                              | :jp:   | :cd: 2x                              | [Link](Regions/Japan/T-20114G/01/README.md)    |
@@ -1295,6 +1307,7 @@ Other links related to SAROO:
 | Saturn Bomberman                                                                                    | :jp:     | :100:                                | [Link](Regions/Japan/T-14302G/README.md)            |
 | Saturn Bomberman                                                                                    | :us:     | :100:                                | [Link](Regions/USA/MK-81070/README.md)              |
 | Saturn Bomberman Fight!!                                                                            | :jp:     | :100:                                | [Link](Regions/Japan/T-14321G/README.md)            |
+| Saturn CG Selection Vol. 1 (Rev A)                                                                  | :jp:     | :question:                           | TODO                                                |
 | Saturn Music School                                                                                 | :jp:     | :question:                           | TODO                                                |
 | Saturn Music School 2 (Rev A)                                                                       | :jp:     | :question:                           | TODO                                                |
 | Savaki                                                                                              | :jp:     | :100:                                | [Link](Regions/Japan/T-5208G/README.md)             |
@@ -1304,6 +1317,15 @@ Other links related to SAROO:
 | Sea Bass Fishing                                                                                    | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-6009H-50/01/README.md)      |
 | SeaBass Fishing                                                                                     | :jp:     | :question: TODO                      | TODO                                                |
 | SeaBass Fishing 2                                                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-6011G/01/README.md)          |
+| SegaSaturn Electronic Book Operator                                                                 | :jp:     | :question:                           | TODO                                                |
+| SegaSaturn FDD Operator                                                                             | :jp:     | :question:                           | TODO                                                |
+| SegaSaturn: Graphic & Sound Tools for Macintosh                                                     | :jp:     | :question:                           | TODO                                                |
+| SegaSaturn Internet 2                                                                               | :jp:     | :question:                           | TODO                                                |
+| SegaSaturn Internet Vol. 1                                                                          | :jp:     | :question:                           | TODO                                                |
+| SegaSaturn Movie Tools: Cinepak for Sega Saturn (Hybrid Version)                                    | :jp:     | :question:                           | TODO                                                |
+| SegaSaturn Photo CD Operator                                                                        | :jp:     | :question:                           | TODO                                                |
+| SegaSaturn Photo CD Operator (Rev A)                                                                | :jp:     | :question:                           | TODO                                                |
+| SegaSaturn SGL Tool Kit: Sega 3D Game Library                                                       | :jp:     | :question:                           | TODO                                                |
 | Sega Ages: After Burner II                                                                          | :jp:     | :100:                                | [Link](Regions/Japan/GS-9109/README.md)             |
 | Sega Ages: Columns Arcade Collection                                                                | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9161/01/README.md)          |
 | Sega Ages: Fantasy Zone                                                                             | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/GS-9136/01/README.md)          |
@@ -1471,6 +1493,7 @@ Other links related to SAROO:
 | Space Jam                                                                                           | :eu:     | :question:                           | TODO                                                |
 | Space Jam                                                                                           | :jp:     | :question:                           | TODO                                                |
 | Space Jam                                                                                           | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-8125H/01/README.md)            |
+| Special Disc with SegaSaturn Internet 2                                                             | :jp:     | :question:                           | TODO                                                |
 | Spot Goes to Hollywood                                                                              | :eu:     | :question:                           | TODO                                                |
 | Spot Goes to Hollywood                                                                              | :jp:     | :question:                           | TODO                                                |
 | Spot Goes to Hollywood                                                                              | :us:     | :heavy_check_mark:                   | [Link](Regions/USA/T-7001H/01/README.md)            |
@@ -1534,6 +1557,7 @@ Other links related to SAROO:
 | Super Tempo                                                                                         | :jp:     | :x:                                  | [Link](Regions/Japan/T-26413G/01/README.md)         |
 | Swagman                                                                                             | :eu:     | :heavy_check_mark:                   | [Link](Regions/Europe/T-11502H-5/01/README.md)      |
 | Sword & Sorcery                                                                                     | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/T-5202G/01/README.md)          |
+| System-Disc (KD02) Columbia                                                                         | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/SEGASYSTEM/01/README.md)       |
 
 ### T
 
@@ -1742,6 +1766,7 @@ Other links related to SAROO:
 | Virtua Fighter Remix                                    | :jp:   | :minidisc: 4x                        | [Link](Regions/Japan/GS-9039/README.md)        |
 | Virtua Fighter Remix                                    | :kr:   | :question:                           | TODO                                           |
 | Virtua Fighter Remix                                    | :us:   | :100:                                | [Link](Regions/USA/MK-81023/README.md)         |
+| Virtua Navi V.2.00                                      | :jp:   | :skull:                              | [Link](Regions/Japan/SEGASYSTEM/01/README.md)  |
 | Virtua Photo Studio - Cameraman Simulation              | :jp:   | :heavy_check_mark:                   | [Link](Regions/Japan/T-8103G/01/README.md)     |
 | Virtua Racing                                           | :eu:   | :question:                           | TODO                                           |
 | Virtua Racing                                           | :jp:   | :question:                           | TODO                                           |
