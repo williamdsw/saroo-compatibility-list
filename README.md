@@ -41,12 +41,12 @@ Other links related to SAROO:
 | :fr:     | France      | 21    | 0      |
 | :de:     | Germany     | 23    | 2      |
 | :it:     | Italy       | 1     | 0      |
-| :jp:     | Japan       | 1325  | 1017   |
+| :jp:     | Japan       | 1325  | 1029   |
 | :kr:     | South Korea | 9     | 1      |
 | :es:     | Spain       | 2     | 0      |
 | :taiwan: | Taiwan      | 4     | 4      |
 | :us:     | USA         | 280   | 256    |
-|          | Total       | 1.958 | 1.392  |
+|          | Total       | 1.958 | 1.404  |
 
 ## Status
 
@@ -1462,24 +1462,18 @@ Other links related to SAROO:
 | Saturn CG Selection Vol. 1 (Rev A)                                                                  | :jp:     | :question:                           | TODO                                                   |
 | Saturn Music School                                                                                 | :jp:     | :question:                           | TODO                                                   |
 | Saturn Music School 2 (Rev A)                                                                       | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (1M)                                      | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Henshuubu Hen - Taikenban Saturn Soft Taizen (2M)                                      | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 1 (6M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 1 (7M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 1 (8M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 2 (1M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 2 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 2 (6M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 3 (Rev A) (3M)                                                                    | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 4 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 5 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 6 (1M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 6 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 7 (2M)                                                                            | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 8                                                                                 | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 9 Furoku CD-ROM                                                                   | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 10 Furoku CD-ROM (2M, 3M)                                                         | :jp:     | :question:                           | TODO                                                   |
-| Saturn Super Vol. 11 Furoku CD-ROM                                                                  | :jp:     | :question:                           | TODO                                                   |     |
+| Saturn Super Henshuubu Hen: Taikenban Saturn Soft Taizen                                            | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/610602004/README.md)              |
+| Saturn Super Vol. 1                                                                                 | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/610602001/README.md)              |
+| Saturn Super Vol. 2                                                                                 | :jp:     | :minidisc: 3x                        | [Link](Regions/Japan/610602002/README.md)              |
+| Saturn Super Vol. 3                                                                                 | :jp:     | :x:                                  | [Link](Regions/Japan/610602003/README.md)              |
+| Saturn Super Vol. 4                                                                                 | :jp:     | :x:                                  | [Link](Regions/Japan/610602005/README.md)              |
+| Saturn Super Vol. 5                                                                                 | :jp:     | :x:                                  | [Link](Regions/Japan/610602006/README.md)              |
+| Saturn Super Vol. 6                                                                                 | :jp:     | :minidisc: 2x                        | [Link](Regions/Japan/610602007/README.md)              |
+| Saturn Super Vol. 7                                                                                 | :jp:     | :x:                                  | [Link](Regions/Japan/610602008/README.md)              |
+| Saturn Super Vol. 8                                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/610602009/README.md)              |
+| Saturn Super Vol. 9 Furoku CD-ROM                                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/610602010/README.md)              |
+| Saturn Super Vol. 10 Furoku CD-ROM                                                                  | :jp:     | :x:                                  | [Link](Regions/Japan/610602011/README.md)              |
+| Saturn Super Vol. 11 Furoku CD-ROM                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/610602012/README.md)              |     |
 | Savaki                                                                                              | :jp:     | :100:                                | [Link](Regions/Japan/T-5208G/README.md)                |
 | Scorcher                                                                                            | :eu:     | :question: TODO                      | TODO                                                   |
 | Scorcher                                                                                            | :us:     | :x:                                  | [Link](Regions/USA/MK-81214/01/README.md)              |
