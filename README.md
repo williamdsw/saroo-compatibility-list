@@ -1422,7 +1422,7 @@ Other links related to SAROO:
 ### S
 
 | Name                                                                                                | Region   | Status                               | Details                                                |
-| --------------------------------------------------------------------------------------------------- | -------- | ------------------------------------ | ------------------------------------------------------ | --- |
+| --------------------------------------------------------------------------------------------------- | -------- | ------------------------------------ | ------------------------------------------------------ |
 | SD Gundam G Century S                                                                               | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-13324G/01/README.md)            |
 | Sakamoto Ryuuma: Ishin Kaikoku                                                                      | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/T-19709G/01/README.md)            |
 | Sakura Taisen                                                                                       | :jp:     | :cd: 2x                              | [Link](Regions/Japan/GS-9037/01/README.md)             |
@@ -1473,7 +1473,7 @@ Other links related to SAROO:
 | Saturn Super Vol. 8                                                                                 | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/610602009/README.md)              |
 | Saturn Super Vol. 9 Furoku CD-ROM                                                                   | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/610602010/README.md)              |
 | Saturn Super Vol. 10 Furoku CD-ROM                                                                  | :jp:     | :x:                                  | [Link](Regions/Japan/610602011/README.md)              |
-| Saturn Super Vol. 11 Furoku CD-ROM                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/610602012/README.md)              |     |
+| Saturn Super Vol. 11 Furoku CD-ROM                                                                  | :jp:     | :heavy_check_mark:                   | [Link](Regions/Japan/610602012/README.md)              |
 | Savaki                                                                                              | :jp:     | :100:                                | [Link](Regions/Japan/T-5208G/README.md)                |
 | Scorcher                                                                                            | :eu:     | :question: TODO                      | TODO                                                   |
 | Scorcher                                                                                            | :us:     | :x:                                  | [Link](Regions/USA/MK-81214/01/README.md)              |
