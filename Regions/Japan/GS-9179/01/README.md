@@ -1,6 +1,6 @@
 # Sega Ages: I Love Mickey Mouse: Fushigi no Oshiro Daibouken & I Love Donald Duck: Georgia Ou no Hihou (Japan)
 
-### [Console Info](../../../../../Info/Consoles/VA13/README.md)
+### [Console Info](../../../../../Info/Consoles/Brazil/VA13/README.md)
 
 ### [Saroo Cartridge Info](../../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 

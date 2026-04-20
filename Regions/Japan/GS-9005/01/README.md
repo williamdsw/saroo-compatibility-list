@@ -1,6 +1,6 @@
 # Shinsetsu Yumemi Yakata: Tobira no Oku ni Dareka ga... (Japan)
 
-### [Console Info](../../../../Info/Consoles/VA13/README.md)
+### [Console Info](../../../../Info/Consoles/Brazil/VA13/README.md)
 
 ### [Saroo Cartridge Info](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 

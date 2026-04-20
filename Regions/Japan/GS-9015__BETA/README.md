@@ -14,7 +14,7 @@
 
 Links:
 
-- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/VA13/README.md)
+- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/Brazil/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 - [Micro SD Card - Lenovo, 128 GB, exFAT](../../../Info/SdCards/Lenovo/128GB/exfat/README.md)
 - [Saturn Region Patcher (SRP)](https://segaxtreme.net/resources/saturn-region-patcher.81/download)

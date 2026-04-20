@@ -21,7 +21,7 @@
 Links:
 
 - [Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-1246G/README.md)
-- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/VA13/README.md)
+- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/Brazil/VA13/README.md)
 - [SAROO Cartridge - Green](../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 - [Micro SD Card - XRayDisk, 128 GB, fat32](../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)
 - [Micro SD Card - Lenovo, 128 GB, fat32](../../../Info/SdCards/Lenovo/128GB/fat32/README.md)

@@ -22,7 +22,7 @@
 Links:
 
 - [Issue ticket on SAROO's official github page](https://github.com/tpunix/SAROO/issues/297)
-- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/VA13/README.md)
+- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/Brazil/VA13/README.md)
 - [SAROO Cartridge - Blue](../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 - [SAROO Cartridge - Black](../../../Info/Cartridges/EpicjoyGameStore/1.3/README.md)
 - [Micro SD Card - Lexar, 64 GB, exFAT](../../../Info/SdCards/Lexar/64GB/exfat/README.md)

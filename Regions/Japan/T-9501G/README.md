@@ -23,7 +23,7 @@ Links:
 
 - [Gokujou Parodius Da! Deluxe Pack (Japan) - Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-9501G/V1.001/README.md)
 - [Gokujou Parodius Da! Deluxe Pack (Japan) (Rev A) - Configuration File](https://github.com/williamdsw/saroo-configuration-list/blob/master/Regions/Retails/Japan/T-9501G/V1.002/README.md)
-- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/VA13/README.md)
+- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/Brazil/VA13/README.md)
 - [SAROO Cartridge - Green](../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 - [Micro SD Card - Lenovo, 128 GB, fat32](../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
 - [Saturn Region Patcher (SRP)](https://segaxtreme.net/resources/saturn-region-patcher.81/download)

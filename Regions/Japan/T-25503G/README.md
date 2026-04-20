@@ -20,7 +20,7 @@
 
 Links:
 
-- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/VA13/README.md)
+- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/Brazil/VA13/README.md)
 - [SAROO Cartridge - Green](../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 - [Micro SD Card - EVO Samsung, 64 GB, fat32](../../../../Info/SdCards/Samsung/64GB/fat32/README.md)
 - [Micro SD Card - XRayDisk, 128 GB, fat32](../../../Info/SdCards/XRayDisk/128GB/fat32/README.md)

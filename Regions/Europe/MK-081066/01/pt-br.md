@@ -2,7 +2,7 @@
 
 # Quake (Europe)
 
-### [Informações sobre o Console](../../../../Info/Consoles/VA13/pt-br.md)
+### [Informações sobre o Console](../../../../Info/Consoles/Brazil/VA13/pt-br.md)
 
 ### [Informações sobre o SAROO](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/pt-br.md)
 

@@ -2,7 +2,7 @@ _For the European version, see [Victory Boxing (Europe)](../../../Europe/T-6005H
 
 # Center Ring Boxing (USA)
 
-### [Console Info](../../../../Info/Consoles/VA13/README.md)
+### [Console Info](../../../../Info/Consoles/Brazil/VA13/README.md)
 
 ### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 

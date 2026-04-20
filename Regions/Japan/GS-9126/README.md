@@ -29,7 +29,7 @@
 
 Links:
 
-- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/VA13/README.md)
+- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/Brazil/VA13/README.md)
 - [SAROO Cartridge - Elite](../../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 - [Micro SD Card - Lenovo, 128 GB, fat32](../../../Info/SdCards/Lenovo/128GB/fat32/README.md)
 - [Micro SD Card - Lexar, 64 GB, exFAT](../../../../Info/SdCards/Lexar/64GB/exfat/README.md)

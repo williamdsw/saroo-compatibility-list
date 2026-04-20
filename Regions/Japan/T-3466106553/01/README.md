@@ -1,6 +1,6 @@
 # Jantei Battle Cos-Player Original Genga-shuu (Japan)
 
-### [Console Info](../../../../Info/Consoles/VA13/README.md)
+### [Console Info](../../../../Info/Consoles/Brazil/VA13/README.md)
 
 ### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 

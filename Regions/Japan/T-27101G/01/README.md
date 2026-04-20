@@ -1,6 +1,6 @@
 # Minami no Shima ni Buta ga Ita: Lucas no Daibouken (Japan)
 
-### [Console Info](../../../../Info/Consoles/VA13/README.md)
+### [Console Info](../../../../Info/Consoles/Brazil/VA13/README.md)
 
 ### [Saroo Cartridge Info](../../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 

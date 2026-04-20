@@ -20,7 +20,7 @@
 
 Links:
 
-- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/VA13/README.md)
+- [Sega Saturn - Tectoy VA13](../../../Info/Consoles/Brazil/VA13/README.md)
 - [SAROO Cartridge - Green](../../../Info/Cartridges/RetroGameParadiseStore/1.32F/README.md)
 - [SAROO Cartridge - Elite](../../../Info/Cartridges/GuangzhouSanStarOnlineShop/1.6/README.md)
 - [Micro SD Card - Lenovo, 128 GB, exFat](../../../Info/SdCards/Lenovo/128GB/exfat/README.md)
