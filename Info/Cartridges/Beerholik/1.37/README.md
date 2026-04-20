@@ -1,43 +1,46 @@
-[English](README.md) | **Português**
+<!-- **English** | [Português](pt-br.md) -->
 
-# SAROO - Model do Cartucho
+**English**
 
-### Informações Gerais
+# SAROO - Cartridge Model
 
-- <b>Proprietário(s):</b> CHAP3L
-- <b>Fornecedor/Loja:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_Dl2XgzD)
-- <b>Versão:</b> 1.32F
-- <b>Modelo:</b> Cartucho Verde
+### General Info
 
-#### Links de Compra (AliExpress)
+- <b>Owner(s):</b> Beerholik
+<!-- - <b>Vendor/Store:</b> [Retro Game Paradise Store](https://s.click.aliexpress.com/e/_Dl2XgzD) -->
+
+- <b>Version:</b> V1.37
+- <b>Model:</b> Black Card
+
+<!-- #### Purchase Links (AliExpress)
 
 - https://s.click.aliexpress.com/e/_DBkI7hz
 - https://s.click.aliexpress.com/e/_Dmz9Rmn
 - https://s.click.aliexpress.com/e/_Dm27GUX
 - https://s.click.aliexpress.com/e/_DFGd6bz
 
-#### Alguns Chips
+#### Some Chips
 
 - ALVC16424S / A1824100 02 / YXD2103D (4 chips)
 - ALTERA Cyclone IV / EPACE6F17CON / G BCAAA12135 / MALAYSIA / VCAAA482 / 3N3G1 4100 (1 chip)
 - SAMSUNG 734 / K4S5116320-UC75 / S5116 WHG022PW (1 chip)
 - STM324750 / VBT6 V / 7824V VQ / PHL 78 322 / ST ARM (1 chip)
 
-#### Imagens
+#### Images
 
-Carcaça Externa:
+Shell Outside:
 
 ![Shell1](Images/Shell1.jpg)
 
-Carcaça Interna:
+Shell Inside:
 
 ![Shell2](Images/Shell2.jpg)
 
-Frente da Placa:
+PCB Front:
 
 ![Card1](Images/Card1.jpg)
 
-Costas da Placa:
+PCB Back:
 
 ![Card2](Images/Card2.jpg)
 
@@ -59,6 +62,6 @@ Costas da Placa:
 
 ![CardDetail5](Images/CardDetail5.jpg)
 
-Luzes:
+Lights:
 
-![Lights](Images/Lights.jpg)
+![Lights](Images/Lights.jpg) -->

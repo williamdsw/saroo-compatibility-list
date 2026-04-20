@@ -4,6 +4,7 @@
 
 ### Informações Gerais
 
+- <b>Proprietário(s):</b> CHAP3L
 - <b>Fornecedor/Loja:</b> [Epicjoy Game Store](https://s.click.aliexpress.com/e/_c3VfULT5)
 - <b>Versão:</b> V1.3
 - <b>Modelo:</b> Cartucho Preto

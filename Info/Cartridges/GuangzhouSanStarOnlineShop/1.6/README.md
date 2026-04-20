@@ -4,6 +4,7 @@
 
 ### General Info
 
+- <b>Owner(s):</b> CHAP3L
 - <b>Vendor:</b> [Guangzhou San Star Online Shop](https://s.click.aliexpress.com/e/_Dmwjf6r)
 - <b>Version:</b> V1.6
 - <b>Model:</b> Blue Card (Elite)

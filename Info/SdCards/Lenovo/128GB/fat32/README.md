@@ -4,6 +4,7 @@
 
 ### General Info
 
+- <b>Owner(s):</b> CHAP3L
 - <b>Vendor/Brand:</b> Lenovo
 - <b>File System:</b> Large FAT32
 - <b>Capacity:</b> 128 GB

@@ -4,6 +4,7 @@
 
 ### General Info
 
+- <b>Owner(s):</b> CHAP3L
 - <b>Vendor/Brand:</b> [EVO Samsung](https://s.click.aliexpress.com/e/_Dm6f9z5)
 - <b>File System:</b> exFAT
 - <b>Capacity:</b> 64 GB

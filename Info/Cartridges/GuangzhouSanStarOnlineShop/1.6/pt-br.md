@@ -4,6 +4,7 @@
 
 ### Informações Gerais
 
+- <b>Proprietário(s):</b> CHAP3L
 - <b>Fornecedor/Loja:</b> [Guangzhou San Star Online Shop](https://s.click.aliexpress.com/e/_Dmwjf6r)
 - <b>Versão:</b> 1.6
 - <b>Modelo:</b> Cartucho Azul (Elite)

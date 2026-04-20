@@ -4,6 +4,7 @@
 
 ### Informações Gerais
 
+- <b>Proprietário(s):</b> CHAP3L
 - <b>Fornecedor/Marca:</b> [XRayDisk](https://s.click.aliexpress.com/e/_Dcz0PBZ)
 - <b>Sistema de Arquivos:</b> Large FAT32
 - <b>Capacidade:</b> 128 GB

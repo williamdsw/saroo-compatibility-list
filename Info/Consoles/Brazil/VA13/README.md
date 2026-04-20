@@ -1,9 +1,12 @@
-**English** | [Português](pt-br.md)
+<!-- **English** | [Português](pt-br.md) -->
+
+**English**
 
 # Sega Saturn Model
 
 ### General Info
 
+- <b>Owner:</b> CHAP3L
 - <b>BIOS Version:</b> V1.00a (1995)
 - <b>Region:</b> US - NTSC or FREE - PAL-M ?
 - <b>Model:</b> HST-3220 (Black - Tectoy)

@@ -4,6 +4,7 @@
 
 ### General Info
 
+- <b>Owner(s):</b> CHAP3L
 - <b>Vendor:</b> [Epicjoy Game Store](https://s.click.aliexpress.com/e/_c3VfULT5)
 - <b>Version:</b> V1.3
 - <b>Model:</b> Black Card

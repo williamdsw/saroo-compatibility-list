@@ -4,6 +4,7 @@
 
 ### Informações Gerais
 
+- <b>Proprietário(s):</b> CHAP3L
 - <b>Fornecedor/Marca:</b> Lexar
 - <b>Sistema de Arquivos:</b> exFat
 - <b>Capacidade:</b> 64 GB

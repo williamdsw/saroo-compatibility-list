@@ -4,6 +4,7 @@
 
 ### General Info
 
+- <b>Owner(s):</b> CHAP3L
 - <b>Vendor/Brand:</b> Lexar
 - <b>File System:</b> exFat
 - <b>Capacity:</b> 64 GB

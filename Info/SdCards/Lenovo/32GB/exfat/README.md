@@ -4,6 +4,7 @@
 
 ### General Info
 
+- <b>Owner(s):</b> CHAP3L
 - <b>Vendor/Brand:</b> Lenovo
 - <b>File System:</b> exFat
 - <b>Capacity:</b> 32 GB
